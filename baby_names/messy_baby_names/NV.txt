@@ -1,1687 +1,1627 @@
-state,sex,year,name,count
-NV,M,2019.0,John,379
-NV,F,2015.0,Jennifer,9
-NV,F,2011.0,Linda,36
-NV,M,1930.0,John,13
-NV,M,1987.0,Jennifer,644
-NV,F,1959.0,Patricia,124
-NV,M,1911.0,John,27
-NV,M,1975.0,Casey,903
- NV , M ,2018.0,James,
-NV,F,1948.0,Casey,25
-NV,F,2004.0,Taylor,426
-NV,M,,Casey,123
-NV,M,1953.0,Casey,108
-NV,F,1929.0,John,146
-NV,F,1962.0,,
- NV ,M,1951.0,Michael,65
-NV,M,1942.0,Robert,
-NV,F,,Casey,797
-NV,M,1948.0,Jordan,139
-NV,,, Linda ,
-NV,M,2015.0,Michael,42
-NV,M,1967.0,Casey,78
-NV,M,1972.0,Casey,668
-NV,F,1993.0,,104
-NV,,1965.0,Linda,411
-NV,M,1984.0,James,583
-NV,F,1924.0,,10
-NV,M,2010.0,Robert,83
-NV,M,1978.0,Michael,33
-NV,F,1917.0,Casey,20
- NV , F ,1946.0,michael,239
- NV ,F,1927.0,Mary,12
-NV,F,2017.0,Jennifer,37
-NV,F,2021.0,Casey,15
-NV,F,1944.0,Jennifer,537
-NV,F,1934.0,Casey,415
-NV,M,1956.0,Jordan,538
-NV,F,1962.0,Casey,184
-,M,1990.0,Casey,450
-NV,F,2012.0,Jennifer,348
-NV,F,2016.0,Jordan,7
-NV,,1958.0,Alex,45
-NV,F,1993.0, Taylor ,210
-NV,M,1943.0,John,18
- NV ,M,1963.0,James,207
-NV, M ,2022.0,Alex,24
- NV ,M,1933.0,John,304
-NV,M,1996.0,,92
- NV ,F,1935.0,Jordan,9
-NV,M,1957.0,Michael,385
-NV,M,1944.0,taylor,396
-NV, M ,1995.0,John,432
-NV,F,2002.0,Jordan,38
-NV,M,2021.0,Robert,6
-NV, F ,1910.0,Mary,18
-NV,M,2004.0,Taylor,112
-NV,F,2001.0,Alex,419
-NV,F,1988.0,Casey,106
-NV,M,1935.0,James,501
-NV,,1982.0,Jordan,
- NV , M ,1999.0,taylor,232
-NV,M,1963.0,Alex,175
-NV,F,1977.0,,350
-NV,M,2014.0,,44
-,,1966.0,Casey,29
-NV,F,1976.0,Casey,46
-NV, F ,1989.0,Patricia,201
-NV,M,1992.0,Taylor,617
-NV,M,1933.0,Alex,9
-NV,F,1997.0,Mary,150
-NV,F,2019.0,patricia,16
-,M,1970.0, James ,53
-NV,F,1944.0,Jordan,321
-NV,,1947.0,Michael,122
-NV,M,1998.0,,93
-NV,M,1945.0,jordan,33
- NV ,M,1954.0, Jordan ,127
-NV,F,1983.0,Alex,556
-NV,F,1973.0,,
-NV,M,1963.0,Robert,199
-NV,F,1978.0,Jordan,81
-NV,F,1927.0,Patricia,34
-NV,F,1926.0,Jennifer,33
-NV,M,2020.0,Taylor,39
-NV,F,1966.0,Mary,236
-NV,F,2012.0,Casey,60
-NV,M,1997.0,Alex,55
-NV, M ,1922.0,Mary,60
-NV,F,1931.0,Mary,162
-NV,F,2011.0,Jennifer,54
- NV ,M,1978.0,James,309
-NV,M,1964.0,James,155
-NV,F,1945.0,Mary,48
-NV,M,1988.0,John,245
-NV,F,1994.0,Linda,255
-NV,M,1948.0,Robert,438
-NV,M,1989.0,Robert,587
-NV, F ,1925.0,Mary,98
-NV,M,1973.0,Taylor,251
-NV,M,1998.0,Casey,37
-NV,M,2013.0,Linda,260
-NV,M,1986.0,Casey,552
-NV,F,1926.0,taylor,217
-NV,F,1955.0,Linda,345
- NV ,F,1998.0,Linda,741
-NV,M,1960.0,Robert,753
-NV,M,1948.0,Alex,15
-NV,F,1920.0,Casey,28
-NV, M ,1971.0,Robert,422
-NV,M,1964.0,,
-NV,F,1971.0,Linda,451
-,F,1969.0,Alex,126
-NV, M ,2011.0,Patricia,216
-,F,1953.0,Linda,79
-NV,F,1976.0,Linda,407
-NV,F,1979.0,Jordan,33
-NV,F,1941.0,,160
-NV,M,1920.0,Robert,31
-NV,M,1996.0,Taylor,363
-NV,F,1972.0,Casey,
-NV,F,1978.0,Casey,355
-NV,M,1982.0,Robert,359
-NV,M,1950.0,Robert,800
-NV,F,1998.0,Mary,251
-NV,F,2005.0,Alex,128
-NV,F,1946.0,linda,345
-NV,F,2000.0,Alex,173
-NV,F,2022.0,Taylor,12
-NV,M,1970.0,Alex,53
-NV,F,1992.0,,347
-NV,F,1951.0,Mary,38
-NV,M,2010.0,Linda,27
-,F,1982.0,james,478
-NV, M ,1944.0,Jordan,314
-NV,F,1956.0,Linda,826
-NV,M,1937.0,Robert,6
-NV,M,1941.0,Robert,25
- NV ,F,1980.0,jordan,656
-NV,M,,taylor,212
-NV,F,1984.0,,65
-NV,F,1991.0,Jordan,511
- NV ,M,1965.0,Michael,101
- NV ,,1997.0,Michael,119
-NV,F,1941.0,Jordan,25
-NV,F,1988.0,Jordan,525
-NV,M,1921.0,Casey,42
- NV ,M,1915.0,,85
-NV,M,1988.0,Michael,164
-NV,F,2014.0,Mary,478
- NV ,F,1958.0,casey,67
-NV,F,2009.0,Taylor,161
-NV,,1986.0,Jordan,512
-NV, F ,2011.0,Casey,1017
-NV,F,2010.0,Patricia,8
-NV,M,1932.0,Casey,141
-NV,M,1922.0,Michael,310
-NV,M,1976.0,Alex,241
-NV,F,1963.0,,252
-NV,F,2019.0,Jordan,572
-NV,F,1998.0,Alex,397
-NV,M,1945.0,John,23
-NV,M,1978.0,Jordan,264
-NV,M,2014.0,Michael,171
-NV,M,2007.0,Robert,35
-NV,M,2017.0,Michael,55
-NV,F,1956.0,Alex,366
-NV, F ,1945.0,Jennifer,161
-NV,M,2008.0,Taylor,518
-NV,F,1973.0,casey,198
-NV,M,2005.0,Michael,39
-NV,F,1961.0,Alex,417
-NV,M,1984.0, Jordan ,216
-NV,M,1926.0, John ,480
-NV,F,1978.0,Jennifer,763
- NV ,F,1973.0,Michael,221
-NV, M ,1921.0,James,8
-NV,M,2000.0,James,111
-,F,1971.0,Jordan,27
-NV,F,1951.0,Alex,1030
-NV,M,1955.0,Taylor,777
-NV,M,1910.0,casey,54
-NV,M,2011.0,Alex,160
-NV,M,2004.0,Robert,551
-, F ,2008.0,Patricia,440
-NV,M,1974.0,John,251
-NV,M,1978.0, Robert ,180
-NV,F,2005.0,Taylor,277
-NV,M,1940.0,John,11
-NV,F,1976.0,Taylor,
- NV ,F,1931.0,Jennifer,80
-NV,F,1963.0,Patricia,173
-NV,M,1974.0,Michael,105
-NV,M,1975.0,Taylor,132
-NV, F ,1919.0,Mary,10
-NV,F,1987.0,Linda,133
-NV,F,2017.0,Alex,311
-NV,M,1918.0,Taylor,18
-NV,,,Jordan,85
-NV, M ,1967.0,Robert,315
-NV, F ,2013.0,Taylor,
-NV,M,1953.0,Alex,101
- NV , M ,1943.0,Robert,243
-NV,M,1930.0,Alex,35
-NV,F,2001.0,Casey,198
-NV,M,1995.0,Alex,118
- NV ,M,1966.0,Jordan,56
-NV,F,1938.0,Taylor,193
-NV,M,1910.0,Jordan,11
-NV,F,1980.0,casey,314
-NV, M ,1939.0,Alex,27
-NV,M,2002.0,Casey,77
- NV ,M,1981.0,Michael,
-NV,F,1952.0,Linda,728
-NV,F,1994.0,Jordan,158
-NV,F,2006.0,Linda,455
-NV, M ,1962.0,Michael,125
-NV,M,1996.0,Michael,537
-NV,M,1974.0,Robert,93
- NV ,F,1981.0,Casey,592
-NV,F,1992.0,Casey,283
-NV,M,1965.0,Robert,144
-NV, M ,1957.0,Jordan,163
-NV,F,1947.0,Alex,210
-,F,1974.0,Robert,353
-NV,F,1954.0,Mary,60
-NV,F,1995.0,Jordan,252
-NV,F,,James,458
-NV,F,1989.0, Linda ,123
-, M ,1956.0,Michael,555
-NV,F,2001.0,Jordan,294
- NV ,F,1952.0,Taylor,63
-NV,F,1994.0,Alex,154
- NV ,M,1998.0,Taylor,1080
-NV,M,1997.0,John,864
-NV,M,2006.0,Taylor,13
-NV,F,1965.0,Jennifer,38
-NV,M,,john,78
-NV, M ,1949.0,James,13
-,F,1974.0,Robert,353
-NV, F ,1996.0,Taylor,871
- NV ,M,,Casey,49
- NV ,M,2003.0,Taylor,307
-NV,F,2010.0,Alex,31
-NV,M,1972.0,James,204
-NV,M,1973.0,James,151
-NV,F,1975.0,Alex,624
-NV,F,1971.0,Alex,
-NV,F,1931.0,Jordan,475
-NV,M,1931.0,Casey,80
-NV,F,1985.0,Casey,
-NV,F,1933.0,Jordan,12
-NV,M,1964.0,Alex,269
-NV,M,1929.0,John,276
-NV,F,1981.0,Mary,117
-,M,2016.0,Casey,133
-NV,F,1920.0,Alex,28
-NV,M,2017.0,Alex,259
-NV,,2000.0,,213
-NV,F,2014.0,,231
-NV,M,1976.0,Taylor,589
-NV,F,2016.0,Mary,39
-NV, M ,1920.0,James,11
-NV,M,1928.0,,
-NV,F,1940.0,Taylor,8
-NV,F,1988.0,Taylor,392
-NV, F ,1988.0,Michael,60
-NV,,1959.0,Casey,157
-NV, F ,1937.0,Jordan,45
-NV,,2009.0,Casey,103
-NV,M,1941.0,John,16
-NV,F,1968.0,Jennifer,337
-NV,F,1934.0,Jennifer,99
-NV,M,1963.0,John,442
- NV ,F,2020.0,,44
-NV,F,,casey,5
-NV, M ,1969.0,James,53
-NV,F,1950.0,Casey,388
-NV,M,1975.0,Alex,343
-NV,M,,John,89
-NV,M,1930.0,Casey,246
-NV,M,1967.0,Michael,30
-NV,F,1953.0,Jennifer,5
-NV,M,1980.0,Jordan,96
-NV,M,1912.0, Robert ,47
-NV,M,1940.0,Casey,8
-NV,F,1967.0,Linda,
-NV,F,1919.0,Linda,71
-NV,M,2010.0,Jordan,
-NV,F,1951.0,Patricia,433
-NV,,1965.0,Taylor,
- NV ,,1990.0,Alex,126
-NV,M,1959.0,Michael,46
-NV,F,1969.0,Jordan,428
-NV,M,1971.0,Jordan,77
-NV,F,1986.0,,810
-NV,F,1911.0,Alex,17
-NV,M,1922.0,Jennifer,5
-NV,F,1955.0,casey,186
- NV ,F,1924.0,Jennifer,39
- NV ,M,1988.0,Casey,488
-NV, F ,1982.0,alex,499
-NV,M,1975.0,Jordan,147
-NV,F,2004.0,Alex,12
-NV,M,1955.0,John,
-NV,M,2002.0,James,22
-,,1950.0,Jordan,220
-,F,1963.0,Jennifer,
-NV,M,2007.0,Michael,71
-NV,M,,John,13
-NV, F ,2002.0,Mary,357
-NV,M,1983.0,Jordan,75
-NV,M,2000.0,Casey,653
-NV,F,,Mary,73
-NV,F,1939.0,Michael,84
-,M,1917.0,Jordan,47
- NV , F ,2002.0,Patricia,107
-NV, M ,1999.0,Michael,635
-NV,F,1966.0,Patricia,265
-NV,,1975.0,James,146
-,M,1987.0,John,
-NV,M,1962.0,Alex,309
-NV,F,1935.0,Mary,87
-NV,F,2004.0,Jennifer,48
-NV,F,1940.0,Casey,484
-NV,M,,James,599
-NV,M,2018.0,Jordan,383
-NV, F ,1939.0,Patricia,1031
- NV ,F,1986.0,Patricia,770
-NV,M,1976.0,,116
-NV,F,1991.0,Linda,132
-NV,F,2021.0,Alex,41
-NV,M,2012.0,Casey,23
-NV,M,1948.0,Casey,60
-NV,F,1957.0,Mary,148
-NV,M,1953.0,,932
-, M ,1931.0,John,9
-NV,M,2008.0,Alex,8
-NV,F,1923.0,Mary,
-NV,M,1968.0,Casey,320
-NV,F,1958.0, Mary ,517
-NV,F,2003.0,Jordan,
-NV,F,2016.0,Linda,151
-NV,F,,Patricia,290
-NV,,1955.0,Taylor,539
-NV,M,1928.0,John,241
-NV, F ,1927.0,,
-,F,1963.0,Linda,157
-NV,M,1911.0,James,35
-NV,F,2022.0,Linda,279
-NV,,1930.0,Casey,70
-NV,F,1957.0,Casey,26
-NV,M,1967.0,Patricia,309
-,M,2022.0,Robert,43
-NV,,1943.0,Jordan,76
-,F,1971.0,Patricia,176
-NV,F,1940.0,Alex,6
-NV,M,1984.0,alex,232
- NV ,M,1959.0,Jordan,40
-NV,F,1959.0,Alex,132
-NV,,2020.0,Alex,612
-NV,M,2013.0,Robert,270
- NV ,M,,Casey,1154
-NV,M,1991.0,Taylor,242
-NV,F,,Taylor,9
-NV,F,1976.0,Alex,181
- NV ,F,1981.0,John,110
-NV,M,1962.0,Robert,673
-NV,F,1954.0,Patricia,365
-NV,F,1990.0,,148
- NV ,M,1955.0,Casey,472
- NV ,F,1999.0,Jordan,160
-NV, F ,1958.0,Patricia,
-NV,F,,Jordan,
-NV,F,2001.0,Jennifer,72
-NV,M,2013.0,James,181
-NV,F,1952.0,Jennifer,11
-NV,M,1981.0,Casey,250
-NV,,1954.0,Jordan,481
-NV,F,1933.0,mary,38
-NV,F,1949.0,Michael,
-NV,M,2013.0,Michael,11
-NV,F,1957.0,Linda,149
-NV,M,1921.0,Casey,42
-NV,M,1917.0,John,58
-NV,F,1982.0,Taylor,105
-NV,M,,John,515
-NV,M,1926.0,Linda,6
-NV, F ,1989.0,Casey,
-NV,F,1964.0,Mary,167
-NV,M,1962.0,James,837
-NV,M,1916.0,James,74
-,M,1986.0,Michael,84
-NV,M,1985.0,John,548
-,M,1965.0, Taylor ,116
-NV,F,2012.0,Patricia,119
-NV,F,,Alex,55
-NV,F,2007.0,Casey,94
-,F,1946.0,Casey,8
-,M,2022.0,Robert,43
-NV,F,,Mary,69
-NV,F,1972.0, Alex ,36
-NV,M,1983.0,Casey,36
-NV,F,2000.0,Mary,41
-NV,F,1977.0, Mary ,119
- NV , M ,2012.0,Alex,60
- NV ,F,1993.0,Casey,151
-NV,M,2017.0,Jordan,34
-NV, F ,1936.0,Linda,61
-NV,M,1953.0,Mary,319
-NV,M,1986.0,Taylor,787
- NV ,F,1995.0,Patricia,656
- NV ,F,1972.0,,120
-,F,1977.0,Casey,223
-NV,M,1966.0,Taylor,773
-NV,M,1990.0,Michael,412
-NV,F,1985.0,Jennifer,17
-NV, F ,2010.0,Mary,104
-NV, M ,1948.0,Taylor,270
- NV ,F,1925.0,Patricia,43
-NV,M,2004.0,jordan,665
-NV,M,2006.0,James,790
-NV,M,1932.0,James,19
-NV,M,1918.0,Robert,157
-NV,M,1920.0,Casey,5
-NV,F,1974.0,Jennifer,40
-NV,F,1978.0,Patricia,1006
-NV,M,,alex,310
-NV,F,,Jennifer,16
-NV,F,2013.0,Patricia,153
-NV,F,1914.0,Taylor,9
-NV, M ,1960.0,Michael,766
-NV,,1983.0,Michael,142
-NV,F,1912.0,,8
-NV,F,1999.0,Taylor,6
-NV,F,1942.0,,8
-NV,F,1910.0,Patricia,28
-NV,F,,Taylor,446
-NV,F,2010.0,Jordan,163
- NV ,F,1942.0,Patricia,10
-NV,M,2022.0, Patricia ,25
-,F,2009.0, Jordan ,193
-,M,1957.0,John,16
-NV,M,1944.0,John,555
-NV,M,1971.0,Alex,100
-NV,F,1942.0,Jennifer,405
-NV,M,2004.0,James,21
-NV,M,1999.0,Casey,910
-NV,M,2007.0,casey,593
-NV,F,1990.0,Taylor,157
-NV,F,,Jennifer,271
-NV,M,2021.0,Alex,89
-NV,M,1967.0,John,158
-NV,F,1987.0, Taylor ,89
-NV,F,1997.0,Casey,84
-, F ,1993.0,Patricia,350
-NV,M,2015.0,John,172
-NV,F,1959.0,James,860
-,M,1997.0,Michael,129
-NV,M,1961.0,Jordan,32
-NV,M,1955.0,Alex,36
-NV,M,1952.0,Taylor,259
-NV,F,1973.0,Jordan,642
-NV,F,1997.0,Linda,155
-NV,M,1984.0, Michael ,789
-NV,M,1998.0,Linda,254
-NV,F,1995.0,Mary,200
-NV, F ,1943.0,Mary,40
-NV, M ,1996.0,Jordan,77
-NV,F,1950.0,Patricia,18
-NV, M ,1940.0,,11
-NV, M ,,Casey,64
-NV,F,1988.0,Jennifer,538
-NV,F,1994.0,Patricia,81
-NV,F,,Casey,12
-NV,F,,Taylor,209
-NV,F,,Alex,85
-NV,F,2008.0,,82
-NV,F,1960.0,jennifer,308
-NV,,1942.0,Mary,42
-NV,F,2022.0,Jennifer,162
-NV,M,1981.0,John,994
-NV,F,2000.0,Jordan,110
-NV,M,2019.0, Alex ,16
-, M ,1949.0,Casey,451
-NV,F,1991.0,Patricia,1105
-NV,M,1922.0,Casey,294
- NV , F ,1980.0,Jennifer,17
-NV,M,1963.0,Michael,722
-NV,F,1974.0,Patricia,35
-NV,M,1927.0,Michael,42
-NV,,2009.0,,129
-NV,M,1983.0,John,86
-NV,F,1921.0,Linda,81
-NV, M ,2005.0,Mary,209
-NV,F,1984.0, Patricia ,105
-,F,,Linda,81
-NV,M,1971.0,Taylor,601
-NV,F,1932.0,Alex,109
-NV,M,1927.0,James,22
-NV,M,2005.0,Jordan,95
- NV ,M,1926.0,Michael,21
-NV, F ,1998.0,,1046
-,F,,Mary,34
-NV,M,1985.0,taylor,616
-NV,M,1966.0,James,497
-NV,M,1965.0,Casey,49
-NV,M,2020.0,Mary,22
-NV,M,2007.0,Jordan,185
-NV,M,1975.0,Casey,903
-NV,F,1951.0,Jennifer,34
- NV ,M,1955.0,Casey,472
- NV ,F,1997.0,Jennifer,499
-NV,M,1968.0, Taylor ,194
-NV,,1913.0,John,106
-NV,,2018.0,Taylor,338
-NV,M,1921.0,Robert,22
-NV,F,2002.0,Taylor,29
-NV,F,1932.0,Robert,69
-NV,F,2004.0,Linda,27
- NV ,M,2005.0,Taylor,435
-NV,,1938.0,James,70
- NV ,F,2007.0,,57
-NV,M,1987.0,Michael,783
-NV,M,1996.0,James,1291
-NV,,1930.0,Mary,72
-NV,M,1934.0,Alex,11
-NV,M,1954.0,Taylor,27
-NV,M,2004.0,john,118
-NV,M,1955.0,Michael,1012
-NV,F,1945.0,linda,11
-NV,F,1925.0,Casey,22
-NV,F,1975.0,patricia,367
-NV,M,1980.0,Taylor,73
-,F,1959.0,Linda,46
-NV,M,1992.0,Robert,353
- NV ,M,2021.0, James ,568
-,F,1940.0,Jordan,66
-,M,1952.0,Casey,126
-,M,1937.0,Taylor,6
-NV,M,2015.0, Alex ,6
-NV, F ,1996.0,Casey,61
-NV,F,1975.0,Mary,62
-NV,F,2000.0,,541
-NV, F ,1977.0,Linda,529
-NV,F,2007.0,Mary,48
-NV,F,1970.0,Patricia,
-NV,F,2001.0,Patricia,412
-NV, F ,1989.0,Jordan,439
-NV, M ,1970.0,Michael,262
-NV,F,,Jordan,632
-NV,F,1983.0,James,725
-NV,M,1991.0, James ,200
-NV,M,1951.0,Alex,862
-NV,F,1941.0,Taylor,32
-NV,F,,Jennifer,42
-NV,M,1934.0,Robert,87
-,F,1933.0,Casey,
- NV ,F,1943.0,Casey,46
-NV,M,1937.0,Casey,143
-NV,M,1947.0,Robert,8
-NV,,1973.0,John,350
-NV, F ,1972.0,Jordan,110
-NV, F ,2018.0,Alex,
-NV,F,1991.0,Casey,239
-NV,F,1994.0,Mary,
-NV,F,1980.0,mary,19
-NV,F,1928.0,Jordan,25
-NV,F,1973.0,John,172
-NV,F,1990.0,Patricia,381
-NV,F,1986.0,casey,56
-NV,F,2011.0,Taylor,304
-NV,M,2014.0,james,21
-NV,M,1961.0,james,99
-NV,F,1997.0,Taylor,37
-NV,M,1941.0,Alex,34
-NV,M,2016.0,Jordan,40
-NV,,1931.0,Patricia,348
-NV,F,1932.0,,115
-NV,M,2021.0,Jordan,148
-NV,F,2003.0,Linda,134
-NV,,2011.0,Michael,300
-NV,M,2012.0,John,6
-NV,F,2012.0,Alex,91
- NV ,F,1932.0,Jennifer,413
-NV,M,1954.0,,764
-NV,F,2020.0,Casey,625
-NV,F,2002.0,Linda,
-NV,,1967.0,James,596
-NV,F,1952.0,Patricia,35
-NV,M,1920.0,Alex,62
-NV, F ,1914.0,Alex,41
-NV,M,1971.0,John,308
- NV ,M,1929.0,Casey,5
- NV ,F,1955.0,Patricia,291
-NV, F ,1956.0,Jordan,445
-NV,F,,Jordan,224
-NV,F,1974.0,Casey,183
-NV, F ,1983.0,Mary,409
-NV,M,2002.0,Michael,317
- NV ,M,1936.0,Casey,7
-NV,M,2000.0,Jordan,46
-NV, M ,1984.0,Robert,79
-NV,M,1953.0,Taylor,16
-NV,F,,Mary,8
-NV,F,,Jordan,91
-NV,F,1972.0,,591
-NV,F,2011.0,Patricia,23
-NV,M,1942.0,taylor,123
-NV,M,1962.0,Jordan,34
-NV,F,1964.0,Linda,457
-NV,F,1952.0,James,685
-NV,F,1982.0,Linda,571
-NV,F,1977.0,Alex,371
-NV,F,2013.0,Jordan,321
- NV ,F,1958.0,Michael,207
-NV,M,,John,23
-NV,M,1914.0, James ,33
-NV,F,1953.0,Patricia,337
-NV,M,1990.0,James,736
-NV,F,1991.0,Jennifer,864
-NV,,1996.0,Alex,214
-NV,M,2015.0, Robert ,792
-,F,1968.0,Alex,42
-NV,M,1942.0,Michael,88
-NV,M,2016.0,Michael,61
-NV,M,2020.0,James,18
-NV,F,,Alex,885
-NV,F,1944.0,Alex,30
-NV,M,1945.0,Casey,67
-NV,,1929.0,Michael,
-NV, F ,1968.0,,89
-NV,M,1946.0,John,156
-NV,M,1919.0,Casey,65
- NV ,F,1977.0,Jordan,233
-NV, F ,1978.0,linda,76
-NV,,2018.0,Taylor,451
- NV ,M,2016.0,Robert,58
-NV,,1932.0,Alex,185
-,M,1977.0,Michael,126
-NV,,,,168
-NV,F,2017.0,Patricia,141
- NV ,F,1999.0,,164
-NV,M,2016.0,Alex,278
-NV,F,2013.0,Mary,114
-NV,F,1946.0,taylor,18
-NV, F ,1981.0,jordan,240
-,F,1992.0,Jennifer,
-NV,F,,Patricia,535
-NV,F,1966.0,Jordan,313
-NV,M,2022.0,,109
-NV,F,1930.0,Jennifer,187
-NV,,1950.0,Taylor,1088
-NV,M,2014.0,Robert,165
-NV,M,1956.0,,370
-NV,F,1930.0,Alex,25
-NV,F,2020.0,Linda,471
-NV,F,1942.0,Casey,261
-NV,M,1965.0,James,89
-NV,F,1955.0,mary,864
-NV,M,,Taylor,809
-NV,M,1966.0,Michael,142
-NV,M,1941.0,Robert,25
-NV,F,1987.0,Jordan,502
-NV,F,,Mary,82
-NV, F ,1971.0,Casey,85
-NV,F,1935.0,Linda,59
-NV,,1990.0,Mary,296
-NV, F ,1948.0,,82
-,F,,Taylor,7
-NV,M,,Taylor,147
-NV, M ,1998.0, Robert ,16
-NV,M,2013.0,Casey,23
-NV,M,,Casey,53
-NV, F ,,Patricia,59
-NV,M,1968.0,Robert,88
-NV, M ,1953.0,James,30
- NV ,M,1991.0,Jordan,253
-NV,M,1941.0,James,93
-NV,M,,Casey,56
-NV,F,1978.0,Taylor,149
-NV,F,2021.0,Mary,29
-NV,M,1965.0,John,265
-NV,M,2021.0,Patricia,120
-NV,F,2018.0,Jennifer,620
-NV,M,1949.0, Jordan ,111
-NV,F,2021.0,Jordan,367
-NV,F,2001.0,Jennifer,72
-NV,M,2007.0,Alex,310
-NV, F ,1927.0,,
-NV, F ,2011.0,Casey,1017
-NV,M,2006.0,Casey,167
-NV,F,1949.0,Patricia,103
-, M ,1947.0,Taylor,9
-NV,M,2005.0,Casey,309
-NV,M,2001.0,Linda,278
- NV ,M,1956.0,robert,455
- NV ,F,2008.0,Casey,204
-NV, F ,1944.0,Linda,58
-NV,F,,Mary,241
-NV,F,1963.0,Jordan,558
-NV,F,1927.0,Taylor,12
-NV, F ,1987.0,Jennifer,184
-NV,M,2018.0,Casey,65
-NV,M,1998.0,Casey,37
- NV ,M,,Robert,512
-NV,M,1998.0,James,436
-NV,F,1925.0,Jennifer,329
-NV,M,2001.0,Alex,89
- NV , F ,1932.0,Jordan,84
- NV ,F,1990.0,James,792
-NV,M,1929.0, Alex ,15
-NV, F ,1984.0,Alex,547
-NV,,1975.0,Michael,694
-NV,M,1959.0,John,37
-NV,M,1984.0,,402
-NV,M,1923.0,Casey,21
-NV,F,1969.0,Mary,34
- NV ,F,1989.0,Alex,
-NV,F,2013.0,Linda,62
-NV,M,1997.0,Taylor,73
- NV ,F,2003.0, Jennifer ,610
-NV,F,2015.0,Linda,36
-NV,F,1968.0,Casey,85
-NV,M,2008.0,James,171
-NV,F,2022.0,Patricia,5
-NV,F,1970.0,Taylor,105
-NV,M,1942.0,Alex,321
-NV,M,1985.0,Jordan,38
-NV,F,1988.0,patricia,752
-,,1933.0,Linda,49
- NV , F ,2008.0,Jennifer,182
-NV,F,,Patricia,345
-NV,M,2021.0,Taylor,422
- NV ,M,1939.0,Casey,447
-NV,F,2011.0,Jordan,77
-NV,M,1996.0,Casey,
-NV,M,1982.0,Michael,639
-NV,M,1938.0,,434
-NV,,2014.0,Linda,85
-NV,F,1918.0,Mary,62
-NV,M,1924.0,John,54
-NV,F,,,584
-NV,M,2017.0,Casey,735
-NV,M,1949.0,Alex,216
-NV,M,1953.0,Robert,278
-NV,F,1929.0,Jordan,43
-NV,M,,James,93
-NV, M ,1985.0,Alex,798
-NV,M,1933.0,Robert,455
-NV,M,1951.0,Robert,345
-NV,F,1963.0,Mary,420
-NV,F,1941.0,Linda,79
-NV,F,1917.0,Taylor,8
-NV, F ,1954.0, John ,263
-NV,M,1976.0,John,1134
-NV,F,1933.0,John,395
- NV ,M,1952.0,Jordan,36
-NV,M,1919.0,Taylor,22
-NV, F ,1976.0,Jennifer,
-NV,M,1979.0,Mary,239
-NV,M,1972.0,Alex,123
-NV,M,2002.0,Alex,1038
-NV, F ,1973.0,Jennifer,26
-NV,F,1997.0,Alex,123
-NV,M,1995.0,Alex,118
-NV,M,1922.0,Alex,105
-NV,F,1959.0,Jennifer,50
-NV,M,1977.0,Taylor,553
-NV, F ,1970.0,Mary,24
-NV,M,,John,494
-NV, M ,1991.0,Linda,937
-NV,M,1992.0,Michael,149
-NV,M,1964.0,Taylor,624
-NV,F,1994.0,Taylor,155
-,M,1990.0,Robert,709
-NV,F,1926.0,,53
-NV,M,1978.0,John,253
-NV,F,1980.0,Taylor,772
-NV,M,1982.0,Jordan,59
-NV,M,1990.0,John,144
-NV,M,1983.0,Taylor,625
-NV,F,1969.0,Linda,157
-NV,F,1953.0,Mary,336
-NV,F,1983.0,Patricia,706
-NV,F,1942.0,Jordan,74
-NV,F,2001.0,Taylor,525
-NV,M,1977.0,Robert,135
-NV,M,1961.0, John ,124
-NV,F,1973.0,Mary,
- NV ,M,1940.0,Robert,294
-NV,M,1913.0,Robert,24
- NV ,M,2005.0,Robert,984
-NV,M,2009.0,Taylor,1029
-NV,F,1923.0, Alex ,34
-NV,M,1985.0,Robert,387
-NV,M,1981.0,Alex,44
-NV,M,1940.0,,23
-NV,F,1943.0, Jennifer ,16
-NV,M,1995.0,Taylor,142
-NV,M,1928.0,Mary,33
-,M,1943.0,Michael,566
-NV,M,2000.0,Taylor,404
-NV,F,1928.0,Patricia,176
- NV , M ,1980.0,Alex,63
-NV,M,1947.0,James,10
-NV,M,,Taylor,13
-NV,F,2010.0,Linda,1076
- NV ,M,2011.0,Robert,8
-NV,M,1964.0,robert,237
-NV,M,1939.0, Michael ,141
-NV,M,2009.0,Robert,63
-NV,F,2009.0,Casey,
- NV ,F,2010.0,James,47
-NV,M,1984.0,John,677
-NV,F,2020.0,Jordan,27
-NV,F,1966.0,Linda,47
-NV,M,2016.0,James,
-,F,,Jennifer,518
-, F ,1960.0,,49
-NV,F,1984.0,casey,267
-NV,,2014.0,John,507
-NV,F,2004.0,Mary,421
- NV ,,1974.0,Jordan,753
-,F,1964.0,Jordan,94
-NV,M,1952.0,,63
-NV,M,1935.0,Jordan,540
-NV,F,1922.0,Patricia,46
-NV,M,1947.0,Jordan,16
-NV,F,1985.0,Taylor,410
-NV,M,2001.0,James,13
-NV,M,,John,53
-NV,M,1995.0,James,424
-NV,M,1958.0,Taylor,21
- NV ,F,2017.0,Mary,5
- NV ,F,1986.0,Linda,424
- NV ,M,2020.0, Casey ,8
-NV,M,1978.0,Alex,64
-NV,F,1932.0,Mary,220
-NV,F,1979.0,Patricia,640
-NV,F,1957.0,Alex,403
-NV,F,2007.0,,10
-NV,F,1973.0,Alex,882
-NV,F,1945.0,Casey,6
-NV,F,2013.0,Alex,110
-NV,F,1946.0,Patricia,464
-NV,M,1952.0,james,576
-NV,M,1932.0,Taylor,14
-NV,M,1979.0,James,601
-NV,M,1969.0,Michael,51
-NV,F,1947.0,Jordan,514
-NV,M,2000.0,Michael,39
-NV,M,2017.0,James,44
-NV,M,,,107
-NV,M,1971.0,Casey,938
-NV,F,1979.0, Linda ,155
-NV,M,1934.0,,101
-NV, F ,1969.0,,318
-NV,F,1920.0,Taylor,50
-NV,F,1984.0,Taylor,56
-NV,F,1913.0,Jennifer,228
-NV,F,1956.0,Casey,93
-NV,M,1985.0,Michael,118
-NV,M,1940.0,Alex,655
-NV,M,2000.0,Robert,139
-NV,M,2001.0,Michael,121
-,M,1981.0,James,584
- NV ,M,1936.0,Alex,29
-NV,M,1961.0,james,99
-NV,F,1967.0,Taylor,821
-NV,F,1953.0,Mary,336
-NV,M,1973.0,Linda,470
-NV,M,,Alex,421
-NV,M,1971.0,James,13
-NV,F,1962.0,Mary,173
-NV, M ,2002.0,patricia,247
-NV,F,1941.0,patricia,300
-NV,M,1994.0,Robert,16
-NV,M,1996.0,John,448
-NV,F,1913.0,Taylor,11
-NV,F,1918.0,Jordan,128
- NV ,M,1975.0,Robert,49
-NV,F,1973.0,Taylor,194
-NV,,1971.0,Michael,829
-NV,M,1926.0,James,23
-NV,F,2018.0,Mary,72
-NV,M,2002.0,John,152
-NV,M,1922.0,John,28
-NV,F,1962.0,Taylor,162
-NV,F,2017.0,Taylor,146
-NV, M ,1968.0,Alex,128
-NV,M,1924.0,Jordan,20
-NV,M,1912.0,Taylor,57
-NV, M ,1987.0,Jordan,410
-NV,F,1948.0, Linda ,46
-NV, M ,1960.0,Alex,103
-NV,,1963.0, Taylor ,16
-NV,M,1961.0,Robert,191
- NV ,M,1972.0,Taylor,147
-NV,F,1963.0,taylor,33
-NV,M,2008.0,John,86
-NV,M,1944.0,Robert,12
-NV,M,1958.0,James,57
-NV,M,1946.0,Robert,136
-NV,M,2006.0,John,202
-NV,F,1961.0,Linda,455
-NV,F,,Taylor,7
-NV,F,1955.0,Alex,544
-NV,F,1919.0,Casey,39
-NV,M,,John,323
-NV,M,1993.0,Robert,
-NV, F ,2001.0,Linda,13
-NV,M,1989.0,Alex,521
-NV,F,1980.0,Linda,
-NV,F,2006.0, Casey ,
-NV,M,1949.0,Robert,126
-NV,F,1949.0,Casey,19
-NV,F,1979.0,Taylor,113
-NV, M ,2017.0,Taylor,9
-NV,M,2021.0,michael,75
-,F,1961.0,,543
-NV,M,1965.0,Alex,652
- NV ,M,, Casey ,284
-NV,M,1989.0,John,356
-NV,M,1977.0,Jordan,365
-NV,M,1979.0,Michael,35
-NV,F,1950.0,Linda,334
-NV, F ,1954.0,Linda,23
-NV,M,1992.0,James,93
-NV,F,2021.0,Linda,520
-NV,M,2001.0,Jordan,226
-NV,M,1982.0,,156
-NV,F,1962.0,Patricia,70
-NV,F,1950.0,,130
-NV,M,1977.0,,
-NV,M,2022.0,James,214
-NV,F,1977.0,Patricia,378
-NV,M,1991.0,Alex,
-NV,M,2004.0,john,118
-NV,M,1910.0,casey,54
-NV,F,,Taylor,50
-NV,M,,James,238
-NV,M,1977.0,Alex,637
-NV,M,2019.0,Jordan,9
-NV,F,1995.0,Casey,254
- NV ,F,1989.0,Alex,
-NV,M,2022.0,Jordan,196
-NV,F,1930.0,jordan,436
-NV,M,,Robert,184
-,M,1987.0,Alex,300
-NV,F,1914.0,Jennifer,19
-NV,M,1984.0,Taylor,10
-NV,,1943.0,Jordan,22
- NV ,M,1950.0,Jordan,276
-NV,M,1957.0, Casey ,24
-NV,F,1951.0,Taylor,59
-NV,M,1943.0,Alex,141
-NV,M,2003.0,John,
-NV, F ,1964.0,Alex,826
-NV,M,1968.0,James,50
-NV,F,2012.0,Jordan,101
-NV,M,2010.0,Robert,83
-NV,F,2016.0,James,42
-NV,F,1987.0, Taylor ,89
-NV,F,1957.0,Jennifer,5
-NV,M,1921.0,Jordan,7
-NV,F,1958.0,,173
-NV,M,1981.0,Taylor,368
-NV,M,1997.0,Casey,26
-NV,M,2003.0,Michael,26
-NV, M ,1985.0,James,26
-NV,F,2007.0,Patricia,60
-NV, F ,1947.0,Jennifer,205
-NV,M,1989.0,Jordan,229
-NV,M,1923.0,Taylor,5
-NV,M,1934.0,John,17
-NV, M ,1929.0,James,39
-NV,F,1972.0,Jennifer,395
-NV,F,2016.0,Casey,613
-NV,F,1940.0,Mary,51
-NV,M,1955.0,Taylor,777
-NV,M,2012.0,James,401
-NV, M ,,James,868
-NV,F,1991.0,Taylor,43
-NV,F,2006.0, Mary ,38
-,F,,Casey,129
- NV , M ,1918.0,Casey,17
-NV,,1957.0,Jordan,192
-NV,M,2009.0,Alex,34
-NV,F,1976.0,Patricia,257
-NV,F,2004.0,,
-NV,M,1987.0,Casey,800
-NV,M,1980.0,James,190
-NV,M,1938.0,Jordan,27
-NV,M,,,197
-NV,F,2017.0,Linda,512
-NV,F,1924.0,Jordan,42
-NV,M,1976.0, Casey ,354
-NV, M ,1974.0,Alex,29
-NV,M,1992.0,casey,739
-NV,M,, Casey ,184
-NV,M,,Jordan,127
-NV,M,1966.0,Jennifer,27
-NV,F,1910.0,Alex,23
-NV,F,1981.0,,102
-NV,F,1923.0,Linda,5
-NV,M,1995.0,Robert,40
-,M,1964.0,Jennifer,68
-NV,F,1952.0,casey,222
-NV,F,1923.0,Jennifer,82
-NV,M,1977.0,John,192
-NV,M,1974.0, Taylor ,129
-NV,M,1969.0,Robert,14
- NV , F ,1939.0,Taylor,289
- NV ,F,1996.0,Jordan,336
-NV,,1999.0,Casey,341
-NV,F,2014.0,Jennifer,31
-NV,M,1937.0,Michael,72
- NV ,M,2009.0,James,235
-NV,M,1980.0,Robert,445
-,M,1980.0,Michael,78
-NV,M,2018.0,John,57
-NV,M,2006.0,Robert,240
-NV,F,1983.0, Taylor ,244
-NV,M,1946.0,,195
- NV ,M,1970.0,Taylor,369
-NV,F,1988.0,Linda,177
-NV,F,1997.0,Patricia,121
-NV,F,2018.0,Patricia,60
-NV,F,1964.0,Taylor,861
-,F,1975.0,Jordan,1071
-NV,F,1940.0,jennifer,542
-NV,F,1957.0,Patricia,12
-,F,1918.0,Alex,37
-NV,,2015.0,Jordan,202
-NV, F ,2005.0,Jennifer,94
-NV, F ,1936.0,Taylor,605
-NV,F,1968.0,Patricia,
-NV,M,1993.0,James,316
-NV,F,1926.0,Jordan,298
-NV,M,1936.0,Michael,11
- NV ,M,1988.0,Jordan,282
-NV,F,1936.0,Patricia,24
-NV,F,1967.0,Mary,433
-NV,F,1988.0,mary,
-NV,F,1914.0,Jennifer,19
-NV,F,1939.0,mary,17
- NV ,F,1949.0,Linda,22
-NV,F,2013.0,Mary,114
-NV,F,1954.0,Jennifer,407
-NV,,1945.0,taylor,21
-NV,,1924.0,Taylor,13
-NV,M,1914.0,Alex,50
- NV ,M,1945.0,Taylor,127
-NV,M,1989.0,Casey,771
- NV ,,,Casey,12
-NV,F,1938.0,Patricia,63
-NV,,1949.0,Jennifer,104
-NV,F,1997.0,,
-NV,M,1945.0,Alex,613
-NV,M,1920.0,Patricia,56
-NV,F,1962.0,Linda,272
-NV,F,1999.0,Patricia,96
-NV,F,1974.0,Linda,710
-NV,F,2018.0,Robert,179
-,M,1972.0,jordan,667
-NV,M,1975.0,John,153
- NV ,F,1916.0,Alex,11
-NV,M,1990.0,Alex,114
- NV ,F,1995.0,Taylor,364
-NV, F ,1994.0,Jennifer,717
-NV,F,1981.0,Taylor,27
-NV,M,1912.0,Jordan,47
-NV,F,2000.0,Taylor,562
-NV,F,2019.0,Casey,715
-NV,F,1975.0,Jennifer,427
-NV,F,1996.0,Linda,1008
-,F,1964.0,,149
-NV,F,1948.0,,773
-NV,M,1992.0,Alex,432
-NV,F,1934.0,Alex,13
-NV,F,2021.0,Alex,41
-NV,,2014.0,Casey,177
-NV,F,1929.0,Taylor,243
-NV,F,1985.0,Alex,422
-,M,1919.0,Alex,148
- NV ,M,1987.0,Taylor,361
- NV ,F,2002.0,Alex,1316
-NV,M,2001.0,Taylor,38
-NV,M,2014.0,Alex,21
-NV, M ,1947.0,Mary,361
-NV,M,1972.0,Robert,85
- NV ,M,1967.0, Jordan ,135
-,M,1990.0,jordan,467
-NV,M,1997.0,Robert,219
-NV,F,1992.0,Taylor,775
-NV,F,1933.0,Alex,31
-NV,F,1994.0,,95
-NV,M,1993.0,Robert,
-NV,F,1935.0,Jennifer,9
-NV,F,1922.0,,7
-,M,1967.0,Alex,108
-NV,M,1973.0,Alex,400
-NV,M,1955.0,james,627
-NV,F,2015.0,Taylor,7
-,M,1957.0,alex,58
-NV,F,1961.0,Mary,696
- NV ,M,1923.0,Robert,47
-NV,M,1983.0,alex,752
- NV ,M,1936.0,Taylor,43
- NV ,F,2005.0,Jordan,252
-NV,M,1914.0,Robert,67
-NV,F,2021.0,Patricia,11
-NV,M,2010.0,John,335
-NV,M,1995.0,Michael,
-NV,M,2019.0,Robert,558
-NV,M,1982.0,Casey,56
-NV,M,1969.0,Jordan,
-NV,F,1969.0,Patricia,432
- NV ,M,1942.0,Casey,269
-NV,F,2000.0,Jordan,110
-NV,F,1936.0,Alex,121
-NV,M,2008.0,Jordan,10
-NV,M,1998.0,,26
- NV ,M,1949.0,John,117
-NV,M,1970.0,Robert,275
- NV ,F,1990.0,Michael,452
-NV, M ,2019.0,James,346
-NV,F,1932.0,Linda,212
- NV ,M,1993.0,John,839
-NV,M,1979.0,,602
-NV,M,2003.0,Robert,456
-NV,F,1938.0,Casey,49
-NV,F,2007.0,Linda,14
-NV, F ,1921.0,Jordan,8
-NV,F,2001.0,Mary,85
-NV,M,1993.0,Casey,556
-NV,M,1969.0,Taylor,104
-NV,M,1921.0,John,
-NV,M,1962.0,Casey,6
-NV, M ,1931.0,Alex,8
-NV, M ,1969.0,Casey,132
-NV,F,1979.0,casey,347
-NV,,1970.0,Casey,834
- NV , F ,1983.0,Linda,41
-NV,M,1922.0,Jennifer,5
-NV, F ,1926.0,Alex,
-,M,1986.0,jordan,97
-NV,F,,Casey,459
-NV, F ,2019.0,mary,47
-NV,F,2012.0, Taylor ,494
-NV,M,1986.0,,151
-NV,F,2013.0,Jordan,321
-NV,F,1966.0,Alex,695
-NV,F,2017.0,Patricia,141
-NV,M,1924.0,Robert,10
-NV,F,1967.0,Casey,211
-NV,M,1991.0,Robert,133
-NV,F,2011.0,Mary,84
- NV ,M,1950.0,James,612
-NV, F ,2014.0, Taylor ,744
-NV,,1927.0,alex,20
-NV,M,2013.0,Alex,52
- NV ,F,1959.0,Mary,1372
-NV,M,1941.0,Taylor,32
-NV,F,2019.0,Jennifer,7
-NV,F,1939.0,Casey,406
-NV,F,1962.0,Alex,12
-NV,M,1930.0,Jordan,714
-NV,F,1948.0,Patricia,101
-NV,F,1951.0,Linda,185
-NV,M,1996.0,,92
-NV,F,1967.0,Jennifer,177
-NV,F,1936.0,Jordan,42
-NV,M,1951.0,Robert,345
-NV,M,1955.0,Robert,110
-NV,F,1961.0,Jennifer,158
- NV ,M,,,103
- NV ,F,1974.0,Taylor,34
-NV,F,2011.0,Alex,9
-NV,F,1993.0,Mary,795
-NV,F,1965.0,Patricia,660
-NV, M ,1979.0,Taylor,220
- NV ,M,1936.0, Jordan ,499
-NV, M ,1982.0,,67
-NV,F,1963.0,Casey,148
-NV,F,1982.0,Casey,1073
-NV,M,1968.0,Casey,320
-NV,M,1972.0,Michael,548
-NV,F,1957.0,Taylor,980
-NV,F,1991.0, John ,153
- NV ,M,2006.0,Michael,36
-NV,F,1983.0,Casey,281
-NV,M,1953.0,Jordan,29
- NV ,M,1928.0,Casey,42
-NV,M,1990.0,Taylor,
-NV, F ,1942.0,Taylor,87
-NV,F,1955.0,Jennifer,176
- NV ,M,2008.0,Casey,288
-NV,M,1998.0,John,566
-NV,M,1978.0,Casey,100
-NV,M,1967.0,Michael,30
-NV,M,1954.0,Robert,738
-NV,F,1992.0,Mary,663
-NV,F,1929.0,Patricia,19
-NV,F,1923.0,Jordan,13
-NV, M ,1970.0,Jordan,463
-NV, M ,1999.0,Jordan,142
-NV,M,1971.0,Jennifer,383
-NV,M,2003.0,Alex,126
-NV, F ,1936.0,Jennifer,24
-NV,F,1980.0,Patricia,361
-NV,M,1936.0,John,175
-NV,F,1985.0,Patricia,158
-NV, M ,1932.0,Jordan,142
-NV,F,2009.0,Alex,39
-,M,1988.0,James,111
-NV,M,1976.0,jordan,49
- NV ,F,2005.0,,201
-NV,F,1993.0,Linda,409
-NV, M ,1938.0,,323
-NV, F ,2004.0,Casey,367
-NV,F,2010.0,Jennifer,150
-NV,M,2005.0,John,499
-NV,M,1917.0, Robert ,8
-,F,2022.0,Mary,46
-NV, F ,1992.0, Robert ,458
-NV,M,,James,908
-NV,F,1972.0,,591
-NV,M,1956.0,James,524
- NV ,F,1990.0,Jordan,127
-,F,1944.0,Taylor,37
- NV ,F,2022.0,Casey,255
-NV,M,2009.0, Michael ,15
-NV,F,2018.0,Jordan,19
-NV,M,1990.0,Patricia,22
-NV,M,1997.0,,107
-NV, M ,1916.0,Taylor,35
-NV,M,1918.0,John,19
-NV,M,2003.0,,34
-NV,M,1951.0,James,9
-NV,M,1935.0, John ,114
-NV,M,1960.0,John,39
-NV,F,1941.0,Mary,457
-NV,M,1998.0,Jordan,537
-NV,F,1924.0, John ,7
- NV ,F,2022.0,Alex,70
-NV,,1919.0,Jordan,136
-NV,M,1979.0,Casey,445
-NV,M,1936.0,James,
-NV,F,2012.0,Linda,14
-NV,M,1991.0,Michael,262
-NV, M ,1968.0,Michael,175
- NV ,F,1945.0,John,55
-,M,2010.0,james,
-NV,,,Linda,285
-NV,F,2020.0,Alex,23
-NV,M,1938.0,Michael,208
-NV,F,2003.0,Mary,48
- NV ,M,1932.0,Robert,32
-NV,M,1986.0,Robert,240
-NV, M ,1939.0,Taylor,439
-NV,M,1979.0,John,141
-NV,M,2016.0,Taylor,71
-NV, M ,1994.0,Alex,30
-NV,F,1939.0,Jordan,18
-NV,M,2011.0,Taylor,15
-NV, F ,1958.0,Linda,13
- NV ,M,2018.0,Michael,207
-NV,M,1958.0,John,764
-NV,F,2005.0,Linda,5
-NV,F,1929.0,Alex,56
-NV,M,1947.0,Casey,131
-NV,F,1960.0,Linda,488
-NV,M,1958.0,Jordan,814
-NV, M ,1947.0,Mary,361
-NV,M,1994.0,Michael,396
-NV,M,,Taylor,328
-NV,M,1995.0,Jennifer,137
-NV,,1980.0,Linda,24
-NV,M,2018.0, Robert ,289
-NV,M,2004.0,Casey,231
-NV,F,,Casey,240
-NV,M,2012.0,Michael,385
-NV,M,1946.0,James,222
-NV,F,2013.0,Jennifer,138
-NV, F ,1943.0,patricia,43
-NV,F,1930.0,Alex,25
-NV,M,,John,91
-NV,,1970.0,alex,635
-NV,M,1951.0,John,144
-NV,M,1993.0,Michael,638
-NV,M,1974.0,John,251
-NV,F,1979.0,Jennifer,148
-,F,2017.0,Jordan,439
-NV, M ,2001.0,John,399
-NV,F,1937.0,michael,158
- NV ,F,1970.0,Casey,
-NV,F,1952.0,jordan,225
- NV ,M,1935.0,,162
-NV,M,1989.0,Taylor,688
-NV,M,2009.0,John,37
-NV,M,1960.0,Jordan,145
-NV,F,1961.0,Casey,310
-NV,M,1966.0,Alex,332
-,M,1966.0,Robert,107
-NV,M,1915.0,James,15
-NV,F,1958.0,Alex,6
-NV,M,2015.0, Patricia ,1193
-NV, F ,1971.0,Taylor,228
-NV,M,1948.0,John,83
- NV ,M,1981.0,,865
- NV ,F,2016.0,Alex,976
- NV ,M,1993.0,Taylor,450
-NV, M ,2001.0, Robert ,132
-NV,F,2005.0,Mary,18
-NV,F,1950.0,Alex,75
- NV ,F,2003.0, Jennifer ,610
-NV,F,,Patricia,115
-NV,M,2008.0,Michael,311
-NV,M,2000.0,John,30
- NV ,M,,patricia,236
-NV,M,2002.0,,6
-NV,F,1971.0,Mary,571
- NV ,M,1993.0,Jordan,14
-NV,F,1962.0,Jennifer,485
- NV ,F,1965.0,Jordan,412
-NV, M ,2013.0,Taylor,
-NV,M,2006.0,Jordan,839
-NV,M,1968.0,John,756
-NV,M,1924.0,Casey,194
-NV,F,,Patricia,526
-NV,F,1925.0, Taylor ,28
-NV,F,1958.0,Taylor,258
- NV ,,1939.0,Patricia,9
-NV,M,,Robert,144
-NV,,1979.0,Jordan,65
-NV,F,1959.0,Jordan,34
-NV, M ,1929.0,James,39
-NV,,,Taylor,12
-NV,M,1931.0,Robert,15
-NV,M,2017.0,Robert,609
-NV,M,2002.0,Robert,108
-NV,M,1946.0,Casey,6
-NV,F,2008.0,Linda,256
-NV,F,1968.0,Mary,208
-NV, F ,,Jordan,
- NV ,,2000.0,Alex,607
-,M,1973.0,Casey,244
-NV,F,2007.0,Taylor,70
-NV,M,1946.0,Jordan,7
-NV,F,1931.0,Alex,118
-NV, F ,1944.0,casey,297
-NV, F ,2008.0, Jordan ,297
-NV,M,1985.0,taylor,616
-NV,M,1945.0,James,59
-NV,M,1994.0,Jordan,344
-,F,,Patricia,294
-NV,F,1949.0,Alex,895
-NV,M,1961.0,Michael,325
- NV , M ,1947.0,Patricia,259
-NV,F,1985.0,Jordan,42
-NV, F ,1934.0,Linda,64
-NV,F,1969.0,Jennifer,107
-,,1975.0,Linda,
-NV,,1968.0, Taylor ,164
-NV,M,1991.0,,278
-NV,F,1922.0,Jordan,118
-NV,F,1950.0,Mary,26
-NV,M,2005.0,James,24
-NV,,1968.0,Linda,319
- NV ,F,1956.0,Mary,372
-NV,F,1934.0, Mary ,751
-NV,M,1928.0,Alex,39
-NV,F,1945.0,Alex,17
-NV,F,1984.0,Jennifer,346
-NV,F,, Jennifer ,47
-NV,M,1963.0,Casey,390
-NV,M,1931.0,Jordan,78
-NV,,,Taylor,44
-NV,F,1954.0,Alex,139
-NV,M,1957.0,James,496
- NV , M ,,Jordan,591
-NV,F,1990.0,Linda,459
-NV,M,1958.0,Casey,19
-NV,M,1967.0,Taylor,202
-NV, M ,1937.0,Jordan,41
-NV,M,1910.0,Michael,10
- NV ,F,1928.0,James,145
-NV,M,1933.0,James,
-NV,M,1987.0,Patricia,858
-NV,M,1946.0,Michael,533
-NV,F,,Linda,19
-NV,F,,linda,47
-NV, M ,1982.0,Taylor,407
-NV,F,2016.0,Taylor,240
-NV,F,1951.0,Jordan,89
-NV, F ,1937.0,alex,608
-NV,F,1938.0,Alex,68
-NV,M,1959.0,Casey,321
-NV, M ,1963.0,Jennifer,144
-NV,F,2020.0,Mary,23
-NV, F ,2006.0,Alex,392
-,M,2016.0,Casey,133
-,F,2012.0,Mary,112
- NV ,F,2008.0,Mary,644
-NV,M,1944.0,Alex,300
-NV,F,1952.0,Mary,214
-NV,M,1973.0,Jordan,272
-NV,M,1964.0,John,1066
-NV,F,1937.0,Patricia,10
-NV,M,1980.0,John,642
-NV,M,1988.0,Taylor,249
-NV,M,1973.0,Robert,677
-NV,F,1994.0,Casey,197
-NV,F,1995.0,Jennifer,
-NV,M,1959.0,James,465
-NV,M,1964.0, Jordan ,955
-NV,F,2009.0,Jennifer,712
-NV, M ,1926.0,Robert,33
-NV,F,1965.0,Casey,170
-NV,,1956.0,Casey,8
-NV,F,1972.0,Taylor,44
-NV, M ,1953.0,Michael,13
-NV,M,2012.0,Jordan,505
-NV,M,1935.0,Robert,28
-NV,M,1986.0,James,271
-NV, M ,1924.0,,22
-NV,M,,John,20
-NV,F,1982.0,Patricia,412
-, M ,2010.0,Casey,281
-NV,F,2008.0,Alex,218
- NV ,M,1949.0,Michael,81
- NV ,F,2006.0,Jordan,55
-,M,1963.0,Jordan,8
-NV,F,1978.0,Alex,126
-NV,M,1962.0,John,32
-NV,F,1937.0,Jennifer,119
-NV,F,1933.0,Taylor,277
-NV,M,2021.0,Linda,84
- NV ,M,2011.0,Jordan,615
-NV,M,,Taylor,
-NV,M,1995.0,Jordan,751
-NV,F,1996.0, Mary ,608
- NV ,M,1989.0, Michael ,98
-NV,,1955.0,Patricia,52
- NV ,F,1990.0,Jennifer,482
-NV,M,1958.0,Robert,
-NV,F,1928.0,Taylor,
-NV,M,1913.0,Michael,40
-NV,F,2019.0,Linda,75
-NV,F,2010.0,Taylor,44
-,M,1979.0,Alex,489
-NV,M,1994.0,James,711
- NV ,,1931.0,Linda,
-NV,F,1989.0,Jennifer,
-NV,F,1938.0,Jordan,41
-NV,F,1987.0,Alex,529
-NV,F,,,393
-NV,M,1968.0,Jordan,484
-NV,F,1951.0,Casey,411
-NV,F,1961.0,Taylor,76
-,M,2002.0, Jordan ,630
-NV,M,1983.0,Robert,855
-NV,M,1956.0,Taylor,15
-NV,M,1958.0,Michael,46
-NV,M,1927.0,Taylor,46
-NV,F,1947.0,Taylor,435
-NV,F,1980.0,Alex,39
-NV,F,1964.0,Casey,82
-NV,F,1934.0,Jordan,867
-NV,F,1966.0,Jordan,313
-NV,M,1960.0,James,74
-NV,M,1937.0,James,89
-NV, F ,1932.0,Patricia,29
-NV,F,1967.0,Alex,467
-NV,F,2000.0,Patricia,242
-NV,M,1954.0,Michael,263
-NV,F,1952.0,alex,340
-NV,F,,Jennifer,617
-NV,M,2014.0,Casey,48
-NV,F,1977.0,Robert,102
-NV,M,1970.0,John,185
-NV,F,1960.0,Patricia,11
-,M,1974.0,Casey,113
-NV,F,1962.0,Jordan,47
-NV,F,1998.0,Casey,
-NV,M,,james,893
-NV,F,2005.0,Casey,21
-NV,M,1933.0,Taylor,26
-NV,F,,Patricia,526
-NV,M,1999.0,John,85
-NV,M,2011.0,John,575
-NV,F,2001.0,Michael,13
-NV,M,1969.0,Alex,225
-NV, F ,2006.0,Taylor,18
-NV,F,1913.0, Patricia ,6
-NV,F,1954.0,Taylor,256
-NV,F,2015.0,Alex,50
-NV,M,2000.0,Casey,653
-NV,,1952.0, Alex ,19
-NV,M,1986.0,Alex,468
-NV,F,2003.0,Alex,276
-NV,F,1928.0,Jennifer,
-NV, M ,,Robert,7
-NV,F,2003.0,Patricia,605
-NV,F,1958.0,Jordan,25
-NV,F,1989.0,Taylor,300
-NV,F,1913.0,Linda,6
-NV, M ,1976.0,Michael,907
-NV,M,1992.0,John,481
- NV ,F,1991.0,Mary,233
-NV,F,2020.0,Taylor,7
-NV,F,1927.0,Alex,7
-NV,M,1952.0,Michael,19
-NV,F,1962.0,Alex,12
-NV,M,1973.0,James,151
-NV,M,2007.0,Taylor,29
-NV,M,1957.0,,199
-NV, M ,1942.0,James,192
- NV , F ,1916.0,patricia,142
-,M,1981.0,Robert,201
-NV,F,1995.0,,1027
-NV,M,2017.0, Mary ,12
- NV ,M,1940.0,James,29
-,M,2003.0,James,153
-NV,F,1984.0,Mary,335
-NV,F,, Jennifer ,110
- NV ,F,1982.0,Jennifer,805
-NV,M,2006.0,Alex,394
- NV ,F,2007.0,,57
-NV, M ,1917.0,James,40
-NV,F,1959.0,Taylor,157
-NV,F,1919.0,patricia,118
-NV,M,1950.0,John,16
-NV,M,1951.0,,122
-NV,F,1993.0,Alex,209
-NV,F,2007.0,Jennifer,8
-NV,F,1981.0,linda,176
-NV, F ,1984.0,Linda,25
-NV,F,1964.0,Robert,231
-NV,M,1943.0,James,336
-NV,F,1930.0,Taylor,130
-NV,F,1946.0,Jennifer,135
-NV,M,1947.0,Alex,
- NV ,F,1944.0,Patricia,103
-NV,F,2003.0,Taylor,220
-NV,M,1996.0,Robert,160
-NV,F,1976.0,Mary,580
-NV,F,1921.0, Jennifer ,32
-NV,F,1970.0,Jordan,1230
-NV,F,1944.0,Mary,219
-NV,,1995.0,Linda,119
- NV ,M,2004.0,,583
-NV,M,1987.0,Robert,85
-NV, M ,1939.0,Taylor,439
-NV,F,1961.0,Jordan,123
-NV,M,1950.0,Michael,433
-NV,F,1991.0,Alex,204
- NV ,F,1970.0,linda,277
-NV,M,1937.0,Alex,52
-NV,M,,Robert,544
-NV,F,1965.0,Alex,163
-NV,M,1964.0,,88
-NV,M,1989.0,Alex,521
- NV ,M,2018.0,Alex,18
-NV,F,1976.0,Jordan,356
-NV,F,1953.0,Casey,64
-NV,M,1981.0,Patricia,6
-NV,F,1953.0,jordan,21
-NV,M,,John,907
-NV,M,1944.0,James,88
-NV,M,1996.0,Robert,160
-NV,F,1930.0,Linda,52
-,F,1939.0,Alex,146
-NV,F,1967.0,,862
-NV, M ,1934.0,Jordan,11
-NV,F,1916.0,Jennifer,34
-NV,M,1926.0,Casey,116
- NV , M ,1931.0,james,15
-NV,,1943.0,Taylor,672
-NV,M,1994.0,Taylor,74
-NV,F,1986.0,Jennifer,290
-NV,M,1942.0,John,16
-NV,M,2014.0,Taylor,6
-NV,M,1939.0,Robert,699
-NV,F,1974.0,Alex,347
-NV,F,1979.0,Mary,
-NV,M,1987.0,James,142
-NV,M,2012.0,Robert,47
-NV,F,1987.0,Mary,107
-NV,M,1920.0,Taylor,45
-NV,M,1951.0,Jordan,18
-NV,M,2019.0,Michael,
- NV ,M,1999.0,Robert,172
-NV,M,1930.0,Robert,32
-NV,M,1962.0,Taylor,45
-NV,F,1999.0,Mary,177
-NV,F,1982.0,Mary,15
-NV,M,1923.0,John,14
-NV,M,2013.0,Jordan,120
-NV,M,1923.0,James,103
-,M,1994.0,Casey,36
-NV,M,1964.0, Jordan ,955
-NV,M,2004.0,Michael,
-NV, F ,1943.0,patricia,43
-NV,,2009.0,Linda,81
- NV ,F,1974.0,Jordan,17
-NV,M,2013.0,John,6
-NV,M,1949.0,Patricia,410
-NV,M,2017.0,John,505
-,M,2010.0,Alex,49
-NV,F,1949.0,Jordan,132
-NV,F,2006.0,Patricia,380
-NV,F,1965.0,Mary,387
- NV , F ,2003.0,Michael,65
-NV,M,2006.0,James,790
-NV,F,1940.0,Patricia,145
-NV,M,1999.0,,232
-NV,F,1938.0,Jennifer,251
-NV,M,1941.0,Casey,596
-NV,M,,Casey,148
-NV,F,1966.0,Jennifer,688
-NV,F,1918.0,Patricia,63
-NV,F,1992.0,Jordan,151
-NV,F,1953.0,Alex,88
-NV,M,1969.0,John,167
-NV,M,1966.0,casey,823
-NV,,1981.0,Alex,10
-NV,M,1988.0,Alex,8
-NV, F ,2015.0,Mary,18
-NV,,1939.0,Jennifer,83
-NV,F,1954.0, Casey ,232
-NV,F,1948.0,Jordan,34
- NV ,M,2003.0,Jordan,273
-NV,M,1949.0,Taylor,121
-NV,M,2013.0,Casey,23
-NV,M,1956.0,John,141
-NV,M,1934.0,James,41
-NV,M,2010.0,Michael,
-NV,M,1997.0,James,14
-NV, M ,1961.0, Alex ,43
-NV,F,1981.0,Michael,696
-NV,M,2005.0,Alex,551
-NV,M,1933.0,Mary,404
-NV,F,1983.0,Jordan,329
-NV,M,2020.0,Robert,226
- NV ,F,1929.0,Linda,69
- NV ,M,1961.0,jennifer,453
-,M,1948.0,James,38
-NV,M,2022.0,Michael,340
-NV, F ,1990.0,Robert,245
-NV,F,1979.0,Alex,314
-NV,F,2002.0,Jennifer,94
-NV,F,1999.0,Linda,29
-NV,M,1944.0,Michael,211
-NV,F,,Alex,11
-NV,F,1999.0,Alex,339
- NV ,F,1986.0, Mary ,
-NV,M,2005.0,John,499
-NV,F,1988.0,Alex,21
-NV,F,1975.0,Taylor,921
- NV ,F,1987.0,Casey,307
-NV,F,1971.0,Jennifer,135
-NV,M,1919.0,Michael,5
-NV,M,,Alex,38
-NV,F,1978.0,Mary,951
-NV,F,2003.0,Casey,14
-NV,F,1987.0,patricia,408
-,F,2006.0, Jennifer ,694
-NV,M,1972.0,john,535
-NV, F ,1934.0,Linda,64
-NV,F,1998.0,Jennifer,270
-NV,F,1917.0,,31
-NV,F,1981.0,Jennifer,267
- NV , M ,1991.0,John,663
-NV,M,2015.0,Casey,436
-NV, F ,1946.0,Mary,199
-NV, F ,1947.0,Casey,
-NV,F,2000.0,Linda,1186
-NV,F,1943.0,Alex,322
-NV,M,1929.0,Taylor,638
-NV, F ,1960.0,Mary,159
-NV,F,1991.0, John ,153
-NV,F,2009.0,mary,52
- NV ,M,2015.0,James,
-NV,F,1986.0,Alex,442
+state,sex,name,count
+NV,F,Jordan,350
+NV,F,Taylor,113
+NV,F,Alex,27
+NV,M,james,76
+NV,F,Alex,74
+NV,F,Jennifer,34
+NV,M,Casey,7
+NV,F,,8
+NV,F,Jordan,16
+NV,M,casey,135
+NV,,Robert,650
+NV,M,John,543
+NV,F,Robert,377
+NV,,Taylor,14
+NV,M,jordan,101
+NV,M, Alex ,449
+NV,M,Alex,696
+NV,,Casey,609
+NV,,Linda,24
+NV,M,Robert,762
+ NV ,M,Taylor,423
+NV,M,John,14
+NV,M,Robert,243
+NV,M,Alex,56
+NV,F,Linda,767
+NV,M,Robert,64
+,,Casey,303
+NV,M,Robert,
+NV,M,James,233
+NV,M,James,14
+NV,M,John,20
+NV,M,Mary,51
+NV,M,John,8
+NV,M,James,366
+NV,F,Casey,44
+NV,M,Taylor,163
+ NV ,M,Michael,9
+NV,M,Jordan,266
+NV,M,alex,353
+NV,M,Michael,463
+NV,F,Casey,23
+NV,M,Robert,189
+NV,M,John,52
+ NV ,M,John,113
+NV,M,Michael,301
+NV,M,Alex,83
+NV,F, Jordan ,88
+NV, M ,Taylor,105
+ NV ,M,Casey,256
+NV,M,James,564
+NV,M,James,158
+NV, M ,,7
+NV,F,Jordan,608
+NV,F,Taylor,6
+NV, M ,Robert,85
+NV,M,Jordan,
+NV,F,Jennifer,101
+ NV ,M,Robert,
+NV,F,Jennifer,25
+NV, M ,Taylor,944
+,F,Taylor,
+ NV ,F,Linda,33
+NV,M,Alex,106
+NV,F,Robert,6
+NV,M,Alex,133
+NV,M,Alex,594
+NV,M,Linda,73
+, M ,Jordan,61
+NV, F ,Linda,659
+NV,F,Taylor,102
+NV,M,Michael,62
+ NV ,M,Jennifer,281
+NV,F,Taylor,98
+NV,M,James,415
+ NV ,F,Alex,466
+NV,F,Casey,343
+NV, M ,Mary,251
+NV,M,Alex,240
+NV,M, Michael ,31
+NV,M,robert,724
+NV,F,Casey,289
+NV,M,Taylor,96
+NV,M,Robert,153
+ NV , F ,Taylor,5
+NV,F,Linda,5
+NV, F ,Linda,551
+ NV ,F,Mary,19
+NV,M,Michael,46
+NV,M,Jordan,233
+NV,F, Jennifer ,18
+NV,M,James,702
+NV,F,Jordan,38
+NV,F,Patricia,189
+NV,M,,
+NV,F,Casey,380
+NV,M,Casey,54
+NV,F, Mary ,22
+NV,M,Jordan,46
+NV,F,Jordan,102
+NV,M,,22
+NV,F,Linda,380
+NV,M,Taylor,7
+,F,Jennifer,28
+NV,M,john,458
+NV,F,Mary,64
+ NV , M ,Taylor,18
+NV,F,Jordan,33
+NV,,Robert,18
+NV,M,Casey,462
+NV,F,Mary,143
+NV,M, Michael ,94
+ NV ,, Michael ,130
+ NV ,F,Patricia,285
+NV,M,Jordan,419
+NV,M,Alex,50
+NV,M,Jordan,42
+NV,F,Taylor,6
+NV,F,Jennifer,191
+NV,M,Casey,43
+NV,F,jennifer,31
+NV,M,Jordan,166
+,F,Taylor,36
+NV,F,Mary,34
+NV,F,,198
+NV,M,James,56
+NV, F ,Alex,225
+NV,F,Linda,95
+NV,F,Taylor,320
+NV,M,James,6
+NV,F, Jordan ,583
+,,Mary,61
+NV,M,,14
+NV,F,Patricia,77
+NV,M,Alex,49
+NV,M,Michael,120
+NV,F,Jennifer,204
+NV,M,James,1255
+NV,F,Patricia,21
+NV,M,Jordan,16
+NV,M,Taylor,20
+ NV ,F,Jordan,44
+NV,M,Jordan,83
+NV,F,Jordan,48
+NV,M,Robert,39
+NV,F,Jennifer,434
+NV,M,Jordan,1335
+NV, F ,casey,11
+ NV ,M,Jordan,276
+NV,M,John,178
+NV,F,Jennifer,689
+NV,F,patricia,144
+NV,M,Alex,71
+NV,F,Casey,
+NV,M,Robert,320
+NV,F,Alex,
+NV,F,Jennifer,29
+NV,M,Taylor,20
+NV,F,Taylor,230
+NV,F,Jennifer,464
+ NV , F ,Linda,28
+NV,M,James,164
+NV,M,Michael,487
+NV,M,Taylor,1183
+NV,M,James,8
+ NV ,F,Linda,108
+NV,M,Taylor,685
+NV,F,Jennifer,363
+NV,F,Jordan,51
+NV,M,John,113
+NV,M,John,608
+NV,F,alex,101
+NV,F,Taylor,31
+NV, M ,Robert,332
+NV,M,Jordan,21
+NV,M,Jordan,250
+NV,F,Alex,39
+NV,M,Linda,483
+NV,F,Casey,18
+NV,M,Alex,22
+NV,M, Casey ,518
+NV,F,Linda,78
+NV,F,Patricia,63
+NV,F,Jennifer,34
+NV,M,taylor,49
+NV,, Linda ,116
+NV, F ,Patricia,207
+NV,F, Jordan ,6
+NV,F,Jordan,124
+NV,M,Robert,707
+ NV ,F,Linda,18
+NV,M,Casey,14
+NV,F,Alex,6
+NV,M,James,429
+NV,F,Jennifer,5
+NV,M,james,118
+ NV ,M, Robert ,212
+NV,F,Casey,783
+NV,F,,54
+NV,F,Alex,7
+NV,M,John,8
+ NV ,F,taylor,70
+NV,M,James,90
+NV, F ,Alex,154
+NV,F,Alex,217
+NV,F,James,74
+NV,F,Casey,446
+NV,F,Linda,499
+NV,M,Michael,366
+NV,F,Jennifer,630
+NV,M,Patricia,313
+NV,M,Jordan,10
+NV,M,Alex,128
+NV,F,Jordan,21
+NV,M,Robert,939
+NV,M,Jordan,21
+NV,F,Alex,29
+NV,M,Alex,297
+NV, F ,Mary,26
+NV, F ,Mary,409
+NV, M ,,151
+NV,M,Jordan,294
+,F,Jennifer,269
+NV,M,Alex,414
+NV,M,Robert,425
+NV,M,Robert,14
+ NV ,M,Casey,116
+NV,F,Linda,121
+NV,M,Alex,8
+NV,M,John,851
+NV,,Jordan,19
+NV,M,Alex,109
+NV,M,Robert,76
+NV,F,Jordan,13
+NV,M,,628
+ NV , M ,John,1492
+NV,F,Patricia,213
+NV,M,Casey,94
+NV,,Alex,12
+NV,F,Taylor,164
+NV,M,Taylor,13
+NV,F,Mary,305
+NV,F,Linda,13
+NV,M,Taylor,
+NV,M,Alex,392
+NV,F,Taylor,113
+ NV ,F,Linda,795
+ NV ,M,Jordan,217
+NV,F,Linda,192
+NV,F,Taylor,142
+NV,M,Alex,117
+NV, F ,Casey,629
+NV,F,Michael,386
+NV,F,Linda,252
+NV,M,James,42
+NV,F,Casey,86
+NV,M,,414
+NV,M, Robert ,118
+NV,M, Alex ,45
+NV,M,James,553
+NV,,Taylor,60
+NV,F,Casey,51
+NV,F,Linda,15
+ NV ,M,Robert,783
+NV,M,Jordan,21
+NV,M,jordan,67
+NV,M,Alex,1105
+NV, F ,Alex,493
+NV,M,Robert,86
+NV,F,Jennifer,
+NV,F,Casey,120
+NV,M,James,73
+ NV ,F,Jennifer,546
+NV,F,Jennifer,661
+NV,M,Jordan,244
+NV,M,Robert,12
+NV,F,,33
+NV,,Mary,15
+NV, M ,Jordan,147
+NV,F,Taylor,1158
+,F,,
+ NV ,F,Patricia,263
+NV,M,John,710
+NV,M,Taylor,421
+NV,M,Casey,70
+ NV ,F,,951
+,F, Mary ,52
+NV, M , James ,84
+NV,M,Jordan,262
+NV,M,,306
+NV,F,Mary,143
+NV,M,John,416
+NV, M ,Jordan,23
+ NV ,F, Taylor ,776
+NV,M,Casey,143
+,,Linda,953
+NV,F,Jennifer,129
+NV, F ,Patricia,454
+NV,M,Taylor,214
+NV,M, Jordan ,671
+NV,F,Jordan,78
+NV,M, James ,240
+NV,M,Michael,615
+NV, F ,Patricia,68
+NV,M,Michael,20
+NV,F,Mary,17
+NV,M,Michael,227
+NV,M,John,23
+ NV ,F,Casey,194
+NV,M,Casey,412
+ NV ,F,Linda,18
+NV,M,Taylor,303
+NV,M,John,223
+NV,F,Jennifer,176
+NV,M,Jordan,89
+NV,F,Jordan,73
+NV,M,Alex,24
+,F,Taylor,78
+ NV , F ,Patricia,139
+NV,F,Alex,121
+ NV ,M,Jennifer,
+NV,F,Jennifer,156
+NV, M ,michael,382
+NV,F,Casey,74
+ NV ,,Mary,240
+NV,,Taylor,96
+NV,M,Casey,30
+NV,M,,181
+NV, F ,Patricia,601
+NV,F,Jordan,190
+,M,John,13
+NV,,Jordan,24
+NV,F, Alex ,361
+NV,F,Mary,146
+NV,M,John,394
+NV,F,Casey,816
+NV,M,Robert,205
+NV,M,Casey,8
+ NV ,F,Jordan,90
+ NV ,F,Alex,39
+NV,M,Jordan,315
+NV,M,Casey,376
+NV,F,,211
+NV, F ,Mary,432
+,F,Jennifer,56
+NV,M,Casey,1046
+NV,F,Alex,6
+NV,M,Taylor,71
+NV, F ,Mary,23
+NV,F,Jordan,57
+NV,F,Jennifer,91
+NV,M,Michael,543
+NV,M,Taylor,357
+NV,F,,74
+NV,F,Mary,571
+NV,F,Jennifer,387
+NV,F, Michael ,66
+NV,M,Casey,382
+NV,M,Robert,12
+NV,M,James,530
+, M ,John,
+NV,M,Michael,504
+ NV ,M,Michael,528
+NV,F, Mary ,123
+ NV , M ,Robert,688
+NV,F,Casey,657
+NV,M,Taylor,191
+NV,,Michael,141
+NV,F,Jordan,269
+NV,M, Casey ,9
+NV, F ,Patricia,285
+NV,F,Linda,192
+NV,M,John,135
+NV,M,Michael,709
+NV,F,Linda,11
+NV,M,Jordan,14
+NV,F,Alex,62
+NV, F ,Taylor,95
+NV, M ,,443
+NV,F,Linda,523
+NV,M,Alex,19
+NV,F,Patricia,836
+ NV ,M,Michael,
+NV,F,Alex,687
+NV,M,John,568
+NV,F,Jordan,79
+NV,F,Casey,651
+NV,M,Taylor,414
+NV, F ,,558
+NV,M,Casey,9
+NV,F,Michael,977
+NV,,Taylor,18
+NV,F,Linda,135
+NV,F,Taylor,12
+NV,M,Casey,23
+NV,F,Patricia,19
+NV,F,James,317
+NV,M,Robert,24
+NV,M,Robert,10
+NV,M,Robert,1065
+NV,M,Robert,207
+NV,M,Alex,809
+NV,F,Alex,17
+NV,F,Linda,207
+ NV ,F,Jennifer,83
+,F,Jennifer,44
+NV,F,Casey,36
+NV,F,,138
+NV,M,Patricia,348
+NV,M, Alex ,45
+NV,M,Alex,
+ NV ,M,Michael,674
+NV,F,Alex,90
+NV,M,Casey,475
+NV,M,Alex,36
+NV,F,Jordan,60
+NV,M,Michael,
+ NV ,F,,531
+ NV ,F,Casey,
+NV,F,Jennifer,359
+ NV ,F,Mary,19
+NV,F,Taylor,397
+NV,F,James,111
+NV,M,John,100
+NV,M,John,445
+NV,M,Casey,286
+NV,M,Alex,422
+NV,F,,44
+NV,,Patricia,882
+, F ,,65
+NV,F,Jordan,48
+NV,M,Jordan,9
+NV,F,Casey,9
+NV,M, John ,78
+NV, M ,Robert,33
+NV,F, Casey ,411
+NV,F,Patricia,77
+NV,M,John,1455
+NV,F, Linda ,482
+NV,M,James,733
+NV,M,Casey,35
+NV,F,James,884
+,M,Michael,133
+ NV ,M,Robert,251
+NV,F,Linda,160
+NV,,Casey,187
+NV,M,Alex,603
+NV,F,Patricia,22
+NV,M,Alex,22
+NV,F,jordan,259
+NV,F,Jennifer,286
+NV,F,Mary,8
+ NV ,F,Taylor,
+NV,M,Alex,517
+NV,M,Taylor,202
+NV, F ,Casey,843
+NV,M,Alex,322
+NV,M,robert,10
+NV,F,Taylor,75
+NV, M ,John,618
+ NV ,M,John,223
+NV,M, Taylor ,116
+NV,F,Taylor,98
+NV,F,Mary,1157
+NV,M,Taylor,12
+NV,M,John,10
+NV,M,John,79
+,F,Casey,23
+NV,F,Taylor,227
+NV,F, Mary ,41
+NV, M ,Michael,129
+NV,,John,9
+NV,M,,128
+NV, M ,Robert,
+NV,F,Casey,358
+NV,M,James,
+NV,F,Patricia,30
+NV,M,Taylor,56
+NV,,Alex,84
+NV,M,taylor,
+NV,F,,
+NV,,Alex,352
+NV,M,James,776
+NV,F,Taylor,434
+NV,F,Patricia,109
+NV,F,Patricia,15
+NV,F,Patricia,24
+NV,F,Jennifer,24
+NV,M,Alex,265
+NV,F,Taylor,630
+NV,M,Michael,78
+NV,F,Patricia,516
+NV,F,Jordan,
+NV,F,Taylor,276
+NV,F,Casey,190
+,F,Jennifer,462
+ NV ,F,Patricia,220
+NV,F,Jordan,47
+ NV ,F,Linda,169
+NV,F,Alex,213
+NV,M,Casey,87
+NV,F,James,381
+NV,M,Jordan,173
+NV,F,Patricia,26
+NV,M,Taylor,983
+ NV ,M,casey,387
+NV, M ,Jordan,628
+NV,F, Jordan ,75
+NV,F,Patricia,11
+ NV ,F,Casey,221
+NV,M,Robert,776
+ NV ,M,John,532
+NV,,,1080
+ NV ,M,Michael,14
+NV,,Linda,934
+ NV , M ,Taylor,10
+NV,F,Taylor,630
+ NV , M ,james,29
+ NV ,M,James,181
+NV,F,Alex,673
+NV, M ,Casey,85
+NV, F ,James,16
+NV,F,Linda,722
+NV,M,Casey,44
+NV,M,John,17
+,F,Linda,84
+NV,M,Jordan,272
+NV,F,Mary,71
+NV,F,Taylor,104
+NV,M,Taylor,70
+ NV ,M,John,296
+NV,M,Casey,11
+NV, M ,James,559
+NV,F, Mary ,41
+NV,M,Alex,54
+NV,F,Linda,379
+NV,M,James,48
+NV,F,Alex,90
+NV,M,Casey,78
+NV,F, Taylor ,7
+NV,M,John,11
+ NV ,M,Jordan,718
+NV,F,,546
+,F,Mary,103
+NV,M,Michael,262
+ NV ,M,Alex,576
+NV,F,Jordan,108
+NV,F,Taylor,25
+ NV ,M,Alex,
+NV,M,Taylor,454
+ NV ,F,Mary,358
+NV,F,Alex,408
+NV,F,Linda,217
+NV,M,Taylor,263
+NV,F,Patricia,279
+NV, F ,Patricia,633
+NV,M,Jordan,830
+NV,F,Jennifer,5
+,M,James,233
+NV,M,James,317
+NV,F,Mary,
+NV,M,Taylor,133
+NV,F,alex,199
+NV,M,Linda,74
+NV,F,Patricia,140
+ NV ,M,Robert,
+NV,M,Casey,67
+NV,F,Casey,518
+NV,F,jordan,71
+NV, M ,James,251
+NV,F,,63
+NV,F,Jordan,33
+NV,M,Jordan,22
+ NV ,M,Michael,314
+NV,M,Taylor,98
+NV,M,Jordan,345
+ NV ,F,Jennifer,1343
+NV,F,Linda,224
+ NV ,M, James ,29
+,M,John,28
+,M,Robert,81
+NV,F,Alex,181
+NV,M,John,
+NV,M,James,410
+NV,M,Alex,809
+ NV ,M,James,25
+NV,F,Casey,38
+NV,F,Taylor,39
+NV,F,Patricia,281
+NV,M,Alex,28
+,F,Linda,388
+NV, F ,Patricia,258
+NV, M ,Michael,60
+NV,F,Jordan,122
+NV,M,Robert,81
+NV,M,James,59
+NV,M,Taylor,377
+NV,F,Jennifer,23
+NV,M,Jordan,81
+NV,M,Alex,363
+ NV ,M,James,13
+NV,M,Casey,
+ NV ,M,Alex,166
+NV,F,Linda,84
+NV,F,Mary,358
+ NV ,F,Jennifer,74
+NV,M,Alex,30
+NV,,Michael,24
+NV, M ,Alex,
+NV,M,Alex,32
+NV,F,Alex,467
+NV,F,Jennifer,595
+NV,F,Jordan,537
+NV,F,Mary,1054
+NV,M,alex,522
+NV,F,Taylor,294
+NV,M,Casey,54
+NV,M,Robert,
+NV,F,,25
+NV,F,Jordan,20
+NV,M,Alex,10
+NV,F,Mary,57
+NV,F,Taylor,
+NV,M,,45
+NV,F,Jennifer,428
+NV,F,Linda,241
+NV,M,Casey,125
+ NV ,F,Jennifer,
+NV,F,Mary,580
+NV,M,Taylor,235
+NV,M,Taylor,
+NV, F ,Patricia,36
+NV,M, Robert ,69
+NV,F,Alex,23
+NV,F,Jordan,114
+NV,M,,675
+NV,M,Taylor,452
+NV, M ,Jennifer,31
+NV,F,Alex,9
+NV,M,Robert,12
+NV,M,james,102
+NV,F,Alex,252
+NV,F,Alex,225
+,M, Alex ,55
+NV,F,,304
+NV,M,Jordan,396
+NV,M,John,171
+NV,F,Patricia,272
+NV,F,Casey,27
+NV, F ,Patricia,664
+NV,M,Taylor,311
+NV,M,Michael,95
+NV,F,Taylor,208
+NV,F,Alex,50
+NV,F,Alex,11
+NV,M,Alex,191
+NV,F,Mary,27
+NV,F,Jordan,132
+NV,F,Alex,119
+NV,M,Casey,239
+NV,F,Jennifer,630
+NV,F,,484
+NV,F,Jordan,651
+,F,Jennifer,530
+NV,M,Alex,502
+NV,F,Casey,125
+NV,F,Mary,184
+NV,,Casey,7
+ NV ,M,Robert,23
+NV, M ,Taylor,6
+NV,F,Linda,6
+NV, M ,robert,799
+NV, F ,,
+NV,M,Alex,6
+NV, F ,Jordan,81
+ NV ,F,Mary,404
+NV,M,Taylor,605
+NV,M,Alex,424
+NV,M,James,180
+NV,M,Jordan,136
+NV,M,Robert,693
+NV,M,James,237
+NV,M,James,
+ NV ,M,Jordan,736
+NV,M,John,5
+NV,,Alex,751
+NV,M, Casey ,324
+ NV ,M,Robert,85
+NV,F,Jordan,300
+NV,M,James,95
+NV,M,Jordan,758
+NV,F,Patricia,
+NV,F,Alex,650
+NV,M,,654
+NV,F,Jennifer,16
+NV, M ,Jordan,17
+NV,F,Patricia,387
+ NV ,,robert,428
+NV,,James,9
+NV, M , Jordan ,270
+NV,M,,9
+NV,M,James,95
+NV,F,Jennifer,13
+ NV ,M,,222
+, F ,,546
+NV,F,Linda,257
+NV,M,,178
+NV,F,Taylor,14
+ NV ,,Jennifer,
+NV,F, Mary ,570
+NV, M ,Michael,25
+NV,M,James,11
+NV,M,Casey,270
+NV, M ,John,133
+NV,M,Casey,617
+NV, M ,Michael,225
+ NV ,F,Jennifer,117
+,F,Taylor,615
+NV,F, Alex ,298
+NV,M,Jordan,183
+NV,F,,14
+NV,F,Casey,
+NV,,Linda,48
+NV,M,Casey,17
+NV,M,,14
+NV,F,Jennifer,328
+NV,F,Patricia,120
+NV,M,jordan,19
+NV,F,Casey,105
+ NV ,F,Alex,9
+NV,M,,605
+,M,John,372
+ NV ,F,Casey,474
+NV,F,Mary,936
+NV, F ,Mary,137
+NV,M,Jordan,459
+NV,F,Mary,131
+NV,F,Jordan,106
+NV,F,Jennifer,62
+NV,M,Casey,311
+, F ,,223
+NV, M ,Michael,
+NV,M,Taylor,152
+ NV ,M,Robert,23
+NV,F,Jennifer,146
+NV,F,Mary,158
+NV,M,John,35
+NV,M,John,496
+NV,F,Taylor,
+NV,M,Robert,117
+ NV ,F,Linda,34
+ NV ,M,Jennifer,281
+NV,M,James,484
+ NV ,F,Patricia,252
+NV,F,Jennifer,162
+NV,M,John,9
+NV,, Michael ,183
+NV,M,Jordan,175
+NV,,jennifer,280
+NV,F,Mary,45
+NV,M,Jordan,154
+NV,M,Michael,46
+NV, F ,Jennifer,579
+NV,F,Jennifer,122
+NV,F,Alex,106
+NV, M ,Michael,1455
+NV,F,Alex,142
+NV,F,Michael,
+NV,,Michael,9
+NV,M,Casey,384
+NV,F,Linda,10
+NV,F,Taylor,361
+,M, Jordan ,28
+NV,M,Taylor,
+ NV ,M,John,310
+ NV ,F,Jennifer,364
+NV,F,Jordan,43
+NV,M,Jordan,29
+NV,M,james,373
+NV, F ,Jennifer,141
+NV, F ,Linda,13
+ NV ,M,John,21
+NV,F,Jordan,342
+,F,Taylor,17
+NV,F,Alex,47
+NV,M,Jordan,365
+NV,M,James,858
+ NV , M ,Michael,12
+ NV ,M,Jordan,399
+NV,F,John,145
+NV,F,Taylor,629
+NV,M,Patricia,628
+,M,John,193
+NV,M,Robert,87
+ NV ,F,Jennifer,47
+NV,M,Taylor,
+NV,F, Mary ,477
+NV,F,Linda,825
+NV,F,Mary,13
+NV,F,Jennifer,6
+NV, M ,James,136
+ NV ,M,Robert,5
+NV,F,Mary,171
+,F,Alex,818
+ NV ,M,Casey,169
+ NV ,F,Linda,246
+NV, F ,Linda,38
+NV,F,Taylor,47
+NV,F,Linda,79
+NV,M,Taylor,135
+NV,F,Jennifer,1196
+NV,F,,336
+NV, F ,Linda,44
+NV,F,Alex,362
+ NV ,F,Jordan,350
+NV,F,Linda,520
+NV,M,Taylor,11
+ NV ,M,John,
+NV,F,Jennifer,936
+NV,M,Jordan,6
+NV,F,Jordan,98
+NV,M,Michael,109
+NV,M,casey,28
+ NV ,F,John,23
+NV,M,Robert,
+NV,F,Taylor,16
+NV,F,Jennifer,406
+NV,M,,38
+NV,M,Casey,311
+,M, Alex ,202
+NV,M,Alex,573
+NV,M,James,896
+NV,M,Robert,360
+NV,F,Casey,159
+,F,Casey,357
+NV,M,Robert,127
+NV,M,Jordan,
+NV,M,Casey,199
+NV,M,John,550
+NV,M,,181
+NV,F,Jordan,166
+NV,M,John,
+NV,F,Mary,375
+NV,,jennifer,472
+ NV ,M,John,81
+ NV ,M,Alex,18
+NV,M,Patricia,340
+NV,F,Casey,34
+NV,F,Casey,5
+NV,F,Jennifer,5
+ NV , M ,Casey,250
+NV,M,Casey,131
+NV,M,Casey,78
+NV,M,Robert,22
+NV,M,James,233
+NV,M,Michael,108
+NV,F,Linda,10
+NV,M, Michael ,389
+NV,F,Jennifer,39
+NV,F,Linda,77
+NV,F,Jennifer,244
+NV,F,Jordan,214
+NV,,Alex,
+NV,M,Jordan,1039
+NV,F,Alex,303
+,M,Robert,140
+,M,Taylor,22
+NV,F,Casey,156
+NV, F ,Jordan,337
+ NV ,F,Casey,160
+ NV ,F,Alex,369
+NV,M,John,66
+NV, F ,Linda,115
+NV,F,Mary,413
+ NV , M ,Robert,938
+ NV ,M,Casey,100
+NV,F, Taylor ,103
+NV,M,Robert,1537
+NV,M,Robert,607
+NV,F, Mary ,15
+NV,F, Patricia ,116
+NV,F,Jennifer,24
+NV,,Robert,407
+NV,M,John,446
+NV,F, Mary ,646
+ NV , F ,Taylor,168
+NV,M,Jordan,160
+NV,M,Michael,163
+NV,F,Jennifer,76
+NV,F,Taylor,130
+NV,M,Jennifer,13
+NV,F,Alex,300
+NV,M,Michael,110
+NV,F,Taylor,13
+NV,M, Robert ,169
+ NV ,M,Jordan,104
+NV,M,John,114
+NV,M,Taylor,
+NV,M,Taylor,847
+NV, M ,michael,25
+NV,M,Robert,419
+NV,F,Patricia,67
+ NV ,F,Alex,170
+NV,F,Jennifer,1196
+NV,M,John,11
+NV,M,Robert,46
+ NV , M ,Casey,354
+NV,M,Casey,275
+NV,M,Robert,749
+NV,M,Taylor,716
+NV,F,Casey,111
+NV,M,James,648
+NV, M ,Robert,595
+NV,F,Robert,524
+NV,M,Alex,62
+NV,F,Alex,5
+NV,M,James,378
+NV,M,Taylor,
+NV, M ,James,243
+,M,Alex,20
+NV,F,casey,59
+NV,M,Alex,
+ NV ,M,John,48
+NV,F,Linda,307
+NV,F,Jordan,385
+ NV ,M,Jordan,13
+NV, F ,casey,52
+NV, M , James ,100
+NV,F,Mary,27
+NV,F,Taylor,36
+NV, F ,Taylor,95
+NV,M,James,245
+NV,M,Casey,161
+NV,M,James,148
+NV,M, Jordan ,252
+NV,M,Alex,813
+NV,F, Patricia ,257
+NV,F,Alex,146
+NV,F,Taylor,590
+ NV ,F,Casey,54
+NV,F,Casey,496
+NV,F,linda,473
+NV,M,Taylor,341
+NV,M,Robert,111
+NV,M,Taylor,261
+NV,M,Casey,30
+NV,,,1126
+NV,F,Taylor,144
+,M,Taylor,8
+NV,M,Michael,8
+NV,M,Robert,686
+NV,F,Mary,477
+NV,F,Mary,450
+NV,M, Alex ,591
+NV,M,James,201
+NV,F,Taylor,566
+NV,F,Linda,105
+NV,F,Mary,33
+NV,M,Michael,354
+NV,,Alex,174
+NV,F,Jordan,244
+NV, M ,John,80
+NV,F, Taylor ,264
+NV,F,Alex,368
+NV,F,Alex,478
+NV,F,Linda,87
+NV,F,Casey,415
+NV,F,mary,73
+NV,M,james,30
+NV,F,Jennifer,1276
+NV,F,Jennifer,28
+NV,F,Patricia,8
+NV, M ,Jordan,230
+NV,F,,673
+ NV ,F,Jennifer,51
+NV,F,Patricia,879
+ NV ,M,Patricia,160
+,F,Casey,163
+NV, F ,Jennifer,419
+NV,M,Robert,130
+NV,F, Taylor ,74
+NV,F,Taylor,294
+NV,M,James,66
+ NV ,F,Alex,17
+NV,M,Taylor,56
+NV,M,Taylor,43
+NV,F,Linda,23
+NV,F,Alex,830
+,M,James,384
+NV,F,Patricia,141
+NV,F,Casey,109
+NV,F,Taylor,969
+NV,M,Michael,821
+NV,F,Jordan,216
+NV,M,Casey,356
+NV,F,Casey,53
+NV, F ,Alex,20
+NV, M ,Michael,570
+NV,F,Patricia,558
+NV,M,John,1083
+NV,M,Casey,116
+NV,F,Jennifer,567
+NV,M,john,284
+NV,M,Michael,614
+NV,F,Patricia,23
+NV,F,Taylor,11
+NV,M,Michael,147
+NV,M,Taylor,457
+NV,M,Robert,6
+NV,M,Casey,131
+NV,M,Robert,250
+NV, M ,Taylor,
+NV,F,Alex,1155
+NV,M,Jordan,73
+NV,F,Alex,6
+NV,F,Mary,200
+NV,M,Alex,233
+NV,F,Robert,22
+NV,F,Taylor,82
+,M,Taylor,29
+NV,M,Alex,157
+NV,F,Casey,141
+NV,F,,15
+NV,F,Patricia,25
+ NV ,F,Linda,234
+ NV , M ,John,76
+NV,F,Alex,148
+NV,F,Patricia,130
+NV,M,Robert,644
+NV,F,Casey,31
+ NV ,F,Jordan,18
+NV, M ,Robert,73
+NV,F,Casey,
+NV, M ,Jordan,26
+NV,M,Robert,1060
+,F,Alex,263
+NV,F,Linda,320
+NV, M ,Michael,730
+NV,M,taylor,185
+NV,M,Jordan,320
+NV,M,Casey,494
+NV,F,Patricia,
+NV,M,Casey,233
+NV,F,Taylor,58
+NV,M,Robert,25
+NV,M,Taylor,13
+NV,M,Jordan,16
+NV,F,Mary,53
+NV,M,Michael,203
+NV,M,James,66
+NV,M,Robert,533
+NV,M,John,345
+NV,M,Alex,177
+NV,M,Taylor,382
+ NV , F ,Alex,553
+ NV ,M,Michael,656
+ NV , M ,James,34
+NV,,Casey,314
+NV,F,Patricia,75
+NV,F,Mary,75
+NV,F,Casey,17
+NV,F,Jordan,57
+,M,,30
+NV,F,Linda,123
+NV,F,Taylor,17
+NV,F, John ,323
+NV,M, Taylor ,79
+ NV ,F,Linda,24
+NV,M,Alex,
+ NV ,M,Michael,656
+,F,Taylor,57
+NV,M,James,12
+NV,F,jennifer,342
+NV,F,Linda,15
+,F,Taylor,173
+NV,F,Patricia,462
+NV,F,Casey,829
+NV,M,Michael,514
+NV,F,Jordan,98
+NV,F,Linda,243
+NV, M ,John,7
+NV,F,Linda,35
+NV,,Patricia,57
+NV,F,Alex,299
+,F,Patricia,210
+NV,M,Robert,203
+NV,F,Patricia,508
+NV,M,Alex,43
+NV,F,Jennifer,
+NV,F,Jennifer,939
+NV,M,Jordan,104
+NV,F,Casey,168
+NV,F,Jennifer,280
+NV,M,Jennifer,415
+NV,F,Linda,14
+NV,M,Casey,88
+NV,F,Jordan,45
+NV,F,Patricia,11
+NV,M,Casey,54
+NV,F,Casey,238
+NV,F,John,398
+NV,F,Jennifer,14
+NV,,Jordan,133
+ NV ,F,Patricia,
+ NV ,M, John ,116
+NV,M,Taylor,7
+NV,F,Alex,62
+NV,M,Taylor,549
+NV,F,Casey,11
+NV,M, Taylor ,521
+NV,M,Taylor,38
+NV,M,John,728
+NV,F,Jennifer,85
+NV,F,Taylor,38
+NV,M,Alex,462
+ NV , F ,Jordan,75
+NV,F, Taylor ,367
+ NV ,F,Jennifer,673
+NV, M ,Jordan,59
+NV, M , Casey ,43
+NV,M,Casey,12
+NV,M,James,110
+NV,M,Robert,62
+NV,M,Casey,58
+NV,M,Michael,16
+NV,F,alex,22
+NV,F,Jennifer,703
+, M ,Casey,491
+ NV ,M,Robert,64
+NV,M,,175
+NV,,Taylor,483
+NV,F,,190
+NV,M,John,326
+,M,,31
+NV, F ,Casey,111
+NV,F,Casey,
+NV,M,Casey,52
+NV,F,Mary,36
+NV,F,Jordan,38
+NV,F,Alex,466
+NV,,Casey,49
+ NV , F ,Patricia,470
+NV,F,Casey,61
+NV,M, Alex ,7
+NV,M,Casey,647
+ NV ,M,James,460
+ NV ,M,,44
+NV,F,Mary,447
+NV, F ,Casey,133
+,M,John,430
+ NV ,F,Alex,56
+NV,F,Casey,220
+NV,M,Taylor,91
+NV,F,Mary,64
+NV,M,Taylor,71
+NV,F,Casey,83
+NV,,John,23
+NV,F,Patricia,168
+ NV ,F,Alex,16
+NV, F ,jennifer,7
+NV,F, Alex ,85
+NV,M,Robert,154
+NV, M ,Taylor,466
+NV,,Patricia,14
+NV,F,Jordan,140
+NV,F,Mary,7
+NV,F, Alex ,547
+NV, M ,,109
+NV,F,Alex,83
+NV,F,Mary,85
+NV,F,Linda,326
+NV,M,Michael,110
+NV,M,James,475
+NV,F,Alex,6
+ NV ,F,Linda,246
+NV,F,Jordan,
+NV,F,Mary,438
+NV,F,alex,91
+NV,,John,70
+NV,M,James,447
+NV, F ,Jordan,362
+NV,M,Michael,13
+NV, M ,James,341
+NV,F,Linda,92
+NV,F, Taylor ,19
+NV, F ,Patricia,950
+NV,M,John,47
+NV,F, Robert ,64
+NV,,Jordan,31
+NV,,Taylor,764
+NV,F,Linda,22
+NV,M,Robert,71
+NV,M,Alex,453
+NV,F,Alex,13
+NV,F,Alex,15
+NV,M,Taylor,481
+NV,F,Jordan,41
+NV,F,Mary,191
+NV,,Alex,128
+NV,F,Jennifer,292
+NV,F,Casey,56
+NV, F ,Taylor,
+NV,M, Taylor ,22
+NV,F,Jordan,29
+NV, F ,Linda,71
+NV,M,Casey,14
+NV,M,Michael,21
+NV, F ,Casey,629
+NV,M,Casey,116
+NV,M, Taylor ,95
+NV,M,John,314
+NV,M,Alex,22
+NV,,Michael,24
+NV,F,Jennifer,
+NV,F,Jordan,325
+NV, M ,James,
+NV,M,Casey,105
+ NV ,F,Jennifer,119
+NV,F,Casey,398
+NV,M,James,238
+ NV ,M,Alex,10
+NV, M ,Patricia,204
+NV,F,Michael,89
+NV,F,Jennifer,45
+NV, F ,Mary,245
+ NV ,F,John,
+NV,,Taylor,18
+NV,,Casey,233
+NV,M,John,70
+ NV , M ,John,12
+NV,F,Jordan,52
+NV,F,Linda,222
+NV,M,Robert,278
+NV,F,Linda,49
+NV,F,Mary,483
+ NV ,M,John,406
+NV,F,Taylor,80
+NV,F,Patricia,21
+NV,F,Taylor,9
+NV,M,James,905
+,,Alex,44
+NV,F,Patricia,486
+ NV , M ,Alex,41
+ NV ,F,Jennifer,
+NV,F,Taylor,
+ NV ,F,Mary,252
+NV,M,Alex,48
+ NV ,F,Jennifer,519
+NV,F,Mary,10
+NV,F,Casey,220
+NV, F ,Alex,13
+NV,F,Alex,88
+ NV ,M,Jordan,736
+,M,Jennifer,153
+NV,F,Casey,45
+NV,F,Patricia,13
+NV,M,Casey,18
+,,,286
+NV,F,Patricia,20
+NV,,Linda,19
+NV,F,Taylor,239
+NV,M,Jordan,123
+NV,F,Casey,
+NV,F,,169
+NV,M,Michael,611
+ NV ,F,Casey,16
+NV,F,Taylor,
+NV,M,Taylor,
+NV,F,Mary,88
+NV,F,Mary,186
+NV,M,James,29
+,F,Linda,131
+NV,F, Mary ,90
+NV,M,jordan,6
+NV,F,Jordan,43
+NV,F,Taylor,20
+NV,M,Jordan,56
+NV,M,Robert,573
+NV,M,John,189
+,M,Casey,174
+NV,F,Taylor,51
+NV,F,Casey,293
+NV,M,Taylor,18
+NV,F,Taylor,103
+NV,M,Alex,21
+NV,F,Jennifer,191
+NV,M,Michael,
+NV,M,John,26
+NV,F,Patricia,610
+NV,M,taylor,92
+NV,M,,8
+NV,M,Michael,109
+NV,M,Jennifer,471
+NV,M,John,126
+NV, F ,Casey,20
+NV, F ,Alex,409
+NV,F,Jordan,972
+NV,M,John,174
+NV,M,Robert,213
+NV,M,Jordan,194
+NV,F,,558
+NV,F,Jennifer,710
+NV,M,Alex,450
+ NV ,M,Taylor,423
+NV,F,James,438
+NV,M,,928
+NV,M,Alex,297
+NV,,Casey,364
+NV,,jordan,285
+NV,F,Jennifer,5
+NV, F ,Patricia,45
+NV, M ,casey,275
+NV,M,John,194
+NV,M, Alex ,309
+NV,M,John,280
+NV,M,Taylor,123
+NV, F ,Linda,382
+NV,M,Alex,867
+NV,F,Alex,11
+NV,M,James,120
+NV,M,Jordan,70
+NV,M,Michael,827
+NV,M,Patricia,106
+NV,F,Patricia,774
+NV,F,linda,66
+NV,M,Casey,666
+NV, F ,Jennifer,351
+NV,F, Linda ,124
+,F,Jennifer,618
+NV,F,Mary,33
+NV, M ,Alex,5
+NV,M,James,595
+NV,M,James,57
+NV,F,Linda,16
+ NV ,,james,596
+NV,M,,216
+ NV ,F,Patricia,281
+,F,Linda,91
+NV,F,Jordan,60
+NV,,casey,464
+NV, M ,Alex,1028
+NV,M,Casey,406
+NV,M,Taylor,471
+ NV ,F,Patricia,260
+NV,M, Robert ,110
+NV,F,Jennifer,555
+NV,F,Mary,284
+ NV ,F,Linda,781
+ NV ,F,Taylor,122
+NV,M,James,13
+NV,M,taylor,298
+NV,M,Alex,512
+NV,F,Casey,
+NV,F,Casey,
+NV,M,robert,212
+NV,F,Patricia,45
+NV,M,Jordan,16
+ NV ,F,,58
+ NV , F ,Casey,93
+NV, F ,Patricia,81
+NV,F,Taylor,145
+,M,Jordan,9
+NV,F,Jordan,9
+NV,F,Linda,41
+NV,M,Taylor,169
+ NV , F ,Jennifer,365
+,F,Jordan,651
+ NV ,F,Jordan,33
+NV,F,Patricia,26
+NV,M,Alex,426
+NV,F,Casey,149
+NV, F ,Alex,174
+NV,F,Casey,381
+,M,Michael,22
+NV,M,Casey,
+,M,Taylor,73
+NV,M,Taylor,33
+NV, M ,,8
+NV,F,Taylor,94
+NV,F,,183
+NV,F,Taylor,309
+ NV ,M,Casey,316
+NV,F,Casey,
+ NV ,,John,60
+NV,,Mary,77
+ NV ,M,Michael,38
+NV,M,taylor,60
+NV,F,Mary,629
+NV,M,James,92
+ NV ,F,Patricia,99
+NV,F,Linda,116
+NV,M,Jordan,65
+NV,,James,198
+NV,M,Michael,151
+NV,F,Linda,48
+NV,M,Michael,88
+ NV , F ,Casey,145
+NV,F,Mary,308
+NV,M,Robert,895
+NV, F ,,558
+NV,F,Jennifer,298
+NV,M,James,428
+NV,M,Taylor,24
+ NV , M ,Alex,99
+NV,M,Casey,95
+NV,M,Alex,7
+NV,F,Alex,978
+NV,M,Michael,25
+NV,,John,25
+ NV , F ,Jennifer,863
+NV,M,,231
+NV,M,Robert,154
+NV,F,,32
+NV,,Jordan,1225
+NV,F,Jordan,
+NV, M ,John,72
+NV,F, Linda ,
+NV,F,Casey,29
+NV,F,Alex,211
+NV,F,Jordan,777
+NV,F,Taylor,447
+NV,,Taylor,442
+ NV ,F,Patricia,79
+NV,F,Linda,812
+NV,F,Mary,9
+NV,F,Jordan,503
+NV,F,Casey,133
+NV,F,Casey,9
+NV,M,Jordan,291
+NV,M,Robert,108
+NV,M,Jordan,147
+ NV ,F,Michael,
+NV, M ,jennifer,527
+NV,M,Jennifer,6
+NV,,Casey,5
+NV,M,Michael,51
+ NV ,F,Taylor,838
+NV,M,Alex,446
+ NV ,M,Robert,23
+NV,F,Patricia,342
+ NV ,M, Robert ,16
+NV,M,Michael,64
+NV,M,Casey,157
+NV,,Alex,
+NV,M,James,158
+ NV ,F,Jordan,396
+NV,M,James,86
+NV,F,Mary,177
+NV,M,Michael,105
+NV,M,James,1096
+NV,M,Jordan,353
+,F,Linda,278
+NV, F ,Alex,7
+NV,M,Michael,105
+NV,F,Mary,660
+NV,F, Linda ,9
+ NV ,,robert,428
+NV,M, Casey ,88
+NV,F,Taylor,831
+ NV , F ,Patricia,41
+NV,F,,
+NV,M,Robert,19
+ NV , M ,Jordan,42
+NV,F,Jordan,98
+NV,F,Michael,54
+NV,M,John,250
+ NV ,M, Casey ,77
+NV,, John ,7
+NV,F,,321
+ NV , M ,Jordan,514
+NV,F,Patricia,119
+ NV ,M,Michael,41
+NV,M,Alex,50
+NV,F,Patricia,360
+NV,F,Alex,834
+NV,F,Taylor,558
+NV,M,Jordan,209
+NV,M,James,
+NV,M,Mary,142
+NV,F,Casey,35
+NV,F,Patricia,133
+NV,M,Robert,22
+NV, F ,mary,167
+NV,,Jordan,1174
+NV,M,John,47
+NV,M,Casey,134
+NV,F,Taylor,447
+NV,F,Jordan,208
+NV,M,Casey,756
+NV,F,Jordan,151
+NV,F,Mary,80
+NV,F,Casey,300
+NV,F,Jordan,892
+NV,F,Patricia,630
+NV,M,Michael,285
+NV, F ,Patricia,
+NV,M,Robert,17
+NV,M,Patricia,205
+NV,M,James,145
+NV,M,Jordan,149
+NV,M,Alex,47
+NV,F,James,387
+NV,M,Michael,284
+NV,F,mary,19
+NV,F, Alex ,548
+NV,M,Jordan,190
+NV,F,,169
+NV,M,Alex,82
+NV,F,Jennifer,522
+NV,F,Patricia,
+NV,,Jordan,
+NV,M,Taylor,169
+NV,F, Casey ,116
+NV,M,Casey,44
+NV,F,Alex,104
+NV,M,Jordan,56
+ NV ,F,Casey,17
+NV,M,James,470
+,M,Casey,36
+NV,F,Patricia,291
+NV,F, Robert ,
+NV,,Mary,795
+NV,F,Robert,101
+NV,,Alex,788
+, F ,Mary,26
+NV,M,John,142
+NV,,Alex,7
+NV,M,James,
+ NV ,M,Robert,26
+NV,F,Jennifer,5
+NV,F,Alex,6
+NV,F,James,10
+ NV ,F,Linda,672
+ NV ,M,James,278
+NV, M ,Alex,193
+NV,M,Robert,29
+NV,M,John,41
+NV,F,Jordan,121
+,M,Jordan,465
+NV,M,Casey,125
+ NV ,F,Mary,267
+ NV ,M,Robert,205
+NV,M,Alex,79
+NV,,Alex,112
+,F,Jordan,587
+ NV ,M,John,58
+NV,F,Jordan,489
+NV,,Mary,22
+NV,M,Alex,445
+NV,F,Alex,121
+NV,F,Mary,60
+NV,F,Patricia,134
+ NV ,M,casey,5
+NV,F,Linda,128
+NV,F,,589
+NV,M,Jordan,210
+NV,F,Mary,140
+NV,M,John,
+NV,M,Jordan,179
+NV,F,Casey,9
+NV,F,Casey,242
+NV, M ,James,8
+,M,Robert,248
+NV,F,Linda,56
+NV,F,Taylor,661
+NV, M ,James,42
+ NV ,F,Casey,89
+NV,M,James,175
+ NV ,M,Robert,106
+NV,F,linda,11
+ NV ,F,,280
+NV,M,James,73
+NV,F,jordan,11
+NV,F,Linda,25
+NV,F,Mary,21
+NV,M,Michael,46
+NV,F,Linda,611
+NV,M,John,175
+NV,F,Jordan,46
+,M,Alex,19
+NV,,Robert,6
+NV, M ,Alex,353
+,F,Taylor,447
+NV,F,Linda,282
+NV,M,Jordan,187
+NV,M,Taylor,1049
+NV,F,Mary,175
+NV,F,Patricia,493
+NV,F,Mary,86
+NV,F,Jordan,42
+NV,M,Taylor,
+NV,F,Alex,329
+NV,M,John,58
+NV,M,Alex,582
+NV,F,Patricia,116
+NV,M,Michael,51
+ NV ,F,Alex,16
+NV,F,Mary,15
+NV,M,casey,44
+NV,M,Taylor,150
+NV,M, John ,96
+NV,M,Jordan,89
+NV,M, Robert ,1049
+ NV ,M,James,19
+NV,M,Mary,5
+NV,M,,
+NV,F,Jordan,350
+,M,Casey,62
+NV,M,Michael,224
+NV,F,Taylor,1369
+NV,F,Jordan,
+NV,,Michael,84
+NV,F, Casey ,399
+NV,F,Patricia,134
+ NV ,M,John,141
+,M,John,19
+ NV , F ,Patricia,221
+NV,M,John,6
+ NV ,F,Taylor,13
+NV,M,Michael,148
+NV,M,Jordan,137
+NV,M,Alex,54
+NV,F,Mary,9
+NV,F,mary,39
+NV,M,Casey,102
+NV,,James,31
+NV,F,Jennifer,67

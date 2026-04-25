@@ -1,1630 +1,1683 @@
-State,Sex,Year,Name,Count
-KY,M,2000.0,James,37
-KY,M,1961.0,James,58
-,,2014.0,Alex,185
-KY,M,1982.0,Michael,154
-KY,F,1967.0,Alex,318
-KY,M,1951.0,jordan,18
-,F,1993.0,Michael,34
-KY, M ,2011.0,Jordan,16
-KY,F,1921.0,Linda,36
-KY, M ,2020.0,Taylor,102
-KY,F,1947.0,Jordan,9
-KY,F,1997.0,Linda,104
-KY,M,1955.0,Robert,38
-KY,F,1926.0,Jordan,71
-KY,F,2016.0,Casey,487
-KY,F,1990.0,Alex,947
-KY,F,1950.0,Taylor,982
-KY,M,1988.0,Casey,294
-KY,M,2002.0,Patricia,285
- KY ,M,1968.0,Alex,86
-KY,M,1916.0,Taylor,29
-KY,F,1971.0,Mary,36
-KY,M,1990.0,Mary,168
-KY, M ,1984.0,Alex,166
-KY,M,1945.0,Casey,8
-KY,M,1949.0,Taylor,261
-KY,F,1931.0,Patricia,80
-KY,F,1971.0,Jordan,178
-KY,M,1956.0,James,82
-KY,M,1975.0, Linda ,579
-KY,F,2004.0,Taylor,74
- KY , F ,1996.0,Mary,68
-KY,M,1986.0, Taylor ,164
-KY,M,1960.0,Casey,605
-KY,M,1952.0,Robert,801
-KY,F,1941.0, Patricia ,15
-KY,F,2012.0,Linda,50
-KY,M,1920.0,John,8
-KY,F,1955.0,Alex,246
-KY,M,1975.0,Taylor,31
-KY,F,2005.0,Alex,184
-KY,M,1948.0,Robert,345
- KY ,,1983.0,Jordan,54
-KY,F,1990.0,Taylor,576
-KY,F,1949.0,Mary,33
-KY,M,1939.0,Robert,259
-KY,F,2009.0,Michael,112
-KY,M,,Taylor,22
-KY,M,1912.0,Alex,122
-KY,M,,Michael,16
-KY,F,1964.0,Jordan,756
-KY,M,1976.0,James,600
-KY,M,1941.0,Patricia,13
-KY,F,1956.0,Linda,585
- KY ,M,1990.0,Taylor,
-KY,,1946.0,Jennifer,10
-KY,F,,Mary,393
-KY,F,2003.0,Jordan,644
-KY,F,1951.0,Linda,484
-KY,,1999.0,Casey,31
-KY,F,1979.0,Casey,216
-KY,M,1961.0,Casey,54
-KY,F,2003.0,Mary,184
-KY,M,1916.0,Jordan,16
-KY,F,1989.0,Patricia,16
-KY,F,1953.0,Linda,78
-KY,M,1976.0,alex,112
-KY,M,1953.0,Alex,91
- KY ,F,1946.0,Jordan,52
-KY,F,,Patricia,134
-KY,M,1963.0,Casey,
-KY,M,1943.0,Casey,25
-KY,,1993.0,Linda,21
-,F,1950.0,Linda,629
-KY,F,1934.0,Casey,74
-KY,M,1971.0,Taylor,63
-KY,M,2003.0,Robert,71
-KY,F,1953.0, John ,504
-KY,M,1971.0,James,200
-KY,M,2014.0,jordan,18
-KY,M,1980.0,Alex,516
-KY,M,1994.0,Michael,159
-KY, M ,1993.0,Taylor,299
-KY,M,1944.0,Alex,55
-KY,M,2010.0,Michael,386
-KY,F,1939.0,Alex,5
-KY,,1960.0, Jordan ,310
-KY,F,1947.0,Patricia,43
-KY,M,2004.0,James,82
-KY,M,1977.0,john,235
- KY ,M,2013.0,Mary,14
-,F,1932.0,Patricia,297
-KY,M,1993.0,James,397
-KY,,1963.0,Alex,106
-KY,M,1964.0,Michael,58
-KY,F,1967.0,Jennifer,57
-KY, M ,1936.0,John,533
-KY,F,1922.0,Mary,49
-KY,M,1936.0,alex,27
-,F,2002.0,Jennifer,70
-KY,F,1992.0,Casey,210
-KY,M,2014.0,James,20
-KY,F,2018.0,patricia,252
- KY ,M,1921.0,Robert,35
- KY ,M,1958.0,James,480
-KY,M,1996.0,Taylor,266
-KY,M,1986.0,James,520
-KY,F,1993.0,patricia,131
-KY, F ,2017.0,Taylor,42
-KY, F ,1963.0,Linda,44
-KY,M,1998.0,Casey,32
-KY,M,1960.0,John,42
-KY,F,1960.0,James,66
-KY,M,2007.0,Michael,9
-KY,F,1951.0,Patricia,359
-KY,F,1979.0,Alex,
-KY,F,1978.0, Jordan ,20
-KY, F ,1923.0,Taylor,30
-KY,F,1938.0,Jennifer,
-KY,M,1972.0,James,28
-KY,M,1986.0,Jordan,341
-KY,M,1924.0,James,394
-KY,F,1918.0, Patricia ,45
-KY,M,1987.0,James,74
-KY,M,1997.0,Robert,651
-KY,M,2008.0, Robert ,235
-KY,M,1945.0,,98
-KY,F,2000.0,taylor,542
-KY, F ,2011.0,Jordan,750
-KY,M,1959.0,james,753
-KY,M,1997.0,Jordan,276
-KY,,1981.0,Casey,166
-KY,F,1955.0,Mary,505
-KY,M,1974.0,James,259
- KY ,M,1960.0,Patricia,168
-KY,F,1981.0,Linda,310
-KY,M,1937.0,Robert,
-KY,F,1978.0,Mary,966
-KY,M,2001.0,Alex,104
-KY,M,1935.0,James,10
-KY,M,1988.0,Alex,
-KY, M ,2010.0,Robert,86
-KY,,1941.0,Alex,6
-KY,,2015.0,Linda,49
-KY,F,1960.0,Patricia,84
-KY,F,2014.0,,21
-KY,M,1988.0,Jordan,259
-KY, M ,1996.0,Michael,32
- KY ,F,1982.0,Jordan,32
- KY ,M,1951.0,Michael,191
- KY ,M,1969.0,Alex,282
-KY,F,1911.0,Patricia,7
-KY,F,2020.0,jennifer,748
-KY,F,1941.0,Taylor,182
-KY,M,1965.0,Robert,210
-KY,M,1995.0,Casey,248
-KY,F,1995.0,patricia,68
- KY ,M,1941.0,Taylor,140
- KY ,M,1928.0,Michael,21
-KY, F ,2000.0,Jennifer,74
-KY,,1986.0,Patricia,164
-KY, M ,2005.0,Taylor,29
- KY ,M,1962.0,Michael,830
-KY,,1967.0,Taylor,198
-KY,,1964.0,Taylor,62
- KY ,F,2003.0,Patricia,28
-KY,M,1943.0,Jordan,298
-,M,1998.0,,117
-KY,F,1924.0,Jennifer,202
-KY,M,1972.0,Michael,455
-KY,M,1939.0,Alex,14
-KY,M,2010.0,James,8
-KY,M,1971.0,Alex,843
-KY,F,2016.0,Taylor,275
-KY,F,1982.0,Jennifer,869
-KY,M,1959.0,Robert,1151
-KY,M,1966.0,John,
- KY ,F,1939.0,,146
-,F,1950.0,Jordan,718
-KY,M,1947.0,Taylor,22
-KY,F,,Mary,47
-KY,F,1955.0,,418
- KY , M ,1956.0,Linda,11
-KY,M,1956.0,Casey,20
-,M,1993.0,Jordan,140
-KY,M,1969.0,Taylor,150
-KY,F,1971.0,Jennifer,1068
-KY,F,2007.0,,
-KY,M,2011.0,,53
-KY,F,1986.0,Mary,92
-KY,,1962.0,,539
-KY, M ,1961.0,John,356
-KY,M,2002.0,John,773
-KY,F,1913.0,Taylor,61
-KY,F,1998.0,Casey,143
-KY,F,1990.0,Jennifer,182
-KY,F,1988.0,Patricia,133
-KY,F,,Linda,22
-KY,M,2010.0,jordan,592
-KY,M,1928.0,Taylor,37
-KY,F,1974.0,Casey,312
-KY,F,1997.0, Patricia ,60
-KY,M,1997.0,Alex,129
-KY,M,1952.0,Taylor,24
-KY,F,1949.0,Jennifer,308
-KY,F,1983.0,James,76
-KY,F,1970.0,Alex,322
-KY,M,1931.0,Alex,126
-, M ,1964.0,Casey,894
-KY,,1997.0,Casey,22
-KY,F,1952.0,Patricia,23
-KY,M,1981.0,Jordan,377
-KY,,1970.0,Casey,240
-KY,F,1945.0,Mary,14
-KY,F,1993.0,Mary,176
-KY,F,1975.0,Jordan,754
-KY,F,1994.0,Mary,361
-KY,F,1974.0,Linda,
-KY,F,2003.0,Linda,644
-KY, F ,1940.0,Patricia,600
-KY,F,1925.0,Jennifer,29
- KY ,M,1937.0,Casey,21
-KY,F,1959.0,James,482
-KY,F,1968.0,Jordan,181
-,M,1997.0,Taylor,27
-KY,M,1933.0,alex,322
-KY,F,2017.0,Alex,7
- KY ,M,2012.0,Taylor,
-KY,M,1973.0,Casey,14
-KY,F,2019.0,Jordan,12
- KY ,M,1984.0,James,322
-KY,F,1995.0,Alex,598
-KY,M,1950.0,John,161
-KY,M,1933.0,Robert,45
-KY,M,1962.0,Casey,302
- KY , F ,2006.0,Mary,210
-KY, F ,1954.0,Casey,119
- KY ,F,1947.0,Alex,8
-KY,M,1963.0,John,398
-KY,,1914.0,John,11
-KY,,2005.0,,476
-KY,F,2009.0,Casey,35
-KY,M,1958.0,Casey,98
- KY ,F,1957.0,Mary,311
-KY,M,1994.0,Jordan,149
-KY,M,1963.0, Robert ,335
-KY,F,1999.0,Taylor,576
-KY,,1999.0,Alex,1167
- KY ,M,1988.0,Taylor,584
-KY,F,1959.0,Taylor,185
-KY,F,1973.0,Jordan,626
-KY,,1978.0,Taylor,328
- KY ,M,1997.0,James,184
- KY , M ,1918.0,,19
-KY,F,1957.0,James,363
- KY ,M,1955.0,jordan,8
-KY,F,1989.0,Alex,361
-KY,F,1994.0, Linda ,24
-KY,M,1970.0,John,264
-KY,F,1986.0,Alex,419
- KY , M ,1957.0,Robert,341
-KY, F ,1977.0,Jordan,305
-KY, M ,1972.0,Casey,211
-KY,M,2009.0,Alex,697
-KY,M,2011.0,Alex,154
-KY,F,2003.0,Robert,589
-KY,M,1988.0,Michael,118
-KY, M ,1981.0,Robert,383
-KY,F,1924.0,Patricia,281
- KY ,M,1973.0,John,951
-KY,F,1927.0,Linda,6
-KY,F,1988.0,Casey,279
-KY,M,2011.0,John,
-KY,F,1980.0,Casey,134
-KY,F,1962.0,alex,754
-KY,F,1985.0,Casey,282
-KY,M,1971.0,Robert,355
-KY,M,1943.0,,30
- KY ,M,2018.0,Alex,66
-KY,F,1948.0,Patricia,44
-KY,M,2000.0,Casey,367
-KY,F,2013.0,Patricia,151
-KY,M,1947.0,Robert,45
- KY ,M,1990.0,John,247
-KY,M,1922.0,,12
-KY,,1973.0,Jordan,87
- KY ,M,1941.0,Robert,5
-KY,F,1988.0,Mary,24
-KY,F,1979.0,Linda,1004
- KY ,F,1980.0,Linda,652
-KY,F,,James,510
-KY,M,1990.0,Michael,442
-KY,F,1977.0,Michael,195
-KY,M,2007.0,Taylor,146
-KY,M,1935.0,John,538
-KY,M,1982.0,James,193
-KY,F,1998.0,Alex,406
-KY,F,1967.0,Patricia,108
-KY,F,1936.0,Jordan,73
-KY,F,1982.0,Taylor,226
-KY,M,2007.0,Robert,130
-KY,M,1959.0,Alex,121
-KY,,1975.0,Casey,
- KY ,F,1976.0,,111
-KY,F,2001.0,Jordan,205
-KY,M,1991.0,Casey,142
-KY,F,1939.0,,14
-KY,M,1941.0,Jordan,279
-KY,M,1951.0, John ,43
-KY,F,1935.0, Alex ,429
-KY,M,2002.0,Jordan,59
-KY,M,1923.0,Mary,97
-KY,F,2019.0,Alex,221
-KY,M,2015.0,taylor,193
-KY,M,1952.0,Jordan,632
-KY,M,1926.0,Casey,
- KY ,M,1917.0,Robert,26
-KY,F,1987.0,jordan,572
-KY,M,1953.0,,77
-KY, F ,1926.0,Linda,114
-KY,F,1959.0,Mary,48
-KY,M,2008.0,John,32
-KY, F ,1995.0,Jennifer,35
-KY,F,2002.0,Taylor,
-KY,F,1946.0,Alex,32
-,M,1968.0,Michael,232
-KY,M,1995.0,Michael,78
-, F ,1953.0,Patricia,9
-KY,F,2003.0,Casey,117
-KY,F,1985.0,Jennifer,163
-KY,M,1964.0,Robert,100
-KY,F,1948.0,Casey,68
-KY,F,1978.0,Casey,570
-KY,M,1972.0,Jordan,849
- KY ,F,1954.0,Mary,56
-KY,M,1932.0,Taylor,116
-KY,M,1964.0,Alex,32
-KY, M ,1991.0,Alex,187
-KY,M,1927.0,Robert,100
-KY,M,1952.0,Alex,18
-KY,F,1923.0,Patricia,14
- KY ,F,1930.0,Jordan,60
-KY,M,1988.0,patricia,139
-KY,F,1934.0,Taylor,42
-KY,F,1928.0, Patricia ,
-KY,M,1931.0,Linda,30
-KY,M,1998.0,Taylor,145
- KY ,F,1941.0,Jordan,356
-KY,F,2004.0,Jordan,5
-KY,F,1959.0, Alex ,14
-KY,F,2007.0,patricia,288
-KY,M,1924.0,Jordan,116
-KY,M,1933.0,James,
-KY,M,2009.0,Casey,9
-KY,M,1943.0,Robert,12
-KY,M,1980.0, Michael ,174
-KY,M,1982.0,Robert,652
-KY,F,1944.0,Linda,86
- KY ,M,1994.0,John,
-KY,,1939.0,James,101
-KY,F,,Jordan,394
-KY,F,1966.0,,560
-,F,1991.0,Alex,518
-KY,F,1935.0,Mary,24
-KY,F,2014.0,Linda,30
-, M ,1986.0,John,382
-KY,F,2015.0,Jennifer,56
-KY,M,1919.0, James ,5
-KY, M ,1998.0,Michael,22
-KY,M,1947.0,Jordan,610
-KY,M,1951.0,Taylor,91
-KY,F,2001.0,James,734
-KY,F,1995.0,Mary,74
-KY,M,2015.0,Robert,734
-KY,M,1970.0, Michael ,106
-KY,F,1973.0,Jennifer,33
-KY,M,1958.0,Jordan,
-KY, F ,1961.0,Patricia,470
-, F ,1924.0,Linda,30
-KY,M,1938.0,John,11
- KY ,F,1991.0,Casey,413
-KY,M,1921.0,Alex,32
-KY,F,2005.0,Alex,184
-KY, F ,1964.0,Patricia,924
-KY,M,2002.0,Michael,120
-KY,F,1963.0,Patricia,371
-KY,F,1991.0,Jennifer,450
-KY,M,1981.0,Linda,182
-KY, F ,1948.0,jennifer,49
-,F,1961.0,Jordan,28
-KY,F,2002.0,Jordan,36
-KY,F,1976.0,Jennifer,94
-KY,M,1963.0,Taylor,11
-KY,M,1992.0,Casey,344
-KY,M,1947.0,Casey,35
-KY,F,1959.0,Jennifer,484
-KY,M,,Michael,22
-KY,F,1915.0,Alex,91
- KY ,,1946.0,Taylor,
-KY,M,1982.0,Taylor,473
-KY,F,1951.0,jennifer,17
-KY,F,2013.0,Linda,392
-KY,M,1971.0,,607
-KY, F ,1976.0,Casey,81
-KY,F,1952.0,Jennifer,27
-KY,F,2001.0,Jennifer,132
-KY,M,1953.0,Jordan,98
-KY,F,1969.0,Alex,450
-KY,M,2006.0,Taylor,161
-KY,M,1934.0,Michael,216
-KY,M,1920.0,Alex,7
-KY,F,,Patricia,708
-KY,F,2017.0,Casey,101
- KY ,F,1972.0,Mary,154
-KY, F ,1976.0,Alex,946
-KY,M,1961.0,Alex,848
-KY,F,1917.0,Jordan,36
- KY ,M,2003.0,Taylor,135
-KY,,1983.0,Casey,198
-KY, M ,1929.0,John,416
-KY,,2022.0,Michael,600
-KY,F,1961.0,Mary,98
-KY,M,1915.0,Casey,28
- KY ,F,2016.0,Jennifer,658
-KY, M ,2004.0,,70
-KY,F,, Taylor ,42
-KY,M,1923.0,Casey,
-KY,M,2015.0,James,267
-KY,,2021.0,Taylor,100
- KY ,M,1923.0,Michael,44
- KY ,F,1937.0,,739
-,M,1998.0,Alex,57
-KY,M,1945.0,Alex,25
-KY,M,1961.0,Linda,16
- KY ,M,1993.0,John,275
-KY,M,1939.0,John,15
-KY,M,1974.0,Robert,90
-KY,M,1935.0,Michael,445
-KY,F,2003.0,Jordan,644
-KY,F,1970.0,Jennifer,21
-KY,M,1956.0,Michael,250
-KY,M,1945.0,Michael,767
- KY ,F,1911.0,Jennifer,
-KY, F ,1970.0,Taylor,1071
- KY ,F,1993.0,Alex,186
-KY,F,1929.0,Patricia,50
-KY,,1979.0,Jennifer,96
-KY,M,1973.0,Alex,109
- KY ,F,1974.0, James ,559
-KY, F ,1961.0,Patricia,470
-KY,M,1930.0,Linda,
- KY , F ,2010.0,Jordan,75
-KY,F,1958.0,Casey,48
-, M ,1986.0,John,382
-KY, M ,1936.0,taylor,34
-KY,F,1998.0,Taylor,28
- KY ,,1984.0,Robert,73
-,M,1948.0,Jordan,12
-KY,F,1934.0,Patricia,153
- KY ,M,1985.0,James,402
-KY,F,2008.0,Jennifer,745
-KY,F,1957.0, Alex ,32
-KY,F,2006.0,Linda,330
-KY,M,2004.0,Alex,6
- KY ,F,1927.0,Taylor,321
-KY,M,,Casey,83
-KY,F,2001.0,Mary,28
-KY,F,2003.0, Alex ,305
-KY,,2011.0,Patricia,238
-KY,F,1951.0,Jordan,69
-KY,M,,Alex,537
-KY,M,1944.0,james,17
-KY,M,2012.0,John,31
-KY,F,,Taylor,121
-KY,M,1983.0,John,91
-KY,M,1998.0,John,187
-KY,M,1953.0,Michael,38
-KY,M,2016.0,michael,547
-KY,M,1931.0,Taylor,140
-KY,M,2017.0,,588
-KY,M,1958.0,Alex,706
-KY,M,1983.0,Taylor,777
-KY,F,1994.0,Taylor,300
-KY,M,1989.0,James,78
-KY,,2010.0,Alex,45
-KY,,1916.0, Linda ,13
-KY,F,1975.0,Taylor,778
-KY,M,2006.0,Robert,171
-KY,M,1950.0,Alex,35
-KY, F ,1945.0,Casey,8
-KY,M,2006.0,Michael,367
-KY,M,2017.0,James,9
-KY,F,1925.0,Taylor,99
-KY,F,1985.0,Jordan,125
-KY,F,2007.0,Alex,110
-KY,F,2003.0,Jennifer,161
-KY,M,1986.0,Casey,123
-KY,F,1957.0,Taylor,944
-KY,,1978.0,Robert,55
-KY, M ,1966.0,taylor,86
-KY,F,1917.0, Jennifer ,21
-KY,F,1932.0,Linda,16
-KY,M,2008.0,alex,204
-KY,M,1999.0,Robert,8
-KY,M,1970.0,Alex,310
-KY,M,2008.0,Michael,30
-KY,F,,,10
-,F,,Linda,235
-KY, F ,1929.0,Jennifer,6
-KY,M,1937.0,Alex,13
-KY, F ,1980.0,Patricia,1181
-KY, M ,1968.0,Taylor,145
-KY,M,, James ,576
-KY,M,1917.0,Michael,71
-KY,F,1965.0,Robert,181
-KY,M,2001.0,Robert,154
-KY,M,1959.0,Casey,510
-KY,M,1948.0,Alex,74
-,M,1963.0,Patricia,11
-KY,M,1980.0,Casey,1360
-KY,M,1966.0,James,252
-KY,F,1987.0,Casey,549
-KY,M,2005.0,Casey,635
-KY,M,2018.0,John,197
-KY,M,1961.0,Robert,70
-KY, F ,2008.0,Alex,72
-KY,M,1973.0,Taylor,650
-KY,M,2008.0,Jordan,12
-KY,F,1996.0,Alex,
-KY, F ,1956.0,Jordan,49
-KY,F,1969.0,,61
-KY,M,1992.0,Taylor,
-KY,M,1931.0,Michael,5
-KY,M,2021.0,James,65
- KY , F ,1975.0,Casey,253
-KY,F,1928.0,Taylor,6
-KY,F,1990.0,Jordan,194
-KY, M ,2003.0,Alex,131
-KY, F ,2004.0,alex,81
-KY, F ,1928.0,Casey,7
-KY,F,1973.0,Patricia,235
-KY,F,1934.0,Jordan,28
- KY ,F,,,133
-KY,F,1988.0,James,486
-KY,,1955.0,Taylor,54
-KY,M,2002.0,james,56
-KY,F,1982.0,Mary,210
-KY,M,1986.0,Michael,231
- KY ,F,2022.0,Alex,32
-KY,F,1941.0,Casey,29
-KY, M ,1916.0,Michael,71
- KY ,M,2013.0,James,
-KY,M,1926.0,Jordan,153
-KY,,1950.0, Jordan ,212
-KY,M,1914.0,Michael,12
-KY,M,1989.0,Jordan,593
-,F,1955.0,Jordan,60
-KY,F,1938.0,Alex,274
-KY,F,1938.0, Taylor ,49
-KY,F,1944.0,Mary,29
-KY,M,2013.0,Jordan,113
-KY,M,,Taylor,29
-KY,F,1983.0,Jennifer,26
-KY,M,1987.0,Casey,426
-KY,M,1915.0,robert,14
-KY,F,1937.0,Casey,475
-KY,F,2002.0,,34
-KY,F,2000.0,Casey,40
-KY,F,1984.0,Mary,571
-KY,M,1949.0,James,23
-KY,F,2015.0, Casey ,294
-KY,,2005.0,,476
-KY,M,1937.0,Michael,35
-KY,M,2000.0,Michael,885
-KY,M,1993.0,Michael,848
-KY,F,2008.0,Taylor,
-KY, F ,1932.0,Alex,28
-KY,,1942.0,Alex,
-KY,F,,Patricia,305
-KY,F,1954.0,Taylor,200
- KY ,M,2003.0,Michael,874
-KY, F ,1958.0,Jordan,20
-KY,M,1934.0,James,123
-KY,M,1964.0,John,370
-KY,F,1975.0,Robert,280
-KY,F,2000.0,Linda,608
-KY,M,2006.0,Alex,333
-KY, F ,1974.0,,300
-KY,M,1979.0,Robert,
-KY,F,1976.0,jordan,465
-KY,,1975.0,Mary,592
-,F,,Mary,126
-, F ,1943.0, Casey ,46
-KY,M,1928.0, Robert ,9
-KY,M,1979.0,Casey,1216
-KY,F,1956.0,Robert,131
-KY,F,2001.0,,162
-KY,F,1985.0,Jennifer,163
-KY,F,1949.0,,79
-KY,M,1952.0,James,129
-KY,M,2000.0,Taylor,259
-,M,1930.0,Alex,66
- KY ,M,1972.0,Alex,552
-KY,M,1975.0,jordan,598
-KY,M,2009.0,Robert,294
- KY ,M,1925.0,Jordan,174
-KY,M,2000.0,John,75
-KY,F,1956.0,Jennifer,548
-KY,F,1954.0,Patricia,215
-KY,F,2016.0,Linda,198
-KY, M ,1926.0,James,345
-KY,M,1956.0,John,
-,,1987.0,John,497
-KY,F,1965.0,,97
-KY,M,2015.0,Jordan,225
-KY,F,1966.0,Jordan,254
-KY,M,1966.0,Jordan,72
-KY,M,1975.0,James,486
-KY,F,2000.0,Patricia,155
-KY,,1948.0,Jordan,66
-KY,F,2012.0,Casey,109
-KY, M ,2009.0,Linda,61
- KY ,F,1915.0, Mary ,65
-KY,M,2016.0,Taylor,12
-KY,M,,Casey,249
-KY,M,2013.0,John,29
-KY,F,1992.0,Linda,223
- KY ,,1984.0,Robert,73
- KY ,M,1996.0,Casey,647
-KY,F,1988.0,Alex,92
-KY, M ,1948.0,James,224
-, M ,1999.0,Taylor,196
-KY,M,2001.0,Taylor,38
-KY,M,1928.0,Casey,6
-KY,M,1961.0,Michael,523
-KY,F,1930.0,Patricia,62
-KY,M,,Taylor,41
-,M,1941.0,Casey,152
-KY,M,1929.0,Casey,22
-KY,M,1935.0,Robert,16
-,F,1958.0,Alex,261
-KY,M,1979.0,Michael,134
-KY,M,2011.0,Robert,123
-,F,1922.0,Taylor,9
- KY ,,1969.0,Casey,381
-KY,F,1965.0,Taylor,323
-KY,M,2010.0,Alex,1121
-KY,F,1955.0,Casey,442
-KY, M ,1983.0, Robert ,474
-KY,F,1983.0,Patricia,433
-KY,F,1972.0,Taylor,791
-KY,F,2020.0,Taylor,11
-KY,F,1957.0,Casey,452
-KY,M,1978.0,Casey,566
-KY,M,1962.0, Jordan ,550
- KY ,M,1965.0,Jordan,356
-KY,F,1929.0,Taylor,12
-KY,F,2022.0,Jennifer,54
-KY,,1951.0,Robert,42
- KY ,F,1949.0,taylor,933
-KY,F,1955.0,Patricia,433
- KY ,F,1934.0,Jennifer,8
-KY,M,1992.0,Robert,1018
-KY,F,1949.0,James,12
-KY, M ,1979.0,Jordan,572
-KY, M ,1985.0,Alex,331
-KY,M,1969.0,Jordan,748
-KY,,1983.0,Jordan,388
-KY,F,1958.0,Patricia,274
-,F,1990.0,Casey,590
-KY,F,1996.0,Casey,218
-KY,F,1916.0,John,46
-KY, M ,1976.0,John,908
-KY,F,1973.0,Linda,280
- KY ,M,1928.0,,7
-KY,F,1997.0,Alex,107
-KY, F ,1942.0,Jennifer,470
-KY,F,1926.0,John,13
-KY,F,2006.0,Jordan,197
-KY,F,1965.0,Mary,274
-KY,F,2002.0,Linda,780
-KY,,1946.0,Alex,19
-KY,F,, Alex ,44
-KY,F,1964.0,Mary,
-KY,M,2009.0,Jordan,48
-KY,F,1935.0,Taylor,471
-KY,M,1975.0,Alex,
-KY,,1960.0,Alex,456
-KY,M,1986.0,Alex,690
-KY,M,1953.0,Robert,228
-,M,2013.0,Linda,13
-KY,M,1954.0,Alex,74
-KY,M,1992.0,Michael,828
-KY,F,2020.0,Patricia,320
-KY,M,1938.0,Alex,11
-KY,F,,Casey,16
-KY, M ,1994.0,James,196
-KY, F ,1976.0,Linda,877
-KY,M,1934.0,Robert,
-KY,F,1977.0,Patricia,141
-KY,M,1960.0,James,71
-KY,F,1952.0,Alex,11
-KY,M,1954.0,Taylor,880
-KY,F,2021.0,Casey,33
-KY,F,1977.0,Alex,254
-KY,M,1983.0,Michael,456
-KY,F,2006.0,Casey,674
-KY,M,2019.0,Casey,9
-KY,M,1919.0,Taylor,90
-KY,F,1972.0, Jennifer ,213
-KY,M,1946.0,Robert,486
-KY,F,1953.0,Jordan,675
-KY,F,1956.0,Casey,94
-KY,F,2000.0,Alex,149
-KY,M,1911.0,,15
-KY,M,2019.0,Robert,219
-KY,F,2009.0,Taylor,10
-KY,F,1913.0,Mary,53
-KY,F,1996.0,Jordan,163
-KY,F,1989.0,Taylor,767
-KY,F,1980.0,taylor,413
-KY,M,2010.0,Linda,22
-KY,F,2007.0,Casey,38
-KY,F,1966.0,Patricia,54
-KY,,2009.0,Linda,
-KY,M,1974.0,Jordan,145
-KY,M,1972.0,Robert,322
-KY, F ,2014.0,Casey,600
-KY,F,1928.0,Linda,405
-KY,M,2019.0,James,11
-KY,M,1995.0,Alex,204
-KY,M,1940.0,Michael,16
-KY,M,2013.0, Taylor ,51
-,M,1989.0,Robert,440
-KY,F,1940.0,Jennifer,22
-KY,F,2012.0,Mary,200
-KY,F,,alex,367
-KY,,1968.0, John ,36
-KY, F ,1979.0,taylor,262
-KY,F,1954.0,Linda,114
-KY,M,1992.0,jordan,
-KY,F,1963.0,Casey,145
- KY ,M,1929.0,Taylor,13
-KY,M,1952.0,Robert,801
-KY,M,1950.0,Taylor,136
-KY,M,1946.0,John,24
-KY,M,1926.0,Patricia,22
-KY,M,1977.0,taylor,298
-KY,F,1961.0,Robert,136
-KY, F ,1975.0,Patricia,58
-KY,F,2021.0,Jennifer,77
- KY ,M,1949.0, Casey ,15
-,M,2007.0,James,69
-KY,,1941.0,Mary,597
-KY,M,,Jordan,101
-KY,F,1946.0,Mary,263
-KY,F,2008.0,Casey,135
- KY ,F,1990.0,Patricia,452
-KY,F,1919.0,Patricia,55
-KY,M,1991.0,Taylor,654
-KY,F,,Robert,86
-KY,M,2005.0,Robert,8
-KY,F,2003.0, Alex ,305
- KY ,M,1993.0,Casey,569
-KY,M,1924.0,Michael,83
- KY ,M,1988.0,Taylor,584
-KY,F,1950.0,Patricia,
-KY,M,1934.0,Casey,80
-KY,F,1993.0,Casey,32
-KY,M,2022.0,Jordan,
-KY,M,1989.0,Taylor,409
- KY ,M,2001.0,Jordan,644
-KY,M,1969.0,,8
-KY,F,1975.0,Linda,392
-KY,M,1955.0,John,193
-KY,M,2012.0,Casey,6
-KY,F,1960.0,jennifer,390
-KY,M,1972.0,Taylor,183
- KY ,,1984.0,Jennifer,209
-KY, M ,1976.0,Casey,516
-KY,F,1979.0,Patricia,37
-KY,M,1985.0,Robert,88
-KY,F,1969.0,Michael,17
-KY,F,1934.0,Linda,10
-KY,M,2002.0,Casey,64
-KY,F,1974.0,Mary,304
-KY,M,2003.0,Casey,379
-KY,F,1970.0,mary,773
-KY,F,1988.0,Linda,604
-KY,M,1931.0, Casey ,94
-KY,M,1968.0,Mary,1041
-KY,M,1985.0,jordan,1033
-KY,F,2004.0,casey,98
-KY,F,1942.0,Jordan,179
-KY,,2002.0,Robert,7
-KY,M,1975.0,John,377
-KY,M,2020.0,Casey,36
-KY,M,1957.0,Casey,914
-KY,M,1916.0,Mary,23
-KY,M,1976.0,Taylor,444
-KY,F,1962.0,,144
- KY , M ,1919.0,Jordan,31
-KY,F,,Jordan,79
-,M,2012.0,Robert,13
-KY, F ,1976.0,Taylor,329
-KY,F,1964.0,Casey,185
-KY,,1965.0,Linda,476
-KY,M,1933.0,Michael,354
- KY ,F,1985.0,Linda,50
-KY,F,1960.0,Mary,88
-KY,F,1954.0,Jordan,532
-KY,F,,Jennifer,175
-KY,M,2016.0,Jennifer,8
-KY,M,2019.0,John,8
-KY,F,1957.0,Patricia,384
-KY,F,1947.0,Mary,7
-KY, M ,2008.0,Taylor,33
-KY, F ,1992.0,Taylor,141
-KY,F,1999.0,Jennifer,18
-KY,F,1982.0,Casey,569
-KY,F,1992.0,Jordan,282
-KY,M,,Alex,138
-KY, F ,1967.0,Mary,202
-KY,F,1926.0,Alex,126
-KY, F ,1995.0,Jordan,737
-KY,F,1968.0,Patricia,1101
-KY,F,2017.0,Mary,258
-,F,1982.0,Alex,549
-KY,M,1954.0,Casey,599
-,M,1954.0,James,
-KY,F,1927.0,John,143
-KY,F,1995.0,Linda,
-KY,,2019.0,Jennifer,130
-KY,,1975.0,Mary,592
-KY,M,1956.0,Alex,592
-KY,M,1932.0,Casey,215
-KY,F,1981.0,Mary,211
-KY,F,1991.0,Linda,354
-KY,F,1947.0,Taylor,364
- KY ,M,1978.0,James,
-KY,F,1963.0,Jordan,684
-KY,F,1912.0,,26
-KY,M,1992.0,,684
-KY,M,1996.0,James,225
-KY,F,,Patricia,156
-KY,M,1988.0,James,307
-KY,F,1981.0, Taylor ,483
-KY,F,1936.0,Jordan,73
-KY,M,,John,247
-KY,F,1939.0,Jennifer,10
- KY ,F,1912.0,Patricia,12
-KY,,1910.0,Mary,8
-KY,F,1919.0,Linda,81
-KY,M,2017.0,Robert,5
- KY , M ,2011.0, James ,69
- KY ,M,2018.0,Casey,273
-KY,M,1982.0,John,39
-KY,M,1975.0,Alex,
-KY,M,1942.0,Casey,39
-KY,F,2013.0, Mary ,315
-KY,F,1997.0,Taylor,1007
-KY,M,1976.0,Michael,382
- KY ,M,1965.0,Taylor,108
-KY, F ,1942.0,Taylor,16
-KY,F,1989.0,,29
-KY,M,1916.0,Taylor,29
-KY,F,1947.0,Jennifer,466
-KY, F ,1964.0,Alex,314
-KY, M ,2022.0,robert,44
-KY,,1940.0, Jordan ,50
-KY,M,1969.0,Robert,341
- KY ,F,1998.0,Linda,32
-KY,F,2007.0,Linda,101
-KY,F,1962.0,Mary,17
-KY, F ,2006.0,Jennifer,759
-KY,M,1926.0,Patricia,22
-KY,M,1982.0,Jordan,870
-KY,M,1939.0,Mary,135
-KY,,1910.0,Casey,24
-KY,F,1959.0,Linda,12
-KY,F,1988.0,Taylor,353
-KY,F,1964.0,Taylor,1104
-KY,,1989.0,Casey,68
-KY,M,1957.0,Jordan,95
-KY,F,1993.0,Taylor,377
- KY ,M,2020.0,Mary,13
-KY,F,1933.0,Mary,12
-KY,M,1934.0,Taylor,19
-KY,F,1972.0,Jordan,760
-KY, M ,1936.0,taylor,34
-KY,F,2018.0,Linda,120
-KY,M,1985.0,Casey,466
-KY, F ,1974.0,Taylor,167
-KY,F,1999.0,Mary,359
- KY ,F,1919.0,Mary,13
-KY,F,1934.0,John,15
-KY,F,1954.0,Jennifer,18
- KY , F ,1939.0,Jordan,127
-KY,M,1977.0,Alex,612
-KY,F,1929.0,alex,5
-KY,M,1920.0,Taylor,134
-KY,F,1951.0,Taylor,215
-KY,M,1950.0,Casey,1103
-KY,,1995.0,Taylor,838
-KY,M,1924.0,Casey,78
-KY,M,1994.0,Taylor,268
- KY ,F,1983.0,Alex,651
-KY,M,1978.0,Taylor,284
-KY,M,1954.0,John,116
-KY,M,1991.0,James,49
-KY,M,2018.0,Robert,36
-KY,M,1992.0,,684
-KY,F,1969.0,Patricia,12
-KY, F ,1983.0,Casey,148
-KY,F,1956.0,Taylor,21
-KY,F,2017.0,Jordan,12
-,M,1994.0,Alex,103
-KY,M,1965.0,Linda,673
-KY,M,1946.0,James,524
-KY,F,2010.0,Casey,741
-KY,M,1980.0,John,428
-KY,F,2017.0,Linda,11
-KY, M ,1980.0,Jordan,125
-KY,F,1986.0,Linda,469
-KY,M,2022.0,James,41
-KY,F,1952.0,Jordan,177
-KY,F,1974.0,Jordan,427
-, F ,1914.0,Mary,73
-KY,F,1995.0,Casey,114
-KY,F,1931.0,Jordan,282
-KY,M,1986.0,Michael,231
-KY,F,1981.0,James,41
-KY,M,1979.0,Taylor,250
-KY,F,1992.0,Robert,136
-KY,M,1970.0,,80
-KY,M,1969.0,John,342
-KY,F,1933.0,Alex,44
-KY,M,1959.0,Taylor,43
-KY,M,1958.0,Taylor,290
-KY, M ,1927.0, Michael ,63
-KY,M,2003.0,James,40
-KY, F ,1997.0,Jennifer,766
-KY,M,1940.0,Alex,53
- KY ,M,1982.0, Alex ,576
-KY, F ,1938.0,Patricia,382
-KY,F,1930.0,Taylor,24
-KY,M,,Robert,23
-KY,M,1964.0,,15
-KY,M,2006.0,James,189
-KY,M,2013.0, Taylor ,51
-KY,F,1944.0,Patricia,75
-,M,1999.0,Alex,115
-KY, F ,1916.0,Alex,112
-KY,M,2013.0,Michael,106
-KY,M,1961.0,Jordan,192
-KY,M,1932.0,John,123
-KY,M,1973.0,James,157
-KY,M,1969.0,James,283
- KY ,F,1957.0,Jordan,56
-KY, F ,,Linda,189
-KY,F,2014.0,Patricia,32
-KY,M,2016.0,James,20
- KY ,M,1974.0,John,530
-,F,1943.0,Mary,680
-,F,1977.0,Jennifer,7
-KY,M,1963.0,Jordan,46
-KY,M,1963.0,James,46
-KY, M ,1938.0,Casey,6
-KY,M,,James,110
-KY,F,2022.0,Jordan,17
-KY,M,1995.0,,544
-KY,,2012.0,Jennifer,25
-KY,F,1983.0,Linda,196
+state,sex,year,name,count
+ KY ,,2002.0,Patricia,421
+,F,1938.0,Mary,344
+KY,F,1941.0,Jordan,66
+KY,M,2009.0,Taylor,267
+KY,F,2017.0,Alex,5
+KY,M,1934.0,,30
+KY,F,1971.0,Mary,213
+,F,2021.0,Jordan,542
+KY,M,2011.0,Casey,253
+KY,F,1983.0,Robert,412
+KY,F,1948.0, Taylor ,73
+KY,M,2018.0,Michael,130
+KY,M,1929.0,john,8
+ KY ,M,1962.0,,5
+KY,M,1925.0,Alex,98
+ KY ,F,2009.0,Casey,220
+KY,F,1999.0,Jordan,779
+KY,F,1957.0,Casey,242
+KY,M,1998.0,Jordan,352
+KY,M,1968.0,Michael,1033
+ KY ,M,1959.0,Taylor,32
+KY,M,1988.0,James,565
+,M,1968.0,Jordan,1163
+KY,F,2004.0,,912
+KY,M,2015.0,James,496
+ KY ,F,2021.0,Linda,375
+KY,F,1929.0,Jordan,27
+KY,M,1950.0,James,870
+,F,1941.0,John,242
+KY,F,1966.0,Jordan,553
+ KY ,F,1991.0,Alex,87
+KY,F,2016.0,Alex,21
+KY,M,1977.0, Robert ,
+KY,M,2013.0,John,10
+KY,M,2020.0,Jordan,169
+KY,M,1975.0,Taylor,351
+KY, F ,1985.0,Linda,197
+KY, F ,2004.0,Taylor,6
+,M,2002.0,Michael,288
+KY,F,, Linda ,334
+KY,M,1973.0,Robert,372
+KY, M ,2011.0,Jordan,29
+KY,F,,Mary,331
+KY,F,1976.0,,264
+KY,M,1938.0,Alex,33
+KY, M ,2022.0,Alex,12
+KY,M,1953.0,Taylor,214
+KY,M,1916.0,,10
+KY,M,1983.0,Robert,383
+,,1948.0,Casey,58
+,M,1969.0,Jordan,483
+KY,F,1953.0,Jordan,33
+KY,M,1980.0,robert,
+ KY ,M,1963.0,James,230
+KY,M,1990.0,James,150
+KY,F,1936.0,taylor,13
+KY,F,2004.0,Casey,378
+KY,F,1952.0,Mary,342
+KY,M,2004.0,Linda,508
+KY,M,1964.0,Taylor,21
+KY,,2010.0,Casey,36
+KY,F,2013.0,Casey,344
+ KY ,M,1943.0,Jordan,13
+KY,F,1922.0,Linda,63
+KY,F,2004.0,mary,482
+KY,M,1978.0,Michael,596
+KY,M,1963.0,Jordan,594
+ KY ,M,1970.0,Casey,768
+KY,,1983.0,John,351
+KY,M,1968.0,Taylor,257
+ KY ,M,1917.0,Michael,13
+KY,F,1990.0,Patricia,508
+KY,F,2001.0,Alex,442
+ KY ,F,2009.0,Mary,247
+ KY ,F,2009.0,Linda,17
+KY,,2000.0,Jennifer,337
+KY,F,1950.0,Mary,155
+KY,M,2013.0,James,92
+,F,2022.0,Mary,52
+KY,F,1951.0,Patricia,788
+KY,F,1975.0, Patricia ,191
+KY,F,1986.0,Taylor,677
+KY, F ,1957.0, Linda ,15
+KY,M,2010.0,John,35
+KY,,1946.0,Jennifer,276
+KY,M,1996.0,Jordan,390
+KY,M,1978.0,Taylor,543
+KY,M,1988.0,Jordan,218
+KY, M ,2006.0,,
+KY,F,1919.0,Casey,68
+KY,M,1992.0,Michael,285
+KY,F,1974.0,alex,831
+KY,M,1927.0,James,7
+KY,F,1941.0,Linda,30
+KY,F,,Taylor,174
+KY,F,,Jennifer,155
+KY,M,1921.0,Robert,66
+KY,M,2008.0,Alex,
+KY,M,1916.0,Casey,33
+KY, F ,2013.0,Jordan,24
+ KY , M ,1990.0,Alex,51
+KY,M,1952.0,,70
+KY,F,1912.0,Alex,33
+KY,M,1921.0,Michael,99
+KY,M,2013.0,Taylor,49
+KY,F,1953.0,Alex,300
+KY,M,1915.0,Michael,34
+KY,F,2015.0,Linda,17
+KY,M,1970.0,Alex,366
+KY, F ,1918.0,Michael,5
+KY,M,1967.0,Jordan,375
+KY,M,1915.0,Jordan,8
+KY,M,1985.0,Alex,277
+KY,F,1963.0,Alex,583
+KY,F,1983.0,Patricia,161
+KY,,1970.0,Mary,25
+,F,2017.0,michael,13
+KY,F,1925.0,Jennifer,6
+KY,F,1931.0,Patricia,7
+KY,F,2012.0,Taylor,821
+KY,M,1955.0, Michael ,84
+KY,F,1929.0,Jordan,27
+ KY ,,1949.0,John,142
+KY,M,1991.0,James,833
+KY,M,1977.0,Michael,400
+KY,M,2018.0,Alex,34
+,M,1989.0,Michael,393
+KY,M,1948.0,Michael,65
+KY, F ,1956.0,Alex,80
+,,1980.0,Jordan,437
+,F,1950.0,Taylor,542
+KY, M ,1919.0,Michael,11
+KY,F,1996.0,Jordan,848
+KY,M,1961.0,Patricia,103
+KY,M,1923.0,James,54
+ KY ,M,1991.0,Jordan,163
+ KY ,M,1926.0, John ,142
+KY,M,1993.0,James,430
+ KY ,M,1951.0,John,526
+KY,F,1955.0,,602
+KY,M,1971.0,Taylor,373
+KY,M,2006.0,Patricia,6
+KY,F,1937.0,Linda,285
+KY, M ,1995.0, Michael ,298
+KY,M,1948.0,,50
+KY,F,1918.0,Mary,49
+KY,M,1993.0,Alex,347
+ KY ,M,1976.0,Alex,531
+KY,F,2001.0, Patricia ,271
+KY,M,1986.0,Jordan,
+KY,F,1990.0,Alex,69
+KY,F,1992.0,,122
+ KY , F ,1973.0,Taylor,912
+ KY ,F,1914.0,,14
+KY,F,1969.0,,106
+KY, F ,1993.0,Casey,51
+KY,F,1980.0,Linda,290
+, M ,1968.0,Robert,334
+KY,M,2005.0,John,286
+,F,2010.0,Alex,135
+KY,M,1996.0,Michael,
+KY,M,2020.0,Robert,98
+KY,F,1939.0,Linda,73
+KY,M,1949.0,Jordan,7
+KY,F,1997.0,Alex,188
+KY,M,2017.0,Casey,5
+KY,F,1998.0,Linda,369
+KY,F,1943.0,Taylor,220
+ KY ,M,2022.0,John,18
+KY, M ,2006.0,John,241
+KY,M,1984.0, Taylor ,163
+KY,M,1956.0,Casey,845
+KY,M,1947.0,John,17
+KY, M ,1976.0,Jordan,15
+ KY ,F,1997.0,Jordan,78
+KY,M,1975.0,Jordan,335
+KY, F ,1928.0,Patricia,31
+KY,F,1960.0,Patricia,36
+ KY ,F,1912.0,Taylor,62
+,M,,Robert,11
+KY,F,1973.0,Jordan,370
+KY,M,2021.0,John,879
+KY,F,1959.0,Taylor,351
+KY,M,2014.0, Casey ,416
+KY,F,1985.0,Jennifer,372
+KY,F,2013.0,Mary,14
+KY,M,1936.0,Jordan,456
+KY,M,,,94
+KY,,1977.0, Mary ,476
+ KY ,M,2016.0,Jordan,387
+ KY ,M,2017.0,John,65
+KY,M,1985.0,taylor,150
+KY,M,1985.0,John,536
+KY,F,1964.0,Taylor,217
+,M,1929.0,Jordan,8
+KY,M,1990.0,Taylor,168
+KY, M ,1947.0,Robert,6
+KY,F,2017.0,Jennifer,206
+KY, F ,1948.0,Jennifer,22
+KY,M,1971.0,Jordan,32
+KY,F,2000.0,Casey,18
+KY,M,,Linda,8
+KY,M,1975.0,John,233
+KY,M,1988.0,Robert,349
+KY, F ,1920.0,Jordan,18
+KY,F,,Casey,463
+KY,M,1975.0,Michael,275
+KY,F,1961.0, Linda ,433
+KY, F ,1920.0,Mary,32
+KY,M,1913.0,John,51
+KY,F,1956.0,Patricia,101
+ KY ,F,1950.0,Patricia,463
+KY,F,1935.0,Patricia,18
+KY,F,1999.0,Linda,79
+ KY ,M,1997.0,Alex,328
+KY,F,1966.0,Casey,537
+KY,M,1992.0,,230
+KY,M,1911.0,Robert,77
+KY, F ,, James ,9
+,,1927.0,Mary,115
+KY,M,2012.0,Taylor,141
+KY,F,1926.0,Alex,79
+KY,M,2009.0,Robert,37
+KY,F,1989.0, John ,89
+KY,M,1982.0, John ,900
+KY,F,1972.0,Jordan,139
+KY,,1937.0,Casey,194
+KY,F,1995.0,Patricia,173
+KY,F,1962.0,Jordan,274
+KY,F,1917.0,Jennifer,16
+,F,2002.0,John,5
+KY,M,1989.0,Alex,606
+KY,M,1958.0,taylor,69
+KY,M,1923.0,Casey,19
+KY,F,1927.0,Jennifer,32
+KY,M,1957.0,Jordan,33
+KY,F,1962.0,,44
+KY,F,1943.0,james,553
+ KY ,F,1932.0,Linda,22
+KY,F,1979.0,Alex,572
+KY,F,1978.0,Jennifer,267
+KY, M ,2003.0,Robert,9
+KY,F,1933.0,Linda,67
+KY,F,1980.0,Taylor,467
+KY, M ,1972.0,Robert,243
+KY,F,1964.0,Patricia,78
+KY,F,1916.0,Jordan,5
+KY,F,1977.0,Casey,375
+KY,F,1988.0,Jennifer,162
+ KY ,,1989.0,Mary,112
+KY,M,1990.0,Jordan,487
+ KY ,M,1989.0,Jordan,353
+KY,F,1975.0,Jordan,177
+KY,F,1979.0,Jordan,263
+ KY ,F,1977.0,John,520
+KY,F,1925.0,Casey,10
+KY,M,1990.0,Michael,285
+ KY , M ,1952.0,,641
+KY,M,1982.0,Taylor,
+,M,1931.0,Jordan,296
+KY,F,1947.0,Casey,265
+ KY ,M,1975.0,Robert,156
+KY,F,1938.0,Casey,401
+KY,M,2013.0,Robert,652
+KY,,1978.0,Robert,545
+KY,M,1997.0,Casey,165
+KY,M,1958.0,Michael,
+KY, M ,1992.0,Taylor,227
+KY, M ,2013.0,Casey,131
+KY,M,1938.0,John,408
+KY, F ,1948.0,Jennifer,22
+KY,M,1955.0,Jordan,151
+KY,M,1958.0,Casey,69
+KY,M,1937.0,Jordan,53
+KY,M,1970.0,James,1063
+KY,M,1991.0,Taylor,472
+KY,M,1982.0, James ,334
+KY,F,1967.0, Casey ,158
+ KY ,F,1972.0,Casey,264
+ KY ,F,1959.0,Mary,20
+KY,M,1921.0,Casey,29
+KY,M,1944.0,Taylor,109
+KY,F,1965.0,Jordan,62
+KY,F,1977.0, Jordan ,313
+KY,M,1991.0,Jennifer,308
+KY,F,1960.0,Jennifer,6
+KY,F,2002.0,Jordan,227
+KY,F,,Jennifer,229
+KY,F,,Jennifer,74
+KY,M,2011.0,Patricia,7
+KY, M ,,john,1075
+ KY ,M,1928.0,John,427
+KY,M,1986.0,Taylor,254
+KY,F,2009.0,Patricia,21
+KY,F,1923.0, Jordan ,14
+KY,F,1951.0,Linda,47
+KY,M,1952.0,Robert,155
+ KY ,F,1981.0,jennifer,49
+ KY ,M,1995.0, Alex ,440
+KY,M,1927.0,Casey,40
+KY,M,1970.0,Jordan,268
+KY,M,,James,37
+KY,M,1943.0,John,6
+KY,F,1932.0,,8
+KY,F,,Jordan,60
+KY,M,1947.0,Jordan,47
+KY,,1910.0,Michael,9
+KY,M,2020.0,Patricia,1145
+KY,M,,John,45
+KY,M,,Jennifer,8
+KY,M,2009.0,Michael,246
+KY,F,1987.0,Linda,
+KY,F,,Patricia,514
+KY,F,1994.0,Jordan,315
+KY, M ,1995.0,Taylor,1003
+KY,M,1964.0,Robert,81
+KY,F,1911.0,Jordan,41
+KY,M,1996.0,Robert,759
+ KY ,F,1988.0,Patricia,428
+KY,F,1957.0,Jennifer,117
+KY,M,1920.0,James,152
+KY,F,,Linda,7
+,F,1978.0,Patricia,330
+,F,1981.0,Casey,1039
+KY,M,1987.0,Alex,691
+KY,M,2018.0, Casey ,27
+KY, F ,1930.0,Jennifer,311
+KY, M ,1989.0,James,320
+KY,F,2007.0,Patricia,16
+KY,F,1920.0,Alex,137
+KY,F,1946.0,Taylor,11
+KY,F,1981.0,Alex,483
+KY,F,2012.0, Alex ,52
+KY, F ,2014.0,patricia,9
+KY,M,2009.0,Patricia,75
+KY,F,2000.0,Linda,656
+KY,M,1950.0,Jordan,58
+KY,M,,John,18
+KY,M,1998.0,Taylor,107
+KY,M,1999.0,Taylor,49
+KY,F,1937.0,Jordan,106
+ KY ,M,2001.0,Jordan,95
+KY,F,2012.0,Casey,67
+KY,F,2001.0,taylor,55
+,F,1938.0,Mary,344
+KY,M,1956.0,Taylor,223
+KY,M,2008.0,John,50
+KY,,1959.0,Jordan,138
+KY,F,1995.0,Taylor,963
+KY,M,1984.0,Alex,266
+KY,M,1983.0,Michael,343
+KY,M,1963.0, Patricia ,69
+KY,F,1998.0,Taylor,486
+KY,M,2006.0,Casey,116
+KY, M ,,Taylor,7
+KY, F ,2016.0,Patricia,16
+KY,M,1964.0,Jordan,242
+KY,F,2002.0,Patricia,22
+KY,M,2017.0,Michael,88
+KY,F,1940.0,Patricia,
+KY,F,1933.0,Alex,19
+KY,F,1979.0,casey,86
+KY,M,1975.0,James,153
+KY,M,1942.0,Casey,85
+KY,F,1949.0,,6
+KY,M,1983.0,Alex,471
+KY,F,2002.0,Casey,764
+KY,M,1976.0,Casey,892
+ KY ,F,2008.0,Jordan,182
+KY,F,2022.0,Jennifer,7
+KY, M ,1978.0,Jennifer,766
+KY,M,1975.0,Alex,236
+KY,F,1974.0,Linda,336
+KY,F,1935.0, Mary ,64
+KY, M ,,John,73
+KY,F,1934.0,Linda,20
+KY,F,1958.0,Jennifer,582
+KY,F,1968.0,Taylor,25
+KY,F,1986.0,Taylor,677
+KY,M,1971.0,Alex,60
+ KY ,F,1961.0,Jordan,208
+KY,,2007.0,Alex,24
+KY, F ,1937.0,Jennifer,181
+,F,1993.0,Mary,1506
+KY,F,1915.0,Linda,11
+KY,F,1978.0,Linda,82
+KY,F,2022.0,Casey,10
+KY,F,1999.0,Alex,57
+KY,,,Taylor,6
+ KY ,M,2018.0,Robert,5
+KY,F,,Jordan,61
+KY, F ,2021.0,,8
+KY,F,1967.0,Jordan,24
+KY,M,1985.0,Michael,1066
+KY,M,1961.0,Michael,524
+KY,F,1983.0,Alex,436
+,F,1995.0,Jordan,188
+KY,F,1934.0,Taylor,14
+ KY ,F,1982.0,Taylor,128
+KY,M,1980.0,John,434
+KY,F,2006.0,Jordan,28
+KY,F,2008.0,Jennifer,12
+ KY ,F,1951.0,Taylor,56
+ KY ,F,1978.0,Alex,132
+ KY ,M,1942.0,Michael,50
+KY,F,1964.0,Casey,877
+KY,F,2000.0,Mary,665
+KY,M,1922.0,Michael,196
+KY, M ,2008.0,Taylor,75
+KY,M,2005.0,Jordan,185
+KY,M,,Casey,501
+KY,M,1999.0,Casey,307
+KY,F,1951.0,Jordan,183
+KY, F ,1947.0,Jordan,342
+KY,M,1988.0,Casey,1006
+KY,M,2002.0,James,129
+KY,F,1937.0,Alex,29
+KY, M ,1963.0,Robert,199
+,M,1919.0,John,10
+KY,F,2009.0, Michael ,53
+KY,M,,Robert,565
+KY,M,1964.0,James,611
+KY,M,2012.0,James,15
+KY,M,1946.0,Casey,355
+KY,F,1958.0,Alex,532
+KY,M,1972.0,Alex,215
+,M,2001.0,Alex,341
+KY,M,1955.0,,520
+KY,F,1961.0,Patricia,119
+KY,F,1996.0,Taylor,693
+KY,M,2009.0,jordan,14
+KY,F,1955.0,mary,9
+ KY ,M,1953.0,Michael,80
+KY,M,2016.0,taylor,268
+KY,F,1987.0,Jennifer,377
+KY,F,1935.0,Linda,
+KY, M ,1928.0,James,12
+KY,F,1935.0,Taylor,394
+KY,F,1971.0,Jordan,410
+KY,F,1995.0,Mary,
+KY,M,1972.0,Jordan,567
+KY,M,1919.0,Jennifer,12
+,M,1942.0,John,708
+KY,,,Casey,113
+KY,M,1941.0,alex,356
+KY,M,1942.0,Robert,5
+KY,M,1999.0,James,33
+KY,F,2019.0,Patricia,19
+KY,M,1979.0,Patricia,742
+ KY ,M,1913.0,Alex,11
+KY,M,1955.0,John,120
+KY,M,2018.0,James,41
+KY,F,1947.0,Mary,143
+KY,F,1966.0,Mary,48
+KY,F,1912.0, Mary ,33
+KY,M,1963.0,Michael,45
+ KY ,M,1993.0,Casey,546
+KY, M ,2013.0,Jordan,403
+KY,F,1964.0,Mary,1021
+KY, M ,1998.0,John,20
+ KY ,F,1933.0, Jordan ,12
+KY,F,1970.0,Jordan,69
+KY,F,1927.0,,139
+ KY ,,1961.0,casey,449
+ KY ,F,1994.0,jennifer,183
+KY,F,1952.0,Jordan,14
+KY,M,1952.0,Jordan,183
+KY,F,1997.0,Linda,100
+KY,,1937.0,Robert,7
+KY,M,1986.0,Robert,92
+KY,M,1968.0,Casey,156
+KY,M,2000.0,Casey,667
+KY,M,1958.0, Jordan ,491
+KY,M,1934.0,robert,24
+KY,M,1927.0,Michael,53
+,M,1928.0,Alex,39
+KY,F,2017.0,James,9
+,F,1954.0,Taylor,850
+KY,F,1941.0,Mary,
+KY,M,1982.0, Casey ,432
+KY,M,1950.0,john,87
+,M,,Alex,265
+KY,F,1957.0,Patricia,17
+,F,1997.0,Casey,683
+,F,1933.0,Taylor,117
+, F ,1955.0,Alex,228
+KY, F ,1988.0,Alex,387
+,F,2010.0,Patricia,125
+KY,F,1973.0, Mary ,790
+KY,F,1956.0,Jordan,14
+KY,M,1951.0,Alex,629
+KY,M,2014.0,Jordan,15
+KY,M,1954.0,John,383
+KY,F,1994.0,Linda,24
+KY,F,1993.0,Alex,527
+KY,F,1934.0,,12
+KY,M,2015.0, Michael ,42
+KY,F,2013.0,Alex,10
+KY,F,1982.0,Patricia,124
+KY,M,1999.0,,107
+KY,F,1951.0,Mary,413
+, M ,1943.0,Michael,13
+,,,Casey,273
+KY,M,1969.0,Michael,945
+KY,M,1971.0,Casey,497
+KY,F,2000.0,Patricia,42
+,M,1978.0,Linda,272
+KY,F,1961.0,Jennifer,816
+KY,M,1974.0,Alex,
+KY,F,1986.0,Alex,250
+KY,M,2010.0,James,309
+KY,M,1914.0,Mary,6
+KY,M,1946.0,Robert,53
+KY,F,1952.0,Alex,22
+KY,M,2008.0,Jordan,48
+KY,M,1957.0,Michael,289
+KY,M,1969.0,John,283
+KY,F,1958.0,Patricia,134
+KY,,1994.0,Mary,927
+KY,M,1939.0,Casey,11
+KY,M,1997.0,John,118
+KY,M,1981.0,Robert,81
+KY, M ,1981.0,Casey,130
+KY,,2005.0,Jennifer,165
+KY,F,1961.0, James ,153
+KY,F,1959.0,James,
+KY,,1981.0,Jordan,294
+ KY , F ,1957.0,Mary,22
+KY,M,1984.0,Robert,70
+KY,,1937.0,,238
+ KY ,F,2005.0,Jordan,603
+KY,M,1980.0,James,221
+ KY ,M,1994.0,Patricia,942
+KY, F ,1979.0,Taylor,548
+KY,M,1974.0, Jordan ,475
+KY,M,1922.0,Patricia,
+KY, F ,1964.0,Alex,198
+KY,M,2016.0,James,41
+KY,F,1962.0,Taylor,
+KY,F,2000.0,Jordan,732
+, F ,1944.0,Taylor,672
+KY,F,1945.0,Patricia,35
+KY,M,1992.0,,546
+KY, F ,1950.0,Jordan,17
+KY,M,1956.0,,96
+KY,F,1985.0,Taylor,191
+KY,,2013.0,Taylor,14
+KY,M,1975.0,,587
+KY, F ,1938.0,Taylor,45
+KY,,2002.0,John,20
+KY,F,2020.0,Jennifer,
+KY,F,1949.0,Linda,58
+KY, F ,1965.0,Casey,36
+KY,F,1964.0,Linda,260
+KY,F,1913.0,James,36
+ KY ,F,1931.0,Linda,132
+KY,M,1936.0,Alex,541
+KY,F,1996.0,,92
+KY,M,1974.0,Taylor,550
+ KY ,M,2001.0, James ,416
+KY,M,2012.0,Robert,26
+ KY ,M,1941.0,Jordan,62
+KY,F,1975.0,John,742
+KY,M,1945.0,Casey,67
+,F,1992.0,Taylor,250
+ KY ,M,1959.0,Alex,36
+KY,M,1964.0,alex,38
+,F,1947.0,Patricia,317
+KY,F,1994.0,,712
+KY,M,,Taylor,
+KY,M,1965.0,Jordan,92
+KY,F,2022.0,,63
+KY,F,1974.0,Mary,922
+KY,F,1929.0,Jennifer,94
+KY,F,,Taylor,343
+KY,F,1976.0,taylor,418
+KY,F,1975.0, Jennifer ,53
+KY,M,2011.0,John,15
+KY,F,2021.0,Taylor,9
+KY,,1947.0,Michael,380
+ KY ,F,2005.0,alex,96
+KY,M,1919.0, Robert ,
+KY,M,1967.0,Linda,365
+KY,F,1974.0,Patricia,686
+KY,M,1970.0,Robert,60
+KY,M,1973.0,Casey,524
+KY,M,2000.0,Taylor,383
+KY,F,1969.0,James,1100
+KY,M,2001.0, John ,800
+KY,M,1979.0,Casey,427
+KY,F,1982.0,Alex,76
+KY,F,2015.0,,46
+KY,M,,Alex,53
+KY,,1954.0,Jordan,59
+KY, F ,1986.0,Casey,767
+KY,M,1995.0,Jordan,473
+,M,1991.0,Casey,319
+KY,,2016.0,Casey,83
+ KY ,F,1993.0,Jennifer,328
+KY,F,1982.0,Jennifer,232
+KY,M,1959.0,John,22
+KY,F,1953.0,Taylor,1182
+KY,F,1994.0,Michael,549
+KY,F,1945.0,,11
+KY,F,2002.0,Mary,117
+KY,,1932.0,Jordan,6
+KY,M,1987.0,Robert,538
+KY,F,1943.0,Alex,77
+KY, F ,1951.0, Casey ,
+KY, F ,2008.0,Taylor,79
+ KY ,M,1947.0, James ,719
+KY,M,1976.0,John,391
+KY,F,1934.0,,35
+KY,F,1927.0,Jordan,8
+KY,F,1948.0,Patricia,157
+KY,M,2001.0,,186
+ KY ,F,1995.0,Alex,74
+KY,F,1962.0,Alex,458
+KY,M,2020.0,Taylor,95
+ KY ,M,1953.0,John,
+,F,1986.0,Robert,1127
+KY,F,1995.0,Linda,418
+,M,1986.0,Casey,
+KY,F,1990.0,Linda,654
+KY, F ,1942.0,Patricia,178
+KY,M,1929.0,James,19
+KY,F,1999.0,Taylor,84
+, F ,,Patricia,49
+KY,M,1945.0,Taylor,570
+KY,F,1939.0,patricia,222
+KY, F ,1929.0,Mary,59
+KY, M ,1976.0,Michael,109
+KY,F,2020.0,Mary,36
+,F,2004.0,linda,1099
+KY,M,1924.0,robert,41
+KY,M,1952.0,Taylor,15
+KY,F,1949.0,Mary,41
+KY,M,1959.0,Robert,16
+ KY ,F,2019.0,,7
 KY,M,1912.0,Casey,7
-KY,F,1947.0,Casey,38
- KY ,M,1973.0,Michael,796
-KY,M,1970.0,James,364
-KY,,1990.0,James,629
-KY, F ,2010.0,Taylor,190
-,F,2009.0,Patricia,25
-KY,M,1973.0,Robert,95
-KY,F,2016.0,Mary,11
-KY,,1942.0,Casey,64
-KY,F,1954.0,,513
-KY,M,,Robert,497
-KY,M,1922.0,Taylor,74
-KY,F,1919.0, Taylor ,15
-KY,M,2001.0,James,271
-KY,M,1995.0, Robert ,877
-KY,M,1987.0,Michael,729
-KY,M,1989.0,Michael,200
-KY,F,2011.0,Mary,30
-KY,M,1981.0, Michael ,20
-KY,M,1976.0,Robert,243
-KY,M,2008.0,Casey,686
-KY,M,1988.0,Robert,536
-KY,M,2015.0,Casey,200
-KY, M ,1966.0,taylor,86
-,F,1986.0,Taylor,434
-KY,F,1912.0,Casey,97
-KY,F,,Casey,261
-KY,,, Alex ,124
-KY,M,1972.0,John,202
-,F,2007.0,Taylor,165
-KY, M ,1929.0,John,416
-KY,M,1965.0,Alex,109
-KY,M,1932.0,Alex,12
-KY,M,2021.0,John,6
- KY ,M,1967.0,Casey,20
- KY ,F,2020.0,Mary,29
-KY, M ,1991.0,Robert,372
-KY,M,2021.0,alex,351
-KY,M,,Michael,394
-KY,F,1998.0,Jennifer,291
-KY,M,2021.0,Robert,78
-,M,1953.0,casey,398
-KY,F,2004.0,Mary,52
-KY,M,1919.0,Alex,22
-KY,,1977.0,jordan,59
-KY,F,2000.0,Jordan,186
-KY,M,1996.0,Robert,1264
-KY,F,2011.0,Casey,115
-KY, M ,1915.0,James,16
-KY,F,2005.0,casey,431
-KY,F,1969.0,Casey,75
-KY,M,1977.0,Casey,329
-KY,F,,Jordan,74
-KY,M,1914.0,Jordan,60
-KY,M,2001.0,John,654
-KY, F ,1980.0,Jordan,504
-KY,F,1918.0,taylor,7
-KY,F,1917.0,Alex,8
-KY,F,1952.0,Linda,48
-KY,M,1956.0,Taylor,180
-KY,F,1962.0,Taylor,236
-KY,F,2011.0,Linda,11
-KY,M,2004.0,,42
- KY ,F,,Casey,715
-KY,F,1982.0,Robert,833
-KY,M,2008.0,James,564
-KY,F,1925.0,Patricia,27
-KY,M,1926.0,Alex,32
-KY,F,,Jordan,13
-KY,F,2005.0,Patricia,135
-KY,M,2020.0,Robert,146
-KY, F ,2007.0,Jordan,1252
-KY, M ,1925.0,Casey,9
-KY,F,1961.0,Casey,69
-KY,F,1967.0,Casey,
-KY,M,1999.0,James,535
-KY,F,1956.0,Mary,
-KY,M,2021.0,Michael,25
-KY,M,1998.0,James,150
-,F,2005.0,Taylor,12
-KY,F,1965.0,Jennifer,1044
-KY,M,2014.0,John,125
-KY,M,1921.0,Michael,
-KY,M,1980.0,James,167
-KY,M,2013.0, Robert ,6
-KY,F,1991.0,Taylor,1267
-KY,F,2001.0,Linda,182
-KY,M,1986.0,Jennifer,485
-KY,M,1978.0,Alex,378
-KY,F,2018.0,John,111
- KY ,M,1985.0,Taylor,407
- KY ,M,1981.0,Taylor,403
-KY,M,1911.0,Alex,53
- KY ,F,,Patricia,310
-KY,F,1940.0,Jennifer,22
-KY,F,1969.0,Jordan,407
- KY ,F,1915.0,,149
-KY,F,2016.0,Jordan,45
-KY,M,1945.0,James,554
-KY,M,1982.0,Taylor,473
-KY,M,1996.0,Alex,35
- KY ,M,2006.0,casey,310
-, M ,1951.0,Casey,298
-KY,F,2014.0,Mary,5
-KY,F,1925.0,Linda,15
-KY,F,1941.0, Patricia ,15
-KY,M,2018.0,Michael,16
-KY,F,1973.0,Taylor,325
-KY,F,2018.0,Michael,302
- KY ,M,1927.0,Alex,35
-KY,,1968.0, John ,36
-KY,F,1943.0,Alex,218
-KY, F ,1956.0,Patricia,397
-KY,M,2010.0,Taylor,283
-KY,M,1954.0,Michael,54
-KY,M,2000.0,Robert,671
-KY,M,1965.0,Michael,261
-KY,F,2004.0,,423
-KY,M,1938.0,Jordan,229
-KY, F ,1950.0,Casey,509
-KY,F,1978.0,Patricia,126
-KY,M,1921.0,Taylor,8
-KY,F,1925.0,Casey,91
-KY,F,1981.0,Patricia,51
-KY,F,1919.0,Casey,26
-KY,F,1933.0,Taylor,22
-KY, F ,1942.0,Alex,1250
- KY ,M,1967.0,Michael,574
- KY ,F,1983.0,mary,151
-KY,F,1987.0,Patricia,
- KY , F ,2019.0,Patricia,32
- KY ,F,1950.0,Alex,94
-KY,F,1962.0,Patricia,236
-KY,F,1946.0,Taylor,23
-KY,M,1925.0,Robert,392
- KY ,F,1974.0,John,323
-KY,F,1953.0,Alex,85
-KY,,1940.0,Casey,5
-KY,F,1928.0,Jennifer,34
-KY,M,2016.0, Casey ,165
-KY, F ,1976.0,Patricia,184
-KY, M ,1965.0,John,351
- KY , M ,2010.0,,655
-KY,M,2019.0, Jordan ,199
-KY, M ,2016.0,Alex,5
- KY ,F,2005.0,Linda,81
-KY,F,1952.0,Casey,18
-KY,F,2001.0,Alex,623
- KY ,M,1961.0,Taylor,142
-KY, F ,1910.0,Robert,11
-KY,M,1967.0,Jennifer,133
-KY,F,1983.0,Taylor,447
-KY,M,1945.0,Taylor,31
-KY,F,1933.0,Patricia,27
-,M,1977.0,James,64
-KY, F ,1933.0,Jennifer,8
-KY,,1933.0,Casey,9
-KY, F ,1951.0,Casey,380
-KY,F,1937.0,Jordan,404
-KY,F,1949.0, Patricia ,32
-KY,M,2022.0,Alex,82
-KY,F,1937.0,Taylor,55
- KY ,F,1960.0,Taylor,54
-KY,F,1951.0,Mary,595
-KY, F ,1953.0,Taylor,54
-KY,F,1928.0,Alex,279
- KY ,M,1964.0,jordan,454
-KY,,1984.0,Jordan,687
-KY,F,1948.0,Mary,19
-KY,F,2013.0,Taylor,103
-KY,M,1979.0,Alex,903
-KY,,1945.0,Taylor,43
-KY,M,1929.0,Alex,43
-KY, F ,1976.0,Patricia,184
-KY,F,2017.0,jennifer,447
-KY,F,1997.0,Mary,628
-KY,F,1985.0,Mary,764
-KY,M,1916.0,Robert,47
-KY,F,,James,510
-KY,F,2008.0,Patricia,202
- KY ,F,1932.0,Jordan,20
-KY,F,1974.0,Patricia,1127
-KY,F,2010.0,Jennifer,8
- KY ,,1969.0,Casey,381
-KY,M,1968.0,Jordan,1038
- KY ,F,1945.0,Patricia,351
-KY,F,1935.0,Linda,102
-KY,M,1947.0,Michael,389
-KY, F ,1968.0,Jennifer,439
-KY,M,1950.0,Robert,230
-KY,M,2004.0,Robert,91
-KY, F ,1972.0,Alex,30
-KY,F,1978.0,Jennifer,150
-KY,F,1949.0,linda,759
-KY,F,1953.0,Casey,496
-KY,M,1929.0,James,21
-KY,F,1927.0,Mary,83
-KY,M,1999.0,John,189
-KY,F,1953.0,Jennifer,534
-KY,F,2006.0,Patricia,142
-KY,F,2006.0,Alex,18
-KY,F,1957.0,Linda,1094
-KY,,1983.0,Alex,528
-KY,M,2006.0,Jordan,302
-KY,M,1915.0,Casey,28
-KY,,1919.0,John,21
-KY,M,1966.0,Alex,248
-KY,M,1940.0,John,109
-KY,M,2007.0,Jordan,234
-KY,M,1982.0,James,193
-KY,F,1940.0,Mary,463
-,F,1993.0,Jennifer,451
-KY,F,1945.0,John,13
-KY,M,1955.0,Casey,225
-KY, M ,,Jordan,81
-KY,M,1937.0,Jordan,196
-KY,F,2022.0,Patricia,59
-KY,F,1944.0,Jordan,146
-KY,F,1967.0,Taylor,65
-KY,M,1979.0,Taylor,250
- KY ,F,1950.0,Mary,1512
-KY,M,,John,371
-KY,M,1938.0,Robert,154
- KY ,F,1949.0,Casey,367
-KY,F,2013.0,Casey,319
-,M,1929.0,Robert,268
-KY,M,1940.0,Jordan,126
-KY,M,1985.0,John,86
-KY,M,1941.0,,5
-KY,F,1970.0,Patricia,125
-KY,F,1971.0,Linda,257
-KY,M,2013.0,Alex,48
-KY,F,1938.0,,59
-KY,M,1952.0,Casey,60
-KY, M ,1984.0,Alex,166
-KY, F ,2018.0,Taylor,5
-KY,M,1971.0,Casey,506
-,F,1971.0,Casey,180
-KY,F,1952.0,Mary,894
-KY,F,1974.0,jennifer,1027
-KY,F,1973.0,Alex,
-KY,M,1911.0,Robert,5
-KY,M,1945.0,Robert,
-KY,M,1944.0,,16
-KY,F,1979.0, Jordan ,176
-KY,,2001.0,Michael,53
-KY,F,1969.0,Taylor,7
-KY,F,2009.0,Jordan,26
-KY,M,1984.0,Casey,158
-KY,M,2019.0,Alex,55
-KY,M,1948.0,Casey,9
-KY,M,2009.0,Michael,547
- KY ,M,1939.0,Taylor,42
-KY,F,2020.0,Casey,54
-KY,F,1913.0,Jordan,7
- KY ,M,1995.0,James,497
-KY,F,1936.0,Linda,158
-KY,M,1960.0,Alex,362
-,M,1942.0,John,18
-,F,1929.0,Mary,15
-KY,F,1946.0,Linda,436
- KY ,M,1987.0,Jordan,63
-KY, M ,1968.0,Robert,212
-KY,F,2007.0,Robert,695
-KY,M,1958.0,Robert,218
-KY,M,1980.0,Taylor,
-KY, M ,2011.0,Jordan,16
-KY,M,1947.0,John,54
-KY,F,2011.0,Jennifer,626
-,F,1992.0, Patricia ,
-KY,F,1931.0,Mary,154
-KY,F,1998.0,Mary,272
-KY, M ,1978.0, Robert ,45
-KY, M ,1936.0,James,30
-KY, M ,1951.0,Alex,13
- KY ,F,1998.0,Jordan,361
-KY,M,1984.0,Jordan,315
-KY,M,1997.0,john,
-KY,,,Michael,60
-KY,,2000.0,Alex,55
- KY ,M,2014.0,Casey,91
-KY, M ,1950.0,Michael,
-KY,M,2017.0,Jordan,313
- KY ,F,2009.0,Alex,15
-KY,M,1927.0,Casey,6
-KY,F,1961.0,Jennifer,771
-KY,F,2001.0,Patricia,690
-KY,F,1927.0,Patricia,5
-KY,M,1968.0,Casey,50
-KY, F ,1993.0,Jordan,42
-KY,F,1958.0,Taylor,280
-KY,,2022.0,Casey,13
-KY,M,2007.0,Alex,174
-KY,F,2004.0,Michael,798
-KY,F,1996.0,John,74
-KY,M,1968.0,James,128
-KY,M,1996.0,John,
-KY,F,1965.0,Jordan,151
-KY,M,1956.0,Jordan,103
-KY,M,,Casey,85
-KY,M,2009.0,Taylor,367
-KY,M,1948.0,Michael,859
-KY,F,1977.0,taylor,453
-KY,F,1936.0,Mary,380
-KY,F,1943.0,Taylor,
-KY,M,1962.0,James,525
-KY,F,1964.0,Linda,70
- KY ,F,,Robert,373
-KY,F,1984.0,Alex,199
-KY,M,2003.0,John,155
-KY,F,1911.0,Alex,22
-,F,1945.0,jordan,250
-,F,1963.0,Taylor,267
-,M,1990.0,Robert,758
-KY,M,1926.0,Michael,21
-KY,M,1987.0,Patricia,98
-KY,M,1997.0,Michael,479
-KY,F,1984.0,Taylor,96
-KY,M,1944.0,Casey,107
-KY,M,2005.0, John ,817
-KY,,2009.0,John,160
-KY,F,1992.0,Jennifer,770
-KY,F,1987.0,Jennifer,72
- KY , F ,1978.0,Linda,865
-KY,,1966.0,,172
-KY,F,1975.0,Jennifer,207
-,F,1970.0,Linda,370
-KY,,1926.0,Casey,102
-KY,F,1935.0,Jennifer,48
-KY,M,2012.0,Alex,106
-KY,M,1984.0,Taylor,249
-KY,F,1919.0,Jennifer,8
-KY,F,1991.0,Jordan,364
-KY,M,1962.0,,410
-KY,F,1965.0,Patricia,208
-KY,F,1951.0,Alex,98
-KY,F,1981.0,Jennifer,154
-KY,F,1969.0,Linda,96
-KY,,1967.0,James,
-KY,F,1962.0,Casey,492
-KY,M,,Taylor,22
-KY,,1989.0,Casey,220
-KY,F,1966.0,James,1019
-KY,M,1977.0,Michael,253
- KY ,M,1946.0,jordan,247
-KY,F,2002.0,Mary,
-KY,M,1957.0,Michael,790
-KY,F,2012.0,Taylor,155
-KY, F ,1980.0,Alex,276
-KY,,1978.0,John,945
-KY,M,1955.0,Alex,956
-KY,,1952.0,Michael,493
-KY,F,1966.0,Casey,24
-KY,M,1962.0, Alex ,302
-KY, F ,1945.0,Jennifer,20
-KY,F,1913.0,Michael,23
-KY,M,1914.0,Alex,11
- KY , M ,1993.0,Alex,111
-KY,M,1932.0,Robert,606
-KY,F,1955.0,,99
-KY,M,1973.0,Alex,109
-KY,,2005.0,Jordan,251
-KY,M,1967.0,John,572
-KY,F,1980.0,,223
-KY,M,1941.0,Michael,29
-KY, F ,1996.0,Taylor,15
- KY ,M,1998.0,Robert,400
- KY ,M,1948.0,Taylor,39
-,M,2005.0,michael,160
-KY,F,1987.0,Linda,106
-KY,F,1948.0,James,61
-KY, F ,1952.0,Taylor,19
-KY,F,1977.0,Linda,815
-KY,M,1945.0,Alex,25
-KY, F ,1986.0,Casey,48
-KY, M ,1977.0,Robert,266
-KY,F,2011.0,Alex,142
-KY,F,1985.0,Patricia,27
-KY,F,2010.0,Linda,576
-KY,M,1991.0,John,312
-KY,F,1985.0,Alex,648
-KY,M,1991.0,Jordan,10
-KY,M,1979.0,James,445
-KY,M,1938.0,Linda,17
-KY,M,1948.0,John,63
-KY,M,1946.0,Michael,253
-KY, F ,1975.0,,32
-KY,M,1966.0,Robert,952
- KY ,M,1987.0, Robert ,354
-KY,M,1949.0,Jennifer,587
-KY,F,1963.0,Jennifer,428
-KY, F ,2006.0,Robert,91
-KY,F,2016.0, Alex ,8
-KY,M,,Linda,503
-KY,M,1983.0,James,815
-KY,F,1989.0,Jennifer,715
-KY,M,1974.0,Alex,892
-KY,F,1981.0, Jordan ,482
-,M,1999.0,Casey,293
-KY,M,1959.0,John,287
-KY,M,1988.0,john,
-KY,M,1979.0,John,123
- KY ,M,1958.0,John,32
-KY,F,1992.0,,397
- KY ,F,1941.0,Jordan,356
-KY,F,,Jennifer,198
-KY,F,2008.0,Jordan,806
-KY,M,1966.0,Michael,69
-KY,F,2014.0,Alex,23
- KY ,M,2001.0,Casey,712
-KY,F,1966.0,Alex,95
-KY,M,1980.0,Robert,865
-KY,M,1952.0,Alex,18
-KY,F,2010.0,,344
-KY,F,1940.0,James,234
-KY,F,1913.0,,26
- KY ,F,1962.0,Jordan,
- KY , F ,2008.0,Linda,68
-KY, F ,1975.0,alex,
-KY,M,,John,340
-KY,M,2004.0,Casey,465
-KY,M,1944.0,Taylor,
-KY,M,1999.0,Michael,256
- KY ,,1959.0,Jordan,
-KY,,1981.0,John,508
-KY,F,1936.0, Alex ,98
-KY,M,2012.0,Casey,6
-KY,F,1959.0,Casey,
-KY,F,2018.0,Jordan,548
- KY ,F,1915.0,,149
-KY,M,1928.0,James,88
-KY,M,1939.0,Michael,151
-KY,F,2021.0,Linda,226
-,M,,Jordan,866
- KY ,F,1948.0,Linda,163
-KY,M,2015.0,Alex,354
-KY,M,1947.0,Jordan,610
-,F,1955.0,Jennifer,40
-KY,F,1923.0, Jennifer ,40
-KY,F,2010.0,Patricia,126
-KY,F,1942.0,Linda,16
-KY,F,1971.0,Patricia,96
- KY , M ,1971.0,John,711
- KY , M ,1933.0,John,324
-KY,F,1960.0,Casey,107
- KY ,F,2020.0,Linda,202
- KY ,F,1970.0,Casey,81
-, F ,1921.0,Casey,33
-,F,1990.0,Casey,590
-KY,F,2020.0,Alex,9
-KY,M,1925.0,Taylor,68
-KY,F,1989.0,Mary,43
-KY, M ,1920.0,Jordan,29
-KY,M,1940.0,James,36
-KY,M,1970.0,Jordan,340
-KY,M,2022.0,,115
-KY,M,1927.0,Taylor,47
-KY,M,1987.0,Taylor,38
-KY,M,1962.0,Taylor,115
-, F ,1977.0,Casey,
-KY,F,1982.0,Patricia,320
-KY,F,1987.0,Patricia,
-KY,M,1932.0,James,29
-KY,M,1975.0,Michael,325
-KY,F,1967.0,jordan,23
-KY,M,1982.0,Casey,174
-KY,F,1957.0,Jennifer,35
-KY,,1985.0,Taylor,561
-KY, F ,2014.0,Jennifer,
-KY, F ,1981.0, Alex ,254
-KY,F,2000.0,Mary,28
-KY,M,1936.0, Michael ,233
-KY,F,1970.0,Jordan,206
-KY,F,1973.0,Mary,30
-KY,F,1920.0,Patricia,29
-KY,M,1978.0,Jordan,
-KY,F,2022.0,Linda,45
-KY, F ,1966.0,jennifer,22
-KY,M,1931.0,Jordan,388
-KY,F,1974.0,Jordan,427
-KY,M,1960.0,John,42
-KY,M,1984.0,michael,183
-KY,F,1972.0,Linda,310
-KY,M,1989.0,Alex,914
- KY ,M,2014.0, Michael ,301
-KY, M ,1912.0,James,23
-KY,F,1934.0, Alex ,40
-KY,F,1994.0,Jennifer,137
-KY,M,2000.0,Jordan,62
-KY,,1967.0,James,
-KY,F,,Taylor,31
-KY,M,1989.0,john,824
-KY, F ,1980.0,jennifer,777
- KY ,,2004.0,Linda,913
-KY,M,1955.0,James,108
-,M,1942.0,Michael,25
-,F,1961.0,Alex,83
-KY,M,1952.0,John,777
-KY,M,1990.0,Alex,1120
-KY,F,1916.0,Jordan,
-KY,F,1941.0, Jennifer ,5
-KY, M ,1941.0,Alex,372
-KY,M,2017.0,Taylor,20
-KY,M,1937.0,Michael,35
-KY,M,1994.0,Casey,174
-KY,F,,Linda,175
-KY,F,1948.0,Alex,320
-KY,F,1984.0,linda,267
-KY,F,1931.0,Alex,103
-KY, F ,1988.0,Jordan,311
-KY,M,2003.0,Jordan,341
-KY, F ,1936.0,Jennifer,180
- KY ,,,Casey,80
-KY,F,1969.0,,305
-KY,M,1942.0,Robert,36
-KY,F,1922.0,Patricia,146
-KY,,1920.0,,36
-KY,M,2008.0, Patricia ,5
-KY,F,1990.0,Linda,25
-KY,F,1967.0,Linda,543
-KY,F,1987.0,taylor,584
-KY,F,1971.0,Alex,705
-KY,M,1930.0,John,214
- KY ,M,1921.0,Casey,48
- KY ,F,1987.0,Mary,194
-KY,F,,Patricia,352
-KY,F,1986.0,Jordan,492
-KY,F,1914.0,Linda,27
-KY,M,1946.0,Casey,
-KY,F,1953.0,Mary,268
-KY,M,2010.0,john,815
- KY ,M,1960.0,Michael,294
-KY,M,1987.0,Taylor,38
-KY,M,1941.0,James,161
-KY,F,2021.0,,109
-KY,F,,Jordan,99
-KY,F,1996.0,Jennifer,61
- KY ,M,1981.0,James,
-KY, M ,1959.0,Michael,8
-KY, M ,1938.0,,32
- KY ,F,2015.0,Alex,773
-KY,M,1949.0,Robert,14
-KY,F,1928.0,Jordan,130
- KY , M ,2005.0,,431
-KY,F,1966.0,Mary,83
-KY,M,1949.0,Michael,202
-, M ,1981.0,Alex,94
-KY,F,1976.0,Mary,45
-KY,M,2012.0,,59
-KY,M,1950.0,James,81
-KY,M,1937.0,Patricia,58
-KY,F,1936.0,Casey,379
-KY,F,1990.0,Mary,500
-,M,1967.0,Robert,42
-KY, M ,2015.0,Michael,41
-KY,M,1963.0,Michael,96
-KY,F,1972.0, Patricia ,542
-KY,F,1926.0,taylor,69
-KY,F,1925.0,jordan,101
-KY,F,1958.0,Jennifer,415
-KY,M,2003.0,,913
-KY,F,1918.0,Casey,17
-KY,M,1970.0,Robert,18
-KY,,2017.0,Casey,43
-KY,,2004.0, Michael ,648
-KY,F,2021.0,,5
-,M,1995.0,john,10
-KY,M,1928.0,John,97
-KY,M,1939.0,Jordan,15
-KY,M,1958.0,Michael,38
-KY,F,1928.0,Michael,19
-KY,M,1943.0,John,
-KY,M,1933.0,Jordan,45
-KY,F,1925.0,Mary,54
-KY, F ,2002.0,Casey,64
-KY,F,2019.0,,5
-KY,F,,Casey,345
-KY,F,1984.0,Casey,18
-KY,F,1992.0,Mary,12
-KY,M,2019.0,Michael,
- KY ,M,1935.0,,86
-KY,M,2015.0,John,13
-KY,F,1944.0,Michael,150
-KY,M,1974.0,Taylor,106
-KY,F,1982.0,Linda,314
-KY,F,1956.0,Alex,978
-KY,M,2021.0,Jordan,126
-KY,F,1959.0,jordan,808
-KY,F,1988.0,Jennifer,337
-KY, M ,2002.0,Taylor,46
-KY, F ,1945.0,,13
-KY,F,1971.0,Taylor,310
- KY , F ,2016.0,Patricia,345
-KY,,1976.0,Jordan,584
-KY,F,1995.0,Taylor,38
-KY,M,1965.0,Casey,392
-KY,F,1963.0,Mary,572
-KY, F ,1958.0,Linda,83
-,M,1949.0,Alex,1079
-,M,1992.0, James ,352
-KY,F,1950.0,Jennifer,139
-,F,1971.0,Casey,180
-KY,F,1943.0,jennifer,64
-KY,M,2007.0,John,208
-KY,M,2012.0,Jordan,801
-KY,,2018.0,James,157
-KY,F,1968.0,Casey,302
-KY,M,1999.0,Jordan,141
-KY,F,1997.0,Jordan,75
-,M,1987.0,Alex,751
-KY,M,1955.0,Michael,922
-KY,M,2020.0,John,12
-KY,F,1936.0,Patricia,
-KY,M,1975.0,Robert,454
-KY,M,1953.0,James,74
-KY,,1943.0,James,432
-KY,F,1973.0,Casey,157
-KY,F,1961.0,Linda,100
-KY,,2014.0,Robert,510
-KY,M,1923.0,Mary,97
-KY,F,1968.0,alex,915
-KY,F,2016.0,Taylor,275
-KY,M,1994.0,Robert,457
-KY, M ,1942.0,James,331
-KY,F,1968.0,Mary,267
-KY,F,2003.0,Taylor,817
-KY,M,2011.0,Casey,494
-,F,1991.0,Patricia,455
- KY ,M,1949.0,John,695
-KY,F,1955.0,James,53
-KY,F,1994.0,Patricia,170
-KY,F,1965.0,Alex,93
-KY,F,1986.0,,337
-KY,F,1929.0,Linda,218
-KY,F,1948.0,Taylor,26
-KY,F,1989.0,Jordan,591
-KY,F,1931.0,Linda,35
- KY ,F,1916.0,Casey,5
-KY,M,1968.0,John,132
-KY,M,,Michael,200
-KY,M,1917.0,John,83
-KY,M,1992.0,Alex,239
-KY,M,1971.0,,687
- KY ,M,1974.0,Casey,15
-KY,,2022.0,Michael,600
-KY,F,2007.0,Jennifer,709
- KY ,F,1961.0,Taylor,213
-KY,M,2018.0,Taylor,34
-KY,F,2013.0,,51
-KY,F,,Casey,634
-KY,M,1993.0,Robert,449
-KY,M,1990.0,Casey,1102
-KY,M,1942.0,Jordan,
-KY, M ,1945.0,John,14
-KY,,1996.0,Jordan,14
+KY, M ,1915.0,James,11
+KY,M,2002.0,taylor,905
+KY,F,1975.0,Alex,85
+KY,F,1977.0,Linda,280
+KY,M,1921.0,Alex,
+KY,F,1914.0,Jennifer,7
+KY,M,1961.0,Robert,200
+KY,M,,Jordan,8
+,M,1942.0,Taylor,5
+KY,F,2020.0,Alex,956
+KY,M,2022.0,Jordan,
+KY,F,2011.0,Alex,21
+ KY , F ,2006.0,Linda,87
+KY,F,2019.0,Linda,16
+KY,,1990.0,casey,188
+KY,F,1916.0,Casey,5
+KY,F,2018.0,Mary,292
+KY,F,1935.0,Jennifer,526
+KY,M,1965.0,Taylor,245
+KY,,1934.0,James,328
+KY, M ,1931.0,Robert,15
+ KY ,F,2013.0,Linda,114
+KY,M,1963.0,Alex,225
+KY,F,1953.0,Patricia,150
+KY,F,, Taylor ,6
+KY,F,1914.0,Linda,20
+KY,F,1967.0,Linda,390
+KY,F,1947.0,Jennifer,155
+KY,M,1988.0,John,627
+KY, M ,1950.0,Taylor,
+KY,M,1960.0,James,73
+KY,,1981.0,Linda,446
+KY,M,1925.0,Casey,23
+ KY , M ,2018.0,Taylor,259
+KY,M,2019.0, Linda ,382
+KY,F,1945.0,Casey,7
+KY,F,1984.0,Jordan,335
+ KY ,F,1961.0,Alex,205
+KY, M ,1979.0,Michael,
+KY,M,1960.0,Taylor,440
+,M,,Michael,321
+KY,F,1943.0,Patricia,14
+KY,F,1957.0,Alex,204
+KY,F,1963.0,Patricia,590
+ KY ,M,1992.0,James,37
+ KY ,F,1984.0,Mary,347
+KY,F,1926.0,Casey,174
+KY,,1912.0,Patricia,8
+KY,F,1978.0,Jordan,292
+,M,2015.0,Patricia,5
+,F,1929.0,,140
+KY, M ,1931.0,James,189
+KY,M,1933.0,Michael,7
+KY,F,1924.0,Patricia,24
+KY,M,1969.0,Linda,37
+KY,F,1970.0,Jennifer,317
+KY,M,1944.0,Robert,512
+KY,M,2001.0,Jennifer,533
+KY,F,1998.0,Jennifer,222
+KY,M,1998.0,Michael,
+KY,F,1997.0,Mary,964
+KY,M,2011.0,James,576
+KY,M,1972.0,Casey,21
+KY,M,1967.0,Taylor,286
+KY,M,1996.0,Casey,800
+KY,F,1977.0,Patricia,134
+KY,F,1986.0,Jordan,192
+KY,F,1937.0,Taylor,5
+KY,M,1989.0,Casey,293
+KY,F,2003.0,,1225
+ KY ,F,1916.0,Taylor,67
+KY,F,2018.0,Patricia,
+KY,F,2005.0,Robert,134
+,M,1927.0,taylor,26
+KY,M,1994.0,Jordan,430
+KY,F,1978.0,Jennifer,267
+ KY ,F,1938.0, Linda ,70
+KY,F,1968.0,Jordan,182
+KY,M,1961.0,James,233
+KY,F,1998.0,Mary,516
+KY,M,1912.0,Michael,6
+KY,F,1980.0,Patricia,541
+ KY ,F,1976.0,Alex,22
+ KY ,F,1942.0,Alex,847
+KY,M,1944.0,Jordan,17
+KY, M ,1949.0,Robert,
+KY,F,1997.0,Robert,1001
+KY,M,1993.0,Jordan,36
+KY,M,1968.0,Alex,175
+KY,M,1967.0,Michael,429
+KY, M ,1951.0, Casey ,946
+KY,M,1941.0,Casey,13
+KY,,1965.0,James,358
+KY,F,1961.0,Casey,68
+KY,M,1974.0,John,31
+ KY ,M,1974.0,Casey,144
+KY,F,,Mary,500
+KY,F,1989.0,Jordan,96
+KY,F,1960.0,Taylor,102
+KY,F,2005.0,Taylor,1046
+KY,F,1919.0,,29
+ KY ,F,1971.0,jennifer,65
+KY,F,,Taylor,572
+KY,,1953.0,Robert,72
+,F,1913.0,Casey,74
+KY, M ,1979.0,James,317
+KY,F,, Taylor ,20
+KY,M,1977.0,John,41
+KY,F,2020.0,Michael,109
+KY,M,1974.0,John,31
+KY,F,1920.0, Michael ,70
+KY,M,1976.0,Mary,
+KY,M,,John,89
+KY,F,1931.0,Taylor,12
+KY,M,1956.0,Robert,698
+KY,M,2015.0,Alex,92
+KY,,1997.0,Robert,423
+KY,,1965.0,Patricia,175
+KY,M,1999.0,Alex,30
+KY,M,1954.0,Casey,493
+KY,M,1943.0, James ,135
+KY,M,1983.0,Jordan,103
+KY,F,1911.0,John,139
+ KY ,M,1961.0,Taylor,62
+ KY ,F,1954.0,Mary,380
+ KY ,M,2017.0,Jordan,178
+KY,,2005.0,Casey,141
+KY, F ,1947.0,,156
+KY,F,1949.0,Alex,215
+KY,M,2017.0,Alex,525
+KY,M,1934.0,robert,24
+KY,F,1934.0,Mary,226
+ KY ,F,1968.0,Casey,115
+KY,M,2013.0,Alex,86
+KY,M,,James,160
+KY,M,,Robert,29
+KY,F,1969.0,James,1100
+KY,F,1923.0,Jennifer,135
+KY,M,1974.0,Michael,656
+KY,F,1979.0,Mary,348
+KY, F ,1927.0,Patricia,9
+KY,F,1970.0,casey,
+KY,M,2000.0,James,21
+KY,F,2021.0,Patricia,82
+KY,M,1983.0,Casey,378
+KY,M,2008.0,james,186
+KY,M,1996.0,Taylor,337
+KY,M,1988.0,Casey,1006
+KY,F,1999.0,Casey,5
+KY,F,2011.0,Jennifer,8
+KY, F ,1983.0,James,548
+KY,M,1953.0,Mary,446
+KY,,1956.0,Taylor,12
+KY,F,1924.0,Taylor,106
+KY,M,1981.0,James,345
+KY, M ,1925.0,Jennifer,248
+KY,F,,Alex,337
+KY,F,1936.0,Casey,64
+KY,M,2005.0,James,334
+KY,F,1953.0,Jennifer,284
+KY,F,1975.0,Casey,488
+ KY ,M,,Alex,194
+KY,M,1971.0,Robert,167
+KY,M,1935.0,John,
+KY,M,1950.0,Casey,8
+KY, F ,1999.0,Patricia,80
+KY,F,1917.0,Taylor,34
+, F ,2021.0,Casey,29
+KY,F,1995.0,James,807
+KY,F,,Jennifer,1204
+KY,M,1973.0,John,282
+KY,F,,Mary,209
+KY,F,2011.0,Patricia,27
+KY,M,1962.0,Alex,17
+KY,M,2003.0,Alex,655
+ KY , M ,1987.0,Casey,836
+KY,F,1961.0,Taylor,22
+KY,F,1967.0,Mary,139
+KY,M,1964.0,John,229
+KY,M,1922.0,Jordan,334
+KY,M,1997.0,Taylor,481
+KY, F ,1936.0,Alex,632
+ KY ,M,1964.0,Michael,500
+KY,F,1940.0,Casey,20
+ KY ,F,1946.0,John,
+ KY ,F,1996.0,john,485
+ KY ,M,1944.0,James,38
+KY,M,1940.0,James,28
+KY,F,1915.0,Patricia,18
+KY,F,1988.0,Mary,180
+KY,F,1994.0,Taylor,385
+KY,M,1960.0,Mary,224
+KY,M,1936.0,Taylor,139
+KY,M,2019.0,Casey,677
+KY, F ,1998.0,,496
+KY,M,2012.0,Patricia,797
+,M,1932.0,Casey,143
+KY,F,2010.0,Linda,300
+KY,F,1941.0,Jennifer,18
+KY,M,1981.0,Robert,81
+KY,F,2005.0,Mary,239
+KY,M,1963.0,Casey,403
+KY,M,2004.0,Robert,
+KY,M,2005.0,Michael,681
+KY,F,1940.0,Taylor,72
+KY,,2003.0,linda,534
+KY,F,1986.0,Patricia,175
+KY,F,1997.0,Jennifer,228
+KY,M,1954.0,Alex,69
+ KY ,M,1932.0,robert,180
+KY, F ,1986.0,Jennifer,236
+KY,M,1998.0,James,601
+KY, M ,2017.0, Robert ,274
+KY,M,2007.0,Alex,203
+KY,M,1953.0,Patricia,24
+KY,M,,Casey,38
+KY,M,1994.0,Michael,272
+KY,F,2001.0,jordan,
+KY, M ,1961.0,Alex,80
+KY,F,1988.0,linda,842
+KY,M,,casey,267
+KY, M ,1977.0,Casey,124
+KY,M,1984.0,James,197
+KY,F,1939.0,Linda,73
+KY,F,1970.0,Patricia,54
+KY,F,1921.0,Casey,205
+ KY ,F,1933.0,Jennifer,20
+KY,M,1981.0,Taylor,583
+ KY ,M,1977.0,Taylor,401
+KY, M ,1957.0,Casey,1061
+KY,F,1939.0,Mary,567
+KY, M ,1951.0,Robert,142
+KY,M,2004.0, Casey ,104
+KY,F,1982.0,Mary,1080
+KY,F,1984.0,Patricia,186
+KY,,1951.0,Jordan,202
+KY,F,1967.0,alex,138
+KY,M,,Patricia,21
+KY,F,2016.0,Linda,376
+KY,F,2007.0,Jordan,540
+,F,2019.0,Jordan,298
+KY,M,1912.0,James,54
+KY,F,1996.0,Jennifer,426
+KY,F,2008.0,Casey,58
+KY, M ,1948.0,James,184
+,M,1981.0,Alex,708
+KY,F,1944.0,John,225
+KY, F ,1976.0, Michael ,41
+KY,M,1995.0,John,349
+KY,M,1983.0,John,83
+KY,F,1960.0,Jordan,187
+KY,M,2006.0, James ,568
+KY,M,1999.0,Taylor,49
+KY,,2006.0,Taylor,55
+KY,M,1922.0,Robert,195
+KY,F,2012.0,Jordan,329
+ KY , F ,1965.0,,453
+, F ,1976.0,Linda,631
+KY,M,1917.0,,20
+KY, F ,1975.0,Mary,67
+KY,M,1923.0,,33
+KY,F,,Casey,154
+ KY ,,1971.0,James,300
+KY,F,1917.0,Casey,
+KY,,2009.0,Jennifer,
+KY,F,2008.0,linda,50
+KY,M,1977.0,James,370
+KY,M,1935.0,taylor,381
+KY,F,1968.0,Linda,41
+KY,F,2002.0,Taylor,72
+KY,M,2004.0,Michael,349
+KY,M,1978.0,Alex,42
+,,1940.0,Alex,220
+KY,M,1936.0,James,16
+ KY ,F,1950.0,Alex,610
+,M,1942.0,James,163
+KY,M,2015.0,Taylor,189
+KY,M,2003.0,Taylor,48
+KY,M,1918.0,Robert,60
+KY,M,1993.0,Robert,40
+,F,1968.0,Mary,127
+KY,M,1966.0,jordan,823
+KY,F,,,34
+KY,M,1959.0,Michael,810
+KY,F,1981.0,Patricia,112
+KY,F,1910.0,Taylor,5
+ KY , M ,1971.0,Michael,224
+KY,F,1988.0,Casey,147
+KY,M,2016.0,James,41
+KY,,1969.0,Mary,612
+,F,1973.0,Linda,375
+KY,,1979.0,jennifer,102
+KY,M,1946.0,,161
+KY,M,2007.0,Michael,237
+KY,M,1989.0,,131
+KY,M,1950.0,Michael,29
+KY,M,1967.0,Michael,429
+KY,F,2007.0,Mary,730
+ KY ,M,1959.0,,573
+KY,F,2020.0,patricia,472
+KY,M,1931.0,John,88
+KY,F,1965.0,Mary,60
+,M,2002.0,Michael,288
+KY,M,1935.0,Casey,104
+KY,F,1981.0,Taylor,184
+KY,M,1985.0,Robert,79
+KY,F,1970.0,Linda,70
+KY,F,1953.0,Linda,22
+KY,M,1939.0,James,20
+KY,F,1939.0,Casey,24
+KY,M,1960.0,Jennifer,52
+KY,M,1965.0,Linda,131
+KY, M ,2004.0,John,142
+KY,F,1922.0,,254
+KY,M,1996.0,Alex,121
+KY,M,1915.0,John,10
+KY,F,1975.0,taylor,54
+ KY ,M,2012.0,Michael,435
+KY,F,1958.0,Mary,69
+ KY ,F,1964.0,Michael,
+KY,M,1977.0,jordan,292
+KY,F,2017.0,Taylor,247
+KY, M ,2011.0,Taylor,310
+KY,M,2013.0,Michael,23
+KY,M,1958.0,James,32
+KY,F,1975.0,Linda,131
+KY,F,1948.0,Mary,102
+KY, M ,,Taylor,11
+KY,M,1922.0,john,5
+KY,F,1977.0,James,212
+KY,M,2010.0,Alex,595
+KY,F,2002.0,Jennifer,846
+KY,F,1920.0,Linda,12
+KY,M,1946.0,Jordan,48
+KY,F,2008.0,Alex,251
+KY,F,1970.0,Jennifer,317
+KY,M,2008.0,robert,368
+KY,F,1922.0,Jennifer,66
+KY,F,2003.0,Jennifer,203
+KY,M,2015.0, John ,16
+KY,F,1962.0, Jennifer ,384
+KY,M,1972.0,James,364
+,M,,Taylor,20
+KY,M,1955.0,James,12
+KY,M,2002.0,Casey,96
+KY,F,,Mary,145
+KY, M ,2003.0,John,73
+KY,M,,Alex,31
+KY,F,1953.0,Mary,652
+KY,M,1926.0,Robert,85
+KY,F,1934.0,Alex,179
+KY,F,2005.0, Patricia ,32
+KY,F,2000.0,Alex,722
+KY, M ,2020.0, Alex ,108
+KY,F,1969.0, Linda ,96
+ KY ,F,1919.0,Jennifer,48
+KY,F,1989.0,Patricia,91
+KY,,1950.0,Casey,405
+KY,M,2012.0,Casey,275
+KY, F ,1981.0,Mary,898
+KY,M,2003.0,Michael,141
+KY,F,1992.0,Jennifer,567
+KY,F,1962.0,Patricia,328
+KY,F,1928.0,Linda,5
+KY, M ,1973.0,Jordan,227
+KY,M,1938.0,Michael,
+KY,M,1979.0,Taylor,205
+,F,1984.0,Jennifer,380
+KY,M,,Taylor,194
+KY,F,1959.0,Alex,262
+KY,F,1923.0,Mary,57
+,F,1939.0,Taylor,64
+KY,F,1947.0,Linda,280
+KY,M,1974.0,James,685
+KY,M,1969.0,Casey,419
+ KY , F ,2014.0,Taylor,5
+ KY ,F,1991.0,Casey,607
+KY,M,1948.0,casey,17
+KY,F,2014.0,Linda,388
+KY,M,1965.0,Michael,284
+KY,M,1913.0,Taylor,59
+KY,M,1920.0,Alex,6
+KY,M,2010.0,taylor,179
+KY,M,1984.0,Casey,303
+KY,F,1985.0,Casey,84
+KY,M,1984.0,John,257
+KY,M,2019.0,Alex,44
+KY,M,1944.0,Alex,153
+KY,F,2002.0,Linda,460
+, M ,2004.0,James,114
+KY,F,1949.0,,6
+KY,F,2009.0,Jordan,441
+KY,F,1945.0,Michael,27
+KY,M,1946.0,James,10
+KY,M,,Mary,99
+KY,M,1991.0,Alex,382
+KY,M,1945.0,Alex,7
+KY,M,1920.0,Jordan,101
+ KY ,F,1925.0,Robert,10
+KY,M,1927.0,Robert,190
+ KY ,M,2009.0,James,23
+KY,F,,Jennifer,17
+KY,F,1930.0,Linda,20
+, F ,1928.0,Taylor,17
+KY,M,1957.0,Jordan,33
+KY,M,1926.0,Casey,96
+ KY ,F,2017.0,Linda,19
+KY,M,1923.0,,57
+KY,M,1994.0,Robert,909
+ KY ,F,1989.0,Jennifer,79
+KY,F,1944.0,Linda,73
+,M,,Taylor,136
+KY, M ,1967.0,Alex,808
+ KY ,F,1972.0,,309
+KY,F,2012.0,Jennifer,285
+KY,F,1976.0,taylor,418
+KY,F,1966.0,Linda,611
+KY,F,,Jennifer,231
+KY,,1987.0,Jordan,
+KY,F,1954.0,Alex,15
+KY,M,, Taylor ,177
+KY,M,1934.0,alex,11
+KY,F,1989.0,Taylor,483
+KY,M,1962.0,Michael,529
+KY,F,1979.0,Patricia,214
+ KY , M ,1942.0,,619
+KY,M,2018.0,Jennifer,98
+,F,1947.0,Patricia,317
+KY,F,1971.0,Patricia,337
+,M,1962.0,Robert,312
+KY,M,2010.0,Robert,25
+KY,F,1952.0,Alex,22
+KY,,1923.0,Linda,29
+,F,1941.0,John,242
+KY,F,1932.0,James,
+KY,M,1990.0, John ,351
+KY,F,1971.0,Linda,441
+KY,F,1930.0,Jordan,296
+KY,F,1932.0,Patricia,16
+KY,F,1962.0,Casey,1102
+ KY ,F,1998.0,Jordan,32
+KY,M,1971.0,John,390
+KY,F,,Jennifer,115
+KY,F,1982.0,linda,22
+KY,M,,Jennifer,160
+KY,F,1971.0,Casey,753
+KY,F,2006.0,Taylor,
+KY, M ,2018.0,Jordan,68
+KY, M ,2004.0,Alex,89
+KY,F,1959.0,Linda,725
+KY,M,1991.0,Michael,94
+KY,F,1993.0,Taylor,890
+KY,M,1952.0,James,699
+KY,F,2006.0,Alex,357
+KY, M ,1965.0,Alex,48
+KY,M,1950.0,Robert,154
+KY,F,1950.0,Jennifer,452
+KY,F,2004.0,Jordan,563
+KY,M,1997.0,James,162
+KY,F,2003.0,Taylor,278
+KY,F,1947.0,taylor,15
+KY,F,1958.0,Robert,62
+KY,M,1947.0,Taylor,35
+KY,M,1941.0,James,16
+, F ,1950.0,Linda,30
+,M,1928.0,,5
+KY,M,1976.0,John,391
+KY,M,1910.0,John,5
+KY,M,2006.0,,512
+KY,,1973.0,James,5
+KY,F,1979.0,Linda,78
+KY,M,,Michael,415
+KY,F,1938.0,Alex,39
+KY,F,1935.0,Jordan,29
+KY,F,1913.0,Mary,15
+KY,F,1957.0,Jordan,53
+KY,F,1954.0, Patricia ,828
+KY,F,1925.0,alex,87
+KY,F,1914.0,Jennifer,7
+ KY , F ,1981.0,Jordan,288
+KY,,2007.0,Linda,802
+KY,M,1962.0,jordan,385
+KY,,1943.0,Mary,
+ KY ,M,1950.0,alex,42
+ KY ,F,1953.0, Casey ,34
+KY,M,1988.0,Taylor,191
+KY,M,,Jordan,14
+KY,M,2005.0,Taylor,55
+KY,F,1969.0, Linda ,96
+KY,M,1945.0,James,6
+KY,F,1936.0,Patricia,489
+KY,F,,Taylor,585
+KY,F,1974.0,Taylor,31
+KY,M,1981.0,Michael,363
+,F,2015.0,Jennifer,284
+KY,F,2010.0,Jennifer,9
+KY, M ,1945.0,John,210
+ KY , F ,1956.0,Jennifer,28
+KY,M,2014.0,John,50
+KY,M,1949.0,John,36
+KY,F,1926.0,Mary,143
+KY,F,2018.0,,387
+KY,M,1989.0,Robert,103
+KY,M,2011.0,Michael,11
+KY,F,2016.0,Mary,228
+KY, M ,2012.0,john,94
+ KY ,,2003.0,Mary,205
+KY,M,2005.0,Robert,33
+KY,M,2022.0,Robert,14
+KY,M,2020.0,John,719
+KY,M,1972.0,John,1059
+KY,M,1966.0,Michael,554
+KY,F,,Patricia,
+KY,M,1970.0,,19
+KY,M,,Jordan,33
+KY,F,,Linda,5
+, F ,,Linda,5
+KY,M,1939.0,Robert,71
+KY,F,1985.0,Jordan,62
+KY,F,1923.0,Patricia,8
+KY,F,,Jennifer,6
+KY,F,2017.0,Jordan,509
+KY,F,2021.0, Mary ,113
+KY,F,1997.0,Jennifer,228
+KY,M,1983.0,Taylor,425
+KY,M,1963.0, John ,277
+KY,F,1990.0,Taylor,898
+ KY ,F,1973.0,alex,108
+ KY ,F,2019.0,Alex,22
+KY,M,1974.0,Robert,482
+KY,M,1959.0,Casey,605
+KY,F,2022.0, Linda ,8
+KY,F,1918.0,Mary,49
+KY,F,2001.0,Linda,225
+KY,M,1938.0,Taylor,77
+KY,,1952.0,Jennifer,612
+KY, F ,2003.0,Jordan,454
+KY,F,2006.0,Mary,623
+KY,F,1998.0,Casey,56
+KY,M,1930.0,James,9
+ KY ,M,1961.0,John,542
+KY,M,1939.0,Taylor,146
+KY,,1944.0, Jordan ,
+KY,F,1978.0,Mary,475
+ KY ,M,2014.0, Robert ,95
+KY, F ,1963.0,Linda,427
+ KY ,,1983.0,Jordan,
+KY,M,1968.0,James,833
+KY,M,1948.0,,70
+KY,F,2005.0,Linda,135
+KY,M,1982.0,Alex,43
+KY,F,2006.0,Michael,123
+KY,M,1995.0,James,91
+KY,F,1994.0,John,42
+KY,F,1999.0,Mary,917
+,M,1994.0,James,102
+KY,M,2002.0,Alex,148
+KY,,1938.0,Casey,45
+KY,F,1946.0,Michael,565
+KY,F,1928.0,Jordan,23
+ KY ,M,1966.0,James,258
+KY,F,1929.0,casey,
+KY,F,1990.0, Casey ,323
+KY,M,1961.0,Jennifer,133
+KY,F,1955.0,Jordan,41
+KY,M,1987.0,Michael,333
+,M,1942.0,Taylor,5
+ KY ,M,1969.0,James,57
+KY,F,2019.0,Taylor,65
+KY,F,1941.0,,10
+ KY , M ,1949.0,alex,283
+KY,F,1984.0,Taylor,262
+ KY ,F,1958.0,Casey,64
+KY,F,1987.0,Taylor,390
+KY,F,1966.0,Taylor,512
+KY,M,2004.0,Jordan,57
+,M,1931.0,Alex,13
+KY,M,1933.0,Alex,47
+KY, F ,1972.0,Linda,239
+,F,1945.0,Mary,148
+KY,,1955.0,Alex,106
+KY, M ,2018.0,John,18
+KY,F,2002.0,Alex,299
+KY, F ,2003.0,Jordan,454
+KY,F,1963.0,Casey,38
+KY,F,1940.0,Jennifer,
+KY, F ,1920.0,Patricia,30
+KY, M ,1921.0,John,13
+KY,F,,Patricia,84
+KY,,1942.0,Mary,75
+KY, F ,2011.0, Jordan ,706
+KY,M,2003.0,Jordan,759
+KY,M,1962.0,John,604
+KY, M ,1972.0,Robert,243
+,F,1974.0,Casey,164
+KY,,1965.0,James,358
+KY,M,1973.0,Linda,
+KY,M,1924.0,James,68
+KY,F,1985.0,Mary,
+KY,M,1993.0,John,594
+KY,M,1991.0,John,100
+ KY ,M,1952.0,Michael,738
+ KY ,,1973.0,Taylor,415
+KY,F,1995.0,Casey,829
+KY,F,1958.0, Linda ,442
+KY,M,1967.0,James,56
+KY,M,1928.0,Casey,142
+KY,F,1948.0,Linda,5
+KY,M,2019.0,Michael,193
+ KY ,F,2009.0,Jennifer,467
+KY,F,1997.0,Patricia,905
+KY,M,1966.0,john,49
+KY,F,1973.0,Jennifer,468
+, M ,1983.0,James,958
+KY,M,1952.0,John,
+KY, M ,1972.0,Michael,22
+KY,F,1988.0,Jordan,244
+ KY , M ,1957.0,John,312
+KY,M,1914.0,Jordan,29
+KY,M,1955.0,Taylor,563
+KY,F,2001.0,Mary,72
+KY,M,1982.0,Michael,171
+KY,M,2003.0,Casey,20
+KY,F,1964.0, Jordan ,67
+KY,F,1991.0,,506
+KY,F,1972.0,Taylor,232
+KY,F,2006.0,Patricia,21
+KY,M,1937.0,John,52
+KY,F,1992.0,Mary,599
+KY,F,1990.0,Mary,39
+KY,M,1957.0,Alex,27
+KY,F,2011.0,Mary,464
+KY,F,1965.0,James,904
+ KY ,F,2020.0,Taylor,111
+KY,F,2001.0,Jennifer,210
+KY,M,1945.0,Jordan,6
+KY,M,1926.0,Michael,5
+KY,M,1958.0,John,745
+KY,M,1949.0,Michael,341
+,F,,Casey,339
+KY,F,1921.0,Jordan,313
+KY,M,1969.0,Casey,419
+KY,M,1997.0,Jordan,68
+KY,F,1977.0,,219
+KY,F,1955.0,Patricia,21
+KY,F,2003.0,Taylor,278
+KY,M,1954.0,Michael,208
+KY,M,2022.0,Taylor,39
+, F ,1963.0,Mary,725
+KY,M,1917.0,Taylor,8
+KY,F,1972.0, Mary ,554
+KY,F,1941.0,Casey,91
+KY,M,1985.0,James,126
+KY,F,1982.0,Jordan,340
+KY,M,1980.0,Alex,416
+KY,F,1983.0,Mary,72
+KY,F,1968.0,Patricia,175
+ KY ,F,1969.0,Casey,762
+KY,M,2008.0,Jordan,48
+KY,F,1994.0,Alex,109
+KY,M,1919.0,Jordan,42
+ KY ,M,1939.0,Jordan,497
+ KY ,F,1959.0,Jordan,172
+KY,F,1969.0,Patricia,71
+KY,M,1990.0,Robert,160
+KY, M ,2002.0,Jordan,785
+,F,1988.0,Taylor,28
+KY,F,1991.0,Patricia,67
+KY,F,,,32
+KY,M,1968.0,John,71
+KY,M,1943.0,,10
+KY,M,2000.0,Jordan,360
+KY,M,1976.0,James,299
+KY,F,2001.0,Casey,
+KY,M,1958.0,Alex,151
+KY,F,1963.0,Taylor,54
+KY,M,1919.0,Taylor,5
+KY,M,1996.0,,799
+KY,M,1913.0,Jordan,
+KY,,1938.0,,8
+KY,F,1983.0,Linda,34
+KY,M,1979.0,Jordan,124
+KY,M,2001.0,Casey,22
+KY,F,1913.0,Alex,6
+KY, M ,1963.0,Taylor,40
+ KY ,M,2018.0,Robert,5
+ KY ,M,,Michael,390
+KY,M,1934.0,Casey,160
+KY,M,1978.0,Casey,359
+KY,M,1992.0,Casey,28
+KY,M,2007.0,John,31
+KY,,1960.0,Linda,641
+KY,M,1954.0,Robert,306
+KY,F,2013.0,Jennifer,734
+KY,F,2019.0,Mary,132
+KY,M,1932.0,James,59
+KY,M,1958.0,Robert,722
+KY,M,2017.0,Taylor,8
+KY,F,1921.0,Casey,205
+KY, F ,1959.0,Jennifer,408
+KY,M,2005.0,Alex,770
+KY,F,1922.0,Taylor,18
+KY,M,1969.0,taylor,782
+KY,M,1928.0,Jordan,137
+KY,F,1991.0,Linda,171
+KY,M,1939.0,Michael,112
+KY,F,2016.0,Taylor,18
+KY,M,,James,
+KY,M,2000.0,Michael,30
+ KY ,M,1956.0,Jordan,17
+KY,F,1978.0,Taylor,669
+KY,M,1999.0,michael,109
+,F,1926.0,Jordan,30
+KY, M ,1949.0,Taylor,147
+KY,M,1935.0,James,7
+KY,M,2014.0,Michael,6
+KY,F,1925.0,Taylor,94
+ KY ,M,1954.0,James,8
+ KY ,M,1957.0,James,143
+KY,F,1978.0, Casey ,269
+KY,F,1949.0,Jennifer,79
+KY,M,2011.0,Alex,281
+KY,F,1960.0,Jennifer,6
+KY,F,1952.0,Linda,506
+KY,M,1994.0,Casey,92
+KY,F,1958.0,Jordan,740
+ KY ,M,1960.0,Michael,52
+KY, M ,1915.0,Casey,9
+KY,M,1947.0, Casey ,263
+KY,F,1984.0,Casey,31
+KY,F,1980.0,,15
+KY,F,1956.0,Casey,584
+KY,M,,Taylor,252
+KY,M,1919.0,Jennifer,12
+,,1941.0,Patricia,9
+KY,F,2010.0,Mary,46
+KY,F,1966.0,Jennifer,468
+KY,,1976.0,Casey,11
+,F,1992.0,Jordan,823
+KY,F,1937.0,patricia,8
+KY,F,1953.0,Alex,300
+KY,F,1968.0,Alex,643
+KY,F,1996.0,Linda,122
+KY,F,2007.0,Casey,197
+KY,F,1911.0,Casey,9
+KY, M ,1933.0,Jordan,424
+KY, F ,2017.0,Patricia,115
+KY,F,1962.0, Mary ,151
+KY,F,1986.0,John,
+KY, F ,1917.0,Patricia,97
+KY,M,,Robert,841
+KY,,1910.0,Michael,9
+ KY , M ,2007.0,Robert,48
+KY,F,1960.0,Casey,102
+KY,F,1982.0,Casey,186
+KY,F,2012.0,Patricia,766
+KY, F ,1989.0,Casey,89
+KY,M,2009.0, Casey ,686
+KY,M,1985.0,Jordan,275
+KY,M,1994.0,,85
+KY, M ,,James,
+KY,F,1954.0,Jennifer,813
+KY,F,1945.0,Linda,6
+KY, F ,1943.0,Casey,514
+KY,M,2001.0,Robert,233
+KY,M,1977.0,Alex,290
+KY,F,1977.0,,641
+KY,F,2004.0,Jennifer,295
+ KY ,F,1926.0, Jennifer ,110
+KY,M,2019.0,Casey,677
+KY,F,1983.0,Taylor,203
+KY,F,2010.0,Taylor,226
+KY,M,1978.0,Jordan,50
+KY,M,1918.0,Casey,48
+KY,F,1940.0,mary,22
+KY, M ,1986.0,Alex,267
+KY,F,2011.0,Taylor,149
+KY,M,1961.0,,75
+KY,M,2014.0,Jordan,15
+KY,F,2018.0,Jennifer,273
+,F,1964.0,John,977
+, M ,1933.0,Robert,105
+KY,F,1946.0,Patricia,24
+KY,F,1980.0,Jordan,157
+KY,F,1987.0,Patricia,116
+KY,F,2014.0,Casey,23
+KY,F,1938.0,Jordan,400
+KY,F,1967.0,Patricia,327
+KY,F,1973.0,,753
+KY,F,1987.0,alex,123
+KY,M,1984.0,Michael,203
+KY,F,1971.0,Alex,1015
+KY,F,1939.0,Jordan,122
+KY,M,1987.0, Jordan ,336
+KY,F,1961.0,Mary,132
+KY, F ,2012.0,Linda,210
+KY,F,1980.0,Mary,577
+KY,M,1978.0,James,922
+ KY ,M,1972.0,Taylor,918
+KY,M,1957.0,Taylor,384
+KY,,1954.0,Casey,6
+KY,M,1986.0,john,706
+KY,M,1994.0,,
+KY,F,1997.0,Taylor,205
+KY,M,1951.0,Taylor,521
+KY,M,1934.0,John,41
+KY,M,1974.0,Jennifer,38
+KY,M,1936.0,Linda,5
+KY,M,1969.0,Robert,601
+KY,F,2014.0,Jordan,180
+ KY ,M,1992.0,Robert,
+KY,F,,Mary,155
+KY,F,1996.0, Casey ,490
+KY,F,2016.0,jennifer,221
+ KY ,M,1986.0,,163
+ KY ,F,1990.0,Jordan,
+KY,F,2006.0, Jennifer ,918
+KY,M,1934.0,Jordan,143
+KY,F,2003.0, Patricia ,558
+KY,M,2008.0,Casey,168
+ KY ,F,1951.0,Alex,422
+KY,M,,Mary,99
+KY, M ,1915.0,Robert,20
+KY, F ,1970.0,Alex,
+KY, M ,1987.0,James,899
+KY,F,1956.0,Linda,146
+KY,F,1973.0,Patricia,329
+KY,M,1962.0,Taylor,354
+KY,M,1956.0,John,85
+KY,M,1978.0,John,294
+ KY , F ,1989.0,Linda,
+KY,F,1996.0,Alex,550
+KY,F,1924.0,Jordan,98
+KY,F,1957.0,Taylor,16
+KY,F,2006.0,Casey,192
+KY,M,1937.0,James,83
+KY,M,1992.0,Alex,400
+KY,F,1958.0,Taylor,828
+KY,M,1979.0,Alex,89
+ KY ,F,1952.0,Patricia,222
+KY,M,1979.0,John,754
+KY,M,1969.0,Alex,337
+KY, M ,2010.0,Jordan,15
+KY,F,1976.0,Mary,242
+KY,F,1970.0, Taylor ,93
+KY,M,2004.0,Taylor,407
+KY,F,,Mary,283
+KY,,1971.0,Taylor,29
+KY,M,2015.0,Casey,7
+KY,M,1999.0,Jordan,
+KY,M,1992.0,Jordan,124
+KY,M,1990.0,Jordan,487
+KY,F,1949.0,Taylor,85
+KY,F,2014.0,Jennifer,152
+KY,F,1994.0,Jordan,315
+KY,M,1966.0,Casey,627
+KY,F,1915.0, Jordan ,81
+KY,F,1960.0,Mary,185
+KY,F,1922.0,,150
+KY,M,1957.0,Robert,365
+KY,M,1986.0,,449
+KY,,1967.0,Robert,117
+KY,M,1915.0,Taylor,99
+KY,F,1949.0, Casey ,32
+KY,F,2004.0,Patricia,31
+KY,M,1949.0,James,567
+,M,2014.0,Patricia,525
+ KY , F ,2017.0,Casey,5
+ KY ,M,1943.0,,7
+KY,M,2020.0, James ,
+KY,M,1996.0,John,52
+KY,M,1946.0,Taylor,32
+KY,M,1976.0, Robert ,168
+,F,1921.0,Taylor,334
+KY,F,1910.0,Mary,25
+KY,M,1960.0,Robert,120
+KY,M,1937.0,Alex,34
+KY,M,2000.0,Alex,170
+KY,M,,James,231
+KY,F,1979.0,casey,86
+KY,M,1918.0,John,64
+KY,M,2007.0,Taylor,796
+KY,F,1930.0,patricia,39
+KY, F ,1998.0,alex,46
+ KY ,M,1979.0,Robert,836
+KY,M,1948.0,John,237
+KY,M,1933.0, Taylor ,24
+KY,F,2015.0,Robert,16
+KY,M,1940.0,Robert,68
+KY,,1962.0,James,158
+KY,M,1951.0,michael,9
+KY,M,1976.0,Taylor,247
+KY,M,1938.0,Robert,140
+KY,F,1976.0,Mary,242
+KY,F,1951.0,Jennifer,41
+KY,F,1946.0,Casey,26
+, F ,1913.0,Jordan,55
+ KY ,M,1970.0, Taylor ,35
+KY,M,1992.0,Casey,28
+KY,M,1954.0,Jordan,93
+KY, F ,1939.0,,30
+ KY ,M,1936.0,Casey,108
+KY,M,1964.0,Casey,664
+KY,M,1921.0,James,50
+KY, F ,1972.0, Patricia ,660
+KY,M,2000.0,Robert,879
+KY,F,1936.0,Jordan,6
+KY,M,2019.0,,26
+KY,M,1995.0,Casey,126
+KY,F,2014.0,Alex,189
+ KY ,M,1936.0,John,15
+KY,F,1969.0,Taylor,164
+KY,M,1991.0,Robert,84
+KY,F,1992.0,Casey,65
+KY,M,1995.0,Robert,185
+ KY ,M,2015.0,Jordan,19
+KY,F,1995.0,,8
+KY,F,, Jordan ,74
+KY, F ,1921.0,,74
+KY, F ,1965.0,Linda,109
+KY,F,2011.0,Casey,18
+KY,M,2007.0,Casey,725
+KY,M,2000.0,John,134
+KY,F,1963.0,Jordan,61
+KY,F,1992.0,Linda,162
+KY,M,1940.0,Taylor,6
+ KY ,F,1945.0,Jordan,7
+KY,F,1985.0,Alex,361
+KY,F,1955.0,jennifer,352
+KY,M,1944.0,Michael,11
+KY, M ,2009.0,Alex,
+KY,M,1960.0,John,103
+KY,F,1991.0,Taylor,921
+KY, M ,2002.0,Jordan,785
+,F,1985.0,Patricia,36
+KY,M,2014.0,James,60
+KY,M,1973.0,Alex,103
+ KY ,,1977.0,Jennifer,35
+KY,F,1942.0,Jennifer,8
+KY,M,1921.0,Jordan,30
+KY,F,1991.0,Jordan,195
+KY,F,2007.0,Taylor,128
+KY,M,1911.0,Casey,9
+KY,F,1923.0,Alex,157
+ KY , F ,2015.0,Casey,360
+KY, F ,1976.0,Jennifer,305
+KY,F,1993.0,Jordan,141
+KY,F,1946.0,Linda,6
+ KY ,M,1989.0,Jordan,353
+KY,M,1993.0,Taylor,768
+KY,F,1946.0,Alex,88
+KY,F,2014.0,Linda,388
+KY,M,1913.0,Robert,9
+KY,,1967.0,Taylor,73
+KY,M,2016.0,Alex,84
+KY,F,1999.0,Jennifer,84
+KY,M,2015.0,Robert,993
+KY,F,1955.0,Casey,370
+KY,F,1966.0,Alex,6
+KY, F ,1964.0,Alex,198
+ KY ,M,2010.0,Casey,533
+KY,F,1974.0,,
+KY,F,1959.0,Patricia,14
+KY,M,1931.0,Michael,49
+KY,M,1966.0,Robert,841
+KY,M,1940.0,Michael,25
+KY,M,1999.0,john,506
+KY,M,1932.0,,295
+KY,F,1954.0,Linda,222
+,M,1948.0,Taylor,79
+KY,F,1989.0,Alex,1346
+KY,F,1915.0,Alex,10
+KY,F,1955.0,Linda,209
+KY,M,1920.0,Michael,158
+KY,M,1937.0,Casey,10
+KY,M,1960.0,Alex,35
+KY,F,1949.0,Mary,41
+KY,F,1984.0,Linda,25
+ KY ,M,1991.0,Jordan,163
+KY,M,2012.0,Jordan,120
+KY, M ,1984.0,Jordan,149
+KY,F,1932.0,Alex,316
+KY,F,1986.0,Mary,359
+ KY ,M,1981.0,John,
+ KY ,M,1988.0,Alex,643
+KY,F,,Alex,401
+KY,M,1980.0,Casey,
+KY,F,2014.0,Mary,10
+ KY ,F,1929.0,Taylor,16
+KY,M,1980.0,Taylor,686
+KY,,2015.0,Jordan,215
+KY,F,,Jennifer,38
+KY,F,2003.0,Casey,682
+KY,M,1940.0,Casey,129
+KY,M,1953.0,Casey,107
+KY,M,1960.0,James,73
+KY,M,1965.0,Robert,54
+KY,M,1987.0,Taylor,419
+KY,M,1923.0,,56
+KY,M,2022.0,James,152
+KY,M,2009.0,John,10
+KY,M,1960.0,Casey,140
+KY,M,1937.0,Taylor,41
+,F,1994.0,Patricia,281
+ KY ,F,1964.0,Jennifer,332
+KY,F,1948.0,Alex,126
+KY,M,1930.0,Jordan,227
+ KY ,M,1946.0,Michael,25
+KY,M,1953.0,Jordan,55
+KY,F,1993.0,Linda,192
+KY,M,1982.0,Robert,213
+KY,F,1987.0,Casey,380
+KY,,1970.0,John,459
+ KY ,,1965.0,Jennifer,626
+KY,M,1951.0,James,220
+KY,M,1982.0,Jordan,166
+KY, F ,1916.0,Mary,28
+KY,,1990.0,,97
+KY,M,, Michael ,138
+,F,2009.0,Taylor,133
+KY, M ,1932.0,Michael,674
+ KY ,F,1974.0,Jennifer,288
+KY,M,1953.0,Alex,7
+,F,1984.0,Alex,52
+KY,M,2006.0,Jordan,109
+KY,F,1983.0,Jennifer,128
+,F,2008.0,Mary,26
+KY,M,2007.0,James,27
+KY,M,2014.0,,284
+KY,M,, Taylor ,31
+KY,F,1921.0,Mary,14
+KY, M ,1955.0,Casey,
+KY,M,2022.0,,224
+KY,M,2005.0,Casey,8
+KY,M,1967.0,John,1033
+KY,M,2004.0,Michael,349
+KY,M,,Alex,61
+KY,M,1941.0,John,
+ KY ,F,1965.0,Alex,163
+KY,F,2010.0,Jordan,25
+KY,F,2017.0,Mary,471
+KY,,1966.0,Alex,398

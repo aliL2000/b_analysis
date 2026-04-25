@@ -1,1661 +1,1654 @@
 state,sex,year,name,count
-MI,F,2002.0,Jennifer,18
-MI,F,1992.0,Mary,178
-MI,M,1959.0,John,46
-MI,F,1922.0,jennifer,94
-MI,M,1910.0,Alex,12
-MI,M,1978.0,Alex,701
-MI,,1940.0,Patricia,319
-MI,F,1915.0,Taylor,23
- MI ,M,1916.0,Taylor,48
- MI ,F,1944.0,Linda,14
-MI,F,1933.0,Jennifer,42
-MI,M,1976.0,,90
- MI ,F,1953.0,Patricia,286
- MI ,M,1952.0,Robert,579
-MI,M,1973.0,Casey,234
-MI,F,,James,50
-MI,M,2016.0,,12
-MI,M,,,542
-MI,M,2003.0,Casey,88
-MI,M,1985.0,John,763
-MI,F,1947.0,Linda,16
-MI,M,1966.0,Michael,146
-MI,M,1928.0,Casey,86
-MI,M,1962.0,james,599
-MI,,1997.0,,544
-MI,M,,Jordan,427
-MI,M,1949.0,Robert,488
-MI, M ,1933.0,John,259
-MI, F ,1986.0,Linda,31
-,F,1926.0,Patricia,188
-MI,M,1929.0,Robert,39
-MI,,1990.0,Alex,253
-MI,M,1988.0,michael,425
-MI,M,1962.0,Casey,242
-MI,M,1976.0,casey,78
-MI,F,1975.0,Linda,595
-MI,,1950.0,Taylor,26
-MI,F,2003.0,Patricia,18
-MI, F ,1948.0,Linda,296
-MI,F,1974.0,Jordan,346
-MI,F,1925.0,Jordan,
-MI,F,1963.0,Taylor,728
-MI,F,1981.0,Mary,251
-MI,M,1993.0,Michael,145
-MI,M,1993.0,James,89
- MI ,M,1986.0,Robert,
-MI,F,1983.0, Patricia ,452
-,,1945.0,Casey,545
-MI,M,2017.0,Casey,10
-MI,F,1997.0,James,350
- MI ,M,1925.0,Robert,9
-MI, M ,1965.0, Casey ,240
-MI,F,1985.0,Jennifer,223
- MI ,F,1966.0,Jordan,424
- MI ,M,1989.0,Jordan,64
-MI,F,1974.0,Jennifer,106
-MI,M,1937.0,Alex,7
-MI,F,1977.0,Jennifer,24
-,M,1946.0,Mary,123
- MI ,M,1969.0,jordan,504
-MI,F,1980.0,Mary,403
-MI,F,1988.0,Mary,245
-MI,,1934.0,james,35
-MI, M ,,Michael,16
-MI,F,1983.0,,29
-MI,F,1994.0,Linda,218
-MI, M ,1943.0,Jordan,91
-MI,F,1972.0,Alex,337
-MI,F,1990.0, Casey ,346
-MI, F ,2003.0,Linda,26
-MI,M,1934.0,Robert,385
-MI,F,,Jordan,157
- MI , F ,1958.0,Alex,274
-MI, M ,1941.0,James,7
-,M,1989.0,Mary,485
-MI,,2014.0,Casey,26
- MI , M ,1947.0,Taylor,313
-MI,F,1993.0,Alex,40
- MI ,M,2014.0, James ,608
-MI,F,1954.0,Jennifer,96
-MI, M ,2007.0,Jordan,61
-MI,F,2014.0,Alex,25
-MI,F,1965.0,Alex,22
-MI,M,1965.0,Jordan,73
-MI, F ,1987.0,jordan,379
-MI,M,1920.0,Casey,130
-MI,F,1925.0,Alex,325
-MI,M,,Jordan,209
-MI,F,1965.0,Linda,282
-MI,M,1956.0,John,218
-MI,M,1958.0,Jordan,163
-MI,F,1978.0,Casey,96
-,M,1983.0,Taylor,69
- MI , F ,2018.0,Alex,8
-MI,F,1927.0,Jordan,29
-MI,F,1984.0,Alex,637
- MI ,F,2000.0,Taylor,585
-MI,F,1997.0,Taylor,1163
-MI,M,1975.0,,169
-MI,M,1939.0,Taylor,422
-MI, F ,1996.0, Taylor ,888
-MI,F,2009.0,Alex,
-MI, M ,,Taylor,60
-MI,F,2019.0,Alex,25
-MI,M,1997.0,Taylor,445
-MI,F,2022.0,Jennifer,20
-MI,F,2006.0,Jennifer,777
-MI,M,1984.0,Alex,306
-MI, M ,2015.0,James,361
-MI, M ,1964.0,Alex,214
-,,1946.0,Robert,162
-MI,M,1996.0,michael,332
-MI,M,2012.0,James,11
-MI,F,2013.0,Patricia,10
-MI,F,1945.0,Mary,75
-,M,1954.0,Casey,792
-MI,M,,Alex,548
-MI, M ,1968.0,John,185
-MI,M,1993.0,Robert,896
-MI,F,1938.0,Alex,102
-MI,M,2007.0,john,618
-MI, M ,1969.0,,34
-MI,M,1999.0,John,239
-MI,M,1968.0,Casey,
- MI ,,2002.0, Casey ,709
-MI, M ,1979.0,Taylor,47
-MI,F,1956.0,,39
-MI,M,1996.0,Jordan,892
-MI,F,1913.0,Jordan,128
-MI, F ,1926.0,Linda,7
- MI ,M,1973.0,Jordan,670
-MI,F,1961.0,Casey,851
-MI,M,1931.0,Mary,220
-MI,M,1954.0,,26
-MI,M,1932.0,Taylor,16
-MI,M,1973.0,James,464
-, F ,1941.0,Jordan,457
-MI, M ,1922.0,Jordan,52
-MI,F,1991.0,,98
-,M,2012.0,Robert,329
-MI,M,1991.0,,26
-MI,M,1974.0,Robert,399
- MI ,F,1935.0,Jennifer,
-,F,1989.0,Casey,143
-MI,M,2010.0,John,28
-MI,,2002.0,Casey,107
-MI,M,1971.0,John,8
-MI,F,1966.0,Taylor,222
-MI,M,1958.0,Robert,13
-MI,M,1939.0,michael,35
-,M,2022.0,Taylor,72
-MI,M,1980.0,John,39
-MI,F,1959.0,Alex,59
-MI, F ,1991.0,Alex,180
-MI,F,1953.0,Jennifer,221
-MI, F ,1967.0,Alex,248
-,M,1934.0,,5
-MI,M,1981.0,James,459
-MI,,1984.0,Jennifer,403
-MI,F,1953.0,Alex,315
- MI ,F,1976.0,Taylor,602
-MI,M,2019.0,Taylor,96
-MI,F,1992.0,Jordan,418
-MI,M,,Alex,1462
- MI ,F,1935.0,Patricia,500
-MI,M,2019.0, James ,164
-MI,M,2013.0,Casey,123
-MI,F,1946.0,Jordan,767
-MI,F,1978.0,Jordan,552
-MI, F ,1938.0,Jennifer,43
-MI,F,2010.0,John,871
-MI,M,1984.0,Robert,518
- MI ,F,2008.0,Linda,106
-MI,F,1959.0,Casey,
-MI,F,1930.0,casey,5
-MI,F,2018.0,Taylor,226
-MI, F ,1939.0,Casey,233
-MI,F,1923.0,Patricia,25
-,F,2012.0,Casey,
-MI,M,1994.0,Robert,806
-MI,M,1950.0,Robert,232
-MI,M,1952.0,James,9
-MI,F,1998.0,Patricia,171
-MI,F,1917.0, Mary ,9
-MI,M,1960.0,Alex,
- MI ,M,1928.0, John ,13
-MI,F,1960.0, Taylor ,19
-MI,M,1935.0,Jordan,12
-MI,M,1967.0,Robert,40
-MI,M,1973.0,Robert,519
-MI,M,1913.0,Michael,22
-MI,M,1977.0,,385
-MI,F,2007.0,Jennifer,182
-MI,,1924.0,Jennifer,18
-MI,M,1952.0,Casey,113
-MI,F,1943.0,Alex,147
-MI,F,1921.0,Alex,14
-MI,M,1975.0,,
-,,1944.0,Casey,785
-MI,F,1954.0,Mary,128
-MI,F,1948.0,Mary,527
-MI,M,1982.0,John,69
-MI,F,1959.0,Jennifer,191
-MI,M,2005.0,Casey,149
-,F,1920.0,Patricia,141
-MI,F,, Alex ,79
-MI,F,,Jordan,61
-MI,F,1912.0,Linda,9
-MI,M,1917.0,Michael,13
-MI,M,1956.0,Robert,55
-MI,M,1953.0,Taylor,43
-MI,,,Taylor,
-MI,M,1998.0,Taylor,104
-MI,M,1995.0,Robert,241
-MI,M,1945.0,Michael,273
- MI ,F,2020.0,Jordan,185
-MI,M,2011.0,Jordan,30
-MI,M,,John,183
-MI,F,2019.0,Mary,
-MI,F,2012.0,Jordan,76
-MI,M,2017.0,Jordan,76
-MI,F,2018.0,Jordan,359
-MI,F,1967.0,Jordan,890
-MI,M,2002.0,Michael,895
-MI,F,1947.0,Casey,482
-MI,M,1993.0,Casey,54
-MI,M,1961.0,Casey,289
-MI,F,1926.0,Jordan,70
-MI,M,1991.0,Robert,497
-MI,F,1986.0,Alex,47
-MI,F,1968.0,Mary,27
-MI,F,2001.0,Linda,179
-MI,M,1928.0, Michael ,10
-MI,F,1997.0,Linda,160
-,F,,Jennifer,811
-MI,F,2008.0,Taylor,164
-MI,F,1949.0,Taylor,503
-MI, M ,,Robert,299
-MI,M,1948.0,Alex,22
-MI,M,1951.0,Alex,62
- MI ,M,1964.0,James,1169
- MI , F ,1991.0,Patricia,270
-MI,M,1945.0,James,658
-MI,F,1993.0,Mary,755
-MI,F,1995.0,Taylor,171
-MI,M,1930.0,Casey,59
-MI,M,2009.0,Michael,154
- MI ,M,,Taylor,96
- MI ,F,1949.0,Alex,117
-MI,M,1955.0, James ,42
-MI,M,1999.0,Taylor,62
-,F,2011.0,Casey,61
-,F,2022.0,Jordan,64
-MI,M,2021.0,Robert,280
-MI,F,1919.0,Taylor,
-MI,M,2002.0,Alex,145
-MI,M,1925.0,John,292
-MI,,1974.0,Alex,1106
-MI,M,1969.0,Michael,390
-MI,F,1973.0,casey,87
-MI,M,1925.0,Taylor,55
-MI,M,2000.0,Casey,945
-MI,M,1987.0,robert,338
- MI ,M,1951.0,Jordan,526
-MI,M,1974.0,,300
-MI,F,1953.0,Casey,149
-,M,1999.0,,159
-MI,M,2001.0,John,41
-MI,M,1988.0, James ,703
-MI,M,1974.0,Alex,260
-MI,F,2011.0,Jordan,7
-MI,M,1915.0,Alex,27
-MI,F,1995.0,Jennifer,313
-MI,F,1997.0,Alex,633
-,F,1957.0,alex,236
-MI, M ,1960.0,Robert,587
-MI,,2020.0,Taylor,120
-MI, M ,1970.0,,106
- MI ,M,2012.0,Taylor,165
-MI,F,1976.0,Casey,
-MI,F,1973.0,Taylor,939
-MI,F,1998.0,Casey,
-MI,,1957.0,Mary,716
-MI,M,1965.0,Michael,208
-MI,F,1948.0,Jennifer,579
-MI,,2022.0,Mary,
-MI,M,1999.0,Robert,8
-MI,F,2018.0,Mary,26
-MI,F,1985.0,Linda,162
-MI,F,1956.0,Mary,665
-MI,F,2009.0,Patricia,1016
-MI,M,1926.0,James,38
-MI,,1979.0,Jennifer,332
-MI,M,1983.0,John,504
- MI ,F,1987.0,Taylor,523
-MI,F,2004.0,Taylor,12
-MI,M,1917.0,Casey,46
-,F,,Casey,127
- MI ,M,1946.0,Taylor,44
-MI,F,1922.0,Mary,94
-MI,M,1929.0,Jennifer,401
-MI,,1964.0, Taylor ,71
-MI,M,1938.0,Casey,13
-MI,F,1973.0,casey,87
-MI,M,1953.0,Casey,21
-MI,,1969.0,Robert,40
-MI,M,2021.0,,30
-MI,F,1936.0,Patricia,111
-MI,F,1969.0,Jordan,330
-MI,M,2022.0,,120
-MI,M,,John,106
-MI,M,1982.0,Alex,199
-,M,1942.0,Jordan,149
-,F,2005.0,Linda,342
- MI ,F,2004.0,James,280
-MI,F,1971.0,Jennifer,69
-MI,M,1964.0,Michael,34
-MI,F,1972.0,Jennifer,522
- MI ,M,1912.0,Casey,29
-MI,F,1917.0, Linda ,27
- MI ,F,1942.0,Jennifer,51
-MI, F ,1994.0,Mary,182
-, M ,1941.0,Casey,208
-MI,M,2020.0,Jordan,10
- MI ,F,1947.0,taylor,11
-MI,M,1986.0,Michael,275
-MI,F,2020.0,Linda,261
-MI,F,1980.0,Taylor,641
- MI , M ,1955.0,John,542
-MI,M,1985.0,,247
-,F,1920.0,Taylor,195
-MI,M,1952.0,Michael,828
-MI, M ,1919.0,Jordan,76
-MI,F,1917.0,Jennifer,53
-MI,F,2021.0,Taylor,27
-MI,M,,Michael,424
-MI,F,1932.0,,24
-MI,F,1966.0,Casey,76
-MI,M,1987.0, Taylor ,174
-MI,M,1978.0,,441
-MI,M,1960.0,Taylor,485
-MI,M,1920.0,James,94
-MI,M,1938.0,Michael,405
-MI,M,2010.0,Jordan,161
-MI,M,1949.0,Taylor,1082
-MI,,1912.0,Casey,20
-MI,M,1956.0,Alex,51
-MI, M ,2014.0,Alex,21
-MI,F,1935.0,Jordan,8
-MI,F,1989.0,Mary,360
-MI,M,1983.0,James,341
-MI,M,1980.0,Casey,
-,M,2021.0,Taylor,101
- MI ,M,2006.0, Robert ,128
-MI,F,1950.0,Casey,305
- MI ,,,Michael,5
-MI,M,1962.0,Taylor,58
-MI,M,1925.0,Michael,137
-MI, F ,1979.0,Casey,53
-MI,F,1941.0,Mary,622
-,M,1981.0,Casey,210
-MI, F ,2008.0,Patricia,17
-MI,F,1991.0,Jennifer,212
-MI,F,1936.0,Taylor,38
-MI,M,1947.0,Jordan,6
-MI,,1933.0,Taylor,27
-MI,F,1987.0,Jennifer,183
-MI,M,1969.0,James,17
-MI,,2006.0,Taylor,47
-MI,M,1943.0,Linda,
-MI,F,1967.0,Casey,615
-MI,M,1979.0,James,30
-MI,M,1988.0,Taylor,814
-MI,M,1993.0,Taylor,189
-MI,M,2000.0,robert,28
-,F,1971.0,Taylor,20
-MI,F,1969.0,linda,443
-MI,M,1996.0,Taylor,
-MI,M,1949.0,Jordan,336
-MI,F,1928.0,Jordan,5
-MI,F,1914.0,Casey,73
- MI ,M,1914.0,jordan,51
-MI,F,1947.0,Jordan,286
-MI,F,1959.0,Jordan,171
-MI,,,Jennifer,751
-MI,F,2002.0,Michael,23
- MI ,M,2011.0,James,89
-MI,F,1930.0,,202
- MI ,F,1957.0,Patricia,393
-MI,M,2011.0,John,69
-MI,,2016.0,Alex,66
-MI,M,1923.0,Michael,87
-MI,F,1982.0,Linda,92
-MI, M ,1961.0,Michael,301
-MI,F,1961.0,Linda,13
-MI,F,1948.0,Patricia,110
-MI,M,1959.0,James,344
-,M,2004.0,Michael,
-MI, M ,1938.0,Taylor,247
-MI,F,1929.0,Linda,27
-MI,F,1975.0,Mary,595
-MI,M,1994.0,,229
-MI,F,2018.0,Jennifer,462
-MI, M ,1999.0,Alex,70
- MI , M ,1945.0,Robert,312
-MI,F,,Casey,95
-MI,,2003.0,Alex,18
-MI,F,1965.0,Jennifer,83
-MI,M,1919.0,Michael,14
-MI,M,2017.0,Robert,285
-,M,1926.0,Jordan,11
-MI,,1988.0,Robert,558
- MI ,M,2007.0,Linda,301
-MI,F,2015.0, Casey ,
-MI,F,, Jennifer ,40
-MI,M,1971.0,Jordan,88
-MI,F,1934.0,Jordan,101
-MI,M,1931.0,Jennifer,89
-MI,,1938.0,John,435
- MI ,M,1962.0,,339
-MI, M ,1943.0,Jordan,91
- MI , M ,1935.0,Michael,577
-MI, M ,1945.0,Jordan,82
-MI,M,1962.0,Jordan,292
-MI,M,1970.0,Taylor,629
-MI,F,1913.0,alex,112
-MI,M,1940.0,Mary,24
-MI,M,1985.0,Michael,225
-MI,M,1960.0,Michael,829
-, F ,1997.0,John,124
-MI,F,1930.0,Jordan,44
-MI,M,2015.0,Casey,6
-MI,M,1994.0, James ,499
-MI,F,1943.0,Taylor,
-MI, M ,1981.0,Taylor,388
-MI,M,1927.0,Taylor,177
-MI,M,1983.0, Robert ,354
-,M,1980.0,Taylor,896
-MI,M,1977.0,Casey,79
-MI,F,1985.0,Taylor,323
-MI,,1940.0,Michael,52
-MI,M,,Michael,147
- MI ,F,1979.0,Taylor,176
-MI,F,1990.0,Linda,318
-MI,M,1980.0,Alex,277
-MI,M,1974.0,Casey,28
-MI,M,2010.0,Casey,622
- MI ,F,2020.0,,255
-MI,M,1989.0,,78
-MI,F,1982.0,Michael,40
-MI,M,1984.0,Taylor,361
- MI ,M,2005.0,Taylor,139
-MI,,1956.0,Alex,393
-MI,F,1985.0,Casey,364
- MI ,M,1955.0,Michael,19
-MI,M,1924.0,Jordan,71
-MI,F,1940.0,John,222
-MI,F,1979.0,patricia,598
-MI,F,1980.0,Patricia,452
-MI,F,2019.0,Jordan,
-MI,F,1941.0,Alex,
-MI,F,1976.0,Casey,
-MI,M,1964.0,Robert,364
-MI,F,1958.0,Taylor,1020
-MI,M,2006.0,Taylor,54
- MI ,F,2009.0,Jennifer,33
-MI,F,1951.0,,293
-MI,F,1971.0,Jordan,262
- MI ,F,1914.0,Jordan,11
- MI ,F,1958.0,Jennifer,69
-MI, M ,1927.0,Jordan,8
-MI,F,2001.0,Jordan,9
-MI,F,1974.0,Patricia,362
-MI, M ,1921.0,James,26
-MI,M,2022.0,Alex,299
-MI,F,1962.0,Mary,141
-MI, M ,1977.0,James,650
-MI,M,1932.0, Michael ,11
-MI,M,1999.0,Patricia,213
-MI,F,1942.0,Casey,342
-MI,F,1962.0,linda,362
-MI,F,2010.0,Mary,39
-,F,1954.0,Casey,180
- MI ,M,1965.0,Alex,318
-,M,1973.0,Michael,285
-MI,M,1963.0,Robert,294
-MI,F,1951.0,Mary,69
-MI,F,1937.0,Alex,6
-MI, F ,1962.0,john,235
-MI,,2015.0,Jennifer,197
-MI,M,1982.0,James,
-MI,M,1939.0,Alex,43
-MI,M,1936.0, Alex ,147
-MI,F,2007.0, Jordan ,24
-MI,M,2019.0,Jordan,
- MI ,M,1917.0,Jordan,6
- MI ,F,2011.0,Alex,148
-MI,M,1987.0,James,781
-MI,M,1966.0,James,92
-MI,M,2007.0,Robert,25
-MI,M,1911.0,John,41
-MI,F,1974.0,Mary,154
-MI,F,1911.0,Jordan,18
-MI,F,1979.0,Jordan,7
-MI,M,1957.0,Jordan,6
-MI,M,1971.0,Michael,847
-MI,M,1940.0,Taylor,296
- MI ,M,1957.0,Casey,272
- MI ,M,1977.0,Michael,158
-MI,,1929.0,Casey,175
-MI,F,1978.0,Alex,579
- MI ,F,2019.0,Linda,395
-MI,F,1976.0,Linda,220
- MI ,M,1975.0,mary,437
-MI,,1936.0,Jennifer,784
-MI,M,1941.0,Robert,620
-MI,M,1943.0,Alex,41
- MI ,M,1945.0,Casey,231
-MI,,1916.0,Jordan,84
- MI ,M,1951.0,Taylor,734
-MI,M,1985.0,Jennifer,170
-MI,M,,Taylor,184
- MI ,M,1925.0,Alex,16
-,F,1951.0, Linda ,19
-MI,F,1938.0,Casey,112
-, M ,2020.0,Alex,357
-MI,F,,Casey,101
-MI, M ,1945.0,Alex,76
-MI,M,1997.0,Jordan,332
- MI ,M,1955.0,Alex,19
-MI,F,1987.0,Alex,131
-MI,,1922.0,Patricia,23
-MI,M,1963.0,Taylor,25
-MI,F,1970.0,,709
-MI,M,1946.0,,13
-MI,F,1969.0,Patricia,11
-MI,F,1952.0,Casey,15
-MI,F,2012.0,Jennifer,317
- MI ,M,1974.0,Michael,748
-MI,M,2004.0,Jordan,154
- MI ,F,2016.0,,119
-MI,F,2003.0,jordan,10
-MI,M,1940.0,Alex,386
-MI,M,1949.0,John,486
- MI ,F,1962.0,Jordan,6
-MI,F,1993.0,Casey,366
-MI, F ,1999.0,Linda,9
-MI,M,2005.0,Michael,57
-MI,F,1972.0,Mary,851
-MI, M ,2003.0,Taylor,68
-MI,M,1973.0,Alex,169
-,M,1990.0,Robert,658
-MI,,1935.0,John,521
-MI,F,2017.0,Linda,20
-MI, F ,1972.0,Taylor,45
- MI ,F,1966.0,Patricia,74
-MI,M,1939.0,robert,173
-MI, F ,1957.0,Casey,13
-MI,F,1925.0,mary,196
-MI,F,1970.0,Jordan,242
- MI ,F,1986.0,Mary,42
- MI ,M,2018.0,Alex,283
-MI,F,1999.0,Jordan,514
-MI,F,2020.0,Casey,48
-MI,F,1915.0,Casey,7
-MI,M,1976.0,John,959
-MI,F,1950.0,,121
-MI,M,1989.0,Robert,18
-MI,M,2000.0, Michael ,166
-MI,M,1988.0,John,204
-MI,F,1997.0,Patricia,
-MI,F,1990.0,Taylor,545
-MI,F,2006.0,Jordan,148
-MI,F,1918.0,Patricia,27
-MI,F,2013.0,Casey,374
-MI,F,2013.0,Mary,513
-MI,M,1930.0,Linda,8
-MI,F,,Linda,7
-MI,F,1966.0,Alex,69
-MI,F,1914.0,Jennifer,11
-MI,M,1972.0,John,68
-MI,M,1984.0,James,43
-MI,M,1970.0,James,94
-MI,F,1967.0,Linda,654
-MI,M,1986.0, James ,174
-MI,,1924.0,Casey,48
- MI ,M,1965.0,Taylor,101
-MI,M,2009.0,Alex,464
-MI,M,1950.0,Michael,19
-MI, M ,2020.0, Robert ,65
-MI,F,,Alex,6
-MI,F,1990.0,,537
-MI,F,2004.0,Alex,16
- MI , F ,2015.0,Taylor,225
-MI,M,2013.0,Taylor,992
-MI, M ,1926.0,Casey,125
-MI,F,1963.0,Casey,164
-MI,M,1955.0,Jordan,84
-MI,M,1984.0,,353
-MI, F ,2011.0,Mary,200
-MI,F,1954.0, Alex ,179
-,F,,Robert,42
- MI ,M,1963.0,Casey,614
- MI ,F,1943.0,Jordan,472
-MI,F,1957.0,Linda,631
-MI,M,1986.0,Casey,419
-MI,F,2016.0,Taylor,48
-MI,F,2015.0,Mary,690
-MI,M,,Taylor,18
-MI,F,1969.0,Taylor,99
-MI,M,1967.0,John,
-MI,F,1965.0,Patricia,613
-,M,2001.0,Robert,22
-MI,F,1975.0,Taylor,287
-MI,F,1956.0,,39
-MI,M,1996.0,linda,126
-MI,M,2017.0,Alex,164
-MI,F,,Linda,647
-MI,F,1968.0,Jordan,132
-MI,M,,John,
- MI ,M,2001.0,alex,595
-MI,M,1995.0,Casey,1021
-MI,M,2004.0,Alex,298
-MI,M,2005.0,,443
-MI,M,1992.0,Alex,192
-MI,M,1989.0,James,846
-MI,M,1968.0,James,1309
-MI,F,2021.0,Taylor,27
-MI,F,1949.0,Mary,20
-MI,F,1946.0,Jennifer,
-MI,M,1923.0,Jordan,5
-,M,1987.0,John,495
-MI,M,1961.0,John,448
-MI, M ,1994.0,Jennifer,252
-MI,M,1969.0,Alex,375
-MI,M,1951.0,James,14
-MI, M ,2001.0, Taylor ,188
-MI, F ,1932.0,Alex,43
-MI, M ,1972.0,Jordan,276
-MI,M,1934.0,Patricia,70
-MI,M,1972.0,Alex,688
-,M,1975.0,Michael,362
-MI,F,1942.0,Linda,7
-MI,M,1987.0,Alex,218
-MI,M,1949.0,Michael,19
-MI,F,1951.0,patricia,271
-,F,1945.0,Michael,204
- MI ,M,1954.0,Michael,21
-MI, F ,1958.0,Patricia,84
-MI,M,2009.0,Jordan,290
-MI,M,1971.0,Taylor,249
-MI,M,1953.0,James,189
-MI,F,1964.0,Mary,152
-MI,M,1957.0,,568
-MI,F,1927.0,,74
-MI,F,2019.0,Jennifer,7
-MI,F,1976.0,Jordan,699
- MI ,F,1967.0,Jennifer,35
-MI,F,1980.0,Jennifer,269
-MI,F,1948.0,Jordan,52
-MI,F,1947.0,Jennifer,10
- MI ,F,1941.0,Jennifer,11
-MI,F,1947.0,Mary,205
-MI,F,1986.0,Taylor,753
-MI,M,,Jordan,61
-MI,F,1968.0,Jennifer,425
-MI,F,, Jennifer ,40
-MI,F,2012.0,Linda,519
-MI,F,1913.0,Jordan,128
-MI,F,2004.0,Jennifer,186
-MI,M,1956.0,James,350
-,M,1968.0,Taylor,10
-MI, M ,1939.0,Jordan,272
-MI,M,1957.0,,280
-MI,M,1958.0,James,
-MI,F,1942.0,Mary,
-MI,M,1969.0,Casey,640
- MI ,F,1995.0,Casey,561
-MI,M,1978.0,Robert,416
-MI,M,1943.0,Casey,5
- MI ,F,1939.0,Taylor,23
-MI,M,1944.0,Alex,65
-MI, M ,1970.0, Michael ,102
-MI,F,1997.0,Jennifer,817
-,M,1946.0,Casey,33
-MI, F ,,James,7
-MI,,2020.0,Jennifer,112
-MI,F,2014.0,,59
- MI ,F,1963.0,Mary,230
-MI,F,2004.0,Patricia,833
- MI ,F,2002.0,Mary,21
-MI, F ,2010.0,,
-,M,1936.0,Michael,19
-MI,M,2002.0,,573
-MI,F,2017.0,Patricia,192
-MI,F,1977.0,Patricia,224
- MI ,F,1944.0,Jordan,23
-,M,2003.0,Alex,133
-,M,,John,23
-MI, M ,,Taylor,55
-MI, M ,1950.0,Casey,148
-MI,M,1958.0,John,
-MI, M ,1911.0,,186
-MI,M,1979.0,Casey,970
-MI,F,1999.0,Mary,523
- MI ,M,1991.0,John,393
-MI,M,1954.0,John,81
-MI,F,1957.0,,701
-MI, F ,1961.0,Mary,101
-MI,F,2008.0,Jennifer,103
-MI,M,1978.0,Jordan,457
- MI ,F,2020.0,Mary,325
-MI,F,1982.0,Alex,119
-MI,F,2012.0,Alex,591
-MI,M,1947.0,Michael,229
-MI,F,2015.0,jordan,320
-MI, M ,2014.0,John,85
- MI ,M,1993.0,Alex,626
-MI,M,2002.0,John,169
-MI,M,1967.0,Alex,11
-MI,M,2007.0,Michael,95
-MI,M,1974.0,James,746
-MI,F,1964.0,Patricia,628
-MI,M,1959.0,Michael,192
-MI, M ,,Casey,187
-MI,F,1991.0,,462
-MI,M,1965.0,John,484
-MI,F,1963.0,Jordan,372
- MI ,F,1919.0,Patricia,15
-,F,1915.0,Linda,
-MI,F,1996.0,Mary,466
-MI,M,1950.0,,103
-MI,F,1977.0,Mary,71
-MI, F ,1936.0,Casey,263
-MI,M,1987.0,Linda,630
-MI,F,1995.0,Patricia,15
-MI,F,1960.0,Mary,979
-MI,F,1981.0,Patricia,33
-MI,M,1950.0,,223
- MI ,F,2008.0,Casey,6
-MI,F,1949.0,Linda,15
-MI,F,1953.0,Taylor,436
-MI,F,1984.0,Mary,228
- MI , F ,1952.0,Alex,278
-MI,,1954.0,Robert,66
-MI,F,1921.0,Jennifer,104
-MI,M,2010.0,James,15
-MI,M,2008.0,Casey,35
- MI ,F,1918.0, Casey ,188
-MI,F,1977.0,Casey,296
-MI,F,1986.0,James,306
-MI,M,,Michael,141
- MI ,M,1998.0,Jordan,166
-MI, M ,1956.0,Linda,434
-MI,F,1956.0,Jennifer,
- MI ,M,1978.0,James,29
-MI,M,1984.0,Jordan,612
-MI,F,2008.0,alex,181
-MI,M,1981.0,Jennifer,188
-MI,M,1961.0,,570
-MI,M,1985.0,Taylor,
-MI,M,2011.0, Michael ,203
-MI,F,2007.0,linda,
-MI,F,1984.0,Jordan,187
-MI,M,1956.0,Casey,446
-MI, M ,2002.0,james,38
-MI,F,1936.0,Mary,181
-MI,F,1961.0,Taylor,55
- MI ,F,2016.0,Jennifer,25
-,M,2013.0,Robert,7
-MI,F,1990.0,Alex,44
-MI,F,2005.0,Jordan,945
-MI,M,1937.0,Jordan,26
-MI,F,1939.0,Linda,400
-MI,M,1983.0,Alex,398
-MI, F ,1965.0,Michael,432
-MI,M,,Michael,82
-MI,M,1949.0, Alex ,57
-MI,M,1982.0,Michael,72
-MI,F,,Jennifer,8
-MI,F,1974.0,Linda,460
-MI, M ,1928.0,Jordan,16
-MI,F,1927.0,Linda,
-MI,M,1990.0,Taylor,237
-MI,F,,Patricia,51
-MI,F,1991.0,Taylor,25
-MI,F,1992.0,Casey,246
-MI,M,2014.0,Taylor,572
-MI,F,1980.0,Linda,430
-MI,M,1921.0,Taylor,56
-MI,F,2001.0,Jennifer,135
-MI,F,,Taylor,416
-MI,F,2009.0, Casey ,240
-MI,M,1928.0,Alex,38
-MI,F,1984.0, Casey ,613
-MI,M,1980.0,Robert,28
- MI ,M,2016.0,Casey,46
-MI,F,1969.0,Jennifer,569
-MI,,1947.0,Alex,704
-MI,F,2012.0,Taylor,764
-MI,,2003.0,Casey,881
-MI,M,1990.0,Jordan,125
-MI,F,1981.0,Casey,148
-MI,F,1977.0,Alex,625
-MI,F,1984.0,Patricia,800
-MI,M,1916.0,John,9
-MI,F,1914.0,Alex,5
-MI,M,1981.0,Robert,613
-MI,M,1988.0,jordan,41
-MI,M,1995.0,Alex,16
-MI,M,2021.0,Jordan,165
-MI,F,2010.0,jordan,6
-MI,F,1924.0,jordan,65
-MI,F,1923.0,,9
- MI ,F,1955.0, Taylor ,169
-MI,M,1992.0,James,28
-MI,M,2012.0,Casey,504
- MI ,M,2017.0,,95
-,F,2014.0,,38
-MI,M,1937.0, James ,683
-MI,M,1912.0,Michael,10
-MI,F,,Jordan,1101
-MI,F,1931.0,Linda,
-MI,M,1968.0,Patricia,11
-MI,F,1961.0,Jordan,241
-MI,F,1931.0,Taylor,187
-,F,1921.0,Patricia,37
-MI,M,2021.0,John,73
- MI ,F,1982.0,Patricia,
-MI,M,1959.0,Taylor,209
-MI,M,1961.0,Robert,542
-MI,M,2004.0,Taylor,160
-MI,F,1993.0,Jennifer,311
-MI,M,1936.0,Robert,19
-MI,F,1951.0,Alex,322
-MI,F,1994.0,Taylor,25
-,M,,Jordan,56
-MI,M,1976.0,Alex,668
-MI,F,1979.0,Linda,377
-MI,M,2006.0,Alex,
-,F,2003.0,Taylor,
-MI,M,1957.0,,280
-MI,F,2020.0,jennifer,7
-MI,F,1924.0,Mary,101
-MI,F,2005.0,Casey,284
- MI ,M,1949.0,Casey,94
-MI,M,1997.0,Robert,1163
-MI,F,1973.0,Alex,381
- MI ,F,1955.0,Alex,658
-MI,F,1977.0,Linda,38
-MI,M,1959.0,Casey,83
-MI,F,1965.0,Casey,308
-MI,F,1942.0,Taylor,33
-MI,,2014.0,Michael,32
-MI,F,1981.0,linda,550
-MI,F,1963.0,Patricia,253
-MI,F,1939.0,Jordan,33
-MI,F,1965.0,Mary,21
-MI,M,1959.0,Robert,20
-MI,F,1968.0, Patricia ,67
-MI,M,1979.0,John,553
-MI,,2008.0,Taylor,291
-MI,M,1915.0,Taylor,38
-MI,F,2016.0,Patricia,416
-MI, F ,1967.0,,142
-MI,M,,Michael,
-MI,F,1989.0,Linda,405
-MI,M,1956.0,Michael,88
-MI,F,2002.0,Linda,45
- MI ,M,1964.0,Taylor,927
-MI,M,1980.0,James,597
-,M,1957.0,michael,68
-MI, M ,1976.0,Jordan,379
-MI,F,1983.0,Taylor,418
-MI,F,1955.0,Mary,54
-MI,F,1993.0,Taylor,351
- MI ,F,1939.0,Mary,670
-MI,M,1937.0,Michael,27
-MI,F,1999.0,Jennifer,167
-MI,F,1960.0,Jordan,215
-MI,F,1962.0,Patricia,143
-MI,F,,Casey,389
-,F,1995.0,Mary,579
-MI,M,2020.0,Casey,7
-MI,F,1984.0,Linda,632
-MI, M ,1942.0,Patricia,
- MI ,F,1968.0,Linda,356
-MI,M,1968.0, Jennifer ,245
-MI,M,1922.0,Alex,13
-MI,F,1954.0,Jordan,7
-MI,M,1958.0,Michael,148
-MI,M,1943.0,Robert,86
-MI,F,1959.0,Mary,334
-MI, F ,1955.0,,
-MI, M ,2009.0,Taylor,172
-MI,M,2019.0,John,9
-MI,M,1948.0, Jordan ,836
-MI,F,1940.0,Casey,359
- MI ,M,2001.0,alex,595
-MI,M,1998.0,,20
-MI,F,1941.0, Taylor ,66
-MI,M,1944.0,Michael,24
-MI,F,1994.0,Alex,588
- MI ,F,1948.0,Taylor,78
-MI,F,1951.0,Jordan,18
- MI ,F,2003.0,Mary,55
-MI, F ,1984.0,Taylor,141
-MI,F,1961.0,Patricia,23
-MI,F,1996.0,Jennifer,10
-MI,F,1996.0,Alex,267
- MI ,F,2013.0,Jennifer,27
-MI,F,2009.0,Mary,480
-MI,F,2010.0,Patricia,1097
- MI ,F,1953.0,,77
-MI,F,2017.0,Jennifer,
-MI, F ,1938.0,Patricia,537
-MI,,1979.0,Michael,764
-MI,M,1973.0,John,181
-MI,F,1922.0,Linda,53
- MI , M ,1970.0,Robert,700
- MI ,F,2013.0,Michael,11
-MI,F,1961.0,Jennifer,164
-MI,M,1937.0,,60
-MI,F,1933.0,Alex,148
-MI, M ,1947.0,John,8
-MI,M,1954.0,Alex,78
-MI,M,1992.0,Casey,143
-MI,F,2019.0,Patricia,21
-MI,F,1972.0,Casey,50
-MI,F,1981.0,Alex,469
-MI,F,1972.0,Jordan,
-MI,,1996.0,alex,406
-MI,F,1956.0,Jordan,560
- MI ,M,1977.0,Taylor,151
- MI ,F,1958.0,Mary,74
-MI,M,2008.0,James,250
-MI,F,1967.0,Patricia,
-MI,F,2018.0,Casey,5
-MI,F,1946.0,Patricia,29
-MI,F,1982.0,Taylor,261
-MI,F,1937.0,Linda,289
-MI,M,2011.0,Casey,12
-MI,M,1982.0,Robert,1075
-MI,F,1978.0,Taylor,360
-MI,F,1945.0,Alex,256
-MI,M,1947.0,Casey,60
-MI,F,2007.0,Mary,835
-MI,F,2018.0,Linda,11
-MI,M,1994.0,Jordan,30
-MI,M,1966.0,Casey,108
-MI,M,2015.0,Taylor,21
-,F,,Casey,514
-MI,F,1931.0, Patricia ,7
-MI,M,2019.0,Alex,122
- MI ,F,,Patricia,189
-MI,M,1976.0,casey,78
-,M,1933.0,Casey,732
- MI ,F,2005.0,Patricia,358
-MI, F ,1957.0,Casey,13
-MI, M ,2001.0,Casey,42
-MI,F,2014.0,Casey,42
- MI ,M,1944.0,James,66
- MI ,F,2014.0,Mary,9
- MI ,F,1974.0,,365
-MI,M,1948.0,Michael,7
-MI,F,2017.0,Casey,56
-MI,M,1923.0,Jordan,5
-MI,M,1998.0,Michael,363
-MI,F,1993.0,Linda,86
- MI ,M,,Jennifer,855
-MI,M,1968.0,Michael,890
-MI, F ,1995.0,Alex,69
-MI,M,2006.0,Michael,605
-MI, F ,1950.0,Linda,94
-MI,F,1971.0,,133
-MI,M,1970.0,Casey,191
-MI,F,1996.0,Casey,45
-MI, F ,1955.0,Casey,362
-MI,M,1951.0,Michael,100
-MI,F,1986.0,Jordan,482
-MI, F ,1970.0,Mary,53
-MI,,1996.0,Linda,734
-,F,1947.0,Patricia,93
- MI ,F,,Mary,67
-MI,M,1977.0,Jordan,30
- MI ,F,1929.0,Patricia,166
- MI ,F,1986.0,,158
-MI, M ,1992.0,Jordan,729
-MI,M,1986.0,,303
- MI ,F,1983.0,Jennifer,748
-MI,M,1988.0,Casey,124
-MI,M,1975.0,James,165
-MI,M,1946.0,Michael,96
-MI,F,,,146
- MI ,F,1987.0,Casey,291
-MI,M,1990.0,Casey,619
-MI,,1920.0,Jennifer,37
-MI,F,1957.0,Taylor,44
-MI,M,1941.0,Taylor,560
-MI,F,,Taylor,5
-MI,M,1952.0,John,52
-MI,F,2005.0,Alex,32
-MI,M,1941.0,John,320
-MI,M,1972.0,James,161
-MI,M,2009.0,,357
-MI,M,2005.0,john,12
-MI,F,1941.0,Casey,470
-MI,M,1997.0,Alex,290
-MI,F,2000.0,Jordan,223
-MI,F,1929.0,Mary,341
-MI,F,1968.0,Michael,
-MI,M,1967.0,Casey,243
-MI,F,1948.0,Alex,73
-MI,F,1925.0,Linda,66
- MI ,M,1986.0,Taylor,226
-MI,M,2000.0,Taylor,
- MI ,F,1986.0,Jennifer,9
-MI,M,1993.0,Jordan,
-MI,M,2007.0,Casey,115
-MI,F,2020.0,,583
-MI,,1980.0,Michael,296
-MI,M,1935.0,Casey,6
-MI,F,1946.0,Taylor,116
-MI,M,1953.0,Jordan,73
- MI ,,1949.0,Casey,168
-MI,F,,Casey,6
- MI ,,1970.0,,265
-,M,1991.0,Alex,30
- MI ,F,1990.0,Jordan,414
-MI,F,1975.0,Alex,484
-MI, M ,2020.0,John,13
-,F,1933.0,Taylor,38
-MI,M,1959.0,Alex,806
-MI,M,2004.0,John,524
-MI,F,1975.0,John,30
-MI,M,1957.0,Taylor,215
- MI ,M,1967.0, Taylor ,435
-MI,F,2003.0,Jennifer,
-MI,F,1932.0,Mary,15
-MI, F ,1952.0,Linda,80
-MI,M,1995.0,Michael,600
-,F,1965.0,Taylor,294
-MI,M,1950.0,Taylor,62
-MI,,1976.0,Mary,69
-MI,M,1963.0,James,
-MI,F,1935.0,Linda,13
-MI,M,1957.0,Robert,148
-,M,1933.0,Casey,732
- MI ,M,,Robert,50
- MI ,M,2018.0,Alex,283
-MI,F,1965.0,Jordan,694
-MI, M ,1975.0,Casey,113
-MI,M,,Robert,261
-MI,M,1933.0,James,543
- MI ,F,2015.0, Linda ,167
-MI,F,1928.0,Mary,93
-MI,F,1983.0,Jordan,734
-MI,F,1986.0,Patricia,731
-MI,F,1985.0,Alex,90
-MI,F,2006.0,Casey,
-MI,M,1937.0,Casey,184
-MI,F,2007.0,Casey,353
-,M,1940.0,,18
-MI,,1996.0,Robert,
-MI,M,1919.0, Casey ,11
-MI,F,1938.0,Mary,28
-MI, F ,1931.0,Jennifer,77
-MI,F,1937.0,Mary,67
-MI, F ,,Linda,455
-MI,F,1980.0,Jordan,613
- MI ,F,2021.0,Linda,22
-MI,F,2020.0,Taylor,644
-MI,M,1978.0,Taylor,62
- MI ,F,1976.0,Taylor,602
-,F,1976.0,Jennifer,405
-MI,M,1992.0,Robert,950
-MI,F,1910.0,Casey,56
-MI,M,1972.0,Taylor,76
-MI,M,1952.0,Jordan,5
-MI,M,1976.0,Michael,94
-MI,F,2006.0,Alex,56
-MI,M,1945.0,John,
- MI , F ,, Patricia ,190
-MI,M,2013.0,Michael,6
-MI,F,1937.0,Taylor,394
- MI ,M,1997.0,Casey,8
-MI,M,1934.0,Michael,119
-MI,F,2018.0,Patricia,273
-MI, M ,2000.0,John,15
-MI, M ,2005.0,Robert,87
-MI,,1931.0,James,215
-MI,M,1960.0,Jordan,247
-MI,F,1971.0,Alex,26
- MI ,F,1976.0,Patricia,505
-MI,M,1971.0,Alex,441
-MI,F,1931.0,Mary,5
-MI,M,1956.0,,16
-MI,M,,Robert,404
-MI,M,1953.0,John,440
-MI,,1976.0, James ,704
- MI ,M,2004.0,Robert,148
-MI,F,1983.0,Jordan,734
-,F,2001.0,Casey,557
-MI,F,1953.0,linda,41
-,,1977.0,Jordan,22
-MI,,1942.0,,11
-MI,F,1934.0,Linda,19
-MI,F,1964.0,Alex,351
-MI,M,1921.0, Jordan ,16
-MI,F,1938.0,Linda,119
-MI,M,2008.0,,972
-MI,M,1994.0,,919
-MI, M ,2004.0,James,616
-MI,F,1954.0,Patricia,185
-MI,F,1963.0,Alex,202
-MI,M,1972.0,michael,345
-MI,F,1988.0,Alex,285
-MI,M,2005.0,Alex,28
-MI,F,1935.0,Alex,46
-MI, F ,1923.0,Jennifer,11
-MI,F,1954.0,Linda,680
-MI,F,1976.0,Alex,213
-MI, M ,1940.0,Patricia,13
-MI,M,1946.0,Jordan,5
-MI,F,2010.0,Jennifer,482
-MI,M,1952.0,Alex,289
-MI,F,1946.0,Alex,100
-MI,M,1998.0,,66
-MI,F,1992.0,Linda,347
- MI ,F,1944.0,Alex,629
-MI,M,2003.0,James,227
-MI,M,1961.0,,321
-MI,M,1934.0,Taylor,50
-MI,M,1966.0,Alex,63
-MI, F ,1943.0,Jennifer,
-MI,F,2005.0,Jennifer,28
-MI,F,1935.0,Alex,46
-MI,F,1977.0,Taylor,591
-,F,1925.0,Robert,49
-MI,F,1952.0,Jennifer,468
-MI,M,1960.0,Casey,93
-MI,M,1984.0,Casey,53
-MI,M,2006.0,John,862
-MI,F,2001.0,taylor,344
-, F ,1988.0,Patricia,1012
-MI,F,2022.0,Patricia,
-MI,F,1985.0,Patricia,71
-MI,M,1963.0,Alex,429
-,F,1989.0,jordan,113
-MI,M,1995.0,James,301
-MI,M,1952.0,Jordan,5
-MI,M,1979.0,Robert,296
- MI ,M,1983.0,Michael,338
-MI,F,1927.0,Casey,16
-MI,F,1978.0,Jennifer,1352
-MI,F,2018.0,Patricia,273
-MI,F,1953.0,Mary,
-MI,M,2006.0,Casey,13
-MI,M,1992.0,Taylor,14
-MI,M,1951.0, John ,710
-MI,F,2012.0,John,252
-MI,M,2020.0,James,19
-MI,M,1930.0,Michael,282
- MI ,F,1983.0,Alex,82
-MI,F,,Jennifer,298
-MI,F,1975.0,Patricia,181
-MI,F,1979.0,Alex,438
- MI ,F,1952.0,Taylor,12
-MI,M,1974.0,Jordan,408
-MI,F,1964.0,Casey,157
-MI,F,2007.0,Taylor,732
-MI,F,1950.0,Alex,35
-MI,M,1998.0,James,38
-MI,M,1933.0,Michael,311
-MI,M,1978.0,Jennifer,
-MI,F,1992.0,Alex,383
-MI,M,1989.0,John,10
-MI,F,2012.0,Mary,73
-MI,M,1932.0,Jordan,133
-MI, F ,1971.0,Mary,600
-MI,M,1956.0,Michael,88
-MI,F,1940.0,Mary,50
-MI,F,2002.0,Jordan,
-MI,F,,Alex,87
-MI,M,1913.0,,14
- MI ,M,1948.0, James ,14
- MI ,M,1938.0,Jordan,20
-MI,,1982.0,Jennifer,692
-MI,M,1990.0,John,96
-MI,F,1925.0,casey,30
-MI,,1937.0,Jordan,33
-MI,F,2013.0,Jordan,666
-MI,M,1955.0,Casey,515
- MI ,F,1961.0,Alex,483
-MI,F,1929.0,Taylor,390
-MI,F,1964.0, Jordan ,135
-MI,M,1991.0,Michael,69
-MI,M,1952.0,Taylor,56
-MI,M,1988.0,Alex,94
-MI,M,1997.0,James,413
-MI,F,2002.0,Linda,45
-MI,M,1948.0,John,332
-MI, M ,2003.0,Jordan,
-MI, F ,1975.0,Casey,157
-MI,M,1944.0,Jordan,255
-MI,M,1957.0,James,326
-MI,F,2017.0,Taylor,264
-MI,F,1969.0,,655
-MI,F,1999.0,,50
- MI ,M,1992.0,John,596
-MI,F,1933.0,Patricia,104
- MI ,M,1996.0,Casey,97
-MI,F,1987.0,Patricia,86
-MI,F,1945.0,Jennifer,7
-MI,F,1946.0,Alex,100
-MI,F,1988.0,Jordan,143
-MI,F,1949.0,Patricia,165
-MI,M,2014.0,Jordan,6
-MI,F,1968.0, Taylor ,330
-MI,M,1991.0,Casey,887
-MI,F,,Patricia,124
-MI,M,1994.0,,787
-MI,F,,Jordan,571
-MI,F,1950.0,Jordan,10
-MI,M,1922.0,James,120
-MI,M,1948.0,Taylor,285
- MI ,F,1929.0,Jennifer,5
-MI, M ,1924.0, Robert ,304
-MI,F,1989.0,Jennifer,664
-,M,1941.0,Alex,105
-MI,M,1993.0,John,61
-MI,F,1960.0,Linda,27
-MI,F,2020.0,Robert,104
-MI, F ,1999.0,Alex,676
-MI,M,1931.0,John,136
-MI,M,,John,234
-MI, M ,1933.0,Alex,29
-MI,M,1989.0,Michael,9
-MI,M,1944.0,Taylor,22
-MI, F ,1936.0,Michael,12
-MI, F ,2006.0, Linda ,27
-MI,M,1921.0,Alex,56
- MI ,F,1954.0,Taylor,720
-MI,M,1975.0,Robert,171
-MI,F,2011.0,Taylor,359
-MI,M,1942.0,,268
-MI,M,1929.0,John,126
-MI,F,1973.0,Jordan,169
-MI,F,1923.0,Casey,28
-MI,M,1961.0,Jordan,548
-MI,M,1977.0,Robert,477
- MI ,M,1987.0,Michael,157
-MI,M,1915.0, John ,
-MI,F,2000.0, Alex ,29
-MI,M,1934.0,John,82
-MI,M,1989.0,Taylor,
-MI,M,2017.0,John,91
-MI,F,1998.0,Mary,732
-MI,M,2018.0,Taylor,12
-MI,F,1960.0,Patricia,230
-MI,M,2000.0,Jordan,321
-MI,F,2001.0,Patricia,232
-MI,M,1995.0,Taylor,455
-MI,M,1946.0,James,9
-MI,F,1994.0,Patricia,109
-MI, M ,1973.0,Taylor,235
-MI,M,1978.0,John,1119
-MI,F,2001.0,Alex,18
-MI,M,1999.0,James,475
-MI,M,1942.0,Michael,104
-MI,M,,Alex,26
-MI,,1972.0,Robert,520
-MI,F,2000.0,Casey,16
-MI,M,1990.0,Michael,907
-MI,M,1972.0,Casey,1027
- MI ,M,1927.0,Alex,
-MI,M,1970.0,Alex,70
- MI ,M,1943.0,James,21
-MI,M,1998.0,linda,166
-MI,M,2007.0,Taylor,21
-MI,M,1928.0,Taylor,17
-MI,F,1917.0,Jordan,5
- MI ,M,2011.0,James,89
- MI ,F,2013.0,Alex,15
-MI,,2016.0,Robert,82
-MI,M,1937.0,Casey,184
-MI,M,1985.0,Robert,691
- MI ,F,1990.0, Mary ,63
-MI,M,2019.0,Robert,43
-MI,F,,Patricia,540
-MI,M,,Michael,17
-,F,1932.0,Jennifer,359
-MI, M ,2015.0,,668
-MI,M,1937.0,Jordan,26
-MI,F,1930.0,Jennifer,72
-MI,F,1911.0,Casey,11
-MI,M,1947.0,Robert,45
- MI ,F,2007.0,Patricia,40
-MI, F ,1997.0,Mary,493
-MI,M,1991.0,Jordan,33
-MI,M,1965.0,Robert,988
-MI,M,1978.0,Robert,416
- MI ,M,1914.0,Michael,39
-MI,F,1975.0,Jennifer,302
-MI,F,1947.0,Alex,40
-MI,M,1982.0, Taylor ,123
- MI ,M,1948.0, James ,14
-MI,F,1959.0,Patricia,32
- MI ,F,2009.0,Jordan,636
-MI,M,1971.0,Casey,92
-MI,M,1975.0,taylor,121
-MI,M,1918.0,Michael,5
-MI,M,1954.0,James,189
-MI,F,1962.0,casey,118
-MI,F,1998.0,jennifer,215
-MI,F,1957.0, Michael ,80
-MI,M,1996.0,John,176
-MI,M,1949.0,Mary,234
-MI,M,2012.0,John,129
-MI,M,1953.0,Alex,
- MI ,M,1929.0,Jordan,24
-MI,F,2011.0,Linda,442
-MI,F,1940.0,Michael,300
-, F ,1956.0, Patricia ,230
-MI,F,1996.0,Patricia,104
-MI,F,1971.0,Linda,61
-MI,F,1969.0,Alex,
-MI, M ,2015.0,Jordan,35
-MI,M,1967.0,Jennifer,357
-MI,F,,Linda,138
-MI,M,1994.0,Casey,313
-MI, M ,1962.0,Michael,486
-MI,F,2016.0,Casey,404
-MI,F,2006.0,Patricia,
- MI ,F,2008.0,Michael,135
-MI,F,1978.0,Mary,583
-MI,M,1999.0,Casey,79
- MI ,F,1998.0,Jordan,185
-MI, M ,1986.0,John,88
-MI,M,1910.0,,38
-MI,F,2012.0,Mary,73
-MI, M ,1969.0,,284
-MI,F,2004.0,Linda,965
-MI, F ,1939.0,Casey,233
-MI,F,1934.0,Casey,320
-MI,M,1976.0,Robert,217
-MI, M ,1963.0,John,41
- MI , M ,1981.0,Michael,38
- MI ,F,1996.0,Jordan,57
-MI,M,2010.0,Robert,189
-MI,M,1933.0,Robert,13
-,M,1964.0,John,
-MI,M,1970.0,John,438
-MI,M,2011.0,Taylor,117
-MI,F,2008.0,Jordan,100
-MI,F,1950.0,Mary,103
-,F,1930.0,Patricia,119
-MI,M,,Alex,
-MI,M,2013.0,Alex,5
-MI,M,1917.0,Robert,36
-MI,M,1977.0,John,111
-MI,M,1961.0,Taylor,624
-MI,F,2006.0,Mary,660
-MI, M ,1979.0,Jordan,325
-MI,F,2021.0,Mary,5
-MI,M,1968.0, Alex ,152
- MI ,M,1988.0,Mary,195
- MI ,,1972.0,Linda,153
- MI ,M,1926.0,Michael,20
-MI,M,2004.0,Casey,269
-MI,F,2010.0,Taylor,137
-MI,F,2007.0,Alex,110
-MI,M,1940.0,John,94
-MI,F,1951.0,Casey,526
-MI,F,2021.0,Casey,252
-MI,F,1939.0,alex,347
-MI,F,1945.0,Jordan,7
-MI,M,1995.0,jordan,373
-MI,M,2019.0,Casey,254
-MI,M,1955.0,Taylor,90
-MI,,1963.0,,171
-MI,F,1910.0,patricia,45
-MI,F,2008.0,Mary,120
-MI,F,1951.0,Taylor,194
-MI,F,1915.0,Alex,
-MI, M ,1994.0,Michael,731
-MI,F,1984.0,John,536
-MI, M ,1968.0,,561
- MI ,M,1935.0,jennifer,18
-MI,F,2022.0,Taylor,57
-MI,F,1960.0,Casey,292
- MI ,F,1990.0,Patricia,191
- MI ,M,1959.0,Jordan,420
-MI,M,1940.0,Jordan,
-MI, M ,1933.0,,21
- MI ,F,1956.0,Casey,8
-MI,F,1973.0, Linda ,1287
-MI,F,,Casey,278
-MI,F,1962.0,Michael,130
-MI,F,,alex,559
-MI, M ,1987.0,Casey,148
-MI,M,1929.0,Taylor,6
-, M ,1964.0,Jordan,991
-MI,F,1998.0, James ,200
-MI,F,1994.0,Jordan,120
- MI ,F,2014.0,Jordan,502
-MI,M,1935.0,Alex,887
-MI,F,2004.0,Jordan,929
-MI,M,1928.0,,313
-MI,F,1964.0,Michael,144
- MI ,M,, Casey ,38
-MI, F ,1949.0,Jennifer,62
-MI, M ,,James,30
-MI,M,1931.0,Alex,15
-MI,F,,Casey,278
-MI,M,1910.0,jordan,71
-,M,1934.0,,5
-MI,M,1960.0,Taylor,485
-MI,M,1948.0,Casey,551
-MI,M,1985.0, Jordan ,163
-MI,M,2008.0,Alex,203
-MI,F,1935.0,Casey,218
-MI,F,1998.0,Taylor,63
-MI, F ,2000.0,Jennifer,230
-MI,F,1973.0,Patricia,26
-MI,M,1959.0,Patricia,130
-MI,F,1940.0,Linda,210
-MI,F,1952.0,Patricia,101
-MI,M,1941.0,Jordan,42
-MI,M,1958.0,Taylor,338
+MI,F,2010.0,Casey,24
+MI,F,1950.0,Casey,25
+MI,M,1976.0,Taylor,525
+MI,M,1938.0,alex,10
+MI,M,2000.0,Taylor,34
+MI,F,1939.0,Patricia,93
+MI,F,1928.0,Jordan,12
+MI,M,1960.0,Casey,1033
+MI,M,1952.0,Jordan,12
+MI,M,1943.0,Michael,103
+MI,M,1997.0, Jordan ,479
+MI, M ,1980.0,Robert,349
+MI,M,1930.0,John,64
+MI,F,1990.0,casey,273
+MI,F,1954.0,Casey,275
+MI, F ,1989.0,Jennifer,156
+MI,F,1967.0,Linda,16
+MI,F,1962.0,Patricia,301
+MI,M,1933.0,,7
+MI,M,2005.0,Robert,1023
+MI,F,1921.0,Taylor,6
+MI, M ,1971.0,Michael,512
+MI,F,1947.0,Jennifer,163
+MI,M,1960.0,Michael,7
+MI,F,1970.0,Alex,338
+ MI , F ,2009.0,Patricia,531
+MI,F,1974.0,Linda,456
+MI,M,1964.0,Casey,5
+MI,F,1947.0,Mary,722
+MI,F,1969.0,Jordan,137
+MI,M,1928.0,michael,20
+MI, M ,1942.0,Jordan,
+ MI ,,1959.0,Jordan,646
+MI,M,1938.0,James,524
+MI,F,1986.0,Casey,388
+,F,1942.0,Alex,34
+MI,F,,Mary,72
+MI, M ,1992.0,Robert,180
+MI,M,1970.0, James ,149
+MI,M,1979.0,James,295
+MI,F,1966.0,Mary,494
+MI,F,1960.0,Jennifer,425
+ MI ,M,1954.0,,13
+MI,F,1981.0,Mary,622
+MI,M,1953.0,Jordan,799
+MI,M,2005.0,Jordan,18
+MI,M,1967.0,alex,
+,M,2009.0,Casey,66
+MI,M,1940.0,Jordan,26
+MI,F,1977.0,Patricia,746
+,F,1992.0,Patricia,240
+MI,F,,alex,697
+MI,F,1979.0, Jennifer ,143
+MI,M,1980.0,James,647
+MI,M,1997.0,Robert,383
+MI, F ,1973.0,,194
+,,1920.0,patricia,185
+MI,,1978.0,Michael,737
+MI,M,1916.0,Jordan,11
+MI,M,1927.0,James,65
+MI,M,1938.0,Casey,16
+MI,F,1952.0,Taylor,579
+ MI ,F,1984.0,Mary,1114
+MI, F ,,Mary,189
+MI,M,1944.0,Alex,14
+MI,,1968.0,Jordan,45
+MI,F,1921.0, Patricia ,60
+MI,F,1953.0,Casey,326
+MI,F,1984.0,Linda,133
+MI,F,1954.0,Jennifer,108
+MI,M,1969.0,John,237
+MI,M,1918.0,Jordan,74
+MI,F,1948.0,Jennifer,359
+,M,1974.0,Alex,513
+MI,M,1981.0,John,1165
+MI, F ,1997.0,Casey,15
+,F,1964.0, Casey ,277
+MI,M,1996.0,Michael,57
+MI,F,1999.0,Casey,133
+MI,F,1949.0,Casey,25
+MI,F,1959.0,Casey,811
+MI,M,1989.0,Jordan,654
+MI,M,1983.0,Robert,104
+ MI ,F,1963.0,Patricia,322
+ MI ,F,1969.0, Taylor ,827
+,F,1975.0,Linda,171
+MI,M,1981.0,Robert,541
+MI,,1994.0,Michael,340
+MI,M,2019.0,Michael,66
+MI, M ,2019.0,Alex,41
+MI,F,2002.0, Taylor ,28
+MI,F,1936.0,Jennifer,69
+MI,F,1919.0,Jordan,77
+MI,,2003.0,Jordan,222
+MI,M,,Alex,72
+MI,F,1964.0,Alex,463
+MI,F,,Patricia,10
+MI,M,1957.0,Alex,25
+MI,,2007.0,Mary,857
+,F,1987.0,Jennifer,933
+MI,F,1915.0,Jennifer,62
+MI,F,1970.0,Jordan,287
+MI,M,1922.0,Casey,48
+MI,M,1994.0,Robert,182
+MI,M,2000.0,Robert,759
+MI, F ,1996.0,Alex,6
+MI,M,2020.0,John,6
+MI,,1974.0,Patricia,369
+MI,,1932.0,Jordan,31
+MI,M,1978.0,Alex,314
+MI,M,1916.0,Robert,6
+MI,F,1968.0,Casey,68
+MI,F,1946.0,Patricia,114
+MI,F,1988.0,Jennifer,515
+MI,M,1985.0,John,555
+MI,F,1967.0,Mary,76
+MI,M,1914.0, Michael ,15
+MI,M,1998.0,John,525
+MI,M,1922.0,James,138
+, F ,1963.0,Mary,400
+MI,M,1972.0,Jennifer,162
+MI,F,1975.0,Alex,58
+MI,M,1962.0,John,73
+MI,F,1965.0,Patricia,737
+MI,F,1990.0,Linda,93
+MI,F,2017.0,Jennifer,356
+MI,M,1939.0,James,321
+MI,M,2012.0,James,20
+MI,F,1993.0,Mary,28
+MI,M,2008.0,Casey,530
+MI,M,2009.0,Jordan,83
+MI,M,2011.0,James,424
+ MI ,F,1975.0, Mary ,
+MI,M,1995.0,james,853
+MI,M,1975.0,Casey,15
+MI,M,1926.0,James,82
+MI,M,1925.0,,42
+ MI ,F,1953.0,Jennifer,541
+MI,M,1960.0,Taylor,49
+MI,F,2004.0,Alex,91
+MI,M,2008.0,,117
+MI,M,2012.0,Alex,50
+MI,M,2016.0,,65
+ MI ,F,, Casey ,40
+MI,F,1937.0,Alex,7
+MI,F,1916.0,Alex,16
+MI,F,1997.0,Alex,729
+MI,F,2019.0,Casey,519
+ MI ,F,2004.0,Casey,
+MI,F,1983.0,Michael,58
+ MI ,F,1923.0,Taylor,29
+MI,,1952.0,,206
+ MI ,F,1924.0,Alex,25
+MI,F,1928.0,Jennifer,12
+MI,F,1983.0,Taylor,38
+MI,F,1960.0,Linda,162
+MI,F,1971.0,Jordan,157
+MI,M,1941.0,Robert,5
+,F,1971.0,Linda,197
+MI,F,1972.0,Jordan,254
+ MI ,M,2019.0,Robert,370
+MI,F,1967.0,Patricia,383
+MI,M,1957.0,Robert,349
+MI,M,2014.0,Taylor,26
+MI,F,1996.0,Jordan,
+MI,M,2022.0,Robert,37
+ MI ,M,2010.0,Taylor,14
+MI,F,1929.0,Alex,5
+MI,F,1970.0,Linda,
+MI,M,1915.0,James,170
+MI,F,1973.0,casey,687
+MI, M ,1991.0,John,
+MI,M,1919.0,,27
+MI,F,1958.0,,30
+MI,M,1991.0,Michael,717
+ MI ,M,1924.0,Jordan,5
+MI, M ,1958.0,michael,164
+MI,M,1977.0,Robert,481
+MI,M,1996.0,robert,193
+MI,F,1929.0,Casey,404
+MI, F ,1995.0,Taylor,535
+MI,M,1962.0,Michael,291
+MI,F,1947.0,Alex,150
+ MI ,F,2009.0,Taylor,887
+MI, M ,1958.0,michael,164
+MI,M,1914.0,Jordan,7
+MI,,1914.0, Taylor ,6
+MI,M,1985.0,Jennifer,819
+MI,F,1991.0,Patricia,547
+MI,M,1971.0,Jordan,947
+MI,F,1967.0,Casey,1006
+MI,M,1966.0,Jennifer,63
+MI,F,1970.0,john,172
+MI,M,1995.0,Alex,7
+MI, M ,1985.0,Alex,
+,M,1953.0,Taylor,139
+MI,M,1972.0,John,82
+MI,M,1918.0, Taylor ,70
+MI,M,2006.0,Michael,93
+MI,M,1936.0,Robert,20
+MI,F,2005.0,Taylor,166
+MI,F,1971.0,Taylor,457
+MI,F,1998.0,Taylor,259
+MI,M,1983.0,Michael,829
 MI,F,2013.0,Taylor,5
- MI ,F,1927.0,,22
-MI,M,2002.0,Jordan,347
-MI,F,1974.0,Taylor,104
-,M,1977.0,Alex,578
-MI,M,1982.0,Jordan,689
-,,1958.0,Linda,42
- MI , F ,2018.0,,285
-MI,M,1966.0,Taylor,282
-MI,M,1948.0,Robert,211
-, F ,1983.0,Linda,16
-MI, F ,1934.0,Mary,143
-MI,F,2021.0,Alex,34
-MI,M,1962.0, John ,
-MI,M,1980.0,,317
- MI ,M,1936.0,,670
-MI,M,1975.0,,204
-MI,,1972.0,Patricia,944
-MI,F,1969.0,mary,84
-MI,F,1931.0,Alex,33
-MI,F,2016.0,Jordan,614
- MI ,F,1968.0,Casey,982
-MI,F,1942.0,Patricia,25
- MI ,M,2015.0,Robert,258
-MI,M,1985.0,Mary,66
-,F,1926.0,Taylor,
-MI,M,1994.0,,919
- MI ,F,1921.0,John,216
-MI, M ,2011.0,Alex,31
-MI,F,1944.0,Casey,5
-MI,M,2010.0,James,15
-MI, F ,, Alex ,144
-MI, F ,1943.0,Casey,9
-MI,F,1982.0, Mary ,175
-MI,F,1949.0,John,153
-MI,F,1957.0,Robert,1244
-MI,M,2015.0,Michael,5
-MI,M,1989.0,John,10
- MI ,M,1996.0,James,508
-MI,F,1994.0, Jennifer ,55
-MI, F ,2009.0,Linda,524
-MI,M,1967.0,Michael,68
-MI,M,1976.0,Robert,217
-MI,F,1960.0,Alex,746
-MI,F,1985.0,Mary,1013
- MI ,M,1981.0,Alex,486
-MI,F,2011.0,Patricia,210
- MI ,M,2008.0,Robert,27
-MI, F ,,Jennifer,53
-MI,M,,Robert,597
-MI,F,2000.0, Mary ,761
-MI,F,1987.0,Linda,314
-MI, F ,,Patricia,165
-MI,F,1926.0,mary,181
-MI, F ,2004.0,Mary,605
-MI,F,1963.0,Linda,606
-MI, F ,1920.0,Casey,188
-MI,F,2011.0,Jennifer,31
-MI,M,1967.0,James,755
-MI,F,1911.0,patricia,27
-MI,M,1981.0,jordan,127
-MI,M,1913.0,Robert,21
-MI,F,1971.0, Casey ,
-,M,1992.0,,107
-MI,M,1999.0,Michael,436
-MI,M,1998.0,Robert,36
-MI,F,1926.0,Alex,16
-MI,F,,Alex,
-MI,F,1968.0,Alex,347
-MI,M,2008.0,Michael,7
-MI,F,1984.0,james,614
-MI,M,1924.0,Alex,37
- MI ,F,1915.0,Mary,11
-,,1942.0,James,36
-MI,,1982.0,Jordan,502
-MI,F,1924.0,Casey,455
-MI,M,2022.0,James,19
-MI,F,1930.0,James,24
-MI,F,1970.0,Linda,817
- MI ,F,1930.0,Linda,135
-MI,,1985.0,Casey,460
-MI,F,,Jennifer,55
-,F,2005.0,Mary,130
-MI,M,2000.0,Alex,384
-MI,M,1982.0,Casey,587
-MI,F,1995.0,Linda,208
-MI,F,1989.0,Alex,319
-MI,F,1962.0,,108
-MI,F,1958.0,Jordan,27
-MI,M,1984.0,john,399
-MI,F,1981.0,Taylor,79
- MI ,F,1958.0,Jennifer,69
- MI ,,1978.0,Patricia,659
-MI,F,1934.0,Alex,422
-MI,M,1966.0,Jordan,
-MI,M,2016.0,John,260
-MI,,1930.0,John,21
-MI,F,1946.0,Casey,102
-,M,2003.0,Robert,
-MI,M,1983.0,Casey,133
-MI,,1950.0,Patricia,251
-MI,M,1949.0,Jennifer,46
-MI,F,1970.0,Casey,724
-MI,M,,Alex,74
-MI,M,2012.0,Alex,39
-MI,F,1991.0,Casey,807
-MI,F,2015.0,alex,18
-MI,F,2010.0,Casey,552
-MI,F,1918.0,Mary,25
-MI,F,1962.0,Alex,227
- MI ,M,1986.0,Taylor,226
-MI, F ,2005.0,Taylor,110
-MI,M,1949.0,James,16
- MI ,F,1944.0,Jennifer,36
-MI,M,2013.0,Jordan,485
-MI, F ,1929.0,Casey,19
-MI,M,1958.0,Casey,89
-MI,F,1957.0,Taylor,44
-MI,F,2002.0,Taylor,
- MI , M ,1916.0,,38
-MI,F,,Patricia,176
-MI,F,1959.0,Linda,
-MI,M,1923.0,Linda,15
-MI,F,,Jennifer,38
- MI ,M,2014.0,Robert,79
-MI,M,2001.0,Jordan,139
-MI,F,1991.0,Mary,27
- MI ,F,1949.0,Jordan,133
-MI,M,1952.0,Alex,289
-MI,M,1989.0,Alex,
-MI,,1998.0,Linda,1189
-MI,F,1989.0,Patricia,234
-MI,M,1942.0,John,16
-MI,M,1934.0,Alex,30
-MI,,2002.0,taylor,201
-MI,M,1964.0,Casey,805
-MI,M,1931.0, Robert ,93
- MI ,F,1970.0,Patricia,139
-MI,M,1942.0,Alex,671
-MI,F,1966.0,Linda,21
-MI,M,2003.0,Michael,85
-MI,F,1997.0,Casey,78
-,M,2018.0,Robert,6
-MI,F,1933.0,Casey,320
-MI,M,1951.0,Casey,58
- MI ,,1962.0,James,125
-,M,1936.0,Michael,19
- MI ,F,1933.0,,67
-MI,,2009.0,Taylor,30
-,M,1991.0,James,926
-,M,1960.0,James,63
- MI ,M,1932.0,,5
-MI,M,1946.0,Alex,12
-MI,M,2007.0,Alex,263
-MI,M,1918.0,Jordan,5
-,F,1967.0,Mary,763
-MI,F,1913.0,Mary,8
-MI,M,1913.0,John,9
-MI,M,2016.0,Michael,44
-MI,M,1923.0,Taylor,99
-MI,M,,Alex,297
-,,2003.0,Robert,36
-MI,,,,140
-MI,F,2001.0, James ,47
-MI,M,1956.0,Jennifer,395
-MI,M,1937.0,jennifer,9
-MI,F,,Mary,472
-MI,,1955.0,Patricia,69
- MI ,M,1950.0,John,110
-MI,M,,Michael,74
- MI ,F,1963.0,Jennifer,632
-MI,,1983.0,,155
- MI ,M,1990.0,James,58
-MI,M,1965.0,James,90
-MI,F,1927.0,Taylor,
-MI,F,1981.0,,603
-MI,M,1985.0,Alex,134
-MI,F,1989.0,Taylor,40
-MI,F,1978.0,Linda,114
-MI,M,1944.0,John,75
-MI,M,1925.0,Casey,91
-,M,1918.0,Taylor,72
-MI,M,1958.0,Alex,8
-MI, F ,1952.0,mary,41
-,F,1941.0,Linda,38
-MI,F,2014.0,Patricia,18
-MI,F,1993.0,,174
-MI,M,1971.0,James,564
-MI,,1955.0,Jennifer,478
-MI,M,1954.0,Taylor,17
-MI,F,1999.0, Patricia ,251
-MI,F,2022.0,Casey,16
-MI,M,1987.0,jordan,440
-MI,F,1964.0,Linda,88
-MI,M,2001.0,James,1185
-MI,F,2004.0,Casey,27
-MI,F,1940.0,Jordan,374
-MI,M,2009.0,John,327
-MI,M,2000.0,James,394
-MI,F,1945.0,Patricia,13
-MI,F,1985.0,Jordan,305
-MI,F,1962.0, Jennifer ,222
- MI ,M,2012.0,Michael,128
- MI , F ,1956.0,,74
-MI,M,1962.0,Alex,15
-MI,F,1995.0,Jordan,261
-,M,1931.0,Jordan,
-MI,F,1956.0,James,744
-MI,F,2015.0,Patricia,166
-MI,M,2006.0,James,
-MI,M,1950.0,Jordan,108
-MI,F,1966.0,Mary,277
-MI,F,2001.0,Alex,18
- MI ,M,1971.0,Robert,280
-MI,F,1943.0,Patricia,244
-MI,F,1967.0,Linda,654
-MI,F,1992.0,taylor,33
-MI,F,1970.0,Casey,724
-MI,F,1959.0,Taylor,67
- MI ,F,1980.0,Casey,414
-MI,F,1992.0,Jennifer,22
-MI,F,1928.0,Patricia,7
-MI,M,1951.0,Robert,86
-MI, M ,1981.0,John,35
-MI,M,1974.0,John,907
-MI,M,1953.0,Robert,222
-MI,F,1973.0,James,299
-MI,M,1995.0,John,10
-MI,M,2010.0,Alex,
-MI,F,1973.0,Mary,202
+MI, F ,2022.0,Jennifer,147
+MI,M,1953.0,Casey,29
+MI,M,1929.0,Taylor,205
+,M,1941.0,Alex,552
+MI,F,2006.0,Taylor,619
+MI, F ,1923.0,Jennifer,33
+MI,F,1979.0,Patricia,402
+MI,F,1941.0,Patricia,76
+MI, F ,1967.0,Jennifer,
+MI,M,1948.0,Alex,283
+MI, M ,1978.0,Jordan,365
+MI,M,1958.0, James ,49
+MI,M,1962.0,casey,266
+MI,M,1966.0, Casey ,119
+MI,M,1987.0,John,662
+MI,,1991.0,Jordan,105
+ MI ,F,1998.0,John,472
+MI,F,1976.0,Alex,132
+MI,F,,Patricia,232
+MI,M,1947.0,,377
+MI,,2012.0,Jennifer,204
+MI,F,,Patricia,10
+MI, F ,1961.0,Mary,537
+MI,M,1946.0,Alex,214
+MI,F,1971.0,Alex,289
+MI,M,1963.0,Taylor,12
+ MI , F ,2022.0,Casey,5
+MI,M,2015.0,,15
+ MI ,M,1975.0,Michael,579
+MI,M,2001.0,Robert,139
+MI,M,1921.0,Jennifer,143
+ MI ,F,1986.0,jordan,247
+,M,2014.0,James,150
+ MI ,F,2002.0,Jordan,244
+MI,F,2002.0,casey,611
+MI,F,1960.0,Patricia,402
+MI,M,1946.0,Michael,27
+,F,1915.0,Linda,6
+MI,M,1951.0,Robert,183
+MI,M,2008.0,John,156
+MI,M,1988.0,Alex,58
+ MI ,F,2005.0,Linda,12
+MI,F,2011.0,Alex,710
+MI,M,1979.0,Alex,542
+MI, M ,1948.0,Michael,469
+MI,M,1958.0, Alex ,183
+MI,M,1993.0,Alex,100
+MI,M,2000.0,Jordan,377
+MI,F,1914.0, Casey ,36
+MI,F,1980.0,jordan,81
+MI,F,1979.0,Taylor,199
+MI, M ,1980.0,Jordan,406
+MI,F,1990.0,Jennifer,324
+MI,F,1916.0,Jennifer,33
+MI,F,2011.0,Patricia,158
+MI,F,1998.0,Patricia,1463
+MI,M,1960.0,Jordan,157
+MI,M,1932.0,James,188
+MI,F,1965.0,Linda,729
+MI,M,1939.0,Jordan,196
+MI, M ,1931.0,,331
+MI,M,2004.0,Casey,622
+MI,F,1945.0,,245
+MI,M,1949.0,John,341
+MI,M,1944.0,Taylor,108
+ MI ,,1987.0,Patricia,486
+MI,M,1998.0,Robert,68
+,M,1980.0,Alex,187
+MI,F,2005.0,James,18
+MI,F,1951.0,Patricia,261
+MI,,1982.0,Jordan,135
+MI,M,1982.0,Michael,671
+ MI ,M,1944.0,James,929
+MI,F,1964.0,Jennifer,87
+MI,M,1920.0,James,10
+ MI ,F,1956.0,,473
+ MI ,M,2016.0,Taylor,16
+MI,F,2015.0,Robert,492
+MI,M,2019.0,Taylor,143
+MI,F,1955.0,Mary,304
+MI,M,1971.0,John,216
+MI,F,1969.0,Patricia,49
+MI,F,2017.0,Jordan,5
+MI,F,1951.0,Linda,75
+MI,M,1969.0,Casey,374
+MI,F,1947.0,Linda,6
+MI,F,1969.0,Linda,388
+MI,M,1950.0,,415
+MI,M,1990.0,robert,90
+MI,F,1955.0,Alex,105
+MI,F,1932.0,Mary,258
+MI,,2018.0,Michael,564
+MI,F,1941.0,Jennifer,252
+MI,F,1982.0,Linda,248
+ MI ,M,1979.0,,119
+MI,F,1966.0,John,94
+MI,F,1962.0,Linda,124
+MI,M,1965.0,Michael,258
+MI,M,1991.0, Taylor ,375
+MI,M,1963.0,Jordan,36
+MI,F,2009.0,Linda,300
+MI,M,2000.0,Michael,754
+MI,M,1942.0,Michael,86
+,F,2011.0,Casey,235
+MI,F,,Mary,732
+MI, M ,,Alex,16
+MI,M,,Casey,437
+MI,M,1991.0,Jordan,502
+MI,F,2015.0,Jordan,6
+MI,M,1937.0,,480
+MI,F,1972.0,Alex,246
+MI,F,1984.0,Robert,28
+MI,M,1991.0,Alex,934
+MI,F,1955.0,Jennifer,78
+MI,F,1996.0,Linda,
+MI,F,2015.0,John,249
+MI, M ,1975.0,Taylor,88
+ MI ,F,,Jennifer,8
+MI,M,1966.0,Michael,236
+MI,,1987.0,Jordan,150
+MI,M,2014.0,John,143
+ MI ,,1994.0,Alex,116
+MI,F,2017.0,Mary,156
+MI,M,1948.0,Taylor,292
+,F,1987.0,Casey,333
+ MI ,F,2014.0,Mary,6
+MI,M,,Taylor,
+MI, F ,1953.0,Jordan,287
+MI,F,2010.0,Mary,19
+ MI ,M,1947.0,,319
+MI,F,1951.0,Mary,43
+MI,F,1966.0,Taylor,261
+MI,F,1982.0,Jordan,194
+MI,M,1988.0,casey,459
+ MI ,M,1995.0,John,606
+MI,F,1947.0,Jordan,24
+MI,M,2001.0,Alex,1510
+MI,M,1935.0,Taylor,443
+MI,M,1958.0,Robert,88
+MI,M,2010.0,Robert,610
+MI,M,1974.0, James ,171
+MI, F ,1966.0,Casey,603
+MI,F,1964.0,Jordan,20
+MI,F,1945.0,Mary,19
+MI,,1964.0,Alex,434
+MI,F,2001.0,Jennifer,167
+MI,M,2022.0,James,69
+MI,M,1936.0,Alex,353
+MI,M,1923.0,casey,16
+MI,F,2022.0,Taylor,73
+MI,M,1967.0,,1092
+MI,M,1932.0,Jennifer,8
+MI,F,1937.0,Patricia,5
+MI, M ,2007.0,Robert,308
+,F,1981.0,Linda,
+,F,1997.0,Linda,586
+MI,F,1994.0,Jennifer,24
+MI,,1949.0, James ,10
+MI,M,1944.0,John,280
+ MI ,M,1931.0,Michael,170
+MI,F,1957.0,Mary,335
+MI,F,2011.0,Linda,257
+MI, F ,1979.0, Casey ,762
+MI,M,1981.0,Alex,84
+MI,M,1955.0,James,921
+MI,F,1940.0,Alex,52
+MI,F,1936.0,Linda,38
+MI,M,1945.0,Jordan,493
+ MI ,F,1994.0,Jordan,317
+MI,M,2017.0,Michael,622
+ MI ,M,1912.0,Robert,13
+MI, F ,1983.0,Casey,269
+MI,M,1993.0,John,139
+MI,M,1984.0,,696
+MI,F,1966.0,Jennifer,558
+MI,F,1961.0,Linda,113
+MI,,,Patricia,593
+MI,F,1949.0,Mary,188
+ MI ,M,1947.0,Casey,366
+MI,M,2019.0,Jordan,148
+MI,M,1915.0,Robert,116
+MI,F,1979.0,,232
+MI,F,1954.0,Jordan,90
+MI,M,1984.0,Casey,214
+ MI , F ,2010.0,Taylor,725
+MI,F,2013.0,John,37
+ MI ,F,2014.0,Alex,15
+MI, F ,1969.0,Jennifer,46
+MI,M,2014.0,Casey,619
+MI,F,1986.0,Linda,421
+MI,M,1989.0,Alex,110
+MI,,1950.0, Taylor ,35
+,M,1953.0,Taylor,139
+MI,F,1922.0,Patricia,7
+MI,F,1984.0,Jennifer,64
+MI,F,1994.0,Taylor,97
+MI,M,1993.0,Michael,759
+MI,M,1968.0,John,41
+MI,M,1958.0,Casey,593
+,M,2009.0,Jennifer,
+MI, M ,1992.0,James,9
+MI,,1944.0,Jordan,
+MI,M,1938.0,John,25
+MI,F,1977.0,Taylor,194
+MI,F,2010.0,Alex,58
+ MI ,M,2012.0,Michael,281
+MI,,1911.0,Linda,52
+MI, F ,1936.0,Mary,11
+MI,M,1955.0,Taylor,1036
+MI,M,1950.0,John,345
+MI,M,2007.0,Linda,22
+MI,F,1946.0,jennifer,541
+MI,M,1949.0,Robert,63
+,F,1964.0,Patricia,285
+MI,F,1916.0,Mary,6
+MI,M,1985.0,michael,256
+,M,2016.0,Michael,127
+ MI ,M,1986.0,Casey,443
+MI,F,2017.0,Casey,659
+MI,M,1928.0,Casey,146
+MI,F,1944.0,Alex,175
+MI, F ,1936.0,Casey,18
+MI,M,1953.0,James,193
+MI,M,1976.0,Casey,366
+MI,M,1985.0,robert,120
+MI, M ,1919.0,Jordan,6
+MI,F,1977.0,Alex,45
+MI, F ,1970.0,Jennifer,473
+MI,M,1940.0,taylor,21
+MI,M,1979.0,Taylor,10
+,F,2007.0,Linda,487
+MI,M,1932.0,taylor,467
+MI,F,2007.0,Taylor,205
+MI,F,2021.0,Jennifer,8
+MI, M ,1913.0,Robert,56
+ MI ,M,1979.0,Michael,456
+ MI ,F,2004.0,Jennifer,294
+ MI ,M,2016.0,Taylor,16
+MI,F,1960.0,James,884
+MI,M,1980.0,John,411
+MI,M,1949.0,Taylor,15
+MI,F,1997.0,Jennifer,459
+MI, F ,2001.0, Casey ,887
+MI,M,1955.0,Casey,122
+MI,F,1931.0,Taylor,48
+MI,M,2015.0,Michael,43
+MI,M,,jennifer,46
+MI,M,1939.0,Robert,33
+MI,F,1935.0,Jordan,13
+MI,F,2022.0,Jordan,
+MI,F,1967.0,Taylor,148
+MI,M,2004.0,James,
+MI,F,2014.0,Robert,416
+MI, M ,1919.0,Jordan,6
+MI,F,1976.0,Casey,223
+MI,F,,Casey,604
+MI,F,1990.0,Taylor,249
+ MI ,F,2001.0,Patricia,202
+MI, F ,1953.0,patricia,160
+ MI ,M,1947.0,Robert,1135
+MI,M,1924.0,Robert,24
+MI,M,1971.0,,358
+MI,F,1985.0,,995
+,F,2021.0,Alex,12
+MI,M,2007.0,John,
+MI,F,2002.0,Linda,61
+MI,F,2022.0,Patricia,35
+MI,F,1970.0,Mary,67
+MI,M,1977.0,Taylor,592
+MI,F,1975.0,Jordan,625
+MI, F ,1988.0,Patricia,82
+MI,M,1968.0,Jordan,437
+MI,M,1951.0,John,233
+MI,F,,Casey,75
+MI,M,1992.0,Casey,455
+MI,M,1939.0,Alex,
+MI,F,1948.0,Jordan,430
+MI,M,2003.0,Michael,64
+ MI ,F,1913.0,Alex,138
+MI,M,1936.0,James,52
+ MI ,M,1975.0,Robert,195
+MI,M,1964.0,Robert,432
+MI,F,1948.0,Linda,21
+MI,M,1987.0,Alex,586
+MI,F,1963.0,Casey,142
+MI, F ,1999.0, John ,43
+MI,F,2020.0,Taylor,38
+MI,M,1972.0,Robert,86
+MI,F,,Taylor,487
+MI,M,1979.0,John,386
+ MI ,M,2015.0,Jordan,34
+MI,F,1998.0,,423
+MI,M,1961.0,Jordan,221
+MI,M,1962.0,Jordan,68
+MI, F ,2014.0,Linda,165
+MI,M,2015.0,James,587
+ MI ,F,1976.0,Taylor,371
+MI, F ,1941.0,casey,57
+MI,F,2010.0,Linda,40
+ MI ,M,1947.0,Mary,305
+ MI ,M,1951.0,Casey,137
+MI,F,2008.0,Patricia,320
+MI, F ,2001.0,james,112
+MI,,1975.0,alex,290
+MI,F,1917.0,Mary,61
+MI,F,1960.0,Jordan,124
+ MI ,F,1950.0,Alex,7
+MI,F,1933.0,Casey,37
+MI,F,2008.0,Taylor,736
+MI,M,1917.0,James,25
+MI,M,,Michael,628
+MI,M,2000.0,John,312
+MI,M,1966.0,James,156
+MI,M,2005.0,Michael,183
+ MI ,M,1952.0,Mary,655
+MI,F,1972.0,,64
+MI,F,1915.0,Alex,24
+, F ,1988.0,Casey,273
+MI,M,1973.0,Casey,326
+MI,F,1912.0,Casey,10
+MI, M ,1976.0,Jennifer,261
+MI,F,1978.0,Casey,291
+MI,M,1967.0,Taylor,129
+MI,M,1953.0,Robert,653
+,,1929.0,Alex,197
+MI,F,2001.0,Alex,160
+MI,F,1920.0, Taylor ,40
+MI,F,1992.0,Linda,742
+MI,M,1934.0,Taylor,17
+MI,M,1943.0,Alex,48
+ MI ,M,1948.0,Robert,188
+MI,F,1959.0,Patricia,197
+MI,,,Taylor,337
+MI,F,2014.0,Patricia,15
+MI, F ,1959.0,Taylor,521
+MI,M,1960.0,John,73
+MI,F,1939.0,Alex,479
+MI,M,1996.0,James,31
+MI,M,1934.0,Robert,9
+MI,F,1984.0,Patricia,761
+MI,M,1955.0,Jordan,10
+MI,F,1998.0,Casey,51
+ MI ,M,2011.0,Jordan,42
+MI,M,1912.0,Taylor,28
+MI,,,Jordan,12
+MI,M,1965.0, Linda ,497
+MI,F,1934.0,Mary,11
+MI, M ,2020.0, Michael ,10
+ MI ,F,1954.0,,279
+MI,M,1976.0,Michael,132
+MI,F,1977.0,casey,903
+MI,M,,Alex,427
+MI,F,1942.0,Casey,209
+MI,F,2010.0,Patricia,697
+MI, M ,1979.0,Jordan,
+MI,M,1994.0,Jordan,355
+ MI ,M,1987.0,Jordan,8
+MI,F,1937.0,Jennifer,7
+,F,2001.0,Linda,38
+MI,F,2012.0,Patricia,79
+MI,M,1949.0,Jordan,64
+MI,F,1958.0,Patricia,807
+MI,F,1927.0,Taylor,10
+ MI ,F,1971.0,Mary,251
+MI,F,1951.0,Alex,45
+MI,F,1919.0,Mary,251
+MI,F,1964.0, Linda ,284
+MI,M,2001.0,Alex,1510
+MI,F,2006.0,Mary,176
+ MI ,M,1926.0,Robert,58
+MI,M,2017.0,James,35
+MI,F,1927.0,Casey,8
+MI,F,,Mary,732
+MI,M,1953.0,John,
+ MI ,F,1962.0,Casey,549
+MI,F,2014.0,Taylor,84
+MI,M,1957.0,James,275
+MI,M,1999.0,Alex,708
+MI,M,2001.0,Taylor,685
+MI,M,2005.0,taylor,634
+MI, M ,1939.0,Michael,421
+MI,M,,john,128
+MI,F,1973.0,Michael,127
+MI,F,1961.0,Patricia,336
+,F,1980.0,Taylor,735
+ MI ,M,1953.0,Alex,23
+MI,M,1974.0,Taylor,803
+MI,F,1962.0,Mary,1096
+MI,M,1920.0,Michael,74
+MI,F,2010.0,Jennifer,
+MI,F,1956.0,Casey,106
+MI, F ,1944.0,Jennifer,699
+MI,M,1982.0,Alex,218
+ MI ,M,1995.0,Michael,151
+MI,F,2018.0,Mary,42
+MI,,1985.0,Taylor,515
+MI, F ,1956.0,Linda,349
+MI,M,1979.0, Casey ,391
+,M,1997.0,John,457
+MI,M,1969.0,Robert,483
+ MI ,M,2021.0,James,77
+MI,M,1950.0,James,221
+MI,F,1933.0,Jennifer,12
+,M,1970.0,Jordan,480
+MI,M,1934.0, James ,19
+MI,M,1935.0,Robert,47
+MI,F,2015.0,John,249
+MI,F,1977.0,Linda,803
+MI,F,1981.0,Jennifer,826
+MI,M,,Taylor,16
+MI,M,2002.0,Taylor,1090
+MI,M,1993.0,Casey,105
+MI,M,1963.0,Michael,763
+MI,M,1948.0,Jordan,84
+MI, M ,1969.0, Alex ,756
+,M,1945.0,Taylor,512
+MI,F,1920.0,Jennifer,143
+MI,F,1965.0,Jordan,54
+MI, M ,2001.0,James,843
+MI,M,2006.0,Casey,193
+MI,F,2013.0,Jennifer,108
+, F ,2019.0,Jennifer,56
+MI,F,1954.0,Alex,20
+MI,F,1996.0,Jordan,
+MI,M,2018.0,Jordan,19
+MI,F,2001.0,Taylor,203
+MI,F,1995.0, Casey ,38
+MI,F,1988.0,Mary,111
+MI,F,2022.0,,23
+MI, M ,2005.0,James,155
+MI,M,1930.0,James,8
+MI,M,1982.0,Robert,99
+MI,M,1987.0,Robert,415
+MI,F,1927.0,Linda,75
+MI,F,2009.0, Jordan ,509
+ MI ,M,1968.0,linda,169
+MI,F,2000.0,Alex,571
+MI,F,1999.0,Taylor,269
+MI, F ,1970.0,Jennifer,473
+MI,F,1912.0, Jordan ,5
+MI,F,1995.0,Linda,97
+ MI ,M,1924.0,Michael,189
+MI,M,1933.0, Alex ,83
+MI,F,1947.0,Patricia,251
+MI, F ,, Taylor ,
+MI,F,1913.0,Jordan,21
+ MI ,F,1943.0,Alex,381
+MI,F,2015.0, Jennifer ,1015
+MI,F,1918.0,Patricia,216
+ MI ,M,1969.0, Jordan ,208
+MI,F,1943.0,Casey,45
+MI,M,1958.0,John,51
+MI,F,1929.0,Jordan,96
+MI,M,2018.0,Mary,135
+MI,F,,Linda,825
+MI,M,1917.0,Jordan,97
+MI,F,1974.0,Alex,157
+MI, M ,1974.0,Casey,277
+MI,F,1954.0,Mary,69
+ MI ,F,1978.0,patricia,131
+MI,F,1984.0,Casey,201
+MI,M,1949.0,Alex,50
+MI,F,1953.0,Taylor,58
+MI,M,1997.0,Mary,68
+MI,M,1918.0,Casey,171
+ MI ,F,1926.0, Mary ,42
+MI,F,1983.0,Jennifer,450
+MI,F,1945.0,Linda,122
+,F,1940.0, Taylor ,36
+MI,F,2003.0,Mary,348
+MI,F,2011.0,Mary,166
+MI,F,1994.0,Michael,256
+MI, M ,2007.0,Alex,84
+MI,F,1926.0,,134
+MI, F ,1973.0,,
+MI,M,2011.0,Michael,43
+MI, M ,1916.0,John,55
+,M,1937.0,Michael,64
+MI, F ,1986.0,Taylor,
+MI,M,1994.0,alex,188
+MI,,1930.0,Patricia,77
+ MI ,F,1991.0, Alex ,192
+MI,M,1996.0,Taylor,88
+MI,M,1964.0,Jordan,540
+MI,F,2017.0,Patricia,349
+MI,M,2016.0,Jordan,5
+MI,M,1932.0,Robert,184
+MI, F ,1960.0,Mary,16
+MI,M,1942.0,Robert,16
+MI,F,1930.0,Jordan,160
+MI,F,1977.0,Linda,803
+MI,F,1980.0,Patricia,739
+MI,F,1921.0,Robert,59
+MI,M,1973.0,Jordan,512
+MI,M,1967.0,John,350
+MI,F,1964.0,Taylor,357
+MI,F,1982.0,Patricia,73
+MI,M,1980.0,Taylor,122
+MI,M,1939.0,Taylor,118
+MI,M,1988.0,James,318
+MI,F,1992.0,Alex,452
+MI,F,1992.0, James ,92
+MI,M,1976.0,,258
+MI, F ,1966.0,,38
+ MI ,M,,Casey,7
+MI,F,1978.0,Alex,120
+MI,M,1959.0,Jordan,76
+ MI ,M,1971.0, Robert ,231
+MI,F,1942.0,Jordan,5
+MI,F,,Casey,138
+MI,F,1957.0,Robert,54
+MI,F,2004.0,Jordan,208
+MI, M ,,Casey,
+MI,F,1938.0,michael,67
+MI,M,2008.0,Michael,425
+MI,M,2000.0,Casey,98
+ MI , M ,1973.0,Robert,597
+MI,M,1980.0,Casey,92
+MI,,1946.0,Mary,49
+MI,M,1957.0,Taylor,13
+MI,,2019.0,Robert,28
+MI,M,1982.0,James,632
+MI,M,1930.0,Michael,145
+MI,F,1979.0,Mary,185
+MI,F,1957.0,Patricia,
+MI,F,1942.0,,
+MI,,2006.0,,118
+MI,F,1975.0,James,244
+MI,F,1943.0,Patricia,105
+MI,M,1973.0,Jordan,512
+MI,M,1943.0,James,8
+MI,M,1950.0,Patricia,30
+MI,M,1935.0,Jordan,24
+MI,M,2007.0,Jordan,14
+MI,M,1941.0,James,14
+MI,M,1940.0,Robert,108
+ MI ,,1992.0,Taylor,
+MI,F,2003.0,Patricia,396
+MI,F,,Taylor,687
+ MI ,M,1978.0, John ,41
+MI,M,1981.0,Taylor,
+MI,M,1964.0,Michael,
+MI,M,2004.0,Michael,37
+ MI ,F,2007.0,Patricia,12
+MI,F,1957.0,Mary,335
+MI,M,1997.0,,331
+MI,F,1982.0,Mary,471
+MI,M,1951.0,James,8
+MI,M,1977.0,Jordan,96
+,F,1945.0,Jennifer,85
+MI,F,2012.0,Jordan,162
+MI,F,1925.0,Casey,84
+MI,F,1929.0,Patricia,319
+MI,F,2008.0,Casey,
+MI,M,,Taylor,76
+ MI ,M,2014.0,Jordan,50
+MI,,1935.0,Casey,17
+MI, M ,1927.0,,168
+MI, F ,2019.0,Taylor,11
+MI,M,1964.0,Jennifer,332
+MI,F,1910.0,Jordan,
+MI,M,1990.0,Jordan,237
+MI, M ,1980.0,Michael,614
+MI,F,2011.0, Jennifer ,48
+MI,F,1989.0,Linda,247
+MI,,2000.0,Casey,491
+MI,M,1986.0,James,525
+MI,M,1947.0,Jordan,415
+,,2011.0,Robert,50
+MI,F,1948.0,Alex,300
+MI,M,1970.0,John,660
+MI,F,,Jordan,200
+MI,F,1968.0,,117
+MI,M,2000.0,,102
+MI,M,1965.0,Mary,171
+MI,F,1996.0,Casey,165
+ MI ,F,1980.0,Casey,636
+MI,F,1999.0,Mary,30
+MI,F,2015.0,Taylor,470
+MI,M,1968.0,Robert,195
+MI,M,1986.0,James,525
+MI,M,1919.0,Robert,83
+MI,M,,Jordan,18
+MI,F,1931.0,Mary,339
+MI,,1916.0,Alex,60
+MI,,1988.0,Alex,457
+ MI ,M,1996.0,Alex,
+MI,M,2007.0,,52
+MI,M,2004.0,John,653
+MI,M,1946.0,Robert,5
+MI,F,1954.0,Patricia,
+MI,F,1918.0,Jennifer,26
+MI,F,1924.0,Taylor,64
+ MI ,,1946.0,Jordan,14
+MI,M,,Casey,8
+MI,F,1959.0,Mary,910
+MI,M,1946.0,Casey,84
+MI,F,2008.0,Mary,87
+MI,M,1959.0,John,64
+MI,F,1975.0,Taylor,69
+MI,F,1972.0,Linda,35
+MI,F,,Robert,77
+MI,M,,Alex,24
+MI,M,1988.0,John,134
+MI,F,2002.0,alex,356
+MI,M,1982.0,John,183
+MI,F,1977.0,Jordan,332
+MI,M,1965.0,casey,1066
+MI,M,2022.0,Mary,7
+MI,F,2004.0,Mary,114
+MI,M,1913.0,Michael,22
+ MI ,F,1941.0,Mary,42
+MI,M,1983.0,James,619
+MI,M,1925.0,Casey,391
+MI,F,,Casey,52
+MI, F ,1999.0,Jennifer,288
+MI,F,2003.0,Casey,251
+MI,M,1936.0,Taylor,234
+MI,F,1926.0,Casey,35
+MI,F,2014.0,Jennifer,17
+MI,F,,Jennifer,400
+MI,F,,Alex,330
+MI,,2011.0,,11
+MI,F,1957.0,Alex,85
+MI, M ,1983.0,Alex,510
+MI,F,1944.0,Linda,23
+,F,1961.0,Jordan,169
+MI,M,1962.0,James,162
+MI,F,1998.0,Patricia,1463
+MI,F,1935.0,Jennifer,6
+MI,M,2010.0,Alex,112
+MI,M,1924.0,Taylor,5
+MI, M ,1972.0,James,351
+ MI ,M,1974.0,John,10
+MI,F,1956.0,Patricia,332
+MI,M,2001.0,John,22
+MI,M,1970.0,Michael,745
+ MI ,F,1963.0,Jennifer,347
+MI,M,2001.0,Casey,14
+MI, F ,1950.0,,119
+,F,1978.0,Linda,78
+MI,F,1998.0,Mary,33
+MI,F,1980.0,Jennifer,174
+,F,1980.0,Linda,496
+MI,F,2014.0,Jordan,139
+ MI , F ,1912.0,Michael,12
+MI,M,1993.0,Taylor,11
+MI,M,1963.0,Casey,794
+MI,F,2005.0,Casey,34
+MI, M ,1974.0,jordan,338
+MI,F,1998.0,Alex,512
+MI,F,1969.0, Casey ,538
+MI,M,1953.0,Michael,84
+MI,F,1920.0,Jordan,28
+ MI ,M,1931.0,Robert,397
+MI,M,1994.0,James,97
+MI,F,1968.0,Linda,42
+MI,M,1912.0,Casey,124
+,F,1993.0,Linda,117
+MI,M,1961.0,Michael,916
+MI,F,2009.0,Jennifer,6
+MI,F,1976.0,Patricia,264
+MI,F,2012.0,Taylor,537
+MI,M,1968.0,Alex,1053
+ MI ,M,1945.0,Robert,177
+MI,F,1942.0, Linda ,195
+MI,M,1970.0,Robert,885
+MI,F,2005.0,Jordan,709
+MI,F,1991.0,Taylor,27
+MI,F,2013.0,Jordan,265
+MI,F,2021.0,Casey,108
+MI,M,,Casey,437
+MI,F,1972.0,jennifer,
+MI,F,1926.0,Patricia,69
+MI,F,1953.0, Linda ,260
+MI,F,1938.0,Jennifer,344
+ MI ,M,2019.0,John,
+MI,F,2000.0,Jennifer,44
+MI,M,1938.0,,118
+ MI , F ,,,575
+MI,M,1990.0,Michael,204
+MI,F,1935.0,Patricia,100
+MI,F,2016.0,Casey,223
+MI,F,1983.0,Jordan,117
+ MI ,F,,Taylor,
+MI,M,1915.0,Mary,31
+MI,F,1991.0,Jennifer,42
+MI,F,1981.0,Patricia,448
+MI, F ,1932.0,,168
+MI,F,1974.0,,593
+MI,F,1995.0,Jennifer,
+MI,F,1961.0,,610
+MI,M,,Taylor,591
+MI,M,2007.0,michael,158
+MI,F,1946.0,Alex,61
+MI,M,1977.0,Casey,273
+MI,M,1993.0,Robert,191
+MI,F,2006.0,Patricia,208
+MI,,1940.0,John,30
+MI, M ,1975.0,James,
+MI,F,2013.0,Mary,262
+MI,M,2003.0,Jennifer,15
+MI,M,,Jordan,321
+MI,M,1915.0,John,12
+MI,F,1991.0,Casey,389
+MI,F,1984.0,Alex,422
+MI,M,1982.0,Taylor,595
+MI,F,1986.0,Mary,279
+MI,M,1929.0,John,171
+MI, F ,1970.0,Casey,601
+MI,F,1997.0,Mary,300
+MI,F,1983.0,Mary,220
+MI,F,1959.0, Alex ,22
+MI,F,1939.0,Jordan,10
+MI,F,2012.0,,621
+MI,F,1951.0,Taylor,796
+MI,F,1956.0,taylor,40
+MI,M,1950.0,Mary,622
+MI,,2011.0,Casey,331
+MI,M,1910.0,Taylor,64
+MI,F,1987.0,Linda,265
+MI,F,1955.0,Patricia,40
+MI,M,1971.0, Linda ,181
+ MI ,F,,Linda,93
+MI,F,1998.0,Jordan,49
+MI,M,1986.0,Taylor,422
+MI,M,1984.0,Taylor,108
+MI,M,1934.0,John,334
+ MI ,M,1955.0,Robert,129
+MI, M ,1936.0,John,436
+MI,M,1938.0,Robert,13
+ MI , F ,1989.0, Mary ,236
+MI,M,2002.0,Casey,1010
+MI,M,1957.0,Michael,872
+ MI ,,1971.0,Taylor,581
+MI,M,2012.0,John,267
+ MI ,F,1993.0, Alex ,131
+MI,M,1932.0,John,157
+MI,M,1965.0,Taylor,134
+MI,M,2020.0,James,12
+MI,M,1913.0,Jordan,74
+,F,2019.0,,15
+MI,M,1945.0,James,363
+MI,M,1992.0,Jordan,322
+MI,F,2007.0,Jordan,247
+MI,F,1916.0,Jordan,116
+MI,F,1973.0,Jordan,119
+ MI ,M,1949.0,Michael,70
+MI,M,,James,201
+,M,1965.0, Jordan ,26
+MI, M ,1948.0,James,13
+ MI ,M,1955.0,Alex,
+MI,,2006.0,Taylor,26
+MI,M,1950.0,Michael,107
+MI,M,1998.0, Michael ,185
+MI,F,1929.0,Jordan,96
+,F,1985.0,Alex,
+MI,M,1978.0,Robert,474
+MI,M,1988.0,Michael,428
+MI,F,1932.0,Patricia,78
+MI,,1994.0,Taylor,18
+MI,F,1958.0,Jennifer,319
+MI,M,1967.0,Jordan,787
+MI,F,2006.0,Casey,129
+MI,F,1966.0,Jordan,291
+MI,,,Linda,411
+MI,F,1985.0,Linda,308
+ MI ,M,1941.0,Michael,221
+MI, F ,1952.0,Linda,28
+MI,F,,Taylor,20
+MI,M,1947.0,James,63
+MI,,2013.0,James,87
+MI,M,1950.0,Linda,29
+MI,F,1948.0,Taylor,626
+MI, M ,1969.0, Alex ,756
+MI,F,1919.0,taylor,8
+MI,M,,Alex,10
+MI,F,1962.0,Jordan,29
+ MI ,F,1943.0,jordan,9
+ MI ,F,1946.0,,50
+ MI , M ,1987.0,Taylor,
+MI,M,1959.0,James,39
+MI, M ,1967.0,Michael,213
+MI,F,1943.0,Jennifer,9
+MI,F,1934.0,,8
+MI,M,1957.0,Casey,33
+MI,F,1925.0,Jennifer,89
+MI,M,1998.0, Jordan ,1267
+MI,,1942.0,casey,17
+MI,M,1981.0,James,36
+MI, M ,2003.0,Taylor,342
+MI,F,1976.0,Mary,112
+MI,M,1970.0,Taylor,151
+MI,M,1983.0,,275
+MI,M,2002.0,James,82
+MI,F,1912.0,Mary,20
+MI, M ,1990.0,John,229
+MI,F,1989.0,Patricia,191
+MI,F,1965.0,Taylor,229
+MI, F ,1998.0,Linda,512
+MI,F,1978.0,taylor,242
+MI,M,2006.0,James,150
+MI,F,1980.0,Alex,371
+MI,M,2021.0,Casey,8
+MI,M,1913.0,Casey,5
+MI,F,1973.0,Mary,791
+MI,F,1949.0,Jennifer,989
+MI,F,1952.0,Jennifer,579
+MI,M,1966.0,Alex,124
+MI,F,2006.0,Linda,6
+MI,F,1910.0,Casey,100
+MI,M,1927.0,John,158
+MI,M,1941.0,Casey,6
+MI,F,1942.0,Jennifer,10
+MI,M,1920.0,John,45
+MI,M,2005.0,John,1127
+ MI ,M,1928.0,Robert,16
+MI,,1926.0,Casey,43
+MI,F,2015.0,Taylor,470
+MI,M,2021.0,Jordan,212
+MI,F,2001.0,Jennifer,167
+MI,M,1981.0,Michael,319
+MI,M,1999.0,Michael,28
+MI,F,,,829
+MI,M,1999.0,Patricia,71
+MI,F,1982.0,Jennifer,
+MI,M,1993.0,jordan,125
+MI,M,2003.0,Alex,66
+MI,F,2015.0,Alex,169
+MI,F,1972.0,Casey,555
+MI,M,1995.0,Jennifer,197
+MI, M ,1976.0,,210
+MI, M ,1971.0,Alex,943
+ MI , M ,1935.0,James,26
+MI,M,2021.0,Taylor,56
+MI,M,2004.0,robert,7
+MI,M,1939.0,Jennifer,44
+MI,M,1983.0,Casey,436
+MI,F,1941.0, Jordan ,6
+MI,F,1961.0,James,395
+MI,M,1988.0,Jordan,
+MI,M,1981.0, Jordan ,252
+MI,M,2010.0,Michael,5
+MI,M,1986.0,John,14
+MI,F,1929.0,Linda,121
+MI,M,,Michael,20
+MI,M,2007.0,Taylor,289
+MI,F,1961.0,Casey,144
+MI,F,,Jordan,40
+MI,M,1965.0,Robert,442
+MI,F,2008.0,Alex,198
+MI,F,1943.0,Robert,44
+MI,F,1997.0,Taylor,385
+MI,M,1992.0,michael,401
+MI, M ,2003.0,James,247
+MI,F,1968.0,Taylor,561
+MI,F,1945.0,Alex,34
+MI,M,1923.0,Jordan,
+MI,F,1981.0,Alex,69
+MI,F,1961.0,Taylor,374
+ MI ,F,1977.0,Mary,1220
+MI, M ,1989.0,John,657
+ MI ,M,1954.0,Taylor,19
+,F,1956.0,Jennifer,150
+MI, M ,2003.0,John,98
+MI,M,1989.0,Michael,
+,F,1969.0,Mary,61
+MI,M,1966.0,John,346
+MI,F,1923.0,Jordan,40
+ MI ,M,1995.0,Jordan,118
+MI,M,1930.0,Robert,56
+MI,F,1999.0,Linda,755
+MI,F,1942.0,,
+ MI ,M,1962.0,Robert,408
+ MI ,F,,Alex,279
+MI,M,1987.0,James,88
+MI,,2003.0,Casey,1144
+MI,F,1969.0, Alex ,
+MI,F,1962.0,James,790
+MI,M,1952.0,Taylor,10
+MI,,1971.0,Patricia,122
+,M,2016.0,John,33
+ MI ,F,1934.0, Alex ,71
+MI,M,1999.0,Robert,7
+MI, F ,1934.0, Jordan ,6
+MI,M,1972.0,Jordan,193
+MI,F,1999.0,Mary,30
+MI,F,1930.0,Casey,126
+MI,F,1940.0,,70
+MI,M,1975.0,Jordan,387
+ MI ,F,1973.0,Jennifer,56
+ MI ,F,1930.0,Alex,11
+MI,M,1966.0,Robert,14
+MI,F,1992.0,Casey,125
+MI,F,2000.0,Patricia,37
+MI,F,1963.0,Jordan,130
+ MI , M ,2010.0,Casey,85
+MI,M,1964.0,John,7
+MI,M,1967.0,Robert,25
+,F,1955.0,Taylor,245
+,F,2002.0,Jennifer,324
+, M ,1961.0,,
+,F,1952.0, Jordan ,546
+MI,F,,Linda,854
+MI,F,1926.0,Jordan,13
+,M,1990.0,James,152
+MI, F ,1932.0,Jennifer,43
+MI,M,1996.0,Jordan,29
+MI,F,1971.0,Casey,476
+MI,,1986.0,Alex,369
+MI,M,1925.0,Michael,15
+MI,M,1922.0,Jordan,91
+ MI ,F,1940.0,casey,316
+MI, F ,1995.0,Mary,516
+MI, F ,1961.0,Mary,537
+MI,M,1994.0, John ,189
+MI,M,1927.0,Casey,99
+MI,F,2018.0,Linda,91
+MI,M,1970.0,Michael,745
+MI,F,1991.0,Mary,601
+MI,F,1970.0,Patricia,343
+MI,F,1958.0,Linda,1059
+,M,1965.0, Jordan ,26
+MI, M ,2006.0,Alex,966
+ MI ,F,2001.0,Mary,24
+MI,F,1919.0,Casey,63
+MI,F,1999.0,Jordan,9
+MI,F,1963.0,Linda,58
+MI,M,2003.0,Robert,16
+MI,M,2017.0,John,15
+MI, F ,1923.0,Mary,24
+MI,F,1952.0, Patricia ,1144
+,M,1911.0,Taylor,21
+MI, M ,2001.0,Jordan,324
+,F,1910.0,Robert,15
+MI,F,1950.0,Taylor,253
+MI,M,1999.0,Taylor,357
+MI,M,1960.0,Alex,92
+MI,F,1988.0,,936
+MI,M,1929.0,michael,9
+MI,F,1933.0,Linda,5
+MI, M ,1917.0,Robert,117
+MI,F,1956.0,Alex,
+ MI ,M,1955.0, Michael ,483
+MI,M,1940.0,Michael,16
+MI,M,1996.0,John,287
+MI,M,2017.0,Casey,
+,M,2007.0,Casey,8
+MI,M,1934.0,Casey,185
+MI,F,1982.0,Taylor,81
+MI,M,1978.0,Casey,396
+MI,M,1950.0,Casey,18
+MI,M,2022.0,John,99
+MI,M,1993.0,Jennifer,163
+ MI ,M,2014.0,Mary,105
+MI,F,2009.0,Alex,
+MI,M,1954.0,John,8
+MI,M,1970.0,Patricia,410
+MI,M,1961.0,james,820
+MI,M,1963.0,Robert,136
+MI,M,2006.0,John,6
+MI,F,1949.0,Linda,367
+MI,M,1971.0,Casey,541
+MI,M,1973.0,alex,454
+MI,M,1942.0,James,15
+MI,M,,John,22
+MI,F,1995.0,alex,120
+MI,F,1938.0,Mary,10
+MI,F,1997.0,Jordan,506
+MI,M,1977.0,James,87
+MI,M,1954.0,Casey,297
+MI,M,1997.0,Michael,233
+MI,F,1970.0,Alex,338
+MI,F,1976.0,Linda,431
+MI,F,1996.0,,8
+MI,M,2013.0,Taylor,9
+MI,M,1948.0,John,
+MI, M ,2018.0,Robert,183
+MI,F,1929.0,Patricia,319
+MI, M ,1959.0,Alex,253
+ MI ,M,1940.0,James,18
+MI, M ,1942.0,Taylor,378
+MI,M,2016.0,Robert,7
+ MI ,F,1983.0, Alex ,1237
+MI,M,1952.0,James,58
+MI,F,1951.0,Casey,37
+MI,F,2000.0,Taylor,360
+MI,,1976.0,Alex,845
+MI, F ,1935.0,Linda,5
+MI,F,1974.0,Mary,892
+MI,F,1962.0,Alex,748
+MI,M,1956.0,Michael,444
+MI,F,1926.0,Robert,59
+MI,M,2006.0,Jordan,
+MI,F,2014.0,Casey,343
+MI,M,2018.0,Alex,627
+MI,F,1961.0,Alex,62
+MI,M,1989.0,taylor,337
+MI,F,1966.0,Patricia,210
+MI,F,1945.0,Jordan,457
+,F,2007.0,John,106
+MI,F,1949.0,Alex,149
+ MI ,M,1961.0,Mary,294
+MI,F,2018.0,Jennifer,12
+MI,M,1955.0,Patricia,767
+MI,F,2020.0,Jennifer,117
+MI,F,1934.0,taylor,56
+MI,F,1915.0,Jordan,11
+MI, F ,1962.0,Jennifer,80
+MI,M,1924.0,John,69
+,M,1952.0,Alex,7
+ MI ,F,2008.0,Linda,99
+MI,M,2008.0,Taylor,50
+MI,F,1960.0,Casey,6
+MI,F,1922.0,Alex,10
+MI,F,2003.0,Jordan,79
+MI,F,1954.0,Taylor,36
+MI,M,2002.0,Alex,6
+ MI ,F,1918.0,Robert,74
+MI,F,1952.0,Alex,37
+MI,F,,Jordan,417
+,M,2018.0,John,728
+MI,F,1934.0, Patricia ,68
+MI,M,1961.0,John,582
+MI,F,2012.0,alex,21
+MI,F,1941.0,Linda,
+MI,M,1952.0,Michael,413
+MI,M,1937.0,Casey,50
+,M,1999.0,Mary,1515
+MI,F,1958.0,Casey,579
+MI,F,1977.0,Jennifer,1033
+MI,F,1987.0,Alex,461
+MI,M,1991.0,Casey,50
+MI,F,1968.0,Mary,534
+ MI ,F,1946.0,Casey,211
+MI,,1999.0,Michael,1441
+MI,F,1940.0,Patricia,42
+MI,F,1938.0,Jordan,6
+MI,F,1973.0,Mary,791
+MI,F,1984.0,Taylor,310
+MI,M,1924.0,John,69
+MI,M,1977.0,Michael,470
+MI,F,2020.0,Patricia,108
+MI,F,2016.0,,23
+MI,F,1957.0,jordan,202
+MI,M,1998.0,Alex,121
+ MI ,M,1968.0,Taylor,82
+MI,M,1921.0,Michael,119
+MI,F,1970.0,Robert,782
+MI,M,1998.0,Taylor,909
+,F,1925.0, Patricia ,465
+MI,M,2004.0,Jordan,354
+MI,F,1979.0,Alex,73
+ MI ,M,2020.0,Jordan,407
+MI,F,1943.0,Linda,634
+MI,,1943.0,Mary,691
+ MI ,M,1990.0,Alex,843
+MI,F,1949.0,Patricia,28
+MI,F,,Jordan,592
+MI,M,1999.0,Patricia,71
+MI,M,1954.0,James,288
+MI,M,1950.0,Alex,191
+MI,M,1961.0,Casey,83
+MI, F ,1935.0,Robert,46
+MI,M,2000.0,,265
+MI,F,2005.0,Patricia,137
+ MI ,F,1994.0,Mary,131
+MI,F,1916.0,Jordan,116
+MI, M ,1974.0,Michael,256
+MI,F,1988.0,Taylor,61
+MI,M,1942.0,John,128
+MI, F ,1996.0,Jennifer,
+MI,F,1993.0,Patricia,230
+MI,F,1957.0,Casey,61
+MI,M,1954.0,James,288
+MI,M,2007.0,James,16
+MI,F,1994.0,Linda,673
+MI,F,1965.0,Alex,354
+MI,F,1986.0,Jennifer,60
+MI,F,1945.0,Patricia,14
+ MI ,M,1991.0, James ,164
+MI,M,1922.0,Robert,87
+MI,F,2003.0,Taylor,814
+MI,M,2016.0,Alex,9
+MI,F,2010.0,Alex,58
+MI,,1972.0,Taylor,981
+ MI ,M,1913.0,John,17
+MI,,2014.0,Alex,80
+MI,M,1975.0,John,8
+,F,1991.0,Linda,404
+MI,M,1970.0,Alex,
+ MI ,M,,Taylor,83
+ MI ,M,1995.0,Robert,526
+ MI ,M,1946.0,,656
+MI,M,1993.0,Michael,759
+MI,M,1998.0,Casey,123
+MI,M,1961.0, Robert ,1012
+ MI ,M,2006.0,Robert,27
+MI,M,1936.0,Michael,124
+MI,F,1982.0,Casey,343
+MI,F,1921.0,Linda,
+MI,F,1964.0,,184
+,F,1992.0,Mary,752
+MI,M,1967.0,James,188
+MI,M,1930.0,Taylor,129
+MI,M,1992.0,Alex,220
+,M,1983.0,John,791
+MI,M,2002.0,Jordan,235
+MI,F,1910.0,Patricia,21
+,M,1977.0,Alex,335
+MI,F,2021.0,Taylor,10
+,M,1972.0,Casey,50
+MI,F,1938.0,Alex,26
+MI,F,1936.0,Taylor,45
+MI,F,2008.0,Jennifer,1352
+MI,F,2012.0,Casey,10
+MI,M,1990.0,Taylor,133
+MI,M,1986.0,michael,227
+MI,F,2013.0,Casey,103
+MI, M ,2008.0,Jordan,9
+MI, M ,2002.0,Robert,353
+MI,F,1992.0,Jordan,101
+MI,M,1941.0,Jordan,18
+MI,F,1990.0,Jordan,599
+MI,M,1999.0,Casey,75
+MI,M,2013.0,Jordan,27
+MI,F,1936.0,Jordan,86
+MI,M,,Taylor,192
+MI, M ,1956.0,Robert,339
+MI,M,1956.0,Jordan,
+MI,F,1975.0,Casey,73
+MI,F,1987.0,Taylor,870
+MI,M,2020.0,Alex,
+MI,M,1974.0,Robert,88
+MI,M,2019.0,Jordan,148
+MI,M,2018.0,Taylor,13
+MI,F,2015.0,Casey,31
+MI,F,1993.0,casey,333
+MI,F,1974.0, Casey ,346
+MI,M,2016.0,James,634
+MI,F,1916.0,Taylor,117
+MI,M,,James,636
+MI,F,1939.0,Jennifer,16
+MI,M,1954.0,Robert,59
+ MI ,M,2010.0,Jordan,490
+MI, M ,1963.0,James,157
+MI,M,1956.0,Alex,494
+MI,F,,,78
+MI,F,2004.0,Taylor,464
+ MI ,,2020.0,Taylor,420
+MI,M,2011.0,alex,398
+MI,F,1927.0,Mary,
+MI,M,1983.0,Jordan,27
+MI,M,1966.0,Jordan,1048
+MI,M,1992.0,John,142
+ MI ,F,1946.0,,98
+MI,F,1930.0,Taylor,71
+ MI ,M,1969.0,Michael,192
+MI,M,,Casey,13
+MI,M,1918.0,Alex,99
+MI,,1918.0,Taylor,15
+MI,F,2017.0, Alex ,286
+MI,F,1918.0,Jordan,115
+MI,F,1993.0,Jennifer,460
+ MI ,F,1971.0,Jennifer,782
+MI,F,1994.0,,53
+MI,F,1960.0,Alex,439
+MI, M ,1988.0,Taylor,156
+MI, F ,1962.0,Jennifer,80
+MI,F,1975.0,Patricia,296
+MI,,1997.0,Taylor,153
+MI,F,1935.0,,594
+MI,F,1929.0,Jennifer,14
+MI,M,1968.0,Michael,82
+MI,F,,alex,
+MI,,1980.0,Robert,406
+ MI ,M,1931.0,Taylor,146
+MI,M,1912.0,Jordan,13
+MI,M,1927.0,Michael,218
+MI,F,1996.0,Patricia,18
+,F,1925.0,Alex,261
+ MI ,F,1987.0,Mary,640
+MI,F,2005.0,Alex,55
+MI,M,1944.0,Jordan,95
+MI,M,1972.0,Taylor,122
+MI,F,2000.0,Linda,1017
+MI,M,2005.0,Casey,81
+ MI ,M,1938.0,Michael,56
+ MI ,F,1981.0,Michael,26
+ MI ,F,2003.0,Alex,85
+ MI ,F,2000.0,Mary,228
+MI,F,2020.0,Linda,9
+MI,M,1992.0,Taylor,253
+MI,F,2000.0,,
+MI,M,1927.0, Robert ,
+MI,M,1954.0,Jordan,130
+MI,F,1989.0,Taylor,890
+MI,F,2022.0,Mary,330
+MI,M,1999.0,Jordan,93
+MI,M,1939.0,john,206
+,F,1981.0,Linda,
+MI,M,1956.0,Casey,766
+MI,F,1957.0,Taylor,17
+,F,2018.0,Casey,7
+ MI ,M,1978.0,Taylor,723
+MI,,1968.0,Alex,141
+MI,,2009.0,Michael,228
+,M,1969.0,James,517
+MI,M,1985.0,James,444
+MI,M,1952.0,Robert,452
+MI,F,1978.0,Jennifer,646
+MI,M,1964.0,James,1028
+MI,M,,Alex,45
+MI,M,2009.0,James,129
+ MI ,F,1936.0,Alex,5
+MI, F ,1957.0,Linda,64
+MI,M,1951.0,Taylor,101
+MI, F ,1997.0,Patricia,320
+MI,F,1933.0,Taylor,21
+MI,F,2005.0,Mary,23
+MI, M ,1957.0,John,128
+MI,M,1925.0,Robert,97
+ MI ,F,1972.0,Mary,821
+MI,M,2013.0,Michael,29
+MI,M,2010.0,John,158
+MI,M,2009.0,Alex,200
+MI,F,1939.0,Taylor,233
+,,1989.0,Robert,297
+MI, M ,1963.0,Alex,348
+MI,M,1984.0, Robert ,
+MI,M,1993.0,James,122
+MI,F,1983.0,Patricia,1005
+MI,F,1949.0,jordan,951
+MI,M,1973.0, John ,778
+MI,F,1935.0,Casey,236
+MI,M,2014.0,Robert,36
+ MI ,F,2010.0,Jordan,807
+MI,F,2007.0,Casey,
+MI,F,1950.0,linda,12
+, M ,1977.0,patricia,187
+ MI ,M,2017.0,,442
+MI,M,1996.0,Taylor,88
+MI,,1985.0,Patricia,115
+MI,M,1976.0,John,51
+MI,F,1919.0,Linda,23
+MI,M,1917.0,John,47
+MI,M,,,7
+MI,M,2017.0,Taylor,8
+ MI ,F,2002.0,James,29
+MI,M,1965.0,James,224
+,F,1950.0,Jordan,108
+MI,M,1935.0,Alex,131
+MI,F,1999.0,Alex,120
+MI,M,1990.0,,627
+MI,M,1961.0,Alex,427
+ MI ,M,2008.0,Robert,170
+ MI ,M,1965.0,Alex,23
+MI,M,1947.0,Michael,451
+MI,M,1932.0,Michael,10
+MI,F,1981.0,Casey,633
+MI,F,1995.0,Jordan,376
+MI,F,2018.0,Jordan,6
+,M,1985.0,Casey,438
+MI, F ,,Patricia,10
+MI,M,1972.0,Michael,233
+MI,M,1993.0,Taylor,11
+MI,M,1929.0,James,316
+MI,F,1958.0,Taylor,297
+MI,F,1994.0,patricia,81
+MI,,1978.0,James,241
+MI,M,1962.0,Alex,53
+MI, M ,2009.0,Taylor,277
+MI,M,,James,472
+MI,F,2020.0,mary,413
+MI,F,2013.0,Linda,145
+MI,F,2003.0,Linda,26
+MI,M,2004.0,Alex,501
+MI,,,Mary,8
+MI,F,1955.0,Linda,17
+MI,F,2011.0,Taylor,60
+MI,F,1993.0,Jennifer,460
+MI,M,1921.0,Robert,11
+MI,F,1937.0,Linda,178
+MI,M,1969.0,Taylor,764
+MI,M,1958.0,Linda,86
+MI,M,1914.0,Alex,59
+MI,F,1984.0,Jordan,58
+MI, M ,1984.0,Alex,278
+, F ,1993.0, Jordan ,
+MI,F,2016.0,linda,102
+MI,F,1944.0,Casey,72
+MI,M,1970.0,Casey,133
+MI,M,1968.0,James,845
+MI,M,1917.0,alex,17
+MI,F,1932.0,Casey,43
+MI,F,2007.0,Jennifer,189
+ MI ,F,2021.0,Patricia,380
+MI,M,1943.0,Casey,689
+MI,M,2004.0,Taylor,39
+MI,,1943.0,,30
+ MI ,F,1975.0, Mary ,
+MI,M,1996.0,Casey,154
+MI,,2019.0,Alex,9
+MI,F,2020.0,Alex,156
+MI,M,2020.0,Casey,748
+MI, F ,1992.0,Jennifer,
+MI,M,1951.0,Alex,864
+MI, F ,1959.0,jennifer,14
+MI,M,1950.0,Robert,135
+ MI ,F,1955.0,Casey,32
+MI, F ,1990.0,Alex,877
+MI, F ,1981.0,Taylor,50
+MI,F,1946.0,Linda,189
+MI,F,1935.0,Taylor,20
+MI, M ,,Casey,310
+MI,F,1976.0,Jennifer,303
+MI,M,1945.0,Linda,60
+ MI ,M,2002.0,John,348
+ MI ,F,2005.0, Jennifer ,16
+MI,M,1931.0,Alex,18
+MI,,1934.0,,23
+MI,F,,Jennifer,212
+MI,F,1926.0,Jennifer,7
+MI,M,1986.0,,22
+MI,F,1990.0,Mary,558
+MI,M,1918.0,Mary,6
+MI,F,1922.0,,
+ MI , M ,1959.0,Michael,143
+MI,,1937.0,Casey,323
+MI, F ,1985.0,Mary,782
+MI,M,1966.0,Taylor,312
+MI,M,2005.0,Alex,179
+ MI ,M,1995.0,,841
+MI,F,2012.0, Mary ,
+MI,F,1910.0,Alex,46
+MI,M,2009.0,Robert,494
+,M,1949.0,Casey,373
+MI,M,1988.0,casey,459
+ MI ,F,2019.0,Patricia,432
+MI,M,2002.0,Michael,162
+ MI ,M,1986.0,Jordan,246
+MI,F,1942.0,,14
+ MI , F ,1938.0,Linda,14
+MI,F,1968.0,Patricia,47
+MI,M,1956.0,John,134
+MI,F,1961.0,John,1026
+MI,F,2006.0,Jennifer,26
+MI,F,1941.0,Alex,60
+ MI ,M,1924.0,James,15
+MI,F,2003.0,Jennifer,11
+MI,F,1993.0,Taylor,32
+MI,M,1915.0,Mary,31
+ MI ,M,1915.0,Michael,12
+,M,1959.0,Casey,46
+MI,M,1991.0,Robert,124
+MI,F,1923.0,Casey,107
+MI, M ,1982.0,casey,134
+MI,F,1927.0,Jennifer,5
+ MI ,M,1924.0,,12
+MI,F,1975.0,Jennifer,200
+MI,F,1963.0,Jordan,130
+MI,M,1934.0,Casey,185
+MI,,1929.0,Jordan,15
+MI,F,1912.0,,5
+MI,M,1945.0, Casey ,9
+MI,M,2011.0,Taylor,38
+MI,F,1988.0,Linda,250
+MI,M,1999.0,John,45
+MI,F,2022.0,Alex,
+MI,M,1984.0,Michael,449
+ MI ,M,1912.0,James,17
+MI,M,1931.0,James,75
+MI,F,1916.0,,226
+MI,F,1965.0,Jennifer,445
+ MI ,F,,Linda,93
+MI,M,,Jordan,19
+MI,M,2022.0,Jordan,12
+MI, M ,1928.0,Taylor,723
+MI,M,1977.0,Jordan,96
+MI,F,2018.0,patricia,120
+MI,F,1958.0,mary,
+MI,,1978.0,Mary,628
+MI,F,1990.0,Jordan,599
+MI, M ,1942.0,Taylor,378
+MI,F,,Jennifer,170
+MI,F,1999.0,Patricia,646
+,M,1984.0,Jordan,262
+MI,M,2017.0,Alex,35
+ MI ,M,1973.0,Michael,1080
+MI,F,1974.0,Jordan,229
+MI,M,1960.0,Robert,
+MI,F,, Linda ,45
+MI, M ,1999.0,James,308
+MI,M,1962.0,Taylor,688
+,M,1959.0,Taylor,227
+MI,M,1981.0,Casey,97
+MI,F,1963.0,Alex,120
+MI,M,1989.0, Casey ,551
+ MI ,M,2009.0,Mary,133
+MI,M,1958.0,Jordan,184
+ MI ,F,2016.0,Alex,47
+MI,M,1951.0,Michael,171
+MI, M ,1968.0,Casey,181
+MI,,1994.0,Patricia,636
+, F ,1981.0,Jordan,98
+MI,M,1973.0,James,605
+MI,M,1945.0,John,311
+MI,M,1933.0,,247
+ MI ,F,1980.0,Casey,636
+MI, M ,2009.0,John,804
+,M,2015.0,Robert,26
+MI,M,1976.0,Robert,138
+MI,M,2016.0,Casey,408
+,F,1980.0,Linda,496
+MI,M,1944.0,Michael,
+MI,M,1988.0,Robert,605
+MI, F ,1955.0,Jordan,566
+MI,F,1953.0,Mary,181
+MI,F,2002.0,Mary,315
+,F,1994.0,John,203
+MI,M,1952.0,Casey,71
+MI,M,1977.0,John,65
+MI,F,1945.0,Robert,686
+,M,1912.0,John,109
+MI,M,2008.0,James,690
+,M,1989.0,James,1084
+MI,F,2009.0,Casey,40
+MI,M,2015.0, Alex ,196
+MI,F,1979.0,Jordan,48
+MI,F,1989.0,,432
+MI,M,2011.0,John,274
+,F,2016.0,Jordan,323
+MI,,2002.0,Patricia,376
+MI,,1985.0,Jordan,555
+MI,M,1961.0,Casey,83
+MI,F,2016.0,Patricia,6
+MI, M ,1959.0,Robert,24
+MI,M,1951.0,jordan,838
+MI,M,1933.0,,39
+MI,F,1965.0,Mary,221
+MI,F,,Casey,197
+MI,M,1986.0,Alex,320
+MI,F,2006.0,Alex,412
+ MI ,F,1925.0,Jordan,
+,M,1960.0,James,21
+MI, F ,1958.0,Alex,20
+MI,M,2012.0,,213
+MI,M,1963.0,John,276

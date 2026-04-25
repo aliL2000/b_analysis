@@ -1,1669 +1,1692 @@
-STATE,SEX,YEAR,NAME,COUNT
-NH,M,1940.0,Taylor,157
-NH,F,1936.0,Jordan,5
-NH,F,1989.0,Taylor,
- NH ,F,2007.0,Jennifer,13
-NH, F ,1962.0,Patricia,
-NH, M ,1996.0,Alex,247
- NH ,M,1923.0,Taylor,34
-NH,F,1957.0,Patricia,36
-NH,M,1940.0,michael,522
-NH,F,1939.0,Mary,97
-NH,M,2011.0,Casey,177
-NH,F,,Patricia,211
-NH,M,,Casey,13
-NH,,1969.0,Alex,402
-NH,F,1957.0,Linda,220
-NH,F,1941.0,Patricia,61
-NH,M,1980.0,Michael,199
-NH,F,1914.0,Casey,72
-NH, M ,2017.0,Linda,83
-NH,M,, John ,625
-NH,F,1991.0,Linda,520
-NH,M,1937.0,John,9
-NH,F,1932.0,Mary,93
-NH, M ,2008.0,Alex,71
- NH ,F,2007.0,Taylor,97
-NH,M,,Robert,519
-NH,F,1986.0,,282
-NH,M,1934.0,Jordan,56
-NH,F,1950.0,Casey,834
-NH,F,2005.0,Jennifer,1366
-NH,,1934.0,,53
-,,2005.0,Linda,29
-NH,M,2004.0,Michael,87
-NH,M,2002.0,james,36
-NH,F,1961.0,Jennifer,342
-NH,F,2003.0,Casey,429
- NH ,F,1932.0, Linda ,91
-NH,F,1977.0,jordan,174
-NH, F ,2001.0,Alex,50
-NH,F,1952.0,Taylor,88
-NH,,,Linda,77
-NH,F,1955.0,Linda,286
-NH,F,1911.0,Jordan,13
-NH,M,2010.0,Michael,917
-NH,M,1951.0, Casey ,33
-NH,F,1967.0,Casey,677
-NH,M,1999.0,James,20
-NH, M ,1959.0,Jordan,99
-NH,M,1958.0, Taylor ,682
-,F,1992.0,Jordan,298
-NH,M,,James,28
-NH,M,2003.0,Michael,81
-NH,F,, Alex ,76
-NH,M,1936.0, John ,97
-NH,M,1952.0,taylor,208
-NH,F,1980.0,Jennifer,222
-,M,1974.0,Robert,441
- NH ,M,1937.0,Mary,13
-NH,F,1996.0,Taylor,840
-NH,F,1983.0,Taylor,850
-NH,M,1943.0,Casey,718
-NH,M,1961.0,Alex,423
-NH,M,2016.0,Robert,260
-,F,2008.0,Jordan,74
-NH,F,1921.0,Casey,18
-NH,M,1972.0,Alex,238
-NH,M,1936.0,Taylor,180
-NH,F,1975.0,Casey,805
-NH,F,1936.0,Jordan,5
-NH,F,1978.0,Linda,397
-NH,M,1924.0,Taylor,99
-NH,M,,James,346
-NH,,,Michael,120
-NH,M,1964.0,Robert,261
-NH,F,1962.0,Jennifer,257
-NH,M,1930.0,Taylor,214
-NH,F,1976.0,,151
-NH,F,1959.0,Jordan,230
-NH,M,2017.0,Taylor,34
-NH,M,2015.0,Michael,7
-NH,M,1997.0,Alex,269
-NH,M,2015.0,John,115
-NH,M,1948.0,Jordan,412
-NH,M,1998.0,Jordan,974
-NH,F,1940.0,alex,54
-NH,M,1972.0,James,
-NH,F,1960.0,Patricia,204
- NH ,M,1986.0,Taylor,34
-NH,F,,James,291
-NH,F,1944.0,Jordan,12
-NH,F,1997.0,Mary,175
-NH,M,2019.0,Taylor,61
-NH,M,1952.0,Robert,252
-NH,M,1970.0,Alex,969
- NH , F ,1912.0,Patricia,22
-NH,F,1970.0, Casey ,194
-NH,F,1962.0, Taylor ,210
-NH,F,1915.0,Mary,34
-NH, F ,2002.0,,6
-NH,M,1936.0,michael,194
-NH,M,1947.0,Taylor,494
-NH,M,1932.0,Patricia,
- NH ,M,,Michael,9
-NH,M,,Michael,79
-NH,M,,Jordan,50
-NH,M,1975.0,Taylor,54
-NH,F,,Linda,68
- NH ,F,1967.0,Patricia,204
-NH,M,1976.0,Jordan,373
-NH, M ,2022.0,Robert,235
-NH,M,2009.0,John,843
-NH,F,1974.0,Jordan,157
-NH,M,1941.0,Alex,6
-NH,F,1957.0,Casey,626
-NH,M,2013.0,Jordan,117
-,M,2017.0,John,60
-NH,M,1951.0,John,83
- NH ,M,,Michael,220
-NH, M ,2015.0,Linda,64
-NH,M,1992.0,Taylor,608
-NH,,1986.0,James,32
-NH,M,1955.0,Casey,862
-NH,M,1988.0,Jennifer,426
-NH, F ,2015.0,Linda,854
-NH,M,,Jordan,42
-NH,F,1979.0,Casey,53
-NH, F ,1980.0,Alex,776
- NH ,M,1974.0,John,124
-NH,F,1929.0,Jordan,549
- NH ,F,1949.0,Casey,246
-NH,M,1976.0,Robert,102
-NH,M,1965.0, Patricia ,83
-NH,F,2018.0,Jennifer,6
-NH,F,1957.0,Taylor,
-NH,F,1947.0,Taylor,62
-NH,M,1969.0,Taylor,138
-NH,,2004.0,Linda,188
-NH, M ,1962.0,Patricia,72
- NH ,M,2001.0,Taylor,905
- NH , F ,1915.0,Patricia,8
-,M,1962.0,Casey,315
-NH,F,1962.0,Alex,138
-NH,F,1945.0,Linda,104
-NH,F,1938.0,Patricia,21
-NH,F,1935.0,Jennifer,168
- NH , F ,1991.0,Mary,
-NH,M,1998.0,John,894
-NH,M,1948.0,Michael,19
-NH,M,1975.0,Michael,12
-NH,M,2017.0,Alex,344
-NH, M ,1962.0,Alex,195
-NH, M ,1976.0,John,76
-NH,M,1969.0,Jennifer,306
-NH,F,1988.0,Casey,248
-NH,,1948.0,Robert,470
-NH,M,1911.0,Alex,36
-NH,M,1963.0,Jordan,
-NH,M,1944.0,john,112
-NH,F,1930.0,Jordan,153
-NH,F,1922.0,Linda,57
-NH,F,1967.0,James,481
- NH ,M,1959.0, Patricia ,37
- NH ,M,1984.0,Michael,474
-NH,M,1969.0, Jordan ,1034
-NH,M,1933.0,Alex,14
-NH,M,1922.0,michael,60
-NH,F,1914.0,Alex,16
-NH,F,1934.0,Patricia,181
-NH, F ,2016.0,Patricia,162
-NH,M,1994.0,John,119
-NH,M,1996.0,James,1079
-NH,F,1981.0,Linda,693
-NH,F,2022.0, Casey ,6
-NH,M,2020.0,,106
-NH,F,2000.0,Jordan,657
- NH ,F,1959.0,Alex,86
-NH,F,1972.0,casey,226
-NH,F,1961.0,Jordan,878
-NH,M,1946.0,Jordan,647
-NH,M,1985.0,John,19
+state,sex,year,name,count
+NH,M,1964.0,James,621
+,,1959.0,Jordan,40
+NH, F ,1972.0,Jordan,884
+NH,M,1926.0,John,22
+ NH ,F,1948.0,Alex,492
+ NH ,,1983.0,Patricia,38
+NH,M,1979.0, Linda ,80
+NH,F,1974.0,jennifer,207
+NH,M,1927.0,James,174
+NH,,1981.0,Linda,246
+NH,M,1943.0,Patricia,37
+,F,1985.0, Robert ,601
+NH,F,1917.0,Alex,
+NH,M,1979.0, Jordan ,
+NH,M,2019.0,Michael,503
+ NH ,M,2001.0,Casey,21
+NH,M,1952.0,Alex,38
+NH,M,1947.0,Casey,74
+NH,M,1976.0,Jordan,460
+NH,F,1965.0,Patricia,196
+NH,F,2010.0,Taylor,398
+NH,,,Jordan,28
+NH,,1963.0,Jennifer,110
+NH,M,2010.0,Taylor,354
+ NH ,M,1966.0,Casey,17
+NH,,1949.0, Robert ,
+NH,F,1939.0,Jennifer,9
+NH,M,2012.0,Robert,5
+NH,F,1965.0,Mary,432
+NH, F ,, Taylor ,276
+NH, M ,1958.0,Jennifer,209
+NH,,1926.0,Jennifer,6
+NH,F,1962.0,Linda,41
+NH,F,2001.0,Jennifer,
+NH,M,2018.0,Taylor,277
+NH,M,1991.0,Taylor,155
+NH,F,1927.0,Casey,67
+ NH ,M,2008.0,,713
+NH,F,1956.0,Patricia,43
+NH,M,2019.0, Alex ,625
+NH,F,1920.0, Jennifer ,80
+NH,,2004.0, Jennifer ,88
+NH,F,1915.0, Jennifer ,47
+NH,F,1997.0,Casey,462
+NH,F,1997.0,Taylor,21
+NH,M,1969.0,Mary,362
+NH,F,1968.0,Jennifer,96
+, M ,,Michael,848
+,M,1992.0,Taylor,400
+NH,M,1929.0,,6
+NH, M ,1987.0,John,297
+NH, F ,1988.0,Jordan,198
+NH,M,1973.0,James,152
+NH,F,1958.0,Taylor,291
+NH,,2004.0, Jennifer ,88
+NH,F,1946.0,Mary,860
+NH,F,2002.0,Jennifer,359
+NH,M,1954.0,Jordan,298
+NH,M,1971.0,,458
+NH,F,1961.0,Jennifer,325
+ NH ,F,1980.0,Jennifer,84
+NH,F,1946.0,James,268
+NH,,1945.0,Taylor,9
+NH,F,1956.0,Casey,36
+NH,M,,taylor,27
+NH,M,1959.0,James,105
+NH,F,2007.0,Patricia,106
+NH,F,1967.0,Mary,704
+NH,F,1944.0,Jordan,348
+NH,M,1984.0,Jordan,373
+NH,M,1953.0,Robert,90
+,F,1951.0,Taylor,51
+NH,F,1975.0,Taylor,336
+NH,F,1953.0,Patricia,141
+ NH ,F,1994.0,Alex,181
+NH,M,1978.0,Jordan,144
+NH,F,1948.0,Casey,22
+NH,M,1953.0,Robert,90
+ NH , M ,1951.0,Michael,92
+NH,M,2015.0,Taylor,1141
+NH,M,1953.0,Michael,273
+NH,F,1958.0,Casey,426
+NH,M,1984.0,Jordan,373
 NH,F,1947.0,Jennifer,8
-NH,M,1925.0,James,105
-NH,M,1990.0,Michael,742
-NH,M,2009.0,Michael,17
-NH,M,2020.0,Michael,65
-NH,F,1972.0,Jordan,
-NH,F,1981.0,James,677
-NH,M,1939.0,Alex,125
-NH,M,1985.0,Robert,76
-NH,F,2021.0,Jordan,83
- NH ,,1988.0,Taylor,270
-NH,M,1948.0,Casey,393
-NH,F,1967.0,Alex,116
-NH, M ,1996.0,Robert,353
-NH,M,1999.0,Jordan,547
-NH, M ,1992.0,James,457
-NH,M,1970.0,Jordan,378
-NH,M,1978.0,Alex,391
-NH,F,1923.0,Casey,10
-NH,M,2016.0,Alex,16
-NH,F,1931.0,casey,11
-NH,F,1963.0,Alex,510
-NH,,1935.0,Alex,175
-NH,F,1961.0,Casey,205
- NH ,M,1970.0,Taylor,16
-NH,M,1958.0,Casey,9
-NH,F,1994.0,,229
-NH,M,2017.0,Robert,27
-NH,M,1960.0,Casey,36
- NH ,M,1963.0,Robert,479
- NH ,M,2021.0,Michael,582
-NH,M,2000.0,Alex,238
-NH,F,2019.0,Taylor,231
-NH,M,1947.0,Taylor,494
-NH,F,1975.0, Mary ,116
- NH ,M,1984.0,Alex,19
-NH, M ,1924.0,James,93
-NH,,1986.0,John,225
- NH ,F,2017.0,Jennifer,34
-NH,F,1939.0,Alex,24
-NH,M,1972.0,Casey,489
-NH,M,1969.0,James,151
-NH,F,1957.0, Alex ,275
-NH,F,1913.0,Linda,174
-NH,M,1956.0,Michael,22
-,,1997.0,John,530
-NH,F,1999.0,Mary,
-NH,M,2020.0,John,77
-NH,F,1986.0,Taylor,
-NH,F,2018.0,alex,42
-NH,M,1955.0,Robert,692
-NH,M,1960.0,Michael,6
-NH, M ,1951.0,Alex,5
- NH ,F,2007.0,Jordan,6
-NH,M,1988.0,james,369
-NH,F,1931.0,Jennifer,25
-NH,M,1990.0,Jordan,310
-NH,M,1956.0,Robert,675
-NH,F,,Casey,28
-NH,M,1988.0,Robert,112
-NH,F,2008.0,Michael,542
-NH,F,,Linda,7
-NH,F,1995.0,Jennifer,811
-NH,M,2002.0,Michael,586
-NH,M,,Alex,86
-NH,,2013.0,Casey,101
- NH ,M,1994.0,Robert,142
-NH, M ,1999.0,Alex,1282
-NH,,1988.0,Jordan,1161
-NH,M,1919.0,Robert,15
-NH,M,2022.0,jordan,41
-NH, F ,2003.0,Jordan,208
-NH,F,2010.0,Jennifer,81
-,M,1949.0,Alex,
-NH,M,1950.0,john,81
-NH,F,1930.0,Alex,35
-NH,F,2006.0,Patricia,
-NH,M,1930.0, Michael ,8
-NH,M,2009.0,Casey,59
- NH ,F,1999.0,Jennifer,1158
-NH, F ,1950.0,Linda,630
-NH,M,2017.0,casey,341
-NH,M,1944.0,Casey,402
-NH,F,1978.0,Casey,
-NH,F,1943.0,Jordan,525
-NH,F,1974.0,Jennifer,148
-NH,F,2007.0,Robert,121
-NH,F,1912.0,Jennifer,53
-NH,F,,Patricia,530
-NH,M,1928.0,Casey,31
-NH,F,1987.0,Alex,266
-NH,F,2020.0,Mary,38
-NH,,2007.0,Jordan,684
-NH,M,1964.0,James,78
-NH,F,1945.0,Taylor,685
-NH,F,1977.0,Jennifer,99
-NH,F,1951.0,Casey,538
-NH,F,1948.0,Michael,274
-NH,,1932.0, Michael ,104
-NH,F,1956.0, Mary ,699
-NH,F,,Casey,6
-NH,M,1979.0,,134
-NH,M,2001.0,Alex,920
- NH ,,1948.0,Taylor,619
-NH,F,1925.0,Mary,56
-NH,F,1936.0,Linda,6
- NH ,F,1953.0,Alex,134
-NH,F,1945.0,Casey,29
-NH, F ,1943.0,Casey,11
-NH,,1994.0,,
-NH,F,1960.0,linda,64
-NH,,1997.0,James,309
- NH , M ,2005.0,Michael,140
-NH,M,1940.0,Alex,20
-NH,F,1968.0,Taylor,106
- NH ,F,1963.0,Linda,68
-NH,M,1979.0,Michael,697
-NH, F ,1996.0,Alex,56
-NH,M,1980.0,James,29
-NH,F,1946.0,Alex,6
- NH ,F,1962.0,Casey,624
-NH, F ,2002.0,Patricia,31
-NH,M,1995.0,Michael,276
- NH ,M,1981.0,James,1256
-NH,F,1986.0,Patricia,115
-NH,M,,Alex,781
-NH, F ,2012.0,Taylor,163
-NH,M,1959.0,Taylor,91
-,F,2012.0,Jennifer,8
-NH, F ,1970.0,Patricia,53
-NH,M,1914.0, James ,21
-NH,F,1970.0,Jordan,221
-NH, F ,2018.0,Mary,1046
-NH, M ,1988.0,Casey,391
- NH ,M,1980.0,Jordan,149
- NH ,F,1945.0,robert,84
-NH,F,1966.0,Jennifer,90
-NH,M,1956.0, Jordan ,267
- NH ,M,1948.0,Alex,60
-NH,F,1928.0,Linda,304
-NH,F,1949.0,jennifer,122
-NH,M,1996.0,Jordan,608
-NH,F,1986.0,casey,475
-,M,2022.0,James,680
-NH,M,2021.0,Taylor,55
-NH,M,2022.0,Michael,83
-NH, F ,2004.0,Jordan,554
-NH,,2012.0,Mary,14
-NH,M,1954.0,Alex,40
-NH,M,1940.0,John,166
-NH,F,1936.0,Mary,16
-NH,F,1964.0,Mary,611
-NH,F,1919.0,Linda,30
-NH,M,2010.0,Casey,11
- NH ,F,1963.0,Casey,70
-,F,1988.0,Alex,35
-NH,F,2007.0,,193
-NH, M ,2006.0,Casey,704
-NH,F,2017.0,John,19
-NH,M,2014.0,Alex,564
-NH,M,1968.0,Michael,76
-NH,F,1971.0,Taylor,131
-NH,M,1989.0, John ,90
-NH,M,1927.0,Casey,67
-NH,F,1973.0,Casey,392
-NH,F,2020.0,Alex,141
-,F,1982.0,Mary,438
-NH,F,1977.0,Linda,151
-NH, M ,1964.0,Jordan,571
-,,1951.0,Jennifer,1235
-NH,,1956.0,,110
- NH ,M,1946.0,taylor,122
- NH , M ,1931.0,Casey,124
-NH,F,2014.0, Jordan ,241
-NH, F ,1936.0,Jennifer,103
-NH,F,2011.0,Mary,449
-NH,F,1992.0,Taylor,63
-NH,,1935.0,Casey,93
-NH,M,1965.0,James,925
-NH,M,2018.0,Alex,55
-NH, F ,1941.0,Linda,34
- NH ,F,1999.0,Jennifer,1158
- NH ,F,1993.0,Jordan,268
- NH ,F,1976.0, Linda ,623
-NH,M,1952.0,Casey,280
-NH, M ,1950.0,James,6
-NH,F,1988.0,Linda,788
-NH,F,1955.0,Jennifer,821
-NH,F,2021.0,,8
-,F,2009.0,Casey,78
-NH, M ,2019.0,Michael,14
-NH,M,1956.0,John,96
-NH,F,1975.0,Patricia,306
-NH,F,1981.0,Casey,58
-NH,,1949.0, Taylor ,103
-NH,M,1986.0,Alex,96
-NH,F,1972.0,Taylor,838
-NH,M,1950.0,Jordan,
-NH,,2009.0,Robert,548
-NH,,2005.0,James,57
-NH,F,,Linda,260
-NH,F,1988.0,,177
-NH,F,1958.0,John,162
-NH,F,1967.0,linda,27
-NH,M,2004.0,Robert,190
-NH,M,1953.0,casey,43
-,M,1918.0,Taylor,89
-NH,F,1917.0,Taylor,201
-NH,M,1961.0,Robert,225
-NH,M,1910.0,Taylor,104
-NH,F,2021.0,Jordan,83
-NH,F,1926.0,Patricia,82
-NH,F,1997.0,Taylor,226
- NH ,F,2002.0,Linda,
-NH,M,2019.0,Robert,345
-NH,M,1996.0,Taylor,36
-NH,F,1991.0,Casey,711
-NH,F,1946.0, Casey ,592
-NH,F,1968.0,Jordan,120
-NH, F ,,Jordan,70
- NH , F ,1965.0,Jordan,179
-NH,M,2001.0,Casey,95
-NH,M,1979.0,Jordan,192
-NH,M,1970.0,Casey,156
-NH,F,1918.0,alex,362
-,M,2014.0,John,277
- NH ,F,2002.0,Mary,55
-NH,M,2012.0,Jordan,21
-NH,,1992.0,Casey,697
-NH,F,1993.0,Patricia,1081
-NH,M,1964.0,Taylor,521
-NH,,1962.0,,513
-NH,F,1993.0,Jennifer,756
-NH,M,2012.0,Michael,444
-NH,M,1982.0,,744
-NH,F,1987.0,Taylor,273
-NH,M,1935.0,Michael,390
-NH,M,1974.0,James,436
-NH,F,2016.0,Jordan,22
-NH,M,1992.0,Michael,190
-NH,M,2006.0,,137
-NH,F,1971.0,linda,33
-NH,F,1967.0,Jennifer,127
-NH,F,1976.0,Mary,558
- NH ,F,1940.0,taylor,82
-NH,F,1947.0,Mary,963
-NH,M,2003.0, Casey ,255
-NH,M,,James,8
-NH,M,1950.0,Casey,
-NH,M,1982.0,,297
-NH,M,1979.0, Alex ,291
-NH,F,1975.0,Taylor,376
-NH,F,1950.0,alex,924
-NH, F ,2018.0,Casey,599
-NH,F,1954.0,Jennifer,96
- NH ,M,1922.0,Casey,13
- NH ,F,1953.0,Taylor,299
-NH,F,2010.0,Alex,42
-NH,F,1997.0,Linda,143
-NH,F,1958.0, Jordan ,433
-NH,F,1937.0,Taylor,192
-NH,M,1974.0,Casey,401
-NH,F,1969.0,,356
-NH,M,1947.0,Michael,9
-NH,M,2019.0,Alex,11
-NH,M,2003.0,Alex,219
-NH,F,1957.0,Mary,141
-,F,1947.0,Patricia,121
- NH ,F,1996.0,Patricia,815
-NH,F,1973.0,Taylor,799
-NH,M,,Mary,1637
-NH,F,1971.0,Alex,533
-NH,F,1971.0,Mary,710
-NH,M,1944.0,Robert,44
-NH,M,1951.0,Jordan,38
- NH ,F,2001.0,Mary,153
- NH ,M,1972.0,Jordan,1196
-NH,M,1976.0,Casey,603
-NH,F,2002.0,alex,400
-NH,M,1992.0,Robert,
-NH, M ,2018.0,Michael,26
-NH,F,1920.0,Patricia,31
-NH,,2021.0,James,50
- NH ,M,1943.0,Alex,18
-NH,F,,Taylor,353
-NH,F,1945.0,Alex,257
-NH,F,1974.0,Patricia,101
- NH ,F,2019.0,Jennifer,753
-NH,F,1995.0,Casey,184
-NH,F,2001.0,Casey,361
-NH,F,2013.0,Alex,112
-NH,F,1973.0,Linda,295
-NH,F,1984.0,taylor,
-NH,F,1977.0,Michael,36
- NH ,F,1974.0,Alex,379
-NH,M,2001.0,Michael,18
-,F,1954.0,Casey,170
-NH,F,1944.0,,106
-NH,M,1912.0,Robert,38
-NH,F,1914.0,,43
-NH,M,2019.0,John,325
-NH,F,1935.0,Jordan,21
- NH ,F,1920.0,casey,32
-NH,F,1948.0,Linda,59
-NH,F,1972.0,,283
-NH,M,1991.0,Casey,
-NH,M,1949.0,,493
-NH,M,1926.0,Michael,74
-NH,F,2012.0,Linda,124
-NH,F,2000.0,Taylor,244
-NH,M,1989.0,Casey,746
-NH,M,2015.0,James,207
-NH,M,2013.0,Robert,494
-NH,M,2009.0,James,118
-NH,F,1976.0,Alex,688
-NH, M ,1967.0,Michael,246
- NH ,F,1963.0,Taylor,336
-NH, F ,1918.0,Mary,44
-NH,F,1913.0,Alex,19
-NH,F,1994.0,Michael,1132
- NH ,F,1963.0,Patricia,168
-NH,M,1957.0,Casey,50
-NH,F,1968.0,Alex,60
-NH,F,1948.0,Casey,154
-NH,F,1982.0,alex,411
-,M,1977.0,Casey,146
- NH ,F,1920.0,casey,32
-NH,F,1999.0,Taylor,472
- NH ,F,1944.0,Casey,21
-NH,F,1980.0,Taylor,248
-NH,M,1943.0,James,74
-,F,1991.0,Patricia,46
- NH ,M,1985.0,Taylor,18
-NH,F,1990.0,Linda,446
-NH,M,,Michael,69
-NH,,, Taylor ,13
-NH,M,1953.0,James,310
-,M,1912.0,Michael,50
-NH,M,2011.0,Alex,24
-NH,F,1954.0,Linda,621
- NH ,F,1990.0,Mary,1068
- NH ,M,1917.0,Robert,49
-NH,M,1972.0,Michael,743
- NH ,F,1951.0,Jordan,183
-NH,M,1998.0,Taylor,43
- NH ,M,1938.0,John,136
-NH,,1981.0,John,374
-NH, M ,2004.0,Linda,465
- NH ,F,1981.0,Patricia,436
-NH,M,1928.0,James,293
-NH,M,1951.0,michael,10
-NH,M,1976.0,taylor,218
-NH,M,1915.0,Taylor,20
-NH,M,1921.0,James,16
-NH,M,1989.0,Taylor,106
-NH,F,1993.0,Linda,167
-NH,M,1980.0,Casey,669
-NH,M,1941.0,James,73
-NH,F,1937.0,Mary,39
- NH ,F,2015.0,Mary,14
-NH,M,1944.0,Taylor,169
-NH,F,2000.0,Alex,116
-NH,F,1987.0, Casey ,
-NH,M,1963.0,john,84
-NH,M,1918.0,Robert,12
-NH,F,1948.0,Linda,59
-NH,M,2011.0,,1403
-NH,M,1927.0,James,
-NH,M,1986.0,Casey,603
-NH,M,1915.0,Casey,11
-NH,M,1914.0,John,65
-NH,M,1999.0,Casey,16
-NH, M ,1983.0,Jordan,1051
-NH,M,1937.0,,395
-NH,F,2005.0,jordan,252
- NH ,M,1962.0,Robert,88
-NH,F,1979.0,Mary,403
-NH,M,1965.0,Alex,34
- NH ,M,1972.0,Taylor,309
-NH,M,2011.0,Casey,177
-NH,M,1910.0,John,
-NH,,,linda,110
-NH,,1998.0,Taylor,200
-NH,F,1992.0,,333
-NH,F,1990.0,Casey,174
-NH,F,1989.0,Casey,540
-NH,F,2017.0,Alex,24
-NH,F,1934.0,Mary,5
-NH,M,2000.0, Robert ,46
-NH,M,2004.0,James,101
-NH, F ,1944.0,Mary,190
-NH,F,,Casey,39
-NH,F,1967.0,Taylor,69
-NH,M,2003.0,James,478
-NH,M,1993.0,Casey,58
-NH,M,1957.0,Jordan,506
-NH,M,1915.0,Robert,14
- NH ,F,2006.0,,147
-NH,M,1963.0,Taylor,78
-NH, F ,1945.0,Mary,14
-NH,M,1983.0,Taylor,435
-NH, M ,1960.0,Taylor,216
-NH,F,1982.0,John,714
-NH,M,1987.0,Casey,491
-NH,F,1949.0,Jordan,
-NH,M,,jordan,96
-NH,M,1934.0, Michael ,18
-NH,M,1973.0,Casey,210
-NH,F,1961.0,Jennifer,342
-NH,F,1978.0,Jordan,609
-NH,F,1998.0,Jordan,382
-NH,F,1927.0,Patricia,23
-NH,M,1992.0,John,18
-NH,M,1979.0,Casey,1015
-NH,F,1963.0,Jordan,46
-NH,M,1990.0,Casey,134
-NH, M ,1961.0,Taylor,23
-NH,M,1912.0,,33
-NH,M,1942.0,Alex,169
-NH,M,2021.0,John,374
-NH,F,2021.0,Linda,175
-NH,,1977.0,John,353
-NH,M,1934.0,John,428
-NH,M,,James,304
-NH,M,1980.0,robert,799
-NH,F,1931.0,Linda,5
- NH ,F,1956.0, James ,40
- NH ,F,2011.0,linda,30
-NH,F,1942.0,Alex,
-NH,F,2003.0,Jennifer,117
-NH,M,2000.0,Jordan,273
-NH,M,1959.0,James,20
-NH,F,1992.0,Jennifer,453
-NH,F,1937.0,Jordan,463
-NH, F ,1948.0,Jennifer,46
- NH , F ,1979.0,Linda,315
-NH,F,1955.0,Jordan,88
-NH,F,1939.0,Jennifer,413
-NH,M,1998.0,Casey,1261
- NH ,F,1997.0, Alex ,87
- NH ,F,1953.0, Mary ,117
-NH,F,1996.0,,378
-NH,F,1960.0,Robert,1109
-NH,F,1949.0,Alex,
-NH, F ,2009.0,Alex,154
-NH,F,1959.0,Patricia,1320
-NH, F ,2012.0,Jordan,12
-NH, F ,1981.0,Jennifer,506
-NH, M ,1997.0,Robert,686
-NH,F,2000.0,Casey,176
-NH,M,1945.0,Taylor,316
-NH,,1998.0,Michael,1018
-NH,F,1964.0,Linda,142
-NH,M,1919.0,Michael,9
-NH,,1952.0,James,688
- NH ,F,,Patricia,306
-NH,F,1936.0,Casey,274
-NH,F,2011.0,Jordan,72
- NH ,F,1992.0,Patricia,697
-NH,M,1983.0,James,143
-NH,F,1945.0,Alex,257
-NH,F,1966.0,Alex,466
-NH,F,1942.0,Jennifer,9
-NH,F,1922.0,Alex,7
-,F,1976.0,Casey,926
-NH,F,1971.0,Casey,40
-NH,F,1937.0,Patricia,476
-NH,M,1978.0,Casey,682
- NH ,F,2022.0,,14
- NH ,F,1927.0,Linda,27
- NH ,M,1913.0,James,149
-NH,F,1910.0,Taylor,24
-NH,F,,Mary,7
-NH,M,2014.0,James,7
-NH, F ,1949.0,,209
-NH,M,1961.0,James,387
-NH, M ,1985.0,Alex,113
- NH ,F,1940.0,Patricia,160
-NH,M,1946.0,John,666
-NH,F,1961.0,alex,375
-NH,F,1930.0,Jennifer,34
-NH,F,1970.0,Taylor,427
- NH ,M,1988.0,Alex,534
-,F,1970.0,Linda,564
-NH,,2017.0,Michael,363
-NH,M,1977.0,Taylor,164
-NH,F,1935.0,Alex,29
-,M,1962.0,Casey,315
- NH ,F,1950.0,Taylor,522
-NH,M,2006.0,Michael,34
-NH,F,1953.0,Patricia,240
-NH,,1931.0,James,61
-,,1925.0,Patricia,39
-NH,M,1973.0,Jordan,80
-NH, F ,1987.0,Jennifer,92
-NH,F,1936.0,Patricia,455
-NH,F,1977.0,Jennifer,99
-NH,F,1932.0,Casey,201
-NH,M,1980.0,Alex,140
-NH,M,1945.0,Casey,68
-NH,M,1949.0,Casey,66
-, F ,2020.0,Taylor,6
-NH,F,1934.0,,11
-NH,M,2016.0,Jordan,636
-, M ,1999.0,,106
-NH,M,,Robert,394
-NH,M,1941.0,robert,432
-NH,M,1985.0,James,32
-NH,M,1989.0,Alex,224
-NH, M ,2007.0, John ,22
-NH,M,1969.0,Robert,99
-NH,M,1980.0,Taylor,32
-NH,F,1980.0,Mary,454
-NH,M,,,352
-NH,F,1976.0,Taylor,626
-NH,M,1920.0,John,38
-NH,F,,Jennifer,599
-NH,F,1972.0,Linda,723
-NH,F,1993.0,Mary,394
- NH ,F,1943.0,Mary,209
-NH,M,1937.0,Alex,22
-NH,M,1918.0,John,32
-NH,M,1967.0,John,815
-NH,M,1924.0, Jordan ,20
-NH,M,1981.0,Jordan,235
- NH ,F,2011.0, Casey ,48
-,F,2005.0,Mary,192
-NH,F,1966.0,Taylor,694
-NH,F,1961.0,patricia,745
-NH,M,1971.0,John,338
- NH ,M,1947.0,James,48
- NH ,M,2005.0,Alex,80
-NH,F,1989.0,Linda,74
- NH ,F,1953.0,Jordan,140
-NH, M ,1991.0,Michael,278
-NH,F,1972.0,Alex,477
-NH, F ,1978.0,,
-,M,1978.0,Taylor,172
-NH,F,1970.0,Mary,298
-NH,M,1932.0,Alex,
-NH,M,1937.0,John,9
- NH ,F,1979.0,,188
-NH,F,1948.0,Mary,486
- NH ,M,1933.0,Robert,284
-NH,F,1914.0,Jennifer,49
-NH,F,2001.0,Michael,173
- NH ,M,2014.0,Linda,13
-NH,F,1950.0,Jennifer,78
-NH,M,1949.0,Robert,45
-NH,M,1996.0,John,41
-NH,M,1931.0,Michael,26
-NH,F,1955.0,Patricia,107
-NH,M,1955.0,Mary,248
- NH ,F,2003.0,linda,69
-NH,M,1929.0,James,150
-NH,F,1946.0,Jennifer,120
-NH,F,2017.0,Taylor,14
-NH,F,1947.0,Linda,423
-NH,F,1938.0,Jordan,229
-,F,1965.0,Casey,155
-NH, M ,1982.0,James,222
-NH,F,1917.0,Patricia,29
- NH ,M,1916.0,Taylor,8
- NH ,M,1992.0,Jordan,103
-NH,M,,Alex,86
-NH,F,1986.0,mary,66
-NH,F,1946.0,Linda,13
-NH,M,1971.0,jordan,767
-NH,F,1983.0,Jordan,245
-NH, M ,1982.0,alex,
-NH,M,1977.0,Jordan,501
-NH,M,1930.0,Jordan,21
-NH, F ,2015.0,Casey,466
-NH,F,1952.0,Linda,977
-NH,M,1966.0, James ,410
-NH,F,2013.0,jennifer,205
-NH,F,1947.0,Alex,58
-NH,F,1924.0,jordan,213
-NH, M ,1969.0,Michael,17
-NH,F,1965.0,Taylor,
-NH,F,1968.0,,434
-NH,M,1977.0,Alex,1211
-NH,F,2006.0, Taylor ,58
-NH,F,2008.0,Alex,543
-NH, F ,1993.0,Casey,704
-NH,F,1974.0,Linda,1167
-NH,,1960.0,Casey,33
- NH ,F,,Alex,530
-NH,M,1923.0, John ,53
-NH,M,1923.0,Mary,217
-NH,M,2002.0,Robert,110
-NH,F,1980.0,Casey,120
-,F,1940.0,Casey,138
-NH,F,1925.0,Jennifer,14
-NH,F,2008.0,Mary,240
-NH,M,2009.0,,551
-NH,M,1968.0,Taylor,
- NH ,M,1921.0,Taylor,
-,F,1947.0,Patricia,121
-NH,M,1925.0,Casey,45
- NH ,M,1982.0,casey,306
-NH,M,1954.0,michael,513
-NH,F,1953.0, Linda ,212
-NH,M,1946.0,Robert,751
-NH,M,1942.0,Casey,21
-NH,M,1996.0,Michael,316
-NH,F,1939.0,Jordan,249
-NH,M,1966.0,Michael,111
-NH, F ,1974.0,Taylor,
-NH,F,1983.0,Jennifer,461
-NH,F,2021.0,Jennifer,48
-NH,M,1961.0, John ,457
-NH,M,1989.0, John ,90
-NH,F,1934.0,Alex,68
-NH,F,1977.0,Mary,597
-NH,M,1978.0,Robert,53
-NH,M,1943.0,John,7
- NH ,F,1962.0,John,453
-NH,M,1942.0,John,37
-NH,M,2011.0,Michael,239
-NH,M,1947.0,Michael,9
-NH, F ,1951.0,James,39
-NH,F,1950.0,jordan,6
-NH,F,,Mary,26
-NH,M,1967.0,Robert,476
-NH,F,1981.0,Mary,69
-NH,M,1960.0, Alex ,6
-NH,M,1993.0,Michael,395
-NH,M,2007.0,James,575
-NH, F ,1987.0, Mary ,381
-NH,F,1988.0,Mary,20
-NH, F ,1954.0,Alex,204
-NH,M,,Alex,403
-NH,M,1921.0,Robert,17
-NH,M,1979.0,Robert,553
-NH,M,2011.0,Robert,
-NH,F,1993.0,Taylor,29
-NH,F,2020.0,Linda,151
-NH,M,2021.0,Robert,87
-NH,M,1977.0, James ,116
-NH,M,1975.0,James,633
-NH,F,1978.0,Mary,573
-NH,M,1930.0,Robert,30
-NH,,1966.0,Alex,53
-NH,F,1960.0,mary,332
-NH,M,1995.0,Taylor,684
-NH,M,1963.0,Alex,446
- NH ,M,2019.0,,398
-NH,F,1916.0, Taylor ,7
-NH,F,1954.0,james,
-NH,F,2010.0,Mary,434
-NH,F,1965.0,Linda,297
-NH,M,1953.0,alex,16
-NH,M,1987.0,John,304
-NH,M,1922.0,James,26
-NH,M,1991.0,James,670
-NH, F ,1951.0,Patricia,344
-NH,F,1972.0,jennifer,356
-NH,F,2006.0,Linda,343
-NH,M,1990.0,James,55
-NH,M,1940.0,Casey,59
- NH ,F,1938.0,Alex,164
-NH,F,1966.0,Casey,135
-NH,M,1997.0,Jordan,7
-NH,F,1936.0,Alex,596
-NH, F ,2004.0,alex,1350
-NH,M,1987.0,Taylor,178
-NH, M ,,Casey,621
- NH ,,1940.0,Mary,131
-NH,F,1969.0,Linda,35
-NH,M,1934.0,Alex,20
-NH, M ,1986.0,Michael,427
- NH ,F,1946.0,John,12
-NH,M,2022.0,Casey,196
-NH,F,2016.0,Casey,
-NH, F ,1964.0,Jordan,414
-NH,F,1919.0,Jennifer,32
- NH ,M,1981.0,Taylor,46
-NH,M,1942.0,Taylor,121
-NH,F,1946.0,jordan,6
-NH,M,1983.0,Michael,35
-NH,M,1981.0,Alex,644
-NH,F,1925.0,Jennifer,14
-NH,F,1962.0,Jordan,119
-NH,F,2020.0,Jennifer,8
-NH,F,1979.0,Taylor,110
-NH,F,1960.0,Jordan,277
-NH,M,2015.0,Taylor,250
-NH,M,1969.0,John,472
-NH,F,1984.0,Alex,73
-NH,F,1945.0,Jordan,
-NH,M,1993.0,James,63
-NH,,1961.0,Taylor,382
-NH,M,1940.0,Robert,93
- NH ,M,1947.0,Casey,
-NH,,1959.0,Taylor,57
-NH,F,1932.0,James,113
-NH,M,1947.0, Alex ,206
-NH, F ,1974.0, Casey ,
-NH, F ,1933.0,Taylor,107
-NH,M,1959.0,Robert,768
-NH, F ,2015.0,,755
-NH,M,1997.0,Casey,274
-NH,M,1973.0,James,828
-NH,M,1940.0,Jordan,163
-NH, M ,1921.0,Michael,8
-NH,F,1918.0, Jordan ,16
-NH,M,2008.0,Robert,18
-NH,,1966.0,robert,93
-NH,M,1983.0,John,143
-NH,,1913.0,Michael,14
-NH,M,1941.0,Jordan,36
-NH, M ,1996.0,Robert,353
-NH,F,1923.0,Taylor,5
-NH,F,1914.0,Jordan,6
-NH,M,1953.0,Robert,235
- NH ,F,1949.0,Mary,24
-NH,M,1994.0,Alex,104
-NH,M,1988.0,Robert,112
-NH,F,1966.0,Linda,368
-NH,M,1989.0,Mary,105
-NH,M,1974.0,Jordan,263
-NH,M,1923.0, James ,23
-NH,F,1964.0,Casey,633
-NH,M,1911.0,John,13
- NH ,M,1967.0,Casey,19
-NH,F,1977.0,Casey,620
-NH,M,1947.0,John,
-NH, F ,2004.0,Taylor,538
-NH,F,2008.0,Linda,1056
-NH,M,1917.0,Taylor,16
-NH,M,1938.0,,8
-NH,F,1983.0,Mary,76
- NH ,F,,Alex,530
-NH,F,1910.0,Jennifer,10
-NH,F,1956.0,Patricia,407
- NH ,F,1928.0,Patricia,123
-NH,M,1989.0,Alex,224
-NH,F,1915.0,Taylor,10
-NH,F,1973.0,Mary,835
-NH,F,,,72
-NH,,1998.0,Jennifer,385
-NH,F,1972.0,Patricia,1005
-NH,M,1924.0,Robert,30
-NH,M,1957.0,Robert,450
-,F,1956.0,,410
-NH,M,1946.0,Alex,
-NH,M,1981.0,Casey,40
-NH,F,1931.0,Taylor,
-NH,M,2006.0,Taylor,90
-NH,F,2011.0,Taylor,122
-NH,M,1920.0,James,7
-NH,F,2001.0,Patricia,82
-NH,M,1943.0,Jordan,220
- NH ,F,1994.0,Casey,219
-NH,F,1997.0,Casey,143
-NH,F,1983.0,Casey,
-NH,F,1956.0, Taylor ,226
- NH ,F,1975.0,Linda,463
-NH,M,1930.0,James,167
-NH,M,2008.0,James,46
- NH ,M,1960.0,Mary,106
- NH ,M,2010.0, Robert ,16
-NH,,1998.0,Alex,10
-NH,F,1913.0,Patricia,50
-NH,M,1975.0,robert,186
-NH,F,1958.0,Alex,660
-NH,F,2003.0,Alex,543
-NH,M,1936.0,Casey,350
-NH, M ,1987.0,Alex,52
-NH,F,1961.0,Mary,57
-NH,F,1964.0,Jennifer,1006
-NH,F,2013.0,,110
-NH,F,1916.0,Michael,5
-NH,M,1945.0,Robert,20
-NH,M,1931.0,Jordan,32
-NH,F,1992.0,Mary,177
-NH,M,1987.0,Jordan,701
-NH,M,1994.0,Taylor,240
-NH,M,1991.0,jordan,19
-NH,M,1999.0,Jordan,547
- NH ,F,2022.0,Jordan,7
-NH,M,1974.0,Michael,116
-NH,F,1956.0,Jordan,51
-NH,F,1958.0,Linda,22
-NH,F,1958.0, Jennifer ,258
-NH,M,1985.0,Michael,
-NH,F,,Jordan,151
-NH,,1963.0,James,29
-NH,M,1954.0,Robert,713
-,M,1972.0,Robert,461
-NH,F,1964.0,Taylor,33
-NH,F,2001.0,Jordan,603
-NH,F,1977.0,Alex,193
-NH,F,1984.0,Patricia,282
- NH ,M,1960.0,John,70
-NH,M,1966.0,jordan,147
-NH,F,2010.0,Patricia,75
-NH,F,1912.0,Jordan,68
-NH,F,1995.0,Mary,51
-NH,M,1967.0,James,179
-NH,F,1927.0,Alex,46
-NH,F,1924.0,Jennifer,57
-NH,F,1984.0,Casey,107
-NH,F,1919.0,Linda,30
-NH,F,1973.0,Alex,114
-NH,M,1968.0,John,247
-NH,F,1964.0,Alex,14
-NH,F,1951.0,Mary,431
-NH,F,2013.0,Casey,1157
-NH,M,2007.0,Robert,134
-NH, F ,1961.0,Linda,606
-NH,M,2003.0,Robert,50
-,F,1943.0,Linda,15
-NH,M,1974.0,Alex,1144
- NH ,F,1932.0,Jennifer,205
-NH,M,1969.0,Casey,164
-NH,F,2010.0,,47
-NH,M,1987.0,james,
-NH,F,2000.0,Mary,33
- NH ,,1955.0,Jordan,23
-NH,,1978.0,James,65
-NH,M,2006.0,,22
-NH,F,1982.0,Taylor,171
-NH,F,,Michael,15
-NH,F,1986.0,Alex,70
-NH,F,1978.0,Jennifer,676
-NH,M,1972.0,John,181
-NH,F,2014.0, Linda ,96
-NH,F,1994.0,Taylor,360
-NH,M,1947.0,Robert,345
-,,,Alex,54
-NH,M,2005.0,Taylor,50
- NH ,,,Jordan,161
-NH,F,1970.0,Jennifer,282
-NH,M,2002.0,Jordan,524
-NH,F,2009.0,Mary,37
-NH,M,1968.0,,87
-, F ,1978.0,Patricia,253
- NH ,,2000.0,Linda,245
-NH,F,1947.0,john,178
- NH ,M,1967.0,Jordan,556
-NH,M,2015.0,Robert,58
-NH,F,2013.0,Taylor,34
-NH,M,1927.0,Jordan,7
-NH,M,1942.0,Michael,523
-NH,F,1987.0,,394
-NH,,1956.0,Jennifer,223
-NH,F,2004.0,Patricia,
-NH,F,1929.0,Casey,55
-NH,F,1992.0,Casey,404
- NH , F ,1975.0,Jordan,395
-NH,,1968.0,,131
-NH, F ,1971.0,Patricia,165
-NH,M,1984.0,Jordan,61
-, F ,2019.0,Casey,
-NH,M,,Casey,563
-NH,F,1952.0,Jennifer,752
-NH,M,1969.0, Jordan ,1034
-,F,1960.0,Jennifer,46
-NH,F,1968.0,Mary,1026
-NH,M,1975.0,,840
-NH,M,1932.0,Robert,222
-NH,F,1980.0,Linda,107
-NH,F,1979.0,Patricia,261
-NH,,1999.0,Jordan,420
- NH ,M,1914.0,Robert,5
-NH,F,1937.0,Alex,106
-NH,M,1971.0,Mary,216
-NH,F,2003.0,Taylor,139
- NH ,F,1975.0,,420
-NH,M,1957.0,John,116
-NH,F,2014.0,Mary,239
-NH,M,1969.0,alex,844
-NH,F,1954.0,Robert,44
-NH,F,2020.0,Jordan,
-NH,M,1939.0,Robert,139
-NH,F,1949.0,Patricia,206
-NH,F,2000.0,Jennifer,25
-NH,F,1994.0,,504
-NH,M,1949.0,John,195
-NH,M,1957.0, James ,788
-NH,M,1950.0,Michael,297
-NH,,2020.0,Taylor,73
-NH,M,,John,72
-NH,M,1923.0,Alex,6
-NH,F,2019.0,Mary,10
-NH,F,1965.0,Jennifer,592
-NH,F,1934.0,Taylor,10
-NH,F,2010.0,Casey,
-NH,M,1953.0,Taylor,43
-NH,F,2022.0,James,830
-NH,M,1953.0,Jordan,1030
-NH,M,1957.0,Alex,1375
-NH,M,1935.0, John ,31
-NH,F,1991.0,Taylor,372
-NH,F,2016.0,Linda,55
-NH,M,1948.0,James,11
-NH,F,1927.0,Jennifer,208
-NH, M ,1978.0,John,
-NH,F,2017.0,,45
-NH,F,1996.0,Linda,11
-NH,F,2002.0,Taylor,264
-NH,F,,Alex,67
-NH,F,1927.0,Jennifer,208
-NH, M ,1986.0,Jennifer,329
- NH ,F,2002.0,Mary,55
-NH,M,1990.0,,487
-NH,F,1979.0,,147
-NH,F,2019.0,Alex,108
-NH,F,1976.0,Patricia,54
-NH,M,1999.0,John,857
-NH,M,1955.0,James,127
- NH ,M,1952.0,,17
-NH,M,1999.0,Michael,119
-NH,M,1953.0,John,470
-NH,,1960.0,Jordan,74
-NH, M ,1925.0,Robert,135
-NH,M,1971.0,Taylor,423
-NH, M ,1916.0,Alex,24
-NH,M,1931.0,Robert,73
-NH,,2004.0,Jordan,176
-NH,M,1938.0,Jordan,247
-NH,M,,Alex,48
-NH,M,1952.0,taylor,208
-NH,M,1970.0,Michael,483
-NH,F,1918.0,Taylor,44
-NH,M,1939.0,Casey,37
-NH,F,1924.0,jordan,213
-NH,M,1911.0,Robert,12
-NH,F,1938.0,Linda,179
-NH,F,1943.0,Taylor,268
-NH,M,2004.0,John,191
-NH,F,,Linda,7
-NH,F,2015.0, Alex ,103
-,F,1920.0,Jennifer,28
-NH,M,2000.0,John,413
- NH ,F,2015.0,Taylor,117
-NH,F,1989.0,Mary,575
-NH,M,1956.0,Alex,135
-NH,,1927.0,,70
-NH,F,1986.0,casey,475
- NH ,F,1999.0,Casey,574
-NH,M,1997.0,Michael,207
-NH,F,1995.0,Patricia,36
-NH,F,1952.0,Jordan,646
-NH,M,1982.0,jordan,150
-NH, F ,1954.0,jordan,450
-NH,M,1910.0,Casey,
- NH ,M,2005.0,John,749
-NH,F,,Jennifer,
-NH,F,1986.0,Jordan,138
-NH,M,1950.0,Robert,70
- NH ,M,1971.0,Alex,539
-NH,M,2011.0,Taylor,93
-NH,F,1998.0,Patricia,47
-NH,M,2006.0,Alex,330
-NH,M,1965.0,John,963
- NH ,M,1977.0,,54
-NH,M,2016.0,Taylor,
-NH,F,1955.0,Taylor,649
-NH,M,2002.0,John,144
-NH,F,1990.0,Jordan,
-NH,M,1995.0,,73
-NH,F,2022.0,Mary,12
- NH ,M,1966.0,John,247
-NH,F,1996.0,Casey,20
-NH,M,1953.0,Michael,74
-NH,F,1977.0,patricia,72
-NH,,2018.0,Robert,79
-NH,M,1962.0,Jordan,843
-NH, F ,1910.0,Mary,8
-NH,F,2017.0,Mary,100
-NH,M,1936.0,michael,194
-NH,F,,Jennifer,72
-NH,M,2003.0,Jordan,109
-NH,F,1941.0,Jordan,323
-NH,M,1971.0,James,872
-NH,M,1960.0,James,67
-,F,2019.0,Patricia,497
-NH,M,1944.0,Linda,128
-NH,M,2006.0,James,128
-NH,M,1971.0,Michael,585
-NH,F,1972.0, Mary ,232
-NH,F,1957.0,Jordan,368
-NH,F,1957.0, Jennifer ,99
- NH ,M,2000.0,taylor,199
-NH,F,2007.0,Linda,297
-NH,,1957.0,,77
-NH,F,,Alex,10
-NH,M,1936.0,Jordan,61
-NH,,1952.0,Casey,9
-NH,M,1954.0,Jordan,1104
-,F,1947.0,Casey,19
-NH,M,1984.0,Casey,223
-NH,M,1966.0,,35
-NH,M,1989.0,Michael,655
-NH,F,1951.0,Linda,241
-NH,M,2004.0,Taylor,356
- NH , F ,1974.0,Robert,1357
-NH,F,1932.0,Alex,6
-NH,M,1994.0,James,24
-NH, F ,1995.0,Robert,77
-NH,M,1968.0,Alex,721
-,F,1999.0,Alex,244
-NH,M,1948.0,John,8
-,F,1920.0,Jennifer,28
-NH,F,2015.0,Jennifer,38
- NH ,M,1991.0,John,127
- NH ,F,2004.0,Jennifer,717
-NH,F,1994.0,Alex,13
-,M,1959.0,Michael,58
- NH ,M,2022.0,Alex,499
-,F,2014.0,Taylor,1032
-NH,F,1948.0,Patricia,19
- NH ,F,1955.0,mary,655
-NH, M ,1995.0,Jordan,306
-NH,M,2001.0,Robert,20
-NH,F,1919.0,James,51
-NH,M,1983.0,Robert,502
-NH,F,1991.0,Jordan,484
-NH,,1968.0,,131
-NH,,1962.0,Taylor,333
-NH,M,1963.0,Michael,53
-NH,M,1993.0,Jordan,136
-NH,M,1936.0,Alex,16
-NH,F,2011.0,Jennifer,137
-NH,M,1971.0,Robert,452
- NH ,M,1959.0,,126
-NH,M,2008.0,Jordan,166
-NH, M ,1950.0,Alex,101
-NH,M,1949.0,Jordan,143
-NH,M,1991.0,Alex,561
-NH,F,1983.0,Patricia,325
-NH,M,1990.0,Taylor,150
-NH,,1998.0,Jennifer,385
-NH,M,1968.0, Casey ,1240
- NH ,M,1990.0,John,164
-NH,F,1967.0,Jordan,57
-NH, M ,1978.0,Michael,215
-NH,M,1956.0,Casey,158
-NH,M,1998.0,Alex,454
-NH,M,1979.0,John,366
- NH ,M,1997.0,Taylor,426
-NH,M,2007.0,Casey,310
-NH,M,1932.0,Jordan,133
-NH,F,1999.0,Linda,263
-NH, F ,2001.0,Linda,514
-NH,F,1985.0,Linda,1150
-NH,F,1931.0, Jordan ,376
-NH,M,1928.0,Alex,47
-NH,F,1929.0,Mary,140
-NH,M,1957.0,Taylor,310
-,M,1938.0,Michael,9
-NH,M,2004.0,Casey,650
-NH,M,1950.0,Taylor,113
-NH,M,1917.0,Alex,15
- NH ,M,1924.0, Mary ,34
-NH,F,2006.0,Jennifer,171
-NH,F,1930.0,Patricia,403
-NH,F,2014.0,Casey,10
-NH,M,2018.0, Jordan ,158
-NH,F,1953.0,Jennifer,670
-NH,M,1924.0, Casey ,17
-NH,M,1977.0,Robert,194
-NH,F,1990.0,,
-NH,M,2000.0,James,448
-NH,M,1946.0,James,89
-NH,M,1961.0,,408
-NH,F,1980.0,patricia,135
-NH,F,2022.0, Alex ,18
-NH, F ,1995.0,Alex,980
-NH,M,1970.0,John,498
-NH,M,1975.0,jordan,359
-NH,M,1991.0,Taylor,135
-NH, M ,1964.0,Jordan,571
-NH,M,1948.0,Robert,99
-NH,M,1949.0,Mary,633
-NH,F,1951.0,Alex,
-NH,F,1914.0,Alex,16
-NH,M,1958.0,John,467
-NH,,1943.0,Taylor,111
-NH,F,2021.0,,29
-NH,F,1982.0,Jennifer,312
-NH,F,,Jennifer,465
- NH ,M,1941.0,Michael,167
-NH,M,1943.0, Michael ,93
- NH ,M,1987.0,michael,1158
-NH,F,1946.0,Patricia,357
-NH, F ,1995.0,Jordan,803
-NH, F ,2008.0,Casey,199
- NH ,M,1939.0,Patricia,42
+NH,M,1939.0,Robert,
+NH,F,,Patricia,17
+NH,,1945.0,Michael,55
+NH,M,1965.0,Taylor,534
+NH,F,1938.0,,7
+NH,M,1945.0,Jordan,29
+NH,F,1952.0,Alex,9
+NH,,1993.0,Jennifer,
+NH,F,2021.0,Casey,5
+NH,M,1969.0, Casey ,196
+NH,M,1974.0,James,52
+ NH ,M,1939.0,Michael,287
+ NH ,M,1930.0,Taylor,18
+NH,M,1998.0,Michael,867
+NH,M,1998.0,Robert,136
+NH,M,2010.0,Alex,7
+NH,M,1939.0,Casey,10
+NH,M,1988.0,Alex,556
+NH,F,1921.0,Patricia,45
+NH,M,2009.0,Alex,54
+NH,M,1991.0,Casey,24
+NH,F,2005.0,jennifer,117
+NH,M,1968.0,Casey,243
+NH, F ,2009.0,Casey,107
+NH,M,1998.0,Taylor,593
+ NH ,F,1965.0, Linda ,121
+NH,F,1947.0,Patricia,112
+NH,F,1922.0,Mary,66
+NH,M,1956.0,James,356
+NH,F,1928.0,Taylor,111
+ NH ,F,2018.0,linda,
+NH,M,1943.0,Alex,257
+,F,1954.0,Jennifer,280
+ NH ,F,2015.0,Mary,338
+NH,M,1934.0,john,29
+NH, M ,1980.0,Michael,60
+NH,F,1930.0,Linda,33
+NH,M,1994.0,Michael,44
+NH,F,1951.0,Linda,283
+NH,F,2006.0,Casey,438
+NH,F,2000.0, Jordan ,23
+NH,M,1916.0,John,16
+NH,,1928.0,Patricia,387
+NH, F ,2019.0,Taylor,607
+NH,M,2009.0,John,362
+NH,F,,Alex,99
+NH,,,John,83
+ NH ,M,1943.0,Mary,12
+NH,F,1918.0,Mary,44
+NH, M ,1977.0,Casey,171
+,F,1945.0,Alex,12
+NH,F,1923.0, Jennifer ,54
+NH, F ,1958.0,Alex,43
+NH,M,2022.0,Casey,
+,F,1967.0, Taylor ,566
+NH,M,1975.0,John,228
+ NH ,F,2010.0,Alex,20
+NH,F,1997.0,Mary,40
+NH,F,1964.0,Linda,10
+NH,M,1992.0,Jordan,63
+NH,F,2013.0,Alex,779
+NH,M,,Robert,211
+,M,1967.0,Casey,14
+NH,M,1969.0,Robert,111
+ NH ,F,2007.0,Jennifer,146
+ NH ,F,2015.0,Mary,338
+NH,M,1929.0,Taylor,13
+NH,M,1941.0,Casey,621
+NH,M,1961.0,,163
+NH,,1947.0,Linda,182
+NH,F,2015.0,Linda,62
+NH, M ,1965.0,Robert,490
+NH,M,1986.0,Casey,17
+NH,M,1974.0,James,52
+NH, M ,1973.0,Jordan,20
+NH,M,1920.0,James,117
+NH, M ,1986.0,Taylor,
+NH,M,1988.0,Robert,376
+NH,M,1936.0,John,64
+,M,1968.0,michael,474
+NH,F,1995.0,Linda,40
+NH, M ,1943.0,Casey,8
+NH,F,1920.0,Alex,306
+,F,,Linda,820
+NH,,1960.0,Alex,429
+NH,F,1951.0,Jordan,12
+,M,2012.0,John,1023
+NH,M,1998.0,,422
+,M,2018.0,Alex,674
+NH,F,1930.0,Jordan,
+NH,F,2010.0,Patricia,285
+NH,F,1931.0,Linda,478
+NH,F,1974.0,Patricia,209
+NH,F,1980.0,Patricia,697
+NH,M,1920.0,Michael,81
+ NH ,M,1986.0,James,
+NH,M,1922.0,Alex,9
+NH,F,1916.0,Patricia,73
+NH,M,1996.0,Michael,634
+NH,M,1971.0,Robert,271
+,M,1992.0,James,167
+NH,F,2017.0,mary,120
+NH,M,1918.0, Alex ,63
+NH,M,1986.0,,374
+NH,M,1939.0,taylor,264
+NH,F,1943.0, Casey ,98
+NH,F,1932.0,Linda,73
+NH,F,1966.0,,326
+NH,F,2010.0,Linda,183
+NH,M,2014.0,Taylor,256
+NH,F,1984.0,casey,669
+NH,M,1915.0,Casey,17
+NH,F,1960.0,,675
+NH,M,1945.0,James,278
+ NH ,,1956.0,Alex,630
+NH,F,1944.0,Patricia,101
+NH,F,1953.0,Jennifer,80
+NH,M,1987.0,Jordan,610
+NH,F,1956.0,Jennifer,443
+NH,M,1950.0,Jordan,219
+NH,M,1974.0,Michael,331
+NH,F,1987.0,,655
+NH,F,1942.0,John,6
+NH,M,,Taylor,375
+NH,F,1995.0,Jordan,486
+NH, M ,1948.0,James,244
+ NH ,F,1972.0,Mary,165
+NH,M,1983.0,Alex,205
+NH,M,1968.0,Robert,181
+NH,M,2012.0,Jordan,347
+NH,F,1948.0,Jordan,47
 NH,M,1913.0,Taylor,21
-NH,F,1985.0,alex,97
-NH,,2004.0,Casey,374
-NH, F ,2009.0,Linda,319
-NH,,2016.0,,68
-NH,M,2004.0, Alex ,129
-NH,M,2018.0,John,22
-NH,M,1924.0,Michael,6
-NH,F,2008.0,Jennifer,811
-NH,M,1961.0,Jordan,107
- NH ,M,1952.0,John,160
-NH,M,1989.0,Robert,440
-NH,F,1951.0,Taylor,82
-NH, F ,1966.0,Jordan,671
-NH,F,1994.0,Mary,38
-NH,F,1995.0,Taylor,614
-NH,F,1911.0,Patricia,31
-NH,M,2021.0, Jordan ,602
-NH,M,2020.0,James,280
-NH,M,1955.0,John,271
-,,1981.0,Robert,369
-NH,M,2014.0,,180
-NH,F,1937.0, Jennifer ,353
-NH,F,1929.0, Taylor ,24
-NH,F,1944.0,Linda,343
- NH ,M,1976.0,James,317
-NH,F,1954.0,Mary,146
-NH,F,1985.0, Jordan ,827
-NH,M,1967.0,alex,487
-NH,F,1998.0,Casey,549
-,F,1970.0,Alex,112
-NH,M,1996.0, Casey ,73
-NH,F,2009.0,Jordan,157
-NH,,2000.0,Michael,394
-NH,M,2015.0,Casey,23
-NH,M,1944.0,Taylor,169
-NH,M,1939.0,jordan,75
-NH,F,2017.0,Patricia,38
-,F,2012.0,Casey,430
-NH,M,1995.0,Alex,386
-NH,F,1984.0,Mary,481
-NH,M,2013.0,Alex,
-NH,M,1991.0,Robert,646
-NH,M,1951.0,Robert,129
-NH,F,1943.0,Patricia,122
- NH ,F,2015.0,Jordan,562
-NH,M,1952.0,Alex,184
- NH ,,1958.0,Alex,206
-NH,M,1954.0,John,14
-NH,M,2009.0, Alex ,11
-NH,M,1993.0,Taylor,98
-NH,M,1993.0,Alex,64
-NH,M,1964.0,John,93
-NH,F,1989.0,Jordan,325
-NH,M,1954.0,Casey,91
-NH, F ,1959.0,Mary,585
-NH,F,1966.0, Mary ,201
-NH, M ,1942.0,Jordan,240
-NH,M,1995.0, Casey ,181
-,F,1958.0,Casey,326
-NH,F,1941.0,Mary,163
-NH, F ,1926.0,Alex,7
-NH,F,1950.0,Mary,66
-NH, M ,1995.0,john,321
-NH, F ,2003.0,Mary,11
-NH,M,1939.0,James,34
-NH,M,1971.0,Taylor,423
-NH,M,1973.0,Mary,447
-NH,M,2005.0, Robert ,163
-NH, F ,1929.0,Alex,
-NH,F,1997.0,John,349
-NH,,2018.0,James,11
-NH, M ,1981.0,Michael,352
-NH,F,2008.0,Patricia,17
- NH ,F,1933.0,Casey,37
-NH,M,2005.0,Casey,930
-,,,Patricia,114
-NH,M,1939.0,Michael,245
-NH,M,1965.0,Jordan,88
-NH,M,1928.0,Michael,10
-NH,F,2006.0,Mary,249
-NH,M,1998.0,Robert,18
-NH,M,1999.0,James,20
- NH ,M,2010.0,,
- NH ,M,1965.0,Robert,36
-NH,F,1962.0,Mary,750
-NH,F,1967.0,Jennifer,127
-NH, M ,1985.0,Casey,901
-,F,1912.0,Linda,18
-NH,F,1968.0,Patricia,92
-,M,1994.0,Jordan,453
-NH, M ,1950.0,James,6
-NH,M,1959.0,Alex,288
-NH,,1986.0,Robert,57
-NH,F,1979.0,Jordan,566
-NH,F,1998.0,Linda,
-NH,M,1983.0,Alex,476
-NH,F,1941.0,james,163
-NH,M,1964.0,Michael,111
-NH,,1917.0,Jennifer,5
-NH,F,1925.0,Linda,6
-NH,F,1967.0,Mary,951
-NH,F,1975.0,John,920
-NH,F,1965.0,Mary,280
- NH ,M,2011.0,John,79
-,F,1976.0,James,82
-NH, F ,1987.0,Jordan,450
-NH,F,1997.0,,904
-NH,F,1975.0,Alex,461
-NH,M,1974.0,Taylor,124
-NH,M,1993.0,Robert,143
-NH,M,,Alex,111
-NH,M,1964.0,Casey,306
-NH,M,2010.0,Alex,201
-NH,M,1926.0,Taylor,222
-NH,M,1962.0,James,432
+,F,2010.0,Jennifer,229
+NH,M,,Alex,262
+NH,M,1914.0,Michael,43
+NH,M,1931.0,Robert,11
+NH, M ,2018.0,John,17
+NH,F,1948.0,Mary,252
+NH,F,1988.0,Alex,96
+,F,1963.0,Casey,59
+NH,F,1964.0,Mary,286
+NH,M,1944.0,Casey,16
+NH,M,1985.0,michael,71
+NH,M,2009.0, Michael ,
+NH,F,2019.0,Jennifer,25
+ NH ,M,1946.0,Taylor,494
+NH,M,2006.0,Taylor,527
+NH,F,1917.0,Patricia,34
+ NH ,F,1912.0,Alex,10
+NH,F,2006.0,Alex,392
+NH,M,,,502
+NH,M,1986.0,Mary,1085
+NH,F,1933.0,Robert,54
+NH,M,1981.0,Jordan,146
+NH,M,1927.0,Robert,13
+NH,F,1942.0,Jordan,172
+NH,M,2019.0,James,31
+NH,F,1981.0,Alex,411
+NH, F ,1981.0,Michael,950
+NH, F ,1952.0,Jordan,
+NH,M,1953.0,,344
+,F,1921.0,Casey,37
+NH,M,1961.0, Patricia ,997
+,F,1984.0,Patricia,1008
+NH,F,1994.0, Jordan ,23
+NH, M ,1955.0,Alex,420
+ NH , F ,1996.0,Patricia,450
+NH,F,2014.0,James,239
+NH,M,,john,981
+ NH ,M,1934.0,Alex,20
+NH,M,1973.0,Robert,938
+NH,M,1954.0,Michael,329
+NH,F,1937.0,Jennifer,6
+NH,M,2003.0,Robert,197
+NH,M,1942.0,Michael,
+NH,M,1987.0, Jennifer ,59
+NH,F,2019.0,Linda,384
+NH,M,1957.0,Casey,33
+NH,M,2002.0,John,38
+NH,M,2013.0,James,11
+NH,M,1939.0,John,53
+NH,M,1983.0,James,505
+NH,M,,taylor,82
+NH,M,1978.0,Jennifer,60
+NH,M,1963.0,James,744
+NH,F,1977.0, Mary ,702
+NH,M,1994.0,Mary,451
+NH,F,1982.0, Linda ,351
+NH,M,1928.0,Michael,46
+NH,F,1942.0, Jennifer ,420
+ NH ,M,1975.0,Taylor,892
+NH,M,1912.0,Jordan,12
+,F,1963.0,Linda,49
+NH,F,1965.0,Jennifer,283
+NH, F ,2006.0,Jordan,43
+NH,M,2011.0, Robert ,38
+NH,M,2015.0,John,597
+NH,M,1952.0,james,74
+ NH ,M,1925.0,Casey,
+NH,M,1952.0,John,225
+NH,F,1929.0,Casey,20
+NH,M,1966.0, James ,1066
+NH,M,1948.0, Robert ,375
+NH,F,1942.0,james,124
+NH,F,1959.0,Taylor,211
+ NH ,M,1990.0,James,178
+NH,F,2020.0,Mary,19
+NH,F,2012.0,Patricia,
+ NH ,F,2011.0, Mary ,24
+NH, F ,1989.0,Mary,121
+NH,F,1924.0,Mary,
+ NH ,F,1987.0,Casey,106
+NH,F,,Linda,862
+NH,M,1952.0,Casey,420
+NH,F,1996.0,Jennifer,1248
+NH,F,1966.0,Taylor,719
+ NH ,M,1976.0,,672
+NH,M,2009.0,Casey,27
+NH,F,2004.0,Linda,24
+NH,F,1962.0,Casey,479
+NH,F,1977.0,Patricia,849
+NH,F,1924.0,Casey,48
+NH,,2004.0,Taylor,900
+NH,M,1954.0,,465
+NH,F,,casey,533
+NH,M,1936.0,,226
+NH,M,1990.0,Casey,813
+NH,F,1953.0,Alex,627
+NH,M,1969.0,,798
+NH,F,1972.0,Jennifer,50
+NH, F ,1985.0,Patricia,263
+NH,F,,Mary,62
+NH,F,1934.0,patricia,304
+NH,F,2010.0,Mary,163
+ NH ,M,1972.0,,42
+NH,F,1953.0,Casey,6
+NH,F,1995.0,Casey,64
+NH,F,2016.0,jordan,586
+NH,M,1982.0,Alex,48
+NH,M,2009.0,Robert,99
+NH,F,1915.0,Casey,7
+NH,F,2011.0,Taylor,14
+NH,M,1983.0,John,303
+NH, M ,1989.0,Casey,285
+NH,M,1924.0,Casey,12
+NH,M,1928.0,Taylor,378
+NH,M,1944.0,James,10
+NH,M,2001.0,,74
+NH,F,1955.0, Taylor ,274
+ NH ,F,1934.0,Casey,15
+NH,,1914.0,Jordan,20
+NH,M,1947.0,Patricia,21
+NH,M,1958.0,Jordan,684
+NH,M,1977.0,James,659
+NH,M,2013.0,,130
+ NH ,F,2013.0,Jennifer,427
+,F,1987.0,Jennifer,197
+NH, F ,1967.0,Casey,100
+NH,M,2017.0,Taylor,455
+NH,F,1926.0,Patricia,393
+NH,F,2001.0,Taylor,595
+NH,M,1993.0,Casey,375
+ NH ,F,1941.0,Jennifer,71
+NH,M,1941.0, Jordan ,17
+NH,F,1969.0,Jordan,619
+ NH ,F,1951.0,Alex,931
+NH,M,1947.0,Robert,77
+NH,F,1972.0,Alex,334
+NH,M,1918.0, James ,25
+NH,M,2002.0,jordan,30
+ NH ,M,2011.0, Michael ,555
+NH,F,1947.0,Mary,249
+NH,M,1966.0,Alex,78
+NH,F,1924.0,Alex,17
+NH, F ,1961.0,Casey,1299
+NH,M,1979.0,James,6
+NH,F,1949.0,Jordan,212
+NH,M,1948.0,Casey,38
+NH,F,2018.0, Casey ,289
+NH,,1982.0,Robert,119
+ NH ,F,1960.0,Jennifer,476
+NH,M,1932.0,Jordan,153
+NH,M,1969.0,Taylor,246
+NH,M,2003.0,Casey,359
+NH,,1971.0,Mary,379
+ NH ,F,2020.0,Linda,43
+NH,M,2019.0,Robert,74
+NH,F,1978.0,Patricia,15
+NH,M,2008.0,Patricia,35
+NH,M,1952.0,Jordan,117
+NH,M,2013.0,Casey,10
+NH, M ,1970.0,Patricia,1108
+NH,M,1943.0,Robert,6
+NH,F,1950.0,Robert,56
+ NH ,M,1962.0,Taylor,64
+NH,M,2001.0, John ,63
+NH,F,1975.0,Linda,463
+NH,M,2011.0,Jordan,16
+NH,M,,Linda,933
+NH,F,1925.0,Patricia,45
+NH,M,1997.0,Jordan,277
+NH,F,1982.0,Jordan,689
+NH,F,2005.0,Alex,207
+ NH ,F,2022.0,Linda,
+NH,F,1987.0,,747
+NH,F,2013.0,Mary,47
+NH,F,1925.0, Jennifer ,12
+NH,M,1972.0, James ,422
+NH,F,1910.0,Linda,20
+ NH ,M,2004.0, James ,28
+NH,F,2014.0,Mary,739
+NH,F,1960.0,James,92
+NH,M,1997.0,James,36
+NH,F,1989.0,Patricia,81
+,M,1947.0,James,19
+NH,M,1988.0,John,480
+NH,,2004.0,Jennifer,64
+NH,F,1950.0,,513
+ NH ,F,1985.0,Jordan,734
+NH,M,2016.0,,41
+NH,F,1918.0,Alex,136
+NH,F,2019.0,Mary,13
+ NH ,F,1940.0,Alex,102
+NH,M,1924.0, James ,26
+NH,F,1936.0,Taylor,551
+NH,M,,John,221
+NH,M,1923.0,Alex,48
+NH,F,1957.0, Jennifer ,706
+NH,M,1967.0,Alex,841
+NH,M,1945.0,Alex,55
+NH,M,2002.0,Casey,733
+,F,2017.0,Casey,69
+NH,F,1954.0,,9
+NH,F,1949.0,Jennifer,139
+NH,F,1992.0,mary,40
+NH,F,1964.0,Jennifer,49
+NH, M ,1940.0,Michael,611
+NH,M,1940.0,Casey,5
+ NH ,F,2000.0, Jennifer ,180
+NH,M,1917.0,Casey,9
+, M ,1930.0,Jordan,40
+NH,M,1944.0,Jordan,756
+,F,1958.0,Jordan,69
+NH,F,1952.0,Jennifer,189
+NH,M,1974.0,Taylor,527
+NH,M,1982.0,John,172
+NH,M,1960.0,Casey,269
+ NH ,F,1994.0,Patricia,369
+NH,M,1937.0,Robert,113
+NH,F,1991.0,Jennifer,751
+NH,M,1996.0,John,115
+NH,M,1928.0,Alex,
+ NH ,M,1999.0,John,236
+NH,F,1938.0,Casey,24
+NH,F,1917.0,Mary,124
+ NH ,F,1958.0,Jennifer,40
+NH,F,1980.0,Jordan,204
+NH,M,1956.0,Michael,202
+NH,F,1947.0,,8
+ NH ,M,1978.0,Casey,
+NH,M,1973.0,Alex,216
+NH,M,2020.0,james,19
+, F ,1933.0,Jennifer,14
+ NH , F ,2020.0,Jennifer,13
+NH,,1951.0,Mary,
+NH,F,1918.0,Jordan,6
+NH,M,1966.0,John,10
+NH,F,1933.0,jordan,27
+,M,1918.0,Jordan,5
+NH,M,1984.0,Taylor,325
+NH,M,1996.0,Jordan,767
+NH,M,,Alex,389
+ NH , M ,2006.0,Robert,18
+NH,F,1921.0,Patricia,45
+NH,M,1985.0,Taylor,238
+NH,,1960.0,Alex,429
+NH, F ,1928.0,,422
+NH,M,1937.0,James,238
+NH, F ,1956.0,Linda,
+NH,M,1988.0,James,280
+NH,M,1934.0,Casey,10
+NH,M,1999.0,Jennifer,842
+NH,M,1965.0,Casey,702
+NH, M ,1920.0, Jordan ,58
+ NH ,M,,John,178
+NH,M,1998.0,,17
+NH,F,1935.0,Taylor,424
+NH,F,1928.0,Taylor,111
+NH,M,1943.0,James,24
+ NH ,F,1912.0,Casey,6
+NH,F,2009.0,Jennifer,77
+NH,M,1997.0,Taylor,732
+ NH ,F,2013.0,Casey,78
+NH,M,1991.0,Alex,669
+NH,M,2006.0,Casey,107
+ NH ,M,1933.0,John,409
+NH,M,1933.0,Casey,153
+NH,F,1979.0,Linda,155
+NH,F,1932.0,Mary,50
+NH,F,2003.0,Mary,244
+NH,M,1981.0,James,364
+NH,M,1971.0,James,590
+NH,F,1982.0,Casey,997
+NH,M,1946.0,John,89
+NH,F,2017.0,Jordan,10
+NH,M,1919.0,Taylor,11
+,M,1948.0,alex,146
+NH,M,1912.0,Michael,21
+NH,M,1947.0,Michael,244
+NH,M,1964.0,Robert,
+NH,M,1977.0,Robert,324
+NH,M,1940.0,John,430
+NH, M ,1970.0,Michael,524
+NH,F,1929.0,Patricia,41
+NH,,1999.0,Casey,269
+NH,M,1976.0,casey,534
+NH,F,1940.0,Jordan,669
+NH,M,1983.0,Robert,127
+NH,F,1995.0,Taylor,320
+NH,,1938.0,Casey,208
+NH,F,1956.0,,226
+ NH ,F,1969.0,Alex,508
+NH, F ,1937.0,Casey,83
+NH,F,1955.0,Mary,299
+,M,1970.0,John,107
+NH,M,1932.0,James,150
+NH,F,1960.0,Patricia,54
+ NH ,,1993.0,James,450
+NH,F,2007.0,John,32
+ NH ,M,1999.0,Jordan,183
+NH,F,1963.0, James ,604
+NH,F,1976.0,Casey,487
+NH,M,1978.0,Alex,668
+NH,M,1974.0,Mary,859
+NH,F,2012.0,alex,193
+NH,F,1993.0,Linda,342
+NH,M,1997.0,John,294
+NH,M,1957.0,John,
+NH, M ,1999.0,Taylor,191
+NH,F,1966.0,Linda,809
+,F,1979.0,Jennifer,608
+NH,M,1983.0,Michael,707
+NH,F,1996.0,Linda,581
+ NH , F ,1973.0,Patricia,548
+NH,M,1997.0,Michael,26
+NH,M,1991.0,Taylor,155
+NH,M,1961.0,James,103
+NH,M,,Robert,305
+NH,M,,Linda,439
+NH,M,1941.0,John,23
+NH,F,1964.0,,152
+ NH , M ,1965.0,Alex,406
+NH,F,2016.0,Linda,115
+ NH ,M,1970.0, Casey ,525
+NH,,1938.0,John,
+NH,M,2010.0,John,656
+NH,M,1978.0,Taylor,249
+ NH ,,1966.0,Taylor,47
+NH,F,2005.0,Patricia,28
+NH,F,1989.0,,231
+NH,F,2012.0,Jennifer,208
+NH,M,1956.0,patricia,292
+NH,F,1993.0,Taylor,232
+NH,M,1984.0,Alex,374
+NH, F ,1978.0,Linda,881
+ NH ,M,1928.0,Robert,7
+NH,F,1993.0,Alex,340
+NH, M ,1973.0,Taylor,677
+NH,F,1925.0,Linda,27
+NH,M,1934.0,James,246
+NH,M,1944.0,Michael,247
+ NH ,M,1994.0,John,310
+NH,F,1991.0, Linda ,248
+NH,,1997.0,Alex,244
+NH,M,2014.0,Alex,30
+NH,M,1932.0,Michael,14
+NH,F,2020.0,Jordan,54
+NH,F,2007.0,jordan,11
+ NH ,M,2000.0,Patricia,36
+NH,M,2004.0,Casey,55
+NH,M,1980.0,Taylor,275
+NH,M,1938.0,Michael,7
+NH,F,1945.0,Jennifer,18
+NH,M,2019.0,Robert,74
+NH,M,1924.0,Linda,87
+NH, M ,2018.0,Michael,
+NH,M,1963.0,Mary,187
+NH,M,,,8
+NH,,1953.0,Casey,6
+NH,F,1944.0,Alex,28
+NH,M,2020.0,Robert,67
+NH,M,2020.0,michael,45
+NH,F,,Jordan,
+NH,F,1994.0,Linda,49
+ NH ,F,2009.0,Linda,22
+NH,F,1973.0,Alex,
+ NH ,F,1968.0,Jordan,518
+NH,,,Jordan,893
+,M,1992.0,Robert,65
+NH,M,1969.0,Jordan,252
+NH,F,2007.0,Linda,276
+NH,M,1985.0,,270
+NH,M,2020.0,Casey,603
+ NH ,M,1972.0,Alex,101
+NH,F,2020.0,Taylor,65
+NH,F,1946.0, Jennifer ,725
+NH,M,1993.0,michael,236
+NH, F ,,Jennifer,55
+NH,F,1937.0,Mary,50
+,M,2005.0,Jordan,52
+NH, F ,,Mary,18
+NH, F ,1945.0,Mary,98
+NH,F,1962.0,jordan,421
+NH,M,1974.0,John,99
+NH,M,1988.0,Casey,65
+NH,F,2002.0,Taylor,292
+NH,F,1978.0,Taylor,21
+NH,F,1934.0,Alex,91
+NH,M,1950.0,Alex,106
+NH,F,2016.0, Casey ,283
+NH, M ,1960.0,Taylor,64
+NH,M,1942.0,Casey,9
+NH,F,1973.0,Taylor,
+NH,M,1995.0,John,197
+ NH , M ,1954.0,,459
+NH,M,1999.0,Alex,263
+NH,F,1949.0, Alex ,735
+ NH ,F,1965.0,Casey,288
+NH,M,1942.0,John,7
+NH,F,1965.0,,96
+NH, F ,1914.0,Linda,
+NH,M,1960.0,James,482
+NH, F ,1961.0,Jordan,455
+NH,M,1984.0,James,90
+ NH ,F,1993.0,casey,67
+NH,F,,Linda,315
+NH,M,2001.0,Jordan,393
+NH,M,1931.0,James,43
+NH,F,1929.0,Robert,6
+NH,F,2000.0,Taylor,24
+NH,F,1922.0,Jennifer,
+NH, M ,2008.0,Alex,664
+NH,F,1982.0,Mary,274
+NH, M ,,Taylor,126
+NH,F,1944.0,,103
+NH,F,1934.0,Linda,17
+NH,F,2000.0,Alex,854
+NH,M,1946.0,James,11
+NH, F ,, Linda ,26
+NH,F,1951.0,Patricia,650
+NH,F,1923.0,Casey,45
+NH,M,1941.0,James,5
+NH,F,1996.0,Alex,391
+NH,M,,Taylor,131
+ NH ,F,2007.0,Alex,326
+,F,1967.0, Taylor ,566
+NH,M,1963.0, Michael ,128
+NH,F,1999.0,Linda,345
+NH,F,1986.0,Mary,416
+,M,2010.0,Michael,245
+ NH ,M,1985.0,Casey,192
+NH,F,1928.0,Jennifer,55
+NH,F,1994.0, Casey ,363
+NH,F,1990.0,Casey,365
+ NH ,F,2002.0,Linda,70
+NH,F,1979.0,Mary,1010
+NH,F,2013.0,Michael,703
+NH,F,1988.0,Mary,314
+NH,M,1992.0, Jennifer ,60
+NH,M,1986.0,John,88
+NH,M,1970.0,Jordan,277
+NH,M,1978.0,Michael,274
+NH,,1936.0,Jennifer,7
+NH,F,1969.0,Linda,60
+NH,M,1959.0,Robert,143
+NH,M,2014.0,Jordan,51
+NH,F,2015.0,Jennifer,13
+NH,F,1915.0,Alex,98
+NH,F,1954.0,jordan,8
+NH,F,1993.0,James,24
+NH,F,1990.0,Taylor,513
+NH,M,1934.0,Robert,27
+NH,M,1940.0, Taylor ,117
+NH,F,1961.0,Patricia,675
+, F ,2014.0,Casey,81
+NH,,2017.0,Michael,16
+NH,M,1925.0,Jordan,8
+NH,F,2004.0,Casey,413
+NH,M,,,1119
+NH, F ,1959.0,Casey,68
+NH,M,1926.0,Alex,16
+NH,M,1994.0,Taylor,544
+NH,M,1978.0,Linda,311
+NH,F,1959.0,Linda,67
+NH,M,1946.0,Michael,1299
+ NH ,F,1971.0,Casey,235
+NH,M,2007.0,James,11
+NH,M,1979.0,Alex,713
+NH,F,1998.0, Jennifer ,136
+NH,F,1955.0,,
+NH,M,1950.0,James,546
+NH,M,1956.0,Robert,51
+NH,M,1985.0,Jordan,438
+NH,F,1973.0,Taylor,
+NH,M,,Casey,43
+NH,M,2012.0,,34
+,F,2005.0,,15
+NH,F,1957.0,Jordan,157
+NH,M,2004.0,Robert,302
+NH,F,2018.0,Alex,911
+NH,M,1940.0, James ,158
+NH,F,2004.0,Mary,63
+NH,M,1916.0,Jordan,61
+NH,F,1945.0,Casey,13
+NH,F,1924.0,Jordan,20
+ NH ,F,1925.0,Taylor,12
+NH,,1952.0,Mary,525
+NH,F,1958.0,Mary,18
+ NH , M ,1980.0,Alex,
+NH,M,1963.0,john,160
+NH,F,2015.0,Patricia,340
+,M,1963.0,Jordan,465
+NH,M,1987.0,Linda,532
+NH,M,2007.0,John,46
+NH,F,2013.0,Taylor,38
+NH,F,1946.0,,556
+NH, M ,2008.0,Casey,806
+NH,M,2013.0,john,
+NH, M ,1935.0, Jordan ,270
+NH,M,1972.0,Casey,803
+NH,F,1952.0,Linda,59
+NH,F,1993.0,Alex,340
+NH,M,1991.0,Michael,637
+NH,M,,Alex,692
+NH,,1961.0,Linda,19
+NH,F,1986.0,Alex,26
+NH,F,1956.0,Mary,81
+NH,M,1973.0,John,56
+NH,F,,,53
+NH,F,1998.0,Mary,6
+ NH ,M,1975.0,Casey,1169
+NH,F,1922.0,Casey,144
+NH,F,1944.0,Taylor,374
+NH,M,1967.0,Michael,80
+ NH ,M,1931.0,Jordan,25
+NH,M,,,50
+NH,M,1995.0,John,197
+NH,M,,James,12
+NH,F,1961.0,Alex,457
+NH, M ,,John,453
+NH,F,1937.0,Linda,7
+NH,M,2011.0,John,53
+NH,F,2014.0,Alex,5
+NH,F,1982.0,Taylor,846
+NH,M,1969.0,Michael,356
+ NH ,M,2002.0,Alex,301
+ NH ,F,1969.0,jennifer,120
+NH,M,1983.0,Taylor,532
+NH,M,1996.0,robert,15
+NH,,1955.0,Jordan,590
+NH,,1951.0,Jennifer,64
+NH,F,1923.0,Taylor,74
+NH,,2017.0,Mary,120
+NH,M,2017.0,Jordan,41
+NH,F,1998.0,Taylor,256
+NH,,2001.0,Alex,619
+NH,F,2008.0,Taylor,52
+NH,F,1960.0,Mary,663
+ NH ,F,1950.0,Mary,99
+NH,F,1971.0,Taylor,349
+NH,M,1989.0, Linda ,580
+NH,F,2014.0,Patricia,748
+NH,F,1935.0,Mary,18
+NH,F,2019.0, Jordan ,32
+ NH ,F,1932.0, Patricia ,60
+NH,M,2000.0,Jordan,470
+NH,M,1948.0,Jordan,617
+NH,F,2018.0,Jennifer,11
+ NH ,,,Taylor,240
+NH,F,1967.0,Jennifer,325
+NH,M,1953.0,John,114
+NH,F,,Patricia,27
+,F,1950.0,Alex,
+NH,M,2020.0,Jordan,24
+NH,,1945.0,Casey,11
+NH,M,1945.0,Robert,458
+NH,F,1976.0,Alex,638
+ NH ,M,1965.0,James,818
+NH,F,1924.0,Jennifer,
+NH,M,2001.0, Taylor ,26
+NH,M,1970.0,Robert,306
+NH,M,2013.0, Robert ,274
+NH,F,1950.0,Jordan,51
+NH,M,,Linda,14
+NH,M,1936.0,Jennifer,14
+ NH ,F,1976.0,Patricia,292
+NH,F,2017.0,Patricia,94
+ NH ,M,1910.0,Jordan,64
+NH, F ,1947.0,Jordan,65
+NH,M,1994.0,Casey,48
+NH,M,1919.0,Jordan,9
+NH,F,1957.0,Alex,94
+NH,M,,Alex,382
+NH,F,1988.0,Casey,128
+NH,M,1923.0,Michael,14
+NH,M,1992.0,John,93
+NH,M,1978.0,John,396
+,M,1918.0,Robert,10
+NH,F,1935.0,,118
+NH,F,1975.0,Jordan,366
+ NH ,M,1979.0,Casey,56
+NH,M,2008.0,Michael,136
+NH,M,1962.0,Michael,26
+,F,1971.0,Linda,30
+NH,F,2008.0,Casey,44
+NH,M,1968.0,Taylor,373
+NH,M,,Jordan,74
+NH,M,1996.0,Alex,234
+ NH ,,1977.0,Taylor,942
+NH,M,1967.0,Taylor,133
+NH,F,2013.0,patricia,21
+NH,F,1983.0,Alex,221
+NH,M,1955.0,Taylor,21
+NH,M,2000.0,Michael,25
+NH,F,1927.0,Linda,27
+NH,M,2008.0,,33
+,F,1956.0,Alex,16
+NH,M,1936.0,,15
+NH,F,1937.0,jordan,22
+NH,F,1936.0,,166
+NH,M,1990.0,Jordan,350
+NH,F,2015.0, Alex ,179
+NH,F,1915.0,Taylor,156
+NH,M,2003.0,John,683
+NH, M ,2007.0,alex,36
+NH, F ,1981.0,Taylor,379
+NH,F,1964.0, Taylor ,437
+NH,F,1991.0,Patricia,337
+NH,M,,Jennifer,119
+NH,F,1921.0,,16
+NH, F ,1971.0,Jennifer,37
+NH,F,1933.0,Patricia,409
+NH, M ,1921.0,Casey,173
+NH,F,1999.0,Alex,519
+NH,F,1921.0,James,119
+NH,,1960.0,Michael,454
+ NH ,F,1999.0,Jennifer,37
+NH,F,2016.0,jordan,586
+NH, M ,,James,278
+NH,,1991.0,Mary,324
+NH,F,1919.0, Mary ,15
+,F,1926.0,Alex,54
+NH,M,1947.0, Alex ,191
+NH,F,1992.0,Taylor,162
+NH,M,1981.0,Alex,397
+NH,M,2022.0,Taylor,214
+NH,F,1940.0,Patricia,48
+NH,M,1956.0,Casey,95
+ NH ,F,1922.0,Alex,27
+NH, M ,1987.0,Michael,349
+NH,M,2001.0,,904
+NH,F,1979.0,Patricia,400
+NH,M,1957.0,James,338
+NH,F,1999.0,Mary,184
+NH,F,1974.0,Jordan,664
+NH, M ,1974.0,Casey,102
+NH,F,1943.0,John,118
+NH,,2003.0,Jennifer,589
+NH,F,1992.0,Patricia,93
+NH,F,2016.0,Robert,33
+NH,M,1987.0,Robert,328
+ NH ,M,1912.0,Jennifer,36
+NH,F,1968.0,Alex,803
+NH,M,1986.0,Michael,279
+NH,F,1976.0,mary,84
+NH,F,2020.0,Casey,294
+NH,F,2020.0,Casey,294
+NH,F,1939.0,Casey,302
+,,1975.0,Casey,428
+NH,M,1988.0,Taylor,635
+,F,2007.0,Mary,12
+NH,M,,John,39
+NH, M ,1976.0,Taylor,305
+NH,F,1979.0,Taylor,600
+NH,M,2007.0,Taylor,365
+,F,1968.0,robert,647
+NH,F,1930.0,Jennifer,447
+NH,F,1987.0,Taylor,514
+NH,,1993.0,Jordan,961
+NH, M ,1955.0,Robert,291
+NH,F,1983.0,Taylor,
+NH,F,1957.0,,
+NH, F ,,Jennifer,826
+NH, M ,1981.0,Taylor,460
+NH,F,1915.0,Linda,23
+,M,2007.0,Casey,31
+NH,F,1995.0,Patricia,191
+NH,M,1978.0,Robert,717
+NH,F,1993.0, Mary ,185
+NH,F,2008.0,Taylor,52
+NH,,2006.0,Michael,65
+NH,F,1983.0,Jennifer,505
+NH,M,1964.0,casey,713
+ NH ,F,2000.0,Patricia,448
+NH,M,1940.0,Alex,149
+NH,M,2004.0,Alex,533
+NH,M,1951.0,Robert,33
+NH,M,1920.0,robert,92
+NH,F,2021.0,Patricia,158
+NH,,2018.0, Mary ,218
+NH,F,1967.0,Alex,389
+NH,F,2008.0,Linda,314
+NH,M,2022.0,,68
+NH,F,1987.0,Michael,93
+NH,F,1943.0,Michael,162
+NH, M ,1971.0,Alex,71
+NH,F,1973.0,Jordan,
+NH,F,1957.0,,17
+ NH ,F,1930.0,Casey,106
+ NH ,M,1948.0,Michael,190
+NH,,1999.0,Patricia,58
+NH, M ,1920.0,Alex,63
+NH,M,,jordan,60
+NH, M ,1994.0,James,68
+NH,F,1992.0,,427
+NH,M,1921.0,Michael,8
+NH,M,1955.0,James,405
+NH,F,1971.0,Alex,45
+NH,,1918.0,Patricia,48
+ NH ,M,2015.0,Casey,24
+NH,F,1995.0,Jennifer,741
+NH,M,1932.0,Taylor,13
+NH,F,1944.0,,76
+NH,M,2005.0,John,39
+NH,F,2004.0,Patricia,17
+NH,F,1981.0,Jennifer,80
+NH,M,1955.0,Jordan,436
+NH,M,1990.0,John,534
+NH,,1973.0,Linda,449
+NH,M,1940.0,Robert,161
+NH,F,2008.0,Jennifer,265
+NH,F,1960.0,Alex,393
+NH,F,1937.0,Taylor,195
+NH, M ,1935.0,Taylor,160
+,F,1932.0,Alex,50
+NH,M,2003.0,,493
+NH,,2010.0,James,30
+NH,F,2015.0,Jordan,216
+ NH ,F,1934.0,Mary,77
+ NH ,F,1969.0,Patricia,649
+NH, M ,1995.0,Robert,1020
+NH,M,1914.0,Alex,31
+NH, M ,1973.0,Jordan,20
+NH, F ,,Taylor,15
+NH,M,2015.0,James,130
+NH,F,1917.0,,44
+NH,M,,James,87
+NH,M,1994.0,Jordan,
+NH,F,2021.0,Mary,156
+NH, M ,1954.0, Jennifer ,39
+NH,F,1976.0,Jordan,205
+ NH ,F,1950.0,,20
+NH,F,2022.0,Jennifer,309
+NH,M,1964.0,Mary,1152
+NH,M,2019.0, Casey ,44
+ NH , F ,2014.0,Jordan,27
+NH, F ,2000.0,Mary,85
+NH, M ,1998.0,John,21
+NH,F,1997.0,Jordan,389
+NH, F ,1929.0,Alex,28
+NH,F,1964.0,Patricia,43
+ NH ,M,2001.0,Alex,19
+NH,M,1996.0,Taylor,203
+NH,M,1969.0,James,336
+,M,2014.0,,55
+ NH ,M,1958.0,Alex,473
+NH,M,1987.0, Taylor ,5
+NH,F,1932.0,Taylor,29
+,F,2018.0,Jordan,
+NH,M,1989.0,Taylor,754
+NH,M,1985.0,Taylor,238
+NH,F,1923.0,Alex,18
+NH,M,1942.0,Taylor,17
+NH,M,1936.0,Michael,18
+NH, M ,2020.0, Taylor ,12
+NH,M,1970.0,James,68
+NH,M,1920.0,,12
+ NH ,F,2015.0,Taylor,
+NH,,2001.0,Robert,139
+NH,M,1983.0,Jordan,857
+NH, F ,1939.0,Taylor,27
+ NH ,M,1948.0,John,766
+NH,F,1951.0,Casey,32
+NH,F,1995.0,John,171
+NH, M ,2022.0,Jordan,14
+NH,M,,Michael,497
+NH,M,1958.0,Taylor,293
+NH,M,1952.0,,16
+NH,F,1920.0,Mary,66
+NH,,1921.0,Taylor,30
+NH,F,2017.0,Taylor,122
+NH,F,1924.0,Taylor,14
+NH,F,1915.0,Jordan,14
+NH,F,1920.0,Jordan,28
+NH,M,1976.0,James,231
+NH,F,1989.0,Jordan,404
+NH,M,1981.0,Robert,45
+NH,F,1941.0,mary,
+NH,M,2021.0,Casey,7
+NH,F,1970.0,,288
+NH,M,2010.0,Casey,133
+NH,F,1943.0,Alex,537
+NH,M,2015.0,Michael,46
+NH,M,1954.0,Patricia,933
+NH,F,1953.0,Mary,48
+NH,F,1969.0,taylor,559
+NH,F,1972.0,linda,356
+NH,M,1945.0,Taylor,
+NH,M,1987.0, Alex ,348
+NH,F,1987.0,Jordan,505
+NH,M,1999.0,James,274
+NH,M,1989.0,alex,1011
+NH,M,1999.0,Casey,412
+NH,F,1989.0,Casey,385
+NH,M,1977.0,jordan,166
+NH,F,1949.0,Casey,415
+NH, M ,1954.0,John,508
+NH,F,2021.0,Taylor,159
+NH,F,1943.0,Taylor,438
+NH,F,1935.0,patricia,463
+NH,F,1959.0,Alex,65
+ NH ,M,1980.0,Robert,110
+NH,M,,Mary,102
+NH,F,2012.0,Linda,529
+NH,F,2001.0,Mary,7
+NH,M,1977.0,alex,678
+NH,F,1935.0,Casey,52
+NH,F,2006.0,Mary,12
+ NH ,F,1942.0,Linda,
+NH,M,1967.0,Jordan,33
+NH,F,1989.0,Alex,411
+NH,F,1963.0,Patricia,648
+NH,F,2003.0,Taylor,
+NH,M,1989.0, Robert ,909
+NH,F,1932.0,Jennifer,88
+ NH ,F,1968.0,Linda,1087
+ NH ,M,,Alex,373
+NH,M,2016.0,Jordan,400
+NH,M,1973.0,Michael,460
+NH,M,1977.0,John,29
+NH,M,,Jordan,574
+NH,M,1996.0, James ,56
+NH,M,2010.0,Jordan,243
+NH,F,1973.0,Mary,99
+NH,M,2005.0,Alex,100
+NH,M,1979.0,Michael,151
+NH,M,,John,319
+ NH ,F,1966.0,Casey,412
+NH,F,1980.0,robert,487
+NH,F,1984.0,Jordan,615
+NH,M,,,8
+NH,M,2012.0,Taylor,34
+ NH ,M,2015.0,Alex,588
+,F,1998.0,Casey,105
+NH,F,1928.0,Patricia,695
+,F,1963.0,Alex,471
+NH,F,1921.0,Mary,77
+NH,M,2017.0,,920
+NH,M,1951.0,Alex,267
+NH,M,2008.0,Taylor,
+NH,M,1914.0,Casey,11
+ NH ,F,2022.0,,190
+ NH ,M,2012.0,James,1310
+NH,M,1964.0,Jordan,609
+NH,,2004.0,Jordan,26
+NH,M,1935.0,Alex,433
+NH,F,1938.0,Taylor,52
 NH,M,1913.0,Taylor,21
-NH,,2014.0,Taylor,104
-NH,M,1999.0,Taylor,48
-NH,M,,Jennifer,113
- NH ,M,1945.0, John ,685
- NH ,M,2016.0,James,94
-NH, F ,1959.0,linda,566
-NH,F,1981.0,Taylor,417
- NH ,F,2010.0,Taylor,205
-NH,,1925.0,John,22
-NH, M ,1935.0,Casey,26
- NH , F ,1926.0,Casey,254
-NH, M ,2009.0,Jordan,5
-NH,F,2009.0,taylor,152
-NH,,1973.0,Taylor,808
-NH,F,1929.0,Casey,55
- NH ,M,1919.0,Casey,17
-NH,M,1982.0,John,
-NH,F,2006.0,Jordan,268
-NH,M,1958.0,Robert,22
-NH,M,1998.0,James,441
-NH, F ,2005.0, Patricia ,20
-NH,M,1945.0,jordan,78
-NH,F,1942.0,Linda,6
- NH ,M,1920.0,Casey,145
- NH ,,1923.0,Robert,5
-NH,M,1956.0,Taylor,406
-NH,M,1986.0,Jordan,168
-NH,M,1983.0,Casey,148
-NH,F,1982.0,Casey,348
-NH,M,1912.0,,33
-NH,F,1918.0,Taylor,44
-NH,M,2001.0,Jordan,107
-NH,F,1916.0,Mary,
-NH,F,1973.0,Jennifer,272
-NH,F,2007.0,alex,10
-NH,F,1946.0,Patricia,357
-NH,F,2020.0,Robert,187
-NH,F,1988.0,Jennifer,190
-NH,F,2014.0,Patricia,335
-NH, M ,1985.0,Linda,472
-NH,M,1988.0,Michael,496
-NH,M,1915.0,Michael,26
-NH,F,2014.0,Alex,232
-NH,,1985.0,Patricia,151
-NH,F,1972.0,Patricia,1005
-NH,F,1950.0,Casey,834
-NH, F ,1934.0, Jordan ,56
-NH, M ,2015.0,Alex,173
-NH,M,1965.0, Taylor ,588
-NH,F,1981.0,,311
-NH,,1970.0,James,302
-NH,F,1921.0,Jennifer,26
-NH,F,1974.0, Mary ,652
-NH,F,1983.0,Linda,788
-NH,F,1918.0, Jordan ,16
-NH,F,2018.0,Linda,15
-NH,M,2019.0,Jordan,26
-NH,M,1932.0,Casey,470
-NH,F,1990.0,Jennifer,557
-NH,F,2009.0,Jennifer,38
-NH,F,1969.0,Taylor,
-NH,M,2007.0,Alex,422
-NH,,1973.0,John,733
-NH,M,1927.0,Taylor,117
-NH,F,1965.0,Alex,546
-NH,M,,Robert,244
-NH,F,1989.0,Jennifer,459
-NH,,2015.0,Jordan,15
-,F,,Jennifer,423
-NH,M,2008.0,Casey,20
- NH ,F,1929.0,Linda,
-NH,F,2018.0,Patricia,
-NH,M,2017.0,James,266
-NH,,1987.0,Robert,687
-NH,,1922.0,Alex,6
-NH, F ,1989.0,Patricia,610
-NH,M,1955.0,Michael,557
-NH, F ,1991.0,Alex,292
-NH,F,1952.0,Alex,381
-NH,F,1934.0,Casey,26
-NH,F,1985.0,Taylor,622
-NH,M,2001.0,James,295
- NH ,M,1955.0,Taylor,14
-NH,M,1958.0,James,52
-NH,M,1956.0,James,163
-NH,M,1940.0,James,146
-NH, M ,2003.0,Taylor,83
-NH,M,1985.0,Jordan,1296
-NH,M,1937.0,Jordan,10
-NH,F,1939.0,Linda,314
-NH,M,1966.0,Taylor,327
-NH,M,1984.0,Taylor,
-NH,F,2020.0,Casey,611
- NH ,,1988.0,Patricia,193
-NH,,1963.0,Jennifer,919
-NH,M,1932.0,Taylor,25
-NH,M,2013.0,John,259
-NH,,2020.0,Casey,521
-NH,F,2016.0,Mary,725
-NH,M,2019.0,James,222
-NH,F,1993.0,Alex,316
-NH,M,,Jordan,18
-NH,,1990.0,Robert,249
-NH,M,1958.0,Michael,51
-NH,F,1947.0,Jordan,15
- NH ,M,1968.0,James,37
-NH,F,1985.0,Jennifer,763
-NH,M,1917.0,Michael,10
- NH , F ,1939.0,Casey,294
-,F,1964.0,Patricia,109
-NH,M,1980.0,John,526
-,M,1970.0,Robert,564
-NH,F,1978.0,Taylor,968
-NH,F,1969.0,Mary,24
-NH,F,1933.0,Jennifer,33
- NH ,F,2000.0,Patricia,361
-NH,M,1984.0,James,144
-NH,F,1960.0,Alex,
-NH,F,1941.0,Casey,946
-NH,M,1951.0,James,41
-NH,F,1960.0,Taylor,613
-NH,M,2010.0,Jordan,193
-NH,M,1954.0, Taylor ,495
-NH,M,1946.0,Casey,734
-NH,,2014.0,jordan,219
-NH, F ,1969.0,Casey,264
-NH, M ,1989.0,James,503
-NH,F,1948.0,Alex,5
-NH,F,1935.0,Linda,135
-NH,F,2005.0,Taylor,294
-NH,F,1980.0,Jordan,108
- NH ,M,2005.0,Jordan,292
-, F ,1952.0,Mary,51
-NH,M,2012.0,Taylor,176
-NH,M,1960.0,Robert,34
-NH, F ,1990.0,Alex,126
-NH,F,2008.0,taylor,41
-NH,M,1968.0,robert,7
-NH,M,1994.0,Michael,42
- NH ,,1911.0,Alex,21
-NH,M,1934.0,Robert,459
-NH,F,1943.0,Alex,341
-NH, F ,1933.0,Jordan,21
-NH,F,2005.0,casey,769
-NH,F,1927.0,Casey,157
- NH ,F,1973.0,Patricia,479
-NH,F,,Mary,244
-NH,M,1948.0, Taylor ,582
-NH,F,1993.0,Alex,316
-NH,F,1969.0,Patricia,22
-NH,F,1952.0,Patricia,45
-,F,1971.0,,927
- NH ,M,1912.0,James,128
-NH,F,2019.0,jordan,161
-NH,F,1955.0,Casey,130
-NH,M,1947.0,Jordan,7
-NH,F,1923.0,Alex,
-NH,M,1949.0,James,5
-NH,F,1977.0,Taylor,361
-NH,F,1945.0,Jennifer,648
-NH,M,2008.0,John,186
-NH,F,1996.0,Mary,101
-NH,F,1959.0,Jennifer,177
-NH,M,1967.0,Taylor,75
-NH, F ,1933.0, Alex ,80
-NH,F,1963.0,Mary,237
-NH,M,1982.0,Taylor,333
-NH,F,1973.0,Jordan,370
-NH,F,1950.0,Patricia,
-NH,M,,Robert,6
-NH,F,1954.0,Taylor,7
-NH,F,1996.0,Jordan,801
-NH,F,1987.0,patricia,409
-NH,M,2018.0,Casey,905
-NH, F ,2021.0,Patricia,335
-NH,M,1927.0,Michael,179
-NH,M,1923.0,Casey,13
-NH,F,1976.0,Jordan,64
-NH,F,2012.0,Patricia,106
-NH,F,1984.0,Jordan,235
-NH,M,1932.0,James,50
-NH, M ,1983.0,Jordan,1051
-NH,F,1957.0,Mary,141
- NH , M ,1951.0,,23
- NH , M ,2002.0,Taylor,786
- NH ,F,2011.0,Patricia,5
-NH,F,2003.0,patricia,263
-NH,F,1942.0,Casey,
-NH,M,1928.0,John,61
+NH,F,1969.0, Mary ,556
+NH,F,2009.0,Mary,183
+NH,M,,Mary,223
+NH,M,1944.0,Alex,558
+NH,F,2011.0,Jordan,58
+ NH ,F,,Mary,
+ NH ,M,,Michael,333
+NH,,1931.0,john,16
+NH,F,1984.0,Linda,418
+ NH , M ,1980.0,Alex,
+NH,F,1970.0,Alex,151
+NH, F ,1988.0,Patricia,487
+NH,,1938.0,,126
+NH,,1968.0,Alex,536
+NH,M,1998.0,Jordan,717
+NH,F,2012.0,Mary,149
+NH,,2010.0,James,30
+NH,F,1931.0,Jennifer,10
+NH, M ,1933.0,,8
+NH,F,1990.0,,622
+ NH ,M,1910.0,,29
+NH,F,1952.0,Patricia,895
+NH,F,1955.0,patricia,46
+ NH ,M,2019.0, Jordan ,51
+NH, F ,1963.0,Taylor,418
+,F,1978.0,Mary,149
+NH,M,1910.0,Taylor,39
+NH,M,,Jordan,344
+,,1930.0,Michael,148
+NH,M,1981.0,,858
+NH,M,2004.0,Taylor,323
+NH,F,1970.0,Casey,578
+ NH ,M,1980.0,Casey,44
+NH, F ,1971.0,Jordan,756
+NH,M,1927.0,Patricia,123
+NH,M,1947.0,Jordan,183
+NH,M,1964.0,Alex,181
+NH,M,1992.0,Alex,13
+NH,F,1962.0,Patricia,591
+NH,M,1980.0,John,690
+NH,M,1971.0,John,227
+NH,M,2009.0,Jordan,544
+NH,F,1912.0,Linda,20
+NH,M,1967.0,Robert,169
+NH, M ,,James,74
+NH,M,1994.0,Alex,641
+NH,F,1953.0,Jordan,6
+NH,F,1983.0,Jordan,166
+NH,F,1947.0,Alex,148
+NH,F,1978.0,casey,7
+NH,F,1950.0,Taylor,482
+NH,F,1972.0,Taylor,246
+NH,M,1984.0,Casey,1092
+NH,M,1959.0,John,493
+NH,F,2005.0,Casey,460
+NH,F,1988.0,Taylor,165
+NH, M ,1958.0,Jennifer,209
+NH,M,2018.0,James,20
+NH,M,1992.0,Casey,26
+NH,F,2022.0,Jennifer,309
+NH,F,1997.0,Michael,279
+,M,1950.0,Casey,492
+NH,F,1996.0,Jordan,822
+NH,M,1920.0,Taylor,22
+NH,F,2006.0,Taylor,959
+NH,M,2020.0,Alex,587
+NH,F,1937.0,Alex,
+NH,F,1945.0,Jordan,429
+NH,F,1927.0,Taylor,294
+,F,,Alex,11
+NH,M,1970.0,Alex,780
+NH,F,1943.0,Patricia,661
+NH,F,1948.0,Linda,50
+NH,F,1998.0,Jordan,123
+NH,F,2022.0,Alex,312
+NH,F,1985.0,Casey,629
+,F,1980.0,Mary,161
+NH,M,1974.0,Alex,1499
+NH,F,,Casey,356
+NH,M,2001.0,Jennifer,739
+NH,M,1989.0,James,444
+NH,F,1990.0,Mary,686
+ NH ,F,2010.0,casey,68
+ NH ,F,,Jennifer,116
+,M,1930.0,Alex,72
+NH,F,1991.0,Alex,134
+NH,F,1967.0,Patricia,965
+NH,F,1982.0,Jennifer,228
+NH,F,1941.0,,16
+,,1992.0,casey,548
+NH,F,1975.0,Alex,417
+NH,F,2012.0,Jordan,33
+NH,F,2021.0,,783
+NH,M,1923.0,James,
+NH,F,2009.0,Alex,103
+NH,F,1994.0,Taylor,708
+,M,1926.0,James,193
+NH, M ,1991.0,James,403
+NH,M,1958.0,Casey,444
+NH,M,1943.0,Michael,354
+NH,M,,Robert,597
+NH,F,1976.0,Linda,593
+NH,M,1969.0,Mary,362
+NH,F,2006.0,Linda,79
+NH,M,1986.0,Alex,148
+ NH ,F,1930.0, Patricia ,114
+NH,M,2006.0,James,154
+NH,F,1965.0,Alex,137
+NH,F,1999.0,Taylor,166
+NH,M,1996.0,Linda,161
+,F,2018.0,Taylor,31
+NH,F,1970.0,Jennifer,335
+NH,M,1921.0,James,
+NH,M,2000.0,Casey,
+NH, F ,1985.0, Jennifer ,172
+NH,M,2017.0,,415
+NH,M,1939.0,Jordan,758
+NH,F,1993.0,,426
+NH,F,1985.0,Taylor,220
+NH, M ,1923.0,Taylor,334
+NH,M,2017.0,Robert,16
+NH,M,1940.0, James ,158
+NH,M,1938.0,Jordan,39
+,M,1975.0,Robert,241
+NH,F,1946.0,Jordan,352
+NH,F,1993.0,Patricia,51
+NH,F,1953.0,,312
+NH,M,2022.0,Robert,5
+ NH ,,1941.0,Alex,115
+NH,M,1949.0,,85
+NH,F,1913.0, Jordan ,62
+NH,F,1949.0,Patricia,14
+NH, M ,1951.0,john,233
+NH,M,2012.0,Michael,58
+NH,F,1931.0,Patricia,248
+NH, F ,1941.0,Patricia,154
+NH,M,1982.0,Michael,388
+NH,M,1989.0,,113
+NH, M ,1957.0,Robert,14
+NH,F,2003.0,Alex,
+NH,M,1983.0,Casey,344
+NH,M,2011.0,Casey,105
+NH,,,Alex,5
+NH,M,1953.0,Alex,106
+,M,1957.0,jordan,105
+NH,M,1953.0,Jordan,99
+ NH ,M,2008.0,James,138
+NH,F,,Robert,24
+NH,M,,Michael,584
+NH,M,1991.0,Jordan,605
+NH,,1912.0,Jordan,14
+NH,F,1953.0,Taylor,208
+NH,F,1969.0,michael,155
+NH,M,1937.0,Michael,253
+ NH ,F,2010.0,casey,68
+NH, F ,1923.0,Linda,5
+NH,F,1952.0,,134
+NH, M ,,Taylor,147
+NH, F ,1966.0,Jordan,272
+NH,F,1996.0,mary,335
+NH,F,2022.0,Patricia,11
+NH,F,2002.0,Patricia,47
+NH,M,1994.0,Robert,728
+NH,F,1940.0,Patricia,48
+NH,M,1958.0,james,425
+NH,F,,Linda,323
+NH,M,1998.0,Casey,551
+NH,M,1977.0,Michael,161
+ NH ,F,2007.0,casey,838
+NH,F,,Taylor,45
+NH,M,1981.0,Jennifer,854
+NH,F,1943.0,Linda,338
+NH,,1943.0,Jordan,78
+NH,,1986.0,Patricia,384
+NH,F,1986.0,,812
+NH,F,1945.0,Patricia,111
+NH,M,1966.0,Robert,173
+NH,M,1950.0,Michael,13
+NH,F,1940.0,Casey,613
+ NH ,M,1919.0,Michael,26
+NH,,1986.0,Michael,331
+NH,M,1944.0,Michael,247
+NH,M,1958.0,Michael,
+NH,M,1935.0,Michael,11
+NH,F,2000.0,Linda,58
+NH,F,2001.0,Patricia,620
+NH, F ,2010.0,Jordan,212
+NH,M,1948.0,Jennifer,531
+NH,,1962.0,Alex,545
+NH,,1982.0,Jordan,673
+NH,M,1946.0,,42
+ NH , F ,1959.0,Jennifer,108
+ NH , F ,2008.0,,128
+NH,M,1984.0,Michael,1234
+NH,M,1928.0,,38
+NH,M,1991.0,Robert,108
+NH,F,1964.0,Casey,64
+NH,F,1927.0,Jennifer,184
+NH,M,1975.0,Jordan,292
+NH,F,1977.0,Taylor,319
+NH,M,2003.0,Alex,659
+NH,F,1926.0,Jordan,6
+ NH , F ,,Mary,396
+ NH ,M,2016.0,James,33
+NH,M,1965.0,John,12
+NH,F,2016.0,Patricia,164
+NH,M,1990.0,Robert,248
+ NH ,F,2022.0,Linda,
+NH, M ,1932.0,Alex,50
+NH,F,1971.0,Patricia,294
+NH,M,1982.0,James,58
+NH,M,1967.0,Jordan,33
+ NH ,M,1976.0,,672
+NH,F,2017.0,Jennifer,297
+NH,M,1990.0,Michael,73
+ NH ,M,2021.0,Taylor,229
+NH,M,1960.0,Jordan,299
+NH,F,2005.0,,404
+NH,M,1995.0,James,273
+NH,M,2009.0,Taylor,82
+ NH ,F,1942.0,Casey,655
+NH,F,1964.0,John,230
+NH,F,1917.0,,13
+NH,F,1991.0, Linda ,248
+,,2004.0,John,215
+NH, F ,1954.0,Taylor,172
+ NH ,F,1983.0,James,633
+NH,M,1935.0,Casey,7
+NH,M,1955.0,Michael,299
+NH, F ,2011.0,,19
+NH,M,1975.0,Michael,65
+ NH ,M,1913.0,Michael,5
+NH,F,1939.0, Jordan ,399
+NH,F,1966.0,Jennifer,37
+NH,M,2008.0,Robert,696
+NH, M ,1985.0,,361
+NH,,1993.0,Taylor,11
+NH,F,1910.0, Casey ,5
+NH,M,1963.0,Casey,424
+NH,M,1964.0,Michael,658
+NH,F,1921.0,Jennifer,137
+NH,F,2013.0,Linda,156
+NH,F,1986.0,Jordan,369
+,M,1931.0,Casey,229
+,M,1991.0,John,384
+NH,M,1981.0,,145
+NH,F,1933.0,Taylor,657
+NH,F,1931.0,Alex,
+NH,F,2002.0, Alex ,576
+NH,M,1934.0,Michael,148
+NH,F,2009.0,jordan,318
+NH,F,1988.0,Linda,30
+ NH ,F,1995.0,,91
+NH,M,1961.0,Jordan,328
+NH,M,1932.0, John ,78
+NH,M,1946.0,Alex,88
+NH,M,1951.0,Taylor,88
+NH,,1942.0,Taylor,237
+NH,F,1944.0, Jennifer ,358
+NH,F,1954.0,Mary,186
+NH,F,2002.0,Casey,31
+ NH ,M,1971.0,Michael,802
+NH,M,1956.0,John,
+NH,M,1976.0,Robert,278
+NH,F,1985.0,Alex,105
+NH,F,1977.0,Jordan,233
+NH,F,1976.0,Taylor,673
 NH,F,1994.0,Jennifer,
-NH, M ,2012.0,Alex,363
-NH,F,1963.0,Robert,33
-NH,M,1946.0,Michael,848
-NH,F,1990.0,James,329
-NH,F,2004.0,Mary,195
-NH,F,2005.0,Michael,128
-NH,M,1918.0,Alex,7
-NH,F,1986.0,Linda,356
-NH,F,1992.0,Robert,199
-NH,M,1952.0,Michael,358
-,M,1973.0,alex,344
-NH,M,,Taylor,74
- NH , F ,1938.0,Taylor,159
-NH,M,1989.0,Jordan,83
-NH,F,1958.0,Patricia,
-NH,M,1937.0,james,468
-NH,M,,John,519
-NH,M,1971.0, Casey ,420
- NH ,M,1979.0,James,522
-NH,F,1971.0, Jennifer ,44
-NH,F,1989.0,Alex,844
-NH,M,1919.0,James,73
-NH,F,1956.0, Linda ,234
-NH,F,1946.0,Mary,370
-NH,M,1965.0, Casey ,409
-NH,M,1989.0,Taylor,106
-NH,M,1919.0,Alex,22
-NH,F,1944.0,Alex,942
-NH,M,1938.0,Taylor,5
-,M,2022.0,john,5
-NH,M,2012.0,James,66
- NH , M ,1963.0, Casey ,618
-NH,M,1961.0,Casey,124
-NH,F,1953.0,Casey,138
-NH,M,1931.0,,9
- NH ,F,1929.0,Linda,
-NH,M,1944.0,Alex,228
-NH,F,1958.0,Mary,1006
-NH, F ,2001.0,,518
-NH,M,1911.0,James,8
-NH,F,1982.0,Patricia,270
-NH,M,1995.0,James,451
-NH,M,1924.0,John,68
-NH,M,1975.0,Mary,396
-NH,M,1933.0,Jordan,316
-NH,F,1976.0,Jennifer,370
-NH,F,1946.0,Taylor,81
-NH,M,2003.0,John,717
- NH ,F,2007.0,Mary,43
-NH,F,1969.0,Jennifer,609
-NH,F,1923.0,Linda,6
-NH,M,1992.0,Alex,108
-NH,F,1941.0,Jennifer,91
- NH ,F,1959.0,Casey,362
-NH, F ,1921.0,Patricia,26
-NH,M,1976.0,Alex,129
-NH,M,1941.0,casey,28
-NH,F,1982.0,Jordan,1041
- NH ,F,2006.0,Casey,
- NH ,F,1958.0,Taylor,313
-NH,F,1944.0,Taylor,44
-NH,F,1998.0,Mary,41
-NH,M,1984.0,John,504
-NH,F,1942.0,Casey,
- NH ,F,,Casey,44
-NH,F,1999.0,,556
-NH,M,2010.0, John ,15
-NH,F,1990.0,,130
-NH,M,1975.0, Alex ,98
-NH,F,1988.0,Jordan,173
-NH,F,2012.0,Alex,395
-NH, M ,1984.0,Robert,520
-NH,F,1968.0,Casey,277
-NH,M,1941.0,Jordan,36
-NH,F,1966.0, Patricia ,106
-NH,F,1983.0,Alex,
-NH,F,1944.0,Jennifer,170
-NH,M,1988.0,John,144
-NH,F,2021.0,John,31
-NH,F,1984.0,Linda,460
-NH,M,1994.0,Linda,215
-NH,F,1965.0,Alex,546
-NH,F,2013.0,Patricia,54
-NH,M,1937.0,Casey,234
-NH,M,1965.0,Michael,359
-NH,F,2001.0,Casey,361
-NH,F,2002.0,casey,154
-NH,F,1955.0,Alex,92
-NH, M ,1973.0,Michael,245
+NH,M,,Robert,12
+NH,F,1970.0,Patricia,624
+NH, F ,2016.0,jennifer,773
+NH,F,2011.0,Linda,643
+NH,M,1954.0,Robert,741
+NH,F,1968.0,Taylor,671
+NH,M,,James,846
+NH,F,1963.0,Mary,20
+NH,M,1963.0,Taylor,67
+NH,M,1958.0,Robert,29
+NH, M ,,John,625
+ NH ,F,1949.0,Mary,430
+,M,2016.0,Alex,55
+NH,F,1982.0,,239
+NH,F,1947.0,Casey,44
+NH,M,1987.0, Casey ,67
+NH,M,2016.0,Taylor,11
+NH,F,2006.0,Jennifer,319
+,M,2002.0,James,98
+NH,M,1982.0,Casey,266
+ NH ,M,1974.0,Jordan,97
+NH,M,1996.0,,217
+NH,F,2000.0,Casey,222
+NH,M,1914.0,Michael,43
+ NH ,F,1992.0,Jennifer,1045
+ NH ,F,1986.0,Taylor,206
+NH,M,2012.0,,63
+NH,F,1928.0,Jordan,142
+NH,F,1978.0,Jennifer,239
+NH,M,2006.0,John,50
+NH,M,,Casey,24
+NH,M,1957.0,Michael,171
+NH,M,1943.0,John,16
+NH,F,1945.0,Linda,252
+NH,F,2003.0,Casey,1016
+NH, F ,1967.0,Linda,206
+NH,M,1968.0,Jordan,316
+NH,F,1929.0,Taylor,52
+NH,,,,6
+NH,M,1934.0,Taylor,5
+NH,M,1965.0,Michael,83
+NH,F,1923.0,Patricia,7
+NH,M,2007.0,Jordan,115
+NH,M,1930.0,Robert,359
+NH,M,,Robert,101
+NH,F,1977.0,Casey,192
+NH,F,2017.0,Linda,9
+NH,F,2002.0, Mary ,581
+ NH ,F,1914.0,Casey,14
+ NH ,M,1987.0,James,557
+NH, M ,2014.0,Michael,41
+NH,M,1941.0,Taylor,67
+NH,M,1997.0,Robert,
+NH,M,1999.0,Alex,263
+NH,M,1932.0,,305
+NH,F,1972.0,Patricia,214
+NH,F,2009.0,Patricia,263
+NH,F,2001.0,casey,159
+NH,M,1985.0,john,873
+NH,F,,Jordan,5
+NH,M,2000.0,Alex,158
+NH,F,1967.0,Jordan,229
+NH,M,1956.0,taylor,83
+NH,F,1936.0,Mary,11
+NH, M ,1975.0,Alex,121
+NH, F ,1992.0,Alex,162
+NH,M,1937.0,John,68
+ NH ,M,,Robert,27
+NH,F,1989.0,Taylor,341
+NH,F,1974.0,Linda,38
+NH, M ,1950.0, Robert ,
+,M,1944.0, Taylor ,235
+NH,F,1942.0,Mary,56
+NH,M,1950.0,John,22
+NH,M,1961.0,John,20
+NH,M,1945.0,John,
+NH, F ,,Linda,74
+NH,F,1949.0,John,
+NH,F,1997.0,Patricia,256
+NH, F ,1933.0,Alex,273
+NH,F,1960.0,Casey,1019
+NH, F ,1957.0,mary,56
+ NH ,M,1989.0,Jordan,165
+ NH ,M,2000.0,Robert,447
+NH,M,,John,202
+NH, M ,1946.0,Casey,16
+ NH ,M,1975.0,James,574
+NH,,2019.0, Patricia ,661
+NH,F,2008.0,Patricia,49
+NH,,2017.0,Alex,520
+,M,2013.0,Taylor,
+NH,M,1950.0,Taylor,165
+NH,M,1971.0,Taylor,161
+NH,M,2000.0,Taylor,517
+NH,F,2018.0,Patricia,91
+NH,F,1921.0,Linda,117
+NH, M ,,James,74
+NH,,1940.0,Jordan,621
+NH,M,1993.0,Patricia,845
+NH,,1950.0,casey,329
+NH,F,1999.0,Jordan,292
+NH,M,1929.0,John,184
+NH,F,1991.0,Taylor,38
+NH,F,1955.0,Linda,13
+NH,M,1995.0,Jordan,280
+NH, F ,1936.0,Alex,238
+,M,1944.0,John,559
+NH,M,1930.0,Casey,60
+NH,M,1993.0, John ,394
+NH,F,1991.0,Casey,490
+NH,M,1965.0,Jordan,119
+NH,F,1989.0,Jennifer,276
+NH,M,2021.0,Jordan,312
+NH,,1935.0,Linda,43
+NH,M,2005.0,James,
+NH,F,1949.0,Taylor,
+NH,,2019.0,John,
+NH, F ,1942.0,Patricia,18
+NH,M,1912.0,Casey,14
+NH,M,1913.0,Jordan,36
+NH,F,,Casey,894
+NH, M ,1999.0,Michael,626
+NH,F,1955.0,,
+,M,1948.0,Taylor,20
+NH,F,1938.0,Jennifer,585
+ NH ,,1942.0,James,25
+NH,M,1982.0,Taylor,298
+NH,F,1977.0,Jennifer,94
+NH,M,,James,565
+NH, F ,1977.0,Alex,211
+NH,F,1990.0,Patricia,
+NH,F,1984.0,Taylor,286
+NH,M,1943.0,Taylor,157
+NH,M,1997.0,Casey,538
+NH,M,2005.0,casey,901
+NH,M,1972.0,Jordan,567
+NH,M,2013.0,Alex,358
+NH,F,1961.0,Taylor,477
+NH, F ,1966.0,Alex,41
+NH,F,1972.0,,619
+NH,F,1982.0,Patricia,372
+NH,M,1962.0, Jordan ,
+NH,F,1986.0,James,758
+ NH ,M,2009.0,James,501
+NH,F,1921.0,Alex,13
+NH,F,2005.0,Jordan,10
+ NH ,F,1929.0,Jennifer,28
+ NH ,F,2011.0,Alex,604
+NH, M ,1944.0,Robert,105
+NH,M,1928.0,Casey,33
+NH,M,,Taylor,153
+NH,M,1988.0,michael,66
+NH,M,,James,30
+NH, F ,2009.0,Casey,107
+NH,F,1968.0,Patricia,130
+NH,F,1990.0,Alex,489
+NH,M,2016.0,Casey,55
+NH, F ,1994.0,Mary,249
+NH,M,2021.0, James ,7
+NH,F,2001.0,Linda,716
+NH,F,2008.0,Jordan,37
+NH,M,2010.0,Jordan,243
+NH,F,1981.0,patricia,542
+NH,F,1936.0,Patricia,380
+NH, F ,2022.0,Jordan,6
+NH,F,1970.0,mary,515
+NH, M ,1929.0,Alex,6
+NH,M,1976.0,Alex,723
+NH,M,1928.0,John,
+NH,M,1993.0,Robert,526
+NH,M,2000.0,John,118
+NH,F,1958.0,Linda,129
+NH,M,2021.0,Alex,16
+NH,M,1959.0,Taylor,83
+NH,M,1966.0,Michael,739
+NH,M,1951.0,Casey,8
+NH, F ,1973.0,Casey,197
+NH,F,2005.0,Linda,17
+NH,F,1946.0,patricia,48
+NH,M,,Jordan,73
+NH,M,1962.0,Casey,245
+NH,F,1940.0,Taylor,261
+NH,M,1911.0,Casey,43
+NH,F,1962.0,Mary,423
+NH,F,1997.0,Linda,265
+NH,M,2016.0,Robert,110
+NH,F,1976.0,Jennifer,830
+NH,,1984.0,Robert,325
+NH,F,1979.0,Taylor,600
+ NH ,F,2021.0,Alex,117
+NH,F,1940.0,Mary,110
+ NH ,M,2002.0,Michael,
+NH,F,1980.0,Alex,30
+NH,F,1936.0,linda,20
+NH,F,1974.0,Mary,229
+NH,M,,Casey,16
+NH,F,1998.0,Patricia,134
+ NH ,M,2003.0,Michael,537
+NH,F,2016.0, Taylor ,27
+NH,F,1946.0,Mary,860
+NH, F ,,Jordan,481
+NH,F,1961.0,Mary,222
+NH,F,1939.0,Mary,103
+NH,F,1968.0,Casey,7
+NH, M ,1935.0, Jordan ,270
+NH,M,1956.0,Jordan,622
+NH,F,1977.0,James,64
+NH,F,1997.0,Jennifer,491
+NH,F,1957.0,Casey,69
+ NH ,F,1959.0,Patricia,24
+NH,,1950.0,Jennifer,7
+NH,F,1962.0,Alex,159
+NH,M,,Robert,305
+NH,F,1978.0,Jordan,35
+NH, M ,1960.0,Taylor,64
+NH,F,2013.0,Jordan,190
+,F,2014.0,Linda,33
+ NH ,M,1979.0,Taylor,738
+NH,M,2004.0,Jordan,55
+NH,M,2011.0, Mary ,35
+NH,F,1962.0,Taylor,101
+NH,M,1995.0,Alex,386
+NH,F,1980.0,Taylor,104
+NH,F,1998.0, Alex ,62
+NH, F ,,Jordan,544
+NH,M,1972.0, Taylor ,134
+NH,F,2014.0,Jennifer,60
+NH,F,1979.0,Jordan,113
+NH,M,1922.0,Jordan,47
+ NH ,F,,Alex,275
+,F,1936.0,Jordan,134
+NH,F,1948.0,Jennifer,23
+NH,M,,Jordan,8
+NH,F,1984.0,Alex,574
+NH, F ,1958.0,Patricia,335
+NH,F,1916.0,Taylor,166
+NH,F,1955.0,Jennifer,261
+NH,M,2004.0,Michael,366
+ NH ,F,2009.0,Taylor,
+ NH , M ,1973.0,Casey,499
+,F,1980.0,Linda,485
+ NH ,F,1946.0,Casey,81
+NH,F,1966.0,Mary,240
+NH,F,1977.0,Linda,710
+NH,,1979.0,Alex,301
+NH,M,2021.0,John,15
+,M,1986.0,,753
+NH,F,2016.0,Mary,5
+NH,M,1961.0,Casey,375
+NH,M,2015.0, Jordan ,
+ NH , F ,1983.0,Linda,697
+NH,F,, Taylor ,12
+NH,M,1924.0,Alex,51
+NH,M,2005.0,Michael,849
+NH,F,2004.0,Alex,136
+NH,F,2003.0,,130
+,F,1973.0,Jennifer,294
+NH, M ,1968.0,John,485
+NH,,2013.0,Jordan,120
+NH,M,1962.0,James,7
+NH,M,1993.0,Alex,69
+NH,M,1959.0,,430
+NH,M,1957.0,Alex,232
+,M,1997.0,Alex,214
+ NH ,F,1965.0,Jordan,265
+NH,,1961.0,Taylor,75
+NH,,1974.0,Taylor,129
+NH,M,1962.0,John,
+NH,M,1947.0,Taylor,406
+NH,F,1985.0,mary,325
+NH,M,1936.0,casey,79
+NH,M,1958.0,John,
+NH,F,1953.0,Casey,6
+ NH ,M,1962.0, Robert ,345
+NH,,2000.0,Michael,371
+NH,M,1995.0,Taylor,496
+NH,M,1963.0,Taylor,67
+NH,F,1918.0,Casey,80
+NH, M ,,Robert,
+NH,M,1949.0,Casey,12
+NH,F,1983.0,Mary,432
+NH,M,1995.0,Michael,498
+NH,M,,Patricia,19
+NH,,1960.0,Michael,454
+NH,,2011.0,,30
+NH,,2014.0,James,144
+,M,1944.0, Taylor ,235
+NH,F,1963.0,Robert,68
+NH, M ,1998.0,Alex,613
+NH,M,1942.0,Alex,189
+NH,M,1925.0,,341
+NH, M ,1980.0,James,27
+NH, F ,1937.0,Patricia,116
+NH,F,2007.0,Taylor,150
+NH,F,1954.0,Linda,137
+NH,M,1966.0,Jordan,107
+NH,F,1984.0,Mary,219
+NH,F,1975.0,Patricia,57
+NH, M ,1941.0,Michael,20
+NH,F,1983.0,,261
+NH,M,1969.0,John,492
+ NH ,F,, Jordan ,27
+NH,M,2022.0,,204
+NH, F ,1935.0,Jennifer,20
+NH,F,1970.0,,98
+NH, M ,2014.0,Robert,254
+NH,F,1985.0,linda,142
+NH,M,1970.0,Linda,112
+,F,1975.0,Mary,654
+NH,F,1977.0,Jordan,233
+ NH ,M,1951.0,James,5
+NH,F,1944.0,Linda,8
+NH,M,,Robert,486
+NH,M,1922.0,Robert,19
+NH,F,1987.0,Patricia,464
+, F ,1995.0,Alex,74
+NH,M,1959.0,,441
+NH,F,2021.0,Jordan,
+NH, M ,1949.0,james,9
+ NH ,F,1920.0,linda,8
+NH,M,1988.0,Jordan,551
+NH,F,1937.0,Robert,18
+NH,F,1996.0,Taylor,149
+NH, M ,1957.0,Taylor,41
+NH,M,1995.0,Casey,292
+NH,M,1961.0,Alex,9
+NH,F,1992.0,Jordan,303
+,M,,Robert,14
+NH,F,1979.0, Casey ,287
+NH,F,1969.0,Casey,158
+NH,,2006.0, Patricia ,25
+NH,M,1974.0,Robert,461
+NH, F ,1981.0,Casey,1100
+NH,F,1996.0,Casey,391
+NH,F,2019.0, Jordan ,32
+NH,,2002.0,Jordan,39
+NH,F,1963.0,Jordan,288
+NH, F ,1944.0,Casey,11
+NH,F,1941.0,Jordan,270
+NH,F,1970.0,Linda,812
+NH, F ,1959.0,Mary,104
+NH,M,1924.0,Jordan,122
+NH,M,1938.0,Alex,23
+NH, F ,,Patricia,583
+NH,,1910.0,James,8
+NH,M,1949.0,Michael,633
+NH,M,2005.0,taylor,65
+NH,M,2015.0,Robert,16
+NH,M,1999.0,Robert,342
+ NH ,F,2015.0,John,78
+NH,M,1960.0,Robert,545
+NH,F,1981.0,Mary,141
+NH,,1960.0,Jordan,46
+NH,M,1980.0,Jordan,431
+NH, M ,1959.0,Michael,80
+NH,F,1954.0,patricia,5
+NH,F,1984.0,Jennifer,97
+NH,M,1964.0,John,323
+NH,F,1990.0,Jordan,68
+ NH ,F,1941.0,Linda,19
+ NH ,M,1985.0,Robert,382

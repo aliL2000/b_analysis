@@ -1,1688 +1,1643 @@
-STATE,SEX,YEAR,NAME,COUNT
-GA,F,1998.0,Jordan,345
-GA,F,1950.0,Jordan,281
-GA,M,1934.0,patricia,
- GA ,F,2001.0,Jordan,212
-,F,1978.0,Taylor,329
-GA,F,1968.0,Linda,502
-GA,M,1965.0,Robert,305
-GA,M,1958.0,Alex,186
-GA,M,1929.0,Michael,278
-GA,M,2021.0,Casey,14
-GA,F,2005.0,Casey,336
-GA,F,1930.0,Jordan,21
-GA,,1986.0,jordan,516
-GA,M,1941.0,Jordan,15
-GA,M,2007.0,Alex,810
-GA,F,1958.0,Mary,241
-GA, F ,1939.0,Casey,41
-GA,M,2007.0,Casey,625
-GA,,1993.0,Jordan,292
-GA,M,1986.0,Taylor,129
-GA,M,1959.0,Jordan,323
-GA,M,1947.0,Taylor,9
-GA,M,1929.0,Casey,
-GA,M,1927.0,Michael,9
-GA,M,1919.0,Jordan,106
-GA,M,1943.0,Alex,161
- GA ,M,1983.0,John,49
-GA,F,,casey,57
-GA,F,1967.0,mary,209
-GA,F,2010.0,Robert,8
-GA,M,1946.0,Robert,183
-GA,F,1983.0,Linda,121
- GA ,M,,Taylor,382
-GA,F,2010.0,Casey,267
-GA,,2006.0, Casey ,48
-GA,M,1982.0,Casey,443
-GA,M,1933.0,Michael,44
- GA ,M,1938.0,Casey,483
-GA,F,2021.0,Linda,6
-GA,F,1946.0,Jordan,1241
-GA,F,1952.0,Robert,151
-GA,M,2000.0,John,37
-GA,F,2022.0,Jordan,5
-GA,M,2015.0, Jordan ,11
-GA,M,1980.0, Alex ,205
-GA,M,1981.0,Robert,325
-GA,M,1940.0,James,98
-GA,F,,,113
-GA,M,1946.0,,
- GA ,M,2005.0,Casey,6
-GA,F,1966.0,Casey,91
-GA,F,1973.0,Casey,33
-GA, M ,2001.0,Alex,952
-GA,M,1975.0, Robert ,521
-GA,M,1969.0,Michael,260
-GA,M,1940.0,Alex,15
- GA ,F,1954.0,Alex,321
-GA,F,1977.0,Casey,354
-GA,F,2008.0,Taylor,1179
-GA, F ,1988.0,Alex,196
-GA,M,1996.0,John,89
-GA,F,1990.0,Alex,63
-GA,M,1986.0,Alex,155
-GA,F,2009.0,Linda,22
-GA,M,1975.0,Jordan,837
-GA,F,1973.0,Jordan,149
-GA,,1964.0,Mary,611
-GA,F,1966.0,Jennifer,
- GA ,F,1992.0,Linda,53
-GA,F,2019.0,Casey,12
-GA,F,1955.0,Jordan,576
-GA,M,1971.0,James,481
-GA,F,1958.0,Patricia,161
-GA, F ,1993.0,,437
- GA ,F,2007.0,Linda,224
-GA,M,2015.0,John,
-GA,F,1993.0,Jennifer,873
-GA,F,1933.0,jennifer,312
-GA,M,1961.0,Alex,109
-, F ,1977.0,Jennifer,178
-GA,M,1946.0,Alex,63
-GA,F,1966.0,Mary,739
-GA,M,2017.0,Jennifer,552
-GA,M,1930.0,James,170
-GA, M ,1981.0,Jordan,37
-GA,F,1969.0,Jordan,549
-GA,F,1970.0,Patricia,881
- GA ,M,2001.0,Casey,
- GA ,F,2008.0,Mary,484
-GA,F,1924.0,Linda,36
-GA,F,1971.0,Jennifer,133
- GA ,,2003.0,John,166
-GA,F,1956.0,Linda,43
-GA,M,1926.0,,45
-GA,M,1946.0,Casey,150
-GA,F,1999.0,Taylor,664
-GA,M,1946.0,Jordan,20
-GA,F,1961.0,Patricia,38
-GA,F,1951.0,Jordan,42
-GA,F,1975.0,,447
-GA,M,1958.0,Robert,50
-GA,F,1966.0,Jordan,154
-GA,F,1962.0,Jordan,100
- GA ,F,1914.0,Linda,14
-GA,M,1998.0,James,40
-GA,F,1936.0,Jennifer,66
-GA,F,2018.0,,24
-GA,,1974.0,Jordan,
-GA,F,2010.0,Linda,484
-GA, F ,2021.0,,5
- GA ,F,1934.0,Jordan,35
-GA,,2014.0,Robert,82
- GA ,M,2012.0,Robert,108
-GA,F,1918.0,Taylor,64
- GA ,M,2014.0,James,9
-GA,F,2001.0,Robert,77
- GA ,M,1958.0,John,38
-GA,,1925.0, Robert ,41
-GA,M,1975.0,Michael,210
-GA,F,2015.0,John,34
-GA,F,1995.0,patricia,321
-GA,M,,John,99
-GA, M ,1948.0,John,240
-GA,F,1970.0,Jennifer,175
-GA,F,1937.0,Casey,385
-GA, M ,1962.0,Linda,255
-GA,M,,Alex,432
-GA, F ,1982.0,Casey,257
-GA,F,1943.0,Patricia,86
-GA,F,2000.0,Patricia,294
- GA ,F,1997.0,Taylor,238
- GA ,M,1955.0,John,334
-GA,M,1951.0,Jordan,15
-GA,M,1923.0,Alex,58
-GA, F ,1932.0,,11
-GA,F,2012.0,Patricia,29
-GA,M,1946.0,John,678
-GA,M,2000.0,Robert,133
-GA,M,2013.0,Casey,7
- GA ,M,1999.0,John,33
-GA,M,1963.0,Robert,263
-GA,M,1997.0,Taylor,1191
-GA,F,1960.0,casey,42
-GA,F,2010.0,Jennifer,981
-GA,M,1976.0,Robert,362
- GA ,F,1976.0,linda,388
- GA ,F,1986.0, Mary ,61
-GA,M,2021.0,,900
-GA,M,1923.0,Taylor,88
-GA,F,2016.0,Casey,12
-GA,M,1999.0,,1358
-,M,2009.0,Jordan,8
-GA,F,1970.0,,106
-GA,M,1945.0,Robert,5
-GA,M,1998.0, Alex ,478
- GA ,F,1923.0,Patricia,113
- GA ,M,1934.0,Michael,25
-,F,1956.0,Casey,617
-GA,M,2015.0,Michael,170
-GA,M,1992.0,Alex,140
-GA,F,1955.0,Mary,145
-GA,F,1936.0, Alex ,5
-,F,1989.0,Linda,493
-GA,F,1997.0,Casey,101
-GA,F,1984.0,Jennifer,239
-GA,,1930.0,Michael,32
-GA,M,1955.0,Michael,142
-GA,F,1959.0,Taylor,42
-GA,M,1948.0,jordan,39
-GA,M,1957.0, Robert ,18
-GA,F,1957.0,Casey,134
-GA,M,1995.0, Robert ,577
-GA,,1971.0,casey,151
+state,sex,year,name,count
+GA, M ,1913.0,Patricia,111
+GA,M,1972.0,casey,383
+GA,M,2018.0,Alex,234
+GA,M,1954.0,Taylor,794
+GA,M,2003.0,James,386
+,M,2002.0,John,84
+GA,M,1930.0,Robert,114
+GA,M,1972.0, Taylor ,618
+GA,M,2021.0,John,24
+GA, M ,1966.0,Alex,294
+GA,F,1960.0,Jennifer,253
+ GA ,F,1963.0,Linda,741
+GA, F ,1961.0,Mary,160
+GA,M,2008.0,Jordan,36
+ GA ,F,1932.0, Casey ,37
+GA, M ,1953.0,Casey,14
+GA,F,2014.0,Mary,7
+GA,F,1978.0, Patricia ,335
+GA, F ,1965.0,Alex,87
+ GA ,,2019.0,jordan,39
+GA,F,1982.0,Taylor,1131
+ GA ,F,1967.0,james,306
+,M,1955.0,Alex,26
+GA, F ,1941.0, Taylor ,11
+GA,M,1943.0,Robert,1003
+GA,M,2006.0,taylor,
+GA,M,1967.0,James,433
+GA,F,1927.0,Linda,5
+GA,M,1983.0,Robert,52
+GA,M,1993.0,Michael,279
+GA,M,2013.0,Robert,
+,M,1978.0,Michael,24
+GA,F,,Taylor,232
+GA,M,2010.0,Jordan,296
+GA,F,,Mary,267
+GA,F,1998.0,Casey,885
+ GA ,F,1940.0,Jennifer,47
+GA,M,2014.0,Robert,49
+GA, F ,,casey,17
+GA, F ,1926.0,Taylor,266
+GA,M,1923.0,James,21
+GA,,1952.0,Jordan,155
+GA,M,1971.0,Robert,294
+GA,,1992.0,Linda,14
+GA,M,1939.0,Taylor,98
+GA,M,1978.0, James ,501
+GA,M,1953.0,Taylor,54
+GA,M,1991.0,John,384
+GA,M,,Alex,76
+GA, F ,1991.0,Taylor,284
+GA,M,1980.0,Taylor,388
+GA,F,1985.0,,678
+GA,M,1992.0,Michael,947
+GA,M,1987.0, John ,71
+GA,,1988.0,Michael,818
+GA,M,1976.0,Casey,485
+GA,F,1941.0,Mary,178
+GA,F,1984.0,Mary,718
+GA,M,1999.0,James,332
+GA,F,1969.0,Linda,
+GA, M ,1985.0,John,476
+GA,M,1999.0,Casey,167
+GA,M,1927.0,,13
+,M,1938.0,Alex,250
+GA,F,2007.0, Robert ,478
+GA,F,1939.0,Jordan,61
+GA,F,2007.0,Patricia,30
+GA,F,2013.0,Mary,
+ GA ,,1918.0,Taylor,53
+GA,F,1967.0,Mary,493
+ GA ,M,2001.0,taylor,6
+ GA ,F,1934.0,Robert,11
+GA,F,1931.0,Jennifer,19
+GA,M,1946.0,Taylor,297
+ GA ,M,1945.0,jordan,59
+,F,1936.0,linda,5
+ GA ,M,1974.0,Mary,369
+GA,M,2011.0,,5
+GA,M,1978.0,Taylor,24
+ GA , F ,1989.0,Taylor,543
+GA,F,1928.0,Jordan,175
+GA,F,1919.0,Jordan,141
+GA,M,2009.0,Jordan,175
+GA, F ,1944.0,Alex,76
+ GA , F ,1942.0,Mary,54
+GA,M,1943.0,James,30
+GA,M,1977.0,,225
+GA,F,1952.0,Taylor,575
+GA,,1981.0,Jennifer,
+ GA ,F,1939.0,Mary,70
+GA, F ,1944.0,Patricia,39
+GA,F,1966.0,John,641
+,F,1930.0,Patricia,77
+GA, F ,1998.0,Mary,229
+GA,M,1960.0,Casey,426
+GA,F,1996.0,Jennifer,601
+GA,M,, Jordan ,250
+GA,F,1926.0,Jordan,165
+ GA ,F,,Patricia,517
+,F,1956.0,Alex,352
+GA,M,1979.0,Michael,189
+GA,F,1992.0,,950
+GA,,1956.0,Robert,
+GA,F,1969.0,Alex,275
+GA,F,1958.0,Taylor,8
+GA, F ,1913.0,Patricia,25
+GA,F,2013.0,Patricia,14
+GA,M,1970.0,Michael,400
+GA,M,2017.0, James ,175
+GA,,1982.0,Taylor,1025
+GA,F,2004.0,Jennifer,81
+GA,M,1978.0,Jordan,745
+GA,F,,Linda,1063
+GA,M,1915.0,robert,13
+GA,F,1998.0,Taylor,15
+ GA ,F,1948.0,Casey,27
+GA,M,1951.0, Jordan ,58
+GA,M,1953.0,,27
+GA,M,2012.0,,66
+ GA , F ,1935.0,casey,225
+GA,F,1920.0,Patricia,77
+,F,1921.0, Mary ,85
+GA,M,, Alex ,32
+GA, M ,1977.0,Michael,56
+GA,F,2010.0,Jennifer,229
+GA,F,1957.0,Linda,102
+GA,M,1960.0,John,824
+GA,M,2018.0,John,6
+GA,M,1943.0,Jordan,380
+GA,M,,Patricia,112
+GA,M,2000.0,Taylor,523
+GA,F,,,120
+GA,F,1949.0,Linda,204
+GA,M,1951.0,Alex,235
+ GA ,M,1964.0, Michael ,185
+GA,M,2012.0,Michael,69
+GA,M,2018.0,Taylor,329
+GA,M,1992.0,Alex,102
+GA,F,1970.0,Mary,706
+GA,F,1954.0,Jennifer,18
+GA,M,2001.0,John,55
+GA,M,1955.0,Casey,75
+GA,F,1990.0,Linda,101
+GA,F,1970.0,Casey,368
+GA,F,2006.0,Casey,816
+GA,M,1996.0,Taylor,423
+,,1943.0,Patricia,6
+GA,F,2003.0,Jordan,43
+GA,M,1944.0,Casey,7
+GA,M,1991.0,Alex,499
+ GA ,F,2012.0,Patricia,5
+GA,M,1925.0,Robert,122
+GA,F,2002.0,John,
+GA,F,1965.0,Casey,173
+GA,M,1916.0,Casey,120
+GA, M ,1942.0,Michael,7
+GA,F,1982.0,Linda,145
+GA,M,1929.0,Michael,11
+GA,M,1924.0,Jordan,129
+GA,F,1988.0,Patricia,1155
+GA,F,2011.0,Casey,73
+GA,M,2003.0,Jennifer,268
+GA,M,1929.0,Casey,6
+GA,M,1957.0,Taylor,178
+GA,M,1987.0,Robert,472
+GA,F,2022.0,Mary,43
+GA,M,1979.0,Alex,85
+GA,M,1950.0,Alex,408
+GA,F,2010.0,Alex,12
+GA,F,1934.0,Alex,110
+GA,M,1962.0,Jordan,32
+GA,M,1999.0,Alex,102
+GA,F,1996.0,Jordan,50
+GA,F,1910.0,Jennifer,91
+GA,F,1986.0,Jordan,242
+GA, M ,1986.0,Jordan,602
+GA,F,1967.0,Casey,265
+ GA ,F,1985.0, Patricia ,749
+GA,M,1965.0,john,258
+GA,F,1970.0,Patricia,709
+GA,,,alex,19
+GA,F,1995.0,Mary,1015
+GA,M,2017.0,Casey,91
+GA,M,1982.0,James,581
+GA,F,1994.0,Patricia,104
+GA,M,1952.0,John,129
+GA,M,1952.0,Alex,41
+GA,F,1946.0,Alex,18
+GA,M,2017.0, John ,112
+GA,F,2008.0,Mary,306
+GA,M,1972.0,Alex,171
+GA,M,2021.0,Patricia,283
+GA,M,2006.0,jordan,615
+ GA ,M,2004.0, Taylor ,5
+GA,M,1933.0,Alex,70
+GA, M ,1922.0,Robert,13
+GA,M,1948.0,Taylor,24
+GA,M,1932.0,James,239
+ GA ,M,1939.0,Robert,237
+GA,M,1987.0,Jordan,231
+GA,M,1955.0,Michael,8
+GA, M ,1965.0,Taylor,25
+GA,F,1954.0,linda,24
+GA,M,1943.0,John,73
+GA,F,2007.0,Jordan,11
+GA,M,1939.0,Alex,34
+,M,1997.0,Jordan,41
+GA,F,1949.0,Jordan,16
+GA,M,1977.0,Casey,324
+GA,M,1971.0,,276
+ GA ,F,2020.0,Taylor,632
+GA,F,,Alex,193
+GA,F,1960.0,Taylor,85
+GA,F,,Alex,
+GA,M,1922.0,Michael,6
+GA, F ,1990.0,,509
+,F,1932.0,Alex,16
+GA, F ,,Taylor,46
+GA,,1963.0,John,463
+GA,F,1920.0,Jordan,26
+GA,F,1979.0,Taylor,401
+GA,F,1942.0,Jordan,101
+GA,M,1970.0,Alex,246
+GA,F,2017.0,Mary,22
+GA,F,1999.0,Casey,734
+GA,M,2016.0,Michael,175
+GA,M,1986.0,Mary,201
+GA,F,2013.0,Alex,7
+GA,F,1955.0,Jordan,20
+ GA ,M,1995.0,Jordan,407
+GA,M,1947.0,Casey,33
+,M,1956.0,Michael,33
+GA,F,1983.0,Taylor,42
+GA,M,1962.0,Michael,480
+,F,1954.0,Patricia,36
+GA,M,1957.0,James,731
+GA,M,2013.0,John,20
+GA,M,1986.0,James,365
+GA,F,1968.0,Linda,259
+,M,1998.0,James,351
+GA, M ,1921.0,Michael,187
+GA,F,1977.0,Linda,803
+GA,M,1949.0,Jordan,189
+GA,M,1936.0,James,
+GA,M,1991.0,Jordan,68
+GA,F,1964.0,Patricia,381
+GA,M,1914.0,Alex,5
+GA,F,1993.0,Alex,1206
+GA,F,1959.0,Jordan,123
+GA,M,1968.0,Mary,28
+ GA ,F,1987.0,Robert,45
+GA,F,1997.0,Jennifer,71
+GA, F ,1955.0,Patricia,146
+GA,M,1965.0,Michael,163
+,M,1996.0,John,101
+GA,M,,John,280
+GA,M,2020.0,James,84
+GA, M ,1979.0,Jordan,451
+GA,F,,Alex,
+GA,F,1988.0,Mary,1130
+GA,M,1969.0,Jordan,82
+GA,F,1949.0,Mary,86
+GA,F,1961.0, Alex ,400
+GA,M,2008.0,Alex,205
+GA,F,2014.0,Taylor,811
+GA,F,2001.0,Mary,50
+GA,M,1990.0,Casey,338
+GA,F,2003.0,Linda,44
+GA,,1952.0,Casey,210
+GA,F,1911.0,Jennifer,5
+GA,F,1942.0,Jennifer,80
+GA,F,2020.0,Casey,43
+GA,F,1961.0,Patricia,127
+GA,M,1994.0,Michael,58
+GA,F,1961.0,Linda,181
+GA,M,1982.0,Jordan,44
+GA,M,1938.0,Taylor,8
+GA,M,1999.0,Taylor,29
+GA,M,2012.0,Casey,6
+GA,F,,Jordan,13
+ GA ,M,1990.0,Taylor,36
+GA,M,1947.0,alex,34
+GA,M,1952.0,Robert,19
+GA,F,1981.0,Alex,967
+GA, M ,1957.0,John,93
+GA,F,1973.0,Jordan,271
+GA,F,1968.0, Mary ,51
+GA,M,1997.0,James,96
+ GA ,F,1972.0,jordan,59
+GA,F,1991.0,Casey,203
+GA,F,1966.0,Jordan,119
+GA,M,1950.0,Robert,348
+,F,1964.0,Robert,219
+GA,M,1923.0,Jordan,222
+ GA ,M,1954.0, James ,43
+GA,F,1937.0,Jordan,163
+GA,M,2016.0,James,231
+GA,,1967.0,Linda,74
+GA,M,1987.0,Michael,102
+GA,M,1936.0,John,5
+GA,F,1958.0,Robert,481
+,M,1940.0,James,104
+GA,M,1936.0,Jordan,107
+GA,F,1973.0,Linda,702
+GA,F,1914.0,Alex,5
+GA,F,1970.0,Taylor,734
+GA,M,2011.0,Taylor,291
+ GA ,M,1933.0,John,88
+GA,M,1946.0,Robert,202
+GA,F,1993.0,Taylor,547
+GA,M,2009.0,Robert,187
+GA,M,1965.0,Alex,287
+GA,M,1935.0,John,499
+GA, F ,1987.0,Mary,609
+GA,M,2002.0,Alex,92
+GA,F,1996.0,Linda,353
+GA,F,1948.0,Taylor,303
+GA,F,2018.0,Alex,
+GA, M ,1987.0,James,91
+GA, F ,1928.0, Casey ,5
+GA,F,2016.0,Jordan,38
+GA,M,1967.0,John,262
+GA,M,1949.0,James,173
+GA,F,1967.0,Alex,118
+GA,F,2005.0,Linda,1258
+GA, M ,2000.0,Jordan,109
+GA, F ,1921.0,Patricia,
+GA,M,1938.0,Jordan,27
+ GA ,M,1957.0,Robert,
+ GA ,M,1947.0,John,
+GA,F,1978.0,Taylor,89
+GA,F,2011.0,Linda,7
+ GA ,F,2022.0,Alex,32
+GA,M,2013.0,James,668
+GA,F,1970.0,Linda,20
+GA,F,1963.0,Taylor,65
+GA, M ,1973.0,Casey,292
+GA,F,2005.0,Casey,57
+GA,M,2004.0,James,
+GA,M,2007.0,Taylor,234
+GA,M,1927.0,Taylor,
+,M,1978.0,Alex,112
+GA,F,1964.0,linda,29
+GA,F,1990.0,Jennifer,316
+GA,F,1943.0,Taylor,10
+GA,M,1992.0,Casey,244
+GA, F ,2004.0,Mary,120
+GA,F,1948.0,Mary,215
+GA,,1956.0,Taylor,225
+GA,F,1982.0,Patricia,262
+GA,M,1946.0,Jordan,177
+GA,M,1986.0,alex,314
+, M ,1988.0,John,208
+GA,M,1968.0,Jordan,51
+GA,F,1931.0,Jordan,307
+ GA ,M,1937.0,John,
+GA,F,1986.0,Casey,56
+GA,M,1947.0,Michael,20
+GA,M,1961.0,Alex,707
+GA,M,2015.0, Mary ,791
+ GA , F ,2002.0,James,227
+ GA ,F,1958.0, Jennifer ,244
+GA, F ,1989.0,Jordan,149
+GA,F,1995.0,Alex,112
+ GA ,F,1954.0, Taylor ,475
+GA,M,2016.0,Jordan,6
+GA,M,,taylor,525
+ GA ,F,1944.0,Jennifer,13
+GA,F,,Jennifer,107
+,F,1975.0,Jordan,413
+GA,M,1994.0,Mary,219
+GA, F ,2008.0,Jennifer,643
+GA,M,1918.0,Alex,5
+GA,M,2000.0,James,70
+GA,F,1915.0,Linda,79
+GA,F,1956.0,Linda,10
+GA,F,1971.0,Casey,522
+GA,M,2012.0,Taylor,229
+GA,F,1994.0,Patricia,104
+GA,M,1967.0,Casey,108
+GA,F,1966.0,Taylor,402
+,F,1981.0,Mary,591
+GA,F,1920.0,Linda,5
+GA,M,2003.0, Michael ,678
+GA,F,1939.0,,146
+GA,M,1938.0,Robert,252
+GA,M,1945.0,Robert,265
+GA,F,1943.0,,94
+GA,M,1972.0,Robert,470
+GA,M,1915.0,Alex,21
+GA, M ,1986.0,Linda,128
+GA,F,1940.0,Mary,326
+GA,F,1948.0,Jordan,104
+GA, F ,1945.0,Jordan,
+GA,M,2008.0,James,274
+GA,M,1985.0,Michael,173
+GA,M,1975.0,Alex,211
+GA,F,,Casey,96
+ GA ,F,1977.0,Taylor,146
+GA,M,1937.0,Michael,143
+ GA ,M,2002.0,James,1176
+GA,F,1995.0,Patricia,20
+GA,M,1939.0,Jordan,461
+ GA ,F,,Taylor,167
+GA,F,,Jennifer,787
+ GA ,M,1929.0,James,8
+ GA ,F,1979.0,Alex,1062
+GA,M,1997.0,Taylor,70
+GA, M ,1973.0,John,496
+ GA ,F,2011.0,Taylor,95
+,F,1928.0,Linda,
+,F,2021.0,Mary,19
+GA,F,1943.0,Mary,67
+GA, M ,1974.0,John,28
+ GA ,M,1999.0,Jordan,51
+GA,F,1965.0,Jordan,69
+GA,M,1967.0,Taylor,88
+GA,M,2008.0,Casey,41
+GA,F,1994.0,Linda,231
+GA,F,,Taylor,108
+GA,M,1977.0,Alex,11
+GA,M,2004.0,Alex,615
+GA,F,1975.0,Casey,1015
+GA,M,1998.0,casey,133
+GA,M,2019.0,John,403
+GA,M,1968.0,John,248
+GA,F,1949.0,Alex,574
+ GA ,M,1960.0,James,992
+GA,M,1993.0,Robert,80
+GA,M,,john,376
+GA,F,1972.0,Taylor,1029
+GA,F,1952.0,Linda,214
+GA,F,,jordan,934
+GA,F,1927.0,Jordan,132
+GA,M,,John,82
+GA,F,1944.0,Taylor,6
+GA,M,1971.0,alex,162
+,M,2020.0, Taylor ,37
+GA,M,1993.0,Casey,185
+GA,,1946.0,Mary,56
+GA,M,1963.0,Robert,11
+GA,F,1961.0,Jordan,49
+GA,M,1981.0,James,296
+GA,F,1992.0,Patricia,216
+GA,F,1991.0,Alex,8
+GA,F,1976.0,Patricia,865
+GA,M,1989.0, Robert ,
+GA,F,1974.0,Taylor,152
+ GA ,F,1986.0,Alex,315
+GA,M,1947.0,James,211
+ GA ,F,1936.0,Casey,19
+ GA , F ,1958.0,Mary,153
+GA, F ,,Jennifer,40
+GA,F,1946.0,Taylor,6
+GA,M,1955.0,Jordan,283
+GA,M,1998.0,Michael,729
+GA,M,1974.0,Jordan,126
+GA,M,1948.0,John,226
+GA,M,1949.0,Michael,543
+GA,M,2006.0,John,112
+ GA ,,1962.0,John,63
+GA,F,1936.0,Alex,88
+GA,M,1982.0,Casey,228
+GA,,1997.0,Casey,686
+,F,1945.0,Taylor,42
+,F,2009.0,Mary,48
+GA,F,1993.0,Mary,588
+ GA , F ,1946.0,Michael,30
+GA,M,2002.0,Casey,139
+GA,M,1962.0,Robert,283
+GA,M,1980.0,Michael,
+GA,F,1941.0,alex,190
+GA,F,1948.0,Linda,26
+ GA ,F,1964.0,,34
+GA,F,1962.0,Mary,30
+,F,2020.0, Patricia ,25
+GA,M,,Linda,451
+GA,M,1974.0,,266
+GA,M,1943.0,Alex,15
+ GA ,F,1991.0,Mary,382
+, M ,1921.0,Alex,31
+ GA ,F,1973.0,Jennifer,77
+GA,M,1915.0,John,18
+GA,F,2001.0,Taylor,954
+ GA ,F,1937.0,Mary,33
+GA, M ,1982.0,Michael,711
+GA,F,1977.0,Patricia,388
+GA,M,2018.0,Casey,29
+GA,F,2007.0,Alex,284
+GA,,1981.0,Casey,27
+GA,F,2011.0,Jordan,81
+GA,,1979.0,Robert,87
+GA,M,1920.0,Robert,29
+GA,F,2001.0,Jennifer,154
+GA,F,1984.0,Linda,244
+GA,M,2010.0,Alex,411
+GA,F,1981.0,Jordan,245
+ GA ,M,1974.0,Michael,717
+GA,F,1951.0,Casey,
+GA,M,1954.0,Casey,302
+GA,F,1973.0,Patricia,206
+GA,F,1937.0,Alex,
+GA,F,1960.0,Jordan,91
+GA,M,1958.0,Michael,570
+GA,F,,Alex,628
+GA,F,2010.0,Linda,17
+GA,F,2020.0,Alex,
+GA,M,1963.0,Jordan,491
+GA,F,1946.0,Linda,12
+GA,F,1977.0,Jordan,677
+GA,F,1921.0,Linda,6
+GA,F,1962.0,Alex,126
+GA,M,1976.0,Jordan,795
+GA,F,1954.0, Casey ,1264
+GA,M,1950.0,James,
+GA,F,1922.0,Casey,73
+GA,,1997.0,Robert,117
+GA,F,1975.0,Taylor,483
+ GA ,F,1966.0,Linda,115
+GA,M,1959.0,Taylor,214
+GA, M ,2017.0,Robert,14
+ GA ,F,1999.0,Jordan,809
+GA,M,1959.0,Jordan,25
+GA, M ,,Robert,118
+GA,F,1950.0,Jordan,
+GA, F ,1938.0,Patricia,160
+GA,M,1935.0,Robert,9
+GA,F,1930.0,Mary,39
+GA,F,2007.0,,438
+GA, F ,1974.0,Patricia,145
+GA,F,1965.0,Patricia,72
+GA,F,2018.0,Michael,173
+GA,F,1945.0,John,7
+ GA ,F,2009.0,James,506
+GA,F,2021.0,Casey,16
+GA,M,1945.0,Taylor,30
+GA,F,1983.0,Casey,474
+, F ,1972.0,Patricia,46
+GA,M,1957.0,Alex,1073
+ GA ,F,2014.0,Patricia,13
+GA,M,1994.0,Casey,748
+GA,F,1951.0,Jennifer,20
+GA,M,1938.0,James,24
+GA,M,2003.0,Jordan,552
+GA,F,1986.0,Mary,359
+GA,M,1988.0,Casey,512
+ GA ,M,2016.0,Casey,74
+GA, F ,1956.0,Patricia,17
+GA, M ,2005.0,Casey,348
+GA,,2017.0,Taylor,7
+GA,F,1925.0,Patricia,5
+GA,F,2000.0,Casey,138
+GA,,1948.0,Robert,66
+GA,F,1958.0,Jordan,135
+GA,F,1964.0,Alex,311
+ GA ,,,Robert,201
+GA,,1949.0,Taylor,109
+GA,F,2003.0,,74
+GA,M,1992.0,Jordan,954
+GA,F,2003.0, Mary ,81
+GA,M,1969.0,Michael,222
+,M,1942.0,Taylor,252
+GA,M,2016.0,Mary,483
+GA,M,1992.0,Robert,162
+GA,F,1970.0,jennifer,355
+ GA ,M,1981.0,Alex,91
+GA,M,1995.0,Casey,110
+GA, F ,1957.0,Patricia,74
+GA,M,1968.0,Taylor,1223
+GA,F,1928.0,Jennifer,7
+GA, F ,2005.0,Jennifer,305
+GA,F,1966.0,patricia,127
+GA,M,1950.0,Michael,
+GA,F,1923.0,Jordan,58
+GA,M,1980.0,,156
+GA,,,Casey,140
+GA,M,1994.0,,395
+GA,F,2021.0,Patricia,78
+GA,M,1978.0,Mary,141
+GA,M,1945.0,James,79
+GA,F,1945.0, Linda ,
+GA,F,1947.0, Casey ,8
+GA,M,1999.0,Linda,410
+GA,M,1968.0,James,208
+GA,F,2009.0,Jordan,519
+ GA ,M,1984.0,Mary,596
+GA,M,2021.0,Jordan,
+GA,F,1978.0,Jordan,647
+GA,F,1944.0,Casey,6
+GA,M,1975.0,Michael,
+GA,M,1996.0,,100
+GA,M,2022.0,Michael,109
+ GA ,F,1967.0,james,306
+GA,,1939.0,Mary,605
+GA,M,1913.0,Casey,26
+GA,M,2008.0,,48
+GA,M,1988.0,Michael,874
+GA,M,1983.0,Jordan,137
+GA,F,1996.0,Alex,286
+GA,M,1936.0,Michael,52
+,M,1974.0,Taylor,499
+GA,F,1959.0,john,881
+GA,M,1969.0,Alex,754
+GA,M,,Michael,11
+GA,M,2005.0,James,536
+GA,F,2002.0,,199
+GA,F,1918.0,,45
+GA,M,1964.0,James,825
+ GA ,M,2008.0,Michael,52
+GA,M,2011.0,Jordan,196
+GA,F,1977.0,Casey,20
+GA,M,1946.0,Michael,36
+GA,,1998.0,Jordan,70
+,F,1956.0,casey,12
+GA,F,1990.0,Jordan,212
+, M ,1958.0,Casey,996
+,F,1913.0,Alex,37
+GA,F,2013.0,Casey,16
+GA,M,2002.0,,91
+GA,M,1932.0,Taylor,7
+ GA ,M,2004.0, Taylor ,5
+,F,1992.0,jordan,32
+GA,F,1960.0, Casey ,124
+GA,,1990.0,Alex,42
+,M,, Michael ,314
+GA,F,1930.0,Jennifer,228
+,M,1968.0,Michael,165
+ GA ,M,1984.0,Mary,596
+GA,,1923.0, Linda ,
+GA,F,1974.0,Alex,243
+GA,F,1987.0,Jordan,158
+GA,F,2006.0,Patricia,5
+ GA , F ,1965.0,jennifer,475
+GA,F,1957.0,Casey,74
+GA,F,1982.0,Jordan,721
+GA,F,2022.0,Taylor,139
+GA,F,1975.0,Patricia,352
+GA,F,1987.0,patricia,217
+GA, M ,1926.0,James,7
+GA,F,1930.0,taylor,180
+GA, F ,2004.0,Casey,675
+GA,M,1976.0,,1190
+GA, M ,1972.0,,155
+ GA , F ,1986.0,Jennifer,246
+GA,F,1984.0,Alex,605
+GA,F,1941.0, Jordan ,22
+GA,M,2019.0,,407
+GA,F,1974.0,Linda,855
+GA,F,1929.0,Patricia,131
+GA, F ,2017.0,,
+GA,F,2002.0,Jordan,7
+,M,1948.0,Jordan,5
+GA, F ,1971.0,Jennifer,445
+GA,F,1947.0,Linda,543
+GA,F,1936.0,jennifer,193
+GA,M,1914.0,Taylor,15
+GA,M,1951.0, Jordan ,58
+GA,M,1951.0,Robert,11
+GA,F,1963.0,Alex,18
+GA,F,,Alex,63
+GA,M,1929.0,Robert,604
+GA,M,2021.0, Michael ,78
+GA,F,1926.0,Casey,8
+GA,F,1958.0,Casey,
+ GA ,M,1931.0,Taylor,12
+GA,M,1969.0,Taylor,83
+GA,M,,Robert,76
+GA,M,1994.0, Jordan ,659
+GA,F,1987.0,Casey,171
+ GA , F ,1994.0,Jennifer,427
+GA,M,1964.0,John,186
+GA,M,1919.0,Alex,132
+ GA ,F,1999.0,,37
+GA,F,1935.0,Linda,33
+ GA ,F,1999.0,Mary,32
+GA,F,2000.0,Linda,521
+ GA ,M,1971.0,James,32
+GA, F ,2022.0,Patricia,14
+GA,F,1972.0,Casey,374
+GA,F,2020.0,Mary,14
+GA,M,2013.0,Alex,211
+GA,F,2018.0,casey,74
+GA,M,1970.0,James,428
+GA, M ,1993.0,Taylor,46
+GA,F,2009.0,Patricia,130
+GA,F,1953.0,Jordan,8
+GA,M,2005.0,,12
+GA,F,1933.0,Alex,77
+GA,M,2004.0,Michael,483
+ GA ,M,1926.0,Robert,40
+,F,2005.0,Alex,591
+GA, M ,1956.0,James,105
+GA,M,1983.0,Taylor,1013
+ GA ,F,1966.0,Mary,641
+GA,M,1993.0,Alex,174
+GA,M,1983.0,James,24
+GA,M,1983.0,Alex,109
+GA,F,1961.0,Casey,50
+GA,M,1973.0,Linda,51
+GA,M,1995.0,Michael,361
+GA,F,2000.0,Taylor,101
+GA,M,1944.0,jordan,42
+GA,M,1943.0,Taylor,64
+GA,F,2007.0,Taylor,392
+GA,M,2020.0,John,15
+GA,M,2017.0,Taylor,231
+GA, M ,1940.0,Taylor,17
+GA,F,,patricia,322
+GA,F,2018.0,Mary,
+, F ,1981.0,Taylor,367
+GA,F,1942.0,taylor,105
+GA,F,1961.0,Taylor,124
+GA,,1950.0,Taylor,23
+ GA , F ,1942.0,Mary,54
+GA,M,1992.0,Linda,238
+GA,M,2007.0, Robert ,68
+GA,M,1930.0,Taylor,447
+GA,F,1969.0,Patricia,529
+GA,,1932.0,,394
+GA,M,1919.0,Michael,72
+GA,M,1991.0,Casey,833
+GA,M,1976.0,Michael,297
+GA,F,1956.0,Jennifer,138
+GA,M,1960.0,Jordan,471
+GA,F,1997.0,Alex,602
+GA,M,2013.0,Taylor,61
+GA,F,1930.0,Alex,55
+GA,M,2014.0,alex,31
+, M ,1958.0,Casey,996
+GA, F ,1957.0,Patricia,74
+GA,F,2003.0, Mary ,81
+GA,M,1959.0,Patricia,311
+GA,F,1940.0,Patricia,183
+GA,F,1953.0,Jennifer,165
+GA,M,1941.0,Michael,11
+GA,M,,John,87
+,F,1969.0,Jordan,460
+GA,,1944.0,Taylor,132
+ GA ,F,1916.0,linda,16
+GA, M ,1986.0,Robert,192
+GA,F,1997.0,Linda,171
+GA,F,2003.0, James ,147
+GA,M,1925.0,James,20
+GA,F,1976.0,Jennifer,584
+GA,M,1937.0, Taylor ,456
+GA,M,,Michael,20
+GA,F,1931.0,Casey,
+GA,M,1934.0,Alex,51
+GA,F,1947.0,Patricia,101
+GA, M ,1949.0,Casey,97
+GA,F,1932.0,Jordan,49
+GA,M,2000.0,Robert,205
+GA,M,2001.0,James,18
+GA,M,2004.0,Jordan,71
+GA,F,1915.0,Mary,12
+ GA ,M,1978.0,Robert,467
+,M,1931.0,Robert,39
+GA,M,1917.0,Casey,33
+GA,F,1998.0,Linda,1067
+ GA ,M,1995.0,Taylor,14
+GA,F,1977.0,Jennifer,743
+GA,M,1961.0,Robert,158
+GA, M ,1986.0,John,458
+,F,1925.0,Taylor,418
+GA,F,1931.0,Patricia,29
+ GA ,F,1990.0,Mary,454
+GA,F,1966.0,Casey,599
+GA,M,1933.0,Taylor,82
+GA,M,1938.0,Michael,29
+GA,M,1952.0,michael,9
+GA,F,1932.0,John,42
 GA,F,1939.0,Alex,25
-GA,F,1923.0,Linda,17
-GA,F,,Casey,511
-GA,F,1997.0,Linda,276
- GA ,M,1977.0, Jordan ,209
-GA,M,1951.0,Taylor,47
-GA,M,1940.0,Michael,55
-GA,F,1978.0,Linda,202
-GA,M,1968.0,Taylor,188
-GA,M,1952.0,,911
-GA,F,1920.0,,89
-GA,M,1957.0,Casey,23
- GA ,F,1957.0,Alex,782
- GA ,M,1924.0,Casey,5
- GA ,F,1937.0,Linda,5
-GA,M,2011.0,John,100
-GA, F ,2005.0, Mary ,45
-GA,,1971.0,Michael,493
-GA,F,,Alex,5
-,M,1997.0,James,127
-GA,F,1987.0,Mary,35
-GA,F,1935.0,Casey,10
-GA,F,1974.0,Jordan,211
-GA,F,2002.0,Jennifer,9
-GA,M,1990.0,James,193
-GA,M,1993.0,James,196
-GA,M,1970.0,Taylor,365
-GA,F,1963.0,Taylor,143
-GA,F,1946.0,Casey,48
-GA,M,1980.0,john,145
-GA,M,2013.0,michael,45
-GA,F,1950.0,Casey,19
-GA,,1975.0, Casey ,271
-GA,M,1953.0,Robert,27
-GA,F,1920.0,Mary,70
-GA,M,1927.0,John,7
-GA,F,1981.0,Jordan,295
-GA,,1928.0,Robert,90
-GA,,1919.0, Linda ,61
-GA,F,,Jennifer,6
-GA, M ,2022.0,Alex,589
-GA,F,2007.0, Alex ,14
-GA,M,1951.0,Patricia,480
-GA,F,2017.0,Casey,117
-GA,M,2003.0,Robert,
-GA,F,1978.0,,279
-GA,,1983.0,Patricia,540
- GA ,F,1967.0,Taylor,708
-GA,M,1994.0,James,
-GA,M,1951.0,Alex,85
-GA,,1918.0,Alex,18
-GA,M,1938.0,Taylor,19
-GA,F,2006.0,Taylor,
- GA ,M,1949.0,,301
-GA,F,,Taylor,34
- GA ,,2011.0,Alex,264
-GA,F,1942.0,Jennifer,5
-GA,M,1963.0,James,130
-GA,F,2012.0,Jennifer,5
-GA,F,1915.0,Mary,17
-GA,F,1991.0,Patricia,
-GA,M,1987.0,Robert,
-GA,F,1948.0,jennifer,241
-GA,F,1980.0,Casey,727
-GA,M,1970.0,Taylor,365
-GA,M,,Alex,28
-GA,F,2005.0,Jordan,
-GA,F,1935.0,Mary,98
-GA,F,1986.0,Taylor,407
-GA,M,1935.0,Alex,25
-GA, M ,1911.0,Jordan,77
-GA,F,,Taylor,542
-GA,M,1989.0,,122
-GA,F,2018.0,Jordan,99
-GA,M,1999.0,James,32
-GA,F,2014.0,Jordan,323
- GA ,,1947.0,Alex,
-GA,F,1949.0,Patricia,120
-GA,F,1991.0,Alex,463
-GA,M,1991.0,Casey,321
-GA,M,1952.0,James,7
-GA,F,1972.0,Jordan,348
-GA,M,1974.0,Taylor,182
-GA,F,2015.0,Alex,150
-GA,F,1964.0,Alex,72
-GA, F ,2019.0,Jennifer,19
-,M,2010.0,Michael,51
-GA,M,2000.0,Mary,6
-GA,M,1991.0,John,87
- GA ,F,1968.0,Jennifer,136
-GA,M,1958.0,Jennifer,608
-GA,M,1996.0,Alex,454
-GA,F,1963.0,Alex,440
-GA,F,2016.0,Patricia,51
- GA ,F,1964.0,Patricia,8
-GA,F,1957.0,Mary,39
-GA,,1992.0,James,40
-GA,F,1914.0, Mary ,7
-GA,M,2011.0,Taylor,39
-GA,F,1992.0,Taylor,189
-GA,F,1943.0,Jordan,391
-GA,M,1920.0,Jordan,165
-GA,M,2010.0,John,551
-GA,F,1922.0,,19
-GA,F,2005.0,patricia,38
-GA,F,1986.0,Linda,192
-GA,M,,Jordan,645
-GA,M,2014.0,,244
-GA,M,1964.0,John,783
-GA,M,1948.0,Alex,253
-GA,F,1985.0,Casey,412
-GA,M,2015.0,Robert,
-GA,M,1974.0,James,260
-GA,F,1976.0,Casey,17
-GA,M,2003.0,Taylor,698
-GA,F,1977.0,Jordan,532
-GA, M ,, Michael ,388
-GA,F,1970.0,Casey,
-GA,M,1968.0,James,421
-GA,F,2010.0,,138
-,M,,James,258
- GA ,F,1996.0,Mary,376
-GA,M,,Taylor,229
-GA,F,1990.0,Jennifer,54
-GA,M,1914.0,James,18
- GA ,,1962.0,Jennifer,10
-GA,,1939.0,Jordan,33
-,M,1971.0,John,249
- GA ,F,1967.0,Casey,1094
-GA,F,,Linda,715
-GA,M,1949.0,Casey,371
-GA,F,1937.0,Patricia,78
-GA,M,1981.0,Alex,432
-GA,M,,john,129
-GA,M,1956.0,Alex,177
-GA,F,1983.0,Jordan,614
-GA,F,1974.0,Mary,
-GA,F,2018.0, Patricia ,13
-GA,,1962.0,James,70
-GA, M ,1995.0,Alex,523
-GA,F,1931.0,Jennifer,68
-GA,F,1941.0,Jordan,33
-GA,M,1976.0, Casey ,73
- GA ,F,1974.0,Patricia,401
-GA,F,2014.0,,10
-GA,,1967.0, Robert ,82
-GA,,1967.0,Patricia,166
-GA,M,,James,89
-GA,F,1988.0,Taylor,147
-GA,M,1915.0,,19
- GA , M ,,Alex,310
-GA,,1931.0,alex,5
-GA,M,2009.0,James,11
-GA,F,1920.0,Jennifer,93
-GA,M,1933.0,Alex,71
-GA,,1947.0,Mary,21
-GA,M,1930.0,Robert,13
-GA,F,1984.0,Casey,54
-GA, F ,,Linda,674
-GA,F,2019.0,Linda,10
-GA,F,1971.0,Patricia,107
-GA,M,1916.0,Jordan,22
-GA,M,1942.0,Alex,
-GA,F,1932.0,Taylor,278
-GA,F,2013.0,Taylor,966
-GA,F,1983.0,Mary,465
-GA,M,,Jordan,257
-GA, F ,1977.0,Alex,722
-GA,F,2015.0,James,463
-GA,M,2010.0,Taylor,382
-GA,F,2004.0,Alex,800
-GA,F,1967.0,Jennifer,92
-GA,F,1948.0,Taylor,541
-GA,F,2001.0,Linda,42
-GA,M,1955.0,Taylor,88
-GA,M,1943.0,Michael,22
-GA,F,1923.0,Alex,166
-GA,F,2016.0,Michael,8
-,M,1974.0,Robert,227
-GA,M,1993.0,,514
-GA,F,1953.0,Casey,196
-GA,M,1974.0,Michael,864
- GA ,M,2004.0,,36
-GA,F,,Patricia,36
-GA,M,1954.0,Jordan,24
-GA,F,2013.0,Jennifer,43
-GA,M,1967.0,Michael,620
-GA, M ,1947.0,James,38
-GA,F,1956.0,Jordan,62
-GA,F,1934.0,Casey,412
-GA,F,1938.0,Linda,
-GA,F,1968.0,Patricia,250
-GA,F,2004.0,Robert,442
-GA,,1952.0,Jennifer,411
- GA , M ,,Alex,325
-,M,1944.0,Jordan,165
- GA ,F,1986.0,John,
-GA,F,2007.0,Patricia,260
-GA,,,Mary,881
-GA,M,1919.0,Jennifer,34
-GA,F,,Linda,19
-GA,F,1932.0,Mary,
-GA,F,1999.0,Casey,213
-GA,,1917.0,Alex,78
-GA,F,2016.0,Jennifer,114
-GA,F,2019.0, Taylor ,118
- GA ,,1928.0,Robert,67
-GA,M,1948.0,Casey,261
-GA,M,1990.0,Jordan,239
-GA,F,1978.0,Casey,
-,M,1996.0,Taylor,57
-GA,M,1963.0,Alex,54
-GA,F,1962.0,Linda,84
-GA,,1987.0,Casey,363
-GA,F,1923.0,Mary,35
-GA,M,1962.0,Mary,272
-GA,M,1998.0,Jordan,738
-GA,F,1979.0,Mary,520
-GA,F,1944.0,Mary,251
- GA ,M,1952.0,Jordan,44
-GA,M,1958.0,Robert,50
-GA,F,2015.0,Mary,35
-GA,M,1954.0,James,19
-GA, F ,1998.0,Patricia,1153
-GA, F ,1933.0,Mary,203
- GA ,F,1930.0,John,207
-GA,M,1954.0,Casey,43
-GA, M ,1927.0,James,20
-GA,M,1997.0,Jordan,18
-GA,M,1938.0,jordan,45
-GA,M,1977.0,John,
-GA,F,1928.0,Jennifer,34
-GA,F,1989.0,Jordan,417
-GA, F ,1914.0,Alex,9
-GA,M,1957.0, Michael ,19
-GA,M,1940.0,Linda,63
-GA,M,, Robert ,22
-GA,M,1991.0,James,300
-GA,M,2017.0,James,
-GA,M,1931.0,Alex,33
- GA ,F,1985.0,Alex,801
- GA ,F,2017.0,Linda,30
-GA, M ,1934.0,James,298
-GA,M,1955.0,Robert,874
-GA,F,1977.0,Patricia,544
-GA,F,1971.0,Taylor,288
-GA,F,1979.0,Taylor,173
-GA,M,1961.0,James,108
-GA,M,1999.0,Taylor,90
-GA,,2008.0,Michael,45
-GA,M,1944.0,John,14
-GA,F,1973.0,Linda,334
-GA,F,1989.0,Robert,159
-GA,F,1962.0,,710
-GA,M,2006.0, Jordan ,248
-GA,,1911.0,Alex,38
-GA,M,2006.0,Alex,
-GA,M,1950.0,James,109
-GA,M,2001.0,Robert,25
-GA,F,1941.0,Jennifer,102
-GA,F,1999.0,Taylor,664
-GA,F,1938.0,Jordan,5
-GA,F,1931.0,Robert,246
-GA,M,1939.0,Jordan,9
-GA, M ,,Robert,451
-GA,M,1937.0,,19
-GA,F,2022.0,Jennifer,15
-GA, M ,1993.0, Casey ,40
-GA,F,,Linda,256
-GA,F,1921.0,Jordan,65
-GA,F,1966.0,Patricia,79
-GA,F,1938.0,Taylor,89
-GA,F,1970.0,Linda,498
-GA, M ,1993.0, Casey ,40
- GA ,M,1937.0,Michael,236
-GA,F,1996.0,Patricia,1124
-GA,M,,Alex,150
-GA,M,1979.0,John,790
-GA,M,1945.0,Casey,13
-GA,F,1995.0,Mary,29
-GA,M,1975.0,Taylor,204
-GA,F,1918.0,Patricia,36
-GA,F,2009.0,Alex,536
-GA,F,1982.0,Taylor,10
-GA,M,1955.0,Casey,55
-GA,F,1940.0, Jordan ,118
-GA,F,1984.0,Jordan,99
-GA,M,1992.0,James,867
-GA, M ,2010.0,Linda,310
-GA,M,2007.0,Robert,897
- GA ,F,1981.0,Mary,34
-GA,F,1996.0,Alex,321
-GA,M,1920.0,John,34
- GA ,M,1941.0,,11
-GA,F,1974.0,Taylor,231
-GA,M,1982.0,Jordan,734
-GA,F,,Alex,39
- GA ,M,2021.0,Robert,28
-GA,F,1991.0,Robert,340
-GA,F,1927.0,Casey,112
-GA,F,1917.0,Taylor,27
-GA,M,1912.0,,32
-GA,M,1952.0,Taylor,35
-GA,F,2014.0,Casey,8
- GA ,F,1935.0,Alex,169
-GA, F ,2000.0,Mary,866
-GA,F,2017.0,Taylor,189
-GA,M,1966.0,Patricia,375
-GA,M,1953.0, John ,239
-GA,M,1945.0,John,79
-GA, M ,2004.0,Robert,849
-GA,M,2011.0,Michael,38
-GA,,1974.0,Alex,347
-GA,M,2010.0,Alex,231
-GA,F,1942.0,Casey,309
-GA,M,1999.0,Jordan,49
-GA,F,,Patricia,
-GA,M,1967.0,Jordan,590
- GA , M ,,Alex,310
-GA,F,1931.0,Jordan,46
-GA,M,1960.0,John,315
- GA , F ,1985.0,James,270
-GA,M,2006.0,James,311
- GA ,M,1996.0,Michael,592
-GA,M,1950.0,Robert,222
-GA,F,1959.0,Alex,325
-GA,M,2020.0,Robert,83
-GA,F,,Patricia,15
- GA ,F,2006.0,Jordan,478
-GA,M,1956.0,Casey,863
-GA,M,1925.0,John,14
-GA,M,1954.0,James,19
-GA, F ,2008.0,Jordan,162
-GA,M,1965.0,James,14
-GA,M,1911.0,Robert,5
-GA,M,1910.0,Taylor,55
- GA ,M,1988.0,Casey,556
-GA,F,1950.0,,254
- GA ,F,1941.0,Linda,39
- GA ,F,1961.0,Linda,74
- GA ,M,1992.0,Casey,28
-GA, M ,2009.0,,378
-GA,,1942.0, Robert ,439
-GA,M,1955.0,Jennifer,50
-GA,F,1944.0,Jennifer,364
- GA ,M,1968.0,Casey,474
- GA ,,1972.0,Patricia,190
-GA,F,1970.0,Taylor,195
-GA,M,2009.0,Alex,201
-GA,F,2020.0,Alex,9
-GA,M,2009.0,Taylor,10
-GA,F,1973.0,Jennifer,173
-GA,F,1994.0,Patricia,196
-GA,F,1990.0,Patricia,168
- GA ,F,1963.0,Jennifer,285
-GA,M,1982.0,Robert,285
-GA,F,2002.0,,102
-GA,F,1958.0,Linda,755
-GA,F,1951.0,Linda,67
-GA,F,2021.0,Alex,149
- GA ,F,1945.0,Jordan,19
-GA,F,2015.0,Linda,172
-GA,M,1979.0,Casey,575
-GA,F,1947.0, Jennifer ,33
-GA,F,1989.0,Alex,210
-GA,M,1988.0,,87
-,F,1971.0,Linda,
-GA,M,1965.0,John,1268
-GA,F,1991.0,Jennifer,261
-,F,1953.0,Taylor,51
-GA,,1992.0,Jordan,309
-GA,M,1952.0,John,11
-,M,,Michael,29
- GA ,,1931.0,Casey,19
-GA,,2010.0,jordan,499
- GA ,M,2002.0,Michael,
-GA,M,1964.0,Jordan,508
-GA,M,1985.0,James,812
-GA,M,2003.0,Alex,447
- GA ,M,1940.0,John,44
- GA ,M,1977.0,Casey,58
-GA,F,1991.0,Robert,340
-GA,M,1929.0,Alex,39
-GA,F,1959.0, Linda ,44
-GA,M,1951.0,Michael,488
- GA ,F,1942.0,Linda,59
-GA,M,1925.0,Robert,251
-GA,F,2021.0,Patricia,6
-GA,F,1950.0,Taylor,76
-GA,F,2005.0,Alex,70
- GA ,M,1929.0,John,5
- GA ,,1990.0,Alex,
-GA,,2020.0,Jordan,639
-GA,M,1977.0,James,181
- GA ,F,1920.0, Linda ,11
-GA,M,1990.0,Casey,637
-GA,M,1959.0,Taylor,130
-GA,M,1914.0,Taylor,181
-GA,M,1997.0,Casey,10
- GA ,F,1913.0,Mary,13
-GA,F,,Jennifer,31
-GA,F,1987.0,Jordan,805
-GA,,2020.0,Mary,336
-GA, M ,1992.0,Taylor,256
-GA,F,2016.0,Taylor,270
- GA ,M,1933.0,,22
-GA,M,1934.0,Taylor,391
- GA ,F,,Taylor,13
-,F,1918.0,Mary,177
-GA,M,1955.0,jordan,15
-GA,M,1964.0,Robert,291
-GA,M,1978.0, Alex ,584
- GA ,F,1985.0,Alex,801
-GA,M,1964.0,James,
-GA,F,1927.0,Alex,8
-,M,1973.0,,865
-GA,M,1979.0,James,1264
-GA,M,2008.0,Taylor,605
-GA,F,1924.0,Mary,149
-GA,M,1959.0, John ,
-GA, M ,2022.0,Jordan,357
-GA,F,1988.0,Patricia,60
-GA,M,1984.0,Robert,1158
-GA,F,1980.0,Patricia,400
-GA,M,2022.0,Taylor,9
- GA , F ,2003.0,Jordan,20
- GA ,F,1950.0,Jennifer,766
- GA ,M,1945.0,Taylor,189
-GA,M,1953.0,jordan,61
-GA,M,2014.0,Michael,679
-GA,F,1943.0,Mary,7
-GA,M,1999.0,Casey,850
-GA,F,2000.0,,369
-GA,M,2005.0,Linda,107
- GA ,F,1965.0,Jordan,110
-GA, F ,1975.0, Patricia ,852
-GA,F,1983.0,Casey,99
-GA,F,1959.0,Mary,457
-GA,M,1915.0,James,40
- GA ,F,1914.0,Michael,43
-GA,F,1972.0,Mary,47
-GA,M,1959.0,Alex,99
-GA, M ,1922.0,Jordan,110
- GA ,M,1937.0,Jordan,84
-GA,F,,Linda,81
-GA, M ,1973.0,James,
-GA,F,1950.0,Linda,30
-GA,M,1979.0,Robert,70
-GA,M,2006.0,Taylor,47
- GA ,F,2008.0,Michael,11
-GA,F,2000.0,Jordan,113
-GA,F,2006.0,Alex,65
-GA,M,2020.0,Alex,19
-GA,F,1922.0,Mary,18
-GA,F,1934.0,Mary,
-GA,F,2010.0,Alex,
-,M,1924.0,John,5
-GA,M,1916.0,John,22
- GA ,M,1960.0,Jordan,337
-GA,M,1972.0,John,617
-GA,F,1990.0, Jordan ,20
-GA,F,1910.0,Jennifer,
-,M,,James,337
-GA,M,1961.0,Taylor,202
- GA ,M,1953.0,James,199
-GA,M,1996.0,Casey,123
-GA,F,1989.0,Casey,
-GA,F,1981.0, Linda ,37
-GA,M,1957.0,Jordan,821
-GA,M,,Robert,114
-GA,M,1949.0,James,18
-GA, F ,2012.0,Alex,43
-GA,F,1913.0,Linda,6
-GA,M,1971.0,Jordan,608
-GA,F,1995.0,Taylor,30
-GA,M,1968.0,Alex,430
-GA, F ,1972.0,Robert,1128
-GA,F,1997.0,Linda,276
-GA,M,1920.0,James,7
-GA,F,,Mary,21
-,F,2008.0,Alex,246
-GA,F,1964.0,Taylor,899
-GA,M,1961.0,John,60
-GA,M,1924.0,Alex,6
-GA,F,1968.0,Alex,27
-GA, F ,1990.0,Taylor,268
-GA,M,1949.0,,241
-GA,F,,Alex,18
-GA, F ,2002.0,Taylor,117
-GA,M,1982.0,,126
-GA, F ,1986.0,michael,264
- GA ,F,,Taylor,161
-GA,F,2011.0,Patricia,68
- GA ,M,1935.0,Casey,13
-GA,F,,Taylor,138
-,F,1987.0,Taylor,547
-GA,M,1969.0,James,665
-GA, F ,1945.0,Jennifer,17
-GA,M,2009.0,John,24
-GA,M,,Alex,147
-GA,F,1923.0,Jennifer,282
-GA,M,2016.0,John,64
- GA ,M,1995.0,John,38
-GA,M,2010.0,Casey,112
-GA,M,1958.0,Taylor,8
-GA,M,2022.0,Robert,66
-,F,1963.0,linda,1070
-GA, F ,1962.0,Patricia,220
-, M ,1988.0,Jordan,540
-GA, F ,1926.0,linda,207
-GA,F,2020.0,Taylor,68
-GA,F,1920.0,,89
-GA,F,1969.0,alex,879
-GA,F,1926.0,Alex,41
-GA,F,1972.0,Casey,161
- GA ,M,1992.0,Jordan,974
-GA,M,1966.0,James,491
-GA,M,2005.0,Taylor,181
-GA,F,1979.0,Jordan,
-GA,M,2008.0,Taylor,605
-GA, F ,2019.0,Jordan,174
-GA,F,1969.0,Jennifer,282
-GA, F ,1968.0,Casey,73
-GA,M,1964.0,Taylor,13
-GA,F,1951.0,Jennifer,127
-GA,M,2019.0,Taylor,7
-GA,F,1969.0,Linda,172
-GA,M,2007.0, James ,22
-GA,F,2004.0,mary,12
-GA, F ,1933.0,,24
-GA,F,1977.0,Linda,279
-GA,F,1995.0,Jordan,66
-GA,M,1969.0,Casey,374
-GA,F,1955.0,Alex,18
-GA,F,1922.0,Casey,6
-GA,M,2002.0,Taylor,38
-GA,F,2007.0, Mary ,114
- GA ,M,1919.0,Casey,12
-GA,F,1952.0,Taylor,16
-GA,M,2021.0,Casey,14
-GA, F ,1979.0,Patricia,308
-GA,F,1998.0,Mary,392
-GA,M,1933.0,Casey,26
-GA,M,2013.0,Robert,158
-GA,M,1970.0,Alex,150
-GA,M,1942.0, Linda ,9
- GA ,M,2002.0,James,
-GA,M,1947.0,John,70
-GA,F,2011.0, Taylor ,147
- GA ,F,2010.0,Patricia,50
-GA,,,Patricia,
-GA,F,1992.0,patricia,766
-GA,F,1932.0, Alex ,12
-GA,M,1981.0,James,354
-GA, M ,2004.0,Casey,75
-GA,F,1983.0,Alex,
-GA,F,1998.0, Taylor ,335
-GA,,1972.0,Jennifer,285
-GA,F,1934.0,Linda,133
-GA, M ,1933.0,jordan,5
-GA,M,2011.0,Casey,29
-GA,F,1984.0,Mary,385
-GA,F,1954.0,Patricia,63
- GA ,M,1936.0,Michael,46
-GA,F,1989.0,jennifer,
-GA, F ,1942.0,Patricia,95
-GA,M,2006.0,Robert,42
-GA,F,1980.0,Jordan,471
-GA,M,1932.0,Michael,11
-GA,M,1969.0,Jordan,22
-GA,M,2002.0,Jordan,9
-GA,M,1967.0,Taylor,1002
-GA,F,1995.0,Linda,398
-GA,M,2004.0,Patricia,36
-GA,F,1954.0,Michael,115
-GA,M,1949.0,John,671
-GA,M,1967.0,Casey,317
-GA,F,1993.0,Linda,104
-GA,M,1945.0,James,41
-GA,,1975.0,Taylor,707
- GA ,F,1936.0, Patricia ,62
-GA,F,2018.0, Taylor ,518
-GA,F,1916.0,Linda,197
-GA,M,1975.0, James ,39
-GA,M,2008.0,Robert,
-GA,F,1971.0,Mary,268
-GA,M,,Taylor,211
-GA,M,1972.0,taylor,438
-GA,F,2012.0,Jordan,6
-GA,M,1989.0,Jordan,
-GA,M,2017.0,Michael,211
-GA,M,1970.0,James,595
-GA,M,,Michael,422
-GA,M,1939.0,James,694
-GA, M ,1982.0,James,33
- GA ,M,2002.0,John,136
-,F,1944.0,Taylor,58
-GA,M,1998.0,casey,425
-GA,F,1976.0,Jordan,615
-,M,1986.0,Michael,487
- GA ,F,1939.0,Mary,149
-GA,M,1972.0,James,219
-GA,M,,Jordan,
-GA,F,1958.0,Alex,714
-GA,F,1997.0,Alex,687
-GA,,1995.0, Casey ,614
-GA,M,1966.0,,252
-,M,2004.0,Jordan,223
-, M ,1913.0,Patricia,18
-GA,M,1968.0,Michael,209
-GA,F,1950.0,,301
-GA,M,2015.0,Casey,99
-GA,M,1980.0,Taylor,395
-GA,M,2007.0,Michael,84
- GA ,M,1923.0,Casey,28
-,M,1960.0,alex,669
-GA,M,1929.0,Jordan,
-,F,1946.0,Linda,717
-GA,M,1971.0,,74
-GA, M ,2014.0,Jordan,30
-GA,F,1930.0,Alex,13
-GA,M,1926.0,James,58
-GA,,1983.0,Michael,726
- GA ,F,1978.0,Jordan,332
-GA,M,1943.0,James,99
-GA,F,1960.0,Linda,678
-GA, M ,1978.0,Robert,475
-GA,M,,Taylor,415
-GA,M,2011.0,James,86
-,F,1985.0,Patricia,68
-GA,M,1997.0,Robert,
-GA,M,1952.0,Alex,150
-GA,M,1919.0,robert,123
-GA,M,1980.0,Michael,528
-GA,M,1984.0,John,19
-GA,F,,Linda,
-GA, F ,1939.0,Jennifer,147
-GA,M,2003.0,James,61
-GA, F ,1985.0,Mary,195
-GA,M,1958.0,Jordan,292
-GA,M,1989.0,Casey,361
-GA,F,1982.0, Robert ,1279
-GA,M,1968.0, Robert ,21
-GA,F,1924.0,Jennifer,7
-GA,M,1992.0,Robert,422
- GA ,F,1913.0,Taylor,13
- GA ,M,2004.0,Taylor,
-GA, M ,2017.0,Jordan,
-GA,,2020.0,Jordan,639
-GA,F,1993.0,Taylor,106
-GA,F,1991.0,Linda,81
-GA,M,1986.0,Robert,111
-GA,M,1930.0,Casey,164
-GA,F,2003.0,Linda,694
-GA,,1933.0,Taylor,96
-GA,F,2000.0,Casey,165
-GA,M,2018.0,Taylor,70
-GA,M,1981.0,Michael,402
- GA ,M,1971.0,Alex,195
-GA,M,1994.0,John,332
-GA,M,2016.0,Robert,905
- GA ,M,2004.0,Alex,137
-, F ,2002.0,Linda,315
-GA,M,,Robert,738
-GA,M,1981.0,John,1262
-GA, F ,2009.0,Taylor,32
-GA,F,1958.0,Jordan,30
-GA,M,1996.0,James,190
-,F,1992.0,Casey,36
-GA,M,1936.0,alex,44
-GA, M ,1922.0,Jordan,110
-GA,F,2016.0,Jordan,287
-GA,M,1974.0,Casey,425
- GA ,F,1985.0,Linda,161
-GA,M,1983.0,James,117
-GA, F ,1949.0,Linda,319
-GA,M,1961.0,Jordan,223
-GA,F,1955.0,Patricia,626
-GA,F,1962.0,Alex,225
-GA,M,1985.0,Alex,158
-GA,M,1978.0,James,579
-GA,F,1925.0, Mary ,381
-GA,F,2004.0,Patricia,258
-GA,F,2005.0,Taylor,42
-GA, F ,1945.0, Mary ,47
-GA,M,1932.0,James,
-GA,F,1962.0,Linda,84
-GA,M,1925.0,Mary,190
- GA ,M,2012.0,,247
-GA,M,1939.0,Taylor,9
-GA,M,,James,73
-GA,M,1937.0,Robert,58
-GA,M,1970.0,John,564
-GA, F ,1973.0,Mary,484
-GA,M,,Alex,147
-,M,1987.0,,112
- GA , M ,1939.0,Michael,41
-GA,M,1960.0,Michael,725
-GA,F,1931.0,Mary,69
-GA,F,1935.0,Linda,423
-GA,,1945.0,Jordan,14
-GA,F,,,171
-GA,F,2006.0,Linda,210
-GA,F,1940.0,Casey,10
-GA,F,1992.0,,234
-GA, F ,1974.0,Jennifer,
- GA ,F,1926.0,Jordan,303
-GA, M ,1928.0,Jordan,9
-GA,M,,michael,700
-GA,M,,jordan,34
-GA,M,1966.0,John,321
-GA,M,1990.0,Robert,158
-GA,F,1944.0,,374
- GA ,M,1964.0,Casey,15
-GA,M,1931.0,Robert,51
-GA,M,1936.0,Casey,5
-GA,M,1986.0,,715
-GA,M,1938.0,Robert,10
-GA,M,2017.0,Casey,1013
-GA,M,1943.0,James,99
-GA,M,1989.0,James,244
-GA,F,1943.0,Alex,6
-GA,M,1967.0,Alex,161
- GA , F ,1969.0,Casey,279
-GA, M ,1965.0,Michael,127
-GA,M,1954.0,Robert,356
- GA ,,1960.0, James ,402
-GA,F,1966.0,Taylor,765
-GA,F,1965.0,Linda,
-GA,M,1993.0,Robert,653
-GA, M ,2013.0,Alex,305
-GA,M,1977.0,Michael,
-GA,M,2008.0,Casey,76
-GA, F ,1969.0,Michael,354
- GA ,F,,Taylor,13
-GA, F ,1983.0,taylor,133
-GA,M,1979.0,Michael,171
-GA,M,1973.0,Jordan,175
-GA,M,1999.0,Alex,508
- GA ,F,1995.0,Alex,
-GA,F,1956.0,Taylor,408
-GA, M ,1994.0,Jordan,5
-GA,,,,905
-GA,M,1987.0,Casey,604
-GA,M,1961.0,Casey,7
-GA,M,2020.0,,176
-GA,,1938.0,John,223
-GA, M ,1950.0, Alex ,67
-GA,F,1986.0,Jennifer,909
- GA ,M,1977.0,Robert,456
-GA,M,1992.0,John,200
-GA,F,2007.0,Casey,152
-GA,M,1952.0,Michael,16
-GA,F,1943.0,Linda,724
-GA,F,1941.0,Jennifer,102
-GA, M ,1980.0, Jordan ,98
-GA,M,2000.0,,102
-GA,F,1949.0,Alex,456
-GA,F,2014.0,Taylor,180
-GA, F ,1951.0,Mary,38
-GA,M,1944.0,Robert,10
-GA,M,1962.0,John,204
-GA,M,1944.0,Taylor,118
-GA,F,1946.0, Taylor ,50
-GA,M,1976.0,Taylor,186
-GA,F,1962.0,Mary,115
-GA,M,2015.0,Mary,15
-GA,F,1967.0,Linda,37
-, M ,1915.0,Jordan,40
- GA ,M,1991.0,Jordan,108
-GA,M,1942.0,John,26
-GA,M,1957.0,John,124
-GA,F,1979.0,Casey,234
-GA,F,2004.0,Casey,34
-GA,F,1942.0,Robert,139
-GA,F,1945.0,Linda,548
-GA,F,1961.0,Jordan,1041
-GA,F,2001.0,Mary,160
-GA,M,1921.0,Robert,23
-GA, F ,1989.0,Patricia,399
-GA,F,1914.0,Jordan,37
-GA,M,1984.0,Michael,105
-GA,M,1932.0,Robert,31
-, M ,1990.0,John,254
- GA ,M,2022.0,Casey,115
- GA ,M,1984.0,Casey,267
-GA,F,1947.0,Linda,
-GA,M,1956.0,Michael,132
- GA ,F,2012.0,Linda,85
-GA, M ,1942.0,Casey,22
-GA,M,2008.0,James,742
-GA,M,2013.0,michael,45
-GA,F,1991.0,Jordan,36
-GA,F,1998.0,Linda,57
-GA,F,1948.0, Jordan ,913
-GA,M,2003.0,Jordan,402
-GA,F,1927.0,Jennifer,230
-GA,F,1998.0,Casey,168
-GA, M ,1941.0,Michael,190
-GA,F,1960.0,,1221
-GA,M,1972.0,taylor,438
-GA,M,1946.0,James,796
-GA,F,1981.0,,1187
-GA,M,2014.0,Taylor,
-GA,F,1934.0,Patricia,481
- GA ,F,2012.0,Casey,5
-GA,F,2020.0,Jennifer,30
-GA,,1984.0,Taylor,429
-GA,F,1967.0,Jordan,1007
-GA,F,1949.0,jordan,90
-GA,F,1987.0,Alex,262
-GA,F,1994.0,jordan,321
-GA,M,1969.0,alex,79
-,F,1937.0,Taylor,103
-GA,M,2011.0,robert,138
-GA,M,1961.0,Linda,637
- GA ,F,2021.0,Taylor,77
-GA,F,1996.0,Casey,9
- GA ,F,1924.0,Patricia,5
-GA,M,1964.0,Michael,605
-GA,F,1991.0,Casey,230
-GA,M,2000.0,Casey,149
-GA,M,1997.0,,48
-GA,F,1982.0,Mary,132
- GA ,F,2017.0,James,7
-GA,F,1960.0,Alex,
-GA,F,1943.0,Taylor,7
-GA,M,2020.0,John,493
-GA,F,1948.0,Alex,132
-GA,F,1933.0,Alex,129
-GA,M,2012.0,John,
-GA, F ,1975.0,Jennifer,120
-GA,M,,Michael,422
-GA,M,1976.0,Robert,362
-GA,F,1918.0,Jordan,88
-GA,M,2016.0,Taylor,60
-GA, F ,2013.0,Alex,
-GA,F,2007.0,Taylor,150
-GA,M,1942.0,Jordan,30
-GA,F,2017.0,Jordan,93
-GA, M ,2005.0,Alex,381
-GA,F,1982.0,Linda,38
- GA ,M,1979.0,Alex,529
-GA, M ,1963.0,Jordan,109
-GA,F,,James,323
-GA,M,1947.0,Jordan,416
-GA,F,1979.0,Linda,498
-,M,,Michael,467
-GA,M,1936.0,Casey,5
-GA,F,,Patricia,25
-GA,F,1945.0,Taylor,89
-GA,,2013.0,James,21
-GA,M,2008.0,John,475
-GA,M,1989.0,Taylor,622
-GA,M,1959.0,robert,27
-,M,2009.0,Casey,84
- GA ,,1975.0,jordan,123
-GA,F,2005.0,Jennifer,1210
-GA, F ,1957.0,Jennifer,264
-GA,F,1998.0,Michael,983
- GA , M ,1913.0,Alex,26
-GA,M,1983.0,Jordan,493
-GA,M,1921.0,Alex,49
-GA,F,,Jennifer,180
-GA,F,1922.0,Jordan,69
-GA,F,2008.0,Linda,
- GA ,M,1978.0,Jordan,562
-,F,1990.0, Linda ,
-GA,,2017.0,patricia,130
- GA ,,2006.0,Mary,126
-GA,F,1978.0,Jennifer,345
-GA,F,2021.0,Jordan,
-GA,F,2014.0,Alex,15
-GA,M,1985.0,john,183
- GA , M ,1960.0,casey,308
-GA,F,2009.0,Patricia,20
-GA,M,,Robert,641
-GA, M ,1940.0,Casey,531
- GA ,M,,Jordan,10
-GA,F,1961.0,Taylor,46
- GA ,F,1979.0,Alex,263
-GA,F,1965.0,Jennifer,94
-GA,F,1997.0,Jordan,723
- GA ,F,1967.0,Alex,213
-GA,F,1958.0,Taylor,683
-GA,F,2004.0,Linda,13
-GA,F,2022.0,Patricia,56
-GA,,,Robert,477
-GA,F,1941.0, Mary ,26
-GA,F,1954.0,linda,437
- GA ,F,1921.0, Linda ,70
-GA,M,1970.0,Jordan,279
-GA,M,2017.0,John,665
-GA,F,1929.0,Alex,60
-GA,M,1953.0,Michael,502
-GA,F,1975.0,Linda,71
-GA,F,1942.0,Mary,5
-GA,M,1968.0,Michael,209
-GA, F ,1977.0,Alex,722
-GA,M,2001.0,James,34
-GA,F,2000.0,Taylor,294
-GA,M,1951.0,James,903
-GA,M,2018.0,Robert,42
-GA,M,1954.0,Alex,64
-,F,2018.0,Casey,773
-GA,F,1986.0,Casey,348
-GA,F,1929.0,Jordan,24
-GA,M,1953.0, Alex ,18
- GA ,F,1973.0,James,631
-GA, F ,1947.0,Taylor,
-GA,F,2012.0,Taylor,40
-GA,M,1927.0,Jordan,195
- GA ,F,1969.0,Robert,407
-GA,F,2015.0,Jordan,
-GA,M,2007.0,john,
-GA,F,,Alex,242
-GA,F,2003.0,Taylor,37
-GA,M,2005.0,James,122
-GA,F,1930.0,Casey,256
-GA,F,1976.0,Alex,529
-GA,,1976.0,Mary,213
-GA,F,1933.0,Jordan,83
-GA,,1981.0,Jennifer,222
-GA, F ,1942.0,Patricia,95
-GA, F ,1990.0,Taylor,268
-GA,M,1944.0,James,37
-GA,M,2012.0,James,12
-GA,F,1971.0,Alex,588
-GA, F ,1924.0, Alex ,87
-GA, M ,1994.0,Michael,160
-GA,F,1915.0,Linda,6
-GA,M,1961.0,Michael,664
-GA,M,2019.0,Casey,673
-GA,M,2016.0,Michael,72
-GA,F,1993.0,Jordan,513
-GA,F,2008.0,Casey,167
-GA,M,1914.0,Robert,48
-GA,M,1996.0,Robert,163
-GA,M,2017.0,Taylor,51
-GA,F,,John,5
-GA,M,1998.0,,23
-GA,M,1932.0,Taylor,25
-GA,M,1922.0,John,6
-GA,M,1980.0,Casey,182
-GA,M,1943.0,Casey,377
-GA,F,1977.0,Taylor,267
-GA,M,2020.0,Jordan,45
-GA,M,1945.0,Michael,9
-GA,F,1960.0,Taylor,95
-GA,M,1998.0,casey,425
-GA, F ,1984.0,taylor,436
-GA,M,1934.0,Casey,6
-GA,M,1913.0,Taylor,66
-,F,1994.0,Linda,792
-GA,F,1946.0,Alex,124
-GA,F,1956.0,Patricia,414
-GA,F,1929.0,Jennifer,35
-GA,,1942.0,James,35
-GA,F,1999.0, Jennifer ,1100
-GA,M,1934.0,Casey,6
-GA,F,1991.0,Taylor,
-GA,F,1989.0,jennifer,
-GA,F,1948.0, Mary ,124
-GA,M,2018.0,James,470
- GA ,F,2003.0,Patricia,916
-GA,M,1977.0,Alex,
-GA,F,1983.0, Jennifer ,476
- GA ,M,1995.0,James,216
- GA ,M,1958.0,Casey,21
-GA,F,1973.0,,67
-GA,M,1981.0,Taylor,417
-GA,M,2000.0,Alex,562
-GA,F,1938.0,Alex,136
-GA,F,1944.0,Patricia,168
-GA,F,1972.0,Alex,223
-GA,M,1988.0,James,492
-GA,F,1939.0,Taylor,386
-GA,M,1988.0,John,486
-GA,F,2017.0,Jennifer,
- GA ,F,1998.0,John,121
- GA ,F,1996.0,Taylor,82
-GA,M,1956.0,James,39
-GA, M ,1972.0,Casey,520
-GA,M,2007.0,,1021
-GA,F,2004.0,Jordan,7
-GA,M,1988.0,Taylor,106
-GA,M,2016.0,Casey,6
-GA,M,,Alex,215
-GA,F,,Robert,46
-GA,M,2004.0,James,46
-GA,F,1981.0,Patricia,82
-GA,M,1966.0,Robert,715
-GA,M,1936.0, Jordan ,103
-GA,F,1976.0,Taylor,736
- GA , M ,2017.0,Alex,576
-GA,M,1912.0,Alex,
-GA,F,2017.0,Alex,10
-GA,F,2005.0,Linda,45
-GA,M,1935.0,Taylor,79
-,F,1943.0,Jennifer,12
-GA,M,1944.0,James,37
-GA,F,1925.0,Jordan,31
-GA,F,1948.0,Casey,41
-GA,M,1948.0,robert,173
-GA,F,2018.0,Linda,281
-GA,M,1989.0,Robert,23
-GA,F,1988.0,Jordan,1043
-GA, F ,1945.0,Casey,28
-GA,F,1992.0,Jennifer,1054
-GA,,1917.0,Casey,12
-GA,M,1966.0,Casey,170
-GA,F,2004.0,Taylor,66
-GA,F,1940.0,Casey,10
-GA,M,1955.0,Taylor,88
-GA,,1972.0,Taylor,65
-GA,F,1961.0,Jennifer,106
-GA,F,1954.0,Casey,5
-GA,F,,,59
-GA,F,2015.0,Jennifer,103
-GA,M,,John,472
- GA , M ,1995.0,Michael,292
+GA,M,1982.0,Robert,138
+ GA ,M,1924.0,James,251
+ GA ,F,1922.0,Jennifer,13
+GA,M,1931.0,Alex,5
+GA,M,2009.0,Casey,214
+,F,1959.0,Linda,25
+GA, F ,1931.0,Linda,8
+GA,F,1969.0,Casey,195
+GA,M,1940.0,Alex,236
+GA,F,2008.0,Patricia,137
+GA,F,1949.0,Taylor,27
+, F ,1997.0,Patricia,60
+GA,,1937.0,Casey,8
+GA,M,1957.0,Casey,253
+GA,,2004.0,Taylor,
+GA,F,1985.0,,678
+GA, F ,1953.0,Casey,623
+GA,,1969.0,John,153
+,,1961.0,Michael,588
+GA, F ,1971.0,Linda,143
+GA,M,1968.0,Robert,482
+GA,F,1964.0,Jennifer,32
+GA,F,2006.0, Mary ,181
+GA,M,1963.0,Taylor,73
+GA, M ,1965.0,James,173
+GA,M,1926.0,Alex,69
+GA,M,1949.0,Alex,6
+GA,F,1947.0,Jordan,221
+, F ,1972.0,Alex,302
+GA,M,2011.0,Jennifer,200
+GA,F,2004.0,Patricia,641
+GA, M ,2007.0,James,760
+GA,M,1961.0,James,198
+GA,M,,James,103
+GA,F,2008.0,Taylor,127
+GA, F ,2002.0, Patricia ,109
+GA,M,1924.0,John,130
+GA,F,1979.0,Patricia,481
+GA,M,1958.0,taylor,239
+ GA ,F,1914.0,casey,86
+GA,M,1998.0,Jordan,851
+GA,M,,Alex,69
+GA,F,1927.0,Alex,22
+GA,M,1933.0,Jordan,6
 GA,M,1962.0,Casey,136
-GA,F,1949.0,Robert,307
-GA,M,2016.0,James,36
-GA,F,2018.0,Alex,181
-GA,M,1923.0,Robert,82
-GA,F,,Patricia,114
-GA,M,1944.0,Casey,
- GA ,M,2005.0,,102
-GA,M,1960.0,Taylor,677
-GA,M,1943.0,John,247
-GA,F,1998.0,Alex,
-GA,F,1952.0,Linda,9
-GA,M,,John,446
-GA,M,2003.0,Casey,368
-GA,F,1989.0,Taylor,650
-GA,F,1952.0, Jordan ,227
- GA ,F,2003.0,Alex,44
-GA,F,1985.0,Jennifer,667
-GA,F,1938.0,Casey,18
-GA,M,1991.0,Michael,62
-GA,M,1913.0,Robert,48
-GA,F,1928.0,Casey,
-GA,M,2018.0, Casey ,427
- GA ,M,1941.0,Robert,167
-GA,F,2003.0,,15
-GA,M,1984.0,Alex,194
-GA,M,2022.0,James,
-GA,M,2005.0,Michael,20
-GA,F,1971.0,Michael,145
-GA,M,2002.0,Robert,870
-GA,M,2011.0,robert,138
- GA ,F,1959.0,jordan,25
-GA,M,1957.0,Alex,
-GA,F,1999.0,Alex,108
-GA,F,2013.0,Casey,66
-GA,F,1949.0,,212
-GA,M,2004.0,Michael,32
-GA, M ,1969.0,Robert,126
-GA,F,2002.0,Mary,34
-GA,M,1962.0,jordan,414
-GA,M,1997.0,Alex,120
-GA,M,,,1361
-GA,F,2002.0,Patricia,802
- GA ,M,1960.0,Jordan,337
-GA,M,1998.0,Robert,954
-GA,M,2000.0,James,296
-GA,F,1960.0,Jordan,1065
-GA,M,1980.0,James,95
-GA,F,2001.0,Jennifer,195
-GA,M,1965.0,Jordan,98
- GA ,M,1937.0,Alex,5
-GA,F,1959.0,Jennifer,1177
-GA,M,1922.0,Taylor,311
-GA, M ,1993.0,Michael,349
-GA,M,2020.0,James,419
-GA,F,1940.0,Alex,249
-GA,M,1981.0,Robert,325
-GA,M,1944.0,Michael,53
-GA,F,2014.0,Jennifer,125
-GA,F,1963.0,Jordan,126
-GA,M,1995.0,Jordan,18
-,M,1967.0,John,188
-GA,M,1973.0,Casey,148
-GA,M,1913.0,Michael,86
-GA,F,1993.0,Alex,514
-,M,1965.0, Casey ,91
-GA,F,1982.0, Jennifer ,65
-GA,M,1950.0,Michael,155
-GA,M,1973.0,Robert,588
- GA ,M,1941.0,John,556
-GA,M,2012.0,Jordan,153
-GA,,2006.0,,65
-GA,F,1964.0,jennifer,410
-GA,M,,michael,516
-GA,M,1914.0,Taylor,181
-GA,F,2019.0,Mary,416
-GA, M ,1994.0,,38
-GA,F,2009.0,Casey,586
-GA,M,2001.0,Jordan,941
- GA ,F,1989.0,Mary,420
-GA,M,1954.0,Michael,285
-GA,M,2014.0,Patricia,31
-GA,M,,Taylor,9
- GA ,F,1914.0,Michael,43
-GA,F,1964.0,Linda,171
-GA,M,2015.0,Taylor,175
-GA,M,1985.0,Taylor,75
-GA,M,1950.0,Jordan,125
-GA, M ,1985.0,Robert,539
-GA,M,1974.0,Jennifer,407
-,M,1960.0,Robert,63
-GA,F,1936.0,Taylor,221
-GA,F,1946.0,jennifer,116
-GA,F,,Mary,25
-GA,F,1910.0,Linda,24
-GA,M,2021.0,James,683
-GA,M,1939.0,Robert,558
- GA ,M,1950.0,Casey,9
-GA,F,1971.0, Jordan ,696
-,M,2005.0,Robert,138
- GA ,F,1958.0, Jennifer ,
-GA, M ,1982.0,alex,329
- GA ,F,2013.0,Robert,865
-GA,M,1973.0,Jennifer,614
-GA,F,1934.0,Casey,412
-GA,F,1974.0,Casey,95
-GA,F,1952.0,Patricia,17
- GA ,M,1973.0,Michael,140
-GA,M,1926.0,Patricia,56
-GA,M,1948.0,James,328
-GA,F,2011.0, Jennifer ,49
-GA,F,2006.0,casey,7
-GA,,1954.0,Jordan,957
-GA,F,1948.0,Patricia,112
-GA,F,1993.0,Patricia,253
- GA ,M,1958.0,James,499
-GA,F,1963.0,Patricia,129
-GA,M,2020.0,Taylor,71
-GA,F,1990.0,Casey,595
-,F,1955.0,James,400
-GA,M,1932.0,Alex,63
-GA,F,1944.0, Alex ,11
-GA,M,1956.0,Robert,17
-GA,M,2006.0,Jennifer,16
-GA,M,1924.0,Jordan,36
-GA,M,2021.0,Taylor,93
-GA,F,2008.0,Jennifer,14
-GA,M,,Taylor,1062
-GA,F,1965.0,Patricia,221
-GA,M,1983.0,Alex,92
-GA,M,2019.0,Alex,422
- GA ,F,1957.0,Jordan,526
-GA,,1969.0,John,116
-GA,F,1930.0,Linda,49
-GA,F,1930.0,Casey,256
-GA,M,1937.0,Taylor,59
-GA,M,1989.0,James,244
- GA , F ,1985.0, Jordan ,378
-GA,M,1938.0,Alex,32
-GA,M,1947.0,Alex,38
-GA,F,2000.0,alex,205
-GA,M,2008.0,Jordan,148
-GA,M,1931.0,Jordan,29
-GA,F,1984.0,Linda,357
-GA,M,1985.0,Jordan,63
-GA,F,1917.0,James,50
-GA,M,1938.0,Michael,95
-,F,1963.0,Mary,183
- GA ,F,2011.0,Linda,442
- GA ,M,1983.0,casey,584
-GA,M,1979.0,Taylor,146
-GA,F,1965.0,Casey,1180
-GA,M,1951.0,Taylor,47
-GA, M ,1969.0,Taylor,146
-GA,M,1984.0,Jordan,422
-,F,1994.0,Jennifer,479
-GA,F,2000.0,Michael,232
- GA ,F,1937.0,Mary,195
-GA,M,1982.0,Michael,521
-GA,F,1951.0,Casey,67
-GA, F ,1999.0,Mary,29
-GA,F,1999.0,Patricia,156
-GA,F,1994.0,Alex,652
-GA,F,1982.0,Patricia,485
-GA,F,2002.0,Jordan,288
-GA,F,1965.0,Alex,196
-GA,M,1970.0,Michael,61
-GA,F,1941.0,James,163
-GA,M,2000.0,Taylor,228
-GA,M,1956.0,Jordan,464
-GA,F,1970.0,Alex,941
-GA,M,2016.0,Robert,905
-GA,F,1953.0,Alex,29
-GA,F,1996.0, Jennifer ,256
-GA,F,1987.0,Jennifer,283
-GA, M ,2019.0,James,331
-GA,M,1947.0,Casey,85
-GA,M,1978.0,Taylor,301
-GA,F,2022.0,Alex,29
-GA, M ,1973.0,,317
-GA,M,,Taylor,9
-GA,F,1947.0,Jordan,723
-GA,M,1972.0,Robert,762
-GA,M,1992.0,Michael,79
-GA,M,2000.0,Michael,202
-GA,M,1959.0, Michael ,
-GA,M,1926.0,John,41
-GA,M,1993.0,Alex,411
-GA,F,1980.0,,85
-GA,M,1930.0, Alex ,18
-GA,M,2012.0,Taylor,28
-GA,F,1986.0,Jennifer,909
-GA,F,1994.0,casey,733
-GA,F,1973.0,,60
-,F,2004.0,Jennifer,106
-GA,F,1964.0,,56
-GA,F,1996.0,Linda,27
-GA,,1947.0,Patricia,131
-GA,F,,Jordan,71
-GA,M,1998.0,John,620
-GA,M,1957.0,Taylor,824
-GA,M,1922.0,Robert,27
-GA,F,1986.0,Alex,341
-GA,M,1940.0,Robert,118
-GA,F,1968.0,Taylor,477
-GA,F,1929.0,Mary,186
-GA,F,1962.0,Casey,102
-GA,M,2001.0,John,56
-GA,F,1984.0,Alex,673
-GA,F,,Alex,189
-GA,M,1987.0,Taylor,531
-GA,M,1988.0,Michael,55
-GA,F,2003.0,Mary,33
-GA, F ,1961.0,,245
-GA,M,1980.0,Robert,611
-GA,,1998.0,Taylor,437
-,M,1978.0,john,146
-GA,M,1916.0,James,8
-GA,F,1988.0,jennifer,498
+GA,M,,John,435
+GA,M,1999.0,Taylor,29
+ GA ,M,1990.0,James,933
+GA, M ,1989.0,James,1367
+GA, F ,1962.0,Linda,557
+GA,F,1952.0,Jordan,496
+GA,,1984.0,Michael,343
+ GA ,M,1912.0,james,23
+GA,M,1965.0,casey,318
+GA,M,2013.0,Michael,32
+ GA ,F,1930.0,Linda,7
+GA,F,1986.0,Linda,503
+GA,M,1932.0,Michael,22
+GA,M,1961.0,Taylor,
+GA,M,1945.0,alex,156
+GA,F,2002.0, Linda ,157
+GA,M,1971.0,Taylor,28
+ GA ,,2004.0,Alex,245
+GA,M,1976.0,Jordan,795
+GA,F,1910.0,Taylor,7
+, M ,1930.0,Alex,162
+GA,F,1986.0,,132
+GA,M,2015.0,Alex,49
+GA,M,2013.0,Casey,319
+GA,F,1951.0,Alex,300
+ GA ,F,1934.0,Mary,545
+GA, F ,1983.0,Mary,453
+GA,M,1973.0,Alex,8
+GA,F,2012.0,Linda,704
+GA,F,1947.0,Jennifer,201
+,F,2000.0,Mary,467
+ GA ,F,1994.0,Taylor,28
+GA,F,1933.0,,133
+ GA ,F,1991.0,Jordan,
+GA,M,1953.0, James ,36
+GA,F,1983.0,Patricia,18
+GA,M,1975.0,Casey,29
+ GA ,M,2019.0,Taylor,28
+ GA ,F,2016.0,Mary,567
+GA,M,1963.0,Michael,174
+GA,F,1928.0,Patricia,33
+ GA ,F,1933.0,michael,9
+GA, M ,1975.0,John,281
+GA, M ,1962.0,Taylor,37
+GA,F,1922.0,Linda,6
+, F ,1989.0,Casey,17
+GA,F,2012.0,Jennifer,23
+GA,M,1998.0,Taylor,29
+GA,M,1987.0,Alex,631
+GA,M,1921.0,James,119
+ GA ,M,1960.0,,444
+GA,M,1987.0,Taylor,180
+GA,M,1964.0,Casey,396
+GA,F,1929.0,Jennifer,167
+GA,F,1952.0,jennifer,96
+GA,M,1939.0,James,16
+ GA ,M,1912.0,Linda,28
+,M,1964.0,Jordan,195
+GA,M,1955.0,,151
+GA,M,2012.0,James,241
+GA,M,1962.0,James,118
+GA,M,1950.0,Jennifer,345
+GA,M,1981.0,Taylor,15
+GA,M,1931.0,Jordan,10
+ GA ,M,1934.0,,38
+,M,2004.0,John,35
+GA, F ,1988.0,Casey,83
+ GA ,F,,Mary,578
+GA,F,1968.0,Jennifer,115
+GA,M,2018.0,Michael,27
+GA, F ,2002.0,Casey,738
+GA,F,1971.0,Robert,721
+GA,M,1991.0,,83
+GA,F,2007.0,Jennifer,12
+GA,M,2006.0,James,1370
+GA,M,1919.0,Jordan,21
+ GA ,F,1979.0,Jennifer,59
+GA,F,2007.0, Mary ,72
+GA,,1996.0,Patricia,28
+GA,F,1954.0,Mary,347
+GA,F,1964.0,Taylor,93
+ GA , F ,1929.0,Jordan,255
+ GA ,F,1950.0,patricia,9
+GA,F,1963.0, Mary ,157
+GA,M,1946.0,John,453
+GA,F,2010.0,Mary,465
+,M,1947.0,Jordan,723
+GA,M,1967.0,Jordan,679
+GA,F,2003.0, James ,147
+GA, F ,1978.0,Linda,44
+GA,M,1964.0,Alex,13
+GA,M,1920.0,,35
+GA,,1924.0,Michael,290
+GA,F,1973.0,taylor,
+GA, M ,1995.0,Robert,29
+,F,2022.0,Jordan,267
+GA,M,1976.0,Taylor,731
+GA,,1989.0,Michael,244
+GA,F,2000.0,Alex,104
+GA,,2014.0,Jennifer,309
+GA,M,1937.0, James ,
+GA,F,1973.0,Casey,247
+GA,M,1979.0, Patricia ,62
+GA,F,2003.0,,283
+GA,F,2009.0,Linda,81
+GA,F,1994.0,Mary,159
+,F,1964.0,Mary,590
+GA,M,2011.0,Robert,729
+GA,F,,Jordan,135
+,,1930.0,James,31
+GA,F,1958.0,,128
+GA,F,2010.0,Taylor,6
+GA,M,2010.0,John,
+GA, M ,1946.0,Casey,30
+GA,F,2020.0, Jennifer ,312
+GA,F,1964.0,Casey,87
+GA, M ,1966.0,Casey,283
+GA,M,2007.0,Jordan,15
+GA,M,1984.0,James,62
+ GA ,M,1989.0,Casey,227
+GA, F ,1972.0,Jennifer,22
+GA,M,1941.0,Casey,27
+,,1984.0,,308
+GA,M,1973.0,Jordan,293
+GA, F ,2017.0,Alex,8
+GA,,1991.0,James,777
+GA,M,2008.0,Robert,212
+GA, M ,1985.0,Jordan,923
+GA,M,2022.0,,141
+GA,F,2020.0, Jordan ,95
+GA,M,1989.0,Alex,732
+ GA ,F,2000.0,Jennifer,250
+GA,M,1936.0, Alex ,11
+GA,F,1952.0,Patricia,605
+GA,M,1966.0,Jordan,564
+GA,F,1911.0,Linda,38
+,F,1922.0,,16
+ GA ,M,1963.0,Casey,1285
+GA,M,1959.0,Casey,132
+GA,F,,Linda,
+GA,F,1983.0,Linda,
+GA,M,2016.0, John ,19
+GA,M,2018.0,Casey,29
+GA,M,1969.0,Casey,204
+GA,M,1935.0,James,272
+GA, F ,2008.0,Linda,73
+GA,M,1992.0,John,136
+GA,,1949.0,John,6
+,M,1977.0,Taylor,99
+,,1984.0,Robert,
+,M,1950.0,John,627
+,F,1953.0,Patricia,8
+GA,M,2005.0,Alex,22
+GA,M,1987.0,Casey,162
+GA,M,1919.0,James,7
+GA,M,1999.0,Robert,51
+GA, M ,1970.0,Taylor,224
+GA,M,1952.0,James,62
+GA,F,2016.0,Linda,229
+GA,M,2021.0,Mary,8
+GA,F,1995.0,Jordan,63
+GA,M,1968.0,Casey,108
+GA,M,2019.0,Jordan,27
+GA,F,1993.0,Jennifer,64
+GA,F,1989.0,Linda,527
+GA,F,1992.0,Taylor,116
+GA,,1990.0,Alex,8
+GA,,1952.0,Taylor,124
+GA,F,1971.0,Patricia,149
+GA,M,1978.0,John,420
+GA,F,1993.0,Casey,212
+GA,M,1990.0,Michael,75
+GA,M,2009.0,James,285
+GA,M,1937.0,Jordan,178
+GA,F,1994.0,Casey,21
+GA,F,1955.0,Casey,125
+,,1976.0,James,578
+GA,F,1947.0, Mary ,6
+GA,F,1910.0,Casey,22
+ GA ,F,1974.0,Casey,47
+GA,M,1958.0,,19
+GA,F,1942.0,Alex,35
+GA,F,1991.0,Robert,203
+GA,F,1952.0,Casey,132
+GA,F,1993.0,James,13
+GA,M,2001.0,Alex,180
+ GA ,M,2011.0,Alex,645
+GA,M,2004.0,Casey,622
+GA,F,1981.0,Jennifer,279
+GA, M ,, Alex ,223
+ GA , M ,1977.0,Jordan,841
+ GA ,F,1971.0,Taylor,227
+GA,M,1986.0,Casey,993
+GA,M,1944.0,James,82
+GA,F,1997.0,Taylor,179
+GA,F,1943.0,Jennifer,36
+GA,F,1946.0,Jordan,18
+GA,F,2012.0,Alex,391
+GA,M,2000.0,John,
+GA, M ,2006.0,Michael,267
+GA, M ,2002.0,michael,614
+GA,M,1973.0,James,95
+GA,F,1987.0,Taylor,591
+GA,F,1941.0,Jennifer,83
+GA,F,1960.0,Alex,9
+GA,M,1949.0,Jennifer,111
+GA,M,1986.0,Taylor,348
+ GA ,F,1989.0,Mary,
+GA,F,1988.0,Taylor,114
+GA,M,,Robert,21
+GA,M,1935.0,Jordan,16
+ GA ,F,1949.0,Casey,18
 GA,M,2015.0,James,5
-GA,M,1953.0, Casey ,48
-GA,M,1928.0,Casey,64
-GA,M,2003.0,Michael,
-GA,M,1936.0,James,31
-GA,F,1972.0,Linda,80
-GA,F,2013.0,Jordan,314
-GA, M ,1920.0,Taylor,54
-GA,M,2001.0,Michael,102
-GA,F,2020.0,Casey,14
-GA,F,1955.0,,317
-GA,F,1981.0,Alex,944
-GA,F,2001.0,Patricia,77
-GA, M ,1921.0,Casey,
-GA,M,1975.0,john,749
-GA,,1935.0,Taylor,82
-GA,F,1965.0,Taylor,54
-GA, M ,2016.0,alex,54
-GA,M,1940.0, Jordan ,164
-GA,M,1923.0,James,42
-GA, F ,2006.0,Patricia,788
- GA ,F,1961.0,Casey,755
-GA,F,1960.0,Mary,260
- GA ,F,1922.0,Linda,96
-GA,F,1953.0,Jordan,27
- GA ,F,1924.0, Casey ,5
-GA, F ,1971.0,Casey,21
-GA,F,1933.0,jennifer,312
-GA,F,1956.0,Jennifer,252
-GA, M ,1986.0,James,555
-GA,F,1976.0,patricia,185
-GA, F ,2007.0,Jordan,45
-GA,,1991.0,Mary,607
-GA,M,1982.0,John,400
-GA,,2007.0,Jennifer,5
-GA, M ,1954.0,John,84
- GA ,F,1980.0,Jennifer,244
-GA,,1974.0,Alex,347
-,M,1961.0,Robert,157
-GA,M,2022.0,James,
-GA,,1947.0,,408
-GA, F ,1952.0,Casey,
-GA,F,1978.0,Alex,67
-GA,M,1989.0,Michael,350
-GA,F,1915.0,Taylor,8
-GA,F,1992.0,Mary,466
-GA,,1967.0, Robert ,82
-GA,F,1953.0,Jennifer,194
-GA,M,1970.0,Casey,472
- GA ,M,1926.0,Casey,46
-GA,F,1911.0,Patricia,20
-GA,F,1951.0,,94
-,,1968.0,Mary,289
-GA,F,1949.0,Jennifer,36
-GA,M,1965.0,Taylor,21
-GA,M,1962.0,Michael,
-GA,F,,Alex,40
-GA,,1954.0,Taylor,303
-GA,M,1957.0,James,302
- GA , M ,2007.0,Taylor,16
-,F,1938.0,,33
-GA,F,1952.0,alex,24
-GA,F,2009.0,Mary,45
-GA,M,1974.0,John,287
-,F,1946.0,Mary,207
-GA,F,1950.0,Alex,21
-GA,F,1966.0,Mary,739
-GA,M,1941.0,Casey,114
-GA, M ,1919.0,Alex,5
-GA,M,1962.0,alex,580
-GA,M,1987.0,John,151
-GA,M,1933.0,James,33
-GA,F,2001.0,Casey,317
-GA,M,2015.0,Alex,110
-GA, F ,2014.0,Linda,209
-GA,F,1949.0,Taylor,
-, M ,2014.0,John,117
-GA,F,1965.0,Mary,167
-GA,F,1924.0,Taylor,5
-GA,M,1964.0,,
-GA,,1975.0, Casey ,271
-GA,F,1919.0,Patricia,28
-GA,M,2006.0,Michael,40
-GA,M,2010.0,Robert,429
-GA,M,1949.0,Alex,148
-GA,M,1928.0,John,6
- GA , F ,1978.0,Patricia,157
-GA, M ,1967.0,James,138
-GA,F,1968.0,Jordan,11
-GA,F,1986.0,Patricia,504
-GA, F ,1987.0,Patricia,614
-GA,F,1995.0, Jennifer ,10
-,F,1993.0,Mary,209
-,M,1918.0,Michael,14
-GA,F,1924.0,Taylor,5
-GA,M,,Michael,366
-GA,M,1975.0,Alex,716
-GA,F,1995.0,Casey,467
-GA,F,1955.0,Taylor,27
-GA,,1981.0,Casey,442
- GA ,M,,Taylor,229
-GA,F,2020.0,,137
-GA,M,1976.0,Alex,360
-GA,F,1969.0,Patricia,271
-GA, M ,1926.0, Alex ,11
- GA ,M,,Jordan,93
-GA,F,1997.0,Jennifer,99
- GA ,F,1974.0,linda,155
-GA,F,1959.0,Casey,342
-GA,M,2002.0, Alex ,1028
-GA,M,1942.0,Taylor,5
-GA,F,2022.0,Taylor,
-GA,F,1942.0,Jordan,555
-GA,F,1942.0,Alex,17
-GA,F,1953.0,mary,26
-GA,M,1934.0,Jordan,12
-GA,M,1945.0,Alex,655
-GA,F,1992.0,Alex,401
-GA,,1998.0,Taylor,437
- GA , F ,1969.0,Mary,323
-GA, F ,2017.0,Mary,19
-GA,M,2013.0,John,370
-GA, M ,2001.0,Linda,36
-GA,M,1959.0,Casey,710
-GA,M,1966.0,Alex,
-GA,F,2000.0,Jennifer,668
-GA,F,1940.0,Jennifer,62
-GA, F ,2014.0,Patricia,13
-GA,M,1986.0,Casey,240
-GA,M,1934.0,Alex,48
-GA,M,1997.0, John ,248
-GA,M,2009.0,Michael,1097
-GA,M,1943.0,Taylor,325
- GA ,F,1932.0,linda,11
- GA ,M,1973.0,Alex,614
-GA,F,1954.0,Jennifer,55
-GA,M,1941.0,James,18
-,M,1963.0,Taylor,13
-GA,F,1985.0,Robert,656
-GA,F,2013.0,Taylor,966
-GA,F,1953.0,Linda,591
-GA, M ,1948.0,Taylor,373
- GA ,F,1958.0,casey,76
-GA,,2006.0,Jennifer,369
-GA,F,1919.0,James,5
-GA,M,1990.0,jennifer,340
- GA ,F,1982.0,Jordan,
-,F,1953.0,Patricia,47
-GA,M,1935.0,John,7
-GA, F ,2016.0,Alex,448
-GA,F,1990.0,Mary,515
- GA ,M,1966.0,Taylor,26
-GA, F ,2007.0,Jordan,45
-GA,F,1954.0,Mary,125
-GA,M,1937.0,James,416
-GA,M,1976.0,John,222
-GA,M,1940.0,Alex,15
-GA, M ,1927.0,James,20
- GA ,M,2022.0,John,188
-GA,M,1915.0,Robert,8
-GA,M,1939.0,James,694
-GA,,1935.0,Patricia,26
-GA, M ,1976.0,James,223
-GA,F,1960.0,Jennifer,546
-GA,M,1972.0,Jordan,572
-GA,M,2002.0,Casey,318
-GA,M,2014.0,Alex,96
-GA,M,1948.0,Michael,15
-GA,M,1985.0,Casey,487
-GA,F,1969.0,Taylor,173
-GA, M ,1976.0,Michael,69
- GA ,,1987.0,Linda,296
-GA,M,1912.0,,46
-GA,M,1967.0,Jordan,590
-GA,F,1988.0,Linda,22
-GA,M,1988.0,alex,25
-GA,F,2010.0,Alex,
-GA,M,1963.0,Casey,583
-GA,M,1932.0,,9
-GA,M,1919.0,James,386
-GA,M,1972.0,Michael,364
-GA,M,2008.0,,16
-GA,M,1970.0,Robert,202
-,F,,Mary,395
-,M,1951.0,Casey,183
-GA,F,1981.0,Casey,47
-GA,F,1929.0,Patricia,146
-GA,F,1975.0,Casey,87
- GA ,M,1928.0,James,10
-GA,F,1963.0,Casey,580
-GA,M,1991.0,Taylor,61
-GA,F,1957.0,Taylor,96
- GA ,F,1957.0,Patricia,130
-,M,1963.0,John,183
-GA,M,1975.0,Jordan,837
-GA,M,1963.0,Casey,583
- GA ,M,2010.0,James,619
-GA,M,1959.0,James,397
-GA,M,1978.0,Casey,184
-GA,F,1912.0,Casey,24
- GA ,,1956.0,John,60
-GA,M,2012.0, Michael ,126
-GA,,1942.0,Michael,794
- GA ,F,1999.0,Jordan,520
-GA,M,,Casey,76
-GA,F,2003.0,Casey,199
-GA,F,1973.0,,818
-GA,F,1986.0,Jordan,338
-, M ,2012.0, Alex ,7
-GA,F,1955.0,Jennifer,209
- GA ,M,1968.0,Casey,474
-GA,M,1996.0,Jordan,768
-GA,F,1972.0,Alex,223
-GA,M,1932.0,John,7
-GA, F ,1984.0,Patricia,
-GA,F,1910.0,Jordan,13
-GA,M,1942.0,Taylor,5
-GA,F,2015.0,Taylor,73
-GA,F,1927.0,Jordan,10
-GA,F,2018.0,Jennifer,212
-GA,F,1956.0,Mary,258
-GA,,1962.0,Robert,84
-GA,M,1984.0,James,
-GA,M,2005.0,John,162
-GA,M,1976.0,Jordan,547
-GA,F,2006.0,James,224
-GA,F,2011.0,Jordan,46
-GA,F,1977.0,Mary,287
-GA,F,2020.0,Patricia,14
-GA,F,2009.0,Jordan,132
-GA, M ,1950.0,Linda,222
-GA,F,2009.0,Jennifer,888
-GA,M,1993.0,Taylor,186
-GA,M,1952.0,Robert,383
-GA,M,1987.0,Michael,336
-GA,M,1944.0,Alex,66
-GA,M,1950.0,John,199
-GA,M,1983.0,Taylor,120
-GA,M,1949.0,Michael,
-GA,F,1997.0,Patricia,389
-GA,M,1971.0,Robert,445
-GA,M,1950.0,Taylor,39
-GA,F,1993.0,Linda,104
-GA,F,1940.0, Jordan ,118
- GA ,M,1977.0,Robert,456
-GA,M,1943.0,Robert,87
-GA,F,1936.0,Jordan,88
- GA ,F,1939.0,Linda,13
-GA,F,2006.0,michael,16
-GA,M,2013.0,Jordan,391
-GA, M ,1933.0,jordan,5
- GA ,F,1959.0,Patricia,
-GA,F,1946.0,Patricia,84
-GA,F,1997.0,,186
-GA,F,1943.0,Casey,
-GA,F,1970.0,mary,301
-GA, F ,1940.0, Patricia ,536
-GA,M,1956.0,Taylor,
-GA,M,1991.0,Alex,17
-,M,1994.0,Mary,112
-GA,F,1996.0,Jordan,313
-GA,F,1980.0,Mary,259
-GA,F,1979.0, Jennifer ,89
-GA, M ,1979.0,Jordan,889
-GA, M ,2001.0,Linda,36
- GA ,F,2001.0,Alex,394
-GA,M,1997.0,Jennifer,211
-GA,F,2010.0,Taylor,46
-GA,F,1975.0,Mary,
-,M,1937.0,john,27
- GA ,F,1988.0,Casey,643
-,F,2021.0,Jennifer,66
-GA,F,1980.0,Taylor,441
-GA,M,1962.0,Taylor,13
+,M,1983.0,Michael,204
+GA,M,1951.0,Casey,27
+GA,F,1943.0,Alex,21
+GA,M,1995.0,James,218
+GA,F,1955.0,Taylor,448
+GA,F,2006.0, Jennifer ,176
+GA,M,1944.0,Robert,685
+GA,F,1914.0,Mary,18
+GA,M,2019.0,michael,8
+GA,M,1983.0,Casey,79
+GA,M,1975.0,Alex,211
+GA,M,1968.0,Alex,420
+,M,2004.0,Robert,134
+GA,M,2013.0,Jordan,183
+GA,M,1984.0,Alex,662
+ GA ,F,2004.0,Jordan,43
+GA,,1970.0,Alex,190
+GA,F,1963.0,Patricia,84
+GA,F,1998.0,Alex,224
+GA, M ,1944.0,Michael,813
+GA,M,1964.0,Taylor,1078
+GA,F,1987.0, Jennifer ,1185
+GA,F,1967.0,Taylor,527
+ GA ,M,2010.0,James,263
+GA,M,2015.0,Jordan,9
+GA,M,1934.0,Jordan,704
+GA, F ,1968.0,Patricia,313
+GA, F ,1993.0,Jordan,368
+GA,F,1920.0,Alex,100
+GA,F,1991.0,Patricia,26
+GA,M,2006.0, Casey ,418
+, F ,1926.0,Patricia,47
+ GA ,F,1942.0,Patricia,12
+GA,F,1959.0,mary,31
+GA, M ,, Casey ,
+GA,M,1979.0,Casey,306
+GA,M,1980.0,James,130
+GA,F,1933.0,Mary,262
+GA, M ,1996.0,Jordan,64
+GA,M,1968.0,Jordan,51
+GA,F,1945.0,Casey,504
+ GA ,F,1969.0,,225
+GA, F ,1971.0,Jordan,33
+GA,M,1923.0,Taylor,28
+ GA ,M,1954.0,Robert,67
+GA,M,1974.0,Casey,74
+GA,M,2001.0,Jordan,59
+GA,M,1985.0,Casey,320
+ GA ,M,1958.0,John,498
+GA,F,1951.0,Mary,278
+GA,,2005.0,,109
+GA, M ,1975.0,jordan,132
+GA, M ,2010.0,michael,363
+GA,M,1988.0,Robert,385
+GA,F,,taylor,19
+GA,M,1996.0,Robert,41
+GA,M,2020.0,Casey,10
+GA,,1979.0,John,194
+,M,1989.0,Taylor,285
+ GA ,,2011.0,casey,286
+,F,2015.0,Casey,
+GA,F,1987.0, Jennifer ,1185
+ GA ,,2016.0,Jennifer,42
+GA,F,1979.0,Casey,24
+GA, M ,2022.0,Taylor,440
+GA,F,1961.0,,844
+GA, F ,1980.0,Taylor,62
+GA,F,1924.0,Linda,52
+GA,M,,Patricia,238
+ GA ,F,2017.0,Michael,370
+GA,M,,Robert,
+GA, F ,1980.0,Mary,286
+ GA ,F,2006.0,Linda,88
+GA,F,1946.0,,46
+GA,F,1914.0,Patricia,21
+GA,F,1915.0,Mary,12
+GA,F,2001.0,Casey,158
+GA,F,1929.0,Alex,5
+GA,F,,Jordan,98
+GA,M,2006.0,Robert,8
+GA,M,1958.0,Jordan,761
+GA,M,1964.0,Robert,804
+ GA ,M,2015.0,Taylor,6
+GA,M,1937.0,Robert,148
+GA,F,2019.0,,377
+GA,F,1998.0,Patricia,92
+GA,M,,casey,504
+GA,F,1929.0,Mary,14
+ GA , F ,1938.0,Casey,48
+GA,M,1975.0,James,346
+GA,F,1989.0,Robert,735
+GA,F,1976.0,Alex,163
+GA,F,1999.0,Taylor,73
+GA,M,1927.0,James,169
+GA,F,1939.0,Patricia,12
+GA,F,1927.0,Mary,5
+GA,F,2019.0,Alex,324
+GA,F,1982.0,Mary,158
+GA,M,1966.0,Robert,499
+GA,M,1967.0,Robert,209
+GA, M ,1961.0,John,218
+GA,F,1995.0,Linda,19
+ GA , F ,1971.0,alex,846
+GA,F,2017.0,Jordan,339
+GA,M,1941.0,Jordan,569
+GA,,1980.0,Linda,206
+GA,F,2017.0,Jordan,339
+GA,,1969.0,robert,386
+GA,M,2003.0,Alex,518
+GA,M,1994.0,Alex,
+GA,F,1983.0,Alex,282
+GA, F ,1947.0,Taylor,216
+GA,,1941.0,Patricia,595
+ GA ,M,1994.0,James,281
+GA,,1974.0,Mary,601
+,F,2015.0,Patricia,8
+,M,1922.0,taylor,64
+GA,,1940.0,Casey,147
+,M,1927.0,Jordan,229
+ GA ,M,1989.0,John,563
+GA,F,2019.0,Mary,16
+GA, M ,1931.0,Michael,33
+ GA ,M,1973.0,Taylor,586
+GA,F,1978.0,,198
+GA, F ,1920.0, Mary ,11
+GA,M,1975.0,Taylor,205
+GA,M,1988.0,James,177
+GA,F,1980.0,Alex,112
+GA,M,1927.0,Robert,72
+GA,M,,Alex,276
+GA,F,2009.0,Casey,315
+GA,M,2015.0,John,10
+GA,F,1952.0,Mary,227
+GA,M,1982.0,John,225
+,M,1960.0,Robert,401
+GA,F,1953.0,Mary,60
+GA,M,2008.0,John,47
+GA,M,1965.0,Jordan,470
+GA,F,1949.0,Patricia,421
+GA,M,1967.0,Alex,187
+GA,F,1999.0,patricia,599
+ GA ,F,2012.0,Patricia,5
+,F,2000.0,Jordan,
+GA,M,2014.0,Casey,181
+ GA ,F,1986.0,Patricia,166
+GA,F,1935.0,Patricia,144
+GA,M,1944.0,John,15
+GA, M ,1913.0,Patricia,111
+GA,F,1981.0,Linda,58
+GA,F,1922.0,Robert,12
+GA,F,1951.0,Linda,802
+GA,F,1994.0,Alex,389
+GA,M,1979.0,Taylor,53
+GA, M ,1966.0,Casey,283
+GA,F,1997.0,Casey,121
+GA,,1940.0,Taylor,10
+GA, F ,1980.0,Jordan,197
+GA,M,1913.0,Taylor,19
+GA,F,1956.0,Mary,180
+GA,F,1992.0,Alex,84
+ GA , M ,1943.0,Casey,113
+GA,F,1977.0, Mary ,270
+GA,F,2008.0,Alex,825
+GA,F,1933.0,Taylor,69
+GA, F ,1921.0,Patricia,
+GA,F,2017.0,linda,407
+GA,M,1914.0,Casey,
+GA,F,1969.0,Michael,216
+GA,F,1993.0,Patricia,132
+GA, F ,1950.0,Linda,684
+GA,M,2010.0,,69
+GA,F,1988.0,Alex,70
+ GA ,F,1944.0,Linda,
+GA,,1942.0,,121
+GA,M,,James,5
+GA,F,1919.0,Jennifer,105
+GA, M ,, Jordan ,73
+GA, F ,1979.0,jordan,
+GA,F,2003.0,Casey,14
+GA,M,1963.0,,291
+GA,M,1925.0,Alex,99
+GA,F,1955.0,Alex,139
+GA,M,1947.0,Taylor,
+GA,M,1976.0,Alex,289
+GA,F,2013.0,Linda,10
+ GA ,F,1971.0,James,213
+,M,1996.0,John,101
+ GA ,M,1934.0,John,540
+GA,F,1922.0,Alex,16
+ GA ,M,1984.0,Taylor,75
+GA,F,1954.0,Jordan,46
+ GA , M ,2005.0,Robert,33
+GA,M,1966.0,james,283
+GA,F,1963.0,casey,279
+GA,,1980.0,Casey,62
+GA,M,1933.0,Alex,70
+GA,M,1999.0,John,125
+GA,M,1952.0,Alex,41
+GA,M,1936.0,Casey,159
+GA,F,1978.0,Casey,504
+ GA ,M,2014.0,Michael,38
+GA,F,1925.0,Casey,78
+GA,F,,Linda,157
+GA, F ,1976.0,Mary,29
+ GA ,M,1949.0,Robert,
+GA,F,1923.0,Alex,9
+GA,F,1932.0,Linda,178
+GA,F,1945.0,Alex,497
+GA,F,2006.0,Jordan,49
+GA, M ,1965.0,robert,269
+GA,M,2014.0,Jordan,22
+GA,F,1959.0,Jennifer,1151
+GA,F,2010.0,Casey,61
+,M,1937.0,Casey,69
+GA,M,1988.0,Taylor,317
+GA,F,1938.0,Jordan,88
+GA,M,2006.0,Alex,
+GA,F,1918.0,Jordan,11
+GA,M,2015.0,Robert,793
+GA,F,1938.0,Jennifer,15
+ GA ,M,1951.0,Taylor,500
+GA,M,1974.0,Robert,217
+GA,F,2009.0,Jennifer,
+GA, F ,1925.0,Linda,7
+GA,M,1976.0,Linda,674
+ GA ,M,1973.0,Michael,199
+ GA ,F,,,151
+GA,F,1960.0,Patricia,44
+GA, F ,1962.0,Casey,134
+GA,M,2011.0, Michael ,262
+GA,M,1942.0,James,
+GA,F,1981.0,Patricia,444
+GA,F,1945.0, Patricia ,451
+GA, M ,1972.0,James,140
+GA,F,1973.0,Mary,391
+GA,F,1923.0,Alex,9
+GA,F,2011.0,Jennifer,87
+GA,F,2002.0,Jennifer,369
+GA,M,,Michael,255
+GA,F,1980.0,Jennifer,254
+GA,F,1929.0,Casey,5
+GA,F,1972.0,Mary,33
+GA,M,1976.0,John,113
+GA,F,1996.0,John,117
+GA,F,1957.0,Jennifer,309
+GA,F,,Mary,
+GA,M,1970.0,Jordan,66
+GA,F,1967.0,Jennifer,243
+GA,M,1925.0,Jordan,6
+GA,M,1972.0,Michael,218
+,F,1947.0,Alex,82
+GA,M,2000.0,Alex,100
+GA,F,1953.0,Jennifer,165
+GA,F,2021.0,Jennifer,24
+GA,F,1991.0,Jennifer,97
+GA,F,1929.0,Linda,326
+GA,F,1948.0,Patricia,440
+,F,2015.0,Jordan,84
+GA,F,1913.0,,65
+GA,F,2016.0,Alex,470
+GA,F,1975.0,jennifer,178
+GA,M,1956.0,Alex,995
+GA,F,1963.0,Jordan,10
+GA,F,1991.0,Alex,8
+GA,F,2020.0,Linda,349
+GA,F,1992.0,Casey,238
+GA,F,1984.0,Patricia,198
+GA, F ,1922.0,Patricia,6
+GA,F,1912.0, Alex ,6
+ GA ,F,2002.0,Alex,9
+GA, F ,1920.0, Mary ,11
+GA,,1950.0,Jennifer,20
+GA,,1995.0,Jennifer,721
+GA,M,1951.0,John,13
+GA,F,,Jennifer,5
+GA,F,2003.0,Robert,111
+GA,M,1929.0,Michael,11
+GA,M,1961.0,Jordan,91
+GA,M,1981.0,,265
+GA,M,1993.0,Casey,185
+GA,F,1917.0,Alex,235
+GA,M,1960.0,Taylor,
+GA,M,1962.0,Alex,123
+ GA ,F,,Jordan,1068
+GA,M,1927.0,Mary,14
+ GA ,F,1979.0,Mary,264
+ GA ,M,2019.0,Taylor,28
+GA,M,1990.0,John,199
+GA,M,1996.0,Casey,137
+GA,M,1994.0,Taylor,273
+GA,M,,John,235
+ GA ,F,1989.0, Jennifer ,81
+GA,F,1988.0,Jordan,27
+GA,M,1954.0,Alex,800
+GA,M,1980.0,Robert,533
+GA,F,1958.0,linda,26
+GA,F,1931.0,Alex,5
+GA,F,2005.0,,31
+GA,F,1976.0,Casey,881
+GA, F ,2002.0,,623
+GA,F,1917.0,Mary,35
+GA,M,1948.0,Michael,462
+GA, F ,1923.0,Patricia,6
+GA,F,2017.0,Patricia,51
+GA,M,2007.0,Casey,34
+GA,F,1978.0,Alex,326
+GA,M,1954.0,,388
+,F,1976.0,Taylor,397
+GA,F,1934.0,Patricia,19
+GA,M,2003.0,Casey,64
+GA,F,2019.0,Casey,612
+GA,M,1970.0,Casey,245
+GA,F,1981.0,Casey,776
+ GA ,M,1912.0,Linda,28
+ GA ,F,1950.0,Casey,171
+GA,F,2006.0,Alex,48
+GA,M,2018.0,Linda,5
+ GA ,M,2016.0,Taylor,118
+,F,1956.0,Jordan,9
+GA,M,1990.0,Robert,613
+GA,M,1945.0,Casey,50
+GA,M,1992.0,Taylor,269
+GA,M,1977.0,Mary,635
+GA,M,1959.0,John,70
+GA,F,2006.0,Taylor,35
+GA,F,1951.0,Jordan,616
+GA,F,1941.0,Linda,
+GA,M,1927.0,Casey,210
+GA,F,2014.0,Linda,8
+GA,F,1996.0,Taylor,239
+GA,,1984.0,Jordan,167
+GA,,1969.0,Mary,83
+GA,F,1971.0,Mary,313
+GA,M,1916.0,Jordan,91
+GA, M ,1920.0,Mary,23
+GA,M,1943.0,Jordan,380
+GA,M,1929.0,John,7
+GA,F,2000.0,Patricia,287
+ GA ,M,2014.0,Taylor,129
+GA,F,2016.0,Taylor,21
+ GA ,F,1967.0,Jordan,50
+GA,F,1996.0,Mary,53
+GA,F,1940.0,john,322
+GA,F,1958.0,Alex,442
+GA,M,1990.0,Jordan,184
+GA,M,1918.0,Jordan,102
+GA,M,1925.0,John,70
+GA,F,1983.0,Jordan,176
+GA,F,2021.0,Linda,518
+,M,1971.0,Michael,268
+ GA ,F,1970.0,Jordan,520
+GA,M,1954.0,Michael,40
+GA,F,1994.0,Robert,112
+GA,F,1935.0,Alex,277
+GA,M,1956.0,Casey,53
+GA,M,1927.0,Mary,14
+GA,F,1928.0,Alex,7
+GA,F,1988.0,Linda,1137
+GA,,2019.0,James,246
+GA,M,1950.0,Jordan,321
+GA,,1975.0,Robert,74
+ GA ,M,2021.0,Robert,7
+GA,M,1942.0,Casey,16
+,M,1984.0,Casey,239
+GA,F,1959.0,Taylor,196
+GA,F,1936.0,Taylor,63
+GA,M,2003.0,Taylor,96
+GA,M,1961.0,Mary,357
+GA, M ,1963.0, James ,148
+GA,F,1955.0,jennifer,55
+GA, M ,1980.0,Casey,508
+GA,M,1998.0,Alex,
+GA,M,1936.0,patricia,24
+GA,F,1926.0,Casey,8
+GA,M,1997.0,John,7
+GA, M ,1923.0,John,95
+GA, F ,1944.0,Alex,76
+GA,M,1993.0,,343
+GA,M,1938.0,Casey,25
+GA, M ,1971.0,John,88
+GA,F,,Casey,24
+GA, M ,1980.0,Alex,229
+ GA ,M,1976.0,Patricia,107
+GA, M ,1931.0,James,129
+GA,,1950.0,Casey,226
+GA, M ,1988.0, Jordan ,524
+GA,F,1919.0,Linda,102
+GA,M,1979.0,james,215
+GA,M,1951.0,Michael,30
+GA,F,1968.0,casey,325
+GA, M ,2007.0,John,416
+,M,1977.0,Robert,338
+GA, F ,2012.0,Mary,5
+GA,M,2005.0,Taylor,19
+ GA , F ,1965.0,Michael,52
+GA,F,1951.0,Taylor,70
+GA, M ,1975.0,jordan,132
+ GA , F ,2001.0,Jordan,51
+GA,M,1998.0, John ,207
+GA, M ,1926.0,Casey,8
+GA,F,2001.0,linda,310
+,F,1946.0,Jennifer,13
+GA,F,2001.0,Alex,23
+, M ,1987.0,Linda,111
+GA,F,1962.0,,
+GA,F,1945.0,Mary,
+ GA ,F,2010.0,Patricia,295
+GA,M,1953.0,John,291
+GA,M,1981.0,Michael,
+ GA ,M,1925.0,Taylor,
+GA,F,1979.0,Linda,1688
+GA,F,1942.0,Casey,922
+ GA ,M,1985.0,Robert,585
+ GA ,F,1985.0,Mary,129
+GA, F ,1967.0,Patricia,362
+GA,M,2010.0,Taylor,294
+GA,M,1942.0, Robert ,12
+GA, F ,1984.0,Jordan,98
+GA,F,,Alex,318
+GA,M,1973.0,Robert,741
+GA,F,1985.0,Robert,431
+GA,M,1995.0,Alex,71
+,F,1965.0,Linda,737
+ GA ,M,,Taylor,1009
+GA, F ,1985.0,,37
+GA,,1975.0,Alex,375
+GA,M,1972.0,John,502
+,F,1921.0,,
+GA, F ,1968.0,Patricia,313
+GA,F,1944.0,Jordan,51
+GA,F,1934.0,Jennifer,152
+GA,M,1960.0,Michael,167
+GA,F,2008.0,Robert,155
+GA, F ,1923.0,Jennifer,7
+GA,M,1989.0,,178
+GA,F,1968.0,Jordan,685
+GA,M,1998.0,Robert,65
+GA,M,2003.0,John,279
+GA,M,2016.0,James,231
+GA,F,2010.0, John ,5
+GA,F,1968.0,Taylor,630
+GA,F,1987.0,Alex,639
+ GA ,F,1985.0,Alex,270
+GA,M,1941.0,John,653
+,M,1957.0,Jordan,102
+GA,M,1959.0,,64
+GA,M,1976.0,Linda,674
+GA,F,1981.0,Casey,776
+ GA ,F,1998.0,Jennifer,184
+GA,M,1933.0,James,15
+GA,M,,Robert,209
+GA,F,1956.0,Taylor,72
+GA,M,1993.0,,
+GA,M,1941.0,,7
+GA,F,2015.0,jennifer,144
+GA,M,,Alex,595
+GA,,1988.0,Alex,252
+GA,M,1920.0, James ,105
+GA, F ,1982.0,Casey,496
+GA,M,1910.0,Robert,10
+GA,F,1957.0, Taylor ,225
+GA,M,1945.0,John,18
+GA,M,1953.0,Alex,5
+GA,F,1937.0,Jennifer,427
+GA,,1966.0,John,709
+ GA , M ,2021.0,,117
+ GA ,,1980.0,Jordan,37
+GA,F,1948.0,Alex,16
+GA,M,1996.0,Alex,182
+,F,2022.0,Jordan,267
+GA,F,1996.0,casey,91
+GA,F,2009.0,Alex,5
+GA, F ,1969.0,Taylor,246
+GA,M,1911.0,Alex,10
+GA,M,1928.0,Casey,13
+ GA ,F,1938.0,alex,12
+GA,M,1961.0,Casey,331
+GA,F,1995.0,Casey,405
+GA,M,1958.0, Alex ,
+GA,F,1982.0,Jennifer,248
+GA,F,,Alex,526
+GA,F,1985.0,Jennifer,224
+GA,M,2002.0,Robert,837
+GA,F,1975.0,Mary,945
+GA,M,1932.0,James,239
+GA,F,1991.0,,212
+GA,M,2016.0,Robert,7
+GA,F,1962.0,Patricia,642
+GA, M ,1970.0,John,10
+GA,M,1910.0,,14
+GA,F,1935.0,Taylor,
+GA,M,1992.0,James,399
+GA,M,1925.0,Michael,68
+GA,M,1997.0,Michael,236
+GA,F,1985.0,Casey,995
+ GA ,F,1935.0,Jordan,344
+GA,F,1953.0,Linda,220
+GA,M,1942.0,John,29
+GA,F,1917.0,Casey,6
+GA,F,1984.0,Mary,718
+GA,M,1970.0,Robert,688
+GA,F,1963.0,jennifer,274
+ GA ,M,1984.0,John,303
+GA,F,1992.0,Mary,
+GA,F,1953.0,Alex,104
+GA,M,2001.0,,206
+GA,M,2017.0,Jordan,76
+GA,M,1912.0,Jordan,95
+GA,F,1943.0,Casey,15
+GA,M,1935.0,Taylor,46
+GA,F,1999.0,Jennifer,303
+GA,F,2012.0,casey,
+GA, F ,1945.0,Jennifer,17
+GA,F,1955.0,Linda,314
+GA,F,1927.0,Jennifer,
+GA,F,1960.0,Mary,239
+GA,F,1963.0,casey,279
+ GA , F ,1937.0,Patricia,400
+GA,,1966.0, Michael ,11
+GA,M,1999.0,michael,212
+GA,F,1925.0,Mary,67
+ GA ,F,2018.0,Jordan,193
+GA,F,2022.0,Casey,167
+GA,M,1981.0,John,711
+GA,F,1950.0,Alex,5
+GA,F,,Michael,290
+GA,F,1997.0,Mary,
+GA, F ,1924.0,Alex,
+GA,M,1940.0,John,
+GA,M,1934.0,Taylor,58
+,F,1987.0,Linda,380
+GA,M,1978.0,casey,223
+GA,F,1950.0,Mary,438
+GA,F,2011.0,Patricia,106
+ GA ,F,1990.0,Patricia,196
+,F,1959.0,Patricia,231
+GA,M,1996.0,James,61
+GA,F,1910.0,Linda,10
+GA,M,1947.0,James,211
+GA, F ,2014.0,Jordan,31
+ GA ,M,2007.0,,46
+ GA ,F,2003.0,Patricia,35
+GA,M,1974.0,James,906
+GA,M,1939.0,Casey,11
+GA, F ,1966.0,Jennifer,534
+GA,M,1985.0,james,601
+GA,M,2014.0,James,86
+GA,F,1962.0,Taylor,
+,F,1916.0,,19
+GA,M,2000.0, Michael ,274
+GA,M,1985.0,Taylor,554
+GA,M,1930.0,casey,401
+GA,M,1923.0,Casey,75
+GA, F ,2009.0,taylor,33
+GA,F,1974.0,Jennifer,500
+GA,F,1973.0,Alex,56
+GA,M,1914.0,Robert,53
+GA,M,2017.0, Alex ,56
+ GA ,,2008.0,Jordan,15
+GA,M,1941.0,Alex,187
+GA,F,2022.0,jennifer,12
+GA,M,1911.0,John,59
+GA,M,1915.0,,118
+ GA ,M,1998.0,Mary,61
+GA,F,1977.0,alex,234
+GA,F,1954.0,Alex,439
+GA,F,1998.0,Taylor,15
+ GA ,F,2005.0,Mary,155
+GA,F,1980.0,Patricia,429
+,M,2003.0,,
+,,1984.0,Jennifer,426
+GA,F,2013.0,Jennifer,27
+GA,F,1990.0,Casey,
+GA,,1997.0,Robert,117
+GA,F,1974.0,Jordan,116
+GA,,2007.0,Casey,107
+GA,F,1936.0,Patricia,602
+GA,M,1935.0,Alex,
+GA,F,1976.0,Jordan,52
+GA,F,2016.0,Casey,26
+GA,F,1951.0,Patricia,315
+GA,M,1986.0,Michael,184
+ GA ,M,1983.0,John,20
+GA,M,1969.0, James ,577
+GA, M ,1955.0,James,67
+GA,,1920.0,Casey,68
+,F,1955.0,Mary,
+GA,F,2006.0, Mary ,181
+GA,M,1930.0,Jordan,8
+GA,F,,Mary,24
+GA,F,1957.0,Jordan,263
+GA,F,2015.0,Linda,126
+,,1927.0,Michael,10
+GA,F,1984.0,,369
+,M,1991.0,Robert,434
+GA,M,1991.0,Michael,22
+GA,M,1982.0,Alex,206
+GA,F,1983.0,Jennifer,751
+GA,F,1962.0,Jordan,252
+GA,,1993.0,linda,55
+GA, M ,,Michael,58
+GA,F,1975.0,linda,431
+GA,F,1927.0,Casey,243
+GA,M,2001.0,,119
+GA,M,2016.0,Alex,439
+GA,F,1959.0,Alex,256
+GA,M,2020.0,Robert,69
+GA,F,2015.0,Taylor,20
+GA,F,1957.0,Mary,114
+GA,F,1999.0,Linda,999
+ GA ,M,2014.0, Mary ,10
+GA,F,1916.0,Patricia,7

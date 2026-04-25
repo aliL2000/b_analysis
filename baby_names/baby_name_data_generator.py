@@ -31,10 +31,7 @@ os.makedirs(output_dir, exist_ok=True)
 # -------------------------
 def randomize_column_names():
     variants = [
-        ["state", "sex", "year", "name", "count"],
-        ["State", "Sex", "Year", "Name", "Count"],
-        ["stateCode", "gender", "birthYear", "firstName", "numOccurrences"],
-        ["STATE", "SEX", "YEAR", "NAME", "COUNT"]
+        ["state", "sex", "year", "name", "count"]
     ]
     return random.choice(variants)
 

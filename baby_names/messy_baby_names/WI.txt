@@ -1,1650 +1,1661 @@
-State,Sex,Year,Name,Count
-WI,F,1998.0,Alex,28
-WI,M,1920.0,john,6
-WI,M,1999.0,Casey,682
-WI,F,1983.0,Casey,167
-WI,F,1988.0,Jennifer,104
-WI,M,1950.0,Taylor,885
-WI,F,2010.0,Taylor,21
- WI , M ,1932.0,Michael,344
-WI,F,, Linda ,226
-WI,M,1970.0,James,96
-WI,,1984.0,Alex,391
-WI,F,1983.0,Jennifer,218
-,,1959.0,Michael,119
-WI,F,2012.0,Taylor,650
-WI,F,2021.0,Patricia,139
-WI,M,1938.0,robert,182
-WI,F,2007.0,Jordan,75
-WI, M ,1956.0, Robert ,
-WI,M,1932.0,John,20
-WI,F,1965.0,Mary,427
-WI,F,1919.0,Casey,195
-WI,M,1985.0,Linda,444
-WI,M,1988.0, James ,421
-WI,F,1977.0,Casey,132
-WI,M,1936.0,Jordan,454
-WI,M,1972.0,Alex,767
-WI,F,2018.0,Mary,28
-WI,M,1929.0,Alex,24
-WI,M,1929.0,,155
-WI,,1966.0,Alex,6
-WI,F,,Alex,523
-WI,M,1931.0,John,8
-WI,M,2019.0,John,266
-WI,M,1935.0,Patricia,6
-WI,M,1980.0,Casey,338
-WI,F,1987.0,Jordan,134
-WI, F ,1979.0,Taylor,319
-WI,M,1958.0,Jordan,45
-WI,M,1967.0,Alex,527
- WI ,M,1932.0,Robert,6
-WI,F,1946.0,Taylor,115
-WI,,1986.0,,407
-WI,M,1969.0,James,344
-WI,F,,Jordan,120
- WI ,M,1950.0,John,9
-WI, M ,,James,452
-WI,M,2011.0,Taylor,629
-WI,,2001.0,Robert,849
-WI,M,1989.0,Alex,94
-WI,M,1986.0,casey,
-WI,F,1955.0,Jennifer,323
-WI,,1926.0,James,32
-WI,M,1948.0,Casey,119
-,M,1957.0,Robert,1402
-WI, F ,1970.0, Linda ,60
-WI,M,1991.0,Jordan,452
-WI,M,1928.0,Michael,159
-,M,1961.0,Casey,169
- WI ,M,,Jordan,109
-WI,M,1959.0,Alex,444
-WI,M,1958.0,Taylor,28
-WI,F,1920.0,Jennifer,198
-WI,M,,Casey,359
-WI,F,1988.0, Patricia ,231
-WI,F,1986.0,Mary,1055
-,F,,Casey,109
-WI,M,1937.0,Alex,105
-WI, M ,1956.0,James,11
- WI ,M,2014.0,Jordan,207
-,F,1964.0,Alex,680
-WI,F,1950.0,jennifer,102
-WI,F,1946.0,Jordan,52
-WI,M,,Casey,128
-WI,M,2021.0,jordan,11
-WI,M,1945.0,Alex,83
-WI,M,,Casey,527
-WI,M,1914.0,Jordan,58
-WI,F,2010.0,jennifer,201
-WI,M,1911.0,Michael,41
- WI ,F,2006.0,Linda,191
- WI ,M,1989.0,Taylor,84
-WI,F,1987.0,Linda,476
-WI,F,1981.0,Patricia,256
-WI,M,1917.0,Alex,15
-WI,M,,Taylor,
- WI ,F,1930.0,Jennifer,20
-WI,F,2008.0,Jordan,88
-WI,M,1968.0,Patricia,297
-WI,M,2020.0,Linda,5
-WI,M,1919.0,Taylor,19
-WI,M,1998.0,John,118
-WI,F,1978.0,Linda,157
-WI, M ,1974.0,Robert,191
-WI,F,2020.0,Alex,150
-WI,F,2013.0,Patricia,1161
-WI, F ,2005.0,Casey,45
-WI,F,1939.0,Jennifer,570
-WI,M,1944.0,Michael,250
-WI,M,1942.0,Taylor,15
-WI,F,1930.0,linda,6
-,M,1968.0,Alex,255
-WI,F,1973.0,Patricia,203
-WI, F ,1940.0,,23
- WI ,M,1956.0, Michael ,823
-WI,M,2015.0,Casey,
-WI,,,Jordan,362
-WI,F,1953.0,Taylor,238
-WI,M,2021.0,john,71
-WI,M,1945.0,John,110
-WI,F,1983.0,Jordan,409
-WI,F,1947.0,Robert,113
-WI,M,1956.0,Alex,108
-WI,M,1943.0,Alex,24
-WI,F,2016.0,Alex,594
-WI,M,1995.0,Alex,1052
-WI,M,1973.0, Alex ,745
-WI,F,1936.0,Linda,250
- WI ,F,1920.0,Taylor,78
-WI,F,1945.0,Alex,219
- WI ,M,1971.0,Alex,437
-WI,F,2022.0,Jordan,5
-WI,F,2000.0,Taylor,
-,M,1992.0,James,69
-WI,F,2021.0,Casey,30
-WI,F,,Patricia,86
-WI, M ,1990.0,Casey,46
-WI,M,,James,596
-WI,,2000.0,John,36
-WI,M,1949.0,Jordan,17
-WI,,1993.0,Casey,654
-WI,M,1956.0,John,138
-WI,F,2013.0,Mary,28
-WI,M,1921.0,James,96
-WI,F,1998.0,Mary,358
-WI,F,1994.0,Jennifer,
-WI, F ,2020.0,jordan,5
-WI,M,2014.0,Michael,31
-WI,M,1937.0,James,785
-,F,2000.0,Patricia,72
-WI,M,1976.0, Casey ,343
-WI,F,1991.0,Mary,
-WI,M,2004.0,Taylor,43
- WI ,F,2002.0,Casey,108
-WI,M,1965.0,Taylor,406
-WI, M ,1992.0,Jordan,465
- WI ,F,1963.0,Taylor,71
-WI,M,1927.0,Michael,308
-WI,F,1989.0,Taylor,99
-WI,F,1985.0,Jordan,239
- WI ,M,1962.0,Jordan,578
-WI,M,1965.0, Alex ,
-WI,F,1916.0, Linda ,58
-WI, M ,1975.0,Jordan,660
-WI,F,1972.0,Mary,216
-WI,M,1919.0,Michael,12
-WI,,1936.0,Alex,69
-WI,M,1971.0,Casey,208
-WI, M ,1994.0,John,616
-WI,M,1947.0,Jordan,7
-WI,M,2008.0,Jordan,11
-WI, F ,2010.0,Jordan,304
-WI,,2022.0,Casey,29
-WI,F,2013.0,Linda,125
-WI,F,1965.0,Casey,
-WI,M,2016.0,taylor,126
-WI, M ,1919.0,Casey,12
-,M,1963.0,Casey,660
-WI,F,2018.0,Taylor,75
-WI,M,1963.0,Jordan,936
-WI,M,1960.0,Casey,551
-WI,F,1982.0,Alex,47
-WI,F,1959.0,Jennifer,56
-WI,F,1943.0,Linda,42
-WI,M,,Taylor,339
-WI,F,1952.0,Jennifer,477
- WI , F ,1953.0,Jennifer,186
-WI,F,1924.0,Mary,333
- WI ,F,1945.0,James,154
-WI,M,2019.0,Michael,46
-WI,M,1996.0,James,401
-WI,F,2021.0,Taylor,68
-WI,F,1962.0,Patricia,830
-WI,,1928.0,Robert,88
-WI,M,1938.0,Casey,411
-WI,F,1927.0,Mary,14
-WI,M,2019.0,Casey,34
-WI,F,1974.0,Jennifer,727
-WI,F,1992.0,patricia,
-,F,1948.0,Taylor,29
-WI,F,1956.0, Linda ,231
-WI,M,1948.0,Alex,53
-WI,F,2020.0,Patricia,108
-WI,M,1916.0, Robert ,70
-WI,F,1990.0,Jordan,68
-WI, F ,1955.0,,211
-WI,M,1996.0,Robert,88
- WI ,F,1945.0,James,154
-WI, M ,1946.0,john,9
-WI,F,1922.0,Jordan,11
-WI,F,2017.0,Patricia,82
-WI,M,1947.0,Michael,9
-WI,F,1945.0,Jennifer,38
-WI,F,1953.0,John,46
-WI,M,2009.0,Jordan,151
-WI,F,2001.0,Taylor,918
-WI,F,2004.0,Linda,183
-WI,F,1993.0,Taylor,138
-WI,M,1943.0,James,53
-WI,M,1961.0, James ,575
-WI,M,1978.0,John,517
-WI,M,1966.0,John,75
-WI, F ,1934.0,Patricia,161
-WI,M,1947.0,Linda,301
-,F,1987.0,,656
-,F,,Alex,286
-WI,F,1972.0,Casey,276
- WI ,F,1987.0,James,173
-WI,,1974.0,Linda,1246
-WI,M,1980.0,James,378
-WI, M ,2013.0,Jordan,117
-WI,F,1925.0,Patricia,84
-WI, M ,1989.0,Jordan,84
-WI,M,1967.0,Taylor,245
- WI ,M,1962.0,Alex,127
-WI,,1947.0,Alex,54
-WI,,1957.0,Alex,154
-WI,M,1948.0,Jordan,38
-WI, M ,2009.0,Robert,16
- WI ,F,1930.0,James,36
-WI,M,1957.0,Taylor,417
-WI,F,2007.0,Alex,121
-WI,M,,Taylor,299
-WI,M,1970.0,Robert,414
- WI ,F,2005.0,Mary,9
-WI,M,1980.0,Taylor,567
-WI,M,2020.0,Casey,50
- WI ,M,2005.0,Casey,210
-WI, F ,1923.0,Linda,93
-WI,M,1948.0,John,645
-WI,F,1944.0,Jordan,227
-WI,F,1956.0,Mary,
-WI, M ,1960.0,Taylor,44
-WI, F ,1997.0,Alex,663
-WI, F ,2007.0,Taylor,239
-WI,M,1969.0,Robert,83
-WI,M,2003.0,Alex,959
-WI,F,1976.0,Linda,157
-WI,M,2012.0,Michael,164
-WI,M,1928.0,John,277
-WI,M,1942.0,John,110
-WI,F,1987.0,Patricia,184
-WI,F,1958.0, Jennifer ,1158
-WI,M,1967.0,James,473
-WI,M,1996.0,Alex,208
-WI,M,1945.0,Robert,62
-WI,F,1998.0,Jordan,533
-WI,F,1971.0,Alex,749
-WI,M,1953.0, Alex ,262
-WI,M,1993.0,Taylor,38
-WI,F,1944.0,Jordan,227
-WI,F,1979.0,Mary,
- WI ,F,1982.0,Linda,162
-WI,F,1968.0,Linda,344
-WI, M ,1983.0,jordan,644
-WI,M,1917.0,John,26
-WI,F,1942.0,Jordan,163
- WI ,M,1995.0,Casey,294
- WI ,,2021.0,Mary,
-WI,F,2021.0,Jordan,61
-WI,F,2000.0,Linda,14
-WI,F,1939.0,Linda,18
-WI,F,2018.0,Casey,435
-WI,F,1960.0,Taylor,73
-WI,F,1967.0,Jordan,32
-WI, M ,1962.0,James,98
-WI,F,1961.0,Taylor,808
-WI,F,1953.0,Michael,200
-WI,F,1962.0,Mary,274
-WI,M,1980.0,Jordan,100
-WI,M,,Alex,138
-WI,M,1959.0,John,45
- WI ,M,1946.0,Casey,
-WI,M,1937.0,Taylor,123
- WI ,M,1962.0,Robert,110
-WI,M,2017.0,Michael,297
-WI,F,1940.0,Linda,100
-WI,F,1949.0,Taylor,382
-WI,M,1921.0,Jordan,93
-WI,M,1980.0,michael,606
-,M,2012.0,Taylor,21
-WI,F,,Michael,1038
-WI,F,2006.0,Alex,961
-WI,F,1955.0,Casey,54
-WI,M,1920.0,James,146
-WI,F,1961.0,Jordan,203
-,M,1954.0,Michael,148
- WI , F ,2002.0,Alex,25
-,F,2020.0,Casey,5
-WI,M,1922.0, Alex ,15
-WI,M,1964.0,James,187
-WI,M,1987.0,Taylor,186
-WI,M,2001.0,Alex,271
-WI,F,1985.0,Linda,177
-WI,M,2004.0,Robert,106
-WI,F,1963.0,Alex,112
-,M,1988.0,Michael,30
-WI,M,1953.0,Robert,476
-WI,M,1948.0,patricia,336
-WI,M,1966.0,Jordan,144
- WI ,M,1912.0, Taylor ,22
-WI,F,1949.0,Mary,44
-WI,M,1964.0,robert,12
-WI,F,2010.0,Alex,423
-WI,M,1926.0,Alex,519
-WI,F,1929.0,Jordan,100
-, M ,1998.0,Robert,156
-WI,M,2002.0,Jordan,41
-WI,F,1943.0,Taylor,13
-WI,M,1987.0,Robert,240
-WI,M,1985.0,James,716
-WI,M,1940.0, James ,8
-WI,F,1958.0,Taylor,237
-WI,,1945.0,james,203
-WI,M,1961.0,Taylor,12
- WI ,M,1951.0,James,10
-WI,F,1991.0,Alex,138
-WI,M,1959.0,James,282
-WI,M,1949.0,John,178
-WI,M,1921.0,Michael,166
-WI,F,1958.0,John,184
-WI,M,1971.0,James,25
-WI,F,1971.0,Jordan,107
-WI,F,1996.0,,85
-WI, F ,1942.0,Taylor,262
-WI,F,1941.0,linda,16
-WI,M,1960.0,Robert,18
-WI,F,1988.0,Linda,651
-WI,M,2016.0,Alex,60
- WI ,F,1938.0,robert,16
-WI,M,1991.0,Casey,500
-WI,M,1999.0,John,593
-WI,M,1932.0,,12
- WI ,F,1971.0,Mary,192
-WI, M ,1994.0,James,
-WI,F,1917.0,Jennifer,18
-WI,M,1982.0,Taylor,156
-WI,F,1969.0,Linda,542
- WI ,F,1978.0,Jordan,1062
-WI,F,1996.0,,531
-WI,F,1974.0,Patricia,313
-WI, M ,1984.0,Robert,342
-WI,F,1938.0,Patricia,209
-WI, M ,2021.0,Casey,506
-WI,M,1928.0,Jennifer,7
-WI,M,1951.0,Casey,775
-WI,F,1944.0,Patricia,6
-WI,F,2003.0,Taylor,36
-WI, M ,2011.0,Casey,839
-WI,M,1986.0,John,94
- WI ,M,1989.0,Taylor,84
-WI,F,2019.0,Alex,510
- WI ,M,1973.0, James ,557
-WI,F,1978.0,Jennifer,100
-WI,M,1985.0,Casey,308
-WI,M,2006.0,Jordan,63
-WI,F,1969.0,Jennifer,99
-WI,M,1944.0,James,64
-WI,M,1944.0,Robert,162
-,M,1994.0,,68
-,M,1984.0,Taylor,208
-WI,F,1971.0,,491
- WI , M ,1984.0,,299
-WI,F,1999.0,Alex,265
-WI,F,1934.0,Jordan,257
-WI,M,1974.0,James,291
- WI ,M,1937.0,Casey,228
-WI,M,1974.0,John,572
-, F ,2014.0,Casey,749
-WI,F,1934.0,,33
-WI,,1988.0,Taylor,908
-WI, M ,2016.0,Jordan,419
-,M,2012.0,Jordan,45
-WI,F,2018.0,James,10
-WI,F,1960.0,,10
-WI,M,2006.0,John,138
-WI,F,1964.0,Patricia,5
-WI,M,1973.0,Jordan,194
-WI,M,1955.0,Michael,367
-WI,M,1983.0,Taylor,
-WI,F,,Mary,429
-WI,M,2013.0,Alex,327
- WI ,F,1994.0,John,229
-WI,M,1949.0,Jennifer,56
-WI,M,1948.0,Jordan,38
-,M,2005.0,Alex,354
-WI,M,2011.0,Alex,281
-WI,M,2006.0,Michael,
-WI,M,2010.0,Casey,1454
-,M,1988.0,Taylor,50
-WI,M,,Taylor,299
-WI,F,1926.0,Jordan,42
-,F,1944.0,Michael,239
-WI,F,1918.0,Taylor,18
-WI,M,1982.0,John,430
-WI, F ,1995.0,Patricia,581
-WI,M,2022.0,robert,25
-WI,F,1981.0,mary,625
-WI,M,1977.0,Casey,
-WI,M,1927.0,Taylor,534
-,M,2000.0,Alex,301
-WI,M,,Taylor,93
-WI,F,2007.0,Jennifer,1217
-WI,M,1993.0,Robert,478
-WI,M,1965.0,John,240
- WI ,M,2018.0,Alex,288
-WI,M,1956.0,Jordan,151
-WI, F ,2014.0,Taylor,71
-WI,M,1981.0,Michael,336
-WI,M,1997.0,Michael,93
-,M,1970.0,Jordan,126
-WI, M ,1964.0,Casey,229
-WI,F,1979.0,,253
-WI,M,1975.0,Taylor,109
-WI, M ,1960.0,James,46
- WI ,F,1997.0,Jennifer,53
-WI,,,Patricia,7
-WI,M,1963.0,Robert,62
-WI,F,1988.0,Alex,59
- WI , F ,1911.0,Jennifer,89
-WI,F,1971.0,James,139
-,F,1957.0, Patricia ,272
-WI,F,1957.0,Casey,37
-WI,F,1970.0,Jennifer,1336
- WI ,M,1998.0,James,115
-WI,M,2019.0,Alex,182
-WI,M,2004.0,Alex,368
-WI, F ,1954.0,Jordan,32
-WI,M,1977.0,Taylor,41
-WI,F,1991.0, Jennifer ,46
-WI, M ,2003.0,Casey,1157
-WI,M,2000.0,Robert,741
-WI,F,1925.0,Alex,6
-,M,1990.0,Michael,337
-WI,F,1987.0,Mary,433
-WI, F ,1999.0,Taylor,146
-WI,F,1925.0,Taylor,361
- WI ,M,1953.0,Casey,484
-WI,M,,John,496
-,M,1922.0,Michael,11
-WI,F,1955.0,Taylor,
-WI,M,2004.0,Jordan,30
- WI ,F,2011.0,Taylor,222
-WI,M,1959.0,,20
-WI,F,2001.0,Alex,94
-WI,F,1917.0,Taylor,22
-,F,2016.0,Jordan,40
-WI,M,1950.0,Michael,731
-WI,M,2017.0,John,37
-WI,F,1922.0,Patricia,202
-WI,M,1970.0,Taylor,507
-,F,1985.0,Mary,75
-WI,M,2003.0,,
-WI,F,2017.0,Taylor,85
-WI,M,1921.0,Taylor,42
-WI,,1936.0,Patricia,336
-WI,F,1994.0,Robert,516
-WI,M,1940.0,Alex,18
-WI,M,2011.0,Michael,11
-WI,F,1954.0,John,70
-WI,F,1916.0,Patricia,8
-WI,F,1974.0,Taylor,7
-WI,M,1925.0,Robert,33
-WI,M,2021.0,James,32
-WI,F,,Jennifer,125
-WI,F,2015.0,Jordan,983
-WI,M,1981.0,Taylor,415
-WI,F,1985.0,Jennifer,93
-WI,M,1942.0,Casey,217
-WI,F,1950.0,Casey,267
-WI,F,1927.0,Alex,34
-WI,F,1950.0,Patricia,141
- WI ,F,1965.0,Alex,
-WI,F,1947.0,,15
-WI, F ,1951.0,Taylor,339
-,F,,Casey,209
- WI ,M,2011.0,Robert,15
- WI ,M,,Taylor,92
-WI,F,1939.0,alex,229
- WI ,M,1968.0,Jordan,342
-WI,M,1967.0,Robert,535
- WI ,F,1913.0,Alex,13
-WI,,1960.0,Mary,37
-WI,F,1991.0, Jordan ,86
- WI ,F,1993.0,linda,210
-WI, F ,1983.0,Alex,580
-WI,M,1986.0,Alex,959
-WI,M,1982.0,Jordan,200
-WI,F,1996.0, Mary ,484
-,M,1950.0,James,77
- WI ,M,2015.0,Michael,19
-WI,F,1999.0,Casey,32
-WI, M ,1931.0,Casey,15
-WI,M,1999.0,Robert,591
-WI,F,2012.0,Alex,241
-WI,,1914.0,James,9
-,F,1971.0,Taylor,901
-WI,M,,Michael,697
-WI,M,1935.0,Jordan,10
-WI,F,,Jennifer,123
-WI,M,1972.0,John,
-WI,F,1952.0, Casey ,725
-WI,F,,Robert,413
-WI,,1923.0,Alex,32
-WI,F,,Jordan,16
-WI, M ,1960.0,,128
-WI,M,1953.0,Jordan,226
-WI,M,1995.0,John,221
-WI,F,2006.0,Taylor,275
-WI, F ,1922.0, Michael ,55
-WI,M,1982.0,Casey,398
-WI,M,2002.0,Michael,332
-WI,M,1947.0,James,23
-,F,1971.0,Jennifer,815
-WI,F,1948.0,jennifer,14
-WI,M,2015.0,James,253
-WI,F,1940.0,mary,111
-WI,F,1936.0,Casey,
-WI,F,1960.0,Patricia,173
-WI,,1976.0,Jordan,259
-WI, M ,1932.0,Taylor,276
-WI,F,2017.0,michael,7
-WI,F,1928.0,Linda,69
-WI,M,1942.0,James,6
-WI,M,1999.0,jordan,398
- WI ,M,1986.0,Mary,334
-WI,M,1924.0,michael,13
-WI, F ,1969.0,taylor,122
-WI,M,1995.0,Michael,143
-WI,M,1967.0,Michael,64
-WI,M,1979.0,Casey,265
-WI, M ,2011.0,Jordan,6
-WI,M,2008.0,John,479
-WI,M,1958.0,Robert,36
-WI,,,Mary,649
-WI,M,2005.0,,53
-WI,F,2009.0,Casey,163
-WI,M,1962.0, John ,86
-WI,M,1984.0,John,725
-WI,F,2012.0,Linda,182
-WI,M,2022.0,Jordan,223
-WI,F,1964.0,Jordan,25
-WI,M,1955.0,Alex,322
-WI,F,2019.0,Casey,343
-WI,M,1911.0,Alex,49
- WI ,M,1969.0,casey,78
-,M,2007.0,,167
-WI,F,1980.0,Taylor,303
- WI ,M,1993.0,Michael,160
-WI,F,,Jordan,15
-WI,M,1946.0,Taylor,380
-WI,M,1982.0,Michael,624
-WI,F,1941.0,Alex,8
-WI,F,1981.0,Taylor,60
-,,1993.0,Jordan,
-WI,M,1959.0,Casey,1194
-WI,F,,John,516
-WI, M ,2013.0,,522
-,F,1930.0,Alex,8
-WI,M,1990.0,Robert,195
-WI,F,1968.0,Casey,671
- WI ,M,2003.0,Jordan,28
- WI ,M,1948.0,Taylor,58
-WI, F ,1992.0,Linda,287
-WI,M,2022.0,John,57
-WI,M,1941.0,Taylor,288
-WI,F,1985.0,Jordan,239
-WI,F,1977.0,Jennifer,919
-WI,F,2003.0,Linda,
-WI, F ,1970.0,Alex,63
-WI,M,1916.0,,16
-,F,1994.0,Jordan,155
-WI,F,2006.0,Jennifer,128
-WI,F,1937.0,Alex,151
-WI,M,1968.0,Robert,147
-WI,F,1994.0,Casey,36
-WI,M,1954.0,Casey,321
-WI,F,1934.0,Alex,28
- WI ,F,1948.0,Robert,277
-WI,F,1978.0,Patricia,133
-WI,,1976.0,Jordan,347
-WI,M,1998.0,Michael,
-WI, F ,1924.0,James,
-WI,M,2015.0,John,74
-WI,F,1939.0,Casey,12
-WI,F,1911.0, Jordan ,18
-WI,F,1921.0,Alex,
-WI,F,1962.0,Jordan,597
-WI,M,2018.0,Jordan,
-WI,M,2015.0,,256
-WI,M,1946.0,Michael,
-WI,F,1918.0,Mary,208
-WI,M,1967.0,Taylor,245
-WI,F,1936.0, Jennifer ,25
-WI, F ,,Taylor,29
-WI,F,1974.0,Jordan,57
-WI,F,1968.0,jordan,399
-WI,F,1961.0,Linda,21
-WI, F ,1946.0,Linda,87
-WI,F,2002.0,Taylor,31
- WI ,F,,Patricia,30
-WI,F,2011.0,Jordan,155
- WI ,F,2004.0,Robert,22
-WI,M,,Taylor,
-WI,,1910.0,John,44
-WI,F,2013.0,Jennifer,125
-WI,M,2000.0,,417
-WI,F,2018.0,Jennifer,50
-WI,F,2016.0, Jennifer ,25
-WI,F,1937.0,Jordan,243
-WI,M,1956.0,Casey,157
-WI, F ,1965.0, James ,432
-WI,M,1978.0, Robert ,
-WI,F,1962.0,Alex,60
-WI,M,1921.0,Robert,
-WI,F,1962.0,Jordan,597
-WI,M,1983.0,Robert,721
-WI, F ,1992.0,Jordan,350
-WI, M ,,Jordan,640
-WI,M,1973.0,Robert,372
-WI,F,2022.0,Jennifer,147
-WI,F,1980.0,Alex,148
-WI,M,2010.0,Alex,28
-WI,F,1984.0,Robert,174
-WI,F,1986.0,Patricia,234
-WI,F,1995.0,Linda,125
-WI,F,1984.0,jennifer,184
-WI,M,,Linda,275
-WI,M,2007.0,Taylor,275
-WI, F ,1923.0,Jordan,159
-WI,M,1934.0,Alex,34
-,,2000.0,John,294
-WI,M,1961.0,John,87
-WI, F ,2000.0,Jennifer,
- WI ,M,1933.0,Casey,69
-WI,F,1995.0,John,
-WI,M,1941.0,Alex,464
-WI,M,2010.0,Robert,322
-WI,F,2017.0,Casey,407
-WI,M,1977.0,John,487
-WI,M,1927.0,John,35
-WI,,1952.0,John,66
-WI,M,1958.0,James,37
-WI,F,2013.0,Jordan,133
-WI,F,,,65
-WI,F,1940.0,Jennifer,264
-WI,M,1927.0,Robert,241
-WI,F,2007.0,Mary,251
-,F,1933.0,Casey,5
- WI ,M,2017.0,James,56
-WI,F,1946.0,Mary,95
-WI,M,2006.0,Patricia,88
-WI,F,,Mary,31
-WI,M,1960.0,Robert,18
-WI,M,1992.0,Alex,252
-,M,1997.0,Casey,23
-WI,F,2011.0,alex,423
-WI,M,1982.0,James,15
-WI,F,1980.0,Jordan,
-WI,F,2001.0,Patricia,5
-WI, M ,1964.0,Alex,611
-WI,M,2014.0,Alex,475
-WI,F,,,302
-WI,M,1911.0,Mary,8
-,M,2006.0,James,14
-WI,F,1927.0,patricia,10
-WI,M,1990.0,Taylor,550
-WI,F,1927.0,Jordan,179
-WI,F,2004.0,Patricia,19
-WI,M,1952.0, Linda ,15
-WI,M,1956.0,Taylor,272
-WI,M,1945.0,Jordan,7
-WI,F,1992.0,Jennifer,500
-WI,F,2008.0,Casey,5
-WI,M,,Casey,40
-WI,,2006.0,Casey,746
-WI,F,1948.0,,421
-WI,M,1936.0,Taylor,25
-WI,F,1916.0,Jordan,28
-WI,F,1989.0,linda,1107
- WI , F ,2009.0,Alex,243
- WI ,M,2009.0,Patricia,312
-WI, F ,1989.0, Alex ,327
-WI,M,1994.0,Jordan,405
-WI,F,1915.0,Casey,23
-WI,F,1937.0,Patricia,6
-WI,M,1990.0,Robert,195
-WI,F,2015.0,Taylor,348
-WI,F,1941.0,Jennifer,5
-WI,F,1989.0,Jordan,202
-WI,F,1922.0,Jennifer,18
-WI,M,,taylor,240
-WI,F,1961.0,Mary,10
-WI,F,2001.0,Mary,348
-WI,F,1968.0,Patricia,925
-WI,F,1986.0,Mary,1055
-WI, F ,1931.0,Mary,100
-WI,M,1985.0,Robert,466
-WI,M,1963.0,Alex,64
-WI,F,1994.0,Taylor,322
-WI,F,1940.0,,23
-WI,F,1972.0,Jordan,111
-WI,M,1970.0,Casey,188
-WI, M ,1972.0,James,536
-WI,F,1964.0,James,1046
-WI,,1960.0,Mary,37
-WI, F ,2020.0,jordan,5
-WI,,1974.0,Mary,368
-WI,M,1965.0,michael,169
-WI,,1982.0,Robert,592
-WI,M,1927.0,Jordan,8
-WI,M,2020.0,James,
-WI,,1959.0, Linda ,81
-WI,M,2018.0,John,
-WI,F,1969.0,Mary,531
-WI,F,1969.0,Casey,241
- WI ,F,1937.0,Linda,116
-WI,,1989.0,Casey,142
-WI,M,2005.0,james,49
-WI,M,1919.0,Jordan,10
-WI,F,2002.0, Linda ,1012
-WI,M,1996.0,John,99
-WI,F,1984.0,Casey,464
-WI,F,1941.0,,
-WI,M,2009.0, Casey ,8
-, F ,1944.0,Linda,15
-WI,M,1928.0,,6
-WI,F,1934.0,Casey,65
-WI,F,2012.0,Jordan,198
-WI,F,1957.0,Jennifer,125
-WI,F,1962.0,Taylor,196
-WI, M ,1975.0,Casey,198
-WI,M,1953.0, James ,117
-WI,F,1934.0,Linda,199
-WI,,2002.0,Alex,905
-WI,M,1979.0,michael,177
-WI,M,1930.0,Jordan,242
- WI ,M,1980.0,Alex,710
-WI,F,1918.0,Alex,14
-WI,M,2006.0,Alex,61
-WI,,1979.0,Linda,307
-WI,M,1988.0,Casey,734
-WI,M,1977.0,Robert,614
-WI,M,1983.0,Casey,
-WI,M,1968.0,John,512
-WI,M,,Alex,443
-,F,1953.0,Patricia,156
-WI,M,1936.0,John,27
-WI,F,1996.0,Jordan,670
-WI,F,1987.0,Taylor,289
-WI,F,1997.0,Patricia,163
- WI ,F,1940.0,Patricia,31
-WI,F,1975.0,Linda,299
-WI, M ,1962.0,Michael,827
-WI,F,2007.0,Casey,6
-WI,M,1959.0, Robert ,460
- WI ,M,,John,742
-WI, F ,1967.0,Patricia,473
-WI,F,1988.0,,355
-WI,F,2005.0,Alex,61
-WI,F,1966.0,Jennifer,202
-WI,M,1976.0,Alex,489
-WI,M,1996.0,,65
-WI,M,1984.0,Casey,119
-WI,F,1951.0,casey,396
-WI,F,2017.0,Jordan,349
-WI,F,1927.0,patricia,10
-WI,,1990.0,James,
-,M,1995.0, Taylor ,903
-WI,M,1948.0,Robert,119
-WI,M,2022.0,Alex,7
-WI,F,1973.0,Jennifer,234
-,F,1971.0,Jennifer,815
-WI, F ,2003.0,,54
-WI,F,1998.0,Patricia,397
- WI ,F,,Patricia,1065
-WI,F,1930.0,Taylor,52
- WI ,F,1981.0,Casey,
-WI,F,1961.0,Patricia,81
-WI,M,1995.0,Robert,64
-WI,M,2017.0,Robert,52
-WI,M,1973.0,Taylor,362
-WI,F,2014.0,Linda,10
-WI,F,1954.0,Patricia,345
- WI ,F,,patricia,180
-WI,M,2008.0,Casey,105
-WI,M,2018.0,,508
-WI,F,2005.0,Patricia,47
-WI,M,1992.0,Robert,500
-WI,F,1976.0,Casey,83
- WI ,F,1956.0,Taylor,241
-WI,,1922.0,Taylor,88
-WI,M,2018.0, Casey ,162
-WI, M ,1939.0,Michael,305
-WI,F,1982.0,Jordan,549
-WI,F,1990.0,Taylor,580
-WI,F,1990.0,Patricia,45
-WI,M,1989.0,Casey,
-WI,M,1964.0,Taylor,467
-WI,M,2002.0,Casey,619
-WI,M,1969.0,John,
-WI,M,1958.0,alex,25
-WI,F,1969.0, James ,783
-WI,,2017.0,Linda,89
-WI,F,1960.0,,
-, M ,1965.0,Robert,46
-WI, M ,1939.0,Taylor,529
-WI,M,1914.0,Patricia,37
-WI,F,1915.0,Casey,23
-WI, M ,1942.0,Michael,31
-WI,M,1936.0,Alex,5
-WI,F,1932.0,Taylor,101
-WI,,1932.0, Linda ,
-WI,M,1993.0,Jordan,163
-WI,M,2013.0,Taylor,561
-WI,F,1943.0,Jennifer,5
-,F,1975.0,Jennifer,307
-WI,,1940.0,John,116
-WI,M,1988.0,,118
-WI,M,1997.0,John,325
-WI,F,1977.0,Alex,427
-WI, M ,1964.0,Casey,229
-WI,M,1996.0,Taylor,163
- WI ,F,1959.0,jordan,184
- WI ,F,1967.0,Casey,349
-WI,F,1926.0, Jennifer ,10
-WI,M,1954.0,Jordan,339
-WI,M,1970.0,Alex,25
-WI,F,1944.0,Alex,12
-WI,F,2016.0,Linda,
-WI,F,1996.0,,531
-WI,M,2007.0,Robert,46
-WI,F,1989.0,,11
-WI,M,1987.0,Jordan,782
-WI,M,2015.0,Jordan,100
-WI,F,1979.0,Patricia,277
-WI,F,1999.0,,55
-WI,F,1984.0,Patricia,654
-WI,F,1972.0,linda,493
-WI,F,1940.0,Alex,72
-WI, F ,1940.0,,23
-WI,F,1975.0,Casey,110
-WI,M,,casey,139
-WI,M,1966.0,James,223
-WI,F,1958.0,Jordan,804
-WI,F,1976.0,Taylor,293
-WI,F,2021.0,Jennifer,12
- WI ,F,1973.0,Linda,69
-WI,F,2000.0, Jordan ,57
-WI,M,,Michael,48
-WI,F,1953.0, Jordan ,90
-WI,F,1998.0,Jennifer,141
-WI,F,1973.0,Casey,1325
-WI,F,2006.0,Casey,
-WI,,1986.0,Casey,443
-WI,F,1954.0,Casey,10
-WI, F ,1929.0,Casey,21
-WI,M,1912.0,Jordan,32
-WI,F,1951.0,Linda,169
-WI,M,2022.0,patricia,211
-WI,M,1952.0,Michael,19
-WI,F,1972.0,Patricia,516
-,M,1998.0,Casey,519
-WI,F,2004.0,Taylor,1034
-WI,M,1997.0,James,39
-WI,M,1981.0,Robert,
-WI,M,1930.0,,11
-WI,F,2010.0,Linda,350
-WI,M,1984.0,James,447
-WI,,1953.0,Linda,190
-WI,F,1948.0,,45
-WI, M ,2001.0,Taylor,294
-WI, M ,1946.0,Robert,68
-WI,M,2002.0,James,113
-WI,M,1986.0,Taylor,590
-WI,M,1941.0,James,75
- WI ,F,2001.0, Linda ,261
-WI,F,1918.0,Linda,10
-,F,1963.0,Jordan,686
-WI,M,1992.0,john,1345
-WI,F,1928.0,Casey,13
-WI,F,1914.0,Linda,10
-WI,F,1924.0,Jennifer,95
- WI ,F,1937.0,Taylor,11
-WI,,1969.0,Jordan,237
-WI, M ,1943.0,Jordan,28
- WI ,M,1941.0,Casey,13
-WI, M ,1964.0,Jordan,195
-WI,F,1986.0,Taylor,466
- WI ,M,1955.0,Casey,18
-WI,F,1931.0,Casey,137
-WI,F,1962.0,Casey,17
-WI,M,1933.0,James,
-WI,M,2010.0,Taylor,675
-WI,M,1943.0,Robert,226
-WI,,2004.0,Jordan,793
-,M,1930.0,Taylor,58
-WI,M,1930.0,John,23
-WI,F,1950.0,Linda,89
-WI,F,2004.0,Jennifer,406
- WI ,F,1962.0,Linda,91
-WI,F,1938.0,Mary,158
-WI,F,1921.0,Jennifer,63
-WI,F,1944.0,Jennifer,111
-WI,F,1991.0,Taylor,152
-WI, M ,1948.0,James,163
-WI, M ,1938.0,Michael,54
-WI,F,1911.0,Mary,9
- WI ,M,2013.0,James,613
-WI, F ,2015.0,Alex,257
-WI,F,1992.0,Taylor,567
-WI,F,1980.0,Jennifer,30
- WI ,M,1954.0,Alex,47
-WI,M,1993.0,john,505
-WI,F,1947.0,Linda,657
- WI ,F,1933.0,Jennifer,23
-,F,2022.0,Patricia,85
-WI,M,1990.0,John,29
-WI,M,1918.0,John,
-WI,M,1974.0,,766
- WI ,M,1974.0,Taylor,568
-WI,F,1967.0,Linda,254
-WI,M,1935.0,Casey,347
-WI,M,1989.0,John,764
-WI,,2003.0,Jennifer,797
-WI,M,1961.0,Jordan,542
- WI ,F,2008.0,Taylor,240
-, M ,2007.0,Alex,26
-WI,F,1961.0,Robert,5
-WI,M,1974.0,Michael,
-WI,M,1979.0,Jordan,115
- WI ,M,1989.0,James,282
-WI,F,1970.0,Patricia,593
-WI, F ,1959.0,Mary,987
-WI,F,1963.0,Casey,78
- WI ,F,1921.0,Linda,69
-WI,,1935.0,Alex,
-WI,F,2000.0,Robert,62
-WI,F,1947.0,Mary,
-WI,F,1994.0,Patricia,171
-WI,F,1984.0,Mary,152
-WI,F,1986.0,Jordan,149
-WI,F,2018.0,Alex,700
-WI,,1938.0,taylor,957
-WI,F,1995.0,Taylor,40
-WI,M,1998.0,Jordan,258
-WI,F,,Mary,34
-WI,M,1970.0,Michael,43
-WI,M,1976.0,Taylor,1081
-WI,M,1977.0,James,154
-WI, F ,,jennifer,61
-WI,F,1952.0,Taylor,18
-,F,1968.0,Mary,878
-WI,M,1991.0,,458
-WI,F,1997.0,Casey,163
-,M,1944.0,Casey,490
-WI, M ,1991.0,John,633
-WI,M,1984.0,Jordan,273
-WI,M,1945.0,Michael,180
-WI,F,1982.0,Patricia,344
-WI,M,1975.0,Alex,27
-,M,1957.0,Michael,153
-WI, F ,2015.0,Mary,374
-WI,M,1973.0,Mary,79
-WI,F,1945.0,jordan,6
-WI,M,1976.0,Robert,415
-WI,F,1969.0,Alex,106
-WI, F ,2007.0,Linda,277
-WI,M,1981.0,Casey,413
-WI, F ,1952.0,Linda,130
-WI,F,1966.0,Linda,315
-WI,,2019.0,Robert,
-WI,F,1913.0, Jennifer ,6
-WI,F,1998.0,Mary,358
- WI ,F,1942.0,Jennifer,5
-WI,M,1922.0,John,184
-WI, M ,1995.0,,1013
-WI,M,1955.0,Robert,200
-WI,F,1970.0,Taylor,71
-WI,M,2000.0,Patricia,1194
-WI,M,1965.0,Casey,392
-WI,F,1948.0,,37
-WI,M,1966.0,Casey,934
- WI ,F,1935.0,Patricia,109
-WI,F,1936.0,mary,31
-,F,2000.0,Casey,52
- WI ,F,2012.0,Jennifer,76
-WI, M ,2014.0,Casey,
-WI, M ,1955.0,John,84
-WI,M,1960.0,Jordan,811
-WI,F,2004.0,Alex,88
-WI, M ,1935.0,,
-WI,M,2013.0,Robert,83
-WI,F,1976.0,Mary,784
-WI,F,1944.0,Casey,45
-WI,M,1954.0,Robert,12
-WI,M,1973.0,John,536
-WI,F,1967.0,Alex,288
-WI,M,1939.0,Casey,32
-WI,M,1926.0,Casey,19
-WI,F,,Taylor,8
-WI,F,1984.0,taylor,895
-WI,M,2008.0,Alex,185
-WI,M,1960.0,Michael,55
-WI,M,1928.0,Jordan,49
-WI, M ,2001.0,John,71
- WI ,F,1949.0,Jordan,385
-WI,F,1950.0,Mary,296
-WI,F,1944.0,Mary,280
-WI,M,1941.0,Robert,106
-WI,M,1951.0,Jordan,
-WI,M,1994.0,Alex,676
-WI,M,1957.0,Casey,296
-WI,M,2013.0,Michael,9
-WI,M,1968.0,Taylor,
-WI,M,1954.0,James,283
-,M,1968.0,michael,480
-WI,,2001.0,,136
-WI,M,1924.0,taylor,181
-WI,F,1941.0,linda,16
-WI,F,1947.0,Jennifer,110
-WI,F,1978.0,Mary,202
-,F,1984.0,Jordan,265
-WI,F,2021.0,Linda,115
-WI,F,2004.0,Mary,120
-WI,F,1950.0,Taylor,17
-WI,M,,Jordan,16
-WI,F,1935.0,Mary,18
-WI,,2005.0,Michael,109
-WI,M,2007.0, John ,55
-WI,M,1918.0,James,24
-WI,F,1949.0,Linda,96
-WI,F,1995.0,Jennifer,426
-WI,F,1922.0,Casey,7
-WI,F,,Casey,101
-WI,F,1962.0,,71
-WI,F,1925.0,Linda,151
-WI,F,1958.0,Linda,36
-WI,F,1919.0,Jennifer,53
-WI,F,1927.0,Casey,5
-WI,M,1972.0,Casey,53
-WI,M,2000.0,Michael,12
- WI , F ,1977.0,Patricia,36
-WI,M,1997.0,Robert,242
-WI,F,1961.0,Casey,337
- WI ,F,1964.0,,107
-WI,M,1937.0,John,294
-WI,F,1937.0,Jennifer,7
-WI,M,2017.0, Jordan ,104
-WI,F,1973.0,Taylor,
-,F,1968.0,,1036
-WI,M,1950.0,Jordan,97
-WI,F,1997.0,Linda,730
-WI,F,1973.0,Jordan,655
-WI,F,2003.0,Mary,248
-WI,F,1943.0,Mary,317
-WI,M,1926.0,,36
-WI,M,1953.0,john,47
-WI,M,1936.0,Michael,130
-WI,F,1954.0,Alex,23
-WI,M,2010.0,Michael,112
-WI,F,2005.0,Linda,131
-WI,F,1996.0,Taylor,467
-WI,M,1946.0,Jennifer,104
-WI,M,1992.0,Casey,123
-WI,M,1994.0,Taylor,
-,M,1985.0,John,93
-WI,M,1947.0,Taylor,14
-WI,M,1971.0,Robert,290
-WI, M ,1944.0,Taylor,37
-WI, F ,2017.0,Mary,23
-WI,M,1949.0,Michael,14
-WI,F,1936.0,Taylor,345
-WI,M,1967.0,Patricia,155
-WI, M ,2020.0,Alex,50
- WI ,M,1947.0,John,173
-WI,M,1979.0,john,361
-WI,M,1910.0,Jordan,31
-WI,F,1979.0,,141
-WI,M,2005.0,Taylor,71
-WI, F ,1970.0,Casey,
-WI,F,1937.0,,91
-,F,1953.0,Casey,407
- WI ,M,1965.0,Jordan,54
-,F,1964.0,Linda,19
-WI,F,1992.0,Casey,36
-WI,F,2010.0,Patricia,100
-WI,F,1999.0,Mary,25
-WI,M,1985.0,Jordan,85
-WI,F,1954.0,Mary,305
-WI,F,1947.0,Mary,
-WI,M,1969.0,Jordan,171
-WI, F ,1994.0,Alex,320
-WI,M,1927.0,Casey,259
- WI ,M,1950.0,Casey,48
-WI,,2014.0,Patricia,304
-WI,M,1971.0,Michael,1004
-WI,F,,Taylor,64
-WI, F ,1923.0,Taylor,85
-WI,F,2013.0,Casey,11
- WI ,M,1945.0,Taylor,20
-WI,F,1998.0,Michael,713
-WI,M,1980.0,Robert,199
-WI,F,1959.0,Casey,35
-WI,M,1940.0,Taylor,12
-WI,M,2018.0,Taylor,9
-WI,M,1966.0,Taylor,761
-WI,,1967.0,Mary,
-WI,M,,Alex,865
-WI,M,1998.0,Taylor,12
-WI,F,1974.0,Casey,447
-WI, M ,1949.0,Robert,289
-WI,M,1999.0,Jennifer,16
-WI,F,1968.0,Taylor,380
-WI,F,1966.0,Casey,
-WI,F,1982.0,Jennifer,29
-WI,M,2010.0,James,205
-WI,F,1987.0,Jennifer,823
-WI,M,2014.0,Robert,428
-WI,F,2011.0,Mary,27
-WI,F,1992.0,Mary,1146
-WI,M,1988.0,alex,64
-WI,F,,Alex,93
-WI,F,1924.0,Linda,238
-WI,M,,Patricia,144
-WI,M,1952.0,Taylor,514
-WI,F,1954.0,Jennifer,171
-WI,M,,Jordan,871
-WI,F,1941.0,Alex,8
-WI,F,1988.0,Jordan,135
-WI, F ,1971.0,Patricia,444
-WI,F,1983.0,Linda,37
-WI,F,1978.0,Alex,70
-WI,F,1954.0,Taylor,
- WI ,M,2012.0,Jennifer,103
-WI,F,1975.0,Mary,171
-WI,F,1985.0,Patricia,69
-WI,M,1949.0,James,154
-WI, M ,1996.0,Jordan,536
-WI,M,1961.0,Robert,46
- WI ,F,1963.0,mary,1097
-WI,F,1941.0,Mary,35
- WI ,F,2001.0,Jordan,121
-WI,F,1942.0,Linda,5
-WI, M ,1999.0,James,375
-WI,F,1968.0,jordan,399
-WI,M,2009.0,James,329
-WI,M,1927.0,Alex,13
-WI, M ,1944.0,Taylor,37
-WI,F,1993.0,Jennifer,856
-WI,F,,Casey,24
-WI,M,1934.0,Michael,175
-WI,F,1955.0,Mary,49
-WI,F,,Casey,137
-WI, M ,2020.0,Robert,238
-,M,1976.0,Michael,355
-WI, F ,1943.0,Jordan,257
-WI,M,2014.0,John,
-WI,M,1927.0,James,16
-WI,M,1963.0,Michael,1229
-WI,M,2003.0,James,132
-,M,1946.0,Jordan,5
-WI,F,1922.0,Mary,12
-WI,F,2011.0,Jennifer,36
-WI,M,1958.0,Casey,70
-WI,F,1978.0,Casey,125
-,M,1960.0,,256
-WI, F ,2008.0,Mary,9
-WI,F,1916.0,Jennifer,7
-WI,F,1985.0,Alex,79
-WI,F,1948.0,Linda,82
-WI,,1957.0,Jordan,
-WI,F,1931.0,Jordan,59
-WI,M,1987.0,Michael,956
-WI,F,,Casey,1271
-WI,M,1937.0,Jordan,68
-WI,F,1952.0,Jordan,104
-,M,1994.0,Robert,
-WI,M,1975.0,Michael,306
-WI,F,1956.0,Jordan,62
-WI,M,1981.0,John,116
-WI,F,1994.0,Mary,64
-WI, F ,2017.0,James,142
-WI,M,,,639
-WI,M,1942.0,Jordan,300
-WI,M,1972.0,Michael,300
-WI,F,1995.0,Jordan,443
-WI,,2016.0,,240
-WI,F,1926.0,Casey,
-WI,M,1986.0,James,251
- WI ,M,1993.0,Casey,87
-WI,M,1978.0,Taylor,616
-WI,F,1993.0,Alex,264
-WI,M,1931.0,Jordan,7
-,M,1935.0,Michael,33
-WI,F,1967.0,Taylor,352
-WI,F,2002.0,Mary,287
-WI,F,2008.0,Jennifer,39
-WI,F,2006.0,patricia,510
-WI,M,1932.0,Linda,23
-WI,M,1914.0,Casey,
-WI,F,1935.0,Taylor,129
-WI,M,1951.0,Alex,78
-WI,M,1943.0,Casey,87
-WI,M,1979.0,James,48
-WI,M,1977.0, Jennifer ,314
-WI,F,1938.0,Jennifer,329
-WI,M,1934.0,Jordan,56
-WI,M,2022.0,James,263
-WI,F,2014.0,Jordan,14
-WI,M,1971.0,Jordan,525
-WI, M ,1990.0,Alex,
- WI ,M,1989.0,Michael,467
-WI,F,2003.0,Casey,98
-WI,M,1943.0,John,571
-WI,M,1980.0,John,435
-WI,F,1994.0,Linda,158
-WI,F,2000.0,Mary,393
-WI,F,1941.0,Casey,24
-WI,F,1949.0,Jennifer,257
-WI,F,1986.0,Linda,82
-WI,,2001.0,james,52
-WI,F,1945.0,Mary,66
- WI ,M,1951.0,Robert,812
-WI,M,2001.0,Jordan,43
- WI ,,2002.0,robert,91
- WI ,F,1981.0,Linda,634
-WI,M,1936.0,Casey,5
-WI,M,1973.0,Casey,1014
- WI ,,1926.0,John,7
-WI,M,1949.0,Casey,11
-WI,F,1967.0,Jennifer,1119
-WI,M,2002.0,Taylor,600
-WI,F,1963.0, Patricia ,223
-WI,M,1947.0,Robert,323
-WI,F,1948.0,Mary,
-WI,M,1924.0,John,10
- WI ,F,1997.0,Jordan,590
-WI,M,2016.0,john,
-WI,M,1981.0,Patricia,412
- WI ,M,2004.0,James,58
-WI,F,1956.0,Alex,78
-WI,F,1976.0,Alex,396
-WI,M,2018.0,James,5
-WI,M,1911.0,james,19
-WI,,1998.0,Taylor,82
-WI,F,,Jordan,371
-WI,F,1930.0, Jordan ,224
-, F ,2013.0,James,241
-WI,F,1997.0,taylor,201
-WI,,1944.0,Alex,908
- WI ,M,1951.0,John,24
-WI, F ,2015.0,Patricia,261
-WI,,1918.0,Alex,37
-WI,M,1975.0,James,770
- WI ,M,1948.0,Michael,456
-WI,M,2000.0,Taylor,54
-WI,F,1980.0,mary,329
-WI,M,1969.0,Alex,442
- WI , M ,1997.0,Taylor,444
-WI,F,1970.0,Jordan,10
-WI,M,1992.0,Michael,28
-WI,M,1971.0,,392
-WI,M,2009.0,Jordan,151
-WI,F,2022.0,Taylor,50
-WI,F,1982.0,Mary,682
-WI,M,,Alex,32
-WI,F,1959.0,Patricia,123
-WI,M,2002.0, John ,496
-WI, M ,1991.0,Taylor,523
-WI,F,1977.0, Mary ,95
-WI, F ,,Taylor,426
-WI,F,1939.0,Taylor,5
-WI,M,2018.0,John,
-WI,F,1990.0,Jennifer,25
-WI,F,1932.0,Mary,203
-WI,M,1983.0,James,
-WI, M ,1921.0,John,168
-WI,F,1962.0,Jennifer,215
-WI,,1980.0,James,982
- WI ,M,1985.0,Michael,646
-WI,,2009.0,Taylor,217
-WI,F,1951.0,Patricia,160
-WI,F,,Patricia,58
-WI,M,1963.0,John,708
-WI,F,2008.0,Linda,10
-WI,M,1929.0,Jordan,8
-WI,F,1938.0, Alex ,182
-WI,M,2021.0,jordan,11
-WI,M,2015.0,Taylor,456
-,M,1986.0,Robert,148
-WI,F,1992.0,Alex,11
-WI,F,1925.0,Jordan,20
-,M,1946.0,Alex,29
-WI,F,1972.0,Alex,922
- WI ,M,1955.0,Taylor,21
-WI,F,1952.0,Alex,124
- WI ,F,1975.0,,90
-WI,M,1930.0,Robert,264
-WI,F,1964.0,Taylor,522
-WI,F,1982.0,Casey,733
-WI,M,1959.0,Jordan,96
-WI,M,1974.0,Alex,181
-WI,F,1995.0,casey,77
-WI,F,1920.0,Casey,6
-WI,F,,Alex,339
-,F,1981.0,Jordan,349
-WI,F,1953.0,Alex,109
-WI,M,1979.0, Alex ,1038
-WI,F,1957.0, Jordan ,378
-WI,M,2010.0,John,6
-WI,M,1967.0,John,762
-WI, F ,1916.0,Alex,37
- WI ,M,1989.0,Robert,833
-WI,F,1970.0,Mary,202
-WI,F,1979.0,Patricia,277
-WI,M,1993.0,James,1144
-WI,F,1975.0,Taylor,479
-WI,F,1958.0,Alex,798
-WI,F,1933.0,,191
-WI,M,,Taylor,25
-WI,F,,Alex,123
-WI,F,1929.0,Mary,44
-,M,2021.0,Alex,41
- WI ,M,1961.0, Jennifer ,151
-WI,,,Alex,453
- WI ,M,2000.0,James,752
-WI,M,1931.0,Taylor,239
-,F,1947.0,Alex,115
-WI, F ,1948.0,Jordan,99
-WI,,,John,328
-WI,F,1966.0,Mary,5
-WI,M,1977.0,jordan,173
-WI, M ,2007.0,,159
-WI,M,1938.0,Jordan,1018
- WI ,M,2004.0,John,49
-WI,M,1991.0,James,362
-WI,F,1958.0,Mary,288
- WI ,M,1991.0,Alex,88
-WI,F,2008.0,Alex,479
-WI,F,1944.0,James,14
-WI,F,2009.0,Jordan,95
-WI,M,2010.0,Jordan,227
- WI ,M,1983.0,,306
-WI,F,1934.0,Taylor,5
-WI,F,2002.0,Jennifer,124
-WI,M,2008.0,Robert,15
-WI, F ,1971.0,John,277
-WI,,1928.0,Alex,26
- WI ,F,1958.0,Casey,177
-,F,,Jordan,
-WI,M,2012.0,Alex,108
-WI,M,1979.0,Robert,8
-WI,M,1924.0, James ,6
-WI,M,1955.0,Jordan,29
-WI, M ,1952.0,James,605
-WI,F,1919.0,Alex,51
-WI,F,1958.0,Patricia,21
-WI,F,1996.0,Patricia,453
-WI,F,1918.0,Jennifer,6
-WI,F,1991.0,Linda,69
-WI,F,1912.0,Taylor,19
-WI,F,1955.0,Patricia,78
-WI, F ,2012.0,Mary,381
-WI,M,2021.0,Michael,111
- WI ,F,1924.0, Casey ,86
-WI,F,2007.0,Patricia,21
-WI,M,2003.0,Robert,677
-WI,F,1952.0,Mary,68
-WI,F,2009.0,Mary,203
-WI,M,1987.0,James,1121
-WI,,1933.0,Taylor,10
- WI ,M,1963.0,Taylor,47
-WI,M,1962.0, Taylor ,237
-WI,,1997.0,Alex,407
-WI,F,1949.0,Alex,71
-WI,F,1979.0,Alex,118
-WI,F,1945.0,Linda,136
-WI, M ,1978.0,Alex,228
-WI,F,1989.0,Jennifer,261
- WI ,F,2019.0,Jordan,
-WI,F,1999.0,Patricia,
-WI,F,2014.0,Jennifer,404
-WI,F,1967.0,John,45
-WI,M,1958.0,John,245
-WI,F,2016.0,Mary,18
-WI,M,1999.0, Alex ,21
-WI,F,1991.0,Patricia,108
-WI,F,2011.0, Patricia ,26
-WI,F,1947.0,Linda,657
-WI,M,1999.0,Michael,713
-WI, F ,2005.0,Jordan,40
-WI,,1924.0,Patricia,48
-WI, F ,1954.0,Jordan,32
-WI,M,1975.0,John,396
-WI,M,,James,52
-WI,M,1975.0,Robert,187
-WI,F,1965.0,Jennifer,36
-WI,M,1936.0,Robert,166
-WI,F,1978.0,Taylor,149
-WI,M,1910.0,Jennifer,
-WI, M ,1953.0,Michael,69
- WI ,F,1923.0,patricia,544
-WI,F,1966.0,Jordan,
-WI,M,1926.0,Robert,38
-WI,M,1934.0,James,351
-WI, M ,1931.0,Michael,
- WI ,F,2006.0,Jordan,95
-WI,M,2008.0,Michael,875
-WI,M,2006.0,Taylor,13
-WI,F,,Linda,772
-WI,F,1951.0,Mary,56
-WI,F,1959.0,Alex,238
-,M,1985.0,alex,88
-WI,F,1944.0,Taylor,255
-,M,1964.0,John,52
-WI,F,1968.0,Jennifer,421
- WI ,M,1978.0,james,331
-WI, M ,1966.0,Michael,848
-, F ,1960.0,Linda,259
-WI,F,2009.0,Jennifer,527
-WI,F,2015.0,Jennifer,231
-WI,M,1934.0,Taylor,28
-WI,,1945.0,Taylor,
-WI,M,2005.0,Jordan,80
-WI, M ,2011.0,John,264
-WI, F ,1957.0,Linda,616
-WI,F,,Mary,7
-,F,1977.0,Taylor,281
-WI,M,1945.0,Casey,18
- WI ,F,1977.0,Jordan,180
-WI,M,1972.0,Jordan,347
-WI, M ,1964.0,,572
-WI,M,1969.0,Taylor,1304
-,M,1938.0,Alex,10
-, F ,1960.0,Mary,961
-WI,F,1966.0,Patricia,371
-WI, F ,1959.0,Linda,228
-WI,F,1955.0,Jordan,715
-WI,M,1962.0,Casey,86
-WI,M,1955.0,James,91
-WI, F ,1960.0,Casey,66
-WI,F,1927.0,Linda,198
-WI,F,1980.0,Casey,100
-WI,M,1972.0,Taylor,397
-WI,M,1912.0,robert,30
-WI,F,1988.0,Casey,256
-WI,,2001.0,Robert,849
-WI,M,1952.0,Alex,191
-WI,F,1957.0,Mary,185
-WI, F ,1957.0,Michael,
-WI,F,1990.0,Linda,137
-,F,1971.0,Taylor,901
-WI,F,1947.0,Patricia,347
-WI,M,1969.0,Michael,144
-WI,M,1987.0, Alex ,790
-WI,M,1958.0,Michael,54
-WI,,2012.0,Linda,
-WI, M ,1934.0,casey,321
-WI,F,1954.0,linda,133
-WI,M,1914.0,Michael,13
-WI,F,1960.0,jennifer,196
-WI,F,1995.0,Alex,178
-WI,F,1988.0,Mary,116
-WI,M,1976.0,James,534
-WI,M,1929.0,Jennifer,
-WI,M,1936.0,James,21
-WI,F,1993.0,Patricia,160
-WI,M,1971.0,John,14
-WI,M,1996.0,Michael,465
- WI ,F,2017.0,Alex,53
-WI, M ,1972.0,Patricia,
-WI,M,1983.0,Michael,184
- WI ,F,1956.0,Patricia,96
- WI ,M,1972.0,Robert,516
- WI ,M,1913.0,James,10
-WI, M ,1915.0,Michael,14
-WI,F,1990.0,Alex,
-WI,F,1986.0,Jennifer,184
-,F,1964.0,Casey,798
-WI,F,2013.0,Taylor,518
-WI,F,2005.0,Taylor,294
-WI,F,1985.0,Casey,56
-WI,F,2000.0,Alex,179
- WI ,F,2019.0,Linda,22
-WI,F,1983.0,Patricia,213
-WI,M,1954.0,John,267
-WI,M,1988.0,John,543
-WI, F ,2001.0,Casey,16
-WI,M,1925.0,John,
-WI,F,1947.0,Casey,199
-WI, F ,2018.0,Patricia,378
-WI,F,1933.0,Alex,88
-WI, F ,1942.0,Alex,230
-WI,M,1950.0,Robert,67
-WI,M,1971.0,Jordan,525
-WI,M,1998.0,Alex,91
-WI,M,1988.0,Jordan,325
-WI, M ,1959.0,Jennifer,82
-WI, M ,1952.0,Robert,16
-WI, M ,1963.0,James,134
-WI,M,1981.0,Alex,517
-WI,F,1974.0,Alex,288
- WI ,F,1953.0,Mary,60
-WI,M,1939.0,Alex,146
-WI,F,1990.0,Casey,433
-WI,M,1946.0,James,37
-WI,F,2007.0,Alex,121
-WI,M,1999.0,Robert,591
-WI,F,2008.0,Patricia,62
-WI,M,1991.0,Robert,206
-WI,F,1964.0,Jennifer,
-WI,M,1941.0,John,68
-WI,M,1963.0,Robert,62
-WI,F,1929.0,Taylor,
-WI,M,1938.0,James,141
-WI, F ,1965.0,Taylor,28
-WI, F ,1982.0,Taylor,697
-WI,F,1963.0,Jennifer,208
-WI,M,1967.0,Jordan,156
- WI ,F,2001.0,Jennifer,98
-WI,M,2012.0,Robert,537
-WI,F,2019.0,Patricia,
-WI,F,2020.0,Linda,29
-,M,1925.0,casey,54
-WI,M,1978.0,michael,18
-WI,M,1981.0,James,173
-WI,F,1972.0,Jennifer,825
-WI,F,1949.0,Michael,104
-WI,,1990.0,Jordan,299
-WI, M ,1951.0,Taylor,911
-,M,1993.0,Alex,125
- WI ,M,1976.0,John,793
-WI,,2003.0,John,45
-WI,F,1965.0,Patricia,696
-WI, M ,1986.0,Jordan,426
-WI, M ,2020.0,Jordan,1005
-WI,M,1966.0,Robert,147
-WI, M ,1978.0,Casey,785
-WI,M,2012.0,James,346
-WI,F,1984.0, Linda ,287
-WI,F,2021.0,Linda,115
-WI,M,1997.0,Jordan,119
-WI,F,,Linda,1043
-WI,F,1985.0,Taylor,648
-WI,F,1955.0,Linda,268
-WI,,1910.0,Patricia,76
-WI,M,1961.0,Michael,103
-WI,M,,Jordan,27
-WI,F,1943.0,Patricia,186
-WI,F,1928.0,Mary,157
-WI,F,1979.0,Jordan,458
- WI ,M,1952.0,Jordan,126
-WI,M,1982.0,Alex,681
-WI, M ,2009.0,Alex,38
-WI,F,1939.0, Patricia ,99
-WI,F,1943.0,Casey,16
-WI,M,1938.0,John,318
-WI, F ,1991.0,Casey,390
- WI ,,2013.0,John,293
-WI,M,1920.0,Alex,295
-WI,F,1965.0,Linda,
-WI, M ,1944.0,Jordan,51
-WI, M ,1952.0,casey,11
-WI,M,1977.0,Michael,118
-WI, F ,2002.0,jordan,26
-WI,F,1959.0,Taylor,342
-,M,1915.0,,54
-WI,M,2014.0,James,11
-WI, M ,1965.0,James,
-WI,M,2017.0,alex,83
-WI,M,1970.0,John,102
-WI,F,2010.0,Mary,99
-WI, M ,1949.0, Alex ,156
-, M ,,Jordan,38
-WI, M ,2020.0,Jordan,1005
- WI ,M,2001.0, Michael ,547
-WI,F,1943.0,Alex,49
-WI,F,1947.0,Jordan,43
-WI,M,1939.0,John,96
-WI,F,1996.0,Alex,
-WI,F,2022.0,Linda,358
-WI,F,1949.0,Casey,222
-WI,M,2007.0,Michael,822
-WI,M,1950.0,Alex,410
-WI,M,1985.0, Taylor ,548
-WI, F ,1998.0,Linda,398
-WI,F,1951.0,jennifer,109
-WI,M,1981.0,Jordan,321
-WI,F,1991.0,John,
-WI,F,1990.0,Mary,484
-WI,F,2020.0,Taylor,47
-WI,M,1940.0,Jordan,20
-WI, F ,2017.0,Jennifer,
-WI, M ,1967.0,Casey,14
-WI,F,1931.0,Jordan,59
-WI,M,2016.0,James,593
-,M,2021.0,,63
-WI,F,1972.0,Taylor,77
-WI, F ,2015.0,Linda,210
-WI,M,1968.0,Casey,794
-WI,M,2009.0,Taylor,127
-WI,M,1933.0,Michael,360
- WI ,F,2006.0,Mary,46
-WI,F,1976.0,Jennifer,837
-WI,F,2013.0,Michael,8
-WI,F,1915.0,patricia,25
-WI,M,,Robert,331
-WI,F,1952.0,Patricia,45
-WI,F,1946.0,Patricia,191
-WI,F,1945.0,Patricia,168
-WI,F,2002.0,Patricia,28
-WI,F,1987.0,Alex,78
- WI , M ,1957.0,James,111
-WI,F,1995.0,Mary,532
-WI,M,2009.0,Michael,7
-WI,M,1977.0,Alex,178
-WI,,1942.0,Patricia,
-WI,F,, Alex ,197
-WI,F,1911.0,Casey,50
-WI,F,1978.0,John,248
-WI,M,1988.0,Casey,734
-WI,F,2021.0,Alex,243
- WI , M ,1930.0,Linda,15
-WI,M,1918.0,Casey,91
- WI ,,1914.0,Alex,26
-WI,F,1980.0,Linda,392
-WI,F,1966.0,Taylor,546
-WI,F,,Patricia,750
-WI,M,,James,127
-WI,F,1981.0,Jennifer,221
- WI ,M,,Taylor,27
-WI,F,1976.0,,239
- WI ,F,1981.0,Alex,114
-WI,M,1974.0,Patricia,886
-WI,F,1975.0,Jordan,750
-WI,F,2013.0,Alex,31
-WI,F,2011.0,Linda,598
-WI,F,1981.0,Patricia,256
-WI,M,1983.0,John,48
+state,sex,year,name,count
+WI,F,1922.0,Jordan,81
+WI,F,2006.0,Jordan,229
+WI,,1945.0,Taylor,310
+WI,M,1926.0,Taylor,23
+WI,M,1954.0,john,55
+WI,,1947.0,John,257
+WI,M,1973.0,Michael,100
+WI,F,1969.0,Patricia,717
+WI,F,1985.0,Alex,154
+WI,F,1967.0,Jennifer,113
+WI,F,2015.0,Alex,245
+WI,F,1936.0,Alex,75
+WI,F,1934.0,,129
+WI,M,2003.0,Taylor,357
+WI,F,, Casey ,831
+WI,F,2005.0,Mary,655
+WI,,1930.0,Patricia,73
+WI,M,1980.0,Alex,1104
+WI,F,1932.0,Jordan,18
+WI, F ,1974.0,Mary,665
+WI,F,1970.0,Alex,
+ WI ,F,2006.0,Jennifer,1076
+WI, F ,1957.0,Linda,270
+WI,M,1913.0,Robert,34
+WI,F,1972.0,Alex,334
+WI,F,1948.0,Jordan,132
+WI,F,2017.0,Alex,10
+WI,F,2016.0,Jennifer,31
+ WI ,F,1983.0,Linda,241
+WI,F,2004.0,Taylor,69
+WI,F,1973.0,Patricia,129
+WI,,1960.0,Alex,167
+,F,,Jordan,607
+WI,M,1975.0,Casey,647
+WI,F,1986.0,Mary,896
+WI,M,1925.0,Taylor,7
+WI,M,1956.0,Alex,66
+WI,M,2019.0,James,35
+ WI ,M,, John ,12
+ WI ,F,1989.0,Linda,38
+WI, M ,1993.0,Patricia,129
+ WI ,F,1947.0,jordan,49
+WI,F,2011.0,Patricia,102
+WI, F ,1994.0,Jennifer,399
+,,1927.0,Robert,294
+WI,F,1995.0,Jennifer,286
+WI,M,,Taylor,161
+WI,M,,Michael,123
+WI,M,2005.0,Jordan,325
+WI,F,1989.0,Taylor,39
+ WI ,F,1953.0,Patricia,377
+WI,M,1953.0,Jordan,604
+WI,F,2022.0, Jordan ,563
+WI,M,1995.0,,145
+WI,F,,Linda,6
+WI,M,2020.0,John,89
+WI, M ,2006.0,Linda,17
+WI,M,2019.0,,27
+WI,M,2015.0,Robert,22
+WI,F,2019.0,Mary,12
+WI,,1992.0,Linda,50
+WI,M,2016.0,,82
+WI,M,,Michael,127
+WI,M,2000.0,Jordan,951
+WI,M,1970.0,Jordan,554
+WI, M ,2000.0,Alex,71
+WI,F,1956.0,Alex,1148
+WI,M,2007.0,Jordan,93
+WI,F,1944.0,Jennifer,55
+,M,1962.0,Michael,157
+WI,M,2000.0,Taylor,51
+WI,M,1998.0,Michael,664
+WI,M,1950.0,Alex,5
+WI,,1970.0,,59
+WI,M,2005.0,Jordan,325
+WI,M,1926.0,Alex,18
+WI,M,1975.0,Alex,347
+WI,F,1999.0,mary,650
+WI,,1929.0, Taylor ,9
+WI,M,1925.0,Jordan,135
+WI,F,1979.0,Taylor,186
+WI,F,,Mary,73
+WI,F,1979.0,alex,369
+WI,M,1979.0,Alex,659
+WI,F,2004.0,Alex,114
+WI,M,1936.0,Taylor,27
+WI,M,1913.0,Jordan,
+WI,F,1978.0, Taylor ,22
+WI,,2011.0, Casey ,111
+WI, M ,1948.0,Alex,75
+WI,M,1917.0, Jordan ,
+WI,M,1920.0,,41
+WI,,1968.0,Jennifer,978
+WI,F,1938.0,Linda,216
+WI,F,1959.0,Casey,36
+WI,F,2001.0,Jordan,245
+WI,M,1947.0,Michael,515
+WI, F ,1999.0,Jennifer,74
+WI,M,1915.0,Robert,16
+WI, M ,1943.0,John,108
+WI, M ,2007.0,Michael,131
+WI,M,1995.0,Casey,52
+WI,F,1960.0,Jordan,128
+WI, M ,2017.0,Alex,473
+WI,M,1940.0,Jennifer,112
+WI,F,1990.0,,16
+WI,M,1985.0,Patricia,379
+WI,F,1973.0,Linda,340
+WI,M,2000.0, Casey ,431
+WI,F,1933.0,Taylor,108
+WI,M,1989.0,James,409
+WI,M,1939.0,Casey,189
+WI,F,2021.0,Casey,10
+ WI ,F,1985.0,Jordan,450
+WI, M ,1947.0,Casey,42
+WI,F,1998.0,Jennifer,395
+WI,M,1972.0,Taylor,122
+WI, F ,1927.0,Jordan,30
+,F,1966.0,Jordan,498
+WI,F,1935.0,Patricia,27
+WI,F,1982.0,Mary,103
+ WI ,F,2005.0,Taylor,480
+WI,M,2003.0,Jordan,12
+,M,1993.0, Alex ,384
+ WI ,M,1924.0,Jordan,83
+WI,F,2012.0,Linda,153
+WI,M,2004.0,John,1062
+WI,F,1926.0,Taylor,248
+WI, M ,1938.0,Robert,158
+WI,F,1999.0,Jordan,27
+WI,M,2012.0,James,274
+ WI ,F,1978.0,Casey,259
+WI, F ,2013.0,Casey,25
+WI,M,1959.0,Alex,281
+WI,M,2022.0,Casey,512
+WI,F,2016.0,Linda,175
+WI,F,1933.0,Linda,12
+, F ,1933.0,Patricia,49
+ WI ,M,1957.0,James,628
+WI,M,2003.0,Alex,36
+WI,M,1931.0,Taylor,6
+WI,M,1985.0,Jordan,
+WI,F,1981.0, Patricia ,313
+WI,M,1970.0,Michael,621
+WI,M,1927.0,James,152
+WI,F,1915.0,Jennifer,126
+WI, F ,1941.0,Alex,26
+WI,M,1929.0,Patricia,14
+WI,,1995.0,John,477
+WI,M,1983.0,,76
+WI,M,1937.0,Michael,143
+WI,F,1998.0,Alex,164
+WI,F,1999.0,Taylor,69
+WI,M,1911.0,,29
+WI,,2013.0,Jordan,79
+WI,F,1970.0,Jordan,532
+WI,,2001.0,Mary,11
+ WI ,F,1942.0,Mary,80
+WI,,1971.0,Mary,
+WI,M,2015.0,Robert,22
+WI,M,1927.0, John ,236
+WI,M,1969.0,Taylor,390
+WI,M,,Casey,36
+WI,F,1988.0, Jordan ,389
+WI,F,1957.0,Taylor,193
+WI,F,,Jordan,67
+WI,M,1947.0,Robert,59
+WI,F,1967.0,Mary,478
+ WI ,F,2008.0,Mary,640
+WI,F,,Mary,119
+ WI ,F,,Linda,974
+WI,M,1990.0,Alex,953
+WI,M,2014.0,Michael,257
+WI, F ,2017.0,Casey,246
+WI,M,1963.0,Jordan,285
+ WI ,F,1969.0,jennifer,141
+WI,M,1992.0,Robert,428
+WI,F,2022.0,Alex,114
+WI,M,1963.0,Casey,21
+WI,M,1943.0,Robert,90
+WI,F,,John,13
+WI,F,1951.0,Casey,914
+ WI ,F,1951.0,Taylor,696
+WI,F,1988.0,Taylor,807
+WI,F,,Alex,51
+,M,1996.0,James,608
+WI,F,2006.0,Casey,22
+WI,M,2011.0,Michael,61
+WI,M,2014.0,James,22
+WI,F,1958.0,,242
+WI,M,1942.0,,342
+WI,M,1931.0,,102
+WI,F,2017.0,Jennifer,338
+WI,F,1955.0,Mary,10
+WI,F,1963.0,Jordan,262
+WI,M,2007.0,Taylor,221
+WI,M,1994.0,Robert,286
+WI,M,1966.0,,234
+WI,F,1921.0,Taylor,35
+ WI ,,1952.0,Alex,100
+WI,M,1978.0,Alex,771
+ WI ,M,1927.0,michael,51
+,M,1969.0,Michael,57
+WI,F,1992.0,Jordan,100
+WI,M,1938.0,,
+WI,M,1960.0,,1079
+WI,M,1991.0,Taylor,386
+WI,F,1982.0, Alex ,394
+WI, F ,1974.0,Jennifer,54
+WI,M,1959.0,Taylor,406
+WI,F,1920.0,Jennifer,6
+WI,F,1959.0,jordan,577
+WI,F,1918.0,Linda,16
+WI,F,1972.0,John,171
+WI,M,2009.0,Casey,188
+ WI ,F,1977.0,Linda,340
+WI, M ,1930.0,Alex,19
+WI,F,1999.0,Alex,619
+WI,M,1931.0,John,145
+WI,M,1917.0,Robert,8
+WI,,1953.0,Mary,89
+WI,F,1995.0,Taylor,98
+ WI ,F,1992.0,Alex,478
+WI,F,1946.0,Alex,9
+WI,M,1947.0,Taylor,947
+WI, F ,1991.0,alex,78
+ WI ,F,1934.0,Robert,
+WI,M,1986.0,Robert,350
+WI,M,1957.0,Alex,305
+ WI ,F,1948.0,Patricia,232
+WI,F,2008.0,alex,88
+WI, F ,2015.0,Jennifer,259
+WI,F,1950.0,Casey,15
+WI,M,1958.0,Casey,83
+WI, M ,2006.0,James,82
+WI,M,2006.0,Casey,23
+WI,,,,514
+WI,M,1915.0,Michael,9
+WI,M,1977.0,Robert,698
+WI,M,2014.0,John,10
+WI,F,1942.0,Casey,705
+WI,M,1937.0,Alex,79
+WI,M,2020.0,Jordan,196
+WI,F,1978.0,Linda,167
+WI,M,1928.0,Casey,35
+WI, M ,1935.0,Michael,9
+WI,M,1959.0,michael,72
+WI,M,1916.0,,7
+WI,F,1935.0,Jordan,7
+WI,M,1962.0,John,
+WI,M,1955.0,Taylor,181
+WI,F,2009.0,Casey,
+WI,F,1989.0,Casey,129
+WI,M,2008.0,alex,
+WI,M,1951.0,James,41
+WI,,1949.0, John ,246
+,M,1955.0,Casey,285
+WI,,,John,131
+WI,F,1925.0,Jennifer,298
+WI,M,1994.0,Casey,234
+WI, M ,2002.0,Robert,848
+ WI , F ,1973.0,Casey,240
+WI,F,,Jennifer,5
+WI,F,1971.0, Jennifer ,134
+WI,F,1949.0,Casey,514
+ WI ,F,1970.0,Taylor,528
+WI,M,1923.0,Michael,18
+WI,F,1986.0,Jordan,312
+,M,1953.0,Robert,97
+WI,F,2006.0,Patricia,912
+WI,F,1968.0,taylor,9
+,M,1991.0,John,292
+WI,F,1960.0,Mary,334
+ WI ,M,1950.0,Michael,7
+ WI , M ,1984.0,Casey,993
+WI,F,1940.0,Patricia,14
+WI,F,1980.0,Mary,379
+WI,M,2008.0,Casey,49
+WI,F,1966.0,Casey,400
+WI,F,2013.0, Mary ,50
+WI,M,2006.0,Taylor,44
+WI,M,2002.0,Alex,59
+WI,M,1949.0,Alex,12
+, F ,1946.0,,24
+ WI ,F,1965.0,John,7
+WI,M,1910.0,jordan,56
+WI,F,1972.0,Jordan,371
+WI,M,2012.0,Michael,5
+WI,F,1953.0,Alex,92
+WI,F,1986.0,Linda,820
+WI,M,1978.0,James,181
+WI,F,1966.0,Mary,
+WI,F,1996.0,,185
+WI,M,1996.0,Michael,300
+WI,F,2002.0,Taylor,579
+WI,,1985.0,John,410
+WI, M ,1935.0,Casey,43
+WI,M,2012.0,Jordan,594
+WI,M,1981.0,James,170
+WI,M,1972.0,Mary,103
+ WI ,M,2004.0,Robert,27
+WI,,2016.0,Michael,143
+WI,F,1954.0,Jordan,
+WI,M,2002.0,michael,31
+WI,M,1985.0,Alex,1094
+WI, M ,1958.0,Jordan,836
+WI,F,2020.0,Alex,81
+WI,F,1980.0,Jordan,610
+WI, F ,1979.0,Linda,141
+WI,,1982.0,Jordan,197
+WI,M,1948.0,James,
+WI,M,1929.0,Robert,13
+WI,F,1965.0,jordan,19
+WI,F,1922.0,Linda,27
+WI,F,2012.0,Jordan,31
+WI, M ,1965.0,Robert,170
+WI,M,1954.0,Jordan,446
+WI,,1929.0, Taylor ,9
+WI,M,1919.0,Alex,11
+WI,F,1959.0,Patricia,566
+WI,M,1922.0,Robert,5
+ WI ,F,1997.0,Alex,463
+WI,M,2006.0,John,194
+WI,,1999.0,Alex,146
+WI,F,1979.0,Casey,43
+WI,F,1950.0,Jordan,478
+WI,F,,Taylor,28
+WI,M,1946.0,Jordan,64
+WI,M,1943.0,Casey,15
+WI, F ,1910.0,Jordan,11
+WI,M,2004.0,Jordan,17
+WI,F,2013.0,Alex,564
+WI,M,2016.0,Jordan,258
+WI,M,1985.0,Michael,161
+ WI ,F,1944.0,Jordan,52
+WI,F,1962.0,Alex,600
+WI,F,1967.0,Linda,668
+WI,M,1942.0,Casey,77
+WI,M,1966.0,Jennifer,29
+WI,F,1938.0,Patricia,148
+WI,F,1941.0,Michael,32
+ WI ,,1986.0,Jordan,148
+WI,F,1988.0,Jennifer,79
+WI,M,1977.0,Jordan,621
+WI,F,1957.0,Jennifer,66
+WI,M,1993.0,John,113
+WI,,2015.0,Casey,121
+WI,F,2015.0,Casey,289
+WI,M,1918.0,Jordan,10
+WI,F,,Patricia,620
+WI,M,1959.0,Robert,455
+WI,M,1951.0,John,17
+WI,M,1992.0,michael,571
+WI,M,1962.0,Jordan,22
+WI,F,2010.0,Taylor,37
+WI,F,1935.0,Mary,120
+,F,2006.0,Taylor,122
+,F,2000.0,Jordan,145
+WI, M ,1999.0,John,294
+WI,F,1989.0,Patricia,60
+WI, M ,1960.0,James,387
+WI,M,1977.0, Michael ,226
+WI,M,2007.0,John,408
+WI,F,1968.0,,405
+ WI ,F,1988.0,Alex,194
+ WI ,M,1930.0,John,107
+WI,M,1981.0,Alex,130
+WI,F,2022.0,Casey,
+WI,F,1990.0,jordan,89
+WI,F,1910.0,Casey,97
+WI,M,1970.0,Linda,48
+WI,M,2009.0,john,18
+WI, F ,1982.0,Taylor,51
+WI, F ,1990.0,Casey,735
+ WI ,F,2017.0,Jordan,795
+,F,1942.0,Alex,
+WI,M,1996.0,Alex,
+WI,M,1935.0, James ,44
+WI, M ,1982.0,Alex,468
+ WI ,M,1955.0,Jennifer,224
+WI,M,1967.0,Taylor,95
+WI,M,1942.0,James,295
+WI, F ,1979.0,Jennifer,428
+WI,F,1948.0,Mary,251
+WI,F,2005.0,Patricia,191
+WI,M,1988.0,James,779
+WI,F,2009.0, Patricia ,91
+,F,1942.0,Jennifer,502
+ WI ,F,1962.0,Taylor,10
+WI,F,1996.0,Robert,287
+WI,M,1995.0,Jennifer,344
+WI,F,1937.0,Taylor,8
+WI,M,1974.0,Michael,424
+WI, F ,1949.0,Mary,11
+WI,M,2014.0,Taylor,
+WI,F,1960.0,,291
+WI,M,1996.0,Jordan,499
+WI, F ,1984.0,Mary,751
+WI,F,1943.0,Jordan,12
+WI,M,1997.0,Jordan,962
+WI,M,,Robert,65
+WI,M,1967.0,Jordan,34
+WI,F,1985.0,Patricia,92
+WI,F,1984.0,Taylor,26
+WI,M,1992.0,James,412
+WI,M,1980.0,Robert,673
+WI,F,1943.0,Casey,27
+WI,M,1960.0,Jordan,15
+WI,F,2016.0,Alex,24
+WI,F,,,25
+, F ,1994.0,,536
+WI,F,1940.0,Taylor,121
+WI,M,2017.0,Casey,137
+WI,F,1950.0,Taylor,28
+WI,M,1953.0,Casey,
+WI,F,1913.0,Jordan,86
+ WI ,,2005.0,Michael,908
+WI, F ,1966.0,Alex,9
+WI,F,1946.0,Casey,28
+ WI , M ,1934.0,Jordan,38
+WI,M,1910.0,Casey,59
+WI,F,1974.0,Taylor,252
+,M,2002.0, James ,372
+WI,F,1974.0,Jordan,149
+WI,F,2005.0,Jordan,421
+WI,F,1936.0,Jordan,14
+ WI ,M,1993.0,Taylor,12
+WI,M,1937.0,Casey,41
+WI,M,1911.0,Casey,5
+WI,F,1970.0,Jennifer,795
+WI, F ,1965.0,Alex,239
+WI,F,1971.0,James,77
+WI,F,1922.0,Casey,51
+WI, M ,2020.0,James,8
+WI,F,1952.0,jordan,272
+WI,F,1967.0,Jordan,43
+WI,F,1947.0,Alex,43
+WI,M,1981.0,Casey,235
+WI,F,1995.0,Mary,180
+, M ,1929.0,James,245
+WI,F,1934.0,Jennifer,27
+WI,M,1932.0,John,32
+WI,M,1966.0,Alex,149
+WI,F,1927.0,Alex,86
+WI,F,2022.0, John ,21
+WI,M,1976.0,Casey,673
+WI,M,2000.0,Michael,82
+ WI ,M,2014.0,Robert,25
+WI, M ,1945.0,Robert,332
+WI,M,1992.0,John,217
+WI,F,1973.0,Jordan,1064
+WI,F,1991.0,Patricia,8
+WI,F,1920.0,Jennifer,6
+WI,F,1978.0,Mary,156
+WI,F,1952.0,Alex,158
+WI,F,,Patricia,220
+WI,F,1931.0,Alex,319
+WI,M,2004.0,Michael,135
+,M,1962.0,Taylor,901
+WI,M,1960.0,,392
+WI,M,1948.0,John,137
+WI,F,1973.0,Mary,787
+WI,F,2021.0,Jennifer,354
+WI,F,1995.0,Jordan,402
+WI,M,1944.0,Robert,182
+WI,F,1945.0, Jordan ,29
+WI,,1985.0,John,410
+WI,F,1967.0,Taylor,821
+WI,M,1965.0,Alex,421
+WI, F ,2018.0,James,130
+WI,F,1959.0,Linda,348
+WI,F,1948.0,Linda,379
+WI,F,1971.0,Patricia,157
+WI, M ,1997.0,James,160
+ WI , F ,2011.0,Mary,44
+WI,M,1915.0,Jordan,92
+WI,F,1983.0,Taylor,104
+ WI ,M,,Jordan,906
+WI,M,1964.0,Michael,671
+WI,M,1986.0,Linda,604
+WI,M,1934.0,Alex,31
+WI,M,,James,496
+WI,F,1930.0,Linda,80
+WI, F ,2002.0,Casey,114
+,M,1958.0, John ,158
+,F,1937.0,Alex,16
+,M,1993.0,Robert,288
+WI,M,1927.0,,16
+ WI , M ,1988.0,Taylor,819
+WI,F,1980.0,Linda,140
+WI,M,1936.0,Jordan,22
+WI,,1934.0,Jordan,92
+WI,F,2020.0,Taylor,125
+WI,M,1981.0,Michael,117
+WI,F,1928.0,Linda,21
+WI,F,1982.0,Patricia,711
+WI,F,1930.0,Mary,238
+WI,M,2000.0,Robert,
+WI,F,1947.0,Linda,6
+WI,M,1958.0,Alex,
+WI,F,1918.0,Casey,8
+WI,M,2012.0,Robert,15
+WI,M,2013.0,Robert,446
+WI,F,1926.0,Jennifer,7
+WI,M,1995.0,Robert,
+WI,M,1982.0,James,486
+WI,F,1999.0,Casey,
+WI,M,1969.0,Jordan,1087
+ WI ,M,2008.0,Taylor,149
+WI,M,1983.0,alex,460
+WI,F,2005.0,Linda,428
+WI,F,1928.0,Jennifer,31
+WI,M,1980.0,Robert,673
+WI,F,1925.0,Alex,218
+WI,M,2007.0,Robert,304
+WI,F,1996.0,taylor,425
+ WI ,M,1967.0,James,238
+WI,M,1987.0,Michael,302
+WI,F,1975.0,Taylor,169
+WI, M ,1918.0,Alex,52
+WI,F,1978.0,Alex,586
+WI,F,1962.0,Jordan,325
+WI,M,1926.0,Jordan,14
+,M,1976.0,Taylor,161
+WI,F,1916.0,,11
+ WI ,F,1926.0,Patricia,
+ WI ,F,1931.0,Casey,83
+WI,F,2002.0,Linda,177
+WI,F,1937.0,Jennifer,8
+WI,F,1948.0,Casey,159
+WI,F,2007.0,Linda,
+WI, M ,1938.0,Alex,209
+WI,M,1949.0,Jordan,396
+WI, M ,2015.0, Jordan ,6
+WI,M,1984.0,John,82
+,F,1950.0,Jennifer,806
+WI,M,1989.0,Robert,300
+WI,M,1971.0,,865
+,F,1973.0,Alex,41
+WI,F,1941.0, Taylor ,8
+WI, F ,1996.0,linda,26
+WI,M,1977.0,Taylor,305
+WI,F,1983.0,mary,716
+WI, M ,1933.0,Alex,15
+WI,F,1956.0,James,13
+WI,M,1946.0,Alex,40
+WI,F,1956.0,Patricia,73
+WI,M,2009.0,James,10
+WI,F,1930.0,Taylor,8
+WI, F ,2019.0,Linda,54
+WI,F,1990.0,Patricia,165
+WI,F,2003.0,Linda,459
+WI,M,1976.0,Jordan,989
+WI,M,1965.0,jordan,490
+ WI ,F,2018.0,,497
+WI,F,1910.0,Alex,8
+WI,F,1989.0,Michael,285
+WI,,1993.0,James,732
+WI,M,1914.0,Michael,9
+WI,M,2010.0,Jordan,636
+WI,F,1945.0,Mary,
+ WI ,F,2006.0, Linda ,40
+WI,F,1977.0,Alex,46
+WI,M,1997.0,Robert,217
+WI,M,1994.0,Taylor,133
+WI,M,1967.0,Casey,468
+WI,F,1946.0,Taylor,78
+WI,M,1946.0,James,435
+WI,F,2012.0,Casey,272
+WI,F,1978.0,Robert,1183
+ WI ,F,1954.0,Taylor,314
+WI,M,1966.0,John,355
+WI,F,2012.0,Patricia,16
+WI,M,1961.0,casey,564
+WI,M,1996.0, Robert ,350
+WI,F,2017.0,Alex,10
+WI,,2002.0,Jennifer,1076
+WI, F ,1949.0,Linda,351
+WI, F ,2013.0,Taylor,36
+WI,F,1955.0,Jordan,860
+,F,2003.0,taylor,423
+WI,M,1940.0,Michael,133
+WI,F,2018.0,Casey,13
+WI, M ,1981.0,John,686
+WI,F,2008.0,Patricia,134
+WI,M,1996.0,John,134
+,M,1960.0,John,145
+WI,M,1998.0,John,489
+WI,M,2005.0,James,181
+WI,M,2001.0,Linda,61
+WI,M,1948.0,Jordan,21
+WI,F,1950.0,Alex,417
+WI, M ,,Casey,5
+WI,M,2001.0,,400
+WI,F,1928.0,Mary,44
+WI,M,1955.0,Alex,434
+WI,F,1964.0,Jennifer,32
+WI,F,2017.0,Mary,5
+WI,M,1946.0,Robert,233
+WI,M,2012.0,Casey,274
+WI,F,1981.0, Alex ,206
+WI,F,1919.0,Patricia,211
+WI,M,2004.0,Alex,285
+WI,M,2013.0,John,12
+WI,M,1983.0,John,29
+WI, F ,1953.0,Jordan,310
+WI,F,1982.0,Linda,80
+WI,M,1924.0,Robert,12
+ WI ,M,1956.0,Casey,318
+WI,M,1945.0,James,104
+WI,M,1954.0,Robert,33
+, M ,1963.0,Taylor,729
+WI,M,1938.0,Michael,128
+WI,M,1998.0, Jordan ,1185
+WI,F,1960.0,,291
+WI, F ,1934.0,casey,43
+WI,F,1917.0,Michael,18
+WI,M,1973.0,,74
+WI,F,1963.0,Casey,481
+WI,F,2014.0,Jennifer,896
+WI,M,,Robert,222
+WI,F,1949.0, Robert ,47
+WI,M,1972.0,Robert,693
+WI,F,1924.0,Taylor,16
+WI,M,1986.0,Taylor,12
+WI,F,1995.0,Linda,500
+WI,F,2004.0,Mary,95
+WI,M,2015.0,James,304
+ WI ,,1986.0,jennifer,391
+WI,F,2007.0,Casey,260
+WI,M,2017.0,John,255
+ WI ,M,1988.0,John,624
+WI,F,2018.0,Robert,109
+,F,1948.0,Taylor,186
+WI, M ,1917.0,Alex,70
+WI,F,1920.0,Jordan,333
+WI, M ,2006.0,Michael,555
+WI,M,1965.0,Michael,509
+WI,M,1979.0,john,364
+WI,M,1981.0,Jordan,552
+WI,F,1953.0,Casey,444
+WI,F,,Casey,73
+,F,1927.0,Patricia,16
+,M,1921.0,Casey,7
+WI,M,2004.0,Taylor,68
+WI,,2003.0,Michael,101
+WI,M,2003.0,James,13
+WI,F,1926.0,Casey,108
+WI,F,1929.0,jennifer,178
+ WI ,F,1957.0,Jordan,538
+WI,M,1929.0,John,199
+WI,M,1944.0, James ,69
+WI, F ,1993.0,Jennifer,410
+WI,F,2014.0,,89
+WI,F,1964.0,,600
+ WI ,F,1981.0,Taylor,
+ WI ,F,1993.0,Linda,37
+WI,F,1980.0,Taylor,86
+WI,F,1936.0,Mary,59
+WI,F,2021.0,Mary,268
+ WI ,,1949.0,Jordan,
+WI,F,2007.0,Jennifer,470
+WI,F,, Patricia ,632
+ WI ,F,2003.0,Casey,99
+WI,F,2012.0,Jennifer,352
+WI,F,1956.0,Mary,43
+ WI ,M,1979.0,Jordan,520
+WI,F,1978.0,Mary,156
+,M,2013.0,,21
+,M,1989.0, Alex ,24
+WI, M ,1952.0,Casey,569
+WI,F,1976.0,Mary,795
+WI,M,2022.0,James,
+WI,F,2008.0,Linda,160
+WI,F,1993.0,taylor,607
+WI, F ,1980.0,Casey,42
+ WI ,,1989.0,Michael,262
+WI,,1963.0,Michael,595
+WI,,1979.0,Robert,792
+WI,F,1929.0,Mary,8
+WI,M,1937.0, Taylor ,35
+WI,F,1948.0,Alex,442
+WI,F,1998.0,Jordan,
+WI,F,1929.0,Taylor,26
+WI,F,1954.0,,385
+WI,M,1933.0,Casey,55
+WI,F,1980.0,Patricia,350
+,M,1971.0,Robert,
+WI,M,1941.0,alex,67
+ WI ,F,1984.0,Jordan,329
+WI,F,1930.0,Alex,27
+WI,F,1943.0,Taylor,61
+WI, F ,2001.0,Alex,635
+WI,F,1923.0,Mary,39
+WI,M,,Casey,311
+WI,F,2013.0,Jennifer,669
+WI,M,1963.0,,206
+WI,F,1993.0,Casey,334
+WI,F,2015.0,mary,
+,F,1988.0,Mary,29
+ WI ,F,2001.0,Linda,
+WI,F,1997.0,Mary,275
+ WI ,F,1972.0,Mary,278
+WI,F,1958.0,Casey,1362
+WI,F,1949.0,Taylor,530
+,F,1935.0,Casey,49
+WI,,1955.0,Casey,157
+WI,M,1948.0,Casey,11
+WI,F,1929.0,,14
+WI,F,2000.0,Jennifer,
+WI,F,,,530
+WI,F,2018.0,Michael,239
+WI,F,1994.0,Mary,276
+WI,F,2011.0,Casey,681
+WI,F,1955.0,Patricia,22
+WI,F,1941.0,,6
+WI,M,1962.0,James,523
+WI,M,1939.0,James,60
+WI,M,1931.0,casey,561
+ WI , F ,1963.0,,31
+WI, M ,2005.0,Taylor,204
+ WI ,M,,James,170
+WI,,2007.0,Alex,25
+WI,F,2022.0,Patricia,5
+WI,M,2005.0,Robert,38
+WI,F,1937.0,Patricia,108
+ WI ,F,1976.0,Alex,63
+WI,F,1975.0,Jennifer,34
+WI,F,1983.0,Alex,461
+WI,F,1931.0,Jennifer,431
+WI,M,1928.0,Robert,153
+WI,F,,Taylor,222
+WI,F,1919.0,Casey,48
+WI,F,1981.0,casey,164
+ WI ,,1930.0,Jordan,27
+WI, F ,1936.0,Jennifer,12
+WI,F,1946.0,Linda,46
+WI,M,1942.0,John,188
+WI,M,1980.0,John,521
+WI,,1952.0,Michael,8
+ WI ,F,1936.0,Casey,184
+WI, M ,,Michael,714
+WI,M,1929.0, Casey ,12
+WI,,1976.0,Michael,16
+ WI ,F,1964.0,Linda,217
+ WI ,F,1965.0,Patricia,313
+WI,F,1993.0,Mary,526
+,M,1958.0,,449
+WI,M,1964.0,Jordan,1036
+,,,Linda,549
+WI,M,1963.0,alex,1217
+WI,F,1932.0,taylor,273
+WI, F ,2003.0,Jordan,29
+WI,F,1918.0,Patricia,29
+WI,M,1978.0,John,269
+WI,M,1991.0,Casey,621
+WI,F,2009.0,alex,137
+WI,F,1977.0,Jennifer,21
+WI,F,2011.0, Alex ,396
+WI,F,1986.0,Casey,598
+WI,M,1922.0,Michael,120
+ WI ,F,1994.0,Alex,85
+WI, M ,1961.0,Jordan,1066
+WI,F,2014.0,Alex,112
+WI,M,1995.0,,145
+WI,M,1913.0,,5
+ WI ,F,1974.0,Patricia,573
+WI,M,1992.0,Casey,157
+WI,M,2013.0,James,7
+WI,M,1932.0,James,278
+WI,F,1961.0,Jordan,307
+WI,M,1965.0,James,808
+WI,F,,Alex,38
+WI,M,1951.0, Alex ,214
+WI,F,1965.0,Casey,251
+ WI ,F,1945.0,,455
+WI,M,1934.0,Taylor,16
+WI,F,1993.0,Patricia,181
+WI,F,1935.0,John,37
+WI,M,1971.0,Taylor,139
+WI,M,1969.0,John,710
+WI,F,1999.0,Linda,23
+WI,F,1997.0,,184
+ WI ,M,1985.0,Taylor,1130
+WI,M,,John,1285
+WI,F,1949.0,Jennifer,56
+WI,F,1998.0,Robert,22
+WI,F,1991.0,Casey,175
+WI,,1932.0,Mary,88
+WI, M ,1928.0,Michael,45
+WI,F,1987.0,Taylor,
+WI,M,1980.0,Michael,32
+WI,M,2022.0,Alex,38
+WI,F,1984.0, Patricia ,299
+WI,F,2002.0,Mary,1066
+WI,M,2021.0,,12
+ WI ,M,2021.0,John,74
+ WI ,M,1956.0,Robert,98
+WI, F ,1957.0,Casey,113
+WI,F,1943.0,Linda,184
+WI,M,2009.0,Alex,52
+WI, F ,2010.0,Mary,605
+WI, F ,2004.0,Linda,33
+ WI ,M,1945.0,Alex,205
+WI,M,2011.0,Robert,393
+ WI ,F,1927.0,Linda,231
+WI,F,,Jennifer,725
+WI, M ,1980.0,James,906
+WI,F,2004.0,,701
+ WI ,M,1919.0,Robert,94
+WI,F,1939.0,Mary,198
+WI,,2012.0, John ,5
+WI,M,1941.0,Casey,
+WI,,2010.0,John,14
+,M,1966.0,James,1120
+WI,M,,,188
+WI,M,2019.0,John,44
+WI,M,1983.0,Robert,167
+WI,M,1940.0,Taylor,5
+WI,F,1992.0,Patricia,1072
+WI,,1930.0,Michael,58
+WI,M,1932.0,Robert,187
+WI,M,2000.0,patricia,209
+WI,M,2021.0,Taylor,242
+WI,F,1994.0,Taylor,123
+,F,2005.0,Casey,18
+,M,1984.0,Robert,622
+WI, M ,2017.0,Taylor,
+WI,F,,Jordan,764
+WI,M,1978.0,Michael,147
+WI,M,1982.0,John,70
+WI,F,1994.0,Robert,373
+WI,M,1950.0,Taylor,559
+WI,M,2021.0,Michael,122
+WI,F,1948.0,Alex,442
+WI,F,,,361
+WI,F,1945.0,Patricia,121
+WI, M ,1919.0,Jordan,15
+WI,M,2005.0,Alex,15
+WI,M,1957.0, Taylor ,115
+ WI ,M,2018.0,James,77
+WI,M,1973.0,taylor,737
+WI,M,2020.0,Alex,31
+WI,F,2010.0,Alex,262
+WI, F ,2006.0,,387
+ WI ,F,2021.0,Robert,12
+WI, M ,1990.0,,139
+WI, F ,1979.0,Jordan,148
+WI,F,1953.0,Linda,376
+,F,1932.0,Patricia,231
+WI,F,1987.0,,198
+WI,,1915.0,James,56
+WI,M,1968.0,Michael,638
+WI,F,1921.0,Jordan,6
+WI,F,,Alex,292
+WI,M,1923.0,James,14
+WI,M,1950.0,Jordan,366
+WI,F,1919.0,Jordan,
+WI,M,2008.0, Michael ,118
+WI,M,1959.0,Alex,281
+WI,M,1994.0,Michael,827
+WI, M ,1939.0,alex,10
+WI,M,1944.0,Alex,66
+,M,1989.0,Jordan,542
+WI,F,2009.0, Jordan ,275
+ WI ,F,1996.0,Jordan,267
+WI,F,1958.0,Taylor,253
+,M,1955.0,Jordan,78
+WI,F,1961.0,Jennifer,542
+WI,F,2008.0,Jennifer,236
+WI,M,1943.0,Jennifer,27
+WI,M,1955.0,Robert,11
+WI,F,1976.0,casey,455
+WI,F,2011.0,Jordan,213
+WI,M,2008.0,James,219
+ WI ,F,1917.0,Casey,172
+WI,M,1948.0,Robert,151
+WI,F,1985.0,Casey,
+WI,,,Taylor,430
+WI,M,1951.0,Michael,401
+WI,M,2007.0,Casey,31
+WI,M,2016.0,Robert,67
+WI,,1910.0,,8
+WI,,2007.0,Patricia,8
+WI,F,,Mary,326
+WI,F,1972.0,Taylor,285
+,M,1995.0,Michael,203
+ WI ,F,1932.0,Jennifer,5
+WI,M,1973.0,Casey,94
+WI,F,2014.0,Taylor,286
+WI,M,2020.0,Michael,39
+ WI ,M,1975.0,John,494
+WI,M,1941.0,,315
+WI,M,1953.0,Taylor,32
+WI,M,1934.0,John,66
+ WI ,F,2002.0,Alex,46
+WI,F,1956.0,Alex,1148
+WI,F,1988.0,Patricia,135
+WI,F,1963.0,Taylor,110
+,,1937.0,James,29
+WI,M,1969.0,alex,277
+WI,F,,Patricia,19
+WI,F,1956.0,Taylor,770
+WI,M,1940.0,John,190
+WI,M,1995.0,Taylor,13
+WI,M,1987.0,Taylor,540
+WI,M,1988.0,Robert,212
+ WI ,F,1935.0,Alex,35
+WI,M,2010.0,Michael,50
+WI,M,1983.0,James,300
+WI, F ,2021.0,Taylor,9
+WI,M,2011.0,,139
+WI, M ,1998.0,Taylor,
+ WI , F ,2007.0,Alex,58
+WI,M,1983.0,Jordan,180
+WI,M,1911.0,Michael,26
+WI,M,1984.0,Michael,6
+WI,F,1925.0,Taylor,126
+WI,F,2019.0,Alex,37
+WI,F,1963.0,Mary,163
+WI,F,2001.0,James,604
+WI,M,2013.0,Michael,143
+WI,F,1944.0,Casey,659
+WI,M,1934.0,Robert,94
+WI, F ,2016.0,Taylor,101
+WI,M,2012.0,,331
+WI,M,1952.0,john,73
+WI,M,1953.0,James,696
+,F,1955.0,Jennifer,11
+WI,M,1995.0,James,183
+WI,M,2003.0,Jennifer,598
+ WI ,M,1974.0,Robert,215
+WI,F,1940.0,casey,10
+WI,M,1941.0,Michael,312
+WI,F,1927.0,Casey,11
+,M,1987.0,Jordan,179
+WI, F ,1962.0,Jennifer,104
+WI,F,1963.0,Linda,66
+WI,F,2007.0,Mary,489
+WI,F,2001.0,Jennifer,77
+WI,M,1981.0,Robert,1206
+WI,M,1973.0,Alex,457
+WI,F,1929.0,Jordan,
+WI,M,1998.0,Casey,7
+WI,M,1979.0,Patricia,1133
+WI,F,2010.0,Casey,93
+WI,,1942.0,Linda,95
+WI,F,1948.0,Jennifer,
+ WI , M ,1926.0,Casey,134
+WI,F,1952.0,jennifer,61
+WI,F,1912.0, Jennifer ,62
+WI,M,1915.0,Alex,14
+WI, F ,1961.0,Alex,250
+WI,F,2022.0,Taylor,530
+WI,M,1942.0,Alex,198
+WI,M,1994.0,Alex,27
+WI,M,1949.0,Michael,1210
+WI,M,1979.0,Taylor,
+WI,M,1918.0,Michael,25
+WI,F,1968.0,michael,
+WI,M,1972.0,Jordan,473
+WI,F,1995.0,Patricia,339
+ WI ,F,1947.0,Mary,158
+WI,F,1964.0,,52
+,M,1928.0,Linda,48
+,M,1984.0,James,793
+WI,M,1980.0,Casey,1086
+WI,M,1972.0,james,303
+WI,,1940.0,jordan,86
+WI,F,1995.0,Robert,34
+WI,F,1977.0,Jordan,252
+WI,F,1976.0,Jennifer,
+,M,1980.0,taylor,453
+WI,M,1989.0,John,143
+, F ,1931.0,Patricia,42
+WI,F,1951.0,Linda,302
+ WI , F ,1970.0,Mary,399
+,M,1931.0,Patricia,227
+WI,M,1968.0,Jordan,38
+WI,M,2014.0,casey,335
+ WI ,M,1991.0,Alex,212
+WI,M,1996.0,Taylor,227
+WI,F,2019.0,Robert,63
+WI,F,2003.0,Jennifer,16
+WI,F,1943.0,Mary,276
+WI,F,1964.0,James,11
+WI,F,1935.0, Jennifer ,811
+WI,M,1936.0,Robert,110
+ WI ,M,1920.0,Patricia,161
+WI, F ,1920.0,Casey,37
+WI,F,1947.0,Casey,10
+ WI ,M,1996.0,Mary,418
+WI,F,1928.0,Taylor,247
+WI,M,1964.0,James,730
+WI,M,1949.0,,429
+WI,F,2012.0,Mary,79
+WI,,2012.0,michael,215
+WI,F,1956.0,Jordan,54
+WI,F,1960.0,Casey,118
+WI, F ,2009.0,Jennifer,277
+WI,M,,Jordan,37
+ WI ,M,1971.0,Jordan,803
+WI,M,1964.0,Casey,582
+WI,F,1991.0,mary,947
+WI,M,1958.0,Robert,618
+,F,1977.0,Casey,13
+WI, F ,1965.0,Taylor,263
+WI,,1953.0,Jennifer,98
+ WI ,M,1978.0,Jordan,308
+ WI ,F,1976.0,Linda,300
+WI,F,1936.0,John,628
+WI,F,2009.0, Jordan ,275
+WI,M,1938.0,Casey,12
+WI,F,1945.0,,
+ WI ,M,2016.0,Taylor,251
+WI,M,2006.0,,106
+WI,M,2004.0,Casey,487
+WI,F,1969.0,Alex,103
+WI,F,1967.0,Patricia,48
+WI,,2014.0,Jennifer,242
+WI,M,1974.0,Casey,
+WI,M,1997.0,Alex,22
+WI,F,1990.0,Taylor,149
+ WI , F ,1940.0,Alex,22
+ WI ,F,1917.0,,59
+WI,F,1952.0,Taylor,663
+WI,M,1935.0,Jordan,604
+WI,F,1967.0,Alex,353
+WI,M,2019.0,Jordan,216
+WI,F,1946.0,Mary,208
+, M ,2020.0,Taylor,539
+WI,F,1993.0,,68
+ WI ,M,1946.0,michael,8
+WI,F,1951.0, Jordan ,666
+WI,M,1938.0,Michael,128
+WI,F,1978.0,jordan,635
+WI,M,1986.0,Alex,489
+WI,M,2011.0,John,100
+WI,F,,Mary,479
+,F,1937.0,Jordan,14
+WI,F,1958.0,Patricia,
+WI, M ,2001.0,Alex,8
+WI,F,1977.0,,164
+WI,F,2002.0,Jordan,423
+WI, F ,1975.0,Linda,134
+WI,M,2014.0,Jordan,297
+WI,F,2000.0,Casey,54
+WI,M,2011.0,Taylor,336
+,M,2013.0,,21
+WI,M,1939.0,Michael,347
+WI,M,1966.0,Robert,904
+WI,F,1981.0,Mary,201
+WI,M,1986.0,John,249
+WI,,1992.0,Alex,210
+WI,F,1971.0,James,77
+WI,F,2010.0,Jordan,534
+WI,F,2020.0,Casey,60
+WI,F,2021.0,Jordan,7
+WI, M ,1999.0,Jordan,54
+WI,F,1964.0,Taylor,57
+ WI ,M,1962.0,Alex,106
+WI,M,1985.0,James,933
+WI,M,1975.0,Taylor,677
+WI,F,1941.0,Jennifer,56
+WI,,1943.0,Patricia,
+WI,M,2002.0,Taylor,
+WI,F,1956.0,Linda,39
+WI,F,1978.0,Jennifer,426
+WI,F,1941.0,Patricia,6
+WI,M,1919.0,John,35
+WI,M,1970.0, Taylor ,303
+WI,,1969.0,Casey,203
+,F,1923.0,Linda,68
+WI,M,1969.0,James,
+ WI ,F,1940.0,Jordan,88
+,M,1999.0,Casey,344
+WI,M,1994.0,James,457
+WI, F ,1987.0,Patricia,506
+WI, F ,1968.0,linda,906
+WI,F,1983.0,Casey,235
+ WI , M ,1933.0,Taylor,254
+WI,F,1938.0,Alex,84
+WI,M,1971.0,James,1019
+WI,F,2004.0,robert,327
+WI,M,2018.0,michael,34
+WI,F,1980.0,Jennifer,667
+WI,F,2019.0,Taylor,
+WI, M ,1964.0,Jennifer,100
+WI,M,1961.0,John,140
+WI, F ,1927.0,Taylor,217
+WI,M,1999.0,Robert,67
+ WI ,M,1973.0,James,234
+WI,F,1943.0,Jennifer,93
+WI,F,1993.0,Alex,119
+,M,1975.0,Robert,282
+WI,F,1939.0,Alex,184
+WI,M,2001.0,Michael,95
+WI,F,1959.0, Alex ,21
+ WI ,M,2010.0, Taylor ,8
+WI,M,1911.0,John,37
+WI,M,2010.0,Robert,27
+WI,F,1975.0,Jordan,165
+WI,M,2010.0,Linda,55
+,F,1941.0,Linda,515
+WI,F,1946.0,,274
+ WI ,M,,Jennifer,179
+WI,F,1964.0,Alex,563
+WI,M,1957.0,jordan,8
+WI,M,1978.0,Taylor,78
+WI,F,1939.0,Jordan,60
+ WI ,F,1985.0,Jennifer,568
+ WI ,F,,James,15
+WI,F,1955.0,Taylor,26
+WI, M ,2006.0,Alex,335
+WI,,2019.0,Casey,80
+WI,M,1924.0,Casey,6
+WI,F,1965.0,Jennifer,16
+WI,F,2020.0,Mary,69
+WI,F,1928.0,Alex,294
+WI,F,1992.0,Linda,271
+WI, M ,1936.0,Michael,161
+WI, F ,1988.0, Linda ,119
+WI,F,1989.0,jennifer,647
+WI, M ,1972.0,John,551
+WI,M,1977.0,Alex,261
+WI,M,1999.0,Michael,157
+WI,M,1922.0,james,159
+ WI ,F,1962.0,Patricia,731
+WI,,1997.0,John,177
+WI,F,1972.0,Linda,63
+WI, M ,1934.0,James,31
+WI,F,1998.0,Linda,21
+WI,F,1999.0,Patricia,110
+WI,M,1979.0,James,689
+ WI ,M,1951.0,Robert,34
+WI,M,1995.0,Alex,365
+WI,,2011.0,James,11
+WI,,1956.0,Jennifer,122
+WI,M,1921.0,John,7
+WI,F,1988.0,Casey,472
+WI,M,1990.0,Taylor,463
+,M,1959.0,Casey,45
+WI,F,1986.0,Michael,
+WI,F,2008.0,Casey,47
+WI, F ,1959.0,Mary,37
+,,1968.0, Jordan ,473
+WI,F,1936.0,Taylor,408
+WI,M,2008.0,,7
+WI,,1945.0,Alex,91
+ WI ,M,1988.0,Alex,81
+WI, M ,1973.0,,55
+WI,M,1993.0,Jordan,479
+WI, F ,2019.0,jennifer,186
+ WI ,F,2005.0,Alex,244
+WI,M,2015.0,taylor,532
+WI,F,1945.0,casey,15
+WI,M,1970.0,Casey,429
+WI,F,1913.0,mary,13
+WI,M,1977.0,James,7
+WI, F ,1987.0, Casey ,112
+WI,F,2001.0,Casey,484
+WI, M ,1968.0,Alex,
+ WI ,M,2015.0,Michael,21
+WI,M,1920.0,linda,22
+WI, F ,1989.0,Alex,95
+WI,F,1961.0,Patricia,663
+WI,F,1992.0,Jennifer,92
+WI,F,1983.0,Jennifer,487
+WI,M,1969.0,Taylor,390
+WI,,1937.0,Robert,16
+WI,F,1982.0,,876
+WI,F,1957.0,Patricia,144
+WI,F,1974.0,linda,501
+,F,2011.0,Taylor,115
+ WI , M ,1986.0,Casey,555
+WI, M ,2018.0,Taylor,23
+WI,,1952.0,Jordan,118
+WI,M,1993.0,Casey,714
+WI, F ,,,295
+ WI ,M,2009.0,Taylor,407
+WI,M,1971.0,John,153
+WI,M,1933.0,Robert,502
+WI,M,1989.0,Taylor,811
+,F,,Jordan,508
+WI,M,1968.0,,178
+, F ,1971.0,Casey,469
+WI,F,1925.0,Linda,57
+WI,F,1992.0,Mary,699
+WI,M,1994.0,Mary,714
+WI,M,1971.0,Casey,272
+WI,,1950.0,John,284
+WI,M,2007.0,James,395
+WI,F,1945.0,Taylor,245
+WI,F,1954.0,Jennifer,
+WI,F,1954.0,Linda,68
+ WI ,F,1958.0,Jordan,
+WI,F,1970.0,Patricia,318
+WI,F,1965.0,Linda,688
+WI,,1946.0,Taylor,24
+WI,M,1917.0,James,53
+WI, F ,2003.0,Mary,25
+WI,M,1950.0,John,47
+WI,M,1994.0,Jordan,649
+WI,M,2014.0,Alex,300
+ WI ,M,2010.0,James,18
+WI,M,1921.0,,7
+WI,M,2018.0,Casey,30
+WI, M ,1959.0,James,110
+WI,M,1976.0,James,318
+WI,M,2016.0,Alex,15
+WI,F,1984.0,Linda,144
+WI,M,1990.0,Jordan,287
+WI,F,1925.0,Jordan,49
+WI,M,1973.0,John,242
+WI,F,1976.0,Jordan,5
+WI,M,1980.0,Jordan,571
+WI, M ,1925.0,Casey,283
+WI,M,2017.0,James,329
+WI,M,1991.0,Jordan,231
+WI,F,1981.0, Patricia ,313
+WI,M,1984.0,Taylor,97
+WI,F,1992.0,Casey,78
+WI,M,1960.0,,49
+WI,M,1960.0, Alex ,
+WI,M,1990.0,Robert,349
+WI,F,1960.0,Patricia,433
+WI,F,2002.0,Linda,177
+WI,M,1945.0,John,491
+WI,M,1933.0,Michael,45
+WI,F,1918.0,Mary,6
+WI,M,2010.0,Jordan,636
+WI,F,1969.0,Taylor,275
+WI,F,2017.0,Taylor,92
+ WI ,F,1916.0,,18
+ WI ,M,2018.0,Robert,272
+WI,M,1990.0,john,507
+WI,F,1958.0,,71
+WI,F,2003.0,Patricia,28
+WI,F,2010.0,Jennifer,59
+WI,M,1975.0,Jordan,127
+WI,F,1995.0,James,
+ WI ,F,1986.0,Patricia,172
+WI,,,Jordan,11
+WI,F,1975.0,Alex,342
+WI,M,1994.0,John,541
+WI,F,,Jennifer,353
+WI,F,1922.0,,
+WI,,1936.0,Casey,97
+WI,,1967.0,Michael,1266
+WI, M ,1992.0,Taylor,288
+WI,M,1942.0,Robert,240
+WI,M,1959.0,Jordan,64
+WI,M,1972.0,Casey,
+WI,M,1974.0,James,408
+WI,F,1997.0,Jordan,305
+WI,F,1938.0,Jordan,407
+ WI ,M,1956.0,,11
+WI, F ,1957.0,Mary,351
+WI,F,1981.0,Jennifer,66
+WI,M,1934.0,Michael,128
+WI,F,1985.0,taylor,431
+WI,F,1961.0,Taylor,227
+WI,M,2005.0,Jennifer,193
+WI,F,1994.0,Patricia,300
+WI,M,1984.0,Jordan,784
+WI,F,1957.0,Alex,490
+WI,F,1974.0,Alex,157
+WI,F,2016.0, Mary ,520
+WI, M ,2002.0,Robert,848
+WI,F,1915.0,Patricia,5
+WI,M,1971.0,Michael,
+ WI ,M,1918.0,John,13
+WI,M,1926.0,Robert,28
+WI,F,1928.0,Casey,200
+WI,M,1944.0,Michael,142
+WI,F,1963.0,patricia,448
+WI,M,2005.0,Patricia,35
+WI, F ,1966.0,Linda,141
+ WI ,F,1971.0,Linda,518
+ WI , M ,1972.0,Michael,73
+WI,M,1952.0,James,10
+ WI ,M,1916.0,michael,72
+WI,,1968.0, Casey ,229
+WI,M,1944.0,Casey,72
+WI,F,1961.0,Linda,56
+WI,M,1982.0,Casey,349
+WI,F,2019.0,Patricia,303
+WI,M,1970.0,John,674
+WI,M,2021.0,alex,20
+WI,F,1974.0,Alex,157
+WI,F,1926.0,Alex,59
+WI, M ,1986.0, Michael ,358
+WI,F,2016.0,Casey,248
+ WI ,F,1990.0,Jennifer,39
+WI,F,1970.0,Linda,40
+WI,F,2006.0,Mary,72
+ WI ,F,1996.0,,692
+WI,F,1997.0,Taylor,127
+ WI ,F,1936.0,James,94
+WI,F,1989.0,Jordan,209
+ WI , M ,1930.0,James,7
+ WI ,M,1924.0,Taylor,
+ WI ,M,1967.0,Mary,61
+WI,F,1973.0,Jennifer,172
+WI,F,1947.0,,233
+WI,F,1956.0,Jennifer,88
+ WI ,,1952.0,Alex,100
+WI,M,1976.0,,258
+WI,F,1937.0,Casey,22
+WI,M,1991.0,Casey,621
+WI,F,1921.0,Jordan,6
+WI,M,1957.0,John,372
+WI,M,,Michael,30
+WI,F,1979.0,Mary,713
+WI,F,1962.0,John,614
+WI,M,2005.0, Casey ,26
+WI,M,1998.0,robert,40
+WI,F,1952.0,Casey,766
+WI,M,1962.0,Casey,104
+WI,M,1966.0,Michael,23
+ WI ,M,1987.0,,217
+WI,F,1979.0, Patricia ,85
+ WI ,F,2014.0,Jordan,104
+WI,M,1943.0,James,44
+WI,F,1939.0,Patricia,217
+,F,1999.0,Robert,1569
+WI,F,2020.0,Patricia,67
+WI,F,1991.0,Jordan,160
+WI,M,2009.0,Jordan,330
+WI,F,2003.0,John,59
+WI, F ,1951.0, Alex ,17
+ WI ,F,1969.0,Mary,566
+WI,F,2002.0,Patricia,
+WI, M ,2013.0,Jordan,
+WI,M,1944.0,john,56
+WI,M,1948.0, Linda ,260
+,M,1961.0,Alex,919
+ WI ,F,1951.0,Patricia,191
+WI,,2014.0,Mary,496
+WI,F,1930.0,Patricia,55
+WI,F,1996.0,Casey,393
+,F,1954.0,Patricia,252
+WI, M ,,Michael,212
+WI, F ,2015.0,,125
+, M ,1965.0,Taylor,216
+ WI ,F,,,385
+WI,F,1997.0,Casey,446
+WI,F,2003.0,Michael,
+WI,F,1971.0,,395
+WI,F,2018.0,Patricia,19
+WI,,2010.0,Casey,109
+WI,M,1937.0,John,13
+WI,M,2019.0,Alex,164
+WI,F,1981.0,Linda,431
+WI,M,1951.0,Jennifer,985
+WI,F,,Jennifer,440
+WI, M ,,Taylor,670
+ WI ,M,1993.0,Michael,94
+WI,M,1966.0,Casey,92
+WI,F,1936.0,Patricia,
+WI,F,1974.0,Casey,574
+,M,1965.0,Casey,346
+WI,F,1991.0,Linda,993
+WI,M,1968.0,James,14
+WI,M,1936.0, James ,25
+WI,F,1998.0,Mary,252
+WI, M ,2001.0,Jordan,47
+WI,F,2009.0,Mary,44
+WI,M,1996.0,Michael,300
+WI,M,1953.0,Alex,38
+WI,F,1967.0,Casey,197
+WI, F ,1987.0, Casey ,112
+WI,M,1999.0,Taylor,6
+WI,M,1956.0,james,743
+WI,F,1963.0,Alex,419
+WI,F,1938.0,Mary,37
+WI,M,1978.0,Robert,241
+WI,M,1934.0,Alex,31
+WI,M,1975.0,James,77
+WI,F,2020.0,Linda,5
+WI,F,1977.0,Patricia,563
+WI,M,1944.0,Jordan,709
+ WI ,F,1956.0,Casey,886
+WI,M,1997.0,Taylor,125
+WI,F,1953.0,taylor,384
+WI,M,1967.0,Alex,222
+WI,F,2000.0,Linda,96
+WI,M,2003.0,,132
+WI,,2021.0,Alex,18
+WI,M,1977.0,Casey,291
+WI,F,2010.0,Patricia,16
+ WI ,F,2000.0,Patricia,77
+WI,F,1971.0,Taylor,806
+WI,M,1991.0,,604
+WI,F,1957.0,Alex,490
+WI,F,1926.0,Jordan,5
+ WI ,M,1938.0,Taylor,327
+WI,M,1955.0,John,183
+WI,M,2018.0,Alex,142
+WI,M,,Jordan,335
+WI, M ,1952.0,Taylor,171
+ WI ,M,1935.0,John,225
+WI,F,2012.0,Alex,68
+WI,F,1922.0,Jennifer,165
+WI,M,2008.0,Jordan,15
+WI,,1958.0,taylor,207
+WI,M,1999.0, James ,46
+WI,M,,James,68
+WI,M,1987.0,John,36
+WI,M,2019.0,Robert,49
+WI, F ,2020.0,Jordan,306
+WI,F,1968.0,Casey,480
+WI,M,1968.0,John,432
+WI,F,1996.0,Alex,442
+WI,M,1991.0,James,81
+WI, F ,,Taylor,495
+WI,F,1991.0,Taylor,752
+WI,M,1964.0,Taylor,606
+WI,M,1927.0, Taylor ,510
+WI, M ,,Casey,83
+WI,M,1943.0, Taylor ,40
+WI,M,1947.0,James,6
+WI,F,1966.0,Jennifer,
+WI, F ,2000.0,Mary,18
+WI,F,1913.0,mary,13
+,F,1973.0,Taylor,297
+WI,F,1985.0,,878
+WI,F,,Jordan,764
+WI,F,1955.0,,42
+ WI ,F,1923.0,Casey,138
+WI,M,1964.0,Alex,225
+WI, F ,1987.0,Jennifer,15
+WI,F,1941.0,Casey,127
+WI,F,1940.0, Jennifer ,18
+WI,M,2012.0,Casey,274
+,F,1969.0,Linda,214
+WI,F,1959.0,Taylor,26
+WI, F ,1939.0,Taylor,457
+WI,,,James,251
+WI,M,1984.0,alex,442
+WI,M,1916.0,Robert,14
+WI, M ,2000.0,John,217
+WI,M,1975.0,,315
+WI,F,1969.0,Jordan,173
+WI,F,1998.0,Casey,601
+WI,,1930.0,Patricia,73
+WI,,1996.0,Patricia,403
+WI,F,1939.0,Linda,15
+WI,F,2014.0, Patricia ,65
+WI,M,1974.0,Alex,195
+WI,M,1997.0,Michael,313
+WI, M ,, James ,46
+WI,M,1940.0,James,7
+WI,,1912.0,Jordan,6
+,M,1969.0,Robert,125
+WI,F,2018.0,Mary,484
+WI,M,,Linda,21
+,F,1965.0,Mary,816
+WI,F,1971.0,Alex,424
+WI,F,1958.0,Alex,129
+ WI ,F,1984.0,Alex,316
+WI,F,1945.0,Linda,426
+WI,,1986.0,James,672
+WI,F,1942.0,Taylor,24
+WI,F,1954.0,Alex,509
+WI, F ,1954.0,john,56
+WI,F,1970.0,Robert,313
+WI,M,1929.0,Alex,197
+WI,F,1942.0,Patricia,5
+WI, M ,1987.0,Alex,266
+WI,,1940.0, Mary ,220
+WI,M,1954.0,Alex,193
+WI,F,1972.0,patricia,796
+WI,F,1935.0,Taylor,26
+WI,F,1951.0,Mary,10
+WI,F,2015.0,Robert,496
+WI,M,2000.0,James,425
+WI, M ,1985.0,casey,167
+WI,F,1972.0,Jennifer,237
+,F,1981.0,Jordan,449
+WI,F,1950.0,Mary,502
+WI,M,2001.0, Taylor ,275
+WI,M,1918.0,Taylor,18
+WI,M,1957.0,Robert,1074
+WI, M ,1941.0,,6
+WI,F,1932.0,Linda,298
+WI,F,1929.0, Alex ,13
+WI,M,2009.0,Robert,186
+WI,M,1953.0,Michael,422
+WI,F,1990.0,James,33
+WI,M,1943.0,Michael,93
+ WI ,F,1929.0,John,8
+WI,F,1958.0,,71
+ WI ,M,1974.0,Taylor,23
+WI, M ,,Alex,113
+WI,M,2010.0,Alex,66
+WI,M,1981.0,Taylor,28
+WI,F,2000.0,Taylor,345
+WI,M,2021.0, Casey ,363
+WI,F,2001.0,Patricia,366
+WI,F,2000.0,Alex,10
+WI,F,1960.0,Linda,139
+WI,F,2014.0,Linda,6
+WI,M,1949.0,James,497
+WI,M,1926.0,John,39
+WI,M,1921.0,Taylor,24
+WI, M ,,,150
+WI,M,2019.0, Taylor ,10
+WI,M,1953.0,John,578
+ WI ,M,1973.0,Jennifer,382
+WI,M,1988.0,Michael,780
+WI,M,1932.0,Casey,25
+WI,F,1923.0,Alex,20
+WI, F ,2018.0,Linda,11
+WI,F,2004.0,Jordan,689
+WI,M,1956.0,Jordan,41
+WI,F,1982.0,,924
+WI,M,1928.0,Jordan,22
+WI,F,1956.0,Michael,98
+WI,M,1972.0,Alex,211
+ WI ,M,2022.0,,39
+WI, F ,1991.0,Jennifer,487
+WI,F,2008.0,Jordan,385
+WI,F,1954.0,Mary,45
+WI,,1998.0,Taylor,938
+WI,F,1995.0,Casey,575
+WI,F,1961.0,Casey,146
+WI,,,Linda,94
+WI,M,2003.0,Robert,51
+WI,M,1951.0, Taylor ,414
+WI,M,1958.0,James,23
+WI,M,1940.0,Alex,119
+ WI ,F,2015.0,Linda,139
+WI,F,1986.0,Alex,373
+WI,M,,Jordan,6
+ WI , M ,1939.0,Robert,458
+,M,1943.0,,97
+WI,F,1987.0,Jordan,643
+ WI ,F,2002.0,Jennifer,279
+ WI ,M,1961.0,Michael,507
+WI,F,1959.0,Jennifer,60
+WI,F,1997.0,Linda,149
+ WI ,M,2006.0, Jordan ,78
+WI,F,1952.0,Mary,152
+WI,F,2009.0,Linda,36
+WI,M,1989.0,Casey,166
+WI,F,1962.0,Casey,295
+WI,F,1933.0,Alex,54
+WI,F,2011.0, Jennifer ,8
+,M,1963.0,James,253
+WI,F,1947.0,Patricia,690
+, M ,1954.0,Casey,31
+WI,M,1998.0,Alex,238
+WI,F,1994.0,Linda,281
+WI,M,1979.0,Michael,
+WI,F,1966.0,Patricia,305
+WI,F,2004.0,,114
+ WI ,F,1921.0,Jennifer,34
+WI,F,1974.0,John,130
+WI,F,1978.0,Patricia,130
+ WI ,F,1952.0, Robert ,1137
+WI,M,,John,266
+WI,F,,Patricia,1232
+WI,M,2017.0,Robert,22
+WI,M,1949.0,Robert,
+WI,M,1914.0,Robert,6
+ WI ,M,1974.0,john,848
+WI,M,1955.0,James,476
+WI,F,1949.0,Alex,121
+WI,,1951.0,Casey,1135
+WI,M,,John,45
+WI, M ,2005.0,John,188
+WI,F,1989.0,Mary,156
+WI,M,1912.0,Jordan,20
+WI,M,1955.0,Michael,207
+WI,F,1921.0,,5
+WI,,1982.0,Michael,72
+WI,M,2015.0,Alex,12
+WI,M,,Jordan,154
+WI,,1954.0,Michael,89
+WI,M,,James,
+WI,,2007.0,Patricia,8
+WI,,1995.0,Alex,760
+WI,F,1958.0,Jennifer,51
+WI, M ,1970.0,Jennifer,450
+WI,M,1982.0,Robert,335
+ WI ,M,1930.0,Robert,22
+WI,F,1984.0,Casey,484
+WI,F,2003.0,Alex,387
+WI,M,2015.0,John,7
+WI, F ,1972.0,Casey,511
+WI,M,1941.0,John,473
+WI,M,1990.0,James,328
+WI,F,1927.0,,7
+WI,M,2001.0,Robert,244
+WI,F,1986.0,Taylor,268
+WI,M,1962.0, Robert ,280
+WI,F,1912.0, Linda ,88
+WI,F,1950.0,linda,25
+WI,M,1960.0,Robert,12
+WI,M,1970.0,Robert,91
+WI,M,1978.0,Casey,333
+ WI ,F,1949.0,Patricia,519
+WI, M ,,Casey,437
+WI,M,2015.0,Linda,408
+WI,F,1987.0,Alex,85
+WI,,1948.0,,535
+WI,M,1970.0,James,495
+WI,M,1959.0,John,446
+ WI ,M,1964.0,Robert,513
+WI, M ,2008.0,Robert,113
+WI, F ,1987.0,Patricia,506
+, M ,,Jordan,66
+WI,F,2001.0,Taylor,115
+,M,2016.0,Casey,5
+WI,M,2021.0,Robert,73
+WI,M,1943.0, Jordan ,85
+WI,M,1983.0,Casey,550
+ WI ,F,1946.0,Jennifer,7
+WI,F,1966.0,taylor,30
+WI,M,1949.0,Taylor,92
+WI,,1994.0,Casey,30
+WI,F,1987.0,mary,817
+ WI ,,1998.0,Patricia,318
+WI,F,1962.0,Linda,532
+WI, M ,1965.0,John,954
+WI,F,1975.0,Mary,800
+WI,F,1972.0,James,100
+WI,M,1992.0,jordan,516
+WI, F ,1947.0,taylor,114
+WI,M,1956.0,Taylor,43
+WI,M,1938.0,Jordan,491
+ WI ,M,1987.0,Casey,112
+ WI ,F,1975.0,Casey,308
+WI, M ,1961.0,Robert,277
+WI,F,1964.0,,24
+WI,M,1946.0,John,153
+WI,M,1988.0,Casey,10
+WI,M,1963.0,John,19
+WI, M ,1969.0,,1378
+WI,M,1987.0,Robert,78
+WI,F,1944.0, Mary ,9
+WI,M,1967.0,John,66
+WI,M,1985.0,Robert,96
+WI,F,1933.0,Jennifer,7
+, M ,1976.0,John,580
+WI,F,1952.0,Linda,610
+WI,F,1983.0,Patricia,169
+ WI ,F,1932.0,Casey,402
+ WI ,M,1991.0, Michael ,764
+WI,F,1943.0,alex,438
+WI,F,1940.0,Linda,38
+WI,M,1925.0,John,13
+WI,M,2012.0,Alex,737
+WI,F,,Casey,275
+WI,F,1992.0,Taylor,50
+WI, M ,2009.0,Michael,384
+WI,F,2007.0,Taylor,184
+WI, M ,2003.0,Casey,974
+WI, M ,1920.0,Casey,52

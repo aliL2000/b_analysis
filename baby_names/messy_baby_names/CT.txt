@@ -1,1679 +1,1672 @@
-stateCode,gender,birthYear,firstName,numOccurrences
-CT,M,2021.0,,19
- CT ,M,1927.0,Casey,34
-CT,M,1962.0,Alex,112
-CT,,1945.0,Patricia,44
-CT,M,2015.0,Alex,14
-CT,F,1924.0,,7
- CT ,F,2017.0,Casey,92
-CT,M,1927.0,John,58
-CT,M,1931.0,Michael,5
-CT,M,1939.0,casey,22
-CT,F,1930.0,Taylor,88
-CT, F ,1944.0,Jennifer,35
-CT,M,1990.0,Taylor,120
-CT,F,1967.0,Linda,212
-CT,M,1982.0,Robert,292
-CT,M,1943.0,Linda,
-CT,M,1983.0,Michael,779
-CT,M,2002.0,casey,725
-CT, M ,1921.0,John,25
-,F,1999.0,Alex,266
-CT,F,1984.0,Taylor,593
-CT,F,,Patricia,739
-,F,2005.0,Alex,
-CT,,,Patricia,13
-CT,F,1996.0,Patricia,198
-CT,M,1957.0,Casey,151
-CT,F,1937.0,Alex,118
-CT,M,1943.0,John,16
- CT ,F,1974.0,Mary,
-CT,M,2013.0,Michael,46
-CT,M,1949.0,,15
-CT,M,1957.0,James,618
-CT,F,1974.0,Jennifer,58
-CT,F,2008.0,Taylor,127
-CT,M,1938.0,James,164
-CT,F,1993.0,Jordan,333
-CT,M,1933.0, Jennifer ,84
-CT,M,2022.0,Alex,204
-CT, F ,1988.0,Linda,316
-,M,1989.0,Robert,67
-CT,M,1999.0,Patricia,257
-CT,F,1959.0,Jennifer,629
-CT, F ,,Alex,340
-CT,M,1912.0,Taylor,43
-CT,M,2010.0,Alex,9
- CT , F ,1939.0,Taylor,5
-CT,,1974.0,John,1120
-CT,M,1959.0,Alex,97
-CT,M,1937.0,Alex,86
-CT,,1922.0,Alex,70
-CT,M,1971.0,John,403
-CT,F,, Jordan ,168
-CT,F,1938.0,,236
-CT,F,1974.0,Alex,361
-CT,F,, Taylor ,21
-CT,M,1994.0,Casey,104
-CT,F,1982.0,Jennifer,243
-CT,M,1948.0,John,198
-CT,M,1953.0,Taylor,420
-CT, M ,1953.0,Robert,
-CT,M,1960.0,james,408
-CT, M ,2022.0,Jordan,8
-CT,F,1942.0,,5
-CT,M,1998.0,Taylor,229
- CT ,F,1974.0,Taylor,121
-CT,F,1931.0,Taylor,357
-CT,M,1934.0,Taylor,5
-CT,M,1950.0,Jordan,324
-CT,M,1943.0,Michael,49
-CT,M,1954.0,,577
-CT,F,1940.0,Casey,34
-CT,M,1945.0,Michael,89
-CT, F ,1979.0,Casey,
-CT,,1926.0,James,25
-CT,F,1937.0,jordan,1041
-CT,M,,Alex,115
-CT,F,2008.0, Patricia ,358
-CT,F,1984.0, Linda ,450
- CT ,M,2004.0,Michael,203
-CT,F,1955.0,Patricia,88
-CT,F,2011.0,Linda,777
- CT ,M,1987.0,James,339
- CT ,F,2014.0,Taylor,5
-CT,F,2008.0, Linda ,7
-CT, F ,1988.0,Casey,259
-CT,M,1994.0,Michael,95
-CT,M,,John,58
-CT,M,1965.0,Taylor,87
-CT,M,1963.0,James,343
- CT ,M,1997.0,Linda,174
-CT,F,2008.0,Jordan,10
-CT, F ,1953.0,Robert,262
-CT,F,2012.0,Taylor,9
-CT,F,1992.0,Linda,606
-,M,1980.0,Jordan,519
-CT,F,1964.0,Jordan,349
-CT,M,1966.0,Taylor,225
-CT,,1942.0,Alex,22
-CT,,1998.0, Jordan ,156
-CT,M,1932.0,John,57
-CT,F,1954.0,Jordan,54
-CT, F ,2015.0,Jennifer,53
-CT, M ,1972.0,Casey,587
-,F,1985.0,Jennifer,639
-CT,,,Linda,514
-CT, M ,1952.0,Robert,1244
-CT,F,1934.0,Jennifer,
-CT,F,1941.0,Patricia,666
-CT, M ,1922.0,Jennifer,22
-CT,F,2010.0,Patricia,11
-CT,M,1952.0,James,28
-, M ,,Robert,
-CT,M,1930.0,James,8
-CT,M,1967.0,John,619
-CT,M,1991.0,Casey,236
-CT,F,2010.0,Jennifer,36
-CT,F,1956.0,Taylor,26
-CT,F,1922.0,Casey,8
-CT,M,1925.0,James,6
-CT,F,,Linda,314
-CT,M,1944.0,john,133
-CT,M,2012.0,Casey,
-CT,F,1974.0, Jordan ,952
-,F,1957.0,Alex,9
-,M,1992.0,Alex,637
-CT,F,1961.0,Mary,116
-CT,,1957.0,Jordan,163
- CT ,F,1939.0,Alex,48
-CT,M,2000.0,James,857
-CT,F,1996.0,Alex,440
-CT,M,2020.0,Taylor,132
-CT,M,1993.0,Jordan,448
-CT,F,1985.0,Taylor,111
-,M,1989.0,Jordan,484
-CT,M,1935.0,James,
-CT,,2005.0,Mary,18
-CT,M,,John,133
-CT,M,1974.0,Robert,235
-CT,M,1928.0,robert,12
-CT, F ,1928.0,Jennifer,14
-CT,F,1937.0,Casey,173
-CT,F,1952.0,Taylor,89
-CT,M,1950.0,Taylor,76
-,F,1949.0,Alex,34
-CT,M,1994.0,Jordan,511
- CT ,M,2017.0,Robert,456
-,F,2019.0,Jennifer,22
-CT,F,1998.0,Taylor,68
-CT,F,1951.0, Mary ,808
-CT,F,1950.0,Casey,195
-CT,F,1973.0,Linda,743
-CT,M,,Jordan,13
-CT,F,2020.0, James ,51
-CT,F,1988.0,Jordan,619
-CT,F,1952.0,Jennifer,125
-CT,F,2013.0,Jordan,98
-CT,M,1947.0,Casey,33
-CT,F,1966.0,Mary,141
-CT,F,1979.0,Alex,34
-CT,F,2004.0,Jennifer,300
-CT,F,1978.0,Robert,174
-,F,1965.0, Alex ,36
-CT,F,1925.0,Jennifer,21
-CT,F,2022.0,Jennifer,324
-CT,F,1961.0,Alex,118
-CT,F,1994.0,linda,1076
-CT,M,1985.0,James,248
-CT,M,1935.0,Alex,9
-CT,M,1946.0,Patricia,32
-CT,M,1972.0,James,246
-CT,M,1959.0, John ,28
-CT,F,1972.0,Mary,127
-CT,F,1943.0,Patricia,14
-CT,M,,Alex,872
-CT,F,2020.0,patricia,118
-CT,F,1943.0,mary,10
-CT,M,1916.0,Taylor,146
-CT,F,1985.0,Jordan,97
-CT,F,1984.0,Jordan,93
-CT, F ,1922.0,Mary,83
-CT,M,1969.0,Michael,213
-CT,F,1942.0,Jennifer,5
- CT ,M,1975.0,James,180
-CT,M,2010.0,Jordan,12
-CT,F,1962.0,Patricia,81
-CT, M ,1974.0,Taylor,318
-CT,M,1988.0, Jordan ,13
-CT,M,1967.0,Michael,305
-CT,F,1970.0,Jordan,1043
-CT,M,1944.0,James,24
- CT ,,1956.0,Linda,10
- CT ,M,1961.0,Robert,61
-CT,M,1922.0,Taylor,9
-,M,2006.0,Robert,74
-CT,M,1926.0,Taylor,19
-CT,F,1985.0,Linda,62
-CT,F,,Jennifer,19
-CT,F,,Jordan,19
-CT, F ,2000.0,Jennifer,616
-CT,M,1989.0,Alex,157
- CT ,F,1959.0,Mary,309
-CT,M,1990.0,Michael,454
-,M,1977.0,Jordan,93
-CT,F,1981.0,John,284
-CT,M,1968.0,James,29
-CT,F,1914.0,Jennifer,73
-CT,M,1916.0,Casey,44
-CT,F,1948.0,Mary,24
-CT,M,1932.0,casey,12
-CT, F ,1937.0,Patricia,131
-CT,,1921.0,Casey,94
-CT,F,1972.0,Taylor,
-CT,M,2006.0,Taylor,91
-CT,M,1939.0,Jordan,381
-CT,F,1940.0,Patricia,22
-CT, M ,1925.0,Jordan,
-CT,M,1954.0,James,1203
-CT,F,1954.0,Jennifer,
-CT,M,1978.0, James ,1171
-CT, F ,1971.0,Linda,123
-CT, M ,1993.0, John ,131
-CT,M,1976.0,Michael,295
-CT,,1936.0,Jordan,153
-CT,M,1969.0,Jennifer,86
-CT,F,1928.0,Linda,52
-CT, M ,1993.0,Robert,223
-CT,F,2017.0,Jordan,26
-CT,F,1990.0,Linda,361
-,M,2007.0,John,43
-CT, F ,2013.0,Casey,216
-CT,F,1971.0,Alex,103
-CT,F,1979.0,Jennifer,730
-CT,M,1939.0,Linda,267
-CT, F ,1961.0,Jordan,395
-CT, F ,1978.0,Casey,38
-CT, F ,1996.0,Mary,31
-CT,M,1910.0,Alex,6
- CT ,F,1949.0,Linda,15
-CT,,1998.0,Linda,592
-,F,1964.0,Patricia,56
- CT ,F,1953.0,Jennifer,208
-CT,,1958.0,Jennifer,303
-CT,F,1981.0,Patricia,951
-CT, M ,1935.0,Michael,354
-,M,1932.0,Alex,229
-CT, M ,1942.0,Michael,7
-CT,M,1965.0,Michael,435
-CT,F,1937.0,Mary,51
-CT,F,,alex,10
-CT,M,1997.0,,
-CT,F,1940.0,Jennifer,332
-CT,M,2017.0,Casey,
-CT,M,2003.0, Alex ,43
-CT,M,1934.0,Casey,530
-CT,F,2000.0,Alex,65
-CT,F,2000.0,Linda,576
-CT,F,1994.0,Taylor,287
-CT,F,1936.0,Patricia,5
-,,1957.0,John,805
-CT,M,2002.0,Alex,767
-CT,M,1955.0,taylor,124
-CT,F,1957.0,jennifer,408
- CT ,M,,James,314
-CT,F,1949.0,Jordan,257
-CT,M,1979.0,Jordan,333
-CT,,1954.0,John,128
-CT, F ,1925.0,Alex,7
-CT,M,1960.0,michael,172
-CT,M,1996.0,James,134
-CT,M,,Taylor,25
-CT,F,1931.0,Jordan,7
-CT,F,1990.0,Patricia,672
-CT,F,1960.0,Patricia,214
-CT,M,1946.0,Jordan,51
- CT ,F,2003.0,Mary,34
-CT,F,1940.0,Taylor,39
-CT,M,1953.0,Mary,199
-CT,F,,James,103
-CT, M ,2016.0,Alex,193
-CT,M,1981.0,Taylor,452
- CT ,F,2018.0,Alex,8
- CT ,F,2000.0,Mary,356
-CT,,1947.0,James,9
-CT,M,1973.0,Robert,314
-CT,F,1977.0, Taylor ,15
-CT,F,1980.0,Casey,20
-CT,F,1947.0,Jennifer,
-CT,M,2004.0,Robert,395
-CT,F,1917.0,Patricia,14
-CT, M ,1955.0,Casey,460
-CT,M,1970.0,John,428
-CT,M,1919.0,Michael,291
-CT,M,1948.0,Casey,288
- CT , M ,1937.0,James,148
-CT,M,2012.0,Robert,215
-CT, F ,2019.0,Taylor,43
-CT,F,1982.0,Alex,250
-CT, M ,1915.0,John,11
- CT ,M,1967.0,robert,105
-CT,M,,Alex,38
-CT,F,1981.0, Alex ,515
-CT, F ,1998.0,Alex,88
-CT,M,2000.0,Alex,128
- CT ,M,1998.0,James,466
-CT, F ,1957.0,Robert,794
-CT,F,1945.0,,
-CT,M,2016.0,John,104
-CT, M ,,Michael,749
-CT,M,1999.0, Jordan ,38
-,F,1961.0,Taylor,597
-CT, M ,1976.0,,85
-CT, F ,2022.0,Casey,28
-CT,F,1970.0,Mary,175
-CT,M,1982.0,Taylor,125
-CT,F,1966.0,Linda,75
-CT,,1989.0,alex,294
- CT ,M,1940.0,john,59
-CT,F,1973.0,Patricia,699
- CT ,M,1956.0,John,986
-CT,F,2019.0,casey,
-CT,F,2001.0,Patricia,5
-CT,F,1950.0,Mary,36
-CT,,,James,35
-CT,,1911.0, John ,15
-CT,F,1914.0,Alex,
-CT,F,1935.0,Mary,39
-CT,F,1962.0,Jordan,75
-CT, M ,1948.0,James,58
-CT,F,2014.0,Jordan,63
-CT,M,1923.0,James,25
-CT,M,1978.0,Michael,326
-CT,M,1997.0,Alex,
-CT,M,1989.0,Michael,99
-CT,M,2013.0,Taylor,111
-CT,M,1992.0,Jordan,408
- CT ,,1928.0,John,15
-CT,M,1996.0,Taylor,53
-CT, M ,1920.0,James,100
-CT,M,1933.0,James,421
-CT, F ,1922.0,Jennifer,
-CT,F,2007.0,Alex,622
-,F,1982.0,John,210
-CT,M,1920.0,Taylor,24
-CT,F,1937.0,Linda,
-CT,M,2014.0, Alex ,538
-CT,M,1980.0,Robert,525
-CT, M ,2014.0,Michael,161
- CT , F ,1982.0,Patricia,89
-CT,M,1978.0,Jordan,416
- CT ,F,1957.0,Taylor,258
-CT,M,1996.0,John,36
-CT,F,1910.0,Mary,6
-CT,F,1970.0,Jennifer,23
-CT,M,1910.0,Taylor,6
-CT,M,,James,18
-CT,M,,James,6
-CT, M ,1967.0,mary,961
-CT,M,2001.0,Robert,84
-CT,M,1998.0,John,362
-CT,F,2016.0,Casey,26
-CT,F,1944.0,Taylor,19
-CT,F,2011.0,Casey,85
-CT, M ,1973.0,Taylor,
-CT,,1989.0,Casey,550
- CT ,M,1935.0,John,26
-CT,F,2010.0,Casey,181
-CT,F,2003.0,Patricia,219
- CT ,F,2009.0,Taylor,411
-CT,F,1948.0,Patricia,972
-CT,M,2011.0,James,372
-,F,1973.0,Jordan,729
-CT,F,1994.0,Mary,47
-CT,F,1987.0,Alex,426
-CT,M,1953.0,casey,694
-CT,M,1939.0,Michael,19
-CT, M ,2012.0,James,9
-CT,M,1921.0,Taylor,67
- CT ,F,2002.0,Mary,367
-CT,,2006.0,Jordan,148
-CT,M,2006.0,Jordan,293
-CT,F,1935.0,Linda,140
-CT, M ,1919.0,James,9
-CT,M,2005.0,Taylor,144
-CT,M,,michael,368
-CT,F,1975.0,Jennifer,392
-CT,M,1961.0,Michael,480
-CT, M ,1984.0,Jordan,84
-CT,M,, James ,426
-CT,M,1964.0,Michael,1066
-CT,M,2016.0,Michael,494
-CT, M ,2002.0,Taylor,13
-CT,M,1936.0,Michael,42
-CT,F,1921.0,Jordan,101
-CT,F,1995.0,Jordan,65
-CT,M,1916.0,Jordan,14
-CT,F,1999.0,Jennifer,330
-CT,F,1948.0,Jordan,84
-CT,F,2020.0,Jordan,194
-CT,F,1976.0,Linda,336
-CT,M,1968.0,Alex,109
-CT,M,,James,341
-CT,M,1967.0,James,
-CT,M,1981.0, John ,424
-CT,M,1959.0,Michael,
-CT,M,1917.0,Casey,11
-CT,F,2008.0,Mary,416
-CT,M,2000.0,John,195
-CT, M ,1936.0,Alex,
-CT,M,1988.0,John,851
-,F,2014.0,Patricia,30
-CT,M,1984.0,Alex,369
-CT,M,1969.0,John,273
-CT,M,1938.0,Alex,55
-CT,M,1938.0,Robert,150
-CT,M,2016.0,Robert,208
-CT,M,1943.0,Taylor,39
- CT ,M,1919.0,,88
-CT,M,1968.0,Robert,491
-CT,F,,James,188
-CT,M,1985.0,Taylor,756
-CT,M,1956.0,Michael,1159
-CT,M,,Jordan,59
-CT,M,1981.0,Alex,238
-CT,M,1960.0,Jordan,706
-CT,,2016.0,Jordan,7
-CT,F,1958.0,Linda,184
-CT, M ,1976.0,john,192
-CT,F,1973.0,Jennifer,440
-CT,F,1930.0,Mary,188
-CT,F,1943.0,Casey,250
-CT,M,1940.0,,551
-CT, F ,1971.0, Jordan ,493
-CT,M,,Alex,38
-CT,F,1954.0,Linda,312
-CT,F,1968.0,Linda,571
-CT,M,1943.0,Alex,9
-CT,M,1949.0,Casey,214
-CT,M,1944.0,Robert,296
-CT,F,1952.0,Alex,155
-CT,F,2008.0,Alex,186
-CT,F,2004.0,Jordan,122
-CT,M,1949.0,Michael,20
-CT,F,1977.0,Mary,645
-CT,F,1938.0,jordan,245
-,F,1990.0,Jordan,205
-CT,M,1962.0,Patricia,183
-,M,,John,18
-CT,M,1941.0,Jordan,22
-CT,F,1975.0, Linda ,82
-CT,F,2006.0,Alex,560
-CT, F ,2002.0,Jennifer,549
-CT,,2011.0,taylor,90
-CT,F,2021.0,Jordan,52
-CT, F ,1973.0,Taylor,1189
-CT,M,1979.0,Alex,167
-CT, F ,1924.0, Jennifer ,5
-CT,F,1997.0,Taylor,340
-CT,F,2014.0,Mary,151
-CT,M,1976.0,Jordan,35
- CT ,M,1991.0,taylor,70
-CT,F,1966.0,Jennifer,391
-CT,F,,Casey,298
-CT,,1987.0,jennifer,763
-CT,M,1995.0,Robert,278
-CT,F,2015.0,Casey,10
-CT,,1956.0,Mary,1056
-CT,F,2021.0,Linda,169
-CT,M,1980.0,Michael,451
-CT,F,1951.0,Jennifer,918
-CT,F,,Jordan,177
-CT,F,1920.0,Linda,265
-CT,M,1958.0, Casey ,12
-CT,F,1997.0, Jennifer ,
-CT,F,1949.0,Jennifer,402
-,M,1921.0,,5
-CT, M ,1938.0,Michael,47
-CT,M,1961.0,James,289
-CT,M,1941.0,Alex,25
-CT,F,1972.0,Jennifer,178
-,F,1943.0,Alex,84
-CT,F,,Jennifer,368
-CT, M ,1979.0,Casey,84
-CT,M,1977.0,James,536
-CT,,,Mary,590
-CT,M,1978.0,Casey,432
-CT,M,2021.0,James,8
-CT,F,2007.0,Linda,205
-CT,F,, Jordan ,
-CT,F,1944.0,,77
-CT,F,1977.0,jordan,17
-CT,F,2000.0,Taylor,445
-CT,F,1974.0,Linda,618
- CT ,F,1919.0,Casey,199
-CT,F,2017.0,Linda,36
-CT,F,1985.0,Patricia,306
-CT,F,1951.0,Alex,209
-CT,M,1945.0,,105
-CT,M,1965.0,John,73
-CT,M,1988.0,Taylor,404
-CT,M,2003.0,Jennifer,353
-CT,M,1988.0,Casey,718
- CT ,M,1937.0,Taylor,7
- CT ,M,1994.0,Jennifer,156
-CT,F,2007.0,Taylor,989
-CT,M,,Taylor,28
-CT,F,1955.0,Casey,561
-CT, F ,1919.0,Linda,35
-CT,F,1982.0,Mary,
- CT ,,1947.0,Taylor,169
- CT ,F,1969.0,,651
-CT,M,1935.0,Casey,
-CT,M,1976.0,Robert,565
-CT, F ,1939.0,Casey,136
-CT,M,1967.0,Alex,121
-CT,M,1956.0,Alex,387
- CT ,M,1971.0,Robert,181
-CT,M,1993.0,Casey,685
-CT,M,1984.0,Casey,95
- CT ,F,2017.0,Alex,254
-CT,,1933.0,Taylor,138
- CT ,M,1990.0,John,273
-CT,M,1966.0, Casey ,87
- CT ,M,1997.0,Jennifer,483
- CT ,F,1945.0,Linda,655
-CT,F,1952.0,Jordan,401
-CT,M,2004.0,Alex,240
-CT, M ,2000.0,Robert,134
-CT,M,1991.0,Michael,190
-CT,M,1971.0,Casey,63
-CT,F,1975.0,Casey,
-CT,M,1924.0,Robert,72
-CT,M,1950.0,Alex,20
-CT, F ,1923.0,Alex,173
-CT, M ,1925.0,Mary,36
-CT,F,1951.0,Casey,
-CT,M,2005.0,Robert,380
-CT,M,2016.0,Taylor,242
-CT, F ,,,526
- CT ,F,1958.0, Alex ,112
-CT,M,1942.0,Casey,58
-CT,M,1950.0,Michael,376
-CT,F,1910.0,Linda,17
-CT,M,1939.0, Alex ,29
-CT,M,1983.0,Taylor,280
-CT,F,1954.0,James,36
-CT, F ,1936.0,Mary,336
- CT ,M,1933.0,Robert,177
- CT ,M,1954.0,Casey,478
-CT,F,1952.0,Mary,67
-CT,M,1918.0,Taylor,5
-CT,F,1935.0,Jordan,213
- CT ,M,1948.0,Michael,363
-CT,M,1961.0,John,185
-CT, F ,1979.0,mary,62
-CT,M,1967.0,jordan,217
-CT,F,2016.0,Jennifer,13
-CT,M,1974.0,James,363
-CT,,2007.0,Mary,419
-CT,,1934.0,robert,5
-CT,F,2012.0,Mary,80
-CT,F,1995.0,Linda,470
-CT,F,2014.0,Casey,46
-CT,F,2016.0,Taylor,140
-CT,M,1975.0,Robert,94
-CT,M,1974.0,Patricia,470
-CT,F,1998.0,Mary,302
-CT,M,1990.0,Robert,355
-CT,F,1938.0,Casey,9
- CT ,F,1996.0,Jennifer,327
-CT,M,2019.0,Jordan,16
-CT,F,1935.0,Patricia,22
-CT,M,1942.0,Alex,225
-CT,M,1977.0,Robert,326
-CT,M,1970.0,Taylor,74
-CT,F,2020.0,Mary,10
-CT,F,1945.0,Alex,15
-CT,M,1987.0,Michael,33
-CT,,1933.0,Taylor,138
-CT,F,1992.0,Patricia,362
-CT,M,1937.0,Robert,
-CT,M,1970.0,Michael,619
-CT,M,1957.0,Robert,116
-CT,M,1924.0,James,27
- CT ,M,1988.0,michael,544
-CT,M,1978.0,Robert,363
-CT,F,1989.0,Jordan,388
-CT,M,1995.0,Casey,530
-CT,,1953.0,Michael,40
-CT,M,,Jordan,40
-CT,F,,Taylor,394
-CT,M,2001.0, Casey ,632
-CT,M,1936.0,Jennifer,233
-CT,M,1960.0,Alex,197
-CT,F,1938.0,Alex,
-CT,F,1932.0,Patricia,103
-CT,M,1971.0,Jordan,419
-CT,M,1985.0,Jordan,275
-CT,F,2019.0,Mary,197
-,M,1920.0,Jordan,7
-CT, M ,1962.0,Michael,1060
- CT , M ,1955.0,Robert,12
-CT,M,2004.0,,287
- CT ,F,1927.0,Alex,
-CT,M,1996.0,Robert,
-CT,M,2013.0,John,1207
-CT,F,1976.0,,
-CT,M,1997.0,Taylor,1115
- CT ,,1947.0,Jordan,99
-CT,M,2011.0,John,174
-CT,F,2009.0,Alex,28
-CT,M,1984.0,Robert,422
-CT,M,1940.0,,
-,M,1986.0,James,38
-CT, F ,1956.0,Jennifer,
- CT ,M,1931.0,Jennifer,19
-CT,F,1932.0,Alex,12
-CT,F,1980.0,Jordan,276
-CT,M,1997.0,Robert,110
-CT,M,1942.0,Robert,335
-CT,F,1938.0,Michael,212
-CT,F,1996.0,Casey,220
-CT,F,1959.0,Alex,59
-CT,M,1947.0,Michael,176
-CT,F,1965.0,Patricia,71
-CT,F,1942.0,Jordan,
-CT,,1938.0,Linda,11
-CT,,,Casey,685
-CT,F,1992.0,Casey,365
-CT,F,1929.0,Jordan,546
-CT,M,2019.0,Casey,116
- CT ,F,1922.0,Patricia,5
-CT,F,1995.0,Mary,45
-CT,M,2009.0,Robert,115
-CT,,1945.0,Casey,12
-CT,F,1954.0,Taylor,22
-CT,M,2001.0,James,513
- CT ,F,1935.0,John,5
-CT,F,2001.0, Jordan ,
-CT, F ,1913.0,Linda,7
-CT,M,2020.0, Robert ,275
- CT ,F,1929.0,Alex,279
-CT,M,1962.0,Robert,991
-CT,F,1966.0,Patricia,668
-CT,M,1936.0,John,
-CT,F,1961.0, James ,
-CT,M,1937.0,Alex,86
-CT, M ,1963.0,Alex,782
-CT, M ,1930.0,john,5
-CT,M,1984.0,John,69
-CT,M,2006.0,James,793
-CT,F,2009.0,Jordan,7
- CT ,F,1956.0,Casey,40
- CT ,M,1925.0,Alex,93
-CT,M,1927.0,Alex,10
-CT,F,1970.0,Patricia,149
-CT,M,2010.0,James,11
-CT,F,1993.0,Jordan,333
-CT,F,1995.0,Taylor,392
- CT , M ,2008.0,John,72
-CT,F,1967.0,Alex,306
-CT,M,1955.0,Michael,30
-CT,F,1919.0,Taylor,143
-CT,F,1939.0,Mary,
-CT,M,1970.0,Casey,191
- CT ,F,1967.0,Taylor,1150
-CT,F,1982.0,Taylor,291
-CT,F,2013.0,Linda,18
-CT,,1958.0,Casey,905
-CT,F,1972.0,Linda,58
-CT,M,1963.0,Michael,400
-CT,F,1952.0,linda,27
-CT,M,1953.0,Jordan,58
-CT,F,1949.0, Mary ,9
-CT,,1963.0,Robert,
-CT,M,1934.0,Michael,17
- CT ,F,1918.0,Jennifer,12
-CT,F,1986.0,Jennifer,80
-,M,1949.0,Alex,26
-CT,M,1962.0,John,292
-CT,M,1968.0,Taylor,1224
-CT, M ,1983.0,john,209
-CT,,2018.0,Patricia,75
-CT,M,1952.0,Michael,353
-CT,M,1965.0,Casey,260
-CT,F,1995.0,Jennifer,561
-CT, F ,1989.0,,117
-CT,,1974.0,John,351
-CT,F,1924.0,Jordan,20
- CT ,F,1925.0,Jordan,30
-CT,M,1952.0,Alex,181
-CT,M,1910.0, Jordan ,
-CT,F,1923.0,Mary,13
- CT ,F,2005.0,Linda,
-CT,M,1957.0,Michael,93
-CT,F,1999.0,Jordan,95
-CT,M,2021.0,Taylor,6
-CT,M,1959.0,James,603
-CT, F ,1998.0,Patricia,22
-,F,2012.0,Linda,39
-CT,F,1978.0,Alex,31
-CT,F,,Jennifer,1010
-CT,F,,Jennifer,892
-CT,F,1953.0,taylor,89
- CT ,F,1953.0,Patricia,24
-CT,M,2003.0,Michael,181
-,M,1994.0,,62
-CT,M,1995.0,Alex,704
-CT,F,2003.0,Linda,5
-CT,M,2017.0,Michael,
-CT,F,1989.0,Patricia,1258
-CT,F,1930.0,John,47
-CT,F,1931.0,Mary,52
-CT,M,1999.0,Alex,470
-CT, M ,2011.0,Casey,207
-CT,M,,James,302
- CT ,F,1919.0,Alex,130
-CT,F,1912.0,Alex,32
- CT ,M,1944.0,Casey,10
-CT,,2022.0,Mary,284
- CT ,F,1968.0,Jordan,405
-CT,M,1944.0,Taylor,
- CT ,F,1960.0,James,99
-CT,F,,Mary,431
-CT,F,1963.0,Mary,455
-CT,F,2000.0,Patricia,508
-CT,F,1917.0,Taylor,29
-CT,M,1958.0,Michael,61
-CT,,2007.0,,599
-CT,M,1959.0,Jordan,439
- CT ,F,1931.0,Linda,203
-CT,M,1999.0,James,35
-CT,F,1985.0,Linda,62
-CT,M,1991.0,James,433
-CT, M ,1954.0,Alex,61
-CT,F,1986.0,Casey,145
-CT,M,1950.0,Casey,165
-CT,M,1929.0,Jordan,475
-,M,1979.0, Michael ,274
-CT,M,1960.0,Casey,114
-CT, M ,1951.0,Taylor,130
-CT,M,1980.0,John,189
-CT,F,1964.0,Jennifer,570
-CT,F,2005.0,Casey,19
-CT,M,2002.0,Jordan,135
-CT, F ,1975.0,Jordan,373
-CT,M,1939.0,Michael,19
-CT,F,1967.0,Casey,397
-CT,F,1997.0,Patricia,95
-CT,M,1951.0,Robert,48
-CT, F ,1927.0,Casey,39
-,M,2017.0, Taylor ,49
-,M,2013.0,Casey,96
-CT,M,2020.0,Jordan,59
-CT,M,1920.0,Casey,71
-CT,F,1967.0,Patricia,163
-CT,M,1951.0,Casey,25
-CT,F,1944.0, Robert ,134
-CT,M,1995.0,Jordan,1377
-,M,1940.0,Michael,182
-CT, F ,1934.0,Casey,12
- CT , M ,2010.0,Michael,23
-CT,M,1987.0,Jordan,517
-CT,M,1924.0,Taylor,20
-CT,M,1994.0,Alex,197
-CT,,1945.0,John,
-CT,F,1974.0,patricia,345
-, M ,2017.0, James ,91
-,F,1952.0,Casey,54
-CT,F,2001.0,Linda,171
-CT,F,1999.0,Mary,14
-CT,M,1922.0,Robert,6
-CT,F,1941.0,Jordan,21
-CT,M,1962.0,Taylor,20
-CT,M,1948.0,Taylor,229
-CT,M,1917.0, James ,20
-CT,M,,Casey,22
- CT ,F,1960.0, Casey ,
-CT,F,1990.0,Alex,206
-CT,M,1914.0,Alex,56
-CT,M,1970.0,Jordan,190
-CT,,1957.0,Jordan,716
-CT,F,1991.0,Patricia,873
-CT,M,1927.0,Robert,169
-CT,F,2016.0,Mary,28
-CT, F ,2016.0,Alex,20
- CT ,M,1978.0,Alex,116
-CT, F ,1976.0,Jordan,656
-CT, F ,1992.0,Taylor,244
- CT ,M,1925.0,Michael,65
-,M,1941.0,John,422
-CT,M,1947.0,John,
-CT,F,1963.0, Taylor ,30
-CT,M,2019.0,John,61
-CT,F,1988.0,Patricia,432
-CT,M,1949.0,John,69
-CT,M,1937.0,Jordan,169
-CT, F ,1930.0,Casey,446
- CT ,F,2021.0,Patricia,84
-CT, M ,1983.0,Robert,32
-CT, M ,2019.0,Michael,7
-CT,M,1963.0,Casey,108
- CT ,M,1933.0,Robert,177
-,F,2012.0,Casey,104
-CT,F,1917.0,Mary,22
-, F ,2008.0,Casey,5
-CT,M,,John,186
- CT ,M,1958.0,James,
-CT,F,1943.0,Jordan,129
-CT,,1988.0,Taylor,65
-CT,F,2004.0,Mary,548
- CT , M ,1990.0,Casey,
-CT,M,1955.0,John,33
-CT,F,1987.0,Casey,860
-CT,M,2007.0,Alex,
-CT,F,1988.0,mary,80
-CT,,1975.0,Alex,606
-CT,M,1939.0,Robert,57
-CT,F,1976.0,Jennifer,574
-CT,F,1960.0,Linda,53
-CT, M ,,Casey,266
-CT,M,1988.0,James,151
-CT,F,1947.0,,33
-CT,M,1920.0,Alex,84
- CT , F ,1996.0,Jordan,50
-CT,,2009.0,Taylor,55
-CT, M ,1996.0,jordan,188
-CT,,1928.0,,149
-CT, F ,1953.0,Alex,140
- CT ,M,1961.0,casey,231
-CT,F,1962.0,Mary,503
-CT,,1975.0,Mary,59
-CT,M,1910.0,Robert,55
-CT, F ,2005.0,Jordan,34
-CT, F ,1976.0,Taylor,
-CT, F ,1963.0,Alex,664
-CT,M,1972.0,,142
-CT,F,1991.0,Casey,589
-CT, M ,1995.0,Michael,54
- CT ,M,1946.0,John,394
- CT , M ,1998.0,Michael,135
-CT,,1948.0,Alex,44
-CT,M,1945.0,Alex,
-CT,F,2007.0,Jordan,164
-CT,M,2007.0,Michael,148
-CT, F ,2020.0,Linda,696
-CT,F,1981.0,Robert,293
-CT,M,1972.0,Jordan,301
-CT,M,1986.0,Michael,972
-CT,M,2021.0,Robert,703
-CT,F,,Jennifer,93
-CT,M,1971.0,Taylor,149
-CT,M,2005.0,Patricia,137
- CT , M ,1929.0,James,
-CT,M,, Casey ,959
- CT ,M,1977.0, Alex ,435
-CT,M,1939.0,Taylor,17
-CT,M,1920.0,robert,256
-CT,F,1923.0,Linda,22
-CT,F,1981.0,taylor,
-CT,M,2003.0,John,237
-CT,M,2018.0,James,209
-CT,F,1923.0,Casey,101
-CT, M ,2013.0,Jordan,75
-CT,F,1968.0, Jennifer ,334
-CT, M ,1965.0,Robert,138
-CT,M,1999.0,John,392
-CT,M,1923.0,Taylor,6
-CT,F,1949.0,Taylor,179
-CT,M,1959.0,Casey,24
-CT,M,1992.0,,40
- CT ,F,1963.0,Linda,81
-CT,M,2020.0,John,68
-CT,F,1977.0, Patricia ,307
-,F,1958.0,Mary,421
-CT,M,1938.0,Taylor,112
-CT,M,1967.0,Casey,152
-CT, F ,1976.0,Casey,433
-CT,F,2013.0,Taylor,
-CT,F,, Taylor ,21
- CT ,F,1955.0,Jordan,49
-CT,F,2010.0, Mary ,282
- CT ,F,1959.0,Jordan,245
-CT,M,1960.0,Jordan,706
-CT,M,1941.0,,30
-CT,F,1959.0,Patricia,51
- CT ,M,1969.0,,780
-CT,M,1912.0,John,38
-CT,F,2011.0,Mary,113
-CT,M,1973.0,casey,229
-CT,F,1942.0,Jennifer,5
-CT,,1942.0,John,649
-CT,F,1955.0,,18
- CT ,M,2007.0,James,413
-, M ,1974.0,Michael,168
-CT,F,1919.0,Jordan,47
-CT,F,1948.0,Taylor,30
- CT ,,1970.0,Alex,35
-CT,F,1983.0,Casey,439
-CT,F,1990.0,,38
-CT,F,1947.0,Patricia,13
-CT,M,1983.0,Michael,779
-CT,,1986.0,Robert,775
-,F,1971.0,Jennifer,259
-CT,M,2002.0,John,623
-,M,2017.0,John,266
-CT,M,1952.0,linda,13
-CT,F,2013.0, Jennifer ,13
-CT,F,1944.0,Jordan,49
-CT,M,1948.0,Jordan,171
-CT,F,1951.0,Jordan,154
-CT,F,1978.0,Linda,82
-CT,F,2004.0,Linda,28
-,F,1994.0,Jennifer,92
-CT,F,1988.0,Jennifer,624
-CT,F,1984.0,alex,1150
-CT,F,1942.0,Casey,26
-CT,F,1971.0,Casey,595
-CT,M,2016.0,,226
-CT,F,1937.0,jennifer,8
-CT,M,2001.0,Michael,27
-CT,F,2003.0,Jennifer,1317
-CT,F,1981.0,Linda,288
-CT,F,2019.0,,390
-CT,F,2020.0,Casey,20
-CT, F ,1926.0,Taylor,6
-CT,F,1963.0,Jordan,252
-CT,M,1994.0,Taylor,68
-CT,M,2002.0,Mary,200
-CT,F,1986.0,Alex,718
-CT,M,1978.0,John,97
-CT,M,1918.0,James,
-CT,M,2015.0,Casey,14
-,M,2021.0,Jordan,30
-CT,F,1955.0,Taylor,81
-CT,M,1991.0, Jordan ,50
-CT,M,2007.0,Robert,729
- CT ,F,2005.0,Patricia,296
-CT,F,1993.0,Alex,27
-CT,F,1936.0,Jennifer,36
-CT,M,2018.0,Taylor,90
-CT,M,1963.0,John,74
-CT,,1932.0,Casey,10
- CT ,F,1993.0,Linda,47
-CT,F,1986.0,jordan,120
- CT ,F,1990.0,Jennifer,1047
-CT,F,2001.0,Mary,586
-CT,,1994.0,Casey,248
-CT,M,1987.0,Alex,107
-CT,M,2008.0,,263
-CT,M,1937.0,Patricia,7
- CT ,F,2001.0,Alex,235
-CT,M,1935.0,Robert,50
-CT,F,1934.0,Jordan,116
-CT,M,2004.0,Taylor,208
- CT , F ,1966.0,Casey,1216
-CT,M,1918.0, John ,287
-CT,M,2012.0,Jordan,13
-CT,F,1929.0,Linda,298
-CT,M,1942.0,Taylor,33
-CT,,2022.0,Taylor,873
-CT,F,1991.0,Linda,665
-CT,M,1995.0,John,10
-CT,F,1990.0,Taylor,253
-CT, F ,,Patricia,24
-,M,2018.0,Casey,5
- CT ,M,1986.0,Taylor,395
-CT,F,1989.0,,709
-CT,F,1917.0,,274
-CT,F,1960.0,Jennifer,848
-,F,1962.0,Casey,425
-CT,M,1994.0,Alex,197
-CT,F,1920.0,Mary,14
- CT ,M,1946.0,Robert,142
-CT,F,1959.0,Robert,257
-CT,M,1951.0,Michael,243
-CT,F,1918.0,Alex,24
-CT,M,2021.0,Mary,61
-CT,F,1948.0, Casey ,74
-CT,M,1919.0,Casey,128
- CT ,F,1957.0,Mary,91
-CT,F,1987.0,Taylor,472
-CT,F,1977.0,Jennifer,325
-CT,M,2004.0,James,99
-CT,M,1945.0,Taylor,12
-CT,F,1933.0,,126
-CT,M,, Michael ,424
-CT, F ,1956.0,Patricia,288
-CT,F,2012.0,Alex,789
-CT,M,2018.0,Michael,34
-CT,M,1934.0, John ,440
-CT, M ,1931.0, Robert ,73
-CT,M,1961.0,Alex,243
-CT,,1921.0,Casey,94
-CT,F,1986.0,Patricia,531
-CT,M,2007.0,,16
-,,1993.0,James,216
-CT,F,1963.0,Jennifer,46
-CT,M,2018.0,Robert,24
-CT,F,1938.0,Mary,204
-CT, M ,1982.0,Jordan,187
-CT, M ,1922.0,Casey,
-,M,2010.0,Casey,20
-CT,M,1912.0,Jordan,8
-CT,F,1936.0,Jordan,232
-CT,,2009.0,Jordan,376
-CT, M ,1963.0,Taylor,261
-CT,F,1936.0,Casey,273
-CT,M,1933.0,Casey,104
- CT ,F,1914.0,Linda,79
- CT ,M,1976.0,Casey,1257
-CT,F,1949.0,Patricia,28
-CT,F,1972.0,Casey,568
-CT, M ,2019.0,Michael,7
-CT,M,1927.0,Michael,12
-CT,F,1946.0,Linda,130
-CT,F,1997.0,Linda,311
-CT,F,1965.0,Linda,367
-CT,M,2022.0,Robert,5
-CT,F,1966.0,Jordan,370
-CT,M,1957.0,Taylor,251
-CT,F,1957.0,Linda,232
-CT,M,2012.0,Michael,115
-CT,F,1946.0,Patricia,359
-CT,M,1995.0,Taylor,311
-CT,F,,Casey,409
-CT,M,1982.0,Casey,502
-,M,1976.0, Alex ,24
-CT,F,1947.0,alex,92
-CT,F,1928.0,Mary,200
-CT,F,1941.0,Jennifer,608
-CT, M ,1982.0,John,268
- CT ,M,1999.0,Taylor,248
-CT,,1989.0,Casey,550
-CT,M,1958.0,Robert,60
-CT,M,1937.0,Jordan,169
-CT,F,1915.0,Alex,7
-CT,M,1987.0,Taylor,866
-CT, M ,2011.0,Casey,207
-CT,F,1950.0,Linda,310
-CT,M,1918.0,Michael,90
-CT,M,1958.0,Taylor,19
-CT,M,1921.0,Jordan,
-CT,M,1953.0,Alex,1187
-CT,F,2006.0,Patricia,139
-CT,M,1984.0,Taylor,992
-, M ,2002.0,Michael,5
- CT , M ,1976.0,taylor,277
-CT,M,1943.0,Robert,140
-CT, F ,2011.0,Alex,24
-CT,M,1992.0,Casey,242
- CT , M ,1910.0,John,174
-CT, F ,2004.0,Casey,499
-CT,F,1997.0,Alex,510
-,M,1986.0,Casey,258
-CT, F ,1980.0,Linda,395
-CT, M ,2020.0,Alex,86
-CT,,2010.0,Linda,285
-CT,M,,Michael,
-CT, F ,2018.0,Jordan,34
-CT,F,1948.0,Jennifer,8
-CT,M,,Casey,435
-CT,F,1954.0,Patricia,315
-CT,F,,Linda,1187
-CT,M,1944.0,Jennifer,152
-CT, M ,1958.0,Alex,426
-CT,M,1966.0,Patricia,61
-CT,F,2010.0,Alex,161
- CT ,M,1979.0,Patricia,535
-CT, M ,1929.0,Taylor,212
-CT,M,1984.0,James,501
-CT,F,1952.0,Patricia,651
-CT,M,2002.0, James ,1047
-CT,F,1975.0,Taylor,25
-CT,M,1966.0,Alex,70
-,F,1956.0,Jordan,278
-CT,F,1964.0,,26
-CT,F,1938.0,Taylor,5
- CT ,M,1991.0,Robert,475
- CT ,F,1934.0,Taylor,21
-CT,F,2012.0,Michael,312
-,M,1929.0,John,24
-CT,F,,Jordan,157
-CT, F ,2021.0,alex,277
-CT,M,1964.0,john,
-CT,,1934.0,Alex,50
-CT,F,1914.0,patricia,5
-CT,M,1915.0,robert,63
-CT,F,1944.0,Casey,11
-CT,F,1978.0,Jordan,401
-CT,F,1927.0,,5
-CT, M ,1915.0, James ,26
-CT,F,,Linda,6
-CT,M,2014.0,Robert,140
-CT,F,1967.0,Jennifer,626
-CT,F,1953.0,Linda,74
-CT,M,,Jordan,13
-,M,1969.0,Taylor,28
- CT ,,1964.0,Mary,336
- CT ,M,1953.0,James,63
-CT,M,1912.0,Patricia,6
-CT,F,2021.0,Mary,241
-CT,M,1990.0,Jordan,510
- CT ,M,1992.0,Robert,570
-CT,F,1997.0,mary,475
-CT, M ,1985.0,Alex,168
-CT,F,1963.0,Casey,499
- CT , F ,2018.0,Casey,109
-CT,F,1966.0,Alex,291
-CT,M,1960.0,Robert,11
-CT,M,1972.0,Mary,375
-CT,F,2014.0,Alex,292
-CT,M,1973.0,James,273
-CT,,1983.0,Linda,838
-,M,1950.0,Robert,231
-CT,M,1990.0,Alex,438
-CT,F,1922.0,Alex,24
-CT,F,1982.0,Linda,212
-CT,M,1987.0,Robert,
-CT,F,2007.0,Casey,92
-CT,M,2008.0,James,186
- CT ,F,2015.0,Linda,401
-CT, M ,1953.0,John,46
-CT,F,1981.0,Jennifer,12
-CT,M,2015.0,Taylor,20
-CT,F,2021.0,Casey,22
-CT,F,1986.0,Mary,1241
-CT,F,1947.0,Taylor,449
-CT,,,Casey,367
-CT,M,1943.0,Casey,292
-CT,M,2003.0,Taylor,434
-CT, F ,2003.0,Alex,98
-CT,F,2002.0,Taylor,317
-CT,M,2007.0,Mary,6
-CT,M,1982.0,Michael,356
-,F,1979.0,linda,337
- CT ,F,1993.0, Jennifer ,
-CT, F ,2016.0,James,19
-CT,F,1955.0,Alex,87
-CT,F,1927.0,Linda,38
- CT ,F,1983.0,Jennifer,523
-CT, F ,1955.0,Mary,924
-CT, M ,1941.0,Casey,161
-CT,F,2007.0,Jordan,164
-CT,F,1994.0,Jordan,103
-CT, M ,1998.0,Alex,306
-CT,M,1930.0,Alex,
-CT,F,1939.0,Jennifer,130
-CT,F,1967.0,Mary,104
-CT,M,1975.0,Taylor,190
-CT,F,1962.0,Jennifer,226
-CT,F,1922.0, Jordan ,77
-CT,M,1970.0,Alex,39
-,M,1932.0,,189
- CT ,F,2009.0,Casey,18
-CT,M,2020.0,Casey,105
-CT,F,1919.0,Taylor,143
-CT,F,1972.0,Jordan,820
-CT,M,1946.0,Jennifer,369
- CT ,M,1990.0,John,273
-CT,F,2000.0, Jordan ,9
-CT,F,2017.0,Patricia,43
-CT,F,1981.0, Jordan ,280
-CT,M,1946.0,Alex,498
-CT,F,1928.0,Casey,182
-CT,M,1923.0,Alex,178
-CT,M,2000.0,,103
-CT,F,2002.0,Casey,12
-CT,M,2003.0,Robert,100
-CT,F,2002.0,,273
-CT,M,1929.0,Robert,93
-CT, F ,1946.0,Alex,41
-CT,F,1997.0,Casey,9
-CT,M,1968.0,John,87
-CT,M,2016.0,Linda,
- CT ,F,2000.0,Michael,744
-CT,F,2015.0,Patricia,
- CT ,F,1925.0,Taylor,114
- CT ,M,,James,56
-CT,M,,Casey,335
-CT, F ,1986.0,Linda,718
-CT, F ,1993.0,Mary,
-CT, F ,2001.0,Casey,53
-CT, M ,2007.0,Jordan,7
-CT,F,2006.0,Taylor,41
-CT,M,1951.0,Alex,394
-CT,M,1966.0,James,100
-CT,M,1997.0,John,
-CT,M,1969.0,Alex,329
-CT,F,1950.0,Taylor,817
-,,1955.0, Alex ,245
-CT,M,1996.0,michael,332
-CT, F ,1966.0,Taylor,357
-CT, M ,1979.0,John,68
-CT,F,2002.0,Alex,
-CT,F,1971.0,Taylor,210
-CT,F,1993.0,Taylor,
-CT, M ,1931.0,Casey,9
-CT,M,2022.0,Linda,60
-CT,F,1965.0,Jordan,11
-CT,F,2004.0,Patricia,28
-CT,M,1985.0,Michael,375
-CT,,1974.0,John,1120
-CT,M,1964.0,Robert,92
-CT,M,1985.0,John,525
-CT,M,1926.0,casey,180
-CT,M,2008.0,Taylor,47
- CT ,F,1992.0,Mary,894
-CT,M,2007.0,Taylor,9
-CT,M,1988.0,John,851
-CT,M,1979.0,Robert,226
-CT,F,1987.0,Linda,1044
-CT,M,1974.0,Jordan,87
-CT,M,1969.0,Robert,71
-CT,F,1990.0,Mary,429
-CT, M ,1998.0,Robert,335
-CT,M,1955.0,Jordan,176
-CT,M,1972.0,Robert,59
-CT, F ,1924.0,Taylor,13
-CT,,1993.0,Taylor,386
-CT,F,1961.0,,426
-CT,F,1986.0,Taylor,426
-CT,M,1911.0, Casey ,23
- CT , F ,1913.0,Jennifer,23
-CT,,1978.0,Patricia,182
-CT,F,1976.0,Alex,214
-CT,,2012.0,Taylor,139
-CT,M,1929.0,Casey,
-CT,F,1991.0,,7
- CT ,F,1949.0,Casey,16
-CT,F,1997.0,Jordan,
-CT,F,1978.0,Jennifer,842
- CT ,M,1952.0,Casey,47
-CT,F,1930.0,Linda,516
-CT,F,1949.0, Mary ,9
-CT,M,2009.0,James,8
-CT,F,1934.0,Linda,165
-,F,2009.0,Patricia,77
-CT,F,,Patricia,7
- CT ,M,2012.0,Alex,149
-CT,F,1977.0, Linda ,48
-CT,M,2001.0,Taylor,119
-CT,M,2009.0, Michael ,101
-CT,F,2008.0,Jennifer,47
-CT,M,2013.0,,90
- CT ,F,1989.0,Taylor,218
- CT ,F,2017.0,Jennifer,7
-CT,F,1972.0,Jordan,820
-CT,M,1992.0,Michael,39
-CT,,2003.0,Casey,492
-CT,F,1965.0,Mary,679
-CT,M,1929.0,Alex,57
-CT,F,1989.0,Casey,627
-CT,M,,John,24
-CT, F ,2012.0,Jennifer,399
-CT,M,1956.0,Casey,79
-CT,M,1924.0,Jordan,151
-CT,F,1914.0,Mary,10
-CT,F,1999.0,Taylor,54
-CT,,1991.0,Taylor,397
-CT,F,1939.0,Linda,13
-CT,F,2011.0,Patricia,
-CT,M,1913.0,James,25
-CT,M,1932.0,Michael,8
-,,1945.0,,166
-,F,1931.0,Alex,380
-CT,F,2020.0,Taylor,15
-CT,F,1911.0,Casey,10
-,F,1917.0,Alex,87
-CT,F,1935.0,Alex,33
-CT,M,1941.0,Taylor,225
- CT ,M,1966.0,Michael,670
-CT,F,1995.0,Casey,471
-CT,M,2000.0,Jordan,10
-CT,M,2021.0,John,264
-CT,F,1965.0,Taylor,260
-CT,M,1986.0,Alex,10
-CT,F,1994.0,Alex,
-CT,M,1949.0,James,327
-CT, M ,2015.0, Robert ,
-CT,F,1977.0,Alex,161
-,F,1911.0,Jennifer,
- CT ,M,1956.0,James,60
-CT,F,1955.0,Linda,51
-CT,,1957.0,Alex,501
-CT,F,1973.0,Mary,145
- CT ,M,1934.0,,243
-CT,M,1927.0, James ,102
-CT,F,1930.0,Jordan,50
-CT,M,1922.0,John,13
-CT,F,1967.0,Michael,183
-CT,M,1971.0,Michael,1027
-CT,,1991.0,Alex,99
-CT,F,1969.0,Alex,683
-CT,F,2003.0,Casey,936
-CT,M,1989.0,Taylor,59
-CT,F,1994.0,Patricia,136
-CT, M ,1936.0,Taylor,5
-CT,M,2015.0,John,482
-CT,M,2005.0, John ,462
-CT,M,1981.0,james,431
-CT,F,2010.0,Taylor,117
-,F,1992.0,Jennifer,285
-CT,F,1959.0,James,209
-CT,M,1997.0,james,314
-CT,M,1999.0, Casey ,280
- CT ,M,2019.0,Alex,20
-CT,F,2009.0, Jennifer ,262
-CT,M,2005.0,Jordan,544
-CT,F,1980.0,Taylor,372
-CT,M,1962.0,Jordan,729
-CT,F,1934.0,,7
-CT,F,1980.0,Alex,59
-CT,F,1941.0,Mary,143
-CT,F,1989.0,Casey,627
-CT,M,2017.0,Alex,250
-CT,F,1998.0,Casey,89
-CT,M,2007.0, Casey ,12
- CT ,M,1942.0,Jordan,25
-CT,F,1988.0,Alex,114
-CT,F,1999.0,Linda,53
- CT ,M,1971.0,Robert,181
-CT,M,1999.0,,53
-CT,F,1951.0,Taylor,814
-CT,M,1960.0,John,655
-CT,F,1983.0,Alex,537
-CT,M,1986.0,Jordan,467
- CT ,F,1933.0,Linda,269
-CT, F ,1968.0,Alex,149
-CT,F,,Casey,427
-CT,M,1926.0,Jordan,176
-CT,F,1953.0,Jordan,175
-CT, F ,,Alex,10
- CT , M ,2010.0,Michael,23
-CT,M,1954.0,Taylor,65
-CT,F,1991.0,Jordan,265
- CT , M ,1937.0,James,148
-CT,M,2012.0, John ,9
-CT,F,1940.0,Linda,93
-CT,M,2013.0,Alex,68
- CT ,F,1999.0,Casey,554
-CT,F,2006.0,Jennifer,37
-CT,M,1975.0,Jordan,383
-CT,F,1971.0,Patricia,260
-CT,,1958.0,Jordan,85
-CT,M,1968.0,Michael,227
-CT,F,1983.0,Jordan,89
-CT,F,1956.0,Alex,148
-CT,M,2009.0,Alex,56
-CT,F,2008.0, Patricia ,358
-CT, M ,1913.0,Taylor,10
-CT,F,1996.0,,154
-CT,M,2005.0,Alex,54
-CT,M,1992.0,James,548
-CT,M,1965.0,Jordan,118
-,F,2013.0,Patricia,14
-CT,F,1985.0,Mary,411
-CT,F,1925.0,Linda,30
-CT,,2015.0,,59
- CT ,M,1933.0,Alex,30
-CT,M,1963.0,Jennifer,194
- CT ,F,1954.0,Casey,94
-CT,,1965.0,jennifer,42
-CT,F,2013.0,Alex,19
-CT,F,1946.0,Casey,385
-CT,F,1999.0,Jordan,95
-CT,F,1992.0,Alex,51
-CT,M,2015.0,Michael,31
- CT ,F,1947.0,mary,248
-CT,F,1915.0,Casey,61
-CT,M,1931.0,Jordan,180
-, F ,1987.0,Mary,100
- CT ,F,1916.0,Mary,28
-CT, M ,1954.0,Alex,61
-CT,M,1951.0,John,13
-CT,F,1993.0,Patricia,143
-CT,F,1953.0,Casey,640
-CT,M,2006.0,Casey,21
-CT,F,2001.0,Taylor,49
-CT, M ,1997.0,Michael,823
-CT,M,1978.0,Taylor,522
-CT,F,1969.0,Taylor,124
-CT,M,1981.0,Casey,281
- CT ,F,2013.0,Mary,14
- CT ,M,1954.0,Jordan,386
-CT,F,,Jennifer,338
-CT,M,1913.0,Jordan,5
-CT,M,2005.0,Michael,10
-CT,M,1982.0,,325
-CT,M,1987.0,John,56
-,M,,John,814
-CT,M,1916.0,Alex,78
-CT,M,1932.0,James,159
-CT,F,1957.0,Casey,620
-CT,F,2007.0,Alex,622
-CT,M,1985.0,Robert,572
- CT ,F,1973.0,Alex,755
- CT ,F,1984.0,Jennifer,
-CT,F,1972.0,Patricia,1116
-CT,M,1974.0,Alex,723
-CT,M,1992.0,Taylor,150
-CT,M,1981.0,Jordan,200
-CT,M,1963.0,Jordan,709
-CT,F,1945.0,Taylor,35
-CT,F,2009.0, Jennifer ,262
-CT,M,2000.0,Taylor,700
-CT,M,1987.0,Casey,34
-CT,F,2019.0,Linda,510
-CT,M,2009.0,Casey,447
-CT,F,1946.0,Jennifer,
-CT,M,2017.0,Jordan,162
-CT,F,1944.0,Jordan,49
-CT,F,1978.0,Taylor,425
-CT,F,2014.0,Jennifer,92
-CT,M,1971.0,linda,189
-CT, F ,1945.0,Jennifer,36
-CT, F ,1996.0,Linda,237
-CT,M,1962.0,James,1148
-CT,M,1955.0,James,14
-,M,1988.0,robert,38
-CT,F,1995.0,alex,
-CT,F,2009.0,Linda,449
-CT,F,1950.0,Alex,79
-CT,F,1980.0,Patricia,286
-CT,,2011.0,taylor,90
-CT,,1970.0,Robert,209
-CT,F,2015.0,Taylor,191
-CT,M,1952.0,Jordan,647
-CT,M,1981.0,Robert,666
- CT ,F,1918.0,Linda,198
-, F ,1972.0,Alex,93
-CT,F,1971.0,Alex,103
-CT,M,1973.0,Michael,560
- CT ,M,1921.0,James,84
- CT ,M,,John,20
-CT,M,1964.0,James,28
-CT,M,1983.0,casey,18
-CT, F ,2003.0,Taylor,1150
-CT,F,1944.0,Linda,1295
-CT,F,1965.0,Casey,925
-CT, M ,1985.0,Casey,908
-,M,1916.0, James ,12
-CT,M,1972.0,Robert,59
-CT,M,1980.0,,194
-CT,M,1944.0,Alex,216
-CT,M,1965.0,James,356
-,,2022.0,Alex,17
-CT, F ,2012.0,Patricia,121
- CT ,F,1951.0,Linda,590
-CT,F,,Patricia,49
-CT,F,1959.0,Casey,
-CT,F,1962.0,Taylor,255
-CT,F,2001.0,Jennifer,741
-CT, M ,1994.0,John,293
-CT,,1945.0,James,18
-CT,M,1962.0,Taylor,20
-CT, M ,1975.0,John,564
-CT,M,2006.0,Michael,48
-CT,F,1961.0,Linda,114
-CT,M,1927.0,Taylor,37
-CT,M,1970.0,Robert,127
-CT,M,1998.0,Jordan,52
-CT,F,, Patricia ,575
- CT , F ,1936.0,Taylor,85
-CT,M,1925.0,Robert,102
-CT,M,,Taylor,25
-CT,M,2010.0, Robert ,796
-CT,F,1959.0,Taylor,
-CT,M,1966.0,John,257
-CT,F,,James,193
-CT,M,1991.0,John,310
-CT,F,1991.0, Jennifer ,293
- CT ,F,1987.0,Jordan,153
-CT,M,,James,344
- CT ,F,1932.0,Jennifer,455
-CT,F,2018.0,Taylor,37
-CT,F,1964.0,Taylor,931
- CT ,F,1983.0, Mary ,228
- CT ,M,1996.0,Alex,21
-CT,F,1997.0,Casey,9
- CT ,F,1923.0,Taylor,180
-CT,F,1960.0,Taylor,14
- CT , M ,2013.0,Robert,29
-CT,M,1967.0,Taylor,1236
-CT,F,1941.0,Taylor,253
-CT,F,1960.0,Alex,159
-CT,M,1954.0,Robert,284
-CT,M,,Jordan,112
-CT,F,1921.0,Linda,69
-CT,,1927.0,Jordan,53
-CT, F ,1913.0,Taylor,12
-CT,M,1945.0,Casey,58
-,F,,Patricia,388
-CT, F ,1935.0,Taylor,8
-CT,F,1928.0,Patricia,160
-CT,M,1949.0,Robert,30
- CT ,F,1919.0,Mary,122
-CT,M,1979.0,James,139
-CT,F,2000.0,Casey,134
- CT ,M,1961.0, Taylor ,65
-CT,M,1969.0,Jordan,296
-,M,2001.0,jordan,527
-CT,M,1981.0,Michael,364
-CT,M,1934.0,jordan,
-CT, M ,1938.0,john,5
-CT, F ,1974.0,Robert,200
-CT,M,2003.0,,53
-CT,F,2005.0,Taylor,5
-CT,M,1923.0,John,158
-CT,M,1983.0,Alex,497
-CT,,1986.0,Robert,775
- CT ,M,1971.0,James,484
-CT, M ,1983.0,Jordan,532
-CT,M,1918.0,Robert,18
-,M,1997.0,Jordan,56
-CT,M,1946.0,James,532
-CT,M,1989.0,James,344
-CT,M,2011.0,Robert,868
-CT,F,1928.0,John,257
-,F,1971.0,Mary,234
-CT,M,1964.0,Taylor,107
-CT,F,1935.0,Casey,35
-CT,M,1974.0,Casey,558
-CT,F,1999.0,Patricia,99
-CT,F,2009.0, Mary ,513
-CT,M,2018.0,John,58
-CT,,1993.0,Michael,120
-CT,,1973.0,Casey,157
-, M ,1995.0,James,382
-,M,1994.0,Robert,311
-CT, M ,1935.0,,465
-CT,M,2005.0,Casey,171
-CT, F ,,Jordan,313
-CT, M ,2011.0,Alex,611
-CT,M,1971.0,Alex,836
-CT,F,2004.0,Taylor,369
-CT,F,1942.0,Patricia,95
-CT,F,1979.0, Taylor ,415
-,F,1953.0,Mary,20
-CT,M,2015.0,James,
-CT,M,1982.0,Alex,145
-CT,F,2021.0,Taylor,
-CT,F,1970.0,,24
-CT,M,2014.0,James,117
-CT,M,1936.0,James,76
-CT,F,1961.0,Casey,62
-CT,F,1946.0,Michael,263
-CT,F,2004.0,Alex,5
-CT,M,1963.0,James,343
-CT,F,1960.0,Mary,25
-CT,M,1948.0,Alex,494
-,F,1980.0, Mary ,141
-CT,M,1973.0,Alex,730
-CT, M ,1959.0,Robert,49
-CT,M,1934.0,Casey,530
-CT,M,1978.0,Jennifer,387
-CT,F,2015.0,Alex,376
-CT,M,1956.0,Robert,25
-CT,M,2022.0,Michael,17
-CT,M,2022.0,John,356
-CT,F,1964.0,Alex,23
-CT,M,1977.0,John,285
-CT,M,1946.0,Casey,237
-CT,F,1917.0,Jennifer,229
-CT,M,1966.0,Robert,95
-CT,F,2014.0,Linda,41
-CT,F,1982.0,,1324
-CT,F,1942.0,Taylor,107
- CT ,M,1911.0,Taylor,36
-CT,F,1940.0,Mary,453
- CT ,M,1933.0,Taylor,183
- CT ,F,1995.0,Patricia,
-CT,F,1969.0,Mary,801
-CT,M,1988.0,Alex,324
-CT,F,1981.0,Casey,176
-CT,M,1926.0,Robert,158
-CT, M ,1961.0,Jordan,40
-CT,M,1998.0,Casey,348
- CT ,F,2006.0,Casey,24
-CT,M,1949.0,jordan,34
- CT ,F,1979.0,Jordan,453
-CT,F,1926.0,Alex,54
-CT,F,2015.0,Mary,204
-CT,M,1977.0,Taylor,419
-CT,M,1947.0,Robert,272
-CT,F,1962.0, Linda ,698
-CT, F ,1975.0,Patricia,579
-CT,M,2018.0,Jordan,40
-CT,M,1959.0,Taylor,710
-CT,F,1985.0, Alex ,362
-CT,F,1945.0,Jordan,303
-CT, M ,2004.0,Jordan,544
-CT,F,1925.0,Mary,173
- CT ,M,1948.0,Michael,363
-,F,1983.0,Patricia,156
- CT ,F,,Alex,68
-CT,F,1946.0,Jordan,16
-CT,F,1964.0,casey,312
-CT,M,1993.0,Casey,685
-CT,F,1969.0,Casey,264
-CT,F,2006.0,Mary,1043
- CT ,M,1972.0,Taylor,835
-CT,,2008.0,Alex,376
-CT,F,1978.0,Mary,798
- CT ,M,1944.0,Michael,
-CT,M,1954.0,Linda,55
- CT ,F,1930.0,Jennifer,238
-CT,F,, Alex ,15
-CT,M,2019.0,Taylor,137
-CT, F ,,Jennifer,692
-CT,M,1965.0,Alex,405
-CT,M,1956.0,Jordan,40
-CT,M,2014.0,Jordan,109
-CT,,1960.0,Taylor,384
-CT,M,1940.0,Alex,563
-CT, M ,1935.0,Jordan,25
-CT,F,1920.0,Patricia,35
-CT, F ,1919.0,Linda,35
+state,sex,year,name,count
+CT,M,1999.0,Jordan,542
+,F,2019.0,Taylor,444
+CT,M,1920.0,Jordan,6
+CT, M ,1989.0,Patricia,389
+CT,F,1971.0,Linda,80
+CT,M,1952.0,Taylor,99
 CT,M,,Robert,38
-CT, M ,2011.0,Michael,436
- CT ,F,1941.0,Alex,230
-CT,M,1939.0,John,204
-CT,M,1968.0,Jordan,264
- CT ,,1951.0,jordan,572
-CT,F,2020.0,Alex,89
- CT , F ,2022.0,Patricia,520
-CT,F,1987.0,Patricia,
-CT, M ,1979.0,Taylor,278
-CT,M,1917.0,John,19
- CT ,M,1970.0,James,474
-CT,M,1939.0,Mary,670
- CT ,F,1977.0,Casey,287
-CT,M,1930.0,Mary,9
-CT,M,1996.0,Casey,1081
-CT, F ,2002.0,Jordan,28
-CT,F,1999.0,Mary,14
-CT,F,1920.0,Alex,82
-CT, M ,1950.0,James,30
-CT,M,1955.0,Patricia,196
-CT,M,1980.0,Taylor,346
-CT,M,2002.0,robert,98
-CT,M,2014.0,Taylor,21
-CT,M,2020.0,James,74
-CT,F,1970.0,Linda,538
-CT,M,1918.0,Alex,60
-CT,F,2008.0,Jennifer,47
-CT,F,1968.0,Mary,9
-CT,F,1969.0,Jennifer,368
-CT,M,1964.0,Alex,110
-CT,F,2017.0,Mary,153
-CT,F,1992.0,Jordan,577
-CT,F,1957.0,Patricia,303
-,M,1933.0,Jordan,395
-CT,F,1989.0,Linda,301
-CT,M,1937.0,John,37
-CT,F,1946.0,Mary,63
-CT,M,2000.0,Michael,299
-CT,,2016.0, Patricia ,
-,M,1972.0,John,
-CT,M,1973.0,Michael,560
-CT,M,,John,87
-CT,M,1968.0,Mary,153
-CT,M,1948.0,John,198
- CT ,F,1932.0,Michael,127
-CT,M,1938.0,Robert,150
-CT,F,1976.0,Patricia,835
-CT,F,1982.0,Casey,650
-CT,F,1983.0,Taylor,946
-CT,M,2001.0,Alex,882
-CT,M,1966.0,jordan,414
-CT,F,1991.0,Mary,5
-CT,,1990.0,Casey,100
-CT,F,1926.0,jennifer,28
-CT,F,1984.0,Mary,128
-CT,F,1926.0,Patricia,48
-CT,F,1993.0,Casey,759
-CT,F,1986.0,Michael,691
-CT, M ,,John,61
- CT , M ,2001.0,John,20
+CT, F ,1962.0,Taylor,227
+CT,F,1967.0,Linda,279
+CT,M,2012.0,alex,637
+CT,M,1921.0,Jordan,11
+,F,1982.0,Casey,13
+CT,M,1984.0,Jennifer,432
+CT,M,2010.0,Robert,491
+CT,M,1937.0,John,70
+CT,F,1929.0,jordan,60
+CT,M,1957.0,James,111
+CT,F,2001.0,Casey,416
+CT,M,2022.0,Casey,214
+CT,M,1990.0,James,111
+ CT ,F,1986.0,Jordan,57
+CT, M ,1964.0,linda,34
+CT,F,1974.0,jordan,156
+CT,F,1979.0,Jordan,146
+CT,M,,John,123
+ CT ,F,1923.0,Patricia,327
+CT,M,2004.0,James,130
+CT,M,1992.0,Michael,624
+CT,F,1957.0,Robert,314
+ CT , F ,1991.0,Casey,238
+ CT ,M,2015.0,Robert,578
+CT,F,1946.0,Patricia,28
+CT,,2009.0,Robert,5
+,M,1998.0,John,25
+CT,F,1970.0,Jordan,119
+CT,F,1995.0,Alex,146
+CT,M,1962.0, Casey ,737
+,F,1991.0,Jordan,243
+CT,F,1966.0,Jordan,
+CT,M,1953.0,James,30
+ CT ,M,1943.0,Casey,69
+CT,M,,Jennifer,56
+CT,M,1925.0,taylor,14
+CT,F,1967.0,Mary,220
+CT,M,1954.0,John,33
+CT,F,1967.0,Jordan,416
+CT,F,1983.0,Alex,599
+CT,M,1958.0,Michael,178
+,M,1972.0,James,74
+CT, M ,1971.0,Alex,1060
+CT,M,1914.0,Michael,23
+CT,,1952.0,James,282
+CT,,2005.0,John,104
+CT, F ,1957.0,Alex,847
+CT,F,,Jordan,221
+CT,F,1979.0,Jennifer,368
+CT,M,1913.0,James,12
+ CT ,F,2021.0,Jennifer,142
+CT, M ,2021.0,Jordan,122
+ CT , F ,2010.0,,205
+CT,F,1917.0,Jennifer,66
+ CT ,F,1995.0,Jordan,385
+CT,M,1991.0,Taylor,
+CT,M,1929.0,James,14
+CT,M,1976.0,James,311
+ CT ,M,2002.0,Alex,1204
+CT,M,1937.0,Jordan,26
+CT,F,1994.0,Jordan,501
+CT,M,1949.0,Robert,179
+CT,F,,Mary,
+CT,M,2004.0,Robert,176
+CT,F,1998.0,Taylor,246
+ CT ,M,2017.0,Taylor,6
+CT, F ,1994.0,Jennifer,53
+CT,F,2017.0,Mary,82
+CT, F ,2013.0,Alex,85
+CT,F,1915.0,Alex,79
+ CT ,M,,john,37
+CT,M,2011.0,James,40
+CT, M ,1927.0,Mary,7
+CT,F,1945.0,Mary,8
+CT,M,1978.0,Alex,67
+CT,M,1934.0,Jordan,11
+CT,F,,Jordan,
+CT,F,1940.0,Linda,270
+CT, F ,1964.0,Patricia,424
+ CT ,F,1989.0,Jennifer,233
+CT,F,2018.0,Casey,41
+CT,F,1979.0, Casey ,203
+ CT ,F,1967.0,Alex,135
+CT,M,1995.0,Alex,351
+ CT ,F,1919.0,Michael,8
+ CT ,M,1941.0,Robert,645
+CT,M,1949.0,John,70
+CT,M,2013.0,Taylor,26
+CT,F,2006.0,Patricia,5
+CT,M,2017.0,Casey,489
+CT,M,1976.0,Casey,446
+CT, M ,1947.0,Alex,771
+CT,F,2014.0, Jennifer ,149
+CT, M ,2019.0,patricia,10
+,F,1926.0,linda,101
+ CT ,F,1975.0,Patricia,157
+CT, M ,1914.0,Robert,
+CT,F,1957.0,Mary,448
+CT,F,2005.0, Jennifer ,633
+ CT ,M,1949.0,taylor,497
+ CT ,F,1988.0,Alex,368
+CT,M,1950.0,alex,33
+CT,M,1959.0,Robert,
+,M,1954.0,Michael,144
+CT, M ,1985.0,Casey,219
+,M,2019.0, John ,365
+ CT ,F,1981.0,Taylor,284
+CT,M,2001.0,James,768
+CT,F,2012.0,Casey,26
+CT,M,1976.0,John,156
+CT,M,,Taylor,616
+CT,F,1961.0,Casey,530
+CT,M,2016.0,Mary,864
+,,1958.0,Alex,661
+ CT ,M,1994.0,Alex,426
+CT,F,1937.0,Jordan,15
+CT,M,1991.0,Casey,523
+CT,F,1936.0,Jordan,45
+CT,F,1949.0,Alex,800
+,,1931.0,Alex,29
+CT,F,2001.0,jordan,561
+CT,F,1996.0,Linda,434
+CT, M ,1915.0,Robert,150
+CT,F,2017.0,Linda,48
+CT, F ,1953.0,Jordan,967
+CT,M,1973.0,Robert,99
+CT,F,1927.0,Jennifer,91
+CT,M,1955.0,Robert,51
+ CT ,F,1988.0,Mary,101
+CT,F,1972.0,Mary,10
+CT, F ,2010.0,james,321
+CT,F,1949.0,Patricia,
+CT,M,2014.0,Robert,
+CT,M,1964.0,Casey,746
+CT, F ,1938.0,Jennifer,454
+CT,M,1915.0,Casey,102
+CT,M,2006.0,,173
+CT, F ,1947.0,Jennifer,553
+CT, F ,2016.0,John,266
+CT,F,1996.0, Patricia ,980
+CT,F,1963.0,Jordan,
+ CT ,F,1967.0,Taylor,142
+CT,F,1976.0,Jennifer,173
+ CT ,F,,Jennifer,410
+ CT ,M,1962.0,Jordan,34
+CT,F,1966.0,Patricia,56
+CT,M,1970.0,Casey,256
+CT, M ,1956.0,,32
+CT,F,1988.0,Jennifer,91
+CT,M,1992.0,Taylor,68
+CT,,1980.0,Casey,205
+ CT ,F,1944.0,Linda,223
+CT,F,,Linda,22
+ CT ,F,1913.0,Patricia,31
+CT,,1975.0,Taylor,36
+CT,M,2000.0,James,543
+CT,M,1982.0,Robert,220
+CT,F,1941.0,Linda,148
+CT,M,1949.0,casey,1009
+CT,,1948.0,,71
+CT,M,1956.0,Michael,
+CT,F,1941.0,patricia,725
+CT,M,2000.0,Jordan,69
+,F,1981.0,Jennifer,149
+,F,1997.0,Jordan,317
+CT,M,1912.0,,8
+CT,M,1927.0,Robert,30
+CT,F,1997.0,Jennifer,833
+ CT , M ,1998.0,alex,195
+CT, M ,2013.0, Jordan ,274
+CT,M,1980.0,Jordan,192
+CT,M,1991.0,Mary,446
+CT,M,1940.0,James,9
+,M,1996.0,Taylor,760
+CT,F,1974.0,Mary,60
+,M,1947.0, Jennifer ,306
+ CT ,F,,Mary,
+CT,F,1925.0,Casey,
+,M,1993.0,Casey,17
+CT,F,1963.0,Casey,927
+CT,M,1982.0,Patricia,413
+CT,M,1956.0,Alex,317
+CT, M ,2008.0,James,250
+CT,M,1984.0,Alex,326
+CT,F,,James,328
+ CT ,F,1948.0, Casey ,12
+ CT ,M,1948.0,Michael,10
+CT,F,1942.0,Alex,424
+CT,M,1963.0,,14
+CT,M,1925.0,James,54
+CT,M,1940.0,Robert,
+CT,M,1994.0,Michael,100
+CT,F,2022.0,Mary,137
+CT,F,1952.0,Patricia,139
+CT, F ,1930.0,Taylor,81
+ CT ,M,1960.0,Michael,510
+CT,M,,Casey,181
+CT,F,1954.0,Mary,18
+ CT ,M,1998.0,Casey,374
+CT,F,1943.0,Jennifer,
+ CT ,M,2018.0,Casey,56
+CT,M,1919.0,Michael,8
+CT,M,2005.0,Robert,126
+CT,M,2012.0,Robert,819
+CT,F,1992.0,James,45
+CT,M,1938.0,John,118
+CT,F,1969.0,Patricia,667
+CT,F,1963.0,Alex,674
+CT, F ,2018.0,Jennifer,345
+,M,1979.0,,604
+CT,F,1917.0,Jordan,8
+ CT ,M,1936.0,Michael,231
+CT,F,2014.0,Jordan,419
+CT,M,1934.0,John,82
+ CT , M ,1967.0,Linda,175
+ CT ,F,2020.0, Taylor ,279
+CT,M,1977.0,robert,64
+CT,M,1959.0, Alex ,122
+CT,M,,Jordan,18
+CT,F,1948.0,Linda,61
+CT,M,1977.0,Taylor,254
+CT,F,1973.0,Jennifer,310
+CT,M,1993.0,James,40
+CT,F,1952.0,Jennifer,199
+CT,M,2022.0,John,344
+CT,M,2000.0,Alex,433
+,M,1957.0,Robert,503
+ CT ,F,1919.0,Michael,8
+ CT ,F,1987.0,Mary,66
+,F,1994.0,Mary,166
+CT,M,1949.0,James,349
+CT,M,2004.0,Jordan,17
+CT,F,2020.0,Casey,186
+CT,M,2010.0,Alex,291
+CT,M,1981.0,Robert,700
+CT,M,1955.0,Taylor,624
+CT,F,2015.0,Taylor,411
+CT,F,1977.0,Linda,277
+CT,F,1943.0,Jordan,7
+CT,M,1958.0,Robert,440
+CT,F,1986.0,Patricia,689
+CT,F,1981.0,Linda,33
+CT,M,2005.0,Jordan,32
+CT,F,,Alex,884
+,F,1932.0,Alex,25
+CT,M,1961.0,John,39
+CT,F,2002.0,Patricia,289
+CT,M,1975.0,Robert,492
+CT,F,1987.0,Taylor,193
+CT,F,1955.0,Linda,113
+CT,F,1998.0,Mary,12
+CT,M,1964.0,Robert,115
+ CT ,M,1968.0, John ,562
+CT,M,2013.0,Mary,423
+CT, F ,2018.0,Mary,538
+CT,,1998.0,Robert,214
+CT, F ,2012.0,patricia,105
+CT,F,1913.0,Linda,7
+CT,F,1963.0,Jennifer,132
+CT,M,1973.0,Alex,13
+CT,F,2002.0,Mary,24
+CT,F,1976.0,Mary,285
+CT,M,1917.0,Alex,11
+,F,1965.0,Mary,541
+CT,F,,Jennifer,221
+CT,M,1945.0,Alex,335
+CT,M,1996.0,James,712
+CT,M,,Michael,183
+CT,F,1975.0,Michael,478
+CT,,1936.0,Casey,5
+CT,M,1975.0,Taylor,93
+CT,M,1997.0,Casey,802
+CT,M,,alex,14
+CT,M,1941.0,James,22
+CT,M,1966.0, Alex ,168
+CT,,2011.0,Patricia,38
+, F ,1959.0,Jordan,145
+CT,F,1933.0,Jennifer,94
+CT,M,1933.0,Taylor,8
+CT,M,1925.0,John,7
+CT,F,1955.0,Mary,639
+CT,F,1927.0,Taylor,106
+ CT ,M,1955.0,Alex,425
+CT,F,1987.0,Jennifer,
+CT,M,1975.0,James,155
+CT,M,1977.0,Michael,320
+CT,M,1959.0,James,111
+CT,F,1919.0,Robert,186
+CT,M,2009.0,Casey,132
+CT,F,,Patricia,793
+CT,M,1942.0,Jordan,16
+CT,F,1980.0,Patricia,272
+CT,,1959.0,Linda,283
+CT,M,1943.0,Michael,73
+,,1990.0,Jordan,455
+CT,M,1930.0, Robert ,382
+,F,1994.0,John,545
+CT,,1932.0,Taylor,723
+ CT ,M,1971.0,John,238
+ CT ,F,2006.0,Jordan,9
+CT,M,2021.0,Robert,51
+CT,F,1961.0,Jordan,88
+CT,F,2011.0,Jordan,109
+CT,F,1971.0,Alex,192
+CT,F,1999.0,Taylor,
+CT, F ,1936.0, Alex ,32
+CT,F,1963.0,Mary,248
+ CT ,F,1944.0, Alex ,74
+CT,F,2001.0,Patricia,289
+,F,,Patricia,162
+CT, M ,1946.0,,9
+CT,M,1932.0,Alex,120
+CT,M,1976.0,Michael,170
+CT,,1977.0,Alex,979
+ CT ,F,,Taylor,188
+CT,,1956.0,Casey,53
+CT,M,1956.0,Jordan,280
+CT,M,1960.0,John,18
+CT,M,1981.0,Michael,635
+ CT ,F,1998.0,Jennifer,518
+CT,F,1989.0,Jordan,555
+CT,M,2020.0,jordan,201
+CT,M,1943.0, Linda ,30
+CT,F,1964.0,Alex,54
+CT,F,1949.0,John,6
+ CT ,M,1967.0,Casey,31
+CT,M,2001.0,Jennifer,
+CT,M,1994.0,,693
+CT,M,2008.0,John,830
+CT,M,1978.0,,713
+CT,M,1981.0,John,1213
+CT, M ,2008.0,Casey,87
+CT,M,1989.0,Michael,190
+CT,F,1945.0,Patricia,52
+CT, M ,,James,976
+CT, F ,1968.0,Taylor,69
+CT,,1943.0,,98
+CT,F,1991.0,Linda,63
+,M,2014.0,,26
+CT,M,1962.0,John,298
+CT,M,2016.0,Taylor,359
+CT,F,1975.0,Jordan,339
+ CT ,F,1922.0,Mary,75
+,M,2005.0,Alex,432
+CT,F,1953.0,taylor,20
+CT,M,1915.0,Casey,102
+CT,M,1982.0,Alex,342
+CT,F,1970.0,Casey,116
+CT,M,1974.0,robert,808
+CT,M,1942.0,,34
+CT,M,1919.0,,62
+CT,F,1933.0,Linda,25
+CT,M,1948.0,Robert,24
+CT,F,2017.0,Jennifer,15
+CT,F,1931.0,Jennifer,102
+CT, M ,2010.0,Casey,679
+CT,M,1948.0,Jordan,5
+CT,F,2004.0,Taylor,15
+CT,M,1997.0,Michael,32
+CT,F,1962.0,Linda,82
+CT,F,2022.0,Jordan,23
+CT, F ,1968.0,Taylor,69
+CT,,2010.0,Mary,118
+CT,F,1934.0,Michael,332
+CT,F,2006.0,Robert,352
+CT,M,1930.0,John,12
+CT,F,2015.0, Jennifer ,17
+CT,F,1979.0,Alex,411
+CT,M,1979.0,John,97
+CT,M,1973.0,Jordan,148
+CT,M,1998.0,Taylor,92
+CT,,1963.0,Jordan,308
+CT,F,1947.0,Mary,13
+CT,F,1982.0,Jennifer,1069
+CT,F,1917.0, Michael ,13
+CT,M,1989.0,Michael,190
+CT,M,1916.0,Alex,10
+CT,M,2005.0,casey,138
+CT,,1967.0, Jennifer ,613
+,F,1963.0,Linda,74
+CT,M,1942.0,John,370
+CT,F,1943.0,Alex,79
+CT,M,1937.0,Michael,93
+CT,F,1973.0, Mary ,473
+CT,M,1959.0,Michael,24
+,F,1924.0,Alex,58
+CT,F,1960.0,Jennifer,10
+,,1942.0,Patricia,153
+,F,2004.0,Alex,233
+CT,M,1938.0,Casey,24
+CT,F,1910.0,Taylor,
+ CT ,F,1970.0,Alex,175
+CT,F,1983.0,Taylor,344
+CT,F,,James,120
+CT,F,2011.0,Mary,190
+ CT ,F,2000.0,Jordan,724
+CT,M,1982.0,Jennifer,75
+ CT ,F,1985.0,Patricia,175
+CT,F,2012.0,Linda,313
+,M,1934.0,James,99
+CT, F ,2009.0,Jennifer,447
+CT,F,2013.0, Mary ,434
+ CT ,M,1959.0,Casey,279
+CT,F,1962.0,Mary,36
+CT,F,,Casey,80
+CT,M,1965.0,Jordan,37
+ CT ,M,1929.0,Michael,122
+ CT ,M,1959.0,Taylor,252
+CT,M,1970.0,Linda,72
+CT,F,2008.0,Jordan,5
+,M,1933.0,Alex,164
+CT,F,1968.0,Casey,85
+CT,F,1957.0,Patricia,469
+CT,F,,Casey,682
+ CT ,F,1977.0,Jennifer,236
+CT,M,1955.0,Robert,51
+CT, M ,1975.0,Alex,148
+ CT ,,2018.0,Taylor,163
+CT, F ,1977.0,Patricia,665
+CT,F,1929.0,Linda,7
+CT,F,2012.0,Mary,164
+CT,,2003.0,John,48
+CT,,1986.0,Mary,121
+CT,F,1924.0,,23
+CT,F,1997.0,Patricia,36
+CT, M ,2013.0,Casey,63
+CT,M,1982.0,John,606
+, M ,1996.0,Michael,1030
+CT,F,1989.0,Alex,164
+CT,F,1976.0,Taylor,1129
+CT,M,2021.0,Patricia,114
+CT,F,1934.0,Casey,56
+CT,M,1993.0,Patricia,299
+CT,F,1970.0,Taylor,71
+CT,,1915.0,Taylor,
+CT,M,1993.0,Michael,459
+,F,1972.0,Jordan,46
+CT,M,1939.0,Michael,15
+ CT ,F,2010.0,Jennifer,27
+ CT ,F,1984.0,Linda,507
+CT,F,1983.0,Jennifer,86
+CT,F,2008.0,Linda,115
+CT,M,2007.0,John,26
+ CT ,M,1927.0,Michael,35
+CT,M,1971.0,James,40
+CT,M,1993.0,Patricia,299
+CT,F,1998.0,Patricia,1029
+CT,M,1967.0,Jordan,242
+ CT ,F,1966.0,linda,405
+CT,F,1941.0,Casey,288
+CT,M,2020.0,Casey,14
+ CT , M ,1970.0,john,299
+CT, M ,1980.0,Taylor,566
+CT,F,2015.0,Linda,1078
+CT,M,1973.0,taylor,350
+CT,M,1918.0,James,89
+CT,F,1974.0,Alex,220
+CT,M,1910.0,Casey,18
+CT,M,1954.0, Taylor ,218
+CT,M,1946.0,Robert,143
+CT,F,2009.0,Linda,7
+CT,M,1933.0,John,41
+CT,F,1989.0,Patricia,69
+CT,F,1982.0,,586
+CT,F,1999.0,James,64
+CT,M,1990.0,Linda,371
+CT,F,2015.0, Robert ,224
+CT,M,1946.0,Alex,395
+CT,M,1979.0,Taylor,117
+CT,F,1982.0,linda,67
+CT,F,1932.0,,34
+CT,F,2007.0,Jordan,88
+CT,F,1995.0, Patricia ,282
+CT, M ,1982.0,Michael,836
+CT, F ,1953.0,Casey,90
+CT,F,2013.0,John,47
+CT,F,1979.0,Linda,579
+CT,M,1958.0,,16
+CT,F,2008.0,Jennifer,12
+CT,F,1958.0,taylor,406
+CT,M,1912.0,Michael,85
+CT,M,1985.0,Michael,378
+ CT ,F,1978.0,Taylor,359
+CT,M,1969.0,Casey,710
+CT,F,1931.0,,465
+CT,M,1989.0,,34
+CT,M,1966.0,John,447
+CT,F,1943.0,,21
+CT,M,2022.0,James,424
+CT,M,1995.0,Taylor,49
+CT,M,1942.0,Alex,13
+CT,M,1933.0,Casey,116
+ CT ,M,1941.0, Casey ,143
+CT,F,2001.0,Casey,416
+ CT ,F,1933.0,Mary,60
+CT,M,1980.0,John,837
+CT,F,1926.0,Jennifer,24
+CT,M,2019.0,Taylor,221
+CT,M,1919.0,Michael,8
+CT,M,1931.0,michael,8
+ CT ,F,1922.0,linda,68
+CT,M,2021.0,John,249
+CT,F,1966.0,Taylor,159
+CT,,1991.0,Taylor,11
+,F,1962.0,James,1368
+CT,M,,John,159
+CT,F,2019.0,Casey,36
+CT,M,1960.0,Robert,33
+,M,1930.0,Jordan,12
+CT,M,1936.0,Taylor,29
+CT,F,2016.0,Casey,268
+CT,F,1918.0,Taylor,26
+CT,M,,Jordan,5
+,M,1954.0,,171
+,M,1939.0, Robert ,197
+CT,F,2017.0,Casey,356
+CT, F ,,Mary,121
+CT,,1967.0,John,305
+CT,F,1945.0,Jordan,148
+CT,M,1952.0,John,64
+CT,M,2021.0,Casey,
+CT,M,1953.0,John,464
+CT,F,1971.0,Jennifer,
+CT,M,1961.0,Robert,591
+CT,M,1993.0,Taylor,160
+CT,F,1972.0,Patricia,437
+CT,F,1939.0,Jennifer,282
+CT, F ,1996.0,Jennifer,338
+CT, F ,1992.0,Alex,193
+CT,M,1959.0,Jordan,158
+CT,M,2006.0,Alex,692
+CT,,1950.0,Alex,20
+CT,M,2012.0,Casey,59
+CT,M,2012.0,,498
+,M,1968.0,Casey,166
+CT,F,1977.0,Michael,98
+CT,M,1972.0,,305
+CT, F ,1968.0,Mary,124
+CT, F ,1986.0,Jennifer,237
+CT, M ,2003.0,Alex,334
+CT,M,1980.0,Robert,293
+CT,,1944.0,Casey,85
+CT,M,2012.0,Michael,723
+CT, F ,1986.0,Casey,770
+CT,M,1968.0,Alex,203
+CT,M,1944.0, James ,15
+CT,F,1993.0,Taylor,262
+CT,M,2022.0,,54
+CT, F ,1978.0,Casey,439
+CT,F,1956.0,robert,590
+,F,1999.0,Mary,1401
+CT,M,,,138
+CT,F,2009.0,Alex,28
+CT,F,1963.0,Taylor,80
+CT,F,1956.0,Casey,150
+,F,1950.0,Casey,261
+CT,M,1982.0,Taylor,47
+CT,F,1970.0,Mary,565
+CT,F,1984.0,Patricia,425
+CT,F,2014.0,John,77
+CT,F,1977.0,Jordan,198
+,F,2005.0,Jordan,862
+CT,F,1919.0,Linda,18
+, F ,1993.0,Patricia,136
+CT,F,1940.0,Mary,5
+CT,M,2000.0,Michael,46
+,F,1947.0,Michael,385
+CT,F,2022.0,Alex,123
+CT,M,1970.0,Taylor,55
+CT,M,1990.0,Michael,
+CT,M,1937.0,Casey,33
+CT,F,1938.0,Patricia,5
+,M,1983.0,Taylor,136
+CT,M,2007.0,Taylor,129
+CT,F,1960.0,Casey,18
+CT,M,2011.0,Jennifer,5
+CT,F,1934.0,,8
+CT,F,1944.0,Taylor,29
+CT,F,1937.0,Jennifer,7
+CT,F,1989.0,Michael,301
+CT, M ,1969.0,Jordan,85
+CT,M,1999.0,Taylor,103
+CT,M,1950.0,John,7
+CT,F,1935.0,taylor,397
+ CT ,F,1930.0,Mary,141
+CT,F,1994.0,,882
+CT,F,1966.0,Casey,746
+CT,F,1970.0,Michael,138
+CT,F,2009.0,Jordan,146
+CT,F,1940.0,Jennifer,275
+,,1983.0,Michael,573
+CT,M,1982.0,Jordan,272
+CT,F,2005.0,Mary,199
+CT,M,2015.0,John,14
+CT,M,1951.0,Casey,6
+CT,,1966.0,Alex,287
+CT, F ,1965.0,Patricia,
+CT,,1951.0,Linda,98
+CT,F,1951.0,Jennifer,146
+CT,M,1991.0,John,772
+CT,F,1922.0,Casey,5
+CT, M ,1946.0,Jordan,19
+CT,M,1964.0,Michael,477
+CT, F ,1934.0,Linda,26
+CT,F,1949.0,Mary,627
+ CT ,M,1981.0,Casey,77
+CT,F,1960.0,Mary,119
+CT,F,1939.0,Mary,36
+CT,,,Linda,35
+CT,F,1955.0,Taylor,36
+CT,M,1993.0,Taylor,160
+CT, M ,1979.0,Alex,499
+CT,M,1953.0, Taylor ,61
+CT, M ,1986.0,Taylor,73
+CT,M,2010.0,Michael,82
+CT,M,1940.0,Casey,129
+CT, M ,1945.0,James,76
+CT,M,2021.0,Taylor,7
+CT,F,1965.0,,34
+CT,M,1913.0,Taylor,98
+CT,F,1961.0,Jennifer,60
+ CT ,F,1946.0,Linda,39
+,M,2002.0,Taylor,219
+ CT ,M,1996.0,Casey,
+CT,F,1953.0,mary,166
+CT,F,1959.0,Taylor,132
+CT,F,1915.0,,39
+ CT ,M,2018.0,Taylor,277
+CT,F,1960.0,Jordan,837
+CT,M,1921.0,James,15
+CT, M ,1948.0,Casey,517
+CT,M,1990.0,John,173
+ CT ,F,1948.0, Taylor ,506
+CT,M,1996.0,Jordan,64
+CT,M,1999.0,james,113
+CT,F,1961.0,Patricia,180
+ CT ,M,1994.0,Jennifer,
+CT,M,2010.0,Taylor,130
+,F,1981.0,Alex,168
+CT,M,2019.0,Alex,74
+CT,,,Jennifer,320
+CT,M,2016.0,Jordan,11
+CT,F,1990.0,Mary,
+CT,F,1966.0,James,82
+CT, F ,1974.0,Casey,74
+CT,F,2003.0,,33
+CT,F,2002.0,Alex,167
+CT,F,1920.0,Linda,43
+CT,M,2022.0,Robert,17
+CT,M,1996.0,,293
+CT,F,1912.0,,146
+CT,M,1988.0,Robert,214
+CT,M,1928.0,John,40
+CT,M,1940.0,Taylor,67
+ CT ,F,2000.0,Taylor,65
+CT,F,1946.0,Mary,800
+, F ,1990.0, Alex ,25
+CT,F,1966.0,Mary,699
+CT,F,1933.0,Taylor,30
+CT,M,1994.0,Robert,125
+ CT ,M,1960.0,Alex,456
+CT,F,1972.0,,406
+CT,M,,Michael,304
+CT,,1991.0,Taylor,11
+CT,M,1953.0,Michael,46
+CT,F,1975.0,Mary,376
+ CT , F ,1910.0,Mary,41
+CT, M ,1966.0,Robert,377
+CT,M,1970.0,Robert,498
+CT, M ,,Casey,749
+CT,M,1973.0,John,41
+CT,F,1940.0,Jordan,565
+CT,M,1914.0,Alex,8
+CT,F,,Jordan,22
+CT, M ,1957.0,Casey,87
+CT, F ,1995.0,Mary,79
+CT,M,1937.0,Taylor,102
+CT,,1979.0,Taylor,473
+CT,F,1958.0,,356
+CT,F,2022.0,Jennifer,5
+CT,M,1936.0,Alex,177
+CT,M,1977.0,Casey,525
+CT, M ,1921.0,John,34
+CT,F,1989.0,Casey,521
+CT,M,2009.0,James,12
+ CT , M ,1955.0,Casey,77
+CT,M,1963.0,Alex,338
+CT,F,1941.0,Alex,278
+CT,F,1940.0,Patricia,128
+CT, M ,2007.0,michael,19
+CT,F,2011.0,jennifer,182
+CT,M,2008.0,Taylor,57
+CT,,1916.0,Jordan,
+CT,M,1964.0,John,1060
+CT,F,1919.0, Taylor ,28
+CT,M,1969.0,John,274
+CT,M,2001.0,Taylor,52
+ CT ,M,1946.0,Michael,137
+CT, M ,1966.0,,499
+CT,M,2018.0,James,247
+CT,M,1987.0,Taylor,123
+CT,F,2013.0,Linda,481
+ CT ,F,2002.0,Jennifer,29
+,F,1918.0,Mary,60
+CT,M,1956.0,Taylor,817
+CT,M,1970.0,Michael,1146
+CT,M,,James,5
+CT,F,1983.0,Linda,479
+CT,F,,Patricia,905
+ CT ,M,1995.0,Michael,99
+CT,F,1941.0,Jennifer,7
+CT,M,1965.0,,230
+CT,M,1935.0,Robert,603
+CT,M,2011.0,John,418
+CT,F,1917.0,Taylor,180
+CT,F,2001.0, Alex ,848
+CT,F,1952.0,Mary,18
+CT,,1995.0,Robert,161
+CT,M,2014.0,Jordan,149
+CT, F ,1923.0,Jordan,5
+CT,F,1990.0,,89
+CT,M,,Michael,6
+CT,F,1996.0,Jordan,353
+CT,F,1958.0,Alex,42
+,F,1928.0,Mary,345
+CT,F,1925.0,Robert,27
+CT, M ,1932.0,Casey,110
+CT, F ,1950.0,Jennifer,63
+CT,F,1954.0,Taylor,912
+CT,M,2017.0,Mary,438
+ CT ,M,1918.0,John,46
+CT,,1981.0,Mary,271
+CT,M,1944.0,John,550
+ CT ,F,1973.0,Linda,257
+CT,M,1975.0,John,505
+CT,,1984.0,James,81
+CT,F,1970.0,Patricia,378
+CT,F,1923.0,Taylor,51
+CT,M,1949.0,Alex,268
+CT,M,1957.0,John,50
+CT,F,1973.0,Jordan,7
+CT,F,1956.0,Alex,1122
+CT,M,,Michael,326
+CT,M,1988.0, Casey ,153
+CT,F,2021.0,Michael,150
+CT,F,1999.0,Patricia,132
+CT,M,1969.0,John,274
+CT,M,1954.0,Alex,53
+CT,M,2008.0,Alex,43
+CT,,1930.0,Patricia,698
+CT,M,2003.0,Jordan,115
+ CT ,F,2007.0,Patricia,609
+CT,M,1980.0,Alex,238
+CT,F,1982.0,James,390
+CT,F,1969.0,Linda,240
+CT,F,1984.0,Jennifer,103
+CT,F,1952.0,Casey,13
+CT,M,1957.0,Michael,262
+CT,M,1970.0,Alex,224
+CT,M,1999.0,Alex,490
+CT,M,1916.0,Jordan,44
+CT,F,1957.0,Taylor,58
+CT,F,1961.0,Mary,258
+CT,M,1963.0,Mary,26
+CT, M ,1986.0,Robert,53
+CT,F,1947.0,Linda,389
+CT,M,1913.0,Michael,20
+CT,F,1969.0,Alex,535
+CT, M ,2021.0,Alex,9
+CT,M,1991.0,Robert,213
+CT,M,1963.0,James,224
+CT,M,,Casey,139
+CT,F,1990.0,Jennifer,127
+CT,M,2006.0, James ,
+CT,M,1967.0,Taylor,683
+CT,F,2013.0,Casey,428
+CT,F,1994.0,Patricia,56
+,F,2006.0,Casey,161
+CT,F,1920.0,Jennifer,150
+,F,1996.0,Taylor,696
+ CT ,M,1923.0,Taylor,
+CT,F,1939.0, Taylor ,32
+CT,M,1968.0,Michael,27
+CT,F,1991.0, Alex ,723
+,M,1999.0,Michael,858
+CT, F ,2007.0,Taylor,702
+CT,F,2016.0,Alex,43
+CT,F,1990.0,Linda,42
+CT,M,1954.0, Taylor ,218
+CT, M ,1951.0, Alex ,106
+,F,1985.0,Taylor,118
+CT,M,1913.0,Casey,37
+CT,F,1942.0,jennifer,6
+,F,1928.0,Jennifer,14
+CT,F,1963.0,Patricia,300
+,M,1948.0,James,116
+CT,M,1944.0,Robert,271
+CT,M,2020.0,james,530
+CT,M,1987.0,John,77
+CT,M,1934.0,Casey,27
+CT,M,1958.0,Taylor,8
+CT,,1950.0,james,312
+CT,M,2006.0,Casey,207
+CT,M,1985.0,Jordan,497
+CT,M,2014.0,Casey,659
+ CT ,M,1938.0,Robert,359
+,M,1997.0,James,
+CT,M,1951.0,Jordan,915
+CT,F,1939.0,Alex,83
+CT,M,1963.0,John,44
+CT,M,1980.0,James,104
+CT,M,2009.0,Alex,
+CT,F,2004.0, Jennifer ,182
+CT,M,, Casey ,775
+CT,,1924.0,alex,68
+CT,M,1989.0,Taylor,166
+CT,,1965.0,Alex,191
+CT, M ,1954.0,James,27
+CT,M,1914.0,Taylor,9
+CT,,1993.0,Mary,24
+CT,M,1991.0,Robert,213
+CT,M,1955.0,Jordan,479
+CT,M,1987.0,Robert,39
+CT,M,1991.0,Alex,345
+CT,F,1949.0,Casey,8
+CT,M,1966.0,Michael,194
+CT,F,1965.0,Alex,42
+,M,1928.0,Taylor,42
+CT,M,2018.0,Alex,113
+CT,F,1967.0,Jennifer,1201
+CT,M,2004.0,,11
+CT,F,1997.0,Alex,393
+CT,M,,Patricia,103
+ CT ,M,1955.0,michael,12
+,F,2003.0,Casey,409
+CT,M,2013.0,Robert,6
+CT,M,2017.0,Jordan,178
+ CT ,F,2010.0,Jennifer,27
+CT,F,1988.0,Linda,
+CT,F,1965.0,,34
+CT,M,1939.0,Casey,225
+CT,F,1952.0,Alex,8
+CT,F,1983.0,Patricia,153
+CT,M,1994.0,Taylor,502
+,F,1976.0,,6
+CT,F,1966.0,Robert,170
+CT,F,1935.0,casey,8
+CT,F,1946.0, Taylor ,5
+CT,F,1927.0,Patricia,425
+,M,1968.0,Jordan,111
+CT,F,1989.0,Taylor,401
+CT,F,1931.0,Linda,13
+CT,F,1937.0,Patricia,75
+CT,M,2003.0, Michael ,50
+CT,F,1962.0,Alex,9
+ CT ,F,1985.0,Alex,481
+,M,1981.0,Alex,531
+CT, M ,1974.0,Patricia,9
+CT,M,,Robert,41
+CT,F,1982.0,Patricia,269
+CT,M,2011.0,Jordan,256
+CT,M,1967.0,Alex,727
+CT,F,1954.0,,346
+CT,M,2012.0,Mary,136
+CT,M,2011.0,Robert,297
+CT,M,1999.0,Casey,65
+CT,F,1956.0,Linda,12
+CT,M,1968.0,Robert,
+ CT , F ,2010.0,Alex,247
+CT, F ,1962.0,Patricia,1015
+CT,F,1977.0,Casey,496
+CT,F,2005.0,Alex,943
+,M,2017.0,Alex,43
+CT,F,1983.0,,247
+CT,M,1986.0,jennifer,301
+CT,F,1970.0,Jennifer,91
+ CT ,M,1963.0,Casey,142
+CT,,2010.0,Jordan,25
+CT,F,1956.0,Patricia,25
+CT,F,1918.0,Jordan,89
+CT, M ,1995.0,Casey,136
+CT,F,,Linda,163
+CT, F ,1921.0,Jennifer,10
+CT,M,1947.0,Robert,60
+CT, M ,1941.0,Alex,13
+CT,F,1952.0,Linda,611
+CT,M,1955.0,James,37
+CT,M,1913.0,Michael,20
+, M ,1940.0,Jordan,50
+CT,M,1952.0,Alex,208
+CT,F,1951.0,Patricia,27
+CT,F,1944.0, Patricia ,186
+CT,,1946.0,,194
+CT,F,2012.0,,262
+CT,M,1967.0,michael,319
+CT,F,1996.0,Alex,69
+CT,F,2019.0,Patricia,240
+ CT ,F,1971.0,John,168
+CT,M,1931.0,Casey,8
+CT,M,1924.0,Michael,124
+CT, F ,1955.0,Michael,56
+CT,F,1959.0,Patricia,134
+CT,F,1964.0, Linda ,120
+CT,M,1976.0,Robert,540
+,M,1940.0,Alex,32
+CT,M,2012.0, Patricia ,894
+CT,M,1991.0, James ,332
+CT,F,1947.0,Alex,886
+CT,F,1950.0,Jordan,424
+CT,M,2011.0, Casey ,33
+CT,F,2021.0,Casey,12
+CT,M,1988.0,Michael,595
+CT,F,1976.0,Patricia,728
+CT,F,2002.0,Jordan,8
+CT,F,2008.0,Taylor,214
+CT,M,2001.0,Casey,225
+CT,M,1977.0,James,744
+CT,F,1989.0,Linda,438
+CT, M ,1940.0,Michael,16
+CT,M,1949.0,Michael,11
+CT,F,1984.0,Mary,241
+CT,M,1964.0,Jordan,97
+CT,F,1965.0, Jennifer ,580
+CT,M,2007.0, Robert ,7
+CT,M,2013.0,Patricia,254
+ CT ,M,1987.0,Jordan,284
+CT,F,1951.0,Taylor,160
+CT,F,,John,63
+CT,M,1939.0,James,115
+CT,M,2017.0,James,5
+ CT ,F,2019.0,Mary,
+ CT ,M,1954.0,Jordan,
+CT,F,1992.0,Linda,123
+CT,F,2007.0,Alex,167
+CT,,2010.0,,693
+CT,M,1935.0,John,34
+CT,F,1995.0,Linda,1026
+CT,M,1985.0,James,6
+CT,F,2002.0,Linda,89
+CT,,1989.0,Jordan,24
+CT,F,1992.0,Jordan,880
+CT,M,1965.0, Robert ,311
+ CT ,F,1991.0,jennifer,483
+, F ,1937.0,Alex,36
+, M ,1947.0,Taylor,811
+CT,,2010.0,Taylor,172
+ CT ,F,2012.0,Jennifer,13
+CT,F,1980.0,Casey,238
+CT,F,1981.0,Casey,359
+CT, F ,1928.0,,29
+CT,F,1960.0, Taylor ,50
+CT,M,2022.0,Michael,70
+CT,F,1959.0,Alex,72
+CT,F,1919.0,Patricia,9
+ CT ,M,2011.0,Alex,16
+CT,F,1924.0,Jennifer,12
+CT,M,1988.0,,35
+CT, M ,2017.0,John,8
+, M ,2011.0,Taylor,70
+CT, M ,1981.0, Taylor ,130
+CT,,2011.0, Michael ,49
+CT,M,1967.0,James,164
+CT,F,2017.0,Taylor,110
+CT,M,1995.0,Jordan,82
+CT,M,1996.0,Robert,592
+CT,F,1992.0,,278
+CT,F,1925.0,Patricia,10
+CT,F,1936.0,Casey,192
+CT, M ,2018.0,Michael,156
+CT,M,1922.0,Jordan,74
+CT,F,1948.0,Mary,
+ CT ,F,1981.0,Jordan,109
+CT,,1975.0,,284
+CT,M,1950.0,Taylor,
+CT,F,2014.0,Alex,809
+CT,,2007.0,Alex,111
+CT,M,2019.0,James,29
+CT,M,1961.0,Alex,222
+CT,M,1964.0,James,815
+CT,M,2001.0,Alex,819
+CT, F ,1978.0,Patricia,317
+CT,F,1944.0,Jordan,
+CT,F,1999.0,Casey,51
+CT,M,1993.0,Alex,1192
+CT,F,2006.0,Taylor,5
+CT,M,1986.0,Alex,309
+CT,M,1961.0,James,893
+CT,M,1988.0,John,226
+CT,F,2013.0, Taylor ,700
+CT,F,1999.0,Alex,
+CT,F,1948.0,Alex,11
+CT,M,1942.0,Michael,110
+CT,F,2021.0,Mary,10
+CT,F,1939.0,Patricia,32
+CT,F,1985.0,Casey,476
+CT,F,1949.0,Michael,381
+CT,M,1966.0, Taylor ,319
+CT,M,1944.0,Alex,155
+CT,M,1956.0,Michael,
+CT,M,1943.0,Jordan,28
+CT,F,2019.0,Linda,699
+CT,,2011.0,Patricia,38
+ CT ,M,1997.0,Alex,73
+CT,F,1971.0,Patricia,888
+CT,F,2007.0,Casey,10
+CT,M,1986.0,John,410
+CT,M,1972.0,Casey,445
+ CT ,M,1928.0,James,37
+CT,M,1965.0,Casey,404
+CT,F,1954.0,Patricia,41
+CT,F,1971.0, Taylor ,13
+CT,M,2007.0,Casey,937
+CT,F,1913.0,Linda,7
+,M,1939.0,Jordan,211
+CT,,2018.0,,872
+,M,1942.0,Robert,6
+CT,F,1973.0,Casey,271
+CT,F,2015.0,Jordan,5
+ CT ,M,1966.0,James,1263
+CT,F,1929.0, Michael ,11
+CT,M,1946.0,john,
+CT,F,1925.0,Mary,122
+CT,,1958.0,Linda,5
+CT,M,1978.0,,38
+CT,M,1930.0,Michael,110
+CT,F,1979.0,Patricia,126
+CT,F,1915.0,jennifer,16
+CT,M,1932.0,Jordan,188
+CT,M,1987.0,Michael,650
+CT,F,,Jordan,186
+CT,F,2001.0,Mary,352
+CT, M ,2008.0,Jordan,29
+CT,F,1997.0,Mary,642
+ CT ,M,2000.0,Taylor,327
+CT,F,2006.0,Jennifer,315
+ CT , F ,1997.0,Linda,328
+CT,,2009.0,Taylor,28
+CT,M,2018.0,Jordan,27
+ CT ,M,1945.0,Jordan,95
+CT,F,1997.0,Casey,88
+CT,,1921.0,Casey,25
+CT,M,,john,410
+CT,F,,Casey,138
+CT,F,1944.0,Casey,36
+CT,M,1969.0,Robert,32
+CT,,1953.0,Linda,44
+CT,F,1974.0,Patricia,135
+ CT ,M,1959.0,John,1001
+CT,F,2015.0,Linda,1078
+CT, M ,1968.0,James,374
+CT,M,,Michael,483
+CT,M,1925.0,,95
+CT, M ,1984.0,Michael,147
+CT,M,1961.0,Jordan,164
+CT, F ,2008.0,Alex,38
+CT,M,, Taylor ,116
+,F,2006.0,Linda,127
+CT,M,1918.0,Jordan,
+CT,M,2003.0,casey,41
+CT,F,1995.0,Casey,115
+CT,M,2019.0,casey,18
+CT,F,1962.0,jordan,
+CT,M,2007.0,Jordan,49
+CT, F ,2017.0,,248
+CT,F,1969.0,Jordan,106
+ CT ,F,2010.0,Linda,928
+CT,F,1970.0,Linda,415
+CT, F ,1973.0,alex,261
+CT,M,1981.0,James,639
+CT,F,1954.0,Linda,212
+CT,,1958.0, Jordan ,319
+CT,M,1942.0,Patricia,72
+CT,M,1932.0,James,28
+ CT ,,2015.0,Casey,480
+ CT , M ,1992.0,Casey,131
+CT,M,1997.0,John,378
+CT,F,2016.0,,369
+CT,F,1976.0,Linda,61
+CT,M,1950.0,,8
+CT,F,1986.0,Taylor,887
+CT,M,1973.0,James,18
+CT,F,,Mary,216
+CT,F,1926.0,Alex,16
+CT,F,2004.0,Mary,11
+CT,M,1985.0,Robert,328
+,F,1959.0,Jennifer,205
+ CT ,M,1971.0,Robert,441
+CT,F,1982.0,Taylor,184
+CT,F,2005.0,Taylor,10
+ CT ,F,1945.0,Jennifer,206
+ CT ,M,1997.0,Jordan,394
+CT,F,1923.0,Alex,283
+CT,F,1994.0,Taylor,485
+CT,M,2006.0,Jordan,126
+,M,1944.0,Taylor,18
+CT,F,1987.0,Casey,89
+CT,F,1988.0,Jordan,112
+,F,1996.0,James,33
+CT,F,1992.0,Taylor,374
+CT,M,1974.0,John,631
+CT,,1975.0,,
+ CT ,,1935.0,Taylor,89
+CT,F,,James,122
+CT, F ,1923.0,mary,23
+CT,F,2005.0,Taylor,10
+,M,1978.0,John,84
+CT,M,1967.0,Robert,799
+CT,F,,Casey,680
+CT,F,1946.0,Casey,198
+CT,F,1940.0,Casey,5
+CT,F,1987.0, Alex ,281
+, F ,2012.0,Taylor,966
+CT,,1970.0,James,643
+CT,M,2021.0,Casey,
+CT,F,1912.0,Jordan,7
+CT,F,2008.0,Robert,25
+CT, F ,1971.0,Jordan,293
+CT,F,1927.0,Mary,133
+CT,,1957.0,Linda,116
+CT, F ,1997.0, Taylor ,150
+CT, F ,1913.0,Mary,72
+CT,F,1985.0,Jordan,543
+CT,F,1946.0, Taylor ,5
+CT,F,1980.0,Mary,386
+CT,,,Jennifer,105
+CT,M,1965.0,James,79
+CT,F,2006.0,Alex,429
+CT,F,1993.0,Jennifer,396
+CT,M,1928.0,Alex,199
+CT, F ,1945.0,Alex,15
+CT, M ,1926.0,Robert,36
+CT,M,2019.0, Robert ,171
+CT,M,2016.0,John,43
+CT,M,1938.0,Alex,41
+CT,F,1914.0,Alex,19
+ CT ,M,1990.0,Robert,967
+ CT ,M,2008.0,,54
+CT,F,1947.0,Taylor,1057
+ CT ,F,1954.0,Casey,809
+CT,F,2021.0,Alex,24
+CT,M,1929.0,Alex,9
+CT,F,1985.0,Robert,327
+CT,M,1938.0,Jordan,15
+CT,M,1988.0,James,474
+CT, M ,1961.0,Casey,110
+CT,M,2000.0, John ,780
+CT,M,1987.0,John,77
+CT, M ,1976.0,Jordan,663
+CT,M,,Taylor,477
+CT,F,1986.0,Alex,222
+CT,F,2013.0,Patricia,42
+CT,F,1943.0,Linda,5
+CT,M,,Robert,173
+ CT ,F,1921.0,Mary,205
+CT, M ,1980.0,Michael,356
+CT,M,2015.0,Michael,6
+CT,M,1920.0,John,10
+CT,M,1983.0,Jordan,49
+ CT ,F,2009.0,Taylor,9
+CT,F,2021.0,Linda,385
+CT,F,1964.0,Casey,877
+CT, F ,2006.0,Mary,57
+CT,F,1973.0,Taylor,977
+CT,M,1976.0,Taylor,221
+CT,,1967.0,,357
+CT,M,1984.0,Casey,442
+CT,M,1989.0,James,411
+CT,M,1973.0,Michael,857
+CT,F,1956.0,Mary,342
+CT, M ,,Mary,7
+CT,F,1964.0,Taylor,59
+CT,F,1998.0,Linda,628
+CT,F,1953.0, Jennifer ,
+CT,M,1962.0,Michael,273
+CT,F,1951.0,Alex,150
+CT,M,1941.0,Jordan,210
+ CT , F ,1982.0,Alex,28
+CT,M,1999.0,John,38
+CT,F,1946.0,jordan,145
+CT,F,1971.0,Casey,399
+CT, M ,2010.0,John,690
+CT,F,1935.0,Jennifer,119
+,F,2018.0,Alex,177
+CT,F,1949.0, Linda ,189
+CT,F,1957.0,Casey,39
+CT,F,1950.0,Taylor,59
+CT,F,2016.0,Jordan,95
+CT,M,1971.0,Taylor,165
+CT, F ,2022.0,Patricia,42
+ CT ,M,2009.0,Michael,141
+CT,M,1985.0,,154
+ CT ,F,1962.0,Jennifer,472
+,M,1931.0,James,9
+CT,M,1993.0, Jennifer ,62
+CT,M,1986.0,Patricia,176
+CT,M,1924.0,Taylor,77
+CT,F,1931.0,Alex,24
+CT,F,1969.0,Taylor,81
+CT,F,2014.0,Taylor,96
+CT,M,1988.0,Linda,153
+,M,1982.0,Casey,70
+CT,M,1984.0,Taylor,359
+CT,F,1980.0,Alex,712
+CT,F,1977.0,Taylor,
+CT,F,1976.0,Jordan,94
+CT,M,2003.0,James,873
+CT,F,2012.0,Alex,435
+CT,M,1914.0,Jordan,5
+CT, F ,2014.0,Linda,31
+CT,M,1985.0,John,543
+CT,F,1958.0,Jennifer,27
+CT,F,1990.0,Patricia,11
+CT, F ,1950.0,Mary,28
+CT,M,1978.0,James,38
+ CT ,F,1935.0, Patricia ,47
+CT,F,1960.0,Jordan,837
+CT,M,2015.0,James,40
+CT, F ,1932.0,Jennifer,43
+CT,M,2016.0,Michael,16
+CT,M,1923.0,Michael,5
+CT,F,2004.0,Linda,326
+ CT ,F,2004.0,Jordan,166
+CT, F ,1973.0,Patricia,363
+CT,,1928.0,Casey,13
+CT,F,1999.0,Linda,176
+CT,F,1991.0,Mary,209
+CT,F,1984.0,Taylor,218
+CT,M,1972.0,,267
+CT,M,1926.0,Taylor,
+CT,F,1961.0,Linda,399
+,F,1952.0,,579
+CT,M,1962.0, Taylor ,214
+ CT ,F,1998.0,Jennifer,518
+CT,M,1969.0,Michael,61
+CT,M,,Alex,195
+CT,M,1929.0,Casey,
+CT,F,2006.0,Jennifer,315
+CT,M,1935.0,Jordan,9
+CT,F,1944.0,Mary,199
+CT,M,2014.0,John,64
+CT,F,1931.0,Michael,
+CT,M,2013.0,John,62
+CT,M,1932.0,Jordan,188
+CT, M ,2006.0,robert,35
+CT,F,1951.0,Mary,
+ CT ,M,1961.0,Taylor,196
+CT,F,1958.0,Casey,304
+CT,F,1965.0,Jordan,762
+CT, M ,1918.0,Casey,8
+CT,M,1964.0,Alex,20
+CT,F,1929.0,Patricia,15
+CT,F,2000.0,Patricia,24
+,,1960.0,Linda,872
+CT,F,2003.0, Patricia ,38
+CT,F,1938.0,Alex,141
+CT,F,1932.0,Taylor,8
+CT,M,2004.0,Alex,107
+,M,2009.0,John,11
+CT,F,1988.0,Patricia,155
+ CT ,M,1950.0,Casey,9
+CT,F,1942.0,Taylor,651
+CT,F,2001.0,Jennifer,30
+CT, M ,1960.0,Jordan,214
+ CT , F ,1955.0,Patricia,761
+,F,2005.0,Linda,25
+CT,M,1981.0,Jordan,673
+ CT ,F,1955.0,Jennifer,621
+CT,F,1953.0,Alex,149
+,F,1961.0,Alex,252
+CT,M,2020.0,John,560
+CT,M,1983.0,James,
+CT,F,,,33
+CT,F,2020.0,Mary,40
+CT,F,1975.0,casey,259
+CT,F,1934.0,Taylor,656
+ CT , F ,1910.0,Alex,7
+CT,M,1922.0,James,45
+CT,F,2003.0,Linda,94
+ CT ,F,,Patricia,326
+CT,M,1983.0,John,172
+CT,F,1956.0,Jordan,31
+CT,F,2018.0,Linda,84
+CT,M,1927.0,James,27
+ CT ,F,2007.0,Jennifer,62
+CT, M ,1951.0,James,342
+CT,M,1952.0,Michael,50
+CT,F,1933.0,Casey,5
+,,1959.0,,20
+CT, F ,2014.0,Casey,72
+ CT ,F,1975.0,Alex,185
+CT,M,1927.0,Alex,47
+CT,F,1967.0,Patricia,960
+ CT ,F,1980.0,Jennifer,423
+ CT ,F,2007.0, Linda ,173
+,F,1952.0,Taylor,111
+CT,,1992.0,Alex,28
+CT,M,1995.0, James ,347
+ CT ,M,2015.0,Alex,7
+CT,M,1936.0,James,74
+CT,F,1968.0,linda,95
+ CT ,M,1958.0,Casey,37
+CT,M,,John,227
+CT, F ,1969.0,Casey,171
+CT,F,1917.0,Patricia,19
+CT,M,2013.0,Michael,55
+CT,F,2013.0,Jordan,
+ CT ,F,2002.0,Taylor,525
+CT,M,,Casey,17
+CT,M,2015.0,Jordan,356
+CT, M ,1951.0,Robert,148
+CT,F,2017.0, Patricia ,5
+CT,M,1947.0,michael,26
+CT,M,2018.0,Robert,383
+CT,M,1998.0,Michael,87
+CT,,1993.0,Linda,361
+CT,M,2004.0,Taylor,447
+CT,F,1939.0, Taylor ,32
+CT,F,2000.0,Linda,7
+CT, F ,1988.0,Taylor,185
+CT,F,1984.0,,475
+CT,F,1936.0,Linda,49
+CT,F,1984.0,,88
+CT,M,1986.0,James,61
+CT,F,1994.0,Alex,1371
+CT,M,1954.0,Robert,292
+CT, M ,1972.0,Jordan,670
+ CT , F ,1997.0,Linda,328
+CT,M,1991.0,Jordan,280
+ CT ,F,1990.0,Taylor,130
+CT,M,2022.0,Mary,
+CT,F,1992.0,Mary,
+CT,M,1945.0,John,
+CT,,1954.0, Alex ,132
+ CT ,F,1992.0,patricia,135
+CT,F,,Mary,460
+CT,F,2014.0,James,500
+, M ,1987.0,,866
+CT,F,1964.0,Jennifer,228
+CT,M,1947.0, Casey ,795
+CT,F,1987.0,Jordan,139
+CT,F,1951.0,Jordan,140
+CT,M,1948.0,Alex,132
+ CT ,F,1978.0,Jennifer,148
+CT,F,2005.0,,84
+ CT ,F,1959.0,Casey,27
+CT,F,1930.0,Linda,30
+CT,,1929.0,Taylor,410
+CT,M,1964.0,Taylor,104
+CT,M,1999.0,Robert,
+CT,M,1948.0,Taylor,18
+CT,F,1954.0,jennifer,723
+CT,M,1963.0,Michael,353
+CT,M,1986.0,Jordan,118
+CT,,2016.0,Taylor,14
+CT,M,1972.0,Taylor,94
+CT,F,1935.0,Alex,207
+CT,M,1985.0,Alex,
+CT,M,1919.0, Alex ,27
+CT,M,2016.0,James,16
+CT,F,2015.0,Alex,13
+CT,,1983.0,Alex,494
+CT,F,1968.0,Jennifer,152
+,F,1941.0,Mary,89
+CT,M,1932.0,Michael,183
+ CT ,M,1941.0,Robert,645
+ CT ,F,1934.0,Mary,5
+CT,F,1975.0, Linda ,228
+ CT ,F,1956.0, Jennifer ,19
+CT,F,1987.0,Patricia,855
+CT,F,2014.0,Mary,119
+CT,M,1977.0, John ,223
+CT,F,2004.0,Casey,170
+CT,M,1954.0,Casey,103
+ CT ,M,2005.0, James ,726
+CT,M,1960.0,Taylor,150
+CT,,1997.0,Taylor,180
+ CT ,M,2008.0,Robert,405
+ CT ,M,2014.0,Alex,8
+CT,F,1942.0,Linda,
+CT,F,1939.0,Linda,164
+CT,F,2015.0, Casey ,23
+CT,M,1989.0,Robert,390
+CT,,2022.0,Taylor,28
+CT,F,1999.0,Jordan,273
+CT,M,1971.0,Casey,608
+CT,F,1924.0,Patricia,13
+CT,M,1990.0,Alex,178
+CT,F,1985.0,,
+ CT ,F,,Mary,561
+ CT ,M,,John,
+CT,M,2002.0,Casey,137
+CT,M,1956.0,John,60
+CT, F ,1940.0,Alex,148
+CT,M,1937.0,Alex,48
+ CT ,M,1979.0,Robert,55
+,F,,Casey,262
+CT,F,1940.0,Taylor,7
+CT,F,1947.0,jordan,725
+ CT ,F,2003.0,Jordan,
+CT,M,1951.0,,40
+CT,F,1998.0,Alex,385
+CT,M,1955.0,John,691
+CT,F,2011.0,Casey,140
+CT, F ,1974.0,Taylor,784
+CT,F,1993.0,Alex,42
+ CT , F ,1986.0,Linda,71
+CT, M ,1983.0,Robert,26
+CT,F,1969.0,Jennifer,74
+CT,M,1943.0,Robert,62
+CT,F,1974.0,Jennifer,456
+CT,M,1945.0,Michael,631
+CT,M,2021.0,James,78
+CT,M,1973.0,Casey,236
+CT,F,2004.0,Patricia,296
+CT,M,1953.0,Jordan,151
+ CT ,M,1976.0,Alex,420
+CT,F,1983.0,Mary,59
+CT,M,1966.0,Casey,575
+CT,M,1924.0,Jordan,33
+, M ,1996.0,Michael,1030
+CT,M,1950.0,Jordan,286
+ CT ,F,1955.0,Jordan,97
+CT,F,1969.0,John,1145
+CT,M,1942.0,Taylor,143
+ CT ,M,1972.0,Michael,227
+CT,M,1995.0,John,566
+CT,M,1920.0,Casey,5
+ CT ,M,1941.0, Casey ,143
+CT,F,1972.0,,380
+CT,M,2009.0,Jordan,593
+CT,M,1934.0,Taylor,31
+CT,F,1989.0,Mary,162
+CT,F,2001.0,Linda,178
+CT,F,2022.0,Casey,95
+CT,M,2012.0,John,41
+CT,F,2008.0,Casey,45
+CT, M ,1977.0,Jordan,539
+CT,M,1943.0,Alex,12
+CT,M,1998.0,,6
+, F ,1993.0,Patricia,136
+CT,F,2000.0,Mary,714
+CT,M,1979.0, Michael ,447
+,F,1996.0,Mary,39
+CT,M,1945.0,Robert,104
+CT,M,1937.0,James,317
+CT,M,, John ,192
+CT,F,1930.0,Alex,
+CT,F,2001.0,,207
+,F,1980.0,Taylor,470
+CT,F,1976.0,Casey,501
+CT,M,1911.0,Alex,12
+CT,F,1949.0,Jennifer,328
+CT,M,1934.0,Robert,10
+CT, M ,2001.0,John,880
+,M,1992.0,Robert,858
+CT,M,2018.0,James,247
+CT,M,1961.0,michael,169
+CT,M,2021.0,Michael,145
+CT,F,1961.0,Taylor,417
+CT,M,2003.0,Taylor,181
+CT,F,1949.0,Jordan,282
+CT,,2020.0,Patricia,97
+CT,M,1992.0, John ,720
+CT,M,1965.0,Taylor,28
+CT,F,2009.0,Mary,303
+ CT ,M,1933.0,Michael,41
+CT,M,1939.0,John,
+CT,M,1984.0,Robert,22
+CT,F,1929.0,Mary,539
+CT,F,1911.0,Casey,43
+CT, F ,1968.0,Patricia,338
+,F,1957.0,Jennifer,303
+CT,F,1987.0,Linda,370
+CT,M,1978.0,Taylor,112
+CT,M,1956.0,Robert,56
+, M ,1974.0,,149
+CT,F,2011.0,alex,62
+CT,F,1945.0,Linda,74
+CT,M,1990.0,Taylor,214
+CT,F,1984.0,casey,17
+CT,M,1978.0,Michael,42
+CT,M,2005.0,Michael,300
+CT,M,2009.0,Casey,132
+CT, M ,1998.0,James,41
+CT,M,1939.0,Alex,10
+CT,F,1968.0,Alex,287
+CT,F,2005.0,Casey,550
+CT,M,1969.0,Taylor,828
+CT,M,1917.0,Taylor,59
+ CT ,M,1971.0,Michael,
+CT,F,1965.0,Linda,561
+CT,M,1941.0,,12
+CT,F,,Jordan,373
+CT,M,1974.0,Michael,264
+ CT ,F,1916.0,Casey,76
+CT,F,,Taylor,469
+CT,M,2000.0,Casey,578
+CT,M,,Linda,343
+CT,F,1958.0,Mary,28
+CT,M,2014.0, Michael ,561
+CT,F,1993.0,Jordan,268
+CT,F,1955.0,Alex,9
+CT, M ,1929.0, Robert ,11
+CT,M,1930.0,Casey,69
+CT,F,1953.0,Patricia,596
+CT,M,1949.0,Jordan,23
+CT,F,1983.0,Casey,508
+CT,M,1935.0,Alex,33
+ CT ,M,2005.0,Taylor,140
+CT,F,1938.0,Jordan,13
+CT,F,1930.0,Jordan,61
+CT,F,1998.0,Casey,199
+ CT ,M,1947.0,Jordan,237
+CT, M ,1952.0,Jordan,43
+CT,F,2009.0,Casey,830
+CT,F,2022.0,Linda,293
+ CT ,M,2002.0, Robert ,602
+CT,M,1924.0,,65
+ CT ,M,1988.0,,271
+CT,M,1987.0,Alex,437
+CT, M ,,John,
+CT,M,1986.0,Michael,646
+CT,M,1992.0,Jordan,195
+CT,F,2020.0,Linda,692
+CT,F,1912.0,,44
+ CT ,M,2002.0,Michael,345
+ CT ,F,1960.0,Alex,309
+CT,M,,Jordan,706
+CT,F,1972.0,Taylor,331
+CT,F,2000.0,Jennifer,9
+CT,F,2015.0,Patricia,334
+CT,M,1930.0,Taylor,47
+CT,M,1957.0,Jordan,153
+CT, M ,2004.0,Michael,424
+CT, M ,2013.0,James,597
+CT,M,1953.0,Casey,17
+CT,F,2018.0,Jordan,
+CT, F ,1998.0,Jordan,111
+CT,F,1920.0,Jordan,
+CT,M,1974.0,Alex,213
+CT,M,1929.0,Jordan,5
+CT,M,1971.0,Jordan,96
+CT,M,1910.0,Alex,42
+CT,M,1974.0,Casey,718
+CT,M,1969.0,Alex,793
+CT, M ,1957.0, Taylor ,188
+ CT ,M,1972.0,John,444
+CT,,2002.0,Casey,41
+CT,F,1966.0,Jennifer,146
+CT,F,1977.0, Alex ,952
+CT,F,,Mary,903
+CT,M,1912.0, Jennifer ,13
+ CT ,M,1994.0,Casey,
+CT, F ,2010.0,Mary,210
+CT, F ,,Jordan,621
+CT,M,1935.0, James ,117
+CT,M,2006.0,John,464
+CT,M,1994.0,Jordan,843
+CT,M,1987.0,Casey,1019
+CT,M,1957.0, Alex ,197
+CT,M,2013.0,Alex,54
+CT,M,1951.0,John,108
+CT,F,1928.0,,
+CT,F,1971.0, Mary ,886
+,M,2020.0,Robert,100
+ CT ,F,1939.0,Casey,43
+CT,F,1941.0,Taylor,40
+CT,M,1931.0,Taylor,34
+CT,F,2015.0,Mary,347
+CT,,1939.0,Taylor,136
+,M,1923.0,Robert,6
+CT,F,1925.0,John,246
+CT,F,,Casey,29
+CT,,1972.0,Jennifer,189
+ CT ,F,,Linda,145
+CT,M,1962.0,James,614
+CT,F,1926.0,patricia,14
+CT,M,1962.0,Patricia,183
+CT,F,,Patricia,526
+,M,1991.0, Michael ,121
+,F,1935.0,Jordan,230
+CT, M ,2019.0,Jordan,276
+CT, F ,2017.0,Alex,208
+CT,F,1947.0,Patricia,109
+CT,F,1924.0,Taylor,23
+CT,M,1975.0,casey,33
+CT,,1918.0,Linda,13
+CT,M,,John,262
+CT,M,1916.0,Casey,33
+CT, F ,1949.0,Taylor,
+CT,F,,jennifer,870
+CT,F,1934.0,Jennifer,87
+CT,M,1947.0,James,175
+CT,M,1970.0,Jordan,55
+CT,,1975.0,,284
+ CT ,M,2020.0,,26
+CT,M,1989.0,John,292
+ CT ,F,1985.0,Jennifer,940
+CT,F,1935.0,Linda,11
+CT,,1978.0,Jordan,153
+CT,F,1925.0,Alex,294
+CT,F,1980.0,Linda,260
+CT,M,1994.0,John,
+CT,F,2022.0,Taylor,386
+CT,F,2011.0,Linda,11
+CT,M,1940.0,John,5
+CT,F,1937.0,Taylor,39
+CT,M,1993.0,Robert,354
+CT, M ,,Linda,267
+CT,M,1964.0,Patricia,210
+CT,F,1933.0,Jordan,163
+CT,F,2007.0,Mary,
+,F,1999.0,Jennifer,10
+CT, F ,1978.0,Jordan,95
+ CT , F ,1994.0,Linda,51
+ CT , F ,2008.0,Mary,8
+ CT ,,1926.0,Alex,10
+CT,M,2001.0,Mary,832
+CT,M,1996.0, Alex ,275
+CT,M,1979.0,Jordan,639
+CT,F,,Casey,
+ CT ,F,1980.0,Jordan,241
+CT,M,1930.0,Alex,9
+CT,M,1933.0,Jordan,
+,F,1996.0,Casey,1136
+CT, F ,,Jordan,45
+CT,F,1930.0,Jennifer,240
+CT,M,2002.0,Jennifer,557
+CT, M ,2001.0,,46
+CT,M,1960.0,James,248
+CT,F,1977.0, Mary ,
+ CT ,F,1952.0,James,446
+,F,1993.0,Casey,134
+CT,M,1944.0,Jordan,22
+CT,M,1921.0,Michael,25
+CT,F,1956.0,Taylor,491
+CT,F,1957.0,Jordan,149
+CT,M,1974.0,jordan,376
+ CT ,M,1945.0,Casey,53
+CT,F,2000.0,Casey,
+CT,M,1989.0,Alex,67
+CT,F,1992.0,Casey,
+ CT ,F,2000.0,Alex,177
+CT,F,1964.0,Mary,202
+ CT ,F,2020.0,Jordan,54
+CT,,2003.0,Jennifer,156
+CT,M,2001.0,Jordan,537
+,F,1931.0,Jordan,40
+,M,2002.0,Jordan,
+CT,M,1988.0,Jordan,1151
+ CT ,F,1911.0,Mary,9
+CT,F,1945.0,Casey,40
+CT,F,1911.0,John,28
+CT,,1983.0,Casey,299
+ CT , M ,2014.0,James,249
+CT,M,2000.0,Robert,5
+CT,F,1951.0,Casey,31
+CT,M,1992.0,james,70
+CT,M,1931.0,John,75
+CT,F,2009.0,,5
+CT,M,,James,463
+,F,1930.0,,22
+CT,F,1985.0,Michael,127
+CT,F,1995.0,taylor,59

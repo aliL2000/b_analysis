@@ -1,1647 +1,1683 @@
-stateCode,gender,birthYear,firstName,numOccurrences
-UT,F,1974.0,Jordan,232
-UT,F,1994.0,Alex,661
-UT, M ,,Taylor,341
-UT,F,1969.0,Jennifer,148
-UT,,1915.0,James,69
-UT,F,1997.0,Jennifer,
-UT,F,1947.0,Taylor,47
-UT,M,2000.0,Mary,388
-,F,1994.0,Jennifer,200
-UT,F,1995.0,Alex,174
-UT, M ,1999.0,James,971
-,F,1957.0,Linda,50
-,F,1938.0,Alex,70
-UT,M,1953.0,,16
-UT,M,1943.0,James,27
-UT,F,2015.0,Alex,13
-UT,M,1996.0,John,135
-UT,M,1979.0,,265
-UT,M,1940.0,Taylor,145
-UT,F,1968.0,Alex,53
-UT,M,1921.0, James ,25
-UT,M,1967.0,,885
-UT,F,1988.0,Taylor,61
-UT, M ,1948.0,Mary,282
-UT,M,1979.0,Patricia,493
-UT,F,1971.0,Alex,164
-UT,M,,John,18
-,M,2015.0, Robert ,
-UT,M,1999.0, Alex ,375
-UT,M,1979.0,michael,201
-UT,F,1937.0,Jennifer,137
-UT,F,1951.0,Alex,894
-UT,M,1959.0,Casey,20
-UT,F,1974.0,Alex,360
- UT ,F,2015.0,Patricia,337
- UT ,F,,Casey,226
-UT,F,1996.0,,231
-UT,M,2010.0,Casey,5
-,M,1923.0,Casey,9
- UT ,F,1931.0,Linda,177
-UT,M,1966.0,,75
- UT ,M,1986.0,john,476
-UT,,1981.0,Casey,674
-UT,F,2012.0,Casey,310
-UT,F,2006.0,Jordan,440
-UT, M ,1929.0,Alex,15
-UT,M,1965.0,Michael,661
-UT,F,1973.0,Alex,360
-,M,1915.0,Jordan,77
-UT, F ,,Linda,161
-UT,F,1953.0,Jordan,235
-UT,F,1993.0,Jennifer,46
-,F,1960.0,Alex,45
-UT,F,,Taylor,511
-UT,M,1984.0,James,433
-UT,F,1937.0,Alex,35
-UT,M,2009.0,John,74
-UT,,1950.0,Jordan,63
-UT,F,2005.0,Mary,22
-UT,F,1996.0,jordan,495
-UT,M,1981.0,James,861
-UT,F,1990.0, Jordan ,55
-UT,M,1994.0,Jordan,445
-UT,F,1969.0,Alex,
- UT ,M,1932.0,Alex,
-UT,M,1977.0,Alex,161
-UT,M,1997.0,Linda,47
-UT,M,1981.0,Robert,174
-UT,F,1951.0,Taylor,46
-UT, F ,1927.0,Linda,78
- UT ,F,1991.0,Patricia,63
-UT,M,2017.0,Casey,694
-UT,M,1936.0,Casey,273
-UT,M,2020.0,,306
-UT,M,1984.0,Casey,11
-UT,F,2014.0,Casey,21
-UT,F,1980.0,,239
-UT,M,2000.0,James,365
-UT,F,1980.0,Taylor,302
-UT,M,1950.0, Casey ,890
-UT,M,1980.0,james,566
-UT,M,1982.0,Patricia,732
-UT,F,1964.0,Alex,96
-UT,M,1975.0, Casey ,142
-UT,M,2016.0,Taylor,9
-UT,M,1961.0,Michael,1072
- UT ,F,1943.0,Taylor,86
-UT,M,1935.0,Casey,299
- UT ,F,2003.0,Taylor,56
-UT,,2013.0,Jordan,27
-UT,M,1989.0,James,1033
-UT,M,1942.0,Michael,408
- UT ,F,1928.0,Robert,49
-UT,M,2003.0,Alex,398
-UT,F,1971.0, Casey ,225
-UT,M,1944.0,James,218
-UT,F,2012.0, Alex ,
-UT,M,2015.0,Casey,216
-UT,,2013.0,John,104
-UT,M,1987.0,,296
-UT,M,1982.0,Michael,200
-UT,F,1933.0,Alex,388
-UT,F,2007.0,Jennifer,151
-UT,,2000.0,jordan,191
-UT,M,1988.0,James,464
-UT,M,1976.0,James,607
-UT,M,,Taylor,14
-UT,F,1974.0,Taylor,56
-UT,M,1966.0,Michael,29
-UT,F,1976.0,Taylor,291
-UT,F,2005.0,Casey,370
-UT,M,1972.0,Linda,534
-UT,F,1930.0,Alex,273
-UT,F,2009.0,Mary,7
-UT,F,1983.0,mary,245
- UT ,F,2009.0,Jennifer,236
-UT,F,1933.0,Jordan,
-UT,M,1968.0,Robert,268
-UT,M,1942.0,,23
-UT,F,2017.0,Jordan,115
-UT, F ,1967.0,Jennifer,528
-UT,F,1924.0,Casey,12
-UT,M,1973.0,,424
-UT,F,2013.0,Linda,52
-UT,M,2006.0,Taylor,426
-UT,F,1963.0,Alex,22
-UT,M,1967.0,taylor,671
-UT,M,,jordan,58
-UT,M,2006.0,James,166
- UT ,F,1962.0,Jennifer,549
-UT,F,2011.0,Jennifer,113
-UT,F,2013.0,Casey,107
-UT,F,1981.0,Linda,61
-UT,M,1995.0,Robert,525
-UT,F,2007.0,Mary,449
-UT,F,2018.0,Jordan,56
-UT,F,,Taylor,55
-UT,M,2019.0,james,6
-UT, M ,1968.0,Taylor,312
-UT,M,1945.0,Linda,58
-UT,M,1972.0,James,962
-UT, M ,1945.0,Casey,17
-UT, M ,2011.0,John,642
-UT, M ,1914.0,Alex,84
-UT,F,1949.0,Taylor,
-UT,M,1989.0, Alex ,991
-UT, F ,,Taylor,339
-UT,M,1961.0,Robert,777
-UT,,1984.0,John,548
-UT,F,2014.0,Jordan,433
-UT,F,1947.0,Linda,70
- UT ,,1954.0,Taylor,74
-UT, F ,1919.0,Robert,11
-UT,M,1940.0,James,67
-UT,M,1976.0,Taylor,675
-UT,M,1914.0,Robert,28
-UT, F ,1990.0,Taylor,629
-UT,F,1921.0,Taylor,36
-,F,,Jennifer,27
-UT,F,1994.0,Patricia,23
-UT,F,1955.0,Alex,26
- UT ,F,1977.0,Mary,166
-UT,M,1936.0,Robert,12
- UT ,M,1991.0,James,294
-UT,F,1938.0,Jennifer,36
- UT ,F,1992.0,Casey,435
-UT,M,1921.0,Jordan,33
-UT,M,1929.0,Jennifer,15
-UT,F,1979.0,Taylor,592
-UT,F,,Jordan,138
-UT,M,1975.0,Linda,894
-UT,M,1996.0,alex,389
-UT,M,1962.0,Michael,219
-UT,F,1987.0,Alex,41
-UT,F,2020.0,Jordan,67
-UT,F,1922.0,Jennifer,129
-UT,M,1945.0,Jordan,117
-UT,F,1934.0,Taylor,25
-UT,M,1960.0,Jordan,59
-,F,1946.0,Linda,145
-UT,M,2016.0,Casey,238
-UT,F,2016.0,Taylor,67
-UT, M ,,Robert,315
-UT,F,2001.0,Mary,113
-UT,M,2004.0,alex,63
-UT,F,1985.0,Alex,49
-UT,M,2001.0,Jordan,504
-UT,F,1958.0,Alex,43
-UT,F,1946.0,Casey,429
-UT,F,1952.0,Robert,29
-UT,M,1936.0,Alex,341
-UT,F,1978.0,Mary,219
-UT, M ,2001.0,Casey,7
-UT,F,1945.0,Jordan,76
-UT,M,2006.0,,597
-UT,M,1969.0, Casey ,
-UT,M,1929.0,John,322
-UT,M,1958.0,Casey,184
-UT,F,1947.0,casey,149
-UT,F,1943.0,Jordan,271
-UT,M,2012.0,John,96
-UT,M,1966.0,Taylor,853
- UT ,F,1995.0,Jennifer,280
-UT, M ,,Alex,642
-,M,1995.0,Alex,935
-UT,M,1987.0,Robert,231
- UT ,F,1993.0,Patricia,
-UT,F,1970.0,Casey,142
-UT,F,1922.0,Jordan,17
-UT,,1974.0, Patricia ,534
-UT,M,1992.0,Michael,158
-UT,,2011.0,Casey,33
-UT,F,1974.0,Jennifer,107
-UT,F,2014.0,Mary,111
-UT,M,1947.0,James,145
- UT ,M,1990.0,Alex,44
-UT, F ,1957.0,Patricia,341
-UT,M,1923.0,Taylor,338
-UT,M,1955.0,John,73
-UT,F,1975.0,Linda,164
-UT,F,2005.0,Jordan,243
-UT,M,1970.0,Taylor,387
- UT , F ,1970.0,linda,64
-UT, M ,1994.0,John,37
- UT ,F,1954.0,Casey,99
-UT,,1976.0, Alex ,270
-UT,M,1983.0,Jordan,
-UT,M,1989.0,Mary,274
- UT ,F,1929.0,Patricia,
- UT ,F,1937.0,Casey,356
-, F ,2007.0,Casey,279
-UT,M,1991.0,Alex,1071
-UT,,,Linda,38
-UT,F,2019.0,Mary,105
-UT,F,1935.0,Taylor,58
-UT,M,1942.0,Alex,205
- UT ,F,1980.0,Patricia,420
-UT,F,1942.0,Casey,125
-UT,F,1945.0,Casey,76
-UT,F,1966.0,Mary,216
-,M,1977.0,Robert,262
-UT,M,1952.0,james,
-UT,F,1945.0,Taylor,85
-UT,M,1978.0,robert,20
-UT,M,1919.0,Casey,77
-UT, M ,2017.0, James ,17
- UT ,M,1952.0,Jordan,130
-UT,F,1980.0,Casey,1422
-UT,M,,James,13
-UT,F,1914.0,Jennifer,
-UT,F,,Alex,147
-UT,F,1986.0,Patricia,104
- UT , F ,2000.0,Taylor,16
-UT,M,1962.0,Jordan,314
-UT,F,1993.0,Casey,56
- UT ,M,1975.0,Michael,24
-UT, F ,1967.0,Linda,84
-UT,F,1964.0,Casey,66
-UT,F,2000.0,Robert,582
-UT,F,1965.0,Casey,81
-UT,M,1987.0,Casey,169
-UT,M,1954.0,Michael,7
-UT, F ,1995.0, Jordan ,221
-UT,F,1947.0,Jordan,
-UT,F,1952.0,Patricia,188
-UT,F,1934.0,Mary,21
-UT,F,1942.0,Alex,203
-UT,M,1966.0,Robert,907
-UT,F,1991.0,Jennifer,213
- UT ,F,1971.0,Taylor,353
-UT,M,2000.0,Robert,407
-UT,,2000.0,Linda,145
- UT , M ,1992.0,James,138
-UT,F,1970.0,Alex,320
-UT,,1991.0,Taylor,499
-UT,M,1949.0,Michael,113
-UT,M,,,94
-UT, F ,1948.0,Jordan,203
-UT,F,1940.0,Patricia,61
- UT ,,1948.0,Patricia,55
-UT,F,1949.0,Patricia,179
-UT,M,1952.0, Alex ,263
-UT,M,2003.0, Michael ,31
-UT,F,2010.0,Casey,834
-UT,F,1967.0,Patricia,738
- UT , M ,2002.0, Casey ,901
-UT,M,1987.0,James,34
-UT,M,2014.0,alex,47
-UT,F,1994.0,Mary,371
-UT,,1969.0,,638
-UT,M,1996.0,Michael,48
-UT,M,1994.0,James,
-UT,M,1997.0,Robert,34
-UT,F,2003.0,Patricia,23
-UT, M ,,Alex,8
-,M,2019.0,John,307
-UT,F,1994.0,Casey,370
- UT ,F,1984.0,Alex,
-UT,M,1984.0,Robert,23
-UT, M ,2003.0,James,82
- UT ,F,1962.0,Jordan,716
-UT,F,1917.0,Mary,17
- UT ,M,2022.0,John,183
-UT,F,1961.0, Casey ,113
-UT,M,1998.0,Robert,516
-UT,,2004.0,Robert,162
-UT,F,1935.0, Linda ,234
-UT,M,,,8
-UT,F,,Alex,5
-UT,M,1983.0,Alex,206
-UT,F,,Alex,219
-UT,F,1999.0,Casey,80
- UT ,M,1947.0,Alex,278
-UT,M,2015.0,Alex,86
-UT,M,1958.0,Michael,28
-UT,F,1968.0,Linda,492
- UT ,M,2002.0,Michael,166
-UT, M ,2019.0,Robert,285
-, F ,1953.0,Casey,478
-,F,1979.0,Casey,488
- UT ,M,1964.0,Casey,275
-UT,M,1917.0,,41
-UT,F,1982.0,Jordan,
-UT,M,1997.0,Jordan,496
-UT,F,2011.0,Alex,675
-UT,F,1970.0,Jennifer,1064
- UT ,F,2006.0,Alex,15
-UT,F,1951.0,Casey,142
-UT,M,1939.0,Alex,7
-UT,F,1987.0,Jordan,
-UT,M,1962.0,Jordan,314
-UT,,2021.0,Michael,68
-UT,M,2009.0,James,185
-UT,F,1940.0,Jordan,10
-UT,M,1968.0,Casey,141
-UT,F,2001.0,Jennifer,376
-UT,M,1964.0,Taylor,90
-UT, M ,1961.0,Taylor,799
-,F,1969.0,Robert,520
-UT, M ,1933.0,alex,166
-UT,F,1919.0,linda,41
-UT,F,2013.0,Jennifer,128
-UT,M,1978.0,John,296
-UT,F,1967.0,Alex,791
-UT,M,1926.0,Michael,71
- UT , M ,1951.0,Casey,101
-UT,F,1922.0,Patricia,75
-UT,M,1968.0,Michael,388
-UT,M,1995.0,Linda,355
-UT,M,1955.0,Michael,20
-UT,F,1980.0,Alex,555
-UT,F,1960.0,Patricia,110
-UT,F,2016.0,Casey,14
-UT,F,1955.0,Jordan,202
-UT,M,2012.0,Taylor,111
-UT,F,1954.0,Mary,
-UT,F,1979.0, Linda ,89
-UT,F,1965.0,,258
-UT,M,2005.0,John,392
-UT, M ,2005.0,Robert,7
-UT,F,1972.0,Alex,113
-UT, M ,1974.0,Casey,12
-UT,M,1959.0,Taylor,419
-UT,M,1974.0,Mary,127
-UT,M,1969.0,Jordan,749
-UT,F,1989.0,Taylor,230
-UT, F ,1959.0,Patricia,234
-UT,,1976.0,Mary,310
-UT,F,2022.0,casey,7
-UT,M,1952.0, Linda ,28
- UT ,M,1966.0,Alex,219
-UT,M,1910.0,Jordan,
-UT,F,1939.0,Mary,21
-UT,M,1991.0,John,134
-UT,M,1997.0,James,58
-UT,F,2016.0,Jennifer,344
-UT,F,1967.0,Taylor,101
-UT,F,2008.0,Taylor,97
-UT,M,1949.0,Alex,29
-UT,M,1989.0,taylor,35
-UT,M,1988.0,,
-,M,2021.0,,77
-UT,F,1929.0,Alex,14
-UT,M,1985.0,James,464
-UT,M,2002.0,Alex,23
-UT,M,2005.0,Linda,553
-UT,M,1953.0,John,5
-UT,,1967.0,Michael,226
-UT,F,1942.0,Jennifer,5
-UT,M,1924.0,Taylor,64
-UT,F,1924.0,Patricia,13
-UT,M,1933.0,Casey,43
-UT,F,1958.0,Taylor,41
-UT,M,2010.0,Taylor,6
-UT,M,1977.0,,
-UT,M,2005.0,Michael,504
-UT,M,1928.0,Alex,76
-UT,,1986.0,Taylor,170
-UT,M,2017.0,Robert,579
-UT,M,2015.0,Jordan,
-UT,M,1980.0,Casey,709
-UT, F ,2001.0,robert,821
-UT,F,2016.0,Alex,325
-UT,M,1944.0,Robert,379
-UT,F,1910.0,Taylor,14
-UT,F,1928.0,jordan,36
-UT,M,1931.0, Casey ,143
- UT ,M,1934.0,Robert,181
-UT,M,1958.0,robert,206
-UT,M,1950.0,John,14
-UT,M,2005.0,Taylor,124
-UT,,2019.0,Linda,24
-UT,F,2022.0,Taylor,67
-UT,M,1993.0,Casey,797
-UT,M,1958.0,Jordan,681
-UT,M,1986.0,Taylor,317
-UT,F,1976.0,Patricia,41
-UT,M,1949.0,John,7
-UT,F,1986.0,,337
-,F,1955.0,Jennifer,132
-UT,F,2004.0,Patricia,618
- UT ,F,1977.0,Linda,295
-UT,M,2002.0,Jordan,43
-UT,M,1955.0,Linda,31
- UT ,M,1937.0,Jordan,145
-UT,M,1931.0,Robert,180
- UT ,F,2008.0,Patricia,25
-UT,F,1959.0,Casey,6
-UT,M,1978.0,Casey,869
-UT,F,2016.0,Casey,14
-UT,M,2000.0,Casey,968
-UT, M ,2007.0,Jordan,67
-UT,M,1953.0,Michael,5
-UT,M,1999.0,,
-UT,F,1982.0,Casey,
- UT ,F,2003.0,James,68
-UT,F,2018.0,taylor,32
-UT,M,1995.0,James,
-UT,M,,,691
-UT,F,2020.0,Taylor,248
-UT,M,1983.0,James,215
-UT,M,1928.0,Robert,9
-UT,M,1981.0,Michael,507
-,M,1932.0,Michael,269
-UT,M,1950.0,Alex,
-UT,M,,Casey,29
-UT,F,1998.0,Casey,10
-UT,F,1952.0,Taylor,7
- UT ,M,1938.0,Michael,9
-UT,M,1938.0,John,351
-, F ,2011.0,Casey,628
- UT ,F,,,180
-UT,F,1950.0,Jennifer,84
-UT,F,1935.0,Alex,27
-UT,M,1987.0,alex,1382
- UT , F ,2004.0,Casey,318
-UT, M ,1922.0,Jordan,60
-UT,M,1951.0,Alex,
-UT,F,1973.0,Linda,310
-UT,M,1974.0,James,229
-UT,F,1985.0, Jennifer ,38
-UT,F,2017.0,Patricia,338
-UT,F,1935.0,,382
-UT,M,1917.0,Michael,32
-UT,M,1963.0,Casey,472
-UT,M,1912.0,Taylor,52
-UT,F,1930.0,Jennifer,65
-UT,F,1971.0,patricia,481
-UT,M,1945.0,James,
-UT, F ,1963.0,Taylor,960
-UT, M ,1955.0,james,5
-UT,M,1985.0,Michael,781
-UT,M,2017.0,Jordan,537
-UT,F,1969.0,Jordan,943
-UT,M,,Jordan,533
-UT,M,1942.0,John,63
-UT,M,2000.0,Jennifer,87
-UT,M,1917.0,Jordan,97
-UT,F,1958.0,Jennifer,47
-UT,F,2006.0,Jennifer,64
-UT,M,2014.0,james,14
-UT,M,1971.0,Alex,457
-UT,F,1992.0,Jennifer,179
-UT,F,1924.0,Jordan,136
-UT,F,1991.0,Alex,343
-UT,F,1955.0,linda,55
-UT, F ,1920.0,Jordan,5
-UT,M,1952.0,Robert,796
-UT,F,1990.0,Patricia,322
-UT,F,2012.0,Mary,281
-UT,M,1976.0,Linda,197
-UT,F,1995.0,,147
-UT,F,2015.0,Mary,8
-UT,F,2012.0,John,462
-UT,M,1958.0,James,18
-UT,M,1977.0,Jordan,111
-UT,F,1992.0,Linda,852
-UT,F,1915.0,Casey,9
-UT,F,2022.0,,56
-UT,M,1922.0,,21
-UT,M,1987.0,,302
-UT,M,1975.0,taylor,263
-UT,F,1947.0, Mary ,87
-UT,M,1953.0,Jordan,76
- UT ,F,2021.0,Linda,5
-UT,F,1987.0,Jennifer,271
-UT,F,1988.0,Alex,204
-UT,M,1983.0,Patricia,7
-,M,1980.0,Taylor,68
-UT,F,1990.0,Jennifer,571
- UT , F ,1977.0,Patricia,29
-UT,F,2002.0, Casey ,
-UT,M,,James,195
-UT,M,2018.0,Jordan,30
-UT,F,1986.0,,337
-UT,F,2020.0,Casey,5
-UT,M,1941.0,John,103
-UT, F ,1958.0,Linda,305
-UT, M ,1941.0,Casey,47
-UT, F ,, Alex ,86
-UT,M,1944.0,alex,35
-UT,F,1985.0,Linda,39
-UT,M,1914.0,Taylor,14
-UT,M,1989.0,John,569
- UT ,M,1973.0,James,161
-UT,M,1974.0,Taylor,872
-UT, F ,1978.0,Jennifer,865
-UT, M ,1963.0,Taylor,489
-UT,F,1936.0,Taylor,7
-UT,M,1934.0,Taylor,
-UT,M,2008.0, Taylor ,363
-UT,M,1954.0,Taylor,108
-UT,M,2018.0, Taylor ,73
-UT,M,1977.0,John,326
-UT, F ,2003.0,Linda,7
- UT ,F,1961.0,Jennifer,62
-UT,F,1915.0,Jordan,24
-UT,F,1968.0,Mary,50
-UT,M,1987.0,Taylor,215
-UT,M,2015.0,John,273
-UT,M,2015.0,Taylor,27
-UT, M ,1970.0,James,413
-UT,F,,Jordan,572
-UT,M,1961.0,John,48
-UT,,1971.0,John,311
-UT,F,2001.0,Casey,31
-UT,F,2013.0,Mary,30
-UT,F,2001.0,Jordan,103
-UT,F,1913.0,Mary,64
-UT,F,2016.0,Linda,48
- UT ,F,,,244
-,F,1930.0,Jordan,23
-UT,F,1988.0,Jordan,44
-UT,,1967.0,Jordan,201
-UT,M,1988.0,Taylor,509
-UT,M,2001.0,Taylor,254
-UT,F,1978.0,Patricia,136
- UT ,F,1927.0,Mary,196
-UT, M ,1923.0,James,6
-UT,F,1980.0,Linda,
-UT,M,1994.0,Casey,708
-UT,M,1986.0,Alex,196
-UT,F,1965.0,Jennifer,
-,M,1992.0,Jordan,168
-UT,M,1941.0,,16
- UT , F ,2006.0,James,1055
-UT,M,2006.0,Robert,86
-UT, F ,2013.0,Jordan,296
-UT,F,1989.0,Alex,286
-UT,M,1968.0,James,186
-UT,M,1949.0,Jordan,40
-UT,F,1962.0,Casey,35
-,M,1988.0,Michael,106
-UT,M,1949.0,Robert,161
-UT,,1918.0,James,29
-UT,M,1939.0,Robert,13
-UT,M,1979.0, Robert ,131
-UT,F,1965.0,Alex,153
-UT,F,2002.0,,38
-,F,1973.0,,717
-UT,F,2002.0,Alex,286
-UT,M,1993.0,Alex,69
- UT ,F,1989.0,Casey,169
- UT ,F,1928.0,Casey,145
-UT,M,1975.0,Alex,259
-UT,M,1979.0,Alex,1087
-UT,M,1980.0,Jordan,193
-UT,F,1943.0,Jennifer,180
-UT,F,1976.0,Casey,172
-UT,M,1970.0,Jordan,72
-UT,M,1946.0,jennifer,115
-UT,F,1972.0,Linda,45
-UT,F,1940.0,Casey,731
-UT,M,1976.0,Alex,156
- UT ,F,1964.0,Linda,25
-UT,M,1951.0,Mary,36
- UT ,,,Casey,13
-UT,F,1985.0,Casey,155
-UT,F,2007.0,Taylor,272
-UT,M,1935.0,Michael,31
-UT, M ,1986.0,Robert,386
-UT,M,1978.0,Taylor,1021
-UT,F,1918.0,Linda,
-UT,M,1947.0,Taylor,11
-UT,M,1963.0,Alex,96
- UT ,F,1961.0,,147
-UT,F,2008.0,Jennifer,105
-UT,M,1952.0,michael,43
-UT,F,1992.0,Patricia,751
-,M,1923.0,John,129
-UT,F,1998.0,Jordan,
-UT,F,1986.0, Mary ,
-UT,F,2019.0,casey,13
-UT,M,1941.0,,25
-UT,F,1969.0,Michael,208
-UT,,1930.0,Linda,153
-UT,M,1964.0,James,271
- UT ,M,1931.0,Alex,43
-UT,M,2017.0,Michael,546
-UT,M,,Robert,22
-UT, F ,1970.0,Mary,49
- UT ,M,1992.0,alex,310
-UT,,1941.0,Michael,40
-UT,M,1957.0,Jordan,19
-UT,,1981.0,Alex,200
-UT, M ,1930.0,Jennifer,333
-UT,F,1982.0,Jennifer,210
-UT,F,1933.0,Linda,94
-UT,M,1969.0,Alex,224
-UT,F,1910.0,Alex,35
-UT,M,1919.0,Alex,31
-UT,F,1951.0,Jordan,386
-UT,M,,Taylor,838
-UT,M,1960.0,,20
-UT,F,1933.0,Taylor,151
-UT,F,1911.0,John,21
-UT,F,1966.0,Jordan,
-UT,F,1965.0,Patricia,313
-UT,M,,Michael,510
-UT,M,1928.0,John,26
-UT,F,1960.0,Taylor,143
-,M,,alex,71
-,M,1965.0, Casey ,1011
-UT,F,1966.0,Mary,216
-UT,M,1977.0,James,573
-UT,M,1918.0, Robert ,37
-UT,M,1961.0,Alex,311
-UT,F,1980.0,Jordan,40
-UT,F,1961.0,Linda,566
-UT,M,1936.0,Jordan,452
-UT,F,1950.0,Linda,12
-UT,F,1988.0,Jennifer,378
- UT ,M,1975.0,Robert,329
-UT,M,1988.0,Jordan,243
-UT,F,,mary,421
-UT,M,2017.0,Alex,
- UT ,M,2005.0,James,630
-UT,M,2001.0,Alex,8
-UT,F,1977.0,Alex,339
-UT,M,1949.0,Mary,94
-UT,F,2002.0,Taylor,900
- UT , F ,2009.0,Linda,601
-UT,M,1920.0,Casey,74
- UT ,M,,,284
-UT,F,1993.0,Linda,382
-UT,F,2006.0,Casey,80
-UT,M,1939.0,Taylor,9
-UT,M,1958.0,john,369
-UT,M,1976.0,John,215
-UT,F,1948.0,Taylor,
-UT,M,1990.0,Michael,158
-UT,M,,Taylor,298
-UT,F,1960.0,Jordan,376
-UT,F,1934.0, James ,39
-UT,M,2008.0,Robert,277
-UT, F ,2002.0,Patricia,852
-UT,F,1983.0,Patricia,45
-UT,F,1968.0,,732
-UT,F,1943.0,John,78
-UT,F,1999.0,Mary,445
-UT,M,,,5
-UT,F,2013.0,Taylor,358
-UT, M ,2012.0,Robert,
-UT,F,1960.0,,836
-UT,F,,Jordan,18
-,F,1938.0,Casey,
-UT,F,1962.0,Linda,21
-UT,F,1919.0,,6
- UT , F ,2008.0,Jordan,364
-UT,F,1971.0,Mary,59
-UT,F,1994.0, Jordan ,52
-UT,F,1959.0,Alex,274
-UT,,2010.0,Robert,125
-UT,M,1956.0,,516
-UT,F,2010.0,Jordan,24
-UT,F,1945.0,John,11
-UT,M,1936.0,James,27
-UT,F,1978.0,jordan,17
-,F,2003.0,Alex,630
-UT,M,1976.0,Casey,425
-UT, M ,1995.0,,156
-UT,,1954.0,James,93
-UT,F,1978.0, Taylor ,729
-UT, M ,1962.0,John,10
-UT,F,1948.0,Jennifer,420
-UT,M,2012.0,Michael,
-UT,F,2002.0,Mary,426
-UT,F,1953.0,Taylor,260
-UT,F,1942.0,Mary,39
-UT,F,1936.0,Linda,249
- UT ,M,1913.0,robert,183
-UT,M,2010.0,Jordan,96
-,F,,Linda,457
-UT,M,1993.0,taylor,186
-UT,F,1940.0,,56
-UT,M,1974.0,Alex,1550
-UT,M,1960.0,,830
-UT,F,,Jordan,20
-UT,M,,Jordan,46
-UT,M,1997.0,Taylor,1360
-UT, F ,1975.0,Patricia,436
-UT,F,1981.0,Taylor,209
-UT,M,1931.0,John,
-UT,F,1952.0,Alex,379
-UT,M,1990.0,James,147
-UT,M,2016.0,Jordan,67
-UT,M,1991.0,Jordan,201
-UT,M,1919.0,Robert,42
-UT,F,1967.0,Casey,891
-UT,F,1984.0,Mary,703
-UT,F,1997.0, Taylor ,657
-UT,F,1992.0,,287
-UT,F,1999.0,,368
-UT,M,1925.0,James,21
-UT, F ,1944.0,Patricia,380
-UT,M,1982.0,Robert,110
-UT, M ,,James,431
-UT,F,1955.0,Patricia,203
-UT,F,1936.0,,49
-UT,M,1919.0,Taylor,39
-UT,F,2001.0,Taylor,760
- UT ,M,1965.0,,89
-,M,1966.0,James,56
-UT,F,1933.0,Mary,9
-UT,M,1974.0,Jordan,255
-UT,F,1931.0,Casey,328
-UT,F,1943.0,Alex,6
-UT,F,1981.0,Jennifer,481
-UT,F,1993.0,Alex,569
-UT,F,2019.0,Taylor,14
-,M,1988.0,Michael,106
-UT,,2005.0,Patricia,320
-UT,M,2009.0,Jordan,116
-UT,F,1929.0,Taylor,75
-UT,,1963.0,John,162
-UT,M,1978.0,Alex,682
-UT,M,2018.0,James,240
-UT,F,1950.0,Jordan,36
- UT , F ,2020.0, Mary ,49
-UT,M,1961.0,James,24
-UT,M,1940.0,Alex,26
-UT,F,1937.0,Mary,16
-UT,M,1947.0,John,104
-UT,F,1943.0,Linda,39
-UT,F,1998.0,Jennifer,279
- UT ,F,2000.0,Jennifer,1042
-UT,M,1957.0,Michael,117
- UT ,M,1989.0,Robert,95
-UT,F,,Jennifer,182
-UT,M,1937.0,Casey,131
-UT,F,1915.0,Jennifer,25
-UT,F,1962.0,Alex,266
-UT,M,1953.0,Robert,471
-UT,F,1987.0,Mary,324
- UT ,F,1940.0,Mary,751
- UT ,F,1958.0,Jordan,162
-UT,F,1933.0,Casey,
-UT,,1930.0,Robert,8
-UT,M,2008.0,Michael,21
-UT,F,1976.0,Linda,930
-UT,M,2004.0,James,223
-UT,F,1953.0,Linda,95
-UT, M ,1929.0,Casey,30
- UT , M ,2021.0,,50
-UT,,1999.0,Patricia,250
-UT, M ,1972.0,Casey,453
-UT,M,1982.0,Casey,1579
-UT,,1957.0,Jennifer,29
-UT,F,1949.0,Jennifer,20
-UT,F,1950.0,Casey,676
-UT,F,1996.0,Jennifer,139
-UT,F,1960.0,Mary,
-UT,M,1957.0,Alex,106
-UT,F,1977.0,Casey,528
-UT,F,1975.0,Alex,16
- UT ,F,1956.0,John,884
-UT,M,1964.0,Jordan,78
-UT,M,1999.0,Linda,157
-UT,F,1926.0,Patricia,228
- UT , M ,1971.0,Taylor,603
-UT,M,2018.0,Alex,55
-UT,F,1960.0,Linda,377
-UT,F,1991.0,Jordan,625
-UT,F,1972.0,Casey,1037
-UT,F,1980.0,Mary,193
-UT,F,1970.0,Jordan,30
-UT,M,1989.0,Casey,762
-UT,M,1957.0,Robert,16
-UT,F,1978.0,Casey,882
-UT,,2013.0,Michael,969
- UT ,F,1957.0,Alex,120
- UT ,F,1985.0,patricia,372
-UT,M,1993.0,Michael,18
- UT ,M,2018.0,Mary,576
-UT,F,1970.0,Patricia,184
- UT ,M,1931.0,Taylor,213
-UT,M,1977.0,linda,161
-UT, M ,1928.0,Casey,77
-UT,F,2017.0,Linda,446
-UT,F,2010.0, Taylor ,12
-UT,M,1948.0,Michael,445
-UT,F,1947.0,Jennifer,428
-UT,M,1960.0,Alex,438
-UT,M,1980.0,robert,264
-UT,F,1923.0,Mary,57
-UT,M,1984.0,Taylor,109
-UT,M,2017.0,Taylor,13
-UT,M,2006.0,Casey,25
-UT,M,,Alex,84
-UT,F,1925.0,jordan,13
-UT,F,1998.0,Patricia,534
-UT, M ,1975.0,Jordan,1036
-UT,M,2001.0,Michael,652
-,M,1993.0,Jordan,480
-UT,M,2016.0,Alex,27
-UT, F ,1948.0,Alex,33
- UT ,M,1913.0,Alex,42
-UT,F,2000.0,,250
-UT,F,1986.0,James,853
-UT,F,1912.0,Taylor,12
-UT,F,1983.0,Taylor,156
-UT,M,1981.0,John,310
-,M,1992.0,Taylor,482
-UT,M,1970.0,Michael,65
-UT,M,1925.0,Casey,
-UT,M,1941.0,James,16
-UT,M,2017.0,John,295
-UT,M,1934.0,Jordan,94
-UT,M,1922.0,Taylor,33
-UT,M,,Jordan,701
-UT,M,1928.0,Michael,6
-,M,1913.0,Jordan,11
-UT,F,1983.0,Alex,354
-UT,M,1964.0,Alex,322
-UT,M,1973.0,Casey,157
- UT ,M,2015.0,Michael,9
-UT,F,2015.0,Casey,14
-UT,M,1948.0,Alex,196
- UT ,,1973.0,Jordan,270
-UT,M,2007.0,Taylor,21
-UT,F,1950.0,Patricia,719
-UT,F,1955.0,Casey,296
-UT,M,1951.0,Michael,17
-UT,M,,Casey,453
- UT , F ,1973.0,,585
- UT ,F,1947.0,Michael,335
-UT,F,1963.0,Patricia,440
-UT,F,1910.0,Linda,6
- UT ,F,1995.0,Casey,749
-UT, M ,1999.0,John,602
-UT,M,1987.0,John,860
-UT,F,1914.0,Linda,98
-UT,M,, Alex ,266
-UT,F,,patricia,417
-UT,F,,Jennifer,999
-UT,M,1951.0,Taylor,29
-UT,M,1998.0,John,45
-UT,,1941.0,Mary,25
-UT,F,2009.0,Patricia,1343
-UT,F,1988.0,Patricia,192
-UT,F,1946.0,,360
- UT ,F,,Alex,
-UT, F ,1991.0,Linda,575
-UT,F,1939.0,Linda,26
-UT, F ,1948.0,Linda,43
-UT,F,1960.0,Patricia,110
-UT,F,2004.0,Jordan,255
-UT,M,2017.0,Casey,694
-UT,F,1974.0,Mary,205
-UT,F,1974.0,Casey,16
-UT,F,1946.0,Patricia,85
-UT,M,1933.0,Casey,43
-UT, M ,1929.0,James,500
-UT,F,1982.0,Taylor,255
-UT,M,1997.0,Michael,590
-UT,F,1983.0,linda,845
-UT,F,1985.0,Taylor,200
-UT,M,1980.0,Mary,19
-UT, F ,1982.0,,235
-UT,M,1999.0,Casey,49
-UT,M,1956.0,John,1005
- UT ,,1984.0,Casey,79
-UT, M ,1964.0,John,249
-UT,M,2013.0,Robert,48
-UT,F,,Alex,74
-UT,M,1939.0, Casey ,18
-UT,F,1944.0,Casey,14
-UT, F ,1936.0,Patricia,411
- UT ,F,1952.0,Jennifer,51
-UT,F,1939.0,jordan,6
- UT , M ,1942.0,Robert,203
-UT,M,1943.0,Michael,8
-UT,M,1916.0,Alex,
-UT,M,1985.0,Taylor,798
-UT,F,1975.0,jennifer,424
-UT,M,1935.0,john,372
-UT,M,1990.0,John,72
-UT,F,1995.0,Linda,591
-UT,M,1992.0,Robert,85
-,F,1954.0,Jordan,459
-UT,M,1911.0,John,5
-UT,,1956.0,Patricia,533
-UT,M,2013.0,Taylor,6
-UT,F,2011.0,Taylor,24
-UT,F,,linda,9
-UT,M,1981.0,Taylor,634
-,M,1985.0, Alex ,989
-UT, F ,2017.0,Alex,368
-UT,M,1963.0,Michael,410
- UT ,F,,,474
-UT,M,2021.0,Alex,20
-UT,F,2021.0,Jordan,14
- UT ,F,1914.0,Mary,17
- UT , M ,2004.0,Jordan,152
-UT,M,1926.0,Alex,15
-UT,F,1934.0,John,152
-UT,M,1948.0,Casey,155
-UT,F,1975.0,Casey,207
-UT,F,1970.0,,191
- UT ,F,1995.0, Patricia ,608
-UT,F,2004.0,Mary,263
-UT,F,1967.0,Mary,
-UT,M,2008.0,James,432
-UT,F,1976.0,Jennifer,61
-UT,F,1938.0,Mary,141
-UT, F ,1996.0,Alex,991
- UT ,M,1978.0,James,204
-UT,M,1944.0,John,646
-UT,M,1956.0,James,94
-UT,M,1942.0,Alex,205
-UT,F,1958.0,Jennifer,47
-UT,M,2007.0,James,82
-UT,,1976.0,Michael,18
-UT, M ,1969.0, James ,290
-UT,M,1959.0,Jordan,361
- UT ,M,2014.0,Robert,98
-UT,F,1913.0,Taylor,66
-UT,F,1924.0,Linda,179
-UT,M,2009.0, Casey ,229
-UT,F,1990.0,Mary,310
-UT,F,2003.0,,9
-UT,F,1958.0, Casey ,490
-UT,M,1933.0,Jordan,6
-UT,F,1914.0,Alex,
-UT,M,1945.0,Robert,536
-UT,M,1970.0,Casey,333
-UT,M,1963.0,Jordan,755
- UT ,M,2019.0,Casey,18
-UT,M,1951.0,Jordan,189
-UT,F,1925.0,jordan,13
-UT,,1965.0,Jordan,47
-UT,,1941.0,Patricia,85
-UT,M,2013.0,Casey,140
-UT,F,1997.0,Jordan,77
-UT,M,1989.0,Jordan,598
-UT,F,1950.0,Jennifer,84
-UT,M,1996.0,Robert,73
-UT,F,1963.0,Casey,60
-UT,F,1972.0,Linda,45
-UT,M,2002.0,Robert,66
-UT,F,1944.0, Jordan ,
-UT,M,2000.0,John,200
-UT,F,1988.0,Linda,625
-UT,F,2018.0,Mary,
- UT ,F,1985.0,patricia,372
-UT,,,jordan,127
-UT,M,2011.0,Jordan,54
-UT,M,1927.0,John,7
-UT,F,2012.0,jennifer,
-UT,M,1970.0,Robert,453
-UT,F,1994.0,Taylor,33
-UT,M,1943.0,Robert,590
-UT,M,1985.0, Robert ,456
- UT , F ,1939.0,Alex,340
-UT,M,1961.0,Jordan,342
-,F,1969.0,Taylor,85
-UT,F,1962.0,Patricia,227
-UT,F,1944.0,Linda,261
-UT, F ,1949.0,Alex,42
-UT,M,1950.0,Robert,448
-UT,F,1993.0,mary,537
-UT,F,,Jennifer,679
-UT,F,1943.0,Casey,79
-UT,M,1947.0,Robert,209
-UT,M,1919.0,Taylor,39
-UT, F ,1964.0,Jennifer,15
-UT,M,1984.0,Michael,152
-UT,M,1962.0,Taylor,583
-UT,F,1936.0,Casey,66
-UT,M,1966.0,Robert,907
-UT,M,1946.0,Alex,375
-UT,M,1944.0,Taylor,265
-UT,F,1917.0,,8
- UT ,M,1963.0,Robert,172
- UT ,M,1973.0,John,322
-UT,F,1984.0,Patricia,262
-UT,F,1929.0,Linda,95
-UT,F,1915.0,Alex,84
-UT,,1990.0,Robert,14
-UT,F,1929.0,Casey,181
- UT ,M,1934.0,Jennifer,318
-UT,F,1995.0,Alex,174
-UT,M,1920.0,Robert,39
-UT,M,1983.0,Casey,183
- UT ,M,1926.0,Robert,333
-UT,,1959.0,Jordan,1244
-UT,M,2005.0, Jordan ,201
-UT,F,1961.0,Alex,205
-UT,F,1932.0,Jordan,39
-UT,M,1938.0,James,446
-UT,M,1954.0, John ,5
-UT,F,1950.0,Alex,10
-UT,F,1977.0,Jennifer,45
-UT,F,1926.0,Alex,96
-UT,F,1964.0,Taylor,762
-UT,F,2001.0,Michael,295
-UT,M,1956.0,Casey,196
-UT,F,1927.0,casey,130
- UT ,M,2014.0,,49
-UT, M ,2021.0,Casey,17
-UT,M,1971.0,Robert,187
-UT,M,1963.0,Jennifer,90
-UT, F ,,Jordan,210
-UT, F ,2021.0,Alex,25
-UT, F ,1954.0,Patricia,315
- UT ,F,,Linda,206
-UT,M,1915.0, Taylor ,23
-UT, M ,1912.0,Michael,10
-UT,M,1973.0,Michael,132
-UT,,2001.0,Linda,22
-UT,M,1963.0,James,11
- UT ,M,1977.0,Taylor,15
-UT,F,2007.0,Patricia,1435
-UT,F,2015.0,Jordan,18
-UT,F,1974.0,Casey,16
-UT,M,1992.0,Casey,
-UT, F ,1937.0,Linda,7
-UT, M ,1932.0,Taylor,6
- UT ,F,1947.0,Alex,19
-UT,,1968.0,Taylor,687
-UT,,1939.0,James,5
-UT,F,1947.0,Patricia,320
-UT,F,2010.0,Patricia,29
-UT,M,1954.0,Robert,39
-UT,F,1942.0,Jordan,6
-UT,M,1956.0,Michael,184
-UT,,1912.0,Linda,5
-UT,M,1983.0,Robert,272
-UT,F,2012.0,jordan,50
-UT,F,1993.0,Taylor,800
-UT,M,1932.0, Casey ,96
-UT,F,2007.0, Linda ,137
-UT,F,2008.0,Alex,58
-UT,F,2001.0,Alex,411
-UT,M,1994.0,Robert,378
-UT,M,2003.0,Taylor,14
- UT ,M,1988.0,John,
-UT, M ,2014.0,John,11
-UT,M,1951.0,Robert,7
-,M,2016.0, Michael ,300
-UT,F,1969.0,Patricia,496
-UT,F,2005.0,Taylor,756
-UT,M,2013.0,Alex,462
-UT,M,,Taylor,170
-UT,F,1953.0,Jennifer,178
-UT,M,1960.0,Robert,206
-UT,F,1931.0,,238
-UT,,2009.0,Michael,221
-UT,M,1955.0,Alex,400
- UT ,M,1998.0,Jordan,489
-UT,M,2006.0,Michael,52
-UT,F,1964.0, Jordan ,121
-UT,M,1946.0,Mary,42
-UT,M,1932.0, Casey ,96
-UT, M ,1926.0,Casey,
-UT,M,1967.0,John,
-UT,F,1981.0,Patricia,22
-UT,F,1923.0,Taylor,28
-UT,,1987.0,Linda,272
-UT,M,1970.0,Alex,491
-UT,M,1964.0, Michael ,559
-UT, M ,1942.0,Jordan,63
-UT, F ,1987.0,Casey,678
-UT,,1958.0,Mary,43
-UT,F,1989.0,Mary,144
-UT,F,2012.0,Linda,25
-,,1986.0,Linda,236
-UT,F,1949.0,Mary,22
-UT,M,,Robert,14
-UT,F,1992.0,Taylor,163
-UT,M,2000.0,Michael,109
-UT,,2004.0,Michael,55
-UT,M,1927.0,Michael,92
- UT ,M,1934.0,Michael,17
-UT,F,1943.0,Alex,6
-UT,M,2010.0,Michael,6
-UT,M,1972.0,Michael,699
-UT,M,,John,670
-UT,M,1932.0,Jordan,346
- UT ,F,1932.0,Patricia,56
-UT,F,1996.0,Casey,825
-UT, M ,1993.0,Mary,
-UT,M,1983.0,Taylor,1005
-UT,,2021.0,Taylor,105
-UT,F,1945.0,Alex,5
-UT,F,1954.0,Alex,10
-UT,M,2007.0,Michael,49
-,M,1991.0,Robert,274
-,M,1973.0,Alex,334
-UT,M,2006.0,Alex,5
-UT,F,2010.0,Alex,703
-UT,F,1941.0,Jennifer,78
-UT,M,1946.0,Robert,171
-UT,,1990.0,Jordan,264
-UT,M,1934.0,Casey,6
-UT,M,1957.0,James,32
-UT,F,1912.0,Alex,22
-UT,F,1937.0,Taylor,382
-UT,M,1959.0,James,692
-UT,F,2004.0,Alex,5
-UT,F,1987.0,Robert,435
-UT,F,1972.0,Jordan,136
-UT,F,1939.0,Jennifer,6
-UT,F,1983.0,Jordan,77
-UT,F,2021.0,Patricia,128
-UT,F,1969.0,Linda,43
-UT, M ,,Casey,129
-UT,F,,Casey,584
-UT,F,1972.0, Taylor ,
-UT,F,1998.0,Alex,
-UT,M,2014.0,Casey,494
-UT,F,,Linda,67
-UT,F,,Taylor,36
- UT ,F,1939.0,Taylor,27
- UT ,F,1997.0,Linda,28
-UT,M,1928.0,Jordan,6
-UT,,1934.0,Alex,86
-UT,F,1953.0,Patricia,449
-UT,F,2016.0,Jordan,
-UT,M,1948.0,Taylor,489
-UT,,2008.0,Mary,208
-UT,M,1983.0,John,550
-UT,F,2017.0,Casey,637
-UT,M,1948.0,John,128
-UT,F,2006.0,Casey,80
-UT,F,1981.0,,14
-UT,F,1943.0,Patricia,
-UT,F,1923.0,Casey,197
-UT,M,,Jordan,153
-UT,M,1964.0,Robert,137
-UT,M,1913.0,Taylor,10
-UT,M,1950.0,Taylor,337
-UT,M,1940.0,John,180
-UT,M,2017.0,Alex,
-UT,F,1993.0,Jordan,1037
-,M,1950.0,James,24
-UT,M,1944.0,Michael,145
-,M,1946.0,Taylor,161
- UT ,M,2012.0,James,536
-, M ,2012.0,Casey,500
-UT,F,1957.0,Taylor,
- UT ,M,1967.0,Robert,416
-UT,F,1911.0,Jennifer,10
-UT,F,1930.0,Mary,79
-UT,M,1954.0,Linda,28
-UT,F,1989.0,Patricia,8
-UT,M,1927.0,Robert,37
-UT,M,1972.0,John,700
-UT,F,1968.0,Patricia,141
-UT,F,2008.0,Casey,124
-UT,M,2021.0,John,93
-UT,F,1989.0,Jordan,892
-UT,F,1920.0,Jennifer,217
-UT,F,2005.0,Jennifer,28
-UT, F ,1924.0,Alex,13
-UT,M,1960.0,Casey,840
-,M,1979.0,Jordan,638
-UT,F,2015.0,Jennifer,15
-UT,,1958.0,Taylor,29
-UT,,2009.0,Taylor,10
-UT,F,2003.0,Jordan,295
-UT,,1959.0,John,276
- UT ,M,,John,33
-UT,M,1928.0,Taylor,365
- UT ,F,1972.0,,380
-UT,M,1996.0,James,447
-UT,M,1996.0,Taylor,38
-UT,F,1963.0,Linda,
-UT,M,2019.0,Jordan,7
-UT,M,,Alex,552
-UT,F,1966.0, Casey ,10
- UT ,F,1997.0,Patricia,320
-UT,M,1927.0, Taylor ,24
-UT,M,1982.0,John,35
-UT, M ,1969.0,Robert,189
-UT,F,1964.0,Mary,822
-UT,M,1997.0,Casey,266
-UT,F,2006.0,Patricia,41
-UT, M ,1945.0,Casey,17
- UT , F ,1969.0,Casey,342
-UT,M,1922.0,Alex,19
-UT,F,1951.0,,12
- UT ,,1965.0,Taylor,739
-UT, M ,1984.0,Alex,85
- UT ,M,1947.0,Casey,879
-UT,M,1959.0,,8
-UT,F,1938.0,Linda,83
-UT,M,1956.0,Taylor,575
-UT,F,1987.0,Taylor,25
-UT,M,1933.0,Michael,13
-UT,F,1975.0,Mary,453
- UT ,M,1974.0,Michael,48
-,M,1979.0,John,16
-UT,M,1993.0,Robert,743
-UT,M,1925.0,Alex,101
-UT,M,1916.0,Taylor,6
-UT,M,1946.0,John,9
-UT,F,,Linda,550
-UT,M,1959.0,Robert,144
-UT,F,2006.0,Mary,315
- UT ,F,2000.0,Patricia,17
- UT ,F,1938.0,Jordan,24
-UT,F,2006.0,Taylor,480
- UT ,M,1990.0,Taylor,1256
-UT,M,1997.0,Alex,740
-UT,M,1960.0,James,674
-UT,M,1995.0,Michael,
-UT,F,1956.0,Casey,225
-,F,1964.0,Patricia,46
-UT,F,1929.0,,40
-UT,F,1962.0,Mary,1346
-UT,M,2018.0,Michael,1017
-UT,M,1979.0,michael,201
-UT,M,2000.0,Alex,268
-UT,M,1965.0,Taylor,1031
- UT ,F,1919.0,Jordan,159
-UT,M,1960.0,Michael,622
-UT,M,,Taylor,1180
-UT, M ,1913.0,,116
-UT,F,2006.0,Linda,28
-UT,M,1940.0,Robert,151
- UT ,F,1936.0,Jordan,75
-UT,M,1998.0,Taylor,235
-UT,M,1948.0,James,308
-UT,F,1990.0,Casey,551
-UT,M,1967.0,Alex,29
- UT ,M,1930.0,,237
-UT,M,1965.0,robert,136
-UT, F ,2003.0,Mary,20
-UT,F,1934.0,Jordan,191
-UT,M,,Casey,27
-UT,F,1968.0,Jordan,449
- UT ,M,1930.0, Michael ,74
-UT,M,1974.0,Robert,416
-UT,M,1980.0,john,320
-UT,F,1932.0,Jennifer,271
-UT,F,1927.0,Jennifer,180
-UT,M,,Robert,7
-UT,M,1967.0,,885
-UT,F,1924.0,Linda,179
-UT,F,1973.0,Mary,435
-UT,M,1985.0,John,163
-UT,M,1916.0,robert,69
-UT,M,,Alex,49
-UT,F,1957.0,,316
-UT,M,1991.0,Michael,100
-UT,F,1956.0,Mary,386
-UT,F,1979.0,Jordan,325
-UT,M,1946.0,,383
- UT ,F,1942.0,Patricia,233
-UT,M,1979.0,Casey,25
-UT,F,1944.0,jennifer,20
-UT,F,1930.0,Patricia,489
-UT,F,1915.0,Mary,
-,M,1949.0,James,41
-UT, M ,1915.0,,181
-UT,M,,James,238
-UT,F,1950.0,Taylor,24
-UT,F,2000.0,jordan,191
-UT,F,1975.0,jordan,125
-,M,1996.0, Casey ,412
- UT ,F,1932.0,Alex,319
-UT,M,2012.0, Jordan ,412
- UT ,F,1959.0,Linda,881
-UT,M,1949.0,Jennifer,24
-UT,M,2019.0,Alex,344
-UT,F,1952.0,Mary,7
- UT ,F,1941.0,Casey,61
-UT,M,,jordan,577
-UT,F,1955.0,Mary,514
-UT,M,1911.0,Alex,5
-UT,,1939.0,john,27
-UT,M,1971.0,,1007
-UT,M,1989.0,Michael,121
-UT,F,1972.0,Jennifer,733
-UT,M,2008.0,Alex,47
-UT,F,1988.0,Mary,
-UT,M,2008.0,Casey,231
-UT, M ,1994.0,Michael,44
- UT ,M,1993.0,James,115
-UT,F,1977.0,Taylor,871
-UT,F,1998.0,James,1267
-UT,M,2019.0,,
-UT,M,1979.0,Alex,1087
-UT,F,1948.0,Mary,77
-UT,M,1948.0,Casey,155
-UT,M,1941.0,Taylor,67
-UT, F ,1936.0,Alex,74
-UT,M,1976.0,Jordan,478
-UT,M,1918.0,Jordan,7
-UT,M,1950.0,Patricia,420
- UT ,M,2010.0,james,6
-UT,F,1951.0,Mary,32
-UT,M,1955.0,Robert,99
-UT,F,1951.0,Jennifer,383
-UT,M,2010.0,john,51
-UT,M,1970.0,,538
-UT,F,1921.0,Jennifer,9
-UT,F,1951.0,,846
-UT,F,2019.0,Jennifer,229
- UT ,F,1978.0,Alex,585
-UT,M,1917.0,Alex,82
-UT,M,1975.0,James,237
-UT,F,1984.0, Taylor ,64
-UT,M,1990.0,James,147
-UT,F,2009.0,Jordan,9
-UT, M ,1961.0,Casey,
-UT,F,1992.0,Mary,306
-UT, F ,2018.0,Casey,7
-UT,F,1953.0, Mary ,15
-UT,,1959.0,Taylor,198
-UT,M,2004.0,Casey,197
- UT ,M,1937.0,James,155
-UT,,1949.0,Jordan,829
-UT, F ,1983.0,jennifer,756
-UT, M ,1967.0,Casey,58
-UT,,2003.0,Casey,29
-UT,M,1949.0,Casey,73
-UT,F,1941.0,Taylor,73
-UT, F ,1998.0,Taylor,87
-UT,M,1926.0,Michael,71
-UT,M,2011.0,Michael,52
-UT,F,1927.0,Patricia,50
-UT,M,2020.0,Alex,11
-UT,F,2022.0, Linda ,145
-UT,F,1969.0,Mary,294
-UT,F,1971.0,Linda,813
-UT,F,1937.0, Jordan ,101
-UT,M,1938.0,Taylor,247
-UT,M,2001.0,,48
-UT,F,2020.0, Patricia ,18
-UT,F,1979.0,Patricia,269
- UT ,M,1990.0,Taylor,1256
-UT,F,1984.0,Jennifer,241
-UT,M,1957.0,John,45
-UT,M,2012.0,Alex,28
-UT,M,1942.0,James,175
- UT ,F,2021.0,,20
-UT,F,1957.0,Casey,26
- UT ,,1987.0,Patricia,180
-UT,,1968.0,Casey,81
-UT,F,1971.0,Jennifer,248
-UT,M,1962.0,Casey,
- UT ,M,2006.0,Jordan,358
- UT ,M,2022.0,,80
-UT,F,1999.0,James,185
-, F ,1961.0,Jordan,201
-UT,F,1999.0,Jordan,767
-UT,F,2014.0,Linda,23
-,F,1986.0,Jennifer,847
-UT,F,2010.0,Jennifer,5
-,F,1979.0,Mary,1008
-UT,M,1957.0,Casey,269
-UT,F,1928.0,Taylor,108
-UT,M,2007.0,Casey,5
-UT,F,1950.0,Mary,16
-UT,F,1956.0,Jennifer,20
-UT, F ,1926.0,Mary,57
-UT,M,1999.0,Michael,
-UT, M ,, Taylor ,294
-UT, M ,2019.0,Robert,285
-UT,,1990.0,Linda,322
-UT,,1976.0,Jordan,272
-UT, F ,1921.0,James,101
-UT,M,1998.0,Alex,1016
- UT ,M,2007.0,john,213
-UT,F,2005.0,Linda,174
-UT,F,1991.0,Taylor,13
-UT,M,1921.0, Taylor ,8
-UT,F,2012.0,Taylor,18
-UT,F,2021.0,Mary,413
-,F,1971.0,Jordan,437
-UT,,2011.0,,91
- UT ,M,,,380
-,M,2003.0,Jordan,92
-UT,F,1966.0,Alex,
-UT,F,2014.0,Taylor,14
-UT,M,1992.0,John,85
-UT,M,1951.0,John,45
-UT,F,1991.0,Mary,496
-UT,M,1945.0, Michael ,297
-UT,M,1958.0,Alex,54
-UT,F,1959.0,Jennifer,69
-UT,M,1985.0,Casey,383
-UT,F,2010.0,Linda,100
-UT,M,2022.0,Michael,420
-UT,M,2014.0,Michael,19
-UT,F,1962.0,Taylor,451
-UT, F ,2001.0,Patricia,243
-UT,M,1994.0,Alex,36
-,F,2013.0,Patricia,236
-UT, M ,2010.0,Alex,13
-UT,F,1955.0,Taylor,102
-UT,M,1952.0,John,500
-UT,F,1934.0,Casey,242
- UT ,F,1965.0,Jordan,206
-UT,,1981.0,Casey,421
-UT,M,1955.0,casey,221
-UT,F,1981.0,Robert,11
-UT,,1954.0,Linda,25
-UT, M ,2018.0,Robert,105
-UT,M,1972.0,Taylor,973
-UT, F ,2008.0,Linda,66
-UT,,1922.0,Mary,19
-UT,M,1982.0,Taylor,377
-UT,F,1942.0,taylor,14
- UT ,M,2009.0,Alex,247
-UT, M ,1995.0,John,1231
-UT,,1951.0,james,134
-UT,M,1923.0,Jordan,13
-UT,F,1925.0,Linda,21
-UT,M,1986.0,Casey,96
-UT,F,1948.0,Casey,114
-UT,M,1998.0,James,285
-UT,F,2018.0,Jennifer,10
- UT ,F,1986.0,Casey,740
-UT,M,1997.0,John,807
-UT,F,,Jennifer,75
-UT,M,1972.0,Alex,566
- UT ,,1962.0,Alex,36
-UT,M,2003.0,John,86
-,M,1987.0,Michael,484
-UT,F,1961.0,Mary,815
-UT,F,2014.0,Jennifer,33
-UT,M,1943.0,John,511
-UT,F,1941.0,Linda,121
-UT,F,1935.0,Mary,19
- UT ,F,1999.0,Jennifer,195
-UT, M ,1986.0,James,213
-UT,F,1977.0, Jordan ,
-UT, M ,1953.0,James,100
- UT ,M,1952.0,Casey,18
-UT, M ,2001.0,James,457
-UT,M,1980.0,Alex,941
-UT,F,1923.0,Robert,6
-,F,1989.0,Linda,667
-UT,M,2002.0,Taylor,133
- UT ,F,1995.0,Taylor,305
-UT,F,1997.0,Casey,766
-UT,F,1931.0,,238
-UT,F,2009.0,Alex,
-UT,F,1935.0,Casey,158
-UT,M,1980.0,Michael,7
-UT,F,2011.0,Linda,332
-UT,M,2020.0,Taylor,46
-UT,F,2015.0,Linda,39
-UT,M,1975.0,,762
-UT,M,1934.0,Casey,6
-UT,M,2000.0,taylor,129
-UT,F,1946.0,,11
-UT,F,1929.0,Jordan,12
-UT,M,1960.0,Alex,438
-UT,M,1992.0,Patricia,100
-UT,M,2020.0,John,257
-UT,M,1968.0,John,312
-,F,2014.0, Patricia ,166
-UT,F,,Jordan,18
-UT,F,1956.0,Taylor,975
-UT,M,1962.0,James,462
-UT,M,1930.0,Taylor,63
-UT,F,1961.0,Patricia,213
-UT,M,1953.0,Casey,46
-UT,M,1935.0,alex,245
- UT ,M,2021.0,Patricia,16
-UT,M,1974.0, John ,121
-UT,,,,780
-UT,M,1981.0,Jordan,191
-, F ,1945.0,Jennifer,332
-UT,,1956.0,Alex,939
-,M,,Mary,6
-UT,F,1949.0,Linda,123
-UT,,1998.0,Mary,142
-UT,M,1972.0,Robert,93
-UT,F,1982.0,Mary,76
-,F,2002.0,Jordan,120
-UT,M,2017.0,Jennifer,158
-UT,M,1969.0,John,1200
-UT,M,2022.0,,17
-UT,M,1952.0,Taylor,492
-UT,F,1954.0,Jennifer,87
-UT,F,1963.0,jordan,308
-UT,M,1940.0,Jordan,418
-UT, M ,1998.0, Michael ,46
-UT,F,1988.0,Casey,282
-UT,M,2017.0,John,295
-UT,M,1999.0,Taylor,516
-UT,M,1954.0,Jordan,404
-UT,,2008.0,Jordan,135
- UT ,F,1922.0,Taylor,125
-UT,M,1986.0,Michael,455
-UT,M,1993.0,john,60
-UT, M ,1935.0,Robert,49
-UT,M,2008.0,John,67
-UT,,2005.0, Alex ,161
-UT,M,2011.0,Robert,233
-UT,M,1955.0,Taylor,11
-UT,F,2016.0,Patricia,31
-UT,F,1983.0,Casey,205
-UT,F,1956.0,Jordan,246
-UT,F,1985.0,Mary,230
-UT,M,1988.0,Robert,870
-UT,F,1944.0,Mary,61
-UT, F ,2000.0,Casey,
-UT, M ,1996.0,Jordan,225
-UT,F,1959.0,Mary,63
-UT,M,1983.0,Michael,424
-UT,,1966.0,Jennifer,202
-UT,,2004.0,Taylor,192
- UT ,F,2010.0,Mary,21
-UT,M,1913.0,,32
- UT ,F,1944.0,Alex,8
- UT ,F,1918.0,Mary,282
-UT,F,1931.0, Jordan ,25
- UT ,F,1966.0,Patricia,32
-UT,M,1940.0,Alex,26
-UT,F,1973.0,Patricia,472
-UT,F,1982.0,Linda,106
-UT,M,2022.0,Jordan,
-UT, F ,1975.0,Taylor,194
-UT,F,1944.0,Taylor,85
-UT,F,2007.0,,914
- UT ,F,1931.0,Taylor,12
-UT,M,1947.0,Michael,744
-UT,F,1946.0,taylor,83
-,F,1994.0,Linda,534
-, F ,1965.0,mary,1022
- UT ,F,2011.0,Robert,51
-UT,M,1939.0,Jordan,23
-UT,F,1911.0,Taylor,37
-UT,F,,Mary,73
- UT ,F,1932.0,Taylor,154
-UT,F,1929.0,Michael,7
-UT,F,1938.0,Patricia,78
- UT ,F,1952.0,Jordan,48
-UT,F,1949.0, Casey ,331
-UT,,1990.0,alex,82
-UT,M,1969.0,Taylor,452
- UT ,M,1998.0,Casey,562
-,M,1982.0,Alex,29
-UT,M,1941.0,,25
-UT,F,1996.0,Patricia,119
-UT,M,1950.0,Michael,24
-UT,M,1945.0,Taylor,11
-UT,M,1955.0,Jordan,435
- UT ,F,1998.0,linda,290
-UT,M,1997.0,Jennifer,409
-UT,F,2020.0,Jennifer,207
-UT,F,2019.0,Jordan,16
-UT,M,1937.0,Mary,314
-UT,,1930.0,john,46
-UT,F,2005.0,,65
-UT,M,1986.0,Jordan,162
-UT,M,2003.0,Robert,744
-UT, M ,2007.0, Robert ,11
-UT,F,2007.0,Alex,518
-UT,M,2001.0,robert,9
- UT ,M,1978.0,Jordan,561
-UT, F ,1920.0,Mary,6
-UT,M,1966.0,Jordan,908
- UT ,M,1938.0,Robert,560
-UT,F,1999.0,Alex,520
-UT,M,1968.0,Jordan,443
-UT,F,,Alex,391
-UT,M,1971.0,Jordan,97
- UT ,M,1990.0,Casey,147
-UT,F,1926.0,linda,136
-UT,,1979.0,Jennifer,723
-UT,F,1925.0,patricia,9
- UT , F ,2009.0,,419
-UT,M,1982.0,Jordan,762
-UT,M,1954.0,Alex,308
-UT,F,1991.0,,501
- UT ,F,1982.0,Patricia,817
- UT , F ,1978.0,Linda,270
-UT,F,1985.0,jordan,94
-UT,,1960.0,Casey,323
-UT, M ,1945.0,John,82
-UT,M,1918.0,Michael,18
-UT,M,1945.0,Alex,152
-UT,M,1934.0,James,5
-UT,F,1913.0,Jordan,8
-UT,M,1929.0,Jordan,223
-,F,1932.0,Casey,28
+state,sex,year,name,count
+UT, F ,1997.0, John ,65
+UT,M,1992.0,Jordan,355
+UT,F,1930.0,Taylor,11
+UT,M,1996.0,Casey,12
+UT,M,1914.0,Taylor,5
+UT,F,,Jennifer,172
+UT,M,1993.0,Michael,629
+UT,F,1973.0,Mary,410
+UT, F ,1984.0, Taylor ,191
+UT,M,1954.0,Jordan,151
+UT,F,,mary,322
+UT,M,1965.0,Michael,42
+ UT ,M,,James,213
+UT,M,2001.0,Michael,59
+ UT ,M,1952.0,Mary,370
+ UT ,F,1999.0,Patricia,31
+UT,M,2009.0,Robert,227
+UT,,1971.0,Jordan,68
+UT,M,1929.0,James,18
+UT,M,2004.0,jordan,
+UT,M,1915.0,James,54
+UT,M,2007.0,Alex,778
+UT,M,1996.0,Jordan,95
+UT, M ,2019.0,John,646
+UT,M,2002.0, Robert ,50
+UT,F,1985.0,Taylor,125
+UT,F,1931.0,Jordan,618
+UT,M,1979.0,Alex,399
+UT,,2011.0,Michael,180
+UT,F,1977.0,Jordan,687
+UT,F,1993.0,Jennifer,87
+UT,M,1964.0,Taylor,151
+UT,M,1978.0,alex,244
+UT,M,1939.0, Taylor ,183
+UT,M,2003.0,James,136
+UT,M,1972.0,Alex,466
+ UT ,F,1964.0,,366
+UT,F,1961.0,Alex,175
+UT,M,1980.0,James,295
+UT,M,1940.0,John,147
+UT,F,1978.0,Casey,468
+UT,M,1964.0,Jordan,121
+UT,F,1947.0,Jennifer,463
+UT,M,1928.0,Jordan,154
+UT,F,1931.0,Linda,33
+UT,F,1969.0,Jennifer,838
+UT,M,1963.0,Patricia,178
+UT,M,1953.0,Robert,16
+UT,F,1967.0,Michael,20
+UT,M,1911.0,Robert,15
+UT,F,,Alex,28
+UT,M,1991.0,John,10
+UT,M,, John ,773
+UT,F,1973.0,Michael,35
+UT,F,1987.0,Jordan,821
+UT,F,1979.0,jordan,309
+UT,F,1992.0,Linda,151
+UT, M ,2010.0,Taylor,77
+UT,F,1945.0,Patricia,450
+UT,M,1972.0,Casey,26
+ UT ,F,1976.0,Mary,164
+UT,F,1950.0,Jennifer,109
+, M ,1979.0,John,106
+, M ,1967.0, John ,234
+UT, M ,1965.0,Alex,159
+UT,F,1915.0,Linda,24
+UT,F,1947.0,Casey,140
+UT, M ,1982.0,James,87
+UT,M,1989.0,Casey,224
+UT,F,1958.0,Linda,979
+UT,F,1988.0,Casey,40
+UT,F,2020.0,Jennifer,32
+UT,F,1996.0,Patricia,400
+UT,F,, Jordan ,76
+UT,F,1980.0,Jennifer,67
+UT,F,2018.0, Mary ,7
+UT,M,1983.0,Alex,189
+UT,F,2010.0,Taylor,
+UT,F,1953.0,Taylor,475
+UT,F,1942.0,Jordan,28
+UT, F ,1968.0,Mary,701
+UT,F,1932.0,Patricia,
+,M,1952.0,Taylor,
+UT,F,1963.0, Robert ,134
+UT,M,1953.0,John,159
+UT,M,,James,49
+UT,F,1926.0,Alex,
+UT,M,1997.0,John,234
+UT,F,1950.0,Jordan,345
+UT,F,1947.0,Mary,52
+, M ,1974.0,Patricia,
+UT,M,1952.0,James,35
+UT,M,1991.0,James,699
+UT,F,1924.0,Patricia,26
+UT,F,1958.0,Mary,131
+,M,1960.0,John,250
+UT,M,1968.0,John,315
+UT,,1913.0,Patricia,8
+,F,,Alex,10
+UT,M,, Casey ,164
+UT,M,1992.0,Casey,422
+UT,F,,Patricia,
+UT,F,1945.0,Alex,207
+UT,F,2009.0,Casey,410
+UT,F,1914.0,Casey,6
+UT,F,1973.0,Patricia,286
+UT,F,2014.0,Mary,60
+UT, F ,2001.0,Casey,326
+UT,M,1962.0,Michael,
+UT,F,1994.0,Linda,345
+ UT ,F,,Alex,1047
+UT,F,1954.0, Taylor ,643
+UT,F,1966.0,Jordan,136
+UT,F,2022.0,Linda,7
+UT, F ,2013.0,Jennifer,765
+UT,M,2014.0,Casey,230
+UT, F ,1970.0,Taylor,71
+ UT , M ,2002.0,alex,19
+UT,F,1917.0,Linda,34
+UT,F,1920.0,Alex,34
+UT,M,1997.0,Alex,13
+UT,F,1997.0,Casey,
+UT,M,1987.0,James,78
+UT,F,2010.0,Jordan,218
+UT,M,1957.0,John,323
+UT,F,1959.0,Linda,448
+ UT ,M,1923.0,Robert,84
+ UT ,F,1954.0,Patricia,241
+UT,F,1980.0,Patricia,939
+UT,M,1978.0,,1077
+UT,F,1965.0,Patricia,630
+UT,M,1928.0,Casey,
+UT,F,1931.0,Patricia,230
+UT,,2021.0,Casey,542
+UT,M,1998.0,Alex,952
+UT,F,1954.0,Jordan,
+UT,M,1980.0,Taylor,167
+ UT ,M,1990.0,Taylor,77
+UT,F,,Taylor,44
+UT,M,2009.0,Michael,161
+UT,F,1998.0,Michael,36
+UT,F,2013.0,Patricia,21
+UT,M,1940.0,Alex,19
+UT,M,2011.0,John,603
+UT,M,1956.0,Michael,484
+UT,M,1982.0,Taylor,173
+ UT ,F,,Casey,726
+UT,,1987.0,Robert,455
+UT,M,1964.0,John,75
+UT,F,2004.0,Linda,
+UT,M,1941.0,Alex,58
+UT,M,1962.0,Jordan,108
+ UT ,F,1963.0,John,85
+UT,F,1962.0, Jennifer ,446
+UT,M,,James,6
+UT,F,1970.0, Alex ,651
+ UT ,F,1989.0,Mary,565
+UT, M ,2012.0,Jordan,136
+UT,F,1991.0,Jordan,56
+UT,,1982.0,Robert,77
+UT,F,1992.0,Casey,84
+UT,F,1924.0,Jordan,97
+UT,M,1999.0,Alex,329
+UT,F,1944.0,Mary,21
+UT,M,1958.0,James,140
+UT, F ,1953.0,Jordan,177
+UT,M,1916.0,casey,14
+UT,M,1946.0,John,194
+UT,M,1983.0,Robert,264
+, M ,1946.0,James,138
+UT,M,1933.0,Taylor,19
+UT,F,1931.0,Jordan,618
+UT,F,1954.0,Casey,25
+UT,M,2004.0,robert,75
+UT,M,1982.0,Jordan,391
+ UT ,M,1995.0,James,97
+UT,M,2005.0,Taylor,73
+,M,1999.0,michael,37
+UT,F,1980.0,Linda,651
+UT,M,2020.0, Jordan ,119
+UT,M,1939.0,James,6
+UT,M,1985.0,,1043
+UT,F,1977.0,Patricia,296
+UT,F,2013.0,Jordan,735
+UT,M,1975.0,,151
+UT,M,2019.0,Taylor,53
+UT, F ,1954.0,Michael,89
+UT,F,2017.0,Jordan,421
+UT,M,1925.0,robert,119
+ UT ,F,1944.0,Michael,57
+,F,1947.0,Patricia,
+UT,F,1976.0,Jennifer,411
+ UT ,,1945.0,Jordan,447
+UT,M,1983.0,John,284
+UT,F,1934.0, Linda ,13
+UT, M ,1993.0,Jordan,560
+ UT ,M,2005.0,Casey,189
+UT,F,1945.0,linda,393
+UT,F,1993.0,Jennifer,87
+UT,M,1985.0,Robert,11
+UT, M ,1948.0,Robert,56
+UT,M,1991.0,Taylor,117
+UT,F,1989.0,John,308
+UT,F,2009.0,Linda,250
+UT, F ,2016.0,Jordan,6
+UT,F,1990.0,Patricia,145
+UT,F,2010.0,Patricia,26
+UT,M,1919.0,alex,38
+UT,M,,robert,28
+UT, M ,1987.0,John,254
+ UT ,F,1970.0,Casey,70
+UT,,1984.0,Linda,409
+UT,F,1983.0,Alex,262
+,F,1962.0,Michael,447
+ UT , M ,2015.0,Alex,17
+UT,,1940.0,Patricia,5
+UT,F,1931.0,Alex,18
+,M,1931.0,,51
+UT,M,1926.0,Taylor,59
+,F,1916.0,Linda,50
+UT,F,1950.0,Casey,178
+UT,M,1923.0,Casey,86
+UT,M,1963.0,Alex,166
+UT,F,1942.0,Linda,148
+UT,F,1914.0,Mary,45
+UT,M,1935.0,robert,7
+UT,F,1948.0,Jordan,19
+UT,M,2006.0,James,843
+UT,M,1948.0,Casey,654
+UT,M,2015.0,Casey,8
+UT,F,1966.0,Casey,42
+UT,M,1995.0,taylor,63
+ UT ,M,2016.0,James,130
+UT,M,,Alex,219
+UT,F,1997.0,Linda,195
+UT, M ,1995.0,Casey,107
+UT,F,1989.0,Taylor,144
+UT,M,2008.0,Michael,
+UT,M,1953.0,,345
+, F ,2016.0,Alex,736
+UT,M,1969.0,James,702
+UT,M,2013.0,Robert,397
+,M,1994.0,Jordan,776
+,M,1954.0,Casey,318
+UT,F,1988.0,Taylor,789
+UT, F ,2004.0,Patricia,172
+UT,F,2006.0,Michael,115
+UT,F,2000.0,Mary,382
+ UT ,M,1965.0,Jennifer,105
+UT,M,1945.0,Robert,130
+UT,M,1949.0,robert,230
+UT,F,,Alex,564
+ UT ,M,2004.0,Taylor,11
+UT,M,2006.0,Michael,58
+UT,M,1965.0,James,379
+,M,1952.0,Jordan,24
+ UT ,M,1965.0,Robert,227
+UT,M,2013.0,John,25
+UT,F,1973.0,taylor,555
+UT,M,1977.0,Jordan,385
+ UT ,M,1929.0,Robert,169
+UT,F,1970.0,Linda,732
+UT,F,1956.0,Mary,24
+UT,F,1934.0,Mary,16
+UT,,1932.0, Alex ,
+ UT ,F,2016.0,Linda,180
+ UT ,F,1919.0,Taylor,228
+UT,M,1970.0,Taylor,238
+UT,F,1969.0,Mary,269
+UT,,1911.0,Jennifer,9
+UT,M,1954.0,Alex,22
+UT,F,,Mary,81
+UT,F,1996.0,Mary,158
+ UT ,M,1921.0,,134
+UT,F,1974.0,Jordan,491
+UT,F,1939.0,Patricia,14
+UT,M,1941.0,Michael,
+,F,1931.0,Casey,53
+UT,,1953.0,Alex,103
+,M,1929.0,Michael,9
+UT,M,1990.0,John,118
+UT,M,1970.0,Michael,210
+UT,F,,Mary,1071
+UT,M,1918.0,Taylor,195
+ UT ,M,2017.0,Casey,101
+UT,F,1989.0,Jennifer,725
+UT,M,1981.0, James ,171
+UT,M,1943.0,Taylor,100
+UT,M,1931.0,Robert,32
+UT,M,1950.0,Patricia,268
+UT,M,2018.0,James,104
+, M ,,Jordan,429
+UT,F,,Mary,1071
+UT,F,1973.0,Jordan,
+UT,F,1975.0,Casey,664
+UT,M,1966.0,Taylor,1330
+UT,M,2019.0,James,83
+ UT ,F,2014.0,Jennifer,70
+,F,1938.0, Jordan ,327
+UT,M,1991.0,Casey,403
+UT, F ,1936.0,,50
+UT,F,1982.0,Casey,251
+ UT ,F,1999.0,James,101
+UT,F,1945.0,mary,145
+ UT ,F,1911.0,Linda,29
+UT,F,1982.0,Taylor,11
+UT,M,1958.0,,309
+UT,M,1986.0,Taylor,494
+ UT ,M,1987.0,Alex,52
+UT,M,1930.0,Robert,11
+UT,M,1963.0,Casey,582
+,,1952.0, Michael ,21
+UT,F,1957.0,Jordan,121
+UT,M,1966.0,Casey,71
+UT,M,2006.0,Taylor,209
+UT,M,1980.0,Jordan,935
+UT,F,2002.0,Alex,893
+UT,M,1967.0,Robert,602
+UT,M,1981.0,Taylor,217
+UT,M,1981.0,John,771
+UT,F,1975.0,Patricia,11
+UT,M,1926.0,Casey,134
+UT, M ,1922.0,Taylor,37
+UT,F,2017.0,Patricia,286
+ UT ,M,1979.0,,640
+UT,F,1927.0,Mary,89
+UT,,1996.0,Taylor,12
+UT,F,2014.0,casey,337
+UT,M,2016.0,patricia,24
+UT,F,2010.0,Linda,788
+,,1971.0,Patricia,120
+UT,F,1928.0,Jennifer,119
+ UT , M ,1961.0,Casey,129
+UT,F,1992.0,Alex,28
+UT,F,1981.0,alex,272
+UT,M,1943.0,Alex,15
+UT, M ,1924.0,Taylor,20
+UT,M,1942.0,,29
+UT,F,2006.0,Mary,132
+UT, M ,1960.0,James,707
+UT,M,1966.0, Robert ,925
+ UT ,M,1953.0,Linda,244
+ UT ,M,1977.0,Casey,302
+UT,,1944.0,Patricia,20
+UT,M,1919.0, Casey ,11
+UT,M,1962.0,Robert,137
+UT,F,1988.0,Patricia,94
+UT,M,2016.0,Taylor,39
+UT,F,2005.0,Mary,32
+UT,F,1952.0,Alex,
+UT,M,1954.0,John,459
+, M ,2014.0,Alex,155
+UT,F,1968.0,Jennifer,102
+UT,F,1935.0, Alex ,16
+UT,F,1999.0,Mary,51
+UT,,1962.0,Robert,59
+UT,M,1922.0,Jordan,12
+UT,F,1925.0,taylor,291
+UT,M,2020.0,Taylor,103
+ UT , F ,,Patricia,78
+UT,M,1975.0,Taylor,454
+ UT ,,1955.0,Robert,311
+UT,F,1929.0,Taylor,65
+UT,F,1939.0,Linda,5
+UT, M ,2019.0,alex,32
+UT,F,1997.0,,207
+UT,F,1996.0,Jennifer,163
+ UT ,F,2012.0, Jennifer ,231
+ UT ,F,1926.0,,28
+UT,M,,Michael,288
+UT,M,1973.0,Jordan,140
+UT,M,1988.0,Casey,144
+UT, M ,1926.0,michael,234
+UT,M,2003.0,Robert,189
+,M,1916.0,Taylor,14
+UT,M,1925.0,,6
+UT, F ,2014.0,patricia,8
+UT, F ,2000.0,Casey,897
+UT,F,1956.0,Alex,605
+UT,F,1974.0,Jennifer,944
+ UT , F ,1981.0,Casey,718
+UT,M,1996.0,taylor,65
+UT, M ,1997.0,Jordan,54
+,M,2017.0,Mary,129
+UT,M,1962.0,James,403
+,F,1922.0,Jennifer,106
+UT,M,1933.0,michael,29
+UT,F,1935.0,Jordan,27
+,F,1932.0,Jordan,150
+,M,1960.0,John,250
+,F,2007.0,Patricia,267
+UT,F,1941.0,Linda,163
+UT,M,1941.0,jordan,60
+UT,M,1972.0,Michael,90
+UT,M,1991.0,Robert,489
+UT,F,2006.0,Mary,132
+UT,M,1985.0,John,314
+UT,M,,Casey,142
+UT,,2014.0,John,10
+UT,F,1994.0,Alex,179
+UT,F,1941.0,Mary,
+ UT ,F,1914.0,Patricia,20
+UT, M ,1910.0,Taylor,100
+UT,F,2006.0,Linda,357
+UT,F,1985.0,Mary,679
+UT,F,2002.0, Patricia ,443
+UT,F,1947.0,,205
+ UT ,M,2009.0,Taylor,701
+UT,M,1998.0,Casey,67
+UT,M,1950.0,,62
+UT, M ,1935.0,James,11
+UT,M,1925.0,Mary,200
+UT,F,2007.0,Linda,481
+UT, F ,,alex,6
+UT,F,1987.0,Patricia,370
+UT,M,2000.0,Robert,23
+,F,1955.0,Linda,972
+UT,F,1963.0,Taylor,704
+UT,F,2017.0,John,194
+UT,F,1950.0,Mary,627
+ UT ,F,1987.0,Mary,407
+UT,F,1938.0,Jennifer,14
+UT,M,1960.0,Robert,29
+UT,F,1925.0,,40
+,M,,Taylor,259
+UT,M,1993.0,Robert,214
+UT,M,1985.0,Michael,607
+UT,M,1981.0,Jordan,698
+UT,F,2003.0,linda,37
+UT,M,1933.0,James,157
+UT,M,1924.0,Casey,313
+UT,F,2004.0,Mary,88
+ UT ,F,2019.0,alex,
+UT,M,1957.0,Michael,19
+UT,F,1973.0,Linda,633
+UT,F,2020.0,taylor,
+UT,M,1994.0,Casey,69
+UT,F,2012.0,Jordan,43
+UT,F,2012.0,Casey,100
+UT,M,1978.0,Jordan,
+UT,F,1936.0,Linda,13
+UT,M,1969.0,Taylor,561
+ UT ,F,2005.0,casey,19
+UT,,1940.0,Patricia,5
+UT, F ,1968.0,Linda,642
+UT,M,1949.0,Jordan,165
+ UT , F ,,Taylor,10
+UT,M,1921.0,Robert,20
+UT,M,1980.0,Jordan,935
+UT,F,1967.0,Mary,875
+UT,F,2013.0,Alex,128
+UT,M,1950.0, Michael ,597
+UT,M,1979.0,james,111
+UT, M ,2004.0,John,112
+UT,M,1939.0,Alex,236
+UT,M,2008.0,Taylor,14
+UT,F,1972.0,,523
+UT,M,1998.0,,73
+,F,2001.0,Patricia,96
+ UT ,M,1997.0,Casey,785
+UT, M ,2012.0,James,229
+UT, M ,1996.0,,131
+UT,M,2000.0,John,250
+UT,M,1992.0,Taylor,147
+,M,2006.0,,96
+UT,M,1955.0, Jordan ,648
+UT,M,2008.0,jordan,53
+UT,M,2007.0,Jordan,127
+UT,,1934.0,Taylor,27
+ UT ,F,2003.0,Mary,119
+UT,F,1945.0,Jordan,643
+, M ,1964.0,robert,66
+UT,M,1937.0,Jordan,7
+UT,M,2020.0,John,264
+UT, M ,1987.0,Taylor,117
+,F,1976.0,Casey,309
+UT,F,1989.0,Jordan,574
+UT,M,1941.0,Casey,18
+UT,,1956.0,Jennifer,212
+UT,M,2019.0,Michael,254
+UT,M,1958.0,Jordan,86
+UT,F,1952.0,Casey,446
+UT,F,2019.0,Patricia,215
+UT,F,1967.0,Patricia,422
+UT,M,1949.0, Taylor ,
+UT,M,1989.0,James,362
+UT,M,1988.0,James,615
+UT,M,1957.0,James,193
+UT,F,1961.0, Jennifer ,25
+UT,F,1995.0,Casey,
+UT,F,2003.0,Patricia,71
+UT,F,2011.0,Robert,14
+UT,M,2018.0,Michael,299
+UT,F,1975.0,Jordan,215
+UT,M,1950.0, Casey ,469
+ UT ,M,2016.0,Robert,309
+ UT ,F,1924.0,Casey,74
+UT,F,1940.0,Alex,5
+UT,M,1972.0,Taylor,1290
+UT, F ,1997.0,Mary,11
+UT,F,1952.0,Jordan,17
+UT,F,1994.0,Jordan,511
+UT,M,1992.0,Mary,426
+UT,F,1964.0,Taylor,109
+UT,M,1915.0,Alex,14
+UT,,1936.0,Taylor,402
+ UT ,F,1997.0,Patricia,126
+UT,,1960.0,Jennifer,159
+UT,F,1990.0,Taylor,386
+UT,M,1990.0,James,280
+UT, M ,1985.0,james,6
+,F,2022.0,Mary,249
 UT,M,,Casey,
-UT,F,2015.0,Taylor,96
-UT,M,1932.0,Robert,64
-UT,F,2011.0,Patricia,440
-UT,M,1968.0,Alex,144
-UT, M ,2009.0,Robert,251
-UT,F,1984.0, Linda ,957
-UT,M,1971.0, Casey ,48
-UT,F,1972.0,patricia,23
-UT,M,1979.0,Taylor,545
-UT,,1971.0,James,
-UT,F,,Casey,124
-UT, F ,1961.0,Taylor,9
-UT,F,1920.0,Alex,210
- UT ,F,1963.0,Jennifer,224
-UT,F,1917.0, Jennifer ,6
-UT,F,2000.0,Alex,
-UT,,1938.0,jordan,11
-UT,,2003.0,Casey,29
- UT , F ,2020.0, Linda ,108
-UT,F,1918.0,Casey,10
-UT,F,1945.0,Mary,80
- UT ,F,1966.0, Linda ,280
+UT, M ,1971.0,Alex,30
+UT, M ,,Alex,382
+UT,M,1969.0,Robert,55
+UT,F,1961.0,Linda,428
+UT,F,1991.0,Patricia,543
+UT,F,1984.0,Patricia,523
+UT,F,2013.0,taylor,34
+UT,,2000.0,taylor,148
+UT,M,,Alex,219
+UT,F,1975.0,Alex,14
+,F,1929.0,Jennifer,307
+UT,F,1926.0,Patricia,5
+UT,M,,Michael,31
+UT,F,1969.0,Michael,412
+UT,M,1965.0,Mary,569
+UT, M ,,Casey,306
+UT,F,1937.0,Taylor,298
+UT,F,1935.0,Patricia,457
+UT,F,1957.0,Linda,272
+UT,F,2008.0,Jordan,7
+UT,F,1953.0,patricia,27
+UT,F,1924.0,Taylor,9
+,F,1970.0,Michael,401
+UT,F,,Linda,98
+UT,M,1952.0,john,49
+UT,M,1927.0,John,329
+UT, M ,2020.0,James,8
+UT,M,1930.0,Jordan,101
+UT,M,1990.0,Jordan,23
+UT,M,1935.0,Jordan,5
+UT,M,1935.0,,37
+ UT ,M,1954.0, Taylor ,16
+UT,F,2017.0,,433
+UT,F,2012.0,Linda,13
+UT,F,1998.0,Patricia,946
+UT,F,2017.0,Jennifer,73
+UT,F,1974.0,Patricia,700
+ UT ,F,2011.0,Jennifer,218
+,F,1957.0,alex,
+UT,M,1944.0,Taylor,284
+UT,F,1967.0,Alex,205
+UT,M,1961.0,Michael,109
+UT,M,2005.0,James,22
+UT,F,1962.0,Linda,11
+UT,F,1990.0,,25
+UT,F,1971.0,Jennifer,653
+ UT ,M,1915.0,John,36
+UT,M,2013.0,Casey,36
+UT,M,1938.0,Jordan,10
+UT,M,1926.0,Patricia,109
+ UT , F ,,Jordan,12
+UT,F,1949.0,Patricia,198
+UT,F,1954.0,Alex,408
+UT,M,1960.0,Casey,31
+,F,2007.0,Alex,
+UT,M,1939.0,Jennifer,119
+UT,M,,John,403
+UT,F,1916.0,Alex,126
+UT,M,2009.0,James,26
+UT, F ,1922.0,Casey,12
+UT,M,1955.0,Taylor,
+UT,F,1958.0,Michael,16
+UT,M,1979.0,Taylor,1483
+UT,M,1944.0,Linda,9
+ UT ,M,1975.0,Casey,39
+UT,M,1986.0,Jordan,175
+UT,F,1919.0,,11
+UT,F,1964.0,Alex,102
+ UT ,F,1953.0,Mary,149
+UT,F,1971.0,Casey,264
+,F,1985.0,Patricia,
+UT,M,1930.0,James,108
+,M,,Alex,577
+UT,F,1955.0,Michael,631
+UT,F,1943.0, Taylor ,66
+UT,F,1944.0,Jennifer,5
+UT,F,1993.0,Patricia,122
+UT,F,1981.0,taylor,
+UT,F,1916.0,Jennifer,34
+UT,M,2010.0,John,38
+UT,,1951.0,Casey,1243
+UT,F,1924.0,,
+UT, F ,1987.0,Casey,87
+UT,F,2016.0,Jennifer,5
+UT,,2020.0,Patricia,8
+UT,M,1980.0,Casey,904
+ UT ,F,1917.0,Taylor,5
+UT,F,1922.0,linda,207
+UT,M,2003.0,Jordan,75
+UT, M ,2005.0,John,103
+UT,,1951.0,Michael,
+UT, M ,1964.0,Casey,123
+ UT ,F,1920.0, Casey ,211
+UT,M,2020.0,Michael,51
+UT,M,2012.0,Michael,30
+UT,M,1983.0,Casey,484
+UT,F,1965.0,Jordan,907
+UT,M,1980.0,James,295
+UT,M,1933.0,Casey,59
+ UT ,F,2019.0,Jennifer,107
+UT,F,1927.0,Taylor,363
+UT,F,1992.0,Patricia,300
+UT, M ,1956.0,Taylor,24
+UT,,1976.0,Taylor,229
+UT,F,2022.0,Jordan,246
+,M,1946.0,Taylor,5
+UT, F ,1955.0,Alex,101
+UT,F,1977.0,Mary,482
+ UT ,M,1946.0,Robert,268
+UT,F,1978.0,Patricia,220
+UT,F,1930.0,patricia,140
+UT,M,1966.0,John,132
+UT,F,1944.0,Taylor,53
+UT, F ,1981.0,Linda,785
+ UT ,M,1947.0,Michael,25
+UT,F,,Casey,26
+UT,M,1920.0,James,62
+UT,M,1988.0,Jordan,222
+UT,F,1986.0,Jennifer,841
+UT,,1957.0,Casey,1167
+UT,F,1993.0,,391
+UT,M,1973.0,Taylor,134
+UT,M,2002.0,Jordan,109
+UT,F,1952.0,Robert,
+UT,M,2016.0,John,771
+ UT ,,1955.0,Mary,6
+,M,1924.0,Robert,28
+UT,F,1922.0,Mary,9
+UT,M,1959.0,James,279
+UT,F,1919.0,Patricia,56
+UT,,1973.0,Jennifer,124
+UT,F,1954.0,Jennifer,176
+UT,M,2021.0,Patricia,108
+UT,M,2010.0,Robert,160
+,M,1957.0,Jordan,20
+UT, M ,,James,91
+UT,M,1969.0,Jordan,353
+UT,,1940.0,Taylor,8
+ UT ,F,1968.0,Jordan,748
+UT,M,1914.0,Casey,39
+UT,M,,Michael,53
+UT,F,1953.0,Linda,917
+UT,,1924.0,Mary,9
+UT,F,1992.0,Mary,155
+UT,F,1946.0,Patricia,20
+UT,F,1933.0,Jordan,66
+UT,M,1930.0,Michael,16
+UT,,,,11
+UT,M,1912.0,Robert,7
+UT,M,1942.0,Robert,
+UT,M,1926.0,John,189
+UT,F,1991.0,Linda,171
+ UT ,M,1922.0,Robert,26
+UT,M,1944.0,John,227
+UT,M,1974.0,Alex,9
+,M,1958.0,Casey,634
+UT,F,2021.0, Jordan ,1006
+UT, F ,,Patricia,32
+UT,M,1955.0,James,616
+UT,F,1935.0,Casey,132
+UT,F,1923.0,Taylor,41
+UT,F,1983.0,Mary,338
+UT,M,1922.0,Casey,7
+UT,F,1940.0,Linda,778
+UT,M,2000.0,james,244
+UT,M,1937.0,John,230
+UT,M,1949.0,Casey,24
+UT,F,1921.0,Alex,9
+UT,M,1975.0,Jordan,203
+ UT ,F,1923.0,Jennifer,44
+UT,F,1988.0,,33
+UT,M,2012.0,Alex,356
+UT,M,2021.0,Jordan,98
+UT,F,1939.0,Jordan,491
+UT,M,1922.0,Michael,39
+UT,M,1942.0,James,353
+UT,,1992.0,Alex,359
+UT,M,1967.0,James,19
+UT,F,1999.0,Robert,10
+UT,M,2004.0,Casey,221
+UT,F,1922.0,Patricia,
+UT,M,1991.0,Jordan,297
+UT, F ,1992.0,jennifer,794
+UT,M,1922.0,Jordan,12
+UT,F,1951.0,Linda,370
+UT,M,2021.0,Alex,30
+ UT ,F,,,505
+UT, M ,1979.0,,107
+ UT ,F,1978.0,Alex,568
+ UT ,M,1959.0,Taylor,395
+UT,M,2001.0,Taylor,13
+ UT ,F,2019.0,Jordan,215
+UT,F,1994.0,Taylor,86
+UT,M,1925.0,Taylor,17
+UT, M ,1958.0,John,115
+,F,1944.0,Linda,10
+UT,F,1962.0,Patricia,513
+UT,M,1923.0,Jordan,72
+UT,F,1987.0,Alex,94
+UT,F,1976.0,Alex,47
+UT,M,1928.0,John,8
+ UT , M ,1948.0,Alex,25
+,F,1979.0,Alex,225
+UT,F,,Jennifer,21
+UT,M,1931.0,Taylor,12
+UT,,1982.0,Jordan,256
+UT,M,1926.0,Jordan,24
+UT,M,1983.0,Jordan,432
+ UT ,F,2000.0,,336
+UT,M,1972.0,Robert,340
+UT,F,1923.0,Alex,7
+UT,,1942.0,Jennifer,271
+UT,F,1986.0,Taylor,183
+UT,F,1948.0,Taylor,58
+ UT ,M,1936.0,James,330
+UT,M,2022.0,John,15
+ UT ,M,1976.0,Robert,
+UT,M,1922.0,John,18
+UT,F,1937.0,Patricia,26
+UT, M ,1940.0,,407
+UT,F,1932.0,Jennifer,525
+UT,F,1955.0, Jordan ,497
+UT,M,1961.0,,290
+UT,F,,Linda,15
+UT,M,,James,127
+,M,1927.0,Robert,16
+UT,,1946.0,jennifer,6
+UT,M,1948.0,Jordan,113
+UT,F,1955.0,patricia,235
+UT,M,2016.0,Michael,114
+UT,F,2003.0,Jennifer,459
+UT,M,1970.0,Robert,379
+UT,,1945.0,Jennifer,1051
+UT,M,1975.0,John,1107
+UT,M,1997.0,Michael,242
+UT,M,1952.0,Michael,147
+UT,M,2013.0,James,346
+UT,F,1915.0,patricia,6
+ UT ,F,1933.0,mary,42
+UT,F,2006.0,Casey,96
+UT,F,1968.0,Casey,175
+UT, M ,2010.0,Jordan,516
+UT,F,1934.0,Alex,132
+UT,F,2002.0,Jordan,246
+UT,,1947.0,James,5
+UT,F,1977.0,linda,406
+UT,M,1978.0,Casey,752
+ UT ,M,1938.0,Michael,8
+UT,F,1925.0,James,23
+UT,M,1988.0,Alex,248
+UT,F,1970.0,Patricia,309
+UT,F,1999.0,Jennifer,215
+UT,F,1924.0,James,25
+UT,,1937.0, Linda ,59
+UT,F,1947.0,Alex,639
+ UT ,F,,Jordan,15
+,M,1972.0,Jordan,355
+UT, F ,1993.0,,634
+UT,M,2009.0,Jordan,589
+UT,M,1967.0,jordan,168
+UT,F,1957.0,patricia,44
+UT,F,1958.0,Jordan,190
+UT,F,1972.0,Jennifer,174
+UT,M,1971.0, Casey ,215
+UT,F,1920.0,Jennifer,8
+UT,F,1949.0,Taylor,230
+UT,F,2015.0,mary,6
+ UT ,F,1925.0,Mary,75
+UT, M ,1945.0,Casey,158
+UT,F,1913.0,Alex,6
+UT,M,1989.0,Michael,394
+UT,M,1977.0,James,1095
+UT,F,2009.0,John,234
+UT,M,,Michael,100
+,F,1979.0,Linda,143
+UT,F,1937.0,Alex,220
+UT,M,1938.0,Taylor,101
+UT, F ,2004.0,Alex,38
+UT,F,1963.0,Linda,352
+UT,F,1994.0,Mary,115
+UT,F,1952.0,Patricia,
+UT,,1986.0,Casey,505
+ UT ,F,1959.0,Jordan,35
+UT,,1991.0,James,839
+UT,M,2014.0,Taylor,381
+UT,F,2000.0,Jennifer,241
+ UT ,M,, Casey ,209
+UT,F,1975.0,Linda,287
+ UT ,F,1939.0,Alex,40
+UT,F,1921.0,Jordan,16
+UT,F,1988.0,Jennifer,126
+UT,M,1915.0,Taylor,20
+UT,M,1968.0,James,857
+UT,F,1963.0,Jordan,35
+, F ,2015.0,Casey,102
+UT,F,1997.0,Jennifer,240
+UT,F,1984.0,Mary,59
+UT,M,1968.0,Robert,390
+UT,M,1914.0,Michael,36
+UT,F,1964.0,Jennifer,556
+UT,F,1975.0,,224
+UT,M,1979.0,,318
+ UT , F ,1961.0,Jordan,53
+UT,F,1998.0, Taylor ,518
+UT,M,1999.0,Casey,23
+UT,F,1982.0,Alex,47
+UT,M,1958.0,Robert,355
+UT,F,1934.0,Casey,122
+,M,2019.0,Jordan,664
+UT,F,2009.0,Jennifer,377
+UT,F,1986.0,Alex,31
+UT,M,1974.0,michael,225
+UT,F,1938.0,Linda,120
+UT,M,,,129
+UT,F,1985.0,Alex,197
+UT, M ,2016.0,Jordan,12
+ UT ,F,1952.0,linda,866
+UT,M,1915.0,Alex,14
+UT,M,2005.0,Alex,656
+ UT ,F,2015.0,Patricia,317
+UT,F,2012.0,Taylor,310
+UT,M,1950.0,James,592
+UT,F,1972.0,Linda,58
+UT,M,2002.0, Robert ,50
+UT,M,1955.0,michael,52
+UT,F,1935.0,,37
+UT,M,1916.0,john,71
+UT,M,1938.0,John,76
+UT,,1943.0,Michael,18
+UT,M,,Jordan,539
+UT,F,1936.0,Alex,448
+UT,M,,Alex,138
+UT,M,1932.0,James,119
+UT,F,1931.0,Alex,18
+UT,M,1983.0,,488
+UT,M,2021.0,James,48
+UT,M,1949.0,John,292
+UT,M,1939.0,John,422
+UT,M,,John,296
+UT,M,2021.0,Casey,163
+UT,F,2020.0,Alex,99
+UT, M ,1962.0, Jennifer ,91
+UT, F ,1992.0,Jordan,407
+UT,M,1954.0,Robert,394
+,F,1984.0,Jordan,374
+UT,M,1984.0,Robert,140
+UT,F,1991.0,Patricia,543
+UT,F,1927.0,Patricia,22
+,M,1927.0,Michael,243
+UT,F,1923.0,Patricia,8
+UT,M,,James,49
+UT,F,1988.0,Linda,43
+UT,M,1965.0,Jordan,10
+UT,F,1957.0,Mary,41
+UT,M,1961.0,John,123
+UT,F,1995.0,Linda,649
+UT,F,1943.0,Linda,
+UT, M ,2002.0,James,44
+UT,F,1984.0,Casey,1004
+UT,M,1981.0,Casey,50
+UT,M,1947.0,Casey,530
+ UT ,F,2011.0,Casey,100
+UT,M,1978.0,Taylor,300
+UT,M,1931.0,Alex,26
+UT,M,1947.0,Alex,14
+UT,F,2006.0,Alex,25
+UT,F,1978.0,Jennifer,
+UT,M,1938.0,Alex,149
+UT,F,1919.0,Patricia,56
+UT,M,2000.0,Alex,439
+UT,F,1987.0,Taylor,63
+UT,F,2020.0,Jordan,
+UT,F,1963.0,Alex,506
+,F,1982.0,robert,596
+UT,M,1976.0,Michael,269
+UT,M,1978.0,Michael,475
+UT, M ,1984.0,James,65
+UT,M,1959.0,Mary,68
+UT,F,1914.0,Taylor,
+UT,M,2014.0,Robert,21
+UT,M,1969.0,Alex,368
+ UT ,F,1981.0,Jennifer,17
+UT,F,1952.0,Taylor,26
+UT,M,1973.0,,230
+ UT ,F,,Casey,163
+UT,F,1994.0,Jennifer,142
+UT, M ,1970.0,Alex,
+UT,M,1937.0,Robert,5
+,,1952.0, Michael ,21
+UT,M,1987.0,Casey,466
+ UT ,F,1972.0,John,428
+UT,F,1966.0,,126
+UT,F,1953.0,Jennifer,858
+ UT ,F,1986.0,patricia,474
+UT, M ,1966.0,Jordan,39
+UT, F ,1936.0,Mary,190
+UT, F ,,Alex,477
+ UT ,F,1980.0,Casey,519
+UT, F ,1959.0,Taylor,305
+UT,M,1921.0,,41
+,F,2021.0,Jennifer,12
+UT,F,1972.0,Alex,300
+UT,M,1957.0,Taylor,455
+UT,M,2018.0,Alex,24
+UT,F,1948.0,Linda,62
+UT,F,2002.0,Jennifer,16
+UT,M,1918.0,Casey,
+UT,M,1918.0,Jordan,43
+UT,M,1944.0,Casey,13
+UT,M,1920.0,Michael,12
+UT,M,1937.0,James,647
+UT,F,1948.0,Casey,29
+ UT ,M,1967.0,Michael,95
+UT,M,1941.0,John,436
+UT,M,1951.0,John,122
+UT,F,1998.0,Jennifer,199
+UT,F,2012.0,Mary,9
+ UT ,M,1973.0,James,252
+UT,F,1979.0,Taylor,307
+UT,M,1937.0,Taylor,6
+UT, M ,2011.0,Jordan,738
+UT,F,1983.0,Linda,203
+UT,F,2011.0,Taylor,239
+UT,F,1990.0,Jordan,777
+UT,F,1918.0, Casey ,13
+UT,F,1917.0,Jordan,5
+UT,,1946.0,jennifer,6
+ UT ,,1982.0,John,133
+ UT ,M,1946.0,Casey,454
+UT,M,1942.0, Michael ,66
+, F ,1990.0,Jennifer,252
+UT,M,1986.0,,64
+,M,1966.0,,752
+UT,M,2016.0, Casey ,60
+UT,F,1968.0,Patricia,1101
+UT,M,1996.0, John ,391
+UT,F,1951.0,Taylor,104
+UT, M ,1923.0,Michael,83
+UT, M ,1995.0,Jordan,761
+UT, F ,2011.0,Mary,659
+UT, M ,1924.0,Taylor,20
+UT,F,1945.0,Casey,534
+UT, M ,1985.0,Casey,294
+UT,F,1994.0,Patricia,727
+UT,M,2007.0,James,443
+UT,M,1964.0,Alex,670
+UT,F,,Jennifer,130
+UT,M,1942.0,Jordan,1076
+UT,M,1947.0,Taylor,220
+UT,F,2009.0,Jordan,141
+UT,F,1996.0,Linda,218
+UT,M,1970.0,Jordan,77
+ UT ,M,1999.0,,71
+UT,F,2008.0,Casey,77
+UT,F,2008.0,Alex,5
+UT,F,1969.0,Linda,77
+, F ,1999.0,Linda,
+UT, M ,1951.0,taylor,61
+,M,1996.0,Alex,382
+UT,M,1953.0,James,8
+UT, F ,1947.0,Jordan,38
+UT,F,,Linda,285
+UT,F,2003.0,Taylor,28
+UT,M,2004.0,James,1096
+UT,M,2005.0,Jordan,79
+UT,F,1947.0,,205
+UT,F,1982.0,jennifer,257
+UT,M,1972.0,John,529
+UT,F,2008.0,John,48
+UT,F,2019.0,Taylor,1046
+UT,M,1963.0,Jordan,140
+UT,M,1982.0,Casey,648
+UT,M,1953.0,Jordan,83
+UT,F,1958.0,John,55
+ UT ,F,2018.0,Jordan,
+UT,M,1915.0,James,54
+UT,M,1968.0,Taylor,566
+UT,M,1911.0,Taylor,9
+UT,F,2009.0,Alex,
+ UT ,M,2013.0,Alex,707
+UT,M,,Taylor,403
+ UT ,M,2007.0,John,121
+UT,M,1995.0,Michael,247
+UT,F,2014.0,Jordan,369
+UT,F,1971.0,Linda,271
+UT,F,1979.0,Patricia,232
+ UT ,M,2004.0,Alex,493
+UT,F,2007.0,Jennifer,144
+UT,M,1959.0,Casey,47
+UT, F ,1981.0,Patricia,365
+UT,M,1941.0,Robert,9
+UT, F ,1967.0,jennifer,
+UT, M ,,Jennifer,73
+UT,M,2000.0,Michael,311
+UT,,1943.0,patricia,11
+UT,M,1948.0,Michael,775
+UT,M,1996.0,Michael,128
+UT,M,1937.0,Casey,14
+UT,F,2016.0,Patricia,11
+UT,F,, Jordan ,69
+ UT ,M,1944.0,Robert,38
+UT,,2018.0,Jordan,
+,M,1999.0,michael,37
+UT,F,1974.0,Taylor,226
+UT,M,1978.0,Robert,244
+UT,F,,Mary,12
+ UT ,F,1991.0,Casey,625
+UT, M ,1932.0,,14
+UT, F ,1988.0,Alex,45
+UT,M,1946.0,Jordan,37
+UT,M,,Michael,141
+UT,F,1988.0,,33
+UT,M,1938.0,James,10
+UT, M ,2002.0,Taylor,25
+UT,M,2000.0,Casey,20
+UT,M,1980.0,Michael,216
+UT,F,1983.0,Mary,338
+UT,M,1975.0,Robert,377
+UT,M,1977.0,John,301
+UT,F,1991.0,Alex,195
+UT,F,1941.0,Taylor,789
+,F,2000.0,alex,
+UT,F,,Casey,120
+UT,M,1934.0, Michael ,63
+UT,M,1932.0,Jordan,5
+UT,M,1986.0,Alex,120
+UT,F,2011.0,Linda,23
+, M ,1945.0,,153
+UT,F,2019.0,Mary,59
+UT,F,1953.0,Casey,280
+UT,F,,Jennifer,881
+UT,M,1971.0,Taylor,288
+UT, F ,1965.0,Mary,441
+UT, F ,1983.0,Jennifer,208
+UT,M,1987.0,Michael,101
+UT,F,1978.0,Taylor,88
+UT,M,1999.0,Robert,278
+UT,,2007.0,michael,271
+UT,M,1925.0,Linda,29
+UT,,1971.0,Michael,267
+UT,M,1986.0,James,1369
+UT,F,1967.0,Casey,310
+ UT ,M,2007.0,Casey,363
+UT,F,,Jennifer,20
+ UT ,M,2001.0,John,191
+UT,F,1965.0,Alex,158
+UT,F,2010.0,Casey,452
+UT,M,,,300
+UT,F,1935.0,Taylor,648
+UT,F,1972.0,Casey,196
+UT,F,1951.0,Mary,129
+UT,M,1967.0,Alex,921
+UT,F,1924.0,Jennifer,152
+UT,F,2021.0,Linda,47
+UT,F,1966.0,Taylor,215
+UT,M,1959.0,Alex,177
+,F,1993.0,Mary,27
+UT,M,2014.0, Patricia ,69
+UT,M,1960.0,Alex,25
+UT,M,1920.0,Taylor,25
+UT,M,1977.0,Robert,50
+UT,M,1967.0,Alex,921
+UT,F,1996.0,Jordan,412
+ UT ,M,2001.0,Casey,119
+UT,F,2013.0,Linda,32
+UT,M,1997.0,james,417
+UT,F,1958.0,Patricia,1047
+UT,M,1950.0,Robert,377
+UT,,1974.0,Linda,697
+UT,M,1939.0, Jordan ,217
+UT,F,1998.0,Casey,153
+UT,F,1939.0,Taylor,21
+UT,F,1920.0,Linda,
+UT,M,1976.0,Taylor,48
+ UT ,F,1959.0,Jennifer,6
+UT,M,2002.0,michael,522
+UT,M,1981.0,Robert,114
+,F,1963.0,Patricia,20
+UT,F,1938.0,Taylor,231
+UT,M,1950.0,Taylor,68
+UT,F,1969.0,Patricia,70
+UT,M,1943.0,John,8
+UT,M,1974.0,Robert,655
+,M,2000.0,Jordan,60
+UT,M,1976.0,Casey,503
+UT,M,2017.0,Jordan,125
+UT,F,1955.0,Casey,401
+UT, F ,1977.0,Casey,17
+,F,1942.0,Patricia,355
+UT,F,1958.0,jennifer,65
+UT,F,1995.0,Mary,64
+UT,M,1991.0,Michael,41
+UT,F,1959.0,Patricia,244
+UT,F,1983.0,Patricia,506
+UT,M,1960.0,Taylor,46
+UT,F,1950.0,Alex,41
+UT, M ,1968.0,Alex,70
+UT,M,1955.0,Casey,1273
+UT,F,1942.0,Taylor,15
+ UT ,M,1955.0,Alex,210
+UT,M,1971.0,James,198
+UT,F,1911.0,Taylor,7
+UT,M,1941.0,Taylor,342
+UT,M,1951.0,,245
+UT,M,1942.0,,29
+UT,F,1938.0,Casey,42
+,F,1972.0,Taylor,163
+UT,M,2008.0,James,123
+,F,1961.0,,608
+UT,M,1934.0,Jennifer,5
+UT,M,1972.0,James,74
+UT,F,1960.0,Patricia,376
+UT,M,1969.0,John,20
+UT, M ,2003.0,Taylor,207
+UT,,1913.0,Casey,11
+UT,F,2015.0,Jennifer,136
+UT,F,2018.0,Taylor,405
+UT,M,1948.0, John ,167
+UT,M,1941.0,James,30
+UT,M,1965.0,,371
+UT,M,1919.0,Taylor,152
+UT,F,1939.0,Mary,6
+,F,1995.0,Jennifer,27
+UT, M ,1968.0,Michael,845
+UT,M,1994.0,Alex,41
+ UT ,M,1932.0,Linda,35
+UT,F,1999.0,Taylor,125
+UT,,,Jordan,55
+UT, M ,1989.0, John ,71
+UT,F,1956.0,Taylor,27
+UT,F,2006.0,Taylor,
+UT,F,1985.0,linda,564
+UT,F,1949.0,Casey,831
+,F,2007.0,Casey,323
+UT,M,2015.0,Taylor,32
+UT,F,1952.0,Mary,5
+,F,2017.0,Alex,8
+UT,F,1964.0,Jordan,522
+UT,F,1968.0,,
+,F,2015.0,,10
+ UT ,M,1984.0,michael,278
+UT,M,1962.0,Alex,75
+UT,F,1964.0,Casey,609
+UT, F ,1979.0,,645
+UT,F,1994.0,Casey,89
+ UT ,M,1939.0,Michael,52
+UT,F,1975.0,Jennifer,235
+UT,F,1946.0,Casey,518
+UT,M,1991.0,Robert,489
+UT, F ,,Patricia,478
+UT,M,1935.0,Alex,320
+UT,M,1960.0,Robert,29
+UT,F,1951.0,Jordan,9
+UT,F,1998.0,Mary,490
+UT,M,1983.0,James,30
+UT,,1969.0,Alex,323
+UT,M,1998.0,Robert,73
+UT,F,1966.0,Patricia,151
+UT,M,2015.0,Michael,15
+UT,,2003.0,Michael,59
+UT,F,1946.0,Jordan,642
+UT,M,1995.0,John,94
+UT, F ,1984.0,Jennifer,535
+UT, M ,1994.0,James,318
+UT,M,1996.0,Robert,389
+UT,,1930.0,Casey,7
+ UT ,M,2012.0,Taylor,16
+UT,F,2020.0,Linda,38
+UT, F ,1993.0,Taylor,319
+ UT ,F,1936.0,patricia,5
+,F,,Casey,38
+UT,F,1948.0,alex,303
+UT,,1942.0,Linda,40
+UT,F,2000.0,Taylor,71
+UT,F,2001.0,Jordan,114
+UT,M,1938.0,Robert,295
+UT, M ,2022.0,Alex,399
+UT,M,1928.0,Taylor,92
+UT,M,, Michael ,35
+UT,F,2016.0,Casey,
+UT,F,2021.0,Taylor,38
+UT,M,1934.0,John,112
+UT, M ,2002.0,Casey,103
+UT,M,1983.0,Taylor,74
+UT,M,1998.0,James,956
+UT,F,1922.0,Alex,21
+UT,M,1989.0, Alex ,173
+UT,,1977.0,Taylor,483
+UT,F,2002.0,Taylor,417
+UT,M,2018.0,John,27
+UT,F,,Patricia,84
+UT,M,1940.0,,137
+UT,F,1965.0, Linda ,12
+UT,F,1946.0,Alex,17
+UT,F,1976.0,Linda,156
+UT,F,1995.0,James,
+UT,M,1993.0,John,209
+UT,F,,Casey,311
+UT,,1946.0,Mary,97
+UT, F ,1970.0,Jennifer,133
+ UT ,M,1987.0,Jordan,28
+UT,F,1940.0,Jordan,48
+ UT ,M,1931.0,John,121
+UT,M,1996.0,jennifer,456
+UT,F,2006.0,Jennifer,134
+UT,F,1931.0,michael,10
+UT,M,2005.0,Robert,45
+UT,F,1995.0,Taylor,70
+UT,M,1971.0,Jordan,144
+UT,F,1946.0,Taylor,239
+UT,M,1943.0,John,8
+UT,F,2001.0,Mary,326
+ UT ,F,1948.0,Patricia,57
+UT,M,1965.0,Taylor,27
+UT,F,1945.0,Taylor,116
+UT,M,1916.0,john,71
+UT,M,1952.0,Alex,22
+UT, M ,1965.0,Casey,265
+UT,M,2012.0,Robert,11
+UT,M,1997.0,Robert,765
+UT,M,1956.0,Jordan,18
+UT,F,2001.0,John,128
+ UT , M ,1994.0,Taylor,148
+UT,M,1957.0,Casey,480
+UT,M,1959.0,John,382
+UT,F,1935.0,Linda,152
+UT,M,1911.0,James,5
+UT,F,,Mary,11
+UT,M,1977.0,Michael,165
+UT,,1989.0,Patricia,100
+ UT ,F,1933.0,mary,42
+,F,2011.0, Jordan ,239
+,M,1963.0,Michael,
+UT,,1962.0,Casey,18
+ UT ,M,1976.0,Jordan,24
+UT,,2011.0,Michael,5
+UT,,1974.0,Jordan,416
+UT,M,1976.0, John ,222
+UT,M,1968.0,Patricia,16
+ UT ,F,1965.0,Taylor,322
+UT,M,2013.0,Michael,21
+UT,M,2017.0,John,44
+UT,F,1959.0,Casey,47
+UT,F,,Mary,190
+UT,F,1944.0,Casey,52
+UT,M,1929.0,Jordan,214
+UT,,1970.0,,246
+UT,F,1973.0,casey,121
+UT,F,1959.0,Alex,802
+UT,,1947.0,Linda,432
+UT, M ,1995.0,Robert,1120
+UT,F,1941.0,Alex,219
+UT,,1960.0,Linda,17
+UT,M,1950.0,Jordan,575
+ UT ,F,1969.0,Jordan,305
+UT,F,2011.0,Alex,60
+UT,F,1999.0,Casey,34
+UT,F,1943.0,Mary,51
+UT,F,2020.0,Casey,80
+UT,F,2017.0,Casey,110
+,M,2001.0,Robert,202
+ UT ,F,1980.0,alex,401
+UT,F,2007.0,Mary,35
+UT, F ,,Casey,
+UT,F,,Jordan,135
+UT,M,1975.0,,
+UT,M,1942.0,Alex,16
+UT,M,1928.0,James,21
+UT,M,1948.0,Taylor,13
+UT,M,1992.0,Michael,98
+UT,F,1970.0,Jordan,312
+ UT ,M,2020.0,Alex,8
+UT, M ,1988.0,Robert,23
+UT,M,2018.0,Taylor,301
+UT,M,1932.0,John,300
+,F,1919.0,Jordan,15
+UT,F,1956.0,Linda,370
+UT,F,1998.0,Linda,39
+UT,F,2021.0,Alex,26
+UT,M,1985.0,Mary,396
+UT,F,1945.0,Casey,534
+,F,1938.0,Patricia,652
+ UT , F ,1997.0,Alex,47
+UT, M ,1999.0,John,509
+UT, F ,1976.0,Jordan,220
+UT,M,,Taylor,
+UT,M,1916.0,Jordan,143
+UT,M,2017.0,James,123
+UT,F,1986.0,Linda,83
+UT,M,1959.0, Michael ,172
+UT,M,1935.0,Casey,228
+ UT ,M,1982.0,Michael,869
+UT,F,1948.0,mary,471
+UT,F,1988.0,Mary,
+UT, F ,1977.0,Michael,72
+UT,F,1940.0,casey,185
+UT,F,1967.0,Linda,477
+UT,M,1910.0,John,9
+UT, M ,1966.0,Alex,175
+ UT ,M,1988.0,Taylor,27
+UT,,2022.0,Jennifer,455
+UT,,1913.0,Patricia,8
+UT,,1937.0,Mary,736
+UT,M,1913.0,John,9
+UT,F,1969.0,Taylor,773
+UT,F,1993.0,Linda,411
+UT,F,,Alex,31
+UT,F,1977.0,taylor,56
+UT,F,1979.0,Jennifer,604
+UT,M,1958.0,Linda,339
+UT,F,1912.0,Taylor,11
+ UT ,M,1979.0,Robert,517
+UT, M ,2018.0,Casey,162
+UT,M,1961.0,Jordan,100
+UT,M,2013.0,John,25
+UT,M,1999.0,James,1181
+UT,F,1996.0,Alex,88
+UT,F,1918.0,Jennifer,6
+UT,M,1989.0,Jordan,570
+UT,M,1933.0,john,32
+ UT ,F,2019.0,Jennifer,107
+UT,M,1954.0,John,459
+UT,F,1977.0,Alex,
+UT,F,,jordan,125
+ UT ,M,1933.0,,37
+UT, M ,1976.0,Alex,763
+UT,,1956.0,Jordan,265
+UT,M,2004.0,Michael,405
+UT,M,1967.0,Casey,324
+UT,,2017.0,Alex,462
+UT, M ,1981.0,,365
+UT,F,1928.0,,9
+UT,,2003.0,,140
+ UT ,F,2002.0, Mary ,
+UT,M,1948.0,James,564
+UT,F,1984.0,Alex,
+UT, F ,2010.0,Mary,83
+UT,F,2000.0,Robert,216
+UT,M,1935.0,John,141
+UT,F,2017.0,Linda,268
+UT, M ,1988.0,John,452
+ UT ,F,1963.0,Mary,54
+UT,F,1988.0,Patricia,94
+UT,M,1958.0, Alex ,35
+UT,F,2004.0,Taylor,550
+UT,M,1956.0,Casey,
+UT,,1959.0, Mary ,81
+ UT ,M,1960.0,Jordan,
+UT,M,2019.0,Casey,29
+UT,F,1985.0,Casey,204
+UT, F ,1958.0,Taylor,191
+UT,F,1928.0,Taylor,240
+UT, M ,1918.0,Michael,28
+, F ,1927.0,Alex,8
+ UT ,F,1983.0,Jordan,41
+UT,,2007.0,taylor,290
+UT,F,1973.0,Alex,121
+UT,F,1939.0, Jennifer ,364
+UT,M,1994.0,Michael,709
+UT,M,1973.0,Alex,787
+UT,F,1976.0,Patricia,241
+UT,M,,Jordan,112
+UT,F,,Jordan,842
+ UT ,F,1990.0,Alex,365
+UT,M,,Robert,264
+UT,F,,Jordan,153
+UT,F,1940.0,James,23
+UT,F,2005.0,Linda,1080
+UT,M,1929.0,alex,163
+UT,M,2015.0,Jordan,121
+UT,M,1962.0,Casey,40
+UT, F ,1949.0,Jennifer,29
+UT,M,1963.0,Robert,776
+, M ,2006.0,Alex,123
+UT,F,2002.0,Linda,19
+UT,M,1920.0,Michael,12
+UT,M,1986.0,Michael,217
+UT,F,,Casey,272
+UT,M,2013.0,Taylor,540
+UT,M,1984.0,Alex,1117
+UT,M,1936.0,Alex,20
+UT,M,2006.0,John,60
+UT,F,,Casey,170
+UT,M,1930.0,Jordan,101
+UT,,1982.0,Linda,
+,M,2013.0,Jordan,675
+UT, M ,1947.0, Jordan ,193
+UT,F,1949.0,Linda,49
+,F,1972.0,Jordan,1064
+,F,1978.0,Linda,
+UT,F,1944.0,Jordan,116
+UT,,1957.0,Alex,716
+UT,M,2007.0,Linda,561
+UT,F,1986.0,Taylor,183
+UT,F,1992.0,Taylor,115
+UT,M,1993.0,Alex,30
+UT,M,2006.0,Robert,114
+UT, M ,1984.0,,157
+UT,M,1984.0,Taylor,145
+UT,M,2000.0,Mary,155
+UT,F,1926.0,Jordan,342
+UT,M,1954.0,James,125
+UT, F ,1926.0,Linda,17
+UT,M,1963.0,John,506
+UT,M,1986.0,Mary,169
+UT,,,Michael,301
+UT,M,1986.0,Robert,61
+UT,M,1997.0,Taylor,122
+UT,M,2011.0,Casey,91
+UT,M,1982.0,Taylor,173
+UT,F,1961.0,,89
+UT,F,1971.0,Mary,477
+UT,M,2010.0,Alex,98
+UT,M,1992.0,John,194
+UT,F,1946.0,Linda,172
+ UT ,M,2015.0,Robert,228
+UT,F,1978.0,Mary,45
+UT,F,1960.0,Casey,99
+UT,F,2016.0,Mary,205
+UT,M,1982.0,Jordan,391
+UT,F,1981.0,mary,112
+UT,M,2012.0,Casey,56
+ UT ,F,,Robert,10
+UT,M,1992.0,James,44
+UT,F,1974.0,Mary,152
+UT,F,1956.0,Patricia,648
+, M ,,Jordan,429
+UT,,1985.0,Jordan,43
+ UT ,M,1990.0,Michael,273
+UT,M,2001.0,Alex,766
+UT,F,2004.0,Jordan,391
+UT,F,1961.0,mary,274
+UT,F,1966.0,Jennifer,110
+UT,F,1989.0,Alex,1163
+UT,M,1952.0,Robert,362
+UT,M,1931.0,James,10
+UT,M,1998.0,Michael,103
+ UT ,M,1973.0, Casey ,208
+UT,F,1930.0,Mary,35
+UT,M,1936.0,Michael,7
+UT,F,1957.0,Jennifer,805
+UT,F,1978.0,Jordan,478
+UT,F,1971.0,Taylor,308
+UT,F,1922.0,Taylor,158
+UT, M ,1933.0,alex,11
+UT,,1951.0, Jordan ,162
+UT,F,2015.0,Alex,88
+UT,F,2017.0,Casey,110
+UT,F,2008.0,Mary,
+UT,F,1962.0,Taylor,241
+UT, M ,1942.0,Casey,279
+UT,M,1963.0,Taylor,162
+UT,M,1968.0,Casey,16
+ UT ,F,2000.0,Linda,479
+UT,M,1985.0,Taylor,94
+UT,M,2001.0,James,33
+UT,F,1960.0,Taylor,395
+UT, M ,2022.0, James ,20
+UT,F,2008.0, Patricia ,771
+UT,F,1957.0, Taylor ,726
+UT,F,,Casey,64
+UT,F,1963.0,Jennifer,643
+,M,1934.0,Jordan,399
+UT,M,1960.0,Michael,344
+UT,M,1949.0,James,36
+UT, F ,1960.0,Alex,867
+UT,M,1945.0,John,11
+UT,F,1950.0,Patricia,9
+UT,M,1974.0,Mary,404
+UT,F,,Patricia,153
+UT,M,1957.0,James,193
+,M,1969.0,Michael,225
+UT,M,1929.0,Taylor,7
+UT, F ,,Jennifer,665
+UT,F,1982.0,Mary,256
+UT, M ,1999.0,Taylor,15
+UT,M,1955.0,Taylor,
+UT,M,1981.0,Linda,170
+UT,F,1977.0,Jennifer,499
+UT,M,1920.0,John,66
+ UT , M ,,Taylor,71
+UT, F ,1987.0,Jennifer,1117
+UT,M,1951.0,Mary,56
+UT,F,2007.0,Jordan,668
+UT,M,1951.0,Linda,415
+UT,F,1964.0,Linda,
+UT,F,1949.0,Taylor,230
+UT,F,2001.0,Alex,15
+UT, F ,2016.0,Taylor,115
+UT,F,2005.0, Taylor ,
+UT,M,2021.0,Robert,28
+,F,1972.0,Jordan,1064
+ UT ,F,1991.0,Taylor,56
+UT,F,1944.0,Alex,28
+UT,M,2017.0,Taylor,29
+UT,F,1970.0,mary,995
+ UT ,F,1950.0, Linda ,382
+,F,1975.0,Michael,1277
+UT,M,1956.0,Robert,52
+UT,M,1974.0,Taylor,108
+UT,M,2003.0,Alex,14
+UT,M,1993.0,Taylor,606
+UT,M,1939.0, Casey ,31
+UT,M,1980.0,Alex,333
+UT,M,1990.0,Casey,213
+UT,M,2022.0,Casey,12
+UT,M,1990.0,Alex,186
+UT,M,1989.0,Robert,300
+ UT ,M,1977.0,Mary,399
+UT,F,1996.0,Mary,158
+UT,M,1939.0,Jennifer,119
+UT,M,1912.0,Jordan,6
+UT,M,1961.0,Alex,657
+UT, F ,1989.0,Linda,65
+ UT ,F,,Jordan,6
+UT, M ,2015.0,James,32
+UT,F,1986.0,Mary,67
+UT,M,1947.0,Robert,199
+UT,M,1961.0,Robert,417
+,,1994.0,Robert,169
+UT,F,1987.0,,327
+UT,M,1934.0,James,6
+UT,M,2020.0,Robert,7
+UT,F,1928.0,Casey,193
+UT, M ,2009.0,John,95
+ UT ,M,2010.0,,26
+UT, M ,1973.0,John,61
+UT,M,1955.0,John,56
+UT,M,1946.0,Alex,54
+UT,F,1989.0,Casey,723
+UT,,2002.0,John,94
+UT,M,1958.0,Taylor,111
+ UT ,M,1931.0,Jordan,33
+UT,M,1971.0,Robert,915
+UT,M,1927.0,Alex,9
+UT,M,1981.0,Alex,
+UT,M,2008.0,,256
+ UT , M ,1949.0,Michael,39
+UT,M,1952.0,Casey,305
+UT,M,1916.0,James,109
+UT,F,1965.0,Jennifer,73
+UT,M,2008.0,Alex,86
+UT,F,1983.0,Casey,320
+UT,M,1996.0,Robert,389
+UT,F,1930.0,Casey,12
+UT, F ,2006.0,Patricia,72
+UT,F,1999.0,Alex,68
+UT, M ,2007.0,Robert,33
+ UT ,M,1980.0,Robert,286
+UT,M,1962.0,John,776
+,M,2011.0,Alex,170
+UT,F,1929.0,,
+,M,1995.0,Alex,147
+UT,F,1925.0,Linda,205
+UT,F,1925.0,taylor,291
+UT,M,1996.0,jennifer,456
+UT,F,1958.0,,154
+UT,F,1936.0,Linda,13
+UT,F,1996.0,Casey,46
+ UT ,F,1938.0,Mary,417
+UT,M,1927.0,Jordan,181
+UT,F,1933.0, Jennifer ,10
+UT,F,1930.0,Jennifer,59
+UT,M,1926.0,James,90
+UT,,1920.0,Alex,26
+UT,F,1989.0,Robert,687
+UT, F ,1936.0,Taylor,47
+UT,,2022.0,Patricia,98
+UT,F,1999.0,Jordan,957
+ UT ,,2017.0,Robert,641
+UT,F,2001.0,Taylor,26
+UT,M,1970.0,John,841
+UT,F,1917.0, Casey ,
+UT,M,1993.0,Casey,157
+, M ,2008.0,Robert,78
+, F ,2010.0, Alex ,673
+UT,F,1961.0,Casey,609
+UT,M,1935.0,Taylor,
+UT,F,1974.0,Alex,180
+UT,M,1970.0,Casey,210
+UT, M ,1937.0,Alex,176
+UT,M,1994.0,John,305
+,M,1992.0,Robert,964
+UT,F,2008.0,James,15
+UT,F,1971.0,Alex,11
+UT,,1934.0,Patricia,36
+ UT ,M,1957.0,Robert,17
+UT, F ,2008.0,Jennifer,89
+UT,F,1910.0,Mary,13
+UT,M,1998.0,Taylor,430
+UT,F,1927.0,Jennifer,345
+UT,F,1983.0,Taylor,562
+UT,M,1962.0,Taylor,238
+UT,F,2001.0, Jennifer ,188
+UT,M,1956.0,John,20
+UT,M,2018.0,John,27
+,M,1941.0,Mary,391
+UT,M,1961.0,Taylor,244
+UT,F,1968.0,John,29
+UT,M,2003.0,John,19
+UT,M,1951.0,Casey,67
+UT,F,1980.0,Mary,100
+UT,M,2016.0,Alex,106
+UT,M,1951.0,James,1012
+UT,M,1917.0,Jordan,10
+,M,1986.0,Casey,239
+UT,M,1976.0,James,672
+UT,F,1969.0,Casey,140
+UT,M,1936.0,Jordan,166
+UT,M,1998.0,John,36
+UT,F,2021.0, Patricia ,126
+UT,M,1953.0, Alex ,785
+UT,M,1978.0,James,125
+UT,M,1988.0,Michael,434
+UT,F,1962.0,Mary,56
+UT, M ,1953.0,Casey,240
+UT,F,1991.0,Jennifer,73
+UT,F,1910.0,Patricia,8
+UT,F,2009.0,Taylor,63
+UT,F,1974.0,Casey,199
+UT,M,2022.0,Robert,
+UT,,2008.0,taylor,379
+UT,F,1995.0,,597
+UT,F,1995.0,Jordan,530
+UT, F ,1980.0,Jordan,107
+UT,F,2001.0,linda,88
+UT,F,1951.0,Jennifer,98
+ UT ,M,2014.0,James,38
+UT,M,1953.0,Michael,337
+UT,M,1944.0,Alex,1255
+UT,F,,Jennifer,9
+UT,M,2021.0,John,343
+UT,M,1912.0,Alex,56
+UT,F,1981.0,Jordan,
+ UT ,F,2014.0,Taylor,51
+ UT ,M,1980.0,John,305
+UT,F,2012.0,Alex,42
+UT,,1984.0,John,
+ UT ,F,1979.0,Casey,199
+ UT ,F,1998.0,Jordan,1055
+ UT ,F,1943.0,Jordan,656
+UT,M,2011.0,Robert,23
+UT,M,1985.0,Alex,420
+UT,M,1993.0,Taylor,606
+UT,F,2018.0,Casey,7
+UT, M ,1950.0,Alex,18
+ UT ,,1973.0,Robert,60
+ UT ,M,1975.0,James,127
+UT,M,1991.0,Alex,575
+UT,F,,casey,867
+ UT ,M,2022.0,Taylor,8
+UT,M,2011.0,Taylor,207
+UT,F,1962.0,Alex,363
+UT,M,1993.0,James,210
+UT,M,1919.0,John,10
+UT,F,1941.0, Casey ,33
+,F,1915.0,jordan,7
+UT,F,1941.0, Jordan ,58
+UT,F,1980.0,Taylor,318
+UT,M,1968.0,Jordan,224
+UT,F,1919.0,Jennifer,16
+UT, M ,1943.0,James,8
+UT, F ,2003.0,Jordan,261
+ UT ,M,1947.0,John,206
+UT,,1996.0,James,886
+UT,F,2006.0,Linda,357
+UT,M,1982.0,Alex,139
+UT,F,2020.0,Jordan,
+UT,M,2008.0,Casey,22

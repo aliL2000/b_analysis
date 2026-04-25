@@ -1,1646 +1,1645 @@
-State,Sex,Year,Name,Count
-NJ,M,1941.0,,51
-NJ,M,1954.0,Michael,53
-NJ,F,1937.0,Jennifer,52
-NJ,F,1922.0,Alex,253
-NJ,M,1956.0,Linda,231
-NJ,M,2010.0,James,250
- NJ ,F,2020.0,Taylor,29
- NJ ,M,1962.0,Robert,
- NJ ,M,2011.0,Alex,494
-,M,2009.0,John,211
-NJ, F ,,Jordan,107
-NJ,M,1925.0,James,17
-NJ,F,1958.0,Mary,85
-NJ,M,1918.0,Jordan,65
- NJ ,M,2016.0,John,44
-NJ,M,1969.0,Michael,33
-NJ,F,1929.0,Taylor,245
-NJ,F,1994.0,Jennifer,34
-NJ,M,1983.0,john,802
-, M ,1924.0,Taylor,5
-NJ,F,1981.0,Patricia,
- NJ ,F,1919.0,Mary,5
-NJ,,1968.0,Jordan,199
-NJ,M,1946.0,Taylor,214
-NJ,F,1983.0,Alex,321
-NJ, M ,1942.0,jordan,17
-NJ,F,1996.0, Jordan ,460
-NJ,M,1964.0,John,38
-NJ,F,1991.0,Patricia,337
-NJ,M,2003.0,Taylor,48
-NJ, F ,1978.0,Alex,143
-NJ,M,1953.0,Alex,61
-NJ,M,1920.0,Michael,27
- NJ ,M,2003.0,Jordan,196
-NJ,,2001.0,John,781
-NJ,F,2016.0,Linda,45
-NJ,M,2008.0,Alex,22
-NJ,M,1932.0,Robert,609
-NJ,M,1966.0,Taylor,103
-NJ,M,1910.0,Jordan,25
-NJ,M,1931.0, Taylor ,239
-NJ,M,1975.0,John,305
-NJ,F,1947.0,Mary,1317
-NJ,F,1925.0,Jennifer,48
-NJ,F,1915.0, Mary ,17
-NJ,F,2005.0, Alex ,105
-NJ,M,1949.0,John,36
-NJ,F,2021.0,,11
-NJ, M ,1937.0,Jordan,321
-NJ,F,1986.0,Casey,249
-NJ,M,1959.0,Jordan,
-NJ,F,1911.0,Mary,40
-NJ,F,1996.0,Linda,119
-NJ,M,1937.0,Michael,5
-NJ,F,1965.0,Casey,685
-NJ,,1997.0,Robert,
-NJ,F,1937.0,James,80
-NJ,M,2021.0,John,97
-NJ,M,2008.0,Jordan,180
-NJ,F,1951.0,Taylor,93
-NJ,M,1918.0,Casey,117
-NJ, F ,1970.0,Jennifer,122
-, M ,2011.0,Michael,61
-,F,2000.0,Jordan,126
-NJ,F,1993.0,,
-,F,1922.0,Linda,20
-NJ,F,1992.0,Patricia,382
-NJ,M,2009.0,James,308
-NJ,F,1923.0,,49
-NJ,M,2012.0,Alex,152
-NJ,F,1989.0,John,237
-NJ,F,1963.0,Patricia,365
-,F,1959.0,Taylor,142
-NJ,F,1981.0,Linda,156
-NJ, F ,1939.0,Casey,97
-NJ,M,1932.0,Michael,180
-NJ,M,1981.0,Taylor,475
- NJ ,F,1942.0,Alex,310
-, F ,1974.0,Casey,646
-NJ,M,1991.0, Casey ,153
-NJ,F,,Casey,195
-NJ,F,1985.0,taylor,85
-,M,1973.0,Alex,707
-NJ,F,2022.0,Mary,
-NJ, M ,2006.0,Robert,801
-NJ,F,1977.0,Taylor,744
-NJ,M,1971.0,Jennifer,71
-NJ,,1965.0,john,308
-NJ,F,2013.0,Alex,12
-NJ,F,2005.0,jennifer,146
-NJ,F,1927.0,Jordan,14
-NJ,F,1911.0,Jordan,47
- NJ ,,1971.0,Taylor,37
-,F,1928.0,Patricia,34
-NJ,F,1961.0,Alex,191
-NJ,F,1917.0,Jennifer,11
-NJ,F,1925.0,Casey,28
-NJ,M,1915.0,Taylor,20
-NJ,M,1970.0,,607
-NJ,M,1954.0,Casey,6
-NJ,M,1966.0,Casey,444
-NJ,F,1931.0,patricia,31
-NJ,,2003.0,Patricia,109
-NJ,F,2011.0,Linda,184
-NJ,,1944.0,Mary,256
-NJ,M,1998.0,John,244
-NJ,F,2008.0,Taylor,88
-NJ,F,1972.0,Taylor,484
-,F,1975.0, Taylor ,341
-NJ,F,1987.0,Jordan,100
- NJ ,M,1916.0,,41
-NJ, F ,1961.0,Casey,404
-NJ,F,2004.0,Taylor,53
-NJ,F,1944.0,Taylor,257
-NJ, F ,1975.0,Mary,458
-NJ,F,1993.0,Mary,116
-NJ,M,1954.0,James,59
-NJ,M,1988.0, Jordan ,563
-NJ,F,1948.0, Patricia ,
-NJ,M,1944.0, James ,686
-NJ,M,1975.0,Casey,259
-,M,1995.0,Robert,303
- NJ ,M,,Taylor,1215
-NJ,M,2010.0,Michael,64
-NJ,F,1955.0,Jordan,186
-NJ, F ,1980.0,Jennifer,15
- NJ ,F,1929.0,Jordan,6
-NJ,F,1973.0,James,438
-NJ,F,2015.0,Casey,30
- NJ ,M,1936.0,Jennifer,72
-NJ,F,1967.0,Taylor,177
-NJ,F,1948.0,mary,41
-NJ,M,1980.0,Jordan,169
-NJ,,1934.0,Linda,5
-NJ, F ,1961.0,jennifer,951
-NJ,F,1958.0,,414
+state,sex,year,name,count
+NJ,M,1999.0,Casey,281
+NJ,M,1930.0,Casey,35
+NJ,F,2001.0,Casey,7
+NJ,F,2011.0,Alex,39
+NJ,M,1937.0,James,53
+NJ,M,1955.0,Michael,286
+NJ,M,1913.0,Robert,9
+NJ,M,2017.0,Robert,228
+NJ,M,2002.0,Alex,
+ NJ ,F,1955.0,Taylor,115
+NJ,,1973.0,Jordan,114
+NJ,M,1987.0, Taylor ,372
+NJ,F,2003.0,Patricia,282
+NJ,M,2014.0,Jordan,12
+NJ,M,,Robert,643
+NJ,M,1989.0,taylor,368
+NJ,,1915.0,Patricia,50
+NJ,F,1959.0,Alex,887
+NJ,F,2001.0,Jordan,188
+NJ,M,2004.0,Alex,772
+NJ,F,1977.0,Linda,254
+NJ,F,1996.0,Casey,495
+NJ, M ,,James,43
+,M,1994.0,Alex,945
+ NJ ,F,1997.0,Patricia,732
+NJ,M,1940.0,Michael,29
+NJ,F,,Jennifer,580
+NJ, M ,1961.0, Michael ,
+NJ,F,1964.0,Mary,19
+NJ,M,1957.0,James,233
+NJ,M,2001.0,alex,524
+NJ, M ,2017.0,Taylor,235
+NJ,M,1987.0,,302
+,M,1998.0,Taylor,110
+NJ,F,2020.0,,152
+NJ,F,1956.0,Linda,71
+NJ,F,2013.0,Robert,83
+NJ,M,1932.0,James,28
+NJ,M,1997.0,Alex,210
+,M,1958.0,taylor,82
+NJ,F,1956.0,Mary,250
+NJ,M,1948.0,Michael,655
+NJ,F,1951.0,,461
+NJ,F,1962.0,Mary,621
+NJ, F ,1936.0,Mary,101
+NJ,F,1995.0,Mary,60
+NJ, M ,1998.0,,166
+NJ,M,1917.0,Jordan,94
+NJ,M,1995.0,Alex,68
+NJ,M,1969.0,Casey,201
+,F,1959.0,Jordan,159
+NJ,F,1979.0,Alex,347
+NJ,F,2015.0,Patricia,40
+NJ,F,1947.0,Mary,562
+NJ,M,2014.0,Michael,71
+NJ,F,2006.0,Casey,58
+NJ,F,1992.0,Linda,150
+ NJ ,M,1983.0,Taylor,74
+NJ,F,1946.0,Patricia,304
+NJ,M,1955.0,Robert,88
+NJ,M,,Taylor,701
+NJ,F,2021.0,Mary,6
+NJ,F,1930.0,Casey,22
+NJ,F,1971.0,Taylor,584
+NJ,F,1991.0,Mary,170
+NJ,F,1983.0,Alex,39
+NJ,F,1942.0,Mary,39
+NJ,F,2015.0,Jennifer,49
+NJ, M ,1936.0,,134
+ NJ ,M,2013.0,Robert,93
+NJ,F,1984.0,Mary,223
+NJ,F,1977.0,Alex,
+,M,1999.0,Taylor,526
+NJ,M,1999.0, John ,66
+NJ,F,1975.0,Linda,364
+NJ, F ,1991.0,,118
+NJ,M,1991.0,Taylor,38
+NJ,M,1939.0,John,10
+NJ,M,2022.0,Casey,394
+ NJ ,F,2004.0,Casey,120
+,M,1929.0,Alex,119
+NJ,M,2012.0,Robert,198
+NJ,M,1966.0,James,530
+NJ,M,1996.0,Michael,1717
+NJ,,2002.0,Taylor,322
+NJ,M,1961.0,James,440
+NJ,F,1985.0,Casey,116
+NJ, M ,1943.0,Michael,20
+NJ,M,1980.0,Michael,125
+NJ,M,1991.0,Alex,620
+NJ,F,1989.0,Patricia,586
+NJ,F,2011.0,Mary,92
+NJ,F,1951.0,casey,12
+NJ,F,1958.0,Mary,97
+NJ,F,2008.0,Jennifer,254
+NJ, F ,1948.0,Jennifer,373
+NJ,M,2011.0,Robert,442
+NJ,M,,,
+NJ,F,1962.0,Jordan,98
+NJ,F,1939.0,Linda,82
+NJ,M,1995.0,Michael,966
+ NJ ,M,1984.0,Casey,134
+NJ,,1925.0, Linda ,499
+NJ,M,,Michael,631
+NJ,F,1985.0,,92
+ NJ , F ,1996.0,alex,562
+ NJ ,M,1916.0,Alex,27
+NJ,M,2022.0,Alex,34
+NJ,M,1923.0,Alex,12
+NJ,F,1990.0,Casey,364
+NJ,M,1992.0,Michael,399
+NJ,F,1988.0,Linda,471
+ NJ ,M,, Jordan ,35
+NJ,F,1981.0,Alex,458
+NJ,F,1952.0,Linda,96
+NJ,F,2018.0,Taylor,74
+NJ,F,2007.0,Taylor,27
+NJ,M,1967.0,Robert,1088
+ NJ , M ,2010.0,Michael,10
+NJ,M,2015.0,Patricia,234
+NJ,F,2010.0,Patricia,271
+NJ,M,1968.0,Taylor,170
+NJ,M,1998.0,,108
+NJ,F,1914.0,Taylor,97
+NJ,M,1975.0,Alex,155
+NJ,F,2003.0,,29
+NJ,F,1940.0,,163
+NJ,,1964.0,Alex,124
+NJ,F,1962.0,Casey,179
+NJ,F,2021.0,Linda,102
+NJ,,1980.0,Jennifer,49
+NJ,M,2021.0,Casey,216
+NJ,F,1987.0,Patricia,269
+NJ,M,1965.0,Taylor,252
+NJ,,1957.0,Jennifer,1263
+NJ,F,1915.0,Jennifer,20
+NJ,M,1977.0,Alex,1026
+NJ,M,2019.0,James,11
+NJ, M ,1994.0,Taylor,837
+NJ,M,1970.0, John ,136
+NJ,M,1931.0,Jordan,8
+NJ,F,1966.0,John,938
+NJ,M,2001.0,John,145
+,F,1965.0,Mary,144
+NJ,M,1928.0,Robert,41
+NJ,M,2011.0,Taylor,337
+NJ,F,1986.0,Casey,414
+NJ,M,1985.0,Robert,531
+NJ,M,1941.0,Alex,153
+NJ,M,1922.0,John,5
+NJ,F,2014.0,Taylor,184
+,,1930.0, Patricia ,78
+NJ,M,1989.0,Robert,793
+NJ,F,1952.0,Alex,
+NJ,F,1997.0,James,115
+NJ,M,1987.0,Jordan,312
+,F,2016.0,casey,319
+NJ,F,2018.0,Alex,30
+NJ,M,1971.0,Taylor,442
+NJ,M,1919.0,Linda,7
+NJ,M,1917.0,Michael,5
+NJ,F,2000.0,Jordan,819
+,M,1983.0, Casey ,400
+ NJ ,F,1915.0, Taylor ,6
+NJ, F ,,Jennifer,143
+NJ,M,1939.0,Casey,177
+NJ,F,1948.0,,202
+NJ,M,1924.0,Casey,21
+NJ,M,1928.0,John,24
+ NJ ,F,, Linda ,278
+NJ,M,1921.0,Robert,121
+NJ,M,2017.0,Robert,228
+NJ,M,1941.0,Michael,754
+NJ,M,1949.0,Michael,78
+ NJ ,F,2007.0,Mary,769
+,F,2006.0,,92
+NJ, M ,1975.0,Michael,577
+NJ,F,1957.0,Taylor,896
+NJ,M,2021.0,John,160
+NJ,M,1949.0, Casey ,438
+ NJ ,F,2005.0,Mary,172
+NJ,M,1916.0,Robert,11
+NJ,M,1975.0,James,646
+NJ,F,1980.0,Mary,259
+NJ,M,1947.0,Taylor,93
+NJ,F,2004.0,Alex,24
+NJ,F,1998.0,Casey,211
+NJ,M,,Michael,1050
+,M,2012.0,Michael,1047
+NJ,F,1916.0,Jordan,14
+NJ,M,1954.0,Michael,107
+NJ,F,1974.0,,615
+NJ,F,2001.0,,376
+NJ,M,1975.0,Casey,48
+NJ,M,2011.0,John,33
+NJ,M,1924.0,James,103
+NJ,F,1946.0,Taylor,15
+NJ,F,1985.0,Jennifer,116
+NJ,F,1981.0,Mary,300
+NJ,F,2006.0,,117
+NJ, M ,1953.0,Casey,837
+,,1959.0,Michael,160
+NJ,F,1981.0,Casey,
+NJ, M ,1976.0,John,49
+NJ,M,1984.0,John,26
+NJ,F,1934.0,Linda,298
+NJ,,1942.0,Jordan,41
+NJ,F,1934.0,Alex,459
+ NJ ,,1939.0,Mary,
+NJ,M,1974.0, Casey ,449
+NJ,F,1935.0,Michael,
+NJ,M,1983.0,Michael,121
+NJ,M,2003.0,Jordan,354
+NJ,M,1977.0, Casey ,620
+NJ,M,2007.0,Taylor,178
+NJ,F,1925.0,Jennifer,50
+ NJ ,M,2005.0,John,455
+ NJ ,M,1997.0,Michael,419
+NJ,F,1944.0,Mary,24
+NJ,,1944.0,Jordan,65
+ NJ ,F,1992.0,Jennifer,80
+NJ,M,2015.0,Jordan,27
+NJ,M,1977.0,Robert,679
+NJ,F,2003.0,Jordan,1141
+NJ,F,1936.0,Taylor,6
+NJ,M,2006.0,Casey,192
+NJ,M,1970.0,Taylor,852
+NJ,,1988.0,James,29
+NJ,M,1980.0,Casey,645
+NJ,M,1985.0,John,516
+NJ,M,2020.0,Michael,30
+NJ,F,1987.0,Mary,410
+ NJ ,F,1915.0,Alex,92
+NJ,F,1964.0, Linda ,228
+,F,,,430
+NJ,F,1976.0,,469
+NJ,M,1921.0,taylor,16
+NJ,M,1971.0,Alex,509
+NJ,M,1922.0,Alex,8
+NJ, M ,2014.0,James,740
+ NJ , F ,,Mary,
+ NJ ,M,2009.0,Linda,114
+NJ,F,1980.0,casey,552
+NJ,M,1925.0,Taylor,321
+NJ, F ,1957.0,Casey,184
+NJ, M ,,Jordan,509
+NJ,,1928.0,Alex,6
+ NJ ,F,1957.0,Jordan,
+NJ,F,2001.0,Patricia,466
+NJ,F,1996.0,Linda,305
+NJ,F,1982.0,Linda,13
+NJ,M,1962.0,Jordan,27
+NJ,F,1965.0,Alex,960
+,M,2008.0,jordan,30
+NJ, M ,1977.0,James,551
+ NJ ,M,1974.0,Michael,659
+NJ,M,1990.0,Jennifer,90
+NJ,M,1934.0,michael,5
+NJ,M,1997.0,Robert,188
+NJ,F,,Jennifer,76
+NJ,F,1984.0,John,748
+NJ,,1968.0,Patricia,88
+NJ,M,2008.0,Casey,23
+NJ,M,2018.0,John,58
+NJ,M,1949.0,James,216
+NJ,F,1986.0,John,288
+ NJ ,F,2003.0,Taylor,123
+NJ,F,1920.0,Taylor,13
+NJ,F,2005.0,alex,545
+NJ,,2001.0,casey,35
+NJ,M,1971.0,Robert,269
+NJ,F,1941.0,Taylor,60
+NJ,M,2003.0,Michael,44
+NJ, F ,1982.0,Patricia,603
+NJ,F,1971.0,Jennifer,146
+NJ,F,1922.0, Alex ,22
+NJ,,2010.0,Jordan,9
+NJ,M,1920.0,Alex,6
+NJ,F,1997.0,Jordan,17
+ NJ ,M,1921.0,John,79
+NJ,M,1965.0,,444
+NJ,F,1982.0,Casey,145
+NJ,M,1984.0,Alex,78
+NJ,F,1953.0,Linda,39
+NJ,,2011.0, Alex ,36
+NJ,F,1917.0,Jordan,6
+NJ,F,1950.0,,604
+NJ,F,2001.0,Jennifer,104
+NJ,F,1981.0, Jennifer ,349
+NJ,F,2015.0,Alex,26
+NJ,M,1932.0,Casey,34
+NJ,F,1945.0,Alex,128
+ NJ ,F,,casey,53
+NJ,F,2020.0,Jennifer,156
+NJ,F,1956.0,Alex,496
+NJ,F,1995.0,Jennifer,30
+NJ,M,1991.0,Casey,606
+NJ,F,1964.0,Jennifer,622
+NJ,M,1943.0,Jordan,6
+ NJ ,F,1969.0,Jennifer,837
+NJ,F,1996.0,Jordan,233
+NJ,M,2015.0,Taylor,387
+ NJ ,,1963.0,Michael,77
+NJ,F,1996.0,Jennifer,926
+ NJ ,M,2008.0,Taylor,728
+NJ,F,,Mary,147
+,F,1923.0,Mary,10
+NJ, F ,1949.0,Jordan,60
+NJ,M,1958.0,Robert,25
+ NJ ,M,1965.0,Alex,109
+NJ,M,1940.0,Casey,124
+NJ,F,1968.0,alex,214
+NJ,F,,Taylor,344
+NJ, F ,1990.0,Patricia,963
+NJ,F,1978.0,Mary,22
+NJ,M,1970.0,Michael,
+NJ,F,1990.0,Taylor,825
+NJ,F,1966.0,Taylor,13
+NJ,,1959.0,Alex,36
+NJ,F,1924.0,Mary,
+NJ,F,1923.0,Jennifer,23
+NJ,F,1934.0,Jordan,274
+NJ,F,2019.0,Jordan,8
+NJ,F,1948.0,Casey,201
+NJ,,1934.0,John,164
+NJ,F,1970.0,Jordan,386
+NJ,F,1981.0,Patricia,235
+NJ,F,1976.0,Alex,50
+NJ,F,2002.0,Jennifer,
+,M,2010.0,Robert,7
+NJ, F ,1966.0,Mary,109
+NJ,F,1982.0,Taylor,210
+NJ,,1989.0,Michael,45
+,F,1995.0,Linda,47
+NJ,F,1910.0,Jennifer,5
+NJ,M,,Casey,138
+NJ,M,1973.0,,62
+NJ, M ,1973.0,Alex,201
+NJ,M,1929.0,John,52
+NJ,F,1928.0,Patricia,147
+NJ,M,1985.0,Alex,18
+NJ,M,1937.0,jordan,149
+NJ,F,1962.0,Jennifer,42
+NJ,F,1963.0,Jordan,1148
+NJ,M,1997.0,jordan,20
+NJ,M,1980.0,Alex,174
+NJ,M,1935.0,James,11
+NJ,F,1975.0,Jennifer,266
+NJ,,1924.0,Robert,124
+,M,1928.0,Casey,8
+NJ,F,1955.0,Jennifer,74
+NJ, M ,1926.0,Robert,7
+ NJ ,M,,Robert,285
+NJ,F,2007.0,Patricia,12
+NJ,M,1992.0,Patricia,752
+ NJ ,F,2014.0,Linda,392
+ NJ ,F,1969.0,Taylor,
+NJ,M,1959.0,Robert,205
+NJ,M,2009.0,Jordan,306
+NJ,M,1919.0, Robert ,22
+NJ,M,1966.0,Alex,200
+,F,2022.0,Michael,122
+NJ,M,1962.0,Michael,816
+NJ,F,1962.0,Patricia,284
+NJ,M,1968.0,Jordan,
+ NJ ,M,1964.0,Robert,43
+NJ,F,1937.0,Taylor,38
+NJ, M ,,Jordan,153
+NJ,F,2001.0, Linda ,355
+NJ, F ,2014.0,Alex,10
+NJ,M,1929.0,Taylor,9
+, M ,2020.0,,11
+NJ,F,,Jennifer,16
+ NJ ,F,,Linda,247
+NJ,M,2009.0,Michael,17
+ NJ ,F,2013.0,Taylor,8
+NJ,F,1971.0,Alex,118
+ NJ ,M,1994.0,Robert,101
+NJ,M,1978.0,Robert,333
+NJ,F,1979.0,Taylor,143
+NJ,F,1992.0,Jordan,102
+ NJ ,M,,Michael,333
+NJ,F,,Taylor,780
+NJ, F ,1965.0,jordan,365
+,M,1957.0,John,969
+NJ,F,1974.0,Taylor,269
+NJ,M,1979.0,Alex,97
+NJ,M,1982.0,Michael,214
+NJ,F,1915.0,Linda,5
+NJ,F,1969.0,Jordan,740
+NJ,F,1957.0,Linda,29
+ NJ , F ,1948.0,James,179
+NJ,M,1951.0,Michael,69
+NJ,M,1972.0,Taylor,141
+NJ,M,1999.0,Patricia,233
+NJ,F,1935.0,Alex,162
+NJ,M,1938.0,Casey,228
+NJ,F,2006.0,Patricia,703
+NJ,M,1988.0,Jordan,924
+NJ,F,2015.0,Patricia,40
+NJ,F,1966.0,Jennifer,583
+NJ,M,2003.0,Casey,219
+ NJ , F ,,Mary,87
+NJ,F,1942.0,Linda,388
+NJ,F,2010.0,Casey,15
+NJ,M,1966.0,Michael,41
+NJ,F,1991.0, Patricia ,415
+NJ,F,2010.0,Taylor,50
+NJ,F,1997.0,Jennifer,988
+NJ,F,1984.0,Jennifer,862
+NJ,M,2008.0,Alex,300
+,F,1920.0,Jordan,91
+NJ,M,1987.0,Alex,453
+NJ,M,1999.0, James ,126
+ NJ ,,1942.0,Patricia,152
+NJ,M,2008.0, Michael ,230
+NJ,M,1996.0,Casey,52
+ NJ ,M,1979.0,James,204
+NJ,M,1952.0,Linda,375
+NJ,M,1922.0,Casey,44
+NJ,M,1986.0, Taylor ,155
+NJ,F,1944.0,Patricia,22
+,M,1995.0,James,755
+NJ, F ,1990.0,Patricia,963
+NJ,M,2004.0,James,355
+ NJ ,F,2013.0,Patricia,6
+NJ,F,1972.0,Jordan,349
+NJ,M,1982.0,John,561
+NJ,F,1935.0,Jennifer,53
+, M ,1998.0,Alex,
+NJ, F ,1992.0,Casey,981
+NJ,M,2005.0,Taylor,40
+ NJ ,F,1978.0,Jennifer,232
+NJ,F,1965.0,Jennifer,659
+NJ,F,1997.0, Mary ,83
+NJ,,2018.0,Taylor,106
+NJ,F,1988.0,Patricia,517
+,M,2022.0,Taylor,
+NJ,M,2005.0,james,14
+ NJ ,F,1976.0,Jordan,202
+NJ,M,1984.0,Jordan,364
+NJ,F,2000.0,Casey,156
+NJ,F,2021.0,Casey,283
+NJ,M,1946.0,Taylor,10
+NJ,F,1999.0,Patricia,160
+NJ,F,1952.0,Taylor,72
+NJ,F,1910.0,,35
+NJ, F ,1971.0,Jordan,364
+NJ,M,1956.0,Taylor,169
+NJ,F,1991.0,,573
+NJ,M,2015.0,James,148
+NJ,M,2022.0,Robert,194
+NJ,M,1953.0,Robert,135
+NJ,F,,Jennifer,72
+NJ,M,1992.0,alex,289
+NJ, M ,1935.0,Alex,27
+NJ,M,2007.0,Alex,
+NJ,M,1931.0,Taylor,16
+NJ,M,1990.0, James ,83
+ NJ , F ,1932.0,Linda,89
+NJ,,2019.0,Alex,58
+NJ,F,1968.0,Jennifer,792
+NJ,M,2018.0,Robert,60
+,F,1966.0,Michael,474
+NJ,M,1954.0,jordan,749
+NJ,M,1970.0,Alex,660
+NJ,M,2001.0,Mary,
+NJ,M,1941.0,John,144
+NJ,M,1945.0,james,78
+ NJ ,M,,alex,9
+ NJ ,M,2020.0,John,136
+NJ, M ,1960.0,Alex,835
+NJ,,1929.0,Jordan,114
+NJ,M,2003.0,John,
+NJ,M,1957.0,Robert,24
+NJ,M,1949.0,,391
+NJ,M,1978.0,John,304
+NJ,M,1942.0,Jordan,14
+NJ,M,1951.0,Taylor,305
+NJ,F,1932.0,Mary,
+,F,1972.0,Alex,746
+ NJ ,M,2003.0,Alex,103
+NJ, F ,1977.0,Mary,60
+NJ,F,1960.0,,496
+NJ,M,2019.0,,162
+NJ, F ,1957.0,Casey,184
+NJ,F,1961.0,Casey,159
+NJ,F,1946.0,Patricia,304
+ NJ ,F,1952.0,Casey,429
+NJ,F,1938.0,Patricia,111
+NJ,,,Mary,238
+NJ,F,1937.0, Linda ,6
+NJ,M,1958.0,Casey,63
+NJ,F,1957.0,Alex,413
+NJ, F ,1949.0,John,79
+,F,1966.0,Linda,23
+ NJ ,M,1945.0,Patricia,117
+NJ,M,1997.0,Alex,210
+NJ,M,2017.0,John,104
+ NJ , M ,,Michael,74
+NJ,F,1932.0,Casey,115
+NJ,M,1963.0, Robert ,
+NJ,F,2012.0,Patricia,101
+NJ,F,1972.0,Jennifer,731
+NJ,F,1942.0,Jennifer,317
+NJ,F,1967.0,Casey,60
+NJ, F ,1994.0,Linda,145
+NJ,F,2020.0,Linda,112
+ NJ ,M,1993.0,robert,102
+NJ,M,1911.0,James,14
+,M,1919.0, Casey ,27
+NJ,F,1980.0,Linda,15
+,F,1975.0,Jordan,203
+NJ,F,1961.0,Alex,434
+NJ, M ,1983.0,James,189
+NJ,M,1982.0,Jordan,45
+NJ,F,1938.0,Jordan,86
+ NJ ,F,1994.0, Patricia ,
+NJ,F,1958.0,Robert,92
+NJ,F,2017.0,jennifer,82
+NJ,F,1971.0,Mary,
+NJ,F,1988.0,Casey,688
+,F,2014.0,Mary,20
+NJ,M,1980.0, Robert ,135
+NJ,F,1993.0,patricia,34
+NJ,,1992.0,Mary,276
+NJ,F,2019.0,Taylor,51
+NJ, F ,1993.0,,592
+NJ,F,1962.0,Taylor,440
+NJ,M,1962.0,James,361
+NJ,M,1935.0,,39
+NJ,F,1932.0,Patricia,36
+NJ,M,1978.0,Jordan,150
+NJ,M,1960.0,,125
+NJ,M,1936.0,Taylor,402
+NJ,F,1998.0,Mary,
+NJ,F,1985.0,Mary,479
+NJ,M,1985.0,Casey,277
+NJ,F,1919.0,Mary,13
+NJ,F,1989.0,,101
+NJ,F,2016.0,Mary,11
+NJ,F,1973.0,Casey,161
+NJ,F,1954.0,Patricia,6
+NJ,F,2006.0,Mary,65
+NJ,M,1937.0,Michael,128
+NJ,M,1982.0,Casey,252
+NJ,F,1928.0,Linda,11
+NJ,F,1936.0,Casey,5
+NJ,F,1984.0,Patricia,9
+NJ,M,1943.0,James,
+NJ, F ,1922.0,Jennifer,19
+NJ,F,1983.0,Jordan,97
+NJ,F,1970.0,Taylor,207
+NJ,F,1940.0,Casey,6
+NJ,F,1938.0,Casey,243
+NJ,F,1977.0,Jennifer,183
+ NJ ,F,1960.0,Michael,139
+,F,1999.0,Jordan,654
+ NJ , M ,1940.0, Taylor ,399
+NJ,F,1957.0,Mary,19
+NJ,F,1987.0,Jennifer,260
+NJ,M,1939.0,Alex,185
+NJ,M,1984.0,robert,411
+NJ,F,1919.0,Linda,118
+NJ,F,2002.0,Jordan,69
+NJ,,2000.0,Casey,468
+NJ,F,1924.0,Patricia,31
+NJ,F,1954.0,Alex,1184
+ NJ ,M,1937.0,Taylor,20
+NJ,F,1940.0,patricia,15
+NJ,M,1938.0,Taylor,188
+NJ, F ,,jordan,1532
+ NJ ,M,1961.0,John,43
+NJ,M,1958.0,Michael,354
+NJ,M,1930.0,Robert,88
+NJ,M,2019.0,Taylor,1239
+NJ, M ,1963.0,Jordan,231
+NJ,F,2020.0,Jordan,9
+,F,1978.0,Jordan,341
+NJ,M,1925.0,Michael,17
+NJ,F,1910.0,Taylor,12
+NJ,F,2008.0,Patricia,237
+NJ,F,1965.0,Taylor,449
+NJ,F,1933.0,Taylor,76
+NJ,F,1999.0,Linda,233
+NJ, M ,1997.0,Taylor,493
+ NJ ,,2010.0,,55
+NJ, M ,1995.0,Casey,612
+NJ,F,1982.0, Jordan ,282
+NJ,M,1944.0,casey,51
+,,2013.0,Alex,56
+NJ,F,1979.0,Jordan,923
+ NJ ,F,1955.0,Jordan,10
+NJ,M,1959.0,James,65
+NJ,F,1939.0,Jordan,28
+NJ,F,1951.0,Taylor,865
+NJ,M,,James,244
+NJ,M,1990.0,Linda,492
+NJ,F,2004.0,Patricia,165
+NJ,F,,Robert,10
+NJ,M,1922.0,taylor,26
+ NJ ,M,1978.0,Casey,259
+NJ,F,1925.0,Patricia,136
+NJ,,1938.0,Michael,396
+NJ,M,1978.0,James,120
+NJ,F,1940.0,Jordan,260
+NJ,F,1981.0,Linda,172
+,M,1988.0,John,17
+NJ,,1941.0,Jordan,21
+NJ,M,1933.0,Casey,33
+NJ,,1987.0,robert,247
+ NJ ,M,1941.0,Casey,443
+NJ,F,1941.0,Patricia,829
+NJ,M,1958.0,Jordan,29
+NJ,,1994.0,alex,83
+NJ,,1983.0,Alex,175
+NJ,M,1966.0,Jordan,100
+NJ,M,2021.0, James ,286
+NJ,F,2000.0,,584
+NJ,M,1940.0,John,130
+NJ,M,1951.0,John,207
+NJ,M,1991.0,Michael,214
+NJ,M,1956.0, Patricia ,21
+NJ,,1966.0,,129
+NJ,F,1957.0,John,10
+NJ,M,2002.0,Casey,615
+NJ,M,1981.0,Michael,144
+NJ,M,1957.0,Alex,426
+NJ,M,2006.0,Jordan,17
+NJ,M,1910.0,Taylor,78
+NJ, M ,2010.0,Taylor,5
+NJ,M,1918.0,John,19
+NJ, F ,1971.0,Jordan,364
+NJ,F,1986.0,Jordan,36
+NJ,F,1944.0,Linda,21
+NJ,M,1993.0,Taylor,134
+NJ,M,1984.0,Taylor,
+NJ, M ,1976.0,Alex,
+NJ,M,1952.0,Michael,294
+NJ,M,,John,22
+NJ,M,1981.0,John,766
+,M,1960.0,Casey,139
+NJ,,1951.0,James,44
+NJ,M,1956.0,Michael,43
+NJ,M,1981.0,Casey,215
+ NJ ,M,1969.0,Alex,261
+NJ,F,2003.0,Casey,817
+NJ,M,1934.0,James,300
+NJ,M,1980.0,Taylor,220
+ NJ ,M,1919.0,,17
+NJ,F,1969.0,Casey,759
+NJ,M,2005.0,Robert,189
+NJ,M,2006.0,Alex,36
+NJ,F,1969.0,Alex,167
+NJ,F,1965.0,Casey,279
+NJ,M,2021.0,Mary,123
+NJ,,2008.0,Alex,222
+NJ,M,2018.0,Alex,450
+NJ,M,2016.0,Alex,12
+NJ,M,,,131
+NJ,F,1985.0,Linda,325
+NJ,M,2011.0,James,44
+NJ,M,2021.0,Taylor,37
+NJ,F,1995.0,Taylor,400
+NJ,F,1920.0, Casey ,41
+NJ,F,,Mary,51
+NJ,M,1996.0,Alex,961
+NJ,F,1994.0,,128
+NJ,M,1936.0,John,39
+NJ,F,1926.0,Linda,12
+ NJ ,M,1958.0,Mary,554
+NJ,F,2012.0,Alex,18
+NJ,M,1977.0,Michael,56
+NJ, F ,1913.0,Mary,8
+NJ,F,2011.0,Casey,419
+ NJ ,M,2018.0,Jordan,563
+NJ,M,1974.0,Jordan,333
+ NJ ,M,1989.0,James,199
+NJ,F,1948.0,,12
+NJ,M,1981.0,Robert,751
+NJ,F,1935.0,Patricia,353
+ NJ ,F,1954.0,James,128
+NJ,M,2000.0,John,
+NJ,M,1972.0,Casey,161
+NJ,F,,Linda,173
+NJ,M,2007.0,Jordan,35
+,M,1992.0, James ,36
+NJ,F,1938.0,Alex,95
+ NJ ,F,1955.0, Mary ,252
+NJ,F,1955.0,Linda,323
+NJ,M,2015.0,John,7
+NJ,F,2022.0,Mary,15
+NJ,F,,Taylor,117
+NJ,F,1995.0,Alex,334
+NJ,M,1956.0,Robert,104
+ NJ ,M,1944.0,James,165
+NJ, F ,2009.0,Alex,90
+NJ,F,2008.0,Casey,502
+NJ,F,1973.0, Mary ,781
+NJ,F,1958.0,Taylor,61
+NJ,F,1946.0,Alex,214
+NJ,M,2002.0,Robert,770
+NJ,M,1981.0,Alex,25
+NJ,F,1980.0,taylor,165
+NJ,F,1923.0,Alex,93
+NJ,F,1992.0,Patricia,786
+NJ,M,1985.0,James,334
+NJ,F,1956.0,Patricia,1133
+,F,,Casey,380
+NJ,F,1972.0,Casey,161
+NJ, M ,1944.0,Michael,198
+NJ,M,1996.0,Jordan,211
+NJ,F,1974.0,Mary,512
+NJ,F,1983.0,Jennifer,119
+NJ,M,,John,258
+NJ,F,1977.0,Patricia,326
+ NJ ,M,1937.0,John,11
+NJ,M,1960.0,Michael,307
+NJ,M,1964.0,Taylor,95
+NJ,M,1986.0,Casey,250
+NJ,M,1964.0, John ,249
+NJ,F,1924.0,,147
+NJ,F,2011.0,Jordan,472
+,F,1963.0,,1056
+ NJ ,M,1975.0,Jordan,536
+NJ,M,1939.0,Jennifer,18
+NJ,M,1968.0,Michael,841
+NJ, F ,,Taylor,176
+NJ,F,1958.0,linda,17
+NJ, M ,1961.0,Alex,6
+NJ,M,1964.0,alex,158
+NJ,F,1998.0,Alex,198
+NJ,F,1984.0,Jordan,647
+NJ,M,1966.0,Robert,115
+NJ,M,1967.0,John,474
+NJ,M,1948.0,John,779
+NJ,F,1926.0,Mary,192
+NJ,F,1984.0,Casey,244
+NJ,M,2013.0,Jennifer,279
+NJ,F,1927.0,Alex,5
+NJ,F,1946.0,Jennifer,529
+NJ,M,1927.0,Alex,15
+NJ, F ,1972.0,linda,601
+NJ,M,1942.0,Taylor,550
+NJ,M,1993.0,,461
+ NJ ,M,1973.0,James,804
+NJ,M,1954.0,Taylor,42
+ NJ ,F,1922.0,,6
+NJ,M,1952.0,Taylor,87
+NJ,M,1965.0,Jordan,469
+NJ, M ,2020.0,James,79
+NJ,M,1922.0,James,6
+NJ,F,1985.0,Alex,1156
+NJ,F,1956.0,Casey,9
+NJ,F,1911.0,Mary,22
+NJ,M,1966.0, Taylor ,655
+NJ,M,2021.0,Alex,6
+NJ,F,1985.0,Taylor,107
+NJ, F ,2011.0,patricia,282
+NJ,M,2014.0,Taylor,23
+NJ,M,1970.0,Robert,82
+ NJ ,M,2008.0,Robert,130
+NJ,F,1986.0,Jennifer,152
+NJ,F,2004.0,Jordan,254
+ NJ ,M,1985.0,Michael,664
+NJ,F,1977.0,Jordan,828
+NJ,F,1943.0,Taylor,5
+NJ,F,1982.0,Alex,324
+NJ,F,1986.0,Mary,69
+NJ,M,1962.0,Casey,534
+NJ,M,,james,627
+NJ,F,2015.0, Mary ,14
+NJ,M,2022.0,James,5
+NJ,M,2000.0,Taylor,42
+NJ,M,1983.0,Jordan,689
+, M ,1964.0,Michael,101
+NJ,F,2007.0,Jordan,20
+NJ,F,1964.0,,122
+ NJ ,M,1933.0,James,
+NJ,M,1963.0,James,
+,M,,John,10
+NJ,M,1945.0,Robert,14
+NJ, M ,2002.0,Jordan,35
+NJ,M,1946.0,Jordan,
+NJ,M,1998.0,Jordan,522
+NJ, F ,1945.0,Patricia,14
+NJ,F,2016.0,Jennifer,260
+NJ,M,1927.0,Robert,486
+NJ, M ,2000.0,Michael,737
+NJ,F,1994.0, Taylor ,
+,F,,Linda,17
+ NJ ,M,1914.0,Casey,6
+ NJ ,M,1941.0,taylor,43
+NJ,F,,,112
+NJ,F,1926.0,Alex,14
+NJ,F,2000.0,Alex,382
+NJ,M,1979.0,Taylor,425
+,M,1966.0,,178
+NJ,M,1978.0,James,120
+NJ,F,1965.0,Patricia,
+NJ,F,1945.0,Mary,60
+NJ,F,1912.0,Jordan,12
+NJ,F,,Alex,197
+,M,1972.0,Alex,
+NJ,F,1959.0,Linda,1188
+NJ,M,1973.0,John,70
+NJ,F,1996.0,Mary,6
+NJ, F ,1988.0,Jennifer,707
+NJ,F,1998.0,Taylor,43
+NJ,M,,,10
+NJ,F,1974.0,Patricia,152
+NJ,M,1985.0,,48
+,F,1951.0,Jennifer,11
+NJ,M,1942.0,Alex,100
+NJ,F,1954.0,Jennifer,99
+NJ,M,1957.0,Casey,899
+NJ,M,1933.0,John,55
+NJ,M,1961.0,Casey,90
 NJ,F,2003.0,Linda,
-NJ,M,1999.0,Michael,17
-NJ,M,1927.0,Jordan,48
-NJ,M,2022.0,robert,51
-NJ,F,2018.0,Casey,55
-NJ,F,1966.0,Jennifer,7
-NJ,F,1988.0,Taylor,266
-NJ,M,1961.0,John,33
-NJ,M,1929.0,John,21
- NJ ,,2010.0,Casey,61
-NJ,F,1999.0,Patricia,83
-NJ,F,1994.0, Taylor ,129
-NJ,F,1987.0,James,442
-NJ,F,1938.0,Linda,8
-,F,2018.0,Mary,660
-NJ,M,2000.0,James,33
-NJ,F,1965.0,Mary,363
-NJ,M,1947.0,Taylor,647
-NJ,,1933.0,,11
-NJ,F,1985.0,Alex,772
-NJ,M,2017.0,Jordan,79
-NJ, M ,2015.0,James,31
-NJ,F,,Linda,48
-NJ,M,2018.0,Casey,112
-NJ,M,2001.0,Robert,281
-NJ,F,2015.0,Jordan,254
-NJ,M,1963.0,Robert,670
-NJ,,2003.0,Taylor,462
-NJ,F,1992.0,Jennifer,389
-NJ,M,1938.0,Robert,11
-NJ,F,1982.0,Taylor,71
-NJ,M,1941.0,John,231
-NJ,F,1917.0,Jordan,39
-NJ,M,1995.0,Michael,1024
- NJ ,M,1942.0,Michael,300
-,F,1966.0,Alex,12
-NJ,,2009.0,John,
-NJ,M,2013.0,Casey,197
-NJ,F,1998.0,Jordan,5
- NJ ,F,1965.0,alex,974
-NJ,M,1989.0,Alex,
- NJ , F ,1948.0,Casey,572
-NJ,M,1925.0,Taylor,5
-NJ,M,1963.0,Taylor,48
-NJ,M,1975.0,Michael,647
-NJ,F,2012.0,,79
- NJ ,F,1957.0,Jordan,449
- NJ ,M,2012.0,Taylor,187
-NJ,M,1967.0,Casey,1075
-NJ,M,1997.0,,61
-NJ,F,2009.0,,651
-NJ,F,1997.0,Casey,88
-NJ,F,2012.0,Casey,154
-NJ,F,1953.0,Patricia,5
-NJ,F,2012.0,Linda,81
-NJ,M,1935.0, John ,11
-NJ,M,1999.0,James,115
-NJ,M,1946.0, John ,7
-NJ,F,1994.0,Jordan,235
-NJ,F,1982.0,Mary,231
-NJ,F,1950.0,Casey,230
-NJ,M,1992.0,Alex,109
-NJ,F,2001.0,Jennifer,95
-NJ,F,1988.0, John ,385
-NJ,F,1930.0,Jordan,8
-NJ,F,1980.0,,44
-NJ,M,1996.0,Michael,28
-NJ,M,1947.0,Robert,183
-NJ,M,1939.0,Robert,
-NJ,M,2009.0,taylor,32
-NJ,F,1937.0,Taylor,89
-NJ,F,1925.0,Alex,122
-NJ,F,1977.0,Jennifer,145
-NJ,M,1979.0,Casey,183
-NJ,F,1965.0,Linda,234
-NJ,F,1933.0,Alex,69
-NJ,M,1968.0,Robert,
-NJ,M,1945.0,Alex,461
-NJ,F,1961.0,Taylor,215
-NJ,M,1935.0,Robert,54
-NJ,F,1944.0,Linda,73
-NJ,M,1973.0,Jordan,344
-NJ, M ,1930.0,Casey,92
-NJ,F,,Linda,154
-NJ,M,1926.0, Casey ,73
-NJ,M,1945.0,Taylor,17
-NJ,M,1953.0,John,378
-NJ,M,1990.0,John,
-NJ,F,1933.0,Linda,26
- NJ ,M,1965.0,Jordan,18
-NJ,,,Jordan,141
-NJ,M,1944.0,jordan,131
-NJ,M,1995.0,Linda,127
-NJ,M,,Taylor,32
-NJ,F,1990.0,Jordan,483
- NJ ,F,2011.0, Jennifer ,400
-NJ,F,1976.0,Mary,221
-NJ,M,1969.0,,677
-NJ,M,1949.0,Taylor,37
-NJ,F,1969.0,Linda,16
-NJ, F ,1979.0,Casey,411
- NJ ,F,2018.0,Jordan,16
-NJ,M,1963.0,patricia,64
-NJ,F,1946.0,Jennifer,18
-NJ,M,1965.0, Taylor ,1006
-NJ,F,1985.0,Patricia,397
-NJ, M ,1945.0,Jordan,284
-NJ,M,1959.0,Michael,20
-NJ, M ,2014.0,Michael,8
-NJ,F,1968.0,Patricia,
-NJ,F,2010.0,Patricia,43
-NJ,M,1943.0,Michael,97
-NJ,M,1934.0,Casey,202
-NJ,F,1990.0,Taylor,850
-NJ,F,1995.0, Alex ,552
-NJ,F,1997.0,Alex,
-NJ,M,1941.0,,92
-NJ,,2003.0,,
-NJ,M,1979.0,Jordan,454
-NJ,M,2020.0,Michael,83
-NJ,M,,Alex,195
-NJ,M,,John,844
-NJ,F,1959.0,Linda,23
-NJ,M,1949.0,Michael,39
-NJ,M,2004.0,John,83
-NJ,F,2000.0,Mary,413
-NJ,F,1955.0,Jennifer,62
-NJ,F,1975.0,Jordan,750
-NJ,F,1926.0,Jordan,82
-NJ,M,1962.0,Casey,122
-NJ,F,1912.0,Jordan,18
-NJ,M,2019.0,Alex,71
-NJ,F,1914.0,Patricia,32
-NJ,M,1974.0,Michael,430
-NJ,F,2013.0,Jordan,9
- NJ , M ,1957.0,John,59
-,F,1944.0,,18
-NJ,M,1994.0,,370
-NJ,M,1998.0,patricia,130
-NJ,F,1967.0, Mary ,425
-NJ,F,1998.0,Linda,730
-NJ,F,1922.0,Mary,6
-NJ,F,1936.0,Mary,25
-NJ,M,,Jordan,
-NJ,M,1956.0,Alex,
- NJ , F ,1957.0,Casey,22
-NJ,F,1995.0,Taylor,29
-NJ,F,1976.0, Casey ,591
- NJ ,F,1967.0,Alex,249
-NJ,F,1976.0,Jordan,106
-NJ, F ,,Alex,403
-NJ,M,1951.0,James,
-NJ,F,2010.0,Alex,605
-NJ,M,1980.0,James,66
-NJ,M,1932.0,Jordan,405
-NJ,F,1971.0,Linda,309
-NJ,F,1943.0,Casey,141
-NJ,F,1968.0,Taylor,29
-NJ,M,1944.0,Michael,339
-NJ,M,2020.0,Jordan,85
-NJ,M,1939.0,James,49
- NJ ,M,1944.0,Casey,116
-NJ,F,1999.0,taylor,199
-NJ,M,1991.0,Jordan,352
-NJ,F,1946.0,,640
-,M,1946.0,Alex,153
-NJ,M,,James,290
-NJ,M,1958.0,Taylor,336
-NJ,F,2020.0,patricia,9
-NJ,F,1988.0,Taylor,266
-NJ,M,1995.0,Jordan,123
-NJ,M,1944.0,Taylor,180
-NJ,F,2004.0,Linda,91
- NJ ,F,1935.0,Patricia,145
-NJ,,1998.0,Alex,892
-NJ,M,1978.0, Alex ,630
-NJ, M ,1933.0,Jordan,12
- NJ ,M,1965.0, Casey ,827
-NJ,F,1966.0,Linda,200
-NJ,M,2009.0,,49
- NJ ,M,1970.0, Casey ,9
-NJ,F,2006.0,Jennifer,15
-NJ, F ,1950.0,Taylor,736
-NJ,F,1932.0,Jordan,24
-NJ,F,2017.0,Taylor,714
-NJ,M,1954.0,Alex,342
-NJ,F,2011.0,Patricia,74
-NJ, F ,1992.0,Mary,503
-NJ,M,1951.0,Taylor,510
-NJ,F,1914.0,,8
-NJ,M,1922.0,Taylor,22
-NJ,F,1918.0,jordan,20
-NJ,M,2017.0,Alex,
-NJ,M,1957.0,Michael,1443
-NJ,M,2016.0,Michael,475
-,F,1994.0,Linda,22
-NJ, M ,1997.0,Alex,658
-NJ, M ,1939.0,Alex,13
- NJ ,M,1940.0,Jordan,53
-NJ,F,1949.0,Linda,161
-NJ, F ,1995.0,,666
-NJ,M,1945.0,Robert,561
-NJ,F,1934.0, Jordan ,220
-NJ,,2014.0,Jennifer,796
-NJ,M,1977.0,John,243
-,M,1963.0,Alex,37
-NJ,M,1919.0,Casey,28
-NJ,F,2006.0,Taylor,52
-,M,, Taylor ,48
-NJ,M,, Robert ,7
-NJ,M,1995.0,Michael,1024
-NJ,F,2002.0, Jennifer ,283
-NJ,F,1982.0,Linda,628
- NJ ,M,1948.0,Michael,
-NJ, M ,1975.0,Alex,275
-NJ,F,2012.0,Alex,144
-NJ, F ,1976.0,Alex,96
-NJ,M,1965.0,James,196
-NJ,M,2006.0,Casey,143
-NJ, M ,1994.0,john,404
-NJ,M,1971.0,Jordan,989
-NJ,M,1971.0,Robert,391
- NJ ,F,1984.0,Patricia,384
-NJ,M,1950.0,John,589
-NJ,M,1940.0,Robert,5
-NJ,M,1949.0,Casey,
-NJ,,1993.0,Casey,32
-NJ,M,2012.0,Michael,5
- NJ , F ,1922.0,Taylor,209
-NJ,M,2007.0,Taylor,372
-NJ,M,2006.0,John,1132
- NJ ,F,,Patricia,133
-NJ,F,1984.0,Alex,148
-NJ,M,1962.0,James,13
-NJ,M,1953.0,Taylor,349
-NJ,M,2019.0,Jordan,87
-NJ,F,1980.0,Jordan,79
-NJ,F,1971.0,Jordan,469
-NJ,F,1994.0,Mary,812
-NJ,F,1972.0,Mary,96
-NJ,F,1978.0,jordan,257
-NJ,M,1993.0,Jordan,31
-NJ,M,1947.0,Michael,38
-NJ,F,1944.0,Patricia,28
-NJ,M,2005.0,Casey,11
-NJ,,2014.0,John,27
-, M ,1939.0,Patricia,54
-NJ,F,1954.0,Linda,397
-NJ,M,1953.0,Jordan,129
-NJ,M,1992.0,John,479
-NJ,M,1985.0,Jordan,140
-,M,2021.0,Casey,281
-NJ,F,1937.0,Alex,8
-NJ,F,1916.0,Alex,149
-NJ,F,1981.0,,444
-NJ,M,1934.0,taylor,13
-NJ,F,1983.0,James,145
-NJ, F ,2015.0,Alex,268
-NJ,M,1927.0,Casey,24
-NJ,,1957.0,,213
- NJ ,M,1925.0,Jordan,13
-NJ,F,2007.0,Jennifer,77
-NJ,,1973.0,Linda,445
-NJ,M,1995.0, Alex ,295
-NJ,F,1941.0,Jennifer,198
-NJ,M,1940.0,Casey,46
-NJ,,1932.0,Casey,128
-NJ,F,2002.0,John,
-NJ,F,1977.0,Michael,37
-NJ,M,1983.0,Casey,387
-NJ,M,1999.0,Taylor,222
- NJ ,F,1932.0,Jennifer,8
- NJ ,M,2004.0,James,45
-NJ,M,1959.0,Taylor,112
-NJ,M,1974.0,Michael,430
-NJ,M,1964.0,James,776
-NJ,M,2015.0,Alex,18
-NJ,M,1954.0,Taylor,188
-NJ,M,2004.0,Robert,42
-NJ,F,1937.0,Mary,140
-NJ,F,1968.0,Michael,18
-NJ,M,1941.0,Michael,35
-NJ,M,1930.0,Jennifer,9
-,M,1984.0, Casey ,105
-NJ,M,1998.0,Taylor,
-NJ,F,,Jordan,967
-NJ,M,2021.0,Jordan,
-NJ, F ,1972.0,Casey,556
-, M ,2011.0,John,368
-NJ,F,1923.0,Mary,55
-NJ,F,2014.0,Jordan,49
-NJ,M,1965.0,Michael,548
-NJ,F,1989.0,Jordan,728
-NJ,M,1946.0,James,231
-NJ,M,1933.0,Taylor,13
-NJ,F,2000.0,Taylor,344
-NJ,M,2006.0,Alex,710
-NJ, M ,2005.0,Alex,623
-NJ,M,1964.0,Jordan,13
-NJ,F,,Alex,10
- NJ ,M,1965.0,Jordan,18
-NJ,M,1978.0,John,119
-NJ,F,1926.0,Alex,13
-NJ,M,2011.0, Jordan ,352
-NJ,,2006.0,Linda,22
-,M,2004.0,Taylor,52
-NJ,M,1971.0,Alex,1072
-NJ,F,1962.0,Patricia,102
-NJ,M,1965.0,Robert,21
-NJ,M,1999.0,Casey,134
-NJ,F,1951.0,Jordan,199
-NJ,F,1928.0,Mary,241
-NJ,M,1917.0,Michael,106
-NJ,F,1962.0,James,46
-NJ,F,1994.0,Patricia,311
-NJ,M,1953.0,Robert,34
-NJ, M ,,Taylor,176
-NJ,F,1964.0,Jordan,190
-NJ,F,1949.0,Patricia,553
-NJ,F,1985.0,Jordan,164
-NJ,M,1990.0,Taylor,98
-NJ,F,1939.0,Jordan,113
-NJ,M,1924.0,Alex,64
-NJ,M,1992.0, Taylor ,746
-NJ,M,1976.0,,220
-NJ,M,1974.0,Casey,1045
-NJ,F,1988.0,,719
-NJ,F,2001.0,Jordan,221
-NJ, M ,1986.0,Michael,356
- NJ ,M,1955.0,Jordan,549
-NJ,F,1973.0,Alex,8
-NJ,F,2005.0,Mary,198
-NJ,M,1963.0,Michael,79
-NJ,F,1983.0,,299
-NJ,M,1988.0,Robert,710
-NJ,F,1925.0,Alex,122
- NJ ,M,,Casey,95
-NJ,M,1960.0,John,16
-NJ,F,1973.0,linda,251
-NJ,F,1962.0,Mary,
-NJ,M,1998.0,Michael,32
-NJ,F,1960.0,Jordan,664
-NJ,M,2001.0,Mary,515
-NJ,M,2020.0, James ,51
-NJ,M,2016.0,Jordan,24
-NJ,F,1966.0,Patricia,73
-NJ,M,1935.0,Casey,173
-NJ,M,1962.0,Alex,52
-NJ,M,1929.0,James,484
-NJ,F,1973.0,Jennifer,23
-NJ,F,1963.0,Mary,56
-NJ,M,1960.0,Robert,51
-NJ,M,1973.0,Michael,269
-, F ,1993.0,Jordan,30
-NJ,F,1974.0,John,356
- NJ ,F,1946.0,Casey,7
-NJ, F ,,Taylor,234
-NJ,M,2012.0,Casey,95
- NJ ,F,1976.0,Linda,729
- NJ ,F,1999.0,jennifer,454
-NJ,M,1997.0,Michael,
-,M,1988.0,Michael,425
-NJ,F,1936.0,Linda,343
-NJ,M,1978.0,,883
-NJ,M,1976.0,Jordan,162
-NJ,M,2006.0,Jordan,673
-NJ,M,1923.0,John,77
-NJ,M,1928.0,Jordan,44
- NJ ,F,1945.0,Mary,145
-NJ,F,1992.0,Alex,122
-NJ,F,1964.0,Alex,
-NJ,F,1967.0,Casey,208
-,F,2019.0,Alex,
-NJ,F,1999.0,Casey,64
-NJ,F,1997.0,Jordan,
-NJ,M,1978.0,Taylor,486
-NJ,M,1954.0,Robert,89
- NJ ,F,1913.0,,24
-NJ,M,1986.0,casey,
-NJ,M,1931.0,James,5
-NJ,M,2017.0,Michael,24
-NJ,M,1937.0,Taylor,28
-NJ,M,1970.0,Jordan,377
-NJ,M,1981.0,Robert,413
-NJ, M ,1957.0,Jordan,27
-NJ,M,1968.0,Alex,543
-NJ,M,1923.0,Casey,19
-NJ,M,1950.0,Casey,517
-NJ,M,1998.0,James,11
- NJ ,M,1946.0,Casey,38
-NJ,M,1964.0,,151
-NJ,F,2019.0,Patricia,54
-NJ, M ,2007.0,James,198
-NJ,F,1920.0,Patricia,11
-NJ,F,1949.0,Jennifer,318
-NJ,M,1957.0,James,87
-NJ,F,1989.0,alex,184
-NJ,M,,James,312
-NJ,F,1963.0,Jordan,501
- NJ ,F,2018.0,Alex,409
-NJ,M,1994.0,Taylor,113
-NJ,M,,Jordan,545
-NJ,F,1941.0, Taylor ,64
-NJ,M,1994.0,,300
-NJ,M,1959.0,John,169
-NJ,F,2011.0,John,473
-NJ,M,2013.0,James,35
-NJ,F,1947.0,Patricia,1035
-NJ,F,1972.0,Michael,13
- NJ ,F,1924.0,Mary,9
-NJ,M,1962.0,Linda,401
-NJ, M ,1968.0,Casey,133
-NJ,M,1940.0, Taylor ,15
-NJ,M,1916.0,Jordan,26
-NJ,M,1950.0,Alex,894
-NJ,,1974.0,Michael,391
- NJ ,M,2017.0,John,70
-NJ,M,1913.0,Jordan,5
-NJ,F,2022.0,Taylor,226
-NJ,M,1939.0,,179
- NJ ,M,1997.0,Jordan,330
-NJ,F,2001.0,Patricia,67
-NJ, M ,1955.0,,646
-NJ,F,1998.0,Alex,329
- NJ ,F,2008.0,Alex,307
-NJ,M,2012.0,Jordan,19
-NJ,F,1944.0,Jennifer,11
-NJ,F,1996.0,Mary,88
-NJ,,1978.0,Mary,189
-NJ,M,1983.0,Robert,507
-NJ,F,1968.0,Linda,408
-,M,1944.0,Alex,
-NJ,F,1993.0,Alex,94
-NJ,M,1920.0,Robert,5
-NJ,M,1930.0,Taylor,132
-NJ,F,1993.0,Patricia,
- NJ ,F,1987.0,Mary,298
-NJ,M,1979.0,Alex,473
-NJ,M,1977.0,jordan,352
-NJ, F ,1958.0,,195
-NJ,F,1949.0,Mary,220
-NJ,F,1922.0,Patricia,32
-NJ,M,1967.0,Michael,237
-NJ,M,1910.0,john,60
-,F,1991.0,Alex,302
-NJ,F,1964.0, Mary ,903
-NJ,M,1993.0,Linda,270
-NJ,F,1964.0,,257
-NJ,F,1956.0,Patricia,27
-NJ,M,1975.0,Taylor,572
-NJ,,1951.0,Robert,28
-NJ,M,1928.0,Michael,160
-,F,2008.0,Jennifer,172
-NJ,M,2001.0,Casey,172
-NJ,F,1996.0,Robert,363
-NJ,F,1949.0,Jordan,
-NJ,F,1960.0,Alex,529
-NJ, F ,1969.0,Patricia,231
-NJ,M,1959.0,alex,328
-NJ,,1971.0,Casey,69
-NJ,M,1951.0,Alex,496
-NJ,F,1948.0,Taylor,478
-NJ,F,1990.0,Alex,78
- NJ ,M,1943.0,Jordan,57
-NJ,F,2010.0,Taylor,130
- NJ ,M,1943.0,Taylor,9
-NJ,F,1947.0,Casey,54
-NJ, F ,1924.0,Casey,8
-NJ,M,1982.0,James,873
-NJ, M ,1993.0,,792
- NJ ,F,1920.0,Casey,57
-NJ,F,,Alex,213
-NJ,M,1963.0,Michael,79
-NJ,M,2017.0,James,22
-NJ, F ,1985.0,Linda,835
-NJ, M ,1979.0,Taylor,330
-NJ, M ,1977.0,Robert,428
-NJ,F,1990.0,Patricia,691
-NJ,F,1949.0, Taylor ,66
-NJ,M,1993.0,alex,389
-NJ,M,1912.0,Casey,8
-NJ,F,1938.0,,
-NJ,M,1910.0,Taylor,65
-NJ,M,1929.0,Robert,7
-NJ,M,1936.0,,20
-NJ,F,1930.0,,9
-NJ,F,,Jordan,101
-NJ,F,1955.0,Alex,131
-NJ,F,2007.0,Jordan,16
-NJ,M,1948.0,John,
-NJ,F,1993.0,Jennifer,38
-NJ,F,1970.0,Jordan,440
- NJ ,,1969.0,Jennifer,283
-NJ,M,1969.0,Robert,101
-NJ,M,1952.0,Robert,176
- NJ ,F,1955.0,Taylor,27
-NJ,M,1950.0,Taylor,71
-NJ,F,1997.0,Linda,85
-NJ,M,1946.0,Robert,630
-NJ,F,1965.0,Taylor,12
-NJ,M,2002.0,Casey,434
-NJ,F,2000.0,Jennifer,299
-NJ, F ,2011.0,Mary,595
-NJ,F,,Linda,11
-NJ,F,1964.0,Jennifer,114
- NJ ,M,1964.0,Taylor,59
-NJ,F,1986.0,Alex,171
-NJ, M ,1985.0,Taylor,435
-NJ, F ,,Patricia,311
-NJ,F,1928.0,,25
-NJ,,1915.0,John,41
- NJ ,M,1964.0,Michael,140
-NJ,F,1968.0, Mary ,161
-NJ,M,2014.0,Taylor,216
-NJ,M,2005.0,michael,10
-NJ,M,2010.0,Robert,15
-NJ,F,1967.0,Patricia,645
-NJ,F,1956.0,Alex,488
-NJ,F,1968.0,Jordan,684
-,M,1985.0,Michael,275
-NJ, F ,1988.0,Patricia,332
-NJ,F,1972.0,Patricia,63
-,F,1975.0,Linda,396
-NJ,F,1960.0,Taylor,283
-NJ,,1943.0,Jordan,8
-NJ,M,2010.0,,311
-NJ,M,1921.0,Jordan,57
-NJ,F,2008.0,Casey,842
- NJ , F ,2011.0,Taylor,118
- NJ ,,2007.0,Taylor,31
-NJ,F,,,84
-NJ, M ,1950.0,Robert,183
-NJ,F,2003.0,Jennifer,28
-NJ,,2020.0,John,567
-NJ,M,1925.0,Alex,31
-NJ,M,1979.0,Michael,19
-NJ,F,2012.0,jennifer,6
-NJ,M,1953.0,Michael,947
- NJ ,M,1977.0,Alex,1004
-NJ,F,1935.0,,121
-NJ, M ,2008.0,Robert,488
- NJ ,M,1928.0,Taylor,36
-NJ,F,1970.0,Taylor,1122
-NJ,M,2007.0,Casey,91
-NJ,F,2006.0,Patricia,297
-NJ,F,1920.0,Jordan,32
-NJ,F,2007.0,Linda,482
-NJ,F,1994.0,John,271
-NJ,F,2010.0, Casey ,83
-NJ,F,1981.0,Taylor,264
-NJ,M,1994.0,james,558
- NJ ,M,1947.0,Alex,28
-NJ,F,1933.0,Jennifer,168
-NJ,M,1969.0,Jordan,345
-NJ,M,1929.0,James,484
-NJ, F ,1945.0,Casey,52
-NJ,M,1960.0, James ,485
- NJ ,M,2016.0,,252
-NJ,F,1948.0,Jennifer,272
- NJ ,M,1968.0, Jennifer ,430
-NJ,M,1917.0,Jordan,208
-NJ,M,2014.0,Robert,98
-NJ,,1940.0,Michael,
-NJ,M,1974.0,Taylor,983
-NJ,F,1929.0,Alex,12
-NJ,F,1958.0,Casey,
-,M,1955.0,Alex,321
-NJ,M,1912.0,Alex,16
-,M,1984.0,Michael,9
-NJ,M,2009.0,Alex,602
-,M,1973.0,Taylor,523
-NJ, F ,,Michael,287
-NJ,M,1911.0,James,7
-NJ,F,1960.0,Mary,
-NJ,M,1944.0,,73
- NJ ,F,1982.0,Alex,442
-NJ,F,1982.0,patricia,108
-NJ,F,1986.0,Jennifer,360
-NJ,F,1964.0,Taylor,225
-,M,1948.0,James,6
-NJ,F,1933.0,Taylor,59
-NJ,F,1983.0,Patricia,290
-NJ,M,2018.0,Robert,345
-NJ,F,1954.0,Patricia,19
-NJ, M ,1986.0,Taylor,556
-NJ,,,Casey,180
-,F,1972.0,Jennifer,237
-NJ,,1937.0,Alex,90
-NJ, M ,2002.0,James,23
-NJ,F,1914.0,Linda,6
-NJ,F,1920.0, Jennifer ,
-NJ,M,1920.0,Taylor,43
-NJ,M,1976.0, Robert ,517
-NJ,M,1992.0,Casey,83
- NJ ,F,,Mary,594
-NJ,M,1984.0,Taylor,98
-NJ,F,1953.0,Casey,22
-NJ,F,1961.0,Jordan,
- NJ ,M,1979.0,James,96
-NJ,M,1972.0,Robert,527
-NJ,M,1996.0, Robert ,30
-NJ,F,1951.0,Patricia,178
-NJ,F,1946.0, Patricia ,348
- NJ ,F,1910.0,Linda,16
- NJ ,F,1995.0,Jennifer,70
-NJ,F,2012.0,Patricia,9
-NJ,M,1990.0,Robert,116
- NJ ,,2003.0,James,1058
-NJ,M,1970.0,alex,417
-NJ,M,1999.0,Alex,36
-NJ,F,1951.0,Michael,617
-NJ,F,1946.0,Alex,206
-NJ,F,1977.0,Mary,206
-,F,1963.0,Alex,169
-NJ,M,1953.0,James,56
- NJ ,F,1929.0,Patricia,66
-NJ,,2006.0,Taylor,708
-NJ,M,1923.0,Taylor,214
-NJ,,2005.0,Jordan,118
-NJ,M,1963.0,Jordan,188
-NJ,M,1967.0,Jordan,398
-NJ,F,1973.0,Casey,21
-NJ,M,1914.0,,167
-NJ,F,2020.0,Jordan,102
-NJ,F,1980.0,Alex,335
-NJ, F ,2002.0,Jordan,608
-NJ, F ,,Jordan,41
-NJ,M,1931.0,James,5
-NJ,M,1925.0,Robert,95
-NJ,M,1940.0,Alex,76
-NJ, F ,1978.0,Taylor,486
-NJ, M ,1948.0,Robert,298
-NJ,M,1929.0,Alex,26
-NJ,M,1917.0,Jordan,208
-NJ,F,2009.0,Linda,240
-NJ,F,1947.0,Taylor,331
-NJ,M,1995.0,James,481
-NJ,M,1954.0,John,10
-NJ,M,2002.0,Taylor,126
-NJ,F,1933.0,Mary,258
-NJ,F,2011.0,Alex,16
-NJ,M,1980.0,Robert,1053
-NJ,M,1941.0,Alex,6
-NJ, M ,1937.0,James,32
-NJ,F,1952.0,Jordan,531
-NJ,M,1994.0,Casey,145
-NJ, F ,1926.0,Mary,6
-NJ, F ,2019.0,Jordan,198
-NJ,F,1944.0,Jordan,6
-NJ,F,1962.0,Linda,48
-NJ,M,1997.0,Michael,
-,F,1919.0,,75
-NJ,,1991.0,taylor,466
-NJ,F,1998.0,mary,68
-NJ,M,1976.0,James,279
-NJ,M,1931.0,Casey,436
-,F,1978.0,Linda,409
-NJ,F,,Taylor,139
-NJ,F,1962.0,Taylor,161
-NJ,M,1966.0,Jordan,238
-NJ,,2009.0,John,
- NJ ,M,2001.0,James,314
-NJ, F ,1951.0,Alex,134
-NJ,M,1972.0,Michael,466
-NJ,F,1997.0,Michael,929
-NJ,F,2006.0,Mary,209
-NJ,F,2014.0,Mary,86
-NJ,F,1960.0,Jennifer,874
-NJ,M,1955.0,James,960
-NJ,M,1934.0,Jordan,23
-NJ, M ,1916.0,Taylor,7
-NJ,M,1977.0,James,119
-,,2012.0,James,471
-NJ,M,1987.0,John,162
-NJ,M,1934.0, Linda ,5
-NJ,M,1991.0,Robert,232
-NJ,F,2010.0,Linda,15
-NJ,M,1963.0,John,427
-NJ,M,1959.0,Casey,491
-NJ,F,1969.0,Alex,740
-NJ,M,,Michael,152
- NJ ,F,2017.0,Patricia,14
-NJ,F,1937.0,Casey,112
-NJ,M,,Casey,323
-NJ,,1998.0,Jennifer,
- NJ ,F,1994.0,Alex,206
-NJ,F,1957.0, Linda ,307
- NJ ,,,James,458
- NJ ,M,2001.0,Jordan,62
-NJ,F,1940.0,Jordan,510
-NJ, M ,1938.0,John,144
-NJ,M,1995.0,Casey,
-NJ,F,1933.0,Patricia,28
-NJ,F,,Jordan,392
-NJ,M,1961.0,Jordan,182
-NJ,F,1940.0,Linda,134
-,M,1962.0,John,75
-NJ,M,1992.0,Michael,8
-NJ,F,2002.0,,107
-NJ,F,2014.0, Casey ,199
-NJ,M,1982.0,Casey,93
-NJ,F,1999.0,Alex,386
-NJ,F,1968.0,Casey,
-NJ,M,2009.0,Michael,
-NJ,M,1936.0,Alex,216
- NJ ,F,1983.0,Linda,166
-NJ,F,1943.0,taylor,51
-NJ,M,1957.0,Mary,107
-NJ,F,1986.0,Linda,458
-NJ,M,1953.0,Casey,741
-NJ,M,1947.0,John,13
-NJ,M,1997.0,Casey,56
-NJ,,1916.0, Taylor ,10
-NJ, F ,1987.0,Casey,460
-NJ,M,1969.0,Robert,101
- NJ ,F,1984.0,Patricia,384
-NJ,F,2011.0,Robert,778
-NJ,M,1978.0,,235
-,F,1978.0,Patricia,369
-NJ,M,1938.0,Alex,7
-NJ,F,1921.0,Jennifer,130
-NJ,,1959.0,Jordan,114
- NJ ,F,1983.0,Casey,226
-NJ,F,2006.0,Alex,424
-NJ,M,2018.0,alex,19
-NJ,,1976.0,Alex,391
-NJ,F,1975.0,Alex,463
-NJ,F,2017.0,Jennifer,573
-NJ,F,1935.0,Alex,7
-NJ,F,1980.0,Linda,209
-NJ,F,1953.0,Linda,14
-NJ,F,2005.0,Linda,58
-NJ,,1926.0, James ,311
-NJ,F,1954.0,Mary,88
-NJ,F,1987.0,Jennifer,389
-NJ,M,1917.0,James,27
-NJ,F,1972.0,Linda,422
-NJ,F,1939.0,taylor,
-NJ,F,1996.0,Casey,149
-NJ,M,1955.0,casey,387
-NJ, M ,2020.0,Alex,
-NJ,F,1932.0,,16
-NJ,M,1986.0,John,1017
-,F,1997.0,Patricia,23
-NJ,F,1966.0,John,252
-NJ,F,1936.0,Patricia,55
-NJ,M,1952.0,John,13
-,F,1935.0,Casey,55
-NJ,M,1960.0,Taylor,442
-NJ, M ,1962.0,Jordan,537
- NJ ,F,1957.0,Mary,479
-NJ,M,,Jordan,414
-NJ,F,2017.0,Mary,126
-,F,2017.0,Jordan,464
-NJ,F,2000.0,Alex,737
- NJ ,F,2020.0,Casey,27
-NJ,F,2007.0,Casey,12
-NJ,F,2022.0,Casey,224
-NJ,F,,Casey,35
- NJ ,F,1997.0, Mary ,294
-NJ,M,1975.0,Robert,109
-NJ,F,2004.0,Jennifer,319
-NJ,F,1971.0,Robert,361
-NJ,F,1984.0,Linda,611
-,,1991.0,Michael,96
-NJ,M,1913.0,Alex,
- NJ ,F,1957.0,Jordan,449
-NJ,M,1951.0,James,
-NJ,M,1943.0,John,9
-NJ,F,1958.0,linda,220
-NJ,F,1976.0,Patricia,409
-NJ,M,1940.0,James,5
-NJ,F,1945.0, Linda ,186
-,F,1966.0,Casey,1416
-NJ,F,1969.0,Mary,167
-NJ,M,1974.0,Alex,90
-NJ,F,1984.0,Jordan,191
- NJ ,M,1972.0,Casey,197
-NJ,F,1979.0,Jordan,622
-NJ,M,1961.0,Alex,431
-NJ,M,1958.0,Casey,159
-NJ,M,1974.0,Jordan,71
-NJ,F,1960.0,Casey,135
-NJ,M,2001.0,alex,292
-NJ,M,1942.0,James,621
- NJ ,F,1979.0,Jennifer,242
-NJ,F,1989.0, Robert ,287
-NJ,M,1970.0,Robert,
-NJ,F,1947.0,Jordan,107
-NJ,F,1936.0,jordan,12
-NJ,F,1930.0,Taylor,28
-NJ,M,1950.0,Jordan,5
- NJ ,F,1911.0,Alex,28
- NJ ,M,2017.0,Taylor,32
-NJ,,1997.0,Robert,
-NJ,F,1951.0,Linda,35
-NJ,F,1953.0,Jordan,175
- NJ ,F,,Mary,151
-NJ,F,1919.0,Patricia,42
-NJ,F,1988.0,Jordan,263
-NJ,F,1989.0,linda,427
-NJ, M ,1984.0,Jordan,659
-NJ,F,1977.0,Linda,708
-NJ, F ,1961.0,Linda,376
-NJ,M,2002.0,Robert,33
-NJ,F,2002.0,,410
-NJ, F ,1980.0,mary,56
-NJ,M,1943.0,Casey,99
-,F,2003.0,Michael,38
-,F,1935.0,Jordan,11
- NJ ,F,1924.0,John,14
-NJ,F,2008.0,James,575
-NJ,M,2013.0,Taylor,547
-NJ,M,2001.0,Patricia,
-NJ,F,2002.0,Mary,26
- NJ ,M,2021.0,Michael,
-NJ,M,1970.0,Jordan,377
-NJ,M,1949.0,Taylor,37
-NJ,M,1971.0,John,348
-NJ, F ,1927.0,alex,5
-NJ,F,1943.0,Patricia,6
-NJ, F ,1936.0,Taylor,297
-NJ,F,2015.0,Linda,404
-NJ,F,1955.0,Casey,205
-NJ,M,1985.0,Robert,361
-NJ,M,1968.0,,107
-NJ, M ,1973.0,Casey,564
-NJ, F ,1967.0,Linda,228
-NJ,F,1921.0,Taylor,19
-NJ, M ,1927.0,Alex,7
-NJ,M,1919.0,Jordan,
-NJ,M,1912.0,Taylor,30
-NJ,M,,James,218
-NJ,M,1958.0,John,110
-NJ,F,1974.0,Linda,160
-NJ,M,1989.0,John,253
-NJ, M ,1983.0,James,446
-NJ,F,1963.0,Casey,869
-NJ,,1961.0,Mary,111
-,F,1960.0,Patricia,250
-NJ,M,2013.0,John,487
-NJ,F,1930.0, Linda ,
-NJ,F,1938.0,Mary,180
-NJ,F,1992.0,Casey,84
- NJ ,F,1936.0,Jennifer,221
-NJ,M,1988.0,Alex,206
-NJ,M,1951.0,Michael,166
-NJ,M,2021.0,Alex,103
-NJ,M,1993.0,Taylor,517
-NJ,F,1981.0,Jennifer,
-NJ, F ,2004.0,Alex,288
-NJ,M,1952.0, Jordan ,979
-NJ, M ,1956.0,,329
-NJ,M,2015.0,John,76
- NJ ,F,1969.0,Casey,89
-NJ,F,1956.0,Linda,69
-NJ,M,1928.0,John,6
-NJ,M,2001.0,Taylor,128
-NJ,F,1990.0,Mary,113
-NJ, F ,1950.0,John,36
- NJ ,M,1949.0,James,28
-NJ,M,1939.0,John,389
- NJ ,,1934.0,Taylor,74
-NJ,F,1956.0,Jennifer,878
-NJ,F,2017.0,Casey,142
-NJ,F,1973.0,,
-NJ,F,,Mary,
-NJ,M,,James,290
-NJ,F,,Taylor,483
-NJ,M,1952.0,James,75
-NJ,M,2022.0,Casey,265
-NJ,M,1996.0,Jordan,22
-NJ,M,1994.0,Jordan,27
-NJ,F,1957.0,Patricia,41
-NJ,F,1959.0,Mary,412
-NJ,M,,Alex,103
-NJ,M,1984.0,Alex,246
-NJ, M ,1999.0,Jordan,120
-NJ,F,,Taylor,
-NJ,F,2001.0,,444
-NJ,M,1931.0,Alex,19
-NJ,M,1971.0,John,348
-NJ,F,1934.0,Jennifer,6
-NJ,M,1995.0,John,292
-NJ,F,1923.0,Casey,7
-NJ,M,1932.0,James,14
-NJ,F,1942.0, Patricia ,37
-NJ,F,1979.0,Linda,36
-NJ,F,1950.0,Linda,20
-NJ,F,2011.0,Jordan,703
-NJ,F,1945.0,alex,363
-NJ,F,2007.0,Mary,198
-NJ,M,,John,7
- NJ ,F,1976.0,Jennifer,
-NJ,M,1987.0,Taylor,232
-NJ,F,1984.0,Casey,706
-NJ, F ,1966.0,Taylor,526
- NJ ,F,1987.0,Alex,820
-NJ,M,2013.0,Robert,464
-,F,2013.0,Jennifer,340
-NJ,M,2013.0,Michael,32
-NJ,F,1989.0,Mary,167
-NJ,M,1982.0,Alex,220
-NJ, M ,1969.0,Alex,595
-NJ,M,1991.0,James,196
-NJ,F,1987.0,,658
- NJ ,F,1941.0,Patricia,30
- NJ ,F,1996.0,Alex,259
-NJ,F,1969.0,Taylor,246
-NJ,M,1946.0,Michael,115
-NJ,F,1966.0,Mary,730
-NJ,F,1999.0,Linda,224
- NJ ,F,1991.0,Casey,118
-NJ,M,1972.0,Taylor,449
-NJ,F,2019.0,John,432
-NJ,F,1945.0,Jordan,316
-NJ,F,1950.0,Jennifer,184
-NJ,F,1910.0,Patricia,20
-,F,1963.0,Linda,243
-NJ,M,,Taylor,268
-NJ,F,2009.0,Taylor,319
-NJ,F,,Taylor,483
-NJ,M,1934.0,James,108
-NJ,F,2009.0,Jennifer,404
-NJ,M,2000.0,Robert,44
-NJ,M,1989.0,Michael,143
-NJ,M,1980.0,Michael,442
- NJ ,M,1993.0,john,445
- NJ ,F,1945.0,Jennifer,273
- NJ ,M,2000.0,John,15
- NJ ,F,2013.0,Linda,16
-,M,1948.0,Casey,39
-NJ,F,,Jordan,674
-NJ,,2019.0,casey,15
-NJ,M,1931.0,Robert,151
- NJ ,M,1989.0,Jordan,219
-NJ,F,,Linda,154
-NJ,F,1989.0,Michael,28
-NJ,F,1969.0,,569
-NJ, F ,1959.0,Alex,747
-NJ,F,1989.0,Taylor,659
-,,1988.0,Casey,131
-NJ,F,1950.0,mary,
-NJ,F,1941.0,Casey,18
- NJ ,M,2007.0,Alex,598
-NJ, F ,1938.0,Patricia,24
-NJ,M,1997.0,John,35
-NJ,F,1977.0,Patricia,536
-NJ,M,2008.0,Michael,323
-NJ,F,2016.0,Patricia,12
-NJ,M,1973.0,John,205
-NJ,M,1981.0,James,1130
-NJ,F,2016.0,Jennifer,6
-NJ,M,2016.0,James,332
-NJ,M,1978.0,Michael,454
-NJ,F,1958.0,Jordan,214
- NJ , M ,,Michael,524
-NJ,F,1958.0,Taylor,90
- NJ , F ,1941.0,Mary,139
-NJ,M,1985.0,John,348
-NJ,M,1951.0,John,
-NJ,M,1972.0,Jordan,406
- NJ ,F,,Taylor,139
-NJ,,1945.0,John,19
-NJ,F,1982.0,Linda,628
-NJ,M,1955.0,,1264
-NJ, F ,2009.0, Jordan ,73
-NJ,M,,Robert,25
- NJ ,F,2007.0,Patricia,8
-NJ,M,1982.0,Jordan,634
-NJ,M,2000.0,Casey,446
-NJ,M,1976.0,Taylor,1260
-NJ,M,1965.0,Alex,376
-NJ,F,2016.0, Taylor ,14
- NJ , M ,1959.0,Mary,22
-NJ,M,1942.0,Patricia,632
-NJ,F,1916.0,Linda,58
-NJ,M,2014.0,Alex,284
-NJ,M,1936.0,Michael,11
- NJ ,F,2020.0,Alex,232
-NJ,F,1979.0,Jordan,622
-NJ, F ,2000.0,Robert,18
-,F,,Jennifer,731
-NJ, M ,1945.0,James,212
-,M,1987.0,Robert,384
-NJ,F,1917.0,Robert,11
-NJ,F,1988.0,Linda,925
-NJ,F,1971.0,Jennifer,291
-NJ,M,1929.0,Michael,8
-NJ,M,1926.0,Michael,202
-NJ,F,1945.0,Taylor,93
-NJ, F ,1922.0,James,7
-NJ,F,1952.0,Casey,308
-NJ,M,2005.0,John,554
-NJ, M ,2018.0,Mary,260
-NJ,F,1951.0,Casey,149
- NJ ,F,1980.0,Taylor,40
-NJ,,1957.0,Robert,70
-NJ,M,1973.0,Robert,109
-NJ,M,1970.0,Taylor,
-NJ,F,2003.0,,53
- NJ ,M,2003.0,john,96
-NJ,F,,Patricia,120
-,M,1946.0,Patricia,815
-NJ,F,1997.0,Jennifer,129
- NJ ,F,1934.0,Alex,153
- NJ ,F,1962.0,Jordan,186
-NJ,M,1988.0,Taylor,322
-NJ,M,1929.0,Jordan,70
-NJ,M,2017.0,Robert,616
-NJ,F,1973.0,jordan,447
-NJ,F,1938.0,Alex,
-NJ, M ,1929.0,Casey,90
-NJ,F,1981.0,Mary,526
-NJ,M,1947.0,James,315
-NJ,,1952.0,Jennifer,199
-NJ,F,1957.0,Michael,375
-NJ,M,1935.0,,406
-NJ,,2004.0,Casey,658
-NJ,M,1924.0,Casey,16
-NJ,F,1915.0,Jennifer,27
-NJ,F,1957.0,Alex,273
-NJ,M,1958.0,Alex,325
-NJ,M,2005.0,Taylor,16
-NJ,M,1999.0,John,
-NJ,F,1956.0,Mary,315
-NJ,M,1946.0,Jordan,680
-NJ,M,1939.0,Taylor,177
-NJ,M,1961.0,,266
-NJ, F ,1979.0,Mary,337
-NJ,F,1954.0,Taylor,172
- NJ ,F,1910.0,Jennifer,81
- NJ ,F,,Mary,22
-,M,1943.0,Patricia,6
-NJ,,1960.0,jordan,927
-,M,1926.0,john,86
-NJ,F,1918.0,Alex,187
-NJ,M,, Alex ,208
-NJ,,2001.0,michael,145
-NJ,F,1953.0,Jennifer,306
-NJ,F,2002.0,,107
-NJ,M,1996.0,Taylor,188
-NJ,F,1952.0,Mary,20
-,F,2004.0,Patricia,617
-NJ,,1956.0,Michael,836
-NJ,M,1992.0,Robert,898
- NJ ,F,2015.0,Taylor,106
- NJ ,F,2013.0,Taylor,109
-,M,2021.0,Taylor,251
-NJ,M,,Robert,105
- NJ ,F,,Alex,84
-NJ,M,2002.0,Michael,330
- NJ ,F,1973.0,Patricia,140
-NJ,M,1987.0,,574
-NJ,M,1966.0,James,413
-NJ,F,2018.0,Jennifer,385
-NJ,M,,Robert,560
- NJ ,M,1944.0,Robert,31
-NJ,M,1921.0,Casey,208
-NJ, F ,1947.0,Jennifer,663
-NJ, M ,2018.0,James,839
-NJ,M,1942.0,Taylor,120
-NJ,,2011.0,robert,88
-NJ,F,,Casey,13
- NJ ,F,2019.0,Jennifer,105
-NJ, F ,,Casey,141
-NJ,M,1922.0,Casey,27
-NJ, F ,1982.0,Jennifer,277
-NJ,F,1992.0,Taylor,108
-NJ,M,2015.0,Robert,24
-NJ,F,2001.0,,31
-NJ,M,1990.0,Alex,30
-NJ,M,1999.0,robert,136
- NJ ,F,1939.0,Patricia,275
-NJ,,1918.0,Jennifer,10
-NJ,F,1991.0,,179
-NJ,M,1948.0,Taylor,700
-NJ,M,,Michael,8
-NJ,F,1961.0, Patricia ,23
- NJ ,M,1977.0, Taylor ,542
-,M,1964.0,Alex,355
-NJ,F,1951.0,Jennifer,104
- NJ , F ,1977.0,Jordan,222
-NJ,F,1948.0,Jordan,445
-,F,2020.0,,183
-NJ, F ,1979.0,Taylor,312
-NJ,M,1930.0,Michael,19
-NJ,M,1990.0,Casey,145
-NJ,M,1967.0,Robert,402
- NJ ,M,,Taylor,57
-NJ,F,1943.0,Mary,19
-NJ,M,1968.0,John,237
-NJ,F,1964.0,Linda,652
-NJ,M,1973.0, James ,13
- NJ ,M,1984.0,John,441
-NJ, F ,2001.0,James,42
-NJ,F,1922.0,Jordan,37
-,F,1944.0,Alex,84
-NJ,F,1971.0,casey,254
-NJ,M,2020.0,Robert,66
-NJ,M,1938.0,Michael,98
-NJ,M,2007.0,Robert,190
-NJ,F,1953.0,Mary,24
-NJ, F ,1990.0,Jennifer,665
-,F,1970.0,Mary,679
-NJ, M ,2008.0,Taylor,133
-NJ,M,,James,10
-NJ,F,2008.0,Mary,232
-NJ,M,1972.0,,208
-NJ,F,1955.0,Linda,15
-NJ, M ,1980.0,John,318
-NJ,F,1986.0,mary,414
-NJ,M,1950.0,Casey,517
- NJ ,M,1955.0,John,388
-NJ,M,1957.0,Taylor,693
-NJ,M,1958.0,Jordan,108
- NJ ,M,1943.0,Taylor,9
-NJ, M ,2005.0,Robert,870
-NJ,F,,taylor,917
-NJ,F,1995.0,linda,393
-NJ,M,1948.0,Jordan,
- NJ ,M,1966.0,Alex,15
- NJ ,F,1924.0,Taylor,6
-NJ,M,1987.0,James,88
-NJ,F,1982.0,casey,271
-NJ,F,2013.0,Robert,396
-NJ,F,1963.0,Taylor,751
-NJ,M,1958.0,James,268
-NJ,F,1952.0,Linda,44
-NJ,M,,Michael,
-NJ,M,1936.0,James,25
-NJ,F,2015.0,James,40
-NJ, F ,2020.0,Jennifer,62
-NJ,M,2004.0,Michael,679
-NJ,M,2011.0,James,513
-NJ,F,2022.0,Jordan,44
-NJ,M,1990.0,Michael,692
- NJ ,F,1984.0,Jennifer,10
-NJ,F,1989.0,Patricia,223
-NJ,M,1934.0,Michael,144
-NJ,F,2018.0,Linda,393
-NJ,M,1960.0,Casey,
-NJ,F,,Patricia,194
-NJ, M ,1923.0,Jordan,11
- NJ ,F,2021.0,Casey,15
-NJ,M,1966.0,Robert,189
-NJ,M,1989.0,James,683
-NJ,M,,Mary,234
-NJ,F,1956.0,Jordan,338
-NJ,M,1992.0,Jordan,26
-NJ, M ,1952.0,Casey,1062
-,M,,Alex,49
-NJ,M,1949.0,Robert,53
-NJ, M ,1981.0,Michael,525
-NJ,M,1938.0,Casey,140
-NJ,F,1988.0,Alex,370
-NJ,F,1975.0,Jennifer,479
-NJ,M,1976.0,John,254
-NJ,M,1985.0,,195
-NJ,M,1993.0,Robert,
-NJ,M,1976.0,James,279
- NJ ,M,2008.0, Casey ,108
-NJ,F,1970.0,linda,
-NJ,M,1983.0,Jordan,59
-NJ,F,1913.0,Linda,99
-NJ,M,1942.0,Casey,94
-NJ,F,1924.0,Linda,14
-NJ,F,1965.0,Jordan,319
-NJ,F,1948.0,Linda,55
-NJ,F,2003.0,Jordan,279
-NJ,F,1977.0,Alex,178
-NJ,F,1969.0,Jordan,85
-NJ,F,2004.0,Casey,
-NJ,M,1962.0,Michael,751
-NJ,M,1934.0,Robert,7
-NJ,F,,Alex,213
-NJ, F ,1986.0,Patricia,586
-NJ,M,1980.0,Alex,97
-NJ,F,2010.0,Mary,113
-NJ, M ,1981.0,Alex,80
-NJ,M,,Alex,217
-NJ,F,1971.0,Alex,85
-NJ,F,1922.0,Jennifer,28
-NJ,F,1971.0,Mary,774
-NJ,F,1992.0,Linda,238
-NJ,M,1967.0,James,147
-NJ, F ,1912.0,Mary,32
-NJ,F,1951.0,Mary,13
-NJ,F,1974.0,,407
-NJ,M,1942.0,john,28
-NJ,M,2015.0, Casey ,43
-NJ,F,2015.0,Mary,17
-NJ,F,1980.0,Patricia,616
-NJ,M,1968.0,Michael,157
-NJ,F,1989.0,Jennifer,807
- NJ ,M,1961.0,Taylor,43
-NJ,F,2012.0,Mary,42
-NJ,F,1952.0,Alex,642
-NJ,F,1950.0,Patricia,54
-NJ, M ,1986.0,James,233
-NJ,M,2010.0,John,162
- NJ ,F,1974.0, Mary ,543
-NJ,F,2003.0,Alex,742
-NJ,M,1969.0,John,81
-,F,1927.0,,29
-NJ,M,1956.0,Taylor,326
-NJ,F,1954.0,Jennifer,182
- NJ , M ,1940.0, Jennifer ,16
-NJ,M,2003.0,Michael,198
-NJ,F,1946.0,Mary,65
-NJ,M,,Casey,650
-NJ,F,2019.0,Patricia,54
-NJ,M,1991.0,Alex,596
-NJ,F,,Jordan,466
-NJ,F,1975.0, Casey ,286
-NJ,F,1971.0,Patricia,291
-NJ,M,1974.0,Robert,1161
-NJ,M,1968.0,Linda,
-NJ,,,Michael,57
-NJ,,2016.0,Alex,6
-NJ,M,1987.0,,440
-NJ,F,1925.0,linda,252
-NJ,M,1936.0,Taylor,68
-NJ,M,1987.0,Alex,304
-NJ,M,2010.0,Alex,
-,F,1946.0,Taylor,125
-NJ,F,1976.0,Taylor,
-NJ,F,1993.0,Taylor,88
-NJ,F,1996.0,Patricia,572
-NJ,M,1918.0,John,54
-,F,2008.0,Patricia,317
- NJ ,M,1929.0,Taylor,267
-NJ,M,,John,157
-NJ,F,1935.0,Taylor,7
-NJ,M,,Patricia,131
-NJ,F,1962.0,alex,529
-NJ,M,1978.0,James,344
-NJ,F,1985.0,Casey,371
-NJ,M,1980.0,Taylor,569
-NJ,F,1960.0,Linda,31
-NJ,M,1994.0,Robert,623
-NJ,F,1995.0,Patricia,530
-NJ,F,1958.0,Patricia,229
-NJ,M,1998.0,Casey,462
-,,1970.0,Casey,193
-NJ,F,,Mary,
-NJ,M,1976.0, Casey ,516
-NJ,M,1971.0,Michael,29
-NJ, M ,1924.0,Michael,58
-NJ,F,,Patricia,109
- NJ , F ,1985.0,Mary,413
-NJ,F,1957.0, Jennifer ,887
-NJ,,1979.0,Robert,81
-NJ,F,1979.0,Patricia,51
-NJ, M ,, Robert ,98
-NJ,F,1949.0,Alex,38
-NJ,M,2011.0,Taylor,44
- NJ ,F,1981.0,Casey,494
-,M,,Linda,150
-NJ, M ,1988.0,John,631
+NJ,M,1993.0, Casey ,60
+NJ,M,1986.0,,144
+NJ,F,1930.0,Mary,6
+ NJ , F ,1993.0,Mary,132
+NJ,F,1971.0, Casey ,323
+NJ,F,2010.0,Patricia,271
+ NJ ,M,1991.0,Jordan,444
+ NJ ,F,2005.0,Linda,75
+NJ,F,1984.0,Alex,536
+NJ,F,1996.0,Taylor,521
+NJ,M,2005.0,Alex,355
+NJ, F ,1960.0,Jennifer,45
+NJ,M,1975.0,Robert,96
+NJ,F,1938.0,Taylor,22
+NJ, M ,2002.0,James,78
+NJ,F,1920.0,Taylor,13
+NJ,M,1919.0,Taylor,8
+NJ,M,1972.0,Robert,34
+NJ,M,2011.0,Jordan,572
+NJ, M ,1955.0,Alex,172
+NJ,M,1997.0,John,34
+NJ,F,1911.0,Alex,62
+NJ,M,1947.0,Casey,192
+NJ,M,1990.0,John,560
+NJ,F,1935.0,Mary,47
+,F,1963.0,,1056
+NJ,M,2005.0,Casey,8
+NJ,F,2004.0,Taylor,331
+NJ,F,1946.0,Linda,128
+NJ,M,1969.0,John,
+NJ,M,1930.0,Taylor,296
+NJ,M,1959.0,jordan,577
+ NJ ,M,1960.0,Taylor,801
+NJ,F,1987.0,Linda,122
+NJ,M,1997.0,Casey,292
+NJ,F,1921.0,Linda,47
+NJ,M,1910.0,,12
+NJ,M,2011.0,,6
+NJ,F,1931.0,Taylor,11
+NJ,M,1942.0,John,49
+NJ,F,1967.0,Patricia,262
+NJ,F,,Linda,157
+NJ,F,1964.0,Jordan,236
+NJ,M,1932.0,Jordan,77
+NJ,M,1955.0,Taylor,698
+NJ,F,1951.0,Jordan,38
+NJ,,1920.0,Alex,43
+NJ,F,1967.0,Mary,244
+,F,1943.0,Patricia,265
+NJ, F ,1918.0,Linda,93
+NJ,F,1945.0,Michael,82
+NJ,F,1941.0,Jordan,9
+NJ,M,1941.0,Robert,90
+NJ,M,1949.0,Taylor,27
+ NJ ,M,1940.0,Jordan,8
+,F,,Jordan,
+NJ,M,2010.0,John,245
+NJ,F,2009.0,Mary,55
+ NJ ,M,1970.0,Casey,352
+ NJ ,M,2000.0,Robert,
+NJ,M,1937.0,,275
+NJ,F,,Alex,300
+NJ, M ,2013.0,Michael,702
+ NJ ,M,,Jordan,231
+NJ,M,2019.0,Robert,
+NJ,M,1995.0,Jennifer,23
+NJ,M,2017.0,Alex,120
+NJ,M,1967.0,Michael,485
+NJ, F ,,Mary,171
+NJ,F,1974.0,Linda,37
+NJ, F ,1998.0,Patricia,359
+NJ,M,1942.0,James,
+NJ,M,2005.0,Jordan,892
+NJ,M,1945.0,John,769
+ NJ ,F,1917.0,Alex,32
+NJ,F,1923.0,Patricia,32
+ NJ ,,1942.0,Michael,28
+NJ,M,1980.0,James,52
+,F,1927.0,Jordan,15
+NJ,F,2005.0, Patricia ,58
+NJ,F,,Taylor,344
+NJ,F,1912.0,Patricia,106
+NJ,F,2004.0,Jennifer,26
+ NJ ,F,,Linda,652
+,M,2001.0,Jordan,41
+ NJ , F ,2006.0,Taylor,69
+NJ,F,1951.0,Linda,764
+NJ,M,1930.0,John,116
+ NJ ,F,,Taylor,48
+NJ, F ,1967.0,Jordan,90
+NJ,F,1940.0,Taylor,432
+NJ,M,1949.0,,37
+NJ,F,1991.0,Casey,406
+NJ,F,1930.0,Linda,7
+NJ,F,1960.0,Alex,106
+NJ,,, Taylor ,101
+NJ,,1976.0,Robert,170
+NJ,,1974.0,James,30
+NJ,F,2022.0,Casey,46
+NJ,F,2019.0,,635
+NJ,M,1953.0,john,149
+NJ,M,,Robert,988
+NJ,M,,James,242
+NJ,M,1995.0,Robert,659
+NJ,M,1923.0,,69
+NJ,M,1963.0,Taylor,324
+,M,1954.0,Casey,93
+ NJ ,F,1969.0,Patricia,85
+NJ,F,1953.0,Mary,26
+,F,2010.0,Linda,64
+NJ,M,1958.0,Alex,23
+NJ,F,1946.0,Michael,9
+NJ,M,1994.0,James,
+NJ,M,2004.0,Casey,324
+,F,1950.0,Patricia,15
+NJ,F,1976.0,Casey,576
+NJ,F,1995.0,Casey,212
+NJ,M,1954.0,Robert,75
+NJ,M,1936.0,Michael,595
+NJ,M,1924.0,Alex,12
+NJ,F,2000.0,Mary,49
+NJ,,1990.0,Alex,
+NJ,F,1956.0,jennifer,21
+ NJ ,F,1984.0,Linda,422
+ NJ ,M,1994.0,,201
+NJ,F,1939.0,Patricia,18
+ NJ ,M,1989.0,John,318
+NJ,M,1953.0,Alex,710
+NJ,M,1938.0,James,13
+NJ,F,1990.0,Mary,543
+NJ,F,1971.0,Patricia,578
+NJ,M,1997.0,,21
+NJ,F,1978.0,Casey,51
+ NJ ,M,2013.0,James,410
+NJ,F,1935.0,Casey,348
+ NJ ,F,1986.0,Taylor,710
+NJ,M,1957.0,Jordan,68
+,F,1976.0,Patricia,1370
+NJ, M ,1939.0,James,351
+ NJ , F ,1990.0,Linda,76
+NJ,M,2001.0,Robert,131
+NJ,M,1971.0,Michael,331
+NJ,M,1954.0,James,94
+,M,1962.0,John,866
+NJ,M,1984.0,,454
+NJ,F,2018.0,Jordan,5
+NJ,M,1967.0,Taylor,116
+NJ,F,1975.0,Mary,53
+, F ,1931.0,Mary,24
+NJ,,,Taylor,19
+NJ, M ,1976.0,Alex,
+NJ,M,1945.0,Jordan,
+NJ,M,1977.0,,457
+NJ,F,1939.0,jennifer,206
+NJ,F,2000.0,Linda,422
+NJ,F,1959.0,Jennifer,183
+NJ,M,1967.0,Jordan,30
+NJ,F,1949.0,Jennifer,29
+,M,2010.0,Alex,150
+NJ,M,1957.0,Michael,248
+NJ,M,1930.0,Casey,35
+ NJ ,F,, Linda ,278
+NJ,F,1965.0,Linda,465
+NJ, F ,,Casey,391
+NJ,M,1975.0,Taylor,141
+NJ,F,1975.0,Alex,677
+NJ,M,1993.0,James,56
+NJ,F,1997.0,Taylor,10
+NJ,,1950.0,,181
+NJ,M,2012.0,Jordan,331
+NJ,M,1926.0,John,232
+NJ,M,2016.0,jordan,13
 NJ,M,2007.0,John,14
-NJ,M,1990.0,James,7
-NJ,F,1989.0,Casey,91
-NJ,,1955.0,Mary,64
-NJ,F,2014.0,Taylor,60
-NJ,F,1954.0,Alex,197
-NJ,F,2015.0,Jennifer,5
-NJ,F,2005.0,Patricia,398
-NJ,F,2019.0,Mary,119
-NJ,M,1974.0,James,430
-NJ,F,1939.0,Jennifer,363
-NJ,M,1958.0,Robert,17
-NJ,F,1947.0,Linda,96
-NJ,F,2009.0,Patricia,237
-NJ,F,1985.0,Patricia,397
- NJ , F ,1970.0,alex,1268
-NJ,F,1968.0,,105
-NJ,F,1923.0,Taylor,10
- NJ ,M,2013.0,Alex,30
-NJ,F,1930.0,casey,258
-NJ, F ,2022.0,Alex,29
-NJ,F,1923.0,Patricia,284
-NJ,M,2014.0, Jordan ,13
-NJ,F,1925.0,Jordan,91
-NJ,F,2001.0,Taylor,101
-NJ,M,1945.0,Michael,207
-NJ, F ,1950.0,Alex,295
-NJ,F,2002.0,Taylor,320
-NJ,M,1975.0,Jordan,66
- NJ ,F,2018.0,Patricia,45
-NJ,F,1965.0,,180
-NJ, F ,1950.0,Jordan,675
- NJ ,M,1951.0, Casey ,161
-NJ,M,1989.0,Casey,
-NJ, M ,1915.0,Michael,123
-NJ,M,1967.0,Taylor,40
-NJ,M,1977.0,Casey,76
- NJ ,M,2003.0,Alex,9
-NJ,M,2006.0,James,
-NJ,F,2021.0,Jennifer,92
-NJ,M,1988.0,James,474
- NJ ,M,1967.0,Alex,101
-NJ,F,1979.0,Patricia,51
-NJ,M,2022.0,Jordan,403
-NJ,F,1942.0,Mary,5
-,M,1913.0,Casey,6
-NJ,M,1981.0,John,753
-NJ,F,1986.0,Taylor,115
-NJ,F,1975.0,Patricia,806
-NJ,M,1939.0,Casey,28
-NJ,M,,Robert,218
-NJ,F,1962.0,Jennifer,562
-NJ,M,1993.0,James,414
-NJ,M,2004.0,Jordan,18
-NJ,M,,John,62
-NJ,M,,James,312
- NJ ,M,1984.0,James,426
-NJ,M,2017.0, Casey ,24
-NJ,M,2020.0,Casey,6
-NJ,M,1936.0,John,14
-NJ,F,2012.0,Jordan,99
-NJ,M,1951.0,Jordan,7
-NJ,M,2002.0,Alex,138
-,M,1938.0,Taylor,89
-NJ,M,1969.0,Casey,1107
-NJ, F ,2007.0,Alex,581
-NJ,M,2015.0,Michael,82
-NJ,M,1967.0,Patricia,714
-NJ,M,2000.0,Jordan,211
- NJ ,F,1998.0,Patricia,360
-NJ,M,1996.0,James,230
-NJ,M,1916.0,James,67
-NJ,F,1959.0,Patricia,426
-NJ,M,,Michael,24
-NJ,F,2001.0,Alex,164
-NJ,M,1975.0, James ,551
-NJ,M,2004.0,Michael,679
- NJ ,M,2004.0,Alex,199
-NJ,F,1966.0,Jordan,
-NJ,F,2009.0,Mary,33
-NJ,F,1921.0,jordan,12
-NJ,F,1978.0,Jennifer,786
-NJ,M,1956.0,Robert,7
-NJ,M,1923.0,alex,
-NJ,F,1983.0,Taylor,
- NJ ,M,1982.0,Robert,38
-NJ,F,1967.0,Jennifer,196
-NJ,M,2000.0,Michael,524
-NJ,M,1980.0,Casey,845
-,M,1956.0,Casey,147
-NJ,F,1987.0,Patricia,729
-, M ,1910.0,Casey,34
-NJ,M,1930.0,Jordan,17
-NJ,M,,Taylor,64
-NJ,F,1926.0,Patricia,118
- NJ ,F,1988.0,Jennifer,45
-NJ,F,2000.0,Casey,169
-NJ,F,1978.0,Casey,174
-NJ,M,1952.0,michael,334
-,M,1963.0,Casey,72
-NJ, F ,1942.0,Michael,52
-NJ,,1954.0,Jordan,462
-NJ,M,2022.0,Alex,61
-NJ,F,1948.0,Alex,485
-NJ,F,1998.0,Casey,6
-NJ, M ,2007.0,Michael,639
-NJ,F,1917.0,Mary,79
- NJ ,M,1915.0,Casey,10
- NJ ,M,2004.0,Patricia,180
-NJ,,1984.0,Mary,618
-NJ,F,1942.0,Casey,145
-NJ,F,1972.0,Alex,193
-NJ,M,,Robert,323
-NJ, F ,2007.0,Alex,581
-NJ,F,1965.0,Casey,685
-NJ,M,2012.0,John,1149
-NJ,F,1973.0,Mary,490
- NJ ,F,1955.0,Patricia,11
-NJ, F ,2021.0,Alex,358
-NJ,F,2011.0,Casey,75
- NJ ,F,2021.0,,780
-NJ,F,1995.0,,529
-NJ, F ,1942.0,Taylor,143
-NJ,M,1961.0,Casey,475
-NJ,F,2000.0,Linda,647
-NJ,,1970.0,John,32
-NJ,M,1970.0,Michael,24
-NJ,M,2011.0,casey,245
-NJ,F,1933.0, Casey ,
-NJ,F,2021.0,Taylor,
-NJ,M,2022.0,Taylor,911
-NJ,M,1967.0,John,18
-NJ,F,2010.0,Jordan,537
-NJ,,1960.0,Alex,540
-NJ,M,2000.0,Alex,165
-NJ,M,1996.0,Casey,573
-NJ,M,2007.0,Jordan,174
-NJ,F,1967.0,,507
-NJ, M ,2020.0,Alex,
-NJ,F,2004.0,Mary,92
-NJ,F,1964.0,Michael,188
-NJ,M,,taylor,511
-NJ,F,1943.0,Alex,12
-NJ,M,2018.0,Michael,331
-NJ, M ,1919.0,Patricia,9
-,M,1915.0,Jennifer,11
- NJ ,M,1972.0,James,506
-NJ,M,1926.0,Robert,100
-NJ,M,1977.0,Michael,66
-NJ,F,1947.0,James,115
-NJ,F,1931.0,jordan,9
-NJ,M,1969.0,James,69
-NJ,M,1918.0,Michael,55
-NJ, M ,1982.0,John,734
-NJ,F,2002.0,Linda,490
-NJ,M,1985.0,James,175
-NJ,F,2004.0,Jordan,19
-NJ,F,1941.0,Jordan,41
-NJ,F,1920.0,Taylor,23
-NJ,M,1922.0,John,52
-,F,1977.0,Casey,107
-NJ,F,1981.0,Jordan,513
-NJ, F ,1967.0,Michael,52
-NJ,M,1989.0,Taylor,663
-NJ,F,1919.0,,31
-NJ,F,2013.0,Casey,8
- NJ ,F,1912.0,Jennifer,12
-NJ,F,1931.0,Casey,10
-NJ,M,1978.0,Jordan,291
-NJ,,1961.0,james,575
-NJ,F,1956.0,Casey,36
-NJ,F,1956.0,Taylor,
-NJ, F ,1912.0,Alex,7
-NJ,F,1965.0,Jennifer,24
-NJ,F,1984.0,Taylor,316
- NJ ,M,1955.0,Jordan,549
-NJ,M,,Alex,20
- NJ , F ,,Jordan,17
-NJ,M,1983.0, Michael ,205
- NJ ,F,1940.0,Mary,38
-NJ,F,1968.0,Alex,826
-NJ,M,1927.0,john,59
-NJ,F,2008.0,Linda,481
-NJ,M,,Mary,69
-NJ,F,2002.0,Casey,
-, M ,,Taylor,679
-NJ,M,1928.0,Casey,7
-NJ,F,1941.0,Linda,62
-NJ,F,1959.0,Casey,222
-NJ,F,1974.0,Patricia,357
-,M,1956.0,Casey,147
-NJ,M,1956.0,,53
-,F,,,246
-NJ,F,1999.0,Mary,471
-NJ,F,1982.0,Jordan,664
-NJ,M,1972.0,Taylor,449
-NJ,M,1986.0,Jordan,776
-NJ,M,1928.0,James,17
-NJ,M,1936.0,Robert,422
-NJ,M,2019.0,Taylor,419
-NJ,M,2013.0,Jordan,429
-NJ,M,1986.0,Alex,53
-NJ,F,2001.0,Casey,273
-,F,,Jennifer,155
-NJ,M,2002.0,John,37
-NJ,M,1979.0,John,356
- NJ ,F,1929.0,Linda,8
- NJ ,M,1924.0,James,434
-NJ,F,1974.0,Taylor,59
-NJ,M,,John,10
-NJ,F,1994.0,Casey,246
-NJ,M,2020.0, Linda ,15
-NJ,M,1982.0, Michael ,225
-NJ,F,1911.0,Taylor,18
-NJ,F,1938.0,Casey,153
-NJ, M ,2014.0,James,139
-NJ,M,1936.0,Jordan,17
-NJ,M,1998.0,Jordan,20
-NJ,M,1986.0,Mary,836
-NJ, F ,1959.0,Jennifer,1198
- NJ ,F,1980.0,James,16
- NJ ,F,1943.0,Linda,199
-NJ,F,1940.0,Casey,45
-NJ,M,1996.0,John,1219
- NJ ,M,1991.0,John,415
-NJ, F ,1958.0,,195
- NJ ,M,1942.0,Alex,49
-NJ,M,1956.0,,75
-,M,1986.0,Robert,511
-NJ,M,1911.0,Casey,
-NJ,,1989.0,Robert,465
-NJ,M,1946.0, John ,7
-,F,1973.0,Taylor,151
-NJ,M,1963.0,James,376
-NJ,F,1996.0,Jennifer,19
-NJ,F,1949.0,Casey,18
-NJ,F,1995.0,Casey,825
-NJ,F,1999.0,Jordan,88
-NJ,M,1983.0,Alex,
-NJ,F,1923.0,Jordan,331
-,F,1991.0,Linda,821
-NJ,M,1930.0,Alex,75
-NJ,F,1921.0,Mary,9
-NJ,F,2000.0,Patricia,679
-NJ,F,1997.0,Taylor,336
-NJ,F,1998.0,taylor,208
-NJ,F,1913.0,Linda,99
-NJ,M,1945.0,Casey,65
-NJ,M,1955.0,Michael,362
+ NJ ,F,1968.0,Taylor,108
+NJ,M,1972.0, James ,29
+NJ,F,1983.0,Casey,115
+NJ,M,1928.0,Michael,192
+NJ,M,1994.0,Casey,69
+NJ,M,1988.0,Robert,319
+NJ,F,1933.0,Patricia,49
+ NJ ,M,1935.0,John,382
+NJ,M,1923.0,Michael,66
+NJ,M,2018.0,Casey,475
+NJ,M,1991.0,Robert,718
+NJ,M,1973.0,Taylor,475
+ NJ ,F,1975.0,Casey,172
+, F ,2015.0,casey,135
+ NJ ,M,1972.0,Michael,90
+ NJ ,M,1935.0,Linda,258
+NJ,F,1966.0,Alex,28
+NJ,F,1966.0, Patricia ,153
+NJ,F,1988.0,,231
+NJ,M,1975.0,Mary,396
+NJ,,1940.0,Alex,
+NJ,M,1943.0,john,110
+NJ,M,1910.0,John,96
+NJ,F,1913.0,Casey,19
+NJ,M,2021.0,Jordan,371
+NJ,F,,Patricia,
+NJ,F,2002.0,Taylor,152
+NJ,F,1989.0, Linda ,98
+NJ,F,2017.0,Jordan,169
+NJ,,2003.0,,72
+NJ,M,2015.0,Robert,51
+ NJ ,M,1947.0,John,43
+NJ, M ,1968.0,James,340
+NJ,M,1926.0,Michael,14
+NJ, M ,1999.0,Jordan,24
+NJ,,1962.0,Taylor,707
+NJ,F,1971.0,John,243
+NJ,M,2001.0,James,36
+NJ,F,1955.0,Casey,225
+NJ,,1967.0,jennifer,460
+NJ,M,1944.0,John,6
+ NJ ,M,1938.0,Robert,27
+NJ,M,1913.0,Casey,15
+NJ,M,1927.0,Jordan,135
+NJ,F,1999.0,Linda,233
+NJ, M ,2004.0,Taylor,259
+ NJ ,F,2006.0,jordan,608
+NJ,F,1945.0,Taylor,21
+NJ,M,2008.0,John,222
+NJ,F,1994.0,Jordan,174
+NJ,M,1932.0,Jordan,77
+NJ,M,1954.0,John,34
+NJ,F,2016.0,Patricia,12
+NJ, F ,1980.0,Jordan,179
+NJ,M,2006.0,John,73
+,F,1968.0,Jordan,208
+NJ,F,,Patricia,475
+NJ,F,1939.0,Taylor,48
+NJ, M ,1926.0,James,254
+NJ,F,1950.0,Taylor,72
+NJ,F,1995.0,Patricia,337
+ NJ ,F,1961.0,Jordan,453
+NJ,M,1964.0,Casey,61
+NJ,F,1927.0,Mary,25
+NJ,F,1980.0,Alex,6
+NJ,M,1978.0,Alex,919
+NJ,M,1985.0,Jordan,337
+NJ,F,1949.0,Mary,80
+NJ,F,1962.0,Alex,135
+NJ,M,1963.0,Alex,1056
+NJ,M,1948.0,Alex,166
+NJ,,1935.0,Taylor,151
+NJ,F,1958.0,Casey,131
+NJ,M,1927.0,Casey,157
+NJ,,1921.0,Jordan,117
+NJ,M,1990.0,Casey,626
+NJ,F,2006.0,Linda,104
+NJ,,1963.0,Casey,161
+,M,1996.0,taylor,944
+NJ, F ,1912.0,Linda,30
+NJ,F,1989.0,Taylor,384
+NJ,M,2004.0,John,500
+ NJ ,M,,Robert,65
+NJ,F,1932.0,Alex,200
+ NJ ,M,1950.0,Taylor,6
+NJ,F,1994.0,Mary,39
+NJ,M,1937.0,,48
+NJ,F,1998.0,Jennifer,200
+NJ,F,1964.0,Patricia,926
+,F,1997.0,Linda,474
+NJ,M,1995.0,,753
+NJ,M,1916.0,Michael,5
+NJ,F,1949.0,Taylor,27
+NJ,F,1967.0,Taylor,282
+NJ,M,2014.0,Casey,265
+NJ,F,1983.0,Mary,107
+NJ,M,1999.0,,113
+NJ,F,1963.0,Alex,430
+,M,1953.0,jordan,78
+ NJ ,M,1989.0,James,199
+NJ,,1929.0,James,41
+NJ,M,1987.0,michael,200
+NJ,M,1946.0,James,254
+NJ,M,2020.0,Casey,21
+NJ,F,2012.0,Jennifer,685
+NJ,F,1980.0,Patricia,
+ NJ ,F,1978.0,Alex,115
+NJ,F,2010.0,Mary,
+NJ,F,1948.0,Mary,1044
+NJ,F,1993.0,Jordan,115
+NJ,M,1941.0,James,76
+NJ, F ,1970.0,Casey,383
+NJ,F,2022.0,Taylor,447
+NJ,F,1925.0,Alex,11
+NJ,M,,Taylor,75
+,F,1968.0,Jordan,208
+NJ,F,1968.0,Casey,101
+,F,2021.0,Patricia,
+NJ,F,1936.0,Linda,11
+NJ,F,1938.0,Linda,363
+NJ,F,1963.0,Taylor,208
+ NJ ,F,1973.0, Linda ,225
+NJ, M ,1973.0,Casey,26
+NJ,F,1943.0,Alex,16
+NJ, M ,1971.0, Casey ,95
+NJ,F,2013.0,Alex,122
+NJ,F,2005.0, Casey ,220
+NJ, F ,1967.0,Jordan,90
+NJ,M,1962.0,alex,638
+NJ,F,1943.0,Casey,17
+NJ,M,1927.0,Michael,618
+NJ,F,2009.0,Jennifer,10
+NJ,F,1975.0,Taylor,316
+NJ,F,1960.0,Jordan,74
+ NJ ,F,1917.0, Mary ,11
+NJ,M,1954.0,jordan,749
+NJ,M,1974.0,John,574
+NJ, F ,1967.0,,35
+ NJ ,M,1968.0,Linda,96
+NJ,F,2022.0,Alex,106
+,F,2003.0,Mary,545
+NJ,F,1952.0,Jordan,
+NJ,F,1953.0,Alex,79
+NJ,M,,James,474
+NJ,M,1983.0,Robert,
+NJ,M,1990.0,Jordan,365
+NJ,M,1960.0,John,86
+NJ, M ,1981.0,Taylor,894
+NJ,M,1980.0,Mary,377
+NJ,M,1996.0,John,429
+NJ,F,1950.0,Alex,179
+NJ, F ,1972.0,Mary,551
+NJ,M,1969.0,,526
+NJ,F,1913.0,Jordan,9
+ NJ ,M,,James,7
+ NJ ,F,1982.0,Jennifer,702
+NJ,M,1964.0, Jordan ,1288
+NJ,F,,Robert,367
+NJ,,1939.0,Alex,630
+NJ,F,1929.0,patricia,21
+NJ,F,2009.0,Patricia,12
+NJ,F,2009.0,Jordan,9
+NJ,F,1949.0,Alex,460
+NJ,,2020.0,Patricia,8
+NJ,F,1958.0,Alex,42
+NJ,F,1953.0,Jordan,43
+NJ,F,1991.0,Linda,56
+NJ,M,1930.0,Jordan,28
+NJ,M,1955.0,,167
+NJ,F,1974.0,Alex,68
+,F,1990.0, Jordan ,206
+NJ,F,1925.0,Patricia,136
+,F,1995.0,Jordan,33
+ NJ ,F,1989.0,Alex,92
+NJ,M,2000.0,Jordan,
+NJ,M,1977.0,Jordan,
+NJ,M,1944.0,,5
+NJ,F,1936.0,Jordan,194
+NJ,F,1982.0,Mary,245
+NJ,,1950.0,Linda,15
+NJ,F,,Jordan,674
+NJ,,2012.0,jordan,5
+NJ,F,2015.0,Taylor,562
+NJ,M,1974.0,Alex,1138
+,M,1956.0,John,43
+NJ,F,2019.0,Alex,11
+NJ,F,1996.0,Patricia,16
+NJ,M,1958.0,Casey,63
+NJ, M ,1957.0,Taylor,47
+ NJ ,F,1932.0,Jordan,116
+NJ,F,2010.0,Jennifer,17
+NJ,F,1968.0,Patricia,195
+NJ,M,1986.0,John,549
+NJ,M,1983.0,John,371
+NJ,F,1928.0,Jordan,8
+NJ,M,1947.0,James,10
+NJ,M,1919.0,John,
+ NJ ,M,2014.0,Robert,686
+NJ,M,1988.0,Casey,75
+NJ,F,1997.0,Casey,86
+NJ,F,2008.0,Taylor,199
+NJ,F,2020.0,Casey,5
+NJ,,2013.0,Jordan,66
+NJ,F,2016.0,Alex,21
+NJ, M ,1936.0,Jordan,32
+NJ,M,1990.0,,175
+NJ,M,1998.0,James,282
+,M,1939.0,,35
+NJ,F,1947.0,Jordan,26
+NJ,M,1982.0,Taylor,130
+NJ,M,1929.0,Casey,12
+NJ,F,1953.0,Robert,5
+NJ,F,1976.0,Taylor,444
+NJ,M,1987.0,,564
+NJ,F,1936.0,John,321
+NJ,F,1950.0, Mary ,146
+NJ,M,1961.0,Taylor,250
+NJ,M,1999.0,Robert,49
+NJ,,1981.0,James,229
+NJ,F,1967.0,Robert,
+NJ,F,1968.0,Mary,57
+NJ,M,1952.0,John,800
+NJ,F,1978.0,Patricia,366
+NJ,F,1947.0,Jennifer,8
+NJ,F,2002.0,Alex,9
+NJ,F,2011.0,Linda,29
+NJ,F,2019.0,Jennifer,7
+NJ,F,1961.0,Linda,1094
+NJ,M,2009.0,Michael,17
+NJ,M,1949.0,Jordan,54
+NJ, M ,2022.0,Michael,21
+NJ,M,1923.0,Taylor,9
+NJ,F,1970.0,Alex,259
+NJ,M,1976.0,jordan,438
+NJ,,2001.0,Alex,6
+NJ,M,1931.0,Alex,282
+NJ,M,1989.0,Alex,1008
+NJ,M,1943.0,Alex,663
+NJ,M,1925.0,James,83
+ NJ , F ,1992.0,Taylor,352
+NJ,M,1971.0,John,233
+NJ,F,1958.0,Jennifer,25
+NJ,F,1922.0,Linda,53
+NJ,F,1981.0,Taylor,9
+NJ,F,1972.0, Patricia ,382
+NJ,F,1973.0,Jordan,190
+NJ,F,1932.0,Taylor,132
+NJ,M,1939.0,Robert,16
+NJ,F,2014.0,Patricia,6
+NJ,F,,Patricia,213
+NJ, F ,1940.0,,
+,M,1915.0,Alex,18
+NJ,,2016.0,Taylor,112
+NJ,M,1922.0,Robert,20
+NJ,M,1948.0,Taylor,541
+NJ,F,,Alex,520
+NJ,M,1963.0,john,85
+NJ,F,1941.0,Alex,134
+NJ,M,1967.0,Alex,237
+ NJ ,F,,Taylor,159
+NJ,F,1986.0,,
+NJ,F,1954.0,Linda,230
+NJ,F,1979.0,Mary,503
+NJ,F,2011.0,Taylor,65
+NJ,F,1949.0,Casey,1229
+NJ,F,1973.0,Jennifer,45
+NJ,F,2007.0,Casey,
+NJ,M,1948.0,Jordan,139
+NJ,F,1983.0,Taylor,21
+NJ,F,1948.0,Linda,12
+NJ,M,1982.0,Robert,794
+NJ, M ,1968.0,Casey,856
+NJ,M,1986.0,Alex,106
+NJ,M,1948.0,James,17
+NJ,M,2020.0,Linda,24
+NJ,F,,Patricia,320
+NJ, F ,1966.0, Casey ,183
+NJ, F ,1999.0,Robert,179
+NJ,F,,Taylor,73
+,,1980.0, Jordan ,413
+NJ,M,2004.0,Michael,43
+NJ,M,1992.0,Casey,140
+NJ,F,1988.0,Alex,724
+NJ,M,1987.0,Casey,244
+NJ, F ,1926.0,Taylor,9
+NJ,M,1955.0,James,201
+ NJ ,F,1978.0,Linda,450
+NJ,F,1916.0,Casey,12
+NJ,F,1960.0,Linda,392
+NJ,F,1986.0,Linda,148
+NJ,F,1953.0,Taylor,106
+ NJ ,F,1963.0,Jennifer,33
+NJ,M,1956.0,Michael,43
+ NJ , F ,1918.0,Casey,147
+NJ,M,1995.0,John,136
+NJ,F,2014.0,Jordan,267
+NJ,F,1955.0,Patricia,34
+ NJ ,F,1919.0,,82
+ NJ ,M,,Jordan,134
+NJ,M,1945.0,Casey,213
+NJ, M ,1956.0,Alex,259
+,F,2004.0,Mary,175
+NJ, M ,1952.0,Jordan,18
+ NJ ,F,1928.0,Mary,21
+NJ,F,1937.0,Alex,592
+ NJ ,F,2002.0,Linda,119
+ NJ ,F,1953.0,Jennifer,12
+NJ,M,1965.0,Robert,263
+ NJ ,F,1918.0,Jordan,125
+NJ,M,,Michael,784
+NJ,M,1913.0,Michael,29
+NJ,M,1969.0,Jordan,247
+NJ,F,2007.0,Alex,111
+ NJ ,F,2006.0,jordan,608
+NJ,,1968.0,John,756
+NJ,M,2009.0,Casey,366
+NJ,M,1946.0,Jordan,
+,,1947.0,Linda,301
+NJ,F,1987.0, Casey ,18
+NJ,F,1954.0,Mary,33
+,F,1999.0,Jennifer,924
+NJ, M ,1931.0,John,17
+NJ,F,,robert,127
+ NJ ,F,2021.0,Taylor,553
+NJ,F,1989.0,,144
+NJ,M,1922.0,Jordan,10
+,F,1991.0,Taylor,65
+NJ,M,2003.0,John,
+NJ,F,1941.0,Michael,36
+NJ,M,1925.0,John,75
+ NJ ,F,1935.0,Linda,15
+NJ,F,1998.0,Jordan,954
+ NJ ,M,2012.0,John,62
+NJ,M,1919.0,Jordan,45
+NJ,F,1940.0,Alex,6
+,M,1923.0,James,191
+NJ,F,2014.0,,277
+NJ,M,1938.0,Alex,1015
+NJ, M ,1962.0,Robert,16
+NJ,F,1979.0,Patricia,227
+NJ,F,1937.0, Linda ,6
+NJ,M,2014.0,Jennifer,282
+NJ, M ,1920.0,John,7
+ NJ ,F,1963.0,Patricia,843
+,F,1958.0,Patricia,674
+NJ,F,1945.0, Jennifer ,193
+NJ,M,1976.0,Casey,1319
+ NJ ,M,1929.0,,25
+NJ,M,1993.0,Michael,621
+,M,,John,605
+NJ,M,1945.0,Alex,750
+NJ,,, Taylor ,101
+NJ,F,1948.0,Alex,44
+NJ,M,1993.0,John,76
+NJ,F,1943.0,Linda,554
+NJ,M,2015.0,Casey,29
+NJ,F,1933.0,Jennifer,143
+NJ,M,1950.0,,19
+NJ,M,1958.0,John,37
+NJ,M,1927.0,John,19
+NJ,M,1966.0,John,731
+NJ,F,1955.0,Alex,21
+ NJ ,F,1912.0,Casey,24
+NJ,M,1979.0, Michael ,20
+NJ,M,2008.0,James,15
+NJ,F,1960.0,Taylor,39
+NJ,F,2007.0,,711
+NJ,,1975.0,,554
+NJ,F,1914.0,Jennifer,159
+NJ,F,1969.0,Linda,352
+NJ,M,2009.0,Alex,167
+NJ,M,1967.0,James,109
+NJ,M,1974.0,Taylor,411
+NJ,M,1950.0,Michael,48
+NJ,F,1953.0, Casey ,534
+ NJ ,M,2016.0,Taylor,348
+NJ,M,1918.0,Taylor,46
+NJ, M ,2001.0,Taylor,602
+NJ, M ,1991.0,James,160
+ NJ ,F,1960.0,Patricia,266
+NJ,F,1914.0,Jordan,33
+NJ,F,1963.0, Casey ,56
+NJ,F,1912.0,Mary,14
+ NJ ,F,1988.0,Taylor,324
+NJ,M,1988.0,Taylor,296
+NJ,F,1919.0,Casey,31
+NJ,F,2014.0,Jennifer,200
+NJ,M,2013.0,Jordan,8
+NJ,M,1994.0,Michael,17
+NJ,F,1961.0,Patricia,158
+NJ,F,1976.0,Jennifer,247
+NJ,M,2007.0,Casey,
+NJ,M,2013.0,John,179
+ NJ ,F,2012.0,Casey,545
+NJ,M,1946.0,Michael,23
+NJ,F,2018.0,Patricia,642
+NJ,M,1960.0,,366
+ NJ , F ,1954.0,Casey,94
+NJ,M,1947.0,Alex,20
+NJ,M,1949.0,Alex,794
+NJ,M,1982.0,Alex,143
+,F,1973.0,alex,144
+NJ,F,1949.0,Linda,138
+NJ,F,1951.0,Alex,141
+NJ,F,1973.0,Patricia,28
+NJ,F,2005.0,Jordan,318
+NJ,F,1979.0,Casey,196
+NJ,M,1915.0,Casey,19
+NJ,M,1993.0,Alex,556
+ NJ , F ,1929.0,Linda,16
+NJ,F,1940.0,Mary,218
+NJ,F,1959.0,Mary,649
+NJ,F,1983.0,Linda,105
+NJ,F,2022.0,Jennifer,26
+ NJ ,,,Jordan,8
+NJ,M,1959.0,,43
+NJ,M,1970.0,Jordan,
+NJ,F,1989.0,Mary,102
+NJ,M,1953.0,Michael,30
+ NJ ,F,1919.0,Taylor,6
+NJ,M,1988.0,Alex,339
+NJ,M,,Casey,252
+NJ,F,2019.0,Mary,7
+NJ,M,2017.0,,120
+NJ,F,2013.0,Casey,250
+NJ,M,1946.0,John,23
+NJ,M,1965.0,James,305
+ NJ ,M,1979.0,Robert,476
+NJ,M,1953.0,James,412
+NJ,F,1916.0,Jennifer,114
+NJ,F,2012.0,Mary,6
+NJ,F,1954.0,jordan,21
+NJ,F,1998.0,Michael,6
+NJ,F,1945.0,Michael,82
+ NJ ,M,1940.0,James,347
+NJ,F,2010.0,Alex,1031
+NJ,F,1993.0,Jennifer,244
+NJ,F,2008.0,mary,91
+NJ,M,2009.0, Robert ,47
+NJ, M ,2006.0,michael,335
+ NJ ,M,,Taylor,89
+NJ,M,1965.0,Casey,588
+NJ,F,2005.0,taylor,
+NJ,F,1927.0,Jennifer,7
+NJ,M,1930.0,Robert,88
+ NJ , M ,2007.0,James,272
+NJ,M,1995.0,Michael,966
+,F,1989.0,Jordan,65
+NJ,F,1967.0,Alex,
+NJ,M,1989.0,Jordan,206
+ NJ ,F,1978.0,Taylor,435
+ NJ ,M,1992.0,John,428
+NJ,F,1974.0,Casey,44
+NJ,F,1969.0,,74
+NJ,M,1951.0,Alex,380
+NJ,M,1979.0,,45
+NJ,F,1968.0,Linda,578
+NJ,F,1922.0,Patricia,150
+NJ,M,1999.0,Alex,26
+ NJ ,M,2009.0,James,30
+,F,2017.0,Casey,57
+ NJ ,F,2002.0,Patricia,67
+NJ,F,1998.0,Taylor,43
+NJ,F,2009.0,Taylor,23
+NJ,F,2017.0,Alex,
+NJ,M,,James,38
+NJ,F,1999.0,Alex,92
+NJ,M,1979.0,Jordan,374
+NJ,M,1954.0,Patricia,258
+NJ,F,1933.0,Alex,137
+NJ,F,1924.0,Casey,6
+NJ,M,1959.0,,404
+NJ,F,1969.0,Casey,759
+NJ,M,2013.0, Taylor ,15
+NJ,M,2016.0,Casey,53
+NJ,F,1979.0,Jennifer,567
+NJ,F,1952.0, Jennifer ,51
+NJ, M ,2022.0,john,49
+NJ,M,1955.0,Linda,434
+NJ,M,2009.0,Taylor,167
+NJ,,2020.0,Jordan,63
+ NJ ,M,1916.0,James,
+NJ,M,,Casey,
+NJ,F,1954.0,Taylor,231
+ NJ , M ,1961.0,Robert,14
+NJ, M ,2000.0,James,278
+NJ,M,1983.0,Jennifer,189
+NJ,F,2018.0,Casey,8
+NJ,F,1936.0,,15
+NJ,M,2002.0,John,
+NJ,M,2010.0,Casey,36
+NJ,F,1995.0,John,
+NJ, M ,2004.0,Jordan,386
+NJ,M,2000.0,Alex,106
+NJ,,1928.0,Alex,54
+NJ, M ,1972.0,Jordan,243
+NJ,F,1977.0,Taylor,396
+NJ,M,1990.0,,598
+NJ,M,2016.0,John,27
+NJ,M,1979.0,Casey,326
+NJ,,1925.0, Linda ,499
+NJ,F,1941.0,Linda,58
+NJ,M,,Alex,711
+NJ,M,1948.0,Casey,408
+NJ, F ,1921.0,Jennifer,219
+NJ,F,1961.0,Jennifer,403
+NJ,F,1961.0,Mary,64
+NJ,F,2016.0,Linda,18
+NJ, M ,1976.0,Michael,569
+NJ,M,2010.0,James,5
+NJ,F,1934.0,Patricia,209
+NJ,F,1941.0,Casey,136
+NJ,M,2012.0,James,20
+NJ,F,1956.0,Taylor,51
+NJ,M,2017.0,James,166
+NJ,F,1957.0,Patricia,34
+NJ,M,1942.0,Casey,30
+NJ, F ,2002.0,Casey,81
+NJ,M,2013.0,Casey,16
+NJ,M,1956.0,Jordan,35
+NJ, M ,1968.0,Robert,190
+NJ,F,,Taylor,186
+NJ,F,2022.0,Patricia,248
+NJ,F,1942.0,Alex,658
+,M,2006.0,Robert,292
+NJ,M,2020.0,Taylor,11
+NJ,M,1937.0,Michael,128
+NJ,M,1946.0,Casey,296
+NJ,M,1972.0,John,495
+NJ,M,1958.0,James,280
+NJ,F,1987.0,Alex,222
+NJ,F,1987.0,Jordan,665
+NJ,F,1964.0,Taylor,686
+NJ,,,Jordan,323
+NJ, M ,1952.0,James,501
+NJ,M,1936.0,james,460
+ NJ ,M,1969.0,Jennifer,257
+NJ,M,2015.0,Alex,36
+NJ,F,1979.0,Linda,111
+NJ,M,1969.0,Michael,242
+NJ,M,1971.0,James,493
+NJ,F,1920.0,Linda,5
+NJ,F,2008.0,Linda,73
+ NJ ,M,2002.0,Michael,127
+NJ,F,2003.0,Alex,13
+NJ, F ,1951.0,Patricia,
+NJ,F,1992.0,Alex,231
+ NJ , M ,1973.0,Michael,409
+NJ, M ,1968.0,Alex,83
+ NJ ,F,1949.0,Patricia,122
+NJ,F,1934.0,Taylor,17
+ NJ ,M,2005.0,Michael,510
+NJ,F,1938.0,Mary,518
+NJ,F,1950.0,Jordan,233
+NJ,F,1959.0,Casey,146
+NJ,F,2000.0,Patricia,684
+NJ,M,2019.0,Michael,27
+NJ,M,1914.0,John,14
+NJ,F,1985.0,Patricia,489
+NJ,,2007.0,Jennifer,142
+NJ,F,1945.0,Jordan,11
+NJ,M,,James,25
+NJ,M,1989.0,Casey,353
+NJ,F,1961.0,Taylor,86
+NJ,M,1951.0,Jordan,552
+NJ,M,2009.0,John,120
+NJ,M,1998.0,robert,209
+NJ,M,,Michael,719
+NJ,M,1947.0,,10
+ NJ ,M,1954.0,Alex,238
+NJ,M,1990.0,Robert,147
+NJ,F,1998.0,Linda,11
+NJ,M,,Taylor,10
+NJ,F,1946.0,Jordan,650
+NJ,F,1993.0,Casey,295
+NJ,M,1980.0,John,366
+NJ, F ,1977.0,Casey,703
+NJ, F ,1943.0,Mary,37
+NJ, M ,1991.0,John,139
+ NJ ,M,1956.0,James,69
+NJ, F ,1931.0,Alex,72
+NJ,M,1969.0,James,10
+NJ,F,1938.0,Jennifer,30
+NJ, F ,1993.0,Alex,62
+NJ,M,1982.0,Mary,63
+NJ,M,1935.0,Taylor,134
+NJ,F,2012.0,,398
+NJ,M,1943.0,Robert,165
+NJ,F,1970.0,Jennifer,95
+NJ,F,1981.0,Jordan,114
+NJ,F,2011.0,Jennifer,28
+NJ,M,1950.0,John,137
+NJ,F,1930.0,Alex,297
+NJ, M ,1976.0,Taylor,126
+NJ,F,1934.0,mary,102
+NJ,M,1941.0,Jennifer,190
+NJ,M,1998.0,Michael,706
+NJ,F,2009.0,,94
+NJ,,1942.0,Taylor,986
+NJ,M,1914.0,James,130
+,F,2018.0,Mary,141
+NJ, F ,1982.0,John,777
+NJ,F,1943.0,,36
+ NJ ,F,,Patricia,5
+ NJ ,M,2018.0,James,557
+NJ,F,1983.0,patricia,142
+NJ,M,,Alex,6
+NJ,F,1994.0,Casey,123
+NJ,F,1989.0,Jennifer,301
+NJ,F,1926.0, Casey ,26
+NJ,F,1925.0,Jordan,78
+NJ,F,2011.0,,167
+ NJ ,M,1992.0,John,428
+NJ,M,1911.0,Alex,54
+NJ, M ,1965.0, John ,87
+NJ,F,1940.0,jennifer,61
+NJ,M,1971.0,Jordan,51
+NJ,M,1948.0,Robert,204
+NJ,F,,Taylor,590
+ NJ ,F,1921.0,Casey,
+NJ,M,1992.0,Taylor,199
+NJ, F ,1947.0,alex,8
+NJ,F,1943.0,Jordan,346
+NJ, M ,2003.0,Robert,26
+NJ,F,1946.0,Casey,
+NJ,F,1991.0,Jordan,185
+NJ,M,1994.0,John,480
+NJ,F,1933.0,Casey,35
+NJ,F,2017.0,Patricia,257
+NJ,M,1995.0,Taylor,246
+NJ,M,1967.0,,109
+ NJ ,,2013.0,John,188
+NJ,M,1952.0,Robert,336
+NJ,M,1996.0,James,284
+ NJ ,M,,Casey,104
+,M,2012.0,Alex,703
+NJ,F,1945.0,Casey,63
+NJ,M,2001.0, Michael ,13
+NJ,F,2022.0,Jennifer,26
+NJ, M ,1978.0,Taylor,411
+NJ,F,1952.0,Mary,84
+NJ,F,1932.0,Jennifer,39
+ NJ ,F,1924.0,jordan,64
+NJ,F,1987.0,Taylor,39
+,M,,Robert,282
+NJ,M,2017.0,Jordan,154
+NJ,F,,Casey,67
+NJ,F,1930.0,Jennifer,177
+NJ,F,1952.0,Patricia,58
+NJ,F,1988.0,,352
+NJ,F,1917.0,Robert,7
+NJ, M ,1959.0,Mary,45
