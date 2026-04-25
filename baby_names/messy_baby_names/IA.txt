@@ -1,0 +1,1671 @@
+stateCode,gender,birthYear,firstName,numOccurrences
+IA,M,1969.0,Casey,350
+IA,F,2001.0,Linda,152
+IA,M,1928.0,Jordan,64
+IA,M,1972.0,,800
+ IA ,F,2004.0,Alex,99
+IA,M,1958.0,Casey,120
+IA,,1980.0,Alex,154
+IA,F,1977.0,Linda,301
+IA,M,1999.0,robert,23
+IA,M,2009.0,Taylor,74
+IA,F,1937.0,Patricia,
+IA,F,1970.0,Jordan,154
+IA, M ,1948.0,Alex,1009
+IA,F,2006.0, Alex ,186
+IA,M,1992.0,Michael,60
+IA,F,1973.0,Jordan,353
+IA,M,1960.0,Casey,55
+IA,F,1971.0,Alex,377
+,F,1924.0,Robert,11
+IA,F,1911.0,Patricia,24
+IA,M,1982.0,,286
+IA,F,1921.0,Mary,7
+IA,F,,,369
+IA,F,1989.0,Taylor,251
+ IA ,F,1963.0,Alex,111
+,M,1935.0,Taylor,8
+IA,M,1986.0,Michael,186
+IA,M,2015.0,Taylor,321
+IA,M,1925.0,Robert,252
+IA,F,2016.0,Taylor,253
+IA,F,1922.0,Patricia,31
+IA, M ,1980.0,Robert,369
+IA,M,1914.0,Taylor,5
+IA,M,1941.0,Jordan,405
+IA,M,,robert,
+IA,M,1912.0,james,
+IA,F,1929.0,Linda,22
+IA,M,2008.0,Michael,72
+IA,M,1947.0,Jordan,134
+IA,M,1984.0,Michael,86
+IA,M,1911.0,Alex,5
+IA,F,1990.0,Mary,94
+,F,1978.0,Jennifer,804
+,F,1928.0,jordan,188
+IA,F,1925.0,Linda,192
+ IA ,M,1966.0,Jordan,
+IA,F,1964.0,Taylor,700
+IA, M ,1981.0,Robert,1322
+IA,M,1957.0,James,109
+IA,M,1994.0,Taylor,195
+IA,F,1948.0,Taylor,14
+ IA ,M,1963.0,John,207
+IA,M,1958.0,Robert,221
+IA,M,,Casey,56
+IA,M,, Casey ,173
+IA,M,2013.0,Robert,104
+ IA , M ,1993.0,James,61
+IA,F,1997.0,Taylor,218
+IA,M,1989.0,Casey,612
+IA,M,1947.0,Casey,9
+IA,,1927.0,Casey,40
+IA,F,1980.0,James,702
+IA,,1998.0,Patricia,623
+IA,M,2019.0,Michael,14
+IA,M,1974.0,James,
+IA,M,1952.0,Jordan,254
+IA,M,1944.0,Jordan,13
+ IA ,F,,Jennifer,307
+IA,M,1961.0,Alex,5
+IA,M,1939.0,James,410
+IA, F ,1941.0,Casey,250
+IA,F,1963.0,Jennifer,163
+IA,F,1992.0,Linda,48
+IA,M,1930.0,Michael,30
+ IA ,M,1994.0,Patricia,942
+IA,F,1948.0,Patricia,135
+IA,F,1981.0,,39
+ IA ,M,1942.0,James,421
+IA,M,1910.0,Casey,21
+IA,F,1941.0,Linda,40
+IA,M,1925.0,Taylor,13
+IA,F,1975.0,Patricia,133
+IA,F,2003.0,Mary,105
+ IA ,M,2019.0,Jordan,41
+IA,F,1983.0,Jennifer,452
+IA,F,1933.0,Jennifer,144
+IA,F,2017.0,Jennifer,980
+IA,F,2000.0,Patricia,80
+IA,F,1987.0,John,576
+IA,F,1993.0,Patricia,1049
+ IA ,M,2002.0,James,64
+IA,F,1919.0,Linda,47
+IA,F,1933.0,Michael,18
+IA,M,1950.0,Alex,512
+ IA ,M,1953.0,Casey,581
+IA, F ,1989.0,Robert,174
+ IA ,M,1951.0,Taylor,672
+IA,M,1951.0,Michael,174
+IA,M,1921.0,Robert,134
+IA,F,1937.0,Mary,55
+IA,M,1912.0,Michael,11
+IA,F,1947.0,Jordan,252
+IA,M,1929.0,James,9
+IA,F,2005.0,Alex,28
+IA,M,1933.0,John,609
+,F,1940.0,Alex,161
+ IA ,F,1939.0,Mary,5
+IA,M,1943.0,Alex,32
+,M,1966.0,Casey,836
+IA,F,1965.0,Linda,132
+IA,F,1979.0,Jennifer,263
+IA,F,2010.0,Linda,315
+IA,F,,Jordan,433
+IA,M,1946.0,Robert,216
+IA,M,1950.0,Robert,6
+IA,F,1964.0,Mary,463
+ IA ,F,1977.0,Jennifer,
+IA,M,1978.0,James,455
+IA, M ,1969.0,Jordan,827
+IA,M,,Taylor,39
+IA,F,2007.0,Mary,495
+IA,,1954.0,Linda,438
+IA,F,1990.0,Casey,285
+IA,M,,Jordan,8
+IA,F,1988.0,Casey,90
+ IA , F ,1971.0,Mary,759
+IA,F,1969.0,Mary,285
+IA,M,1982.0,Alex,518
+IA,F,1955.0,mary,85
+IA,F,1955.0,Taylor,426
+IA,M,1942.0,Michael,39
+IA,F,1924.0,Jennifer,6
+IA,F,1919.0,Jennifer,57
+IA,,2013.0,John,76
+IA,F,1997.0,Jordan,310
+IA, M ,1959.0,John,655
+IA, M ,1941.0,Michael,14
+IA,F,1915.0,James,42
+IA,F,1974.0,Taylor,401
+IA,F,1962.0,Linda,33
+IA,M,2000.0,Michael,289
+,M,1945.0,Taylor,41
+,F,,,332
+IA,F,2019.0,Taylor,840
+IA,M,1938.0,John,386
+IA,M,1998.0,Taylor,30
+IA,M,1935.0,Robert,469
+ IA , F ,1984.0,Alex,20
+IA,M,1923.0,James,67
+IA, F ,1936.0,Mary,93
+IA,M,1999.0,Michael,84
+IA,M,1978.0,Michael,413
+ IA ,F,,Jordan,743
+IA,F,1948.0,Linda,18
+IA,M,2001.0,Alex,78
+ IA ,F,1922.0,Taylor,31
+IA,F,1985.0,Jordan,159
+IA,F,1966.0,Mary,436
+IA, M ,1964.0,Michael,768
+IA,M,1980.0,Jennifer,63
+IA,,1922.0,,14
+IA,F,1962.0,James,19
+ IA ,F,1949.0,Taylor,564
+IA,M,1935.0,Michael,32
+IA,F,,Casey,40
+IA,F,1995.0,alex,520
+,,1989.0,Taylor,492
+IA,M,2004.0,Casey,402
+,F,1987.0,Taylor,119
+IA,M,1981.0,Linda,45
+IA,F,1984.0,Linda,344
+IA,F,1911.0,Jennifer,15
+IA,F,1961.0,Patricia,330
+IA,M,2000.0,alex,98
+IA,F,1914.0,Taylor,58
+IA,F,1915.0,Alex,25
+IA,F,1972.0,Alex,671
+IA,F,1952.0,Jennifer,16
+IA,M,1959.0,Casey,565
+IA,,1975.0,James,705
+, F ,1943.0,Jennifer,315
+IA,,1990.0,Jordan,377
+IA,M,1970.0,,650
+IA,M,2022.0,John,605
+, M ,1934.0,Alex,245
+IA,F,2009.0,Linda,771
+ IA ,F,1952.0,Casey,218
+IA,M,1990.0,james,497
+IA,F,1950.0,Mary,9
+IA,M,2021.0,Michael,629
+IA,F,,Casey,15
+IA,M,1939.0,Robert,792
+IA,F,1937.0,Linda,
+IA,F,1986.0,Patricia,302
+IA,,1954.0,Robert,397
+IA,F,1912.0,Taylor,13
+ IA ,F,1989.0,Alex,26
+IA,M,1988.0,Alex,330
+IA,F,1948.0,Jordan,318
+IA,M,1961.0,Casey,213
+,M,1934.0,Jordan,9
+IA,F,1979.0,Taylor,103
+IA,,1977.0,Jordan,178
+IA,F,1930.0,Taylor,279
+IA,M,1976.0,Casey,315
+IA,F,2010.0,James,22
+IA,M,2000.0,Jordan,180
+IA,F,,Mary,1033
+IA,M,,Patricia,93
+IA,F,1959.0,Alex,98
+IA,M,1973.0,Alex,830
+IA,M,2005.0,James,45
+IA,F,,Mary,295
+IA,M,2000.0,Taylor,490
+IA,F,2015.0,Linda,1062
+IA, M ,1993.0,Casey,278
+IA,F,,Jennifer,29
+IA,M,1922.0,James,13
+IA,F,2021.0,Mary,18
+IA,M,1966.0,John,
+,F,2003.0,Casey,60
+IA,M,1938.0,James,95
+IA,F,2007.0,Jennifer,
+IA, M ,2003.0,Taylor,174
+IA,M,1942.0,Casey,507
+IA,F,1992.0,Jordan,327
+IA,F,1983.0, Casey ,642
+ IA , F ,1929.0,jennifer,15
+IA,M,2011.0,,411
+ IA ,M,2002.0,John,686
+IA,F,1979.0,Linda,324
+IA,M,1933.0,Casey,29
+IA,M,2002.0,jordan,89
+IA,F,1963.0,Taylor,155
+IA,F,2006.0, Jordan ,639
+IA,M,1993.0,Alex,424
+IA,F,1947.0, Mary ,14
+IA,,1910.0,,9
+IA,M,1998.0,Alex,301
+IA,M,1960.0,James,83
+IA,M,1952.0,Robert,17
+IA,M,,james,517
+IA,M,1984.0,Taylor,578
+IA,F,1993.0,James,373
+IA,M,2022.0,James,187
+IA,F,1993.0,Linda,397
+IA,F,1982.0,John,306
+IA,F,1986.0,Linda,880
+IA,M,1942.0,Alex,30
+IA,F,1976.0,Linda,760
+ IA ,F,1946.0,Alex,31
+IA, F ,1991.0,Casey,393
+IA,M,2002.0,Taylor,10
+,F,1972.0, Linda ,542
+IA,M,2004.0,Alex,37
+IA,F,2021.0,Casey,31
+IA,M,1937.0,Jordan,13
+ IA ,M,1989.0,Alex,
+IA,,1934.0,Patricia,7
+IA, M ,2014.0,John,63
+ IA ,M,1976.0,Jennifer,571
+IA,F,1989.0, James ,363
+IA, F ,1925.0,Taylor,65
+IA,M,1954.0,Michael,27
+ IA ,F,1916.0,Taylor,315
+IA,F,1955.0,Jennifer,541
+IA,,1954.0,Casey,225
+IA,F,2022.0,Mary,111
+IA,M,1928.0,James,241
+IA,F,1963.0,Casey,162
+IA,M,1957.0,Robert,28
+IA,M,1949.0,John,450
+IA,M,2005.0,Taylor,294
+IA,M,1991.0,Jennifer,91
+IA,,,Michael,530
+ IA ,F,1973.0,Mary,998
+IA,F,2006.0,Linda,373
+IA,M,1979.0,James,360
+IA,M,1928.0,Robert,21
+IA,M,1950.0,Michael,271
+IA,M,1985.0,John,381
+IA,F,1962.0,Alex,677
+IA, M ,1978.0,John,351
+IA,M,1954.0,Casey,76
+IA,F,1947.0,Jennifer,129
+IA, F ,,Jordan,59
+IA, M ,1968.0,Jordan,422
+IA,M,1999.0,Jordan,177
+IA,M,1943.0,John,516
+IA, M ,1992.0,Taylor,811
+IA,F,1954.0,James,551
+IA,M,1940.0,robert,5
+IA,F,1972.0,Jordan,31
+IA,M,1951.0,James,283
+IA,M,1984.0,Alex,361
+ IA ,M,2020.0,Casey,112
+IA,M,1944.0,Casey,7
+IA,M,1964.0,Casey,586
+IA,,1946.0,Casey,52
+IA,,1972.0,Mary,551
+IA,F,2019.0,Linda,15
+IA, F ,1999.0,Jordan,123
+IA,F,,Taylor,11
+IA,M,1955.0,Casey,313
+ IA ,,1992.0,Mary,319
+IA,F,1936.0,Alex,19
+IA,M,2011.0,Alex,12
+IA,M,1944.0,Taylor,20
+IA,F,1988.0,Linda,133
+IA,M,1987.0,Michael,258
+IA,M,1954.0,John,35
+IA,M,2017.0,Michael,6
+IA,M,,Taylor,461
+IA,M,2006.0,Robert,798
+IA,F,2008.0,Mary,561
+IA,M,1977.0,Robert,311
+IA,F,2011.0,Jordan,9
+IA,F,1990.0, Taylor ,121
+IA,F,1955.0,linda,706
+ IA ,F,1965.0,Taylor,172
+IA,F,1925.0,Alex,142
+IA,M,1940.0,Jordan,18
+,F,1953.0,Jordan,55
+IA,F,2019.0,Jordan,101
+IA,M,1927.0,Jordan,344
+IA,M,1949.0,Jordan,107
+IA,F,1977.0,Taylor,241
+IA,M,1993.0,Michael,37
+IA,F,1979.0,Jordan,93
+IA,F,1976.0,Taylor,223
+IA,M,1984.0,John,671
+IA,M,2006.0,John,161
+IA,F,1981.0,Jordan,
+IA,F,1946.0,,175
+IA,F,1974.0,Linda,663
+IA,M,2022.0,Michael,
+IA,M,1982.0,Michael,169
+IA,F,1914.0,John,18
+ IA ,M,1961.0,John,10
+IA,M,1934.0,james,5
+IA,M,1952.0,Taylor,8
+,M,1948.0,casey,26
+IA,F,1941.0,Taylor,9
+IA,M,1957.0,Michael,329
+IA,M,1911.0,Taylor,7
+IA,M,1998.0,John,368
+IA,F,2005.0,Mary,48
+IA,F,2000.0,Taylor,738
+IA,M,1958.0,Alex,175
+IA,M,1955.0,Michael,118
+,M,1954.0,Alex,200
+,M,,james,937
+IA,F,1949.0,Casey,11
+IA,M,1980.0,Michael,240
+IA,M,1949.0,Alex,10
+ IA ,M,1924.0,Taylor,
+IA,F,1997.0,Jennifer,201
+IA,M,2007.0,Robert,442
+IA,M,1940.0,Casey,29
+IA,M,1959.0,Robert,214
+IA,M,1987.0,Casey,88
+IA,F,2000.0,Mary,84
+IA, M ,1955.0,John,44
+IA,F,1993.0,Taylor,574
+IA,F,1971.0,Jordan,211
+IA,M,1920.0,Taylor,53
+, M ,2013.0,Michael,103
+IA,F,1930.0,Jordan,633
+IA,F,1958.0,Patricia,42
+ IA ,M,1964.0,Jordan,129
+IA,M,1939.0,Michael,7
+IA,F,1985.0,linda,786
+ IA ,F,1968.0,John,316
+ IA ,,1968.0,James,323
+IA,M,1995.0,Taylor,202
+ IA ,M,1979.0,Jordan,417
+IA,M,1958.0,Mary,68
+IA,M,2003.0,robert,12
+IA,F,1991.0,Mary,514
+IA,F,1986.0,Jordan,
+ IA ,F,1952.0,Jordan,71
+IA,F,,Casey,5
+IA, M ,1958.0,Taylor,575
+IA,F,2002.0,Taylor,548
+IA,M,1980.0,Taylor,19
+IA,F,2015.0,mary,30
+IA,F,1996.0,Casey,67
+IA,F,1937.0,Patricia,
+IA,M,2001.0, John ,405
+IA,F,1996.0,Patricia,35
+IA,F,1959.0,Jordan,291
+,F,1994.0,Mary,
+IA,M,1970.0,Jennifer,593
+IA,F,1937.0,Jordan,78
+IA,M,1966.0,Taylor,476
+IA,M,,Robert,216
+IA,F,1917.0,Jennifer,12
+,M,1980.0,James,96
+IA,F,2017.0,alex,21
+IA,,1957.0,Jennifer,60
+ IA ,M,1997.0,Michael,416
+, M ,2022.0,Alex,9
+IA,F,1970.0,Alex,762
+IA,,1951.0,Alex,
+IA, M ,1992.0,Robert,274
+IA,M,1972.0,Jordan,618
+IA,M,1927.0,Alex,71
+IA,M,2012.0,Alex,
+ IA , M ,1962.0,,510
+ IA ,F,2011.0,Jennifer,414
+IA, M ,1989.0,Patricia,161
+IA,M,2014.0,James,442
+,F,1959.0,Patricia,
+IA,F,1981.0,Patricia,565
+IA, F ,1961.0,,221
+IA, M ,1923.0,Casey,10
+IA,F,1912.0,Jordan,154
+IA,F,2014.0,Linda,144
+ IA ,F,1945.0,Jordan,19
+IA,F,1987.0,Jennifer,
+IA,F,2013.0,Patricia,221
+,F,2016.0,Linda,1005
+IA,M,1940.0,John,251
+IA,M,1982.0,John,121
+IA,M,1963.0,Michael,128
+IA,M,1970.0,Michael,52
+ IA , M ,1946.0,Taylor,503
+ IA ,F,1960.0,Robert,193
+,F,1952.0,Patricia,605
+IA,F,1958.0,Linda,177
+IA,F,1960.0,Taylor,239
+IA,M,1973.0,Robert,
+IA,F,1946.0,Taylor,921
+IA,M,1937.0,Taylor,141
+, F ,1920.0,Alex,155
+IA,F,1970.0,Taylor,116
+IA, M ,1972.0,John,
+IA,F,1910.0,Taylor,25
+IA,F,2011.0,Casey,29
+IA,F,1944.0,Jordan,22
+IA,F,1969.0,,612
+IA,F,2001.0,taylor,86
+IA,F,1951.0,Linda,546
+IA,M,1945.0,Robert,173
+IA, F ,1983.0,Mary,619
+IA,M,1938.0,Alex,90
+ IA ,F,1976.0,Jordan,255
+IA,,1943.0,Robert,
+IA,F,1933.0,Michael,18
+IA,M,1943.0,Michael,34
+IA,F,1927.0,Jordan,12
+IA, F ,2020.0,Linda,211
+,M,1977.0,John,472
+IA,M,,Jordan,39
+,F,1974.0,Jennifer,179
+IA,M,2003.0,Alex,35
+IA,F,1978.0, Casey ,141
+,M,1961.0,James,117
+IA,M,1930.0,Taylor,482
+IA,F,2010.0,Patricia,185
+IA,F,1923.0,Taylor,30
+IA,F,1944.0,Taylor,23
+IA,F,1914.0,Taylor,58
+IA,F,2013.0,Taylor,5
+ IA ,F,1921.0,Linda,14
+,M,1978.0,Robert,381
+IA,M,1950.0, Taylor ,109
+IA,M,1990.0,Casey,337
+IA, F ,1992.0,Jennifer,824
+IA,F,,Alex,5
+IA,F,1945.0,Linda,690
+IA,F,2002.0,Patricia,
+IA,M,2021.0,Taylor,11
+ IA ,,1941.0,Robert,13
+ IA , F ,1934.0,Linda,14
+IA,M,1992.0, James ,970
+IA,F,1982.0,Linda,193
+IA,F,1927.0,Taylor,18
+IA,M,1967.0,John,330
+ IA ,M,1957.0,Taylor,339
+IA,F,1980.0,casey,62
+ IA ,F,1995.0,Taylor,961
+IA,M,2001.0,Taylor,186
+IA,,1969.0,Jennifer,564
+IA,M,1968.0,Alex,99
+IA,F,1922.0,Jordan,26
+IA,F,2016.0,jennifer,464
+IA,F,1963.0,Mary,59
+IA,F,1987.0,Jordan,122
+IA,M,2019.0,Taylor,13
+IA,F,1919.0,Mary,118
+IA,F,1994.0,,500
+IA,F,1955.0,Alex,
+IA,F,1965.0,Alex,187
+IA,M,2013.0,alex,12
+ IA ,M,2005.0,Robert,200
+IA,F,1993.0,Casey,190
+IA, F ,1953.0,Taylor,27
+IA,M,1948.0, Jennifer ,355
+,M,1994.0,John,384
+IA,M,2015.0,Robert,533
+IA,M,1936.0,Jordan,5
+IA,F,1914.0,patricia,35
+ IA ,F,1923.0,Patricia,12
+IA,F,1982.0,Taylor,181
+IA,M,1963.0,James,21
+IA,F,1962.0,Patricia,103
+IA,F,1951.0,Patricia,7
+IA,F,1962.0,Mary,406
+ IA ,M,2001.0,James,25
+IA,F,1999.0,Patricia,
+IA,M,2010.0,Jordan,34
+IA,F,1991.0,Patricia,421
+IA,M,2012.0,John,21
+IA,,1965.0, Mary ,308
+IA,M,1982.0,,395
+IA,F,1948.0,Jennifer,542
+,M,1988.0,,
+ IA ,M,1957.0,John,134
+IA,F,2002.0,Jordan,
+IA,F,1974.0,,119
+IA,F,1980.0,Patricia,329
+IA,F,1965.0,Jennifer,321
+IA,M,1972.0,Casey,104
+IA,M,1994.0,Casey,225
+IA,M,1963.0,Taylor,517
+IA,M,2015.0,Alex,287
+ IA ,M,1985.0,Alex,711
+IA,M,1975.0,Jordan,
+IA,F,1965.0,Jordan,13
+IA,,1954.0,Robert,397
+IA,,1994.0,Robert,41
+ IA ,F,1966.0,Casey,266
+IA,,2012.0,Mary,
+IA,F,1964.0,,634
+IA,F,1952.0,,420
+IA,M,1970.0,,204
+IA, M ,1983.0,john,91
+IA, M ,1954.0,,34
+IA,F,1942.0,Jordan,61
+ IA ,F,2022.0,Linda,68
+IA, M ,1971.0,Jordan,239
+IA,M,1960.0,Jordan,31
+IA,M,1973.0,Michael,61
+IA, M ,1999.0,James,676
+IA, M ,1923.0,Robert,39
+,M,1981.0,Jordan,291
+IA,M,1998.0,John,368
+IA, F ,1959.0,Taylor,39
+IA,M,1960.0,alex,464
+IA,M,1984.0,James,459
+IA,F,1934.0,Jennifer,8
+IA,F,1926.0,Alex,53
+,F,2015.0,Jordan,9
+IA,F,1982.0,Patricia,
+IA,F,,Taylor,
+IA,M,1953.0,Robert,744
+IA,M,2007.0,John,259
+IA,,2022.0, Casey ,5
+IA,M,,Casey,343
+IA,M,1995.0,Alex,148
+IA,F,1968.0,Casey,519
+IA,F,1986.0,Taylor,414
+IA,M,1971.0,Casey,348
+IA,F,2010.0,Mary,9
+,F,1956.0,Casey,19
+ IA , M ,2021.0,James,44
+IA, M ,1974.0,Alex,486
+ IA ,F,2012.0,Taylor,26
+ IA , F ,1928.0,Linda,31
+IA, F ,1971.0,casey,458
+IA,,1945.0,John,123
+IA,F,1997.0,Patricia,37
+IA,,1922.0,Robert,11
+IA,F,1950.0,Casey,676
+IA,F,2014.0,Casey,59
+IA,F,1973.0,Jennifer,606
+IA,F,1919.0,Casey,220
+IA,F,1995.0,Linda,36
+IA,F,,Casey,252
+IA, M ,1910.0,Taylor,5
+IA,M,1931.0,,28
+IA, M ,2016.0,Alex,25
+ IA ,F,1920.0,James,26
+IA, M ,1961.0,Jordan,23
+IA,F,1953.0,Patricia,471
+IA,F,1994.0,Jordan,275
+IA,F,2014.0,Mary,84
+IA,F,1938.0,Mary,65
+IA,F,1968.0,Jordan,
+IA,F,2001.0,,57
+IA,M,1942.0,Taylor,54
+IA,F,1956.0, Jennifer ,25
+IA,M,1972.0,James,204
+IA,M,2017.0,Robert,784
+IA,F,1961.0,Jordan,570
+IA,M,2007.0,Taylor,650
+,M,1940.0,Alex,590
+IA,M,1989.0,Mary,46
+ IA ,F,1920.0,Mary,18
+IA,F,1931.0,Jordan,6
+IA,F,1942.0,Alex,97
+IA,M,1975.0,michael,260
+IA, F ,,Patricia,9
+IA,F,1998.0,Mary,482
+IA,F,1995.0,Patricia,45
+ IA ,M,2001.0,Michael,28
+IA,,1914.0,casey,
+IA, M ,1994.0, James ,102
+IA,F,1983.0,Linda,
+IA, M ,1919.0,Robert,44
+IA, F ,2011.0,Linda,1183
+IA,F,2018.0,Jordan,5
+IA, F ,1988.0,Alex,486
+IA,M,,Jordan,118
+IA,M,1958.0,James,5
+ IA ,F,1958.0,Mary,210
+,M,1998.0,Jordan,634
+ IA ,M,1974.0,Robert,74
+IA,M,1974.0,Jordan,364
+IA,F,1963.0,Patricia,48
+IA,M,1916.0,James,6
+IA,M,2009.0,John,114
+IA,M,1917.0,Michael,40
+ IA ,F,,Casey,334
+IA,M,1979.0,Alex,277
+IA,F,1985.0,Michael,88
+IA,F,1937.0,Alex,28
+IA,M,1950.0,James,14
+IA,M,1965.0,Michael,68
+IA,M,1944.0,Michael,14
+IA, F ,1969.0,Jordan,456
+IA,F,2014.0,Patricia,5
+IA,F,1945.0, John ,10
+IA,,1997.0,robert,339
+IA,F,1987.0,Casey,578
+IA,M,2014.0,Casey,581
+IA,M,,James,28
+IA,M,1929.0,Casey,184
+IA,F,2001.0, Michael ,40
+IA,F,1947.0,Linda,55
+IA, F ,1989.0,Linda,473
+IA,M,1929.0,John,321
+IA,M,1939.0,Casey,432
+IA,M,1983.0, Taylor ,768
+IA,F,1959.0,Alex,98
+IA,M,1969.0,John,61
+IA,F,1960.0, Mary ,79
+IA,F,2018.0,Mary,
+IA, F ,2013.0,Alex,591
+IA,M,1919.0,Jordan,7
+IA,M,2013.0,,398
+ IA ,M,1926.0,Jordan,127
+IA,M,2009.0,Casey,246
+,F,1951.0, Mary ,43
+IA,F,1981.0,Taylor,1205
+,M,1937.0,Robert,46
+IA,M,1976.0,Robert,
+IA,M,1945.0,Jordan,14
+IA,F,1940.0,Jordan,1040
+ IA ,M,1995.0,Jordan,1437
+IA,,1942.0,Linda,186
+IA,M,1922.0,Taylor,85
+IA,F,1931.0,Mary,212
+,M,2001.0, Jordan ,
+ IA ,F,1936.0,Jordan,11
+IA,F,2021.0,Linda,78
+IA,M,2008.0,Alex,598
+IA,F,2014.0, Alex ,247
+ IA ,F,1966.0,Taylor,449
+IA,M,1978.0,Jordan,371
+ IA ,M,1983.0,Michael,170
+ IA , M ,1954.0,Jordan,87
+IA,M,1981.0,James,143
+ IA ,M,1997.0,Casey,111
+IA,F,1959.0,mary,85
+ IA ,M,1977.0,Jordan,624
+IA,M,2011.0,Jordan,51
+,F,2001.0,Casey,
+IA,M,1951.0,Jordan,12
+IA,,2002.0,Robert,8
+IA,M,1919.0,Alex,55
+IA,M,1922.0,Casey,17
+IA,F,1938.0,Linda,
+IA,F,1932.0,Patricia,119
+IA,M,1976.0,Taylor,16
+IA,M,,Taylor,464
+IA, M ,1955.0,Jordan,355
+IA,M,2012.0,Jordan,24
+IA,F,1957.0,Jordan,227
+IA,M,1978.0,Taylor,151
+IA,,2004.0,Jennifer,463
+IA,,1972.0,Patricia,450
+IA,M,1977.0,Casey,158
+IA,F,1968.0,Mary,
+IA,F,1958.0, Taylor ,53
+IA,F,1962.0,,239
+IA,M,1968.0,John,59
+IA,M,1957.0,,592
+IA,,1957.0,Casey,46
+ IA ,F,1972.0,Jennifer,1454
+IA,F,,Jennifer,156
+IA,M,1929.0,Michael,94
+IA, F ,1960.0,Linda,48
+IA, M ,1983.0,Robert,685
+IA,F,1998.0,Linda,282
+IA,F,,Mary,13
+IA,F,2001.0,Patricia,437
+IA,M,1971.0,Linda,848
+IA,M,1958.0, Michael ,38
+IA,F,,Casey,5
+IA,F,1949.0,Linda,54
+IA, M ,2018.0,John,142
+IA,M,1971.0,Michael,316
+IA,F,1946.0,Mary,6
+IA,M,1978.0,James,455
+IA,M,1988.0,Michael,483
+IA,F,1973.0,Linda,57
+ IA ,F,2001.0,Jennifer,49
+IA,M,1975.0,Jordan,
+IA,M,,Jordan,22
+IA,F,1934.0,Casey,42
+IA,F,2009.0,Mary,56
+IA,M,1971.0, Alex ,69
+IA,F,1976.0,Alex,324
+IA,M,1962.0,Robert,70
+IA,F,1932.0,Taylor,
+IA,M,,Taylor,53
+IA,M,1982.0,James,456
+IA, M ,2005.0,Casey,485
+IA,,1946.0,casey,100
+IA,F,1974.0,jordan,218
+IA,M,1980.0,John,155
+IA,F,1968.0,Patricia,181
+IA,F,1962.0,Casey,74
+IA,F,1998.0, Taylor ,22
+IA,M,2017.0,Casey,169
+IA,F,1994.0,Taylor,279
+IA,F,1990.0,Mary,94
+IA,M,1963.0,Alex,5
+ IA ,M,1972.0,Robert,16
+IA,F,1934.0,Taylor,53
+,M,1963.0,Casey,236
+IA,M,1943.0,Casey,672
+ IA , M ,1996.0,Jordan,108
+IA,M,2000.0,James,424
+IA,F,1938.0,Jennifer,154
+IA,M,1938.0,Michael,69
+IA,F,2003.0,Jennifer,28
+IA,F,2018.0, Linda ,8
+IA,M,1991.0,John,406
+IA, M ,,Casey,66
+IA,F,1958.0,Jordan,129
+IA,F,1913.0,,87
+IA,M,2017.0,John,12
+IA,M,2018.0,Michael,23
+IA,M,2011.0,Taylor,469
+ IA ,M,1927.0,,22
+ IA ,F,1959.0,Robert,321
+IA,F,2012.0,Alex,6
+IA,,1967.0,,78
+IA,M,1945.0,Michael,27
+IA,M,1917.0,Alex,72
+IA,F,2020.0,Jennifer,126
+IA,F,1917.0,Jordan,6
+IA,M,1965.0,Mary,334
+IA,M,2016.0,,548
+IA,M,1916.0,,68
+IA,F,1932.0,Casey,5
+IA,F,1966.0,Linda,702
+IA,M,,Jordan,14
+ IA ,M,1988.0,,39
+ IA ,M,1977.0,Michael,522
+IA,F,2016.0, Jordan ,60
+IA,M,2004.0,James,383
+IA,F,,Patricia,26
+IA, F ,1933.0,Patricia,250
+IA,M,1952.0,John,279
+IA,F,1978.0,Mary,316
+ IA ,M,1992.0,Jordan,990
+IA,M,1961.0,,91
+IA,F,1973.0,Patricia,233
+,F,1984.0,Taylor,389
+IA, F ,1960.0,Casey,732
+IA,M,2008.0,Taylor,85
+IA,M,1961.0,Taylor,65
+IA,F,,Mary,84
+IA,M,1911.0,,18
+IA,M,1920.0,Michael,85
+IA,F,1976.0,Casey,236
+IA,F,1972.0,Taylor,648
+IA,F,2017.0,Jordan,11
+IA,F,1927.0,Patricia,22
+ IA ,M,1988.0,Taylor,110
+ IA ,F,1953.0,Mary,390
+IA,F,,Mary,55
+IA,F,1966.0,John,
+ IA ,F,1997.0,Linda,179
+IA,F,1980.0,jordan,215
+IA,M,1966.0,James,417
+IA,F,1912.0,Linda,11
+ IA ,M,,James,153
+IA,F,1959.0,Linda,53
+IA,,1999.0, Alex ,6
+IA,M,2018.0,Jordan,30
+IA,M,2004.0,Michael,37
+IA,,2005.0,Michael,22
+IA,F,2007.0,Casey,658
+IA, M ,1966.0,Robert,1180
+IA,F,2005.0,Jordan,513
+IA,M,1996.0,Casey,330
+IA,M,1961.0,Robert,137
+,M,1997.0,Jordan,79
+IA,M,1995.0,Michael,250
+IA,M,1955.0,James,
+IA,F,1924.0, Mary ,124
+IA,F,1938.0,Alex,175
+IA,F,1975.0,Taylor,165
+IA,F,2015.0,John,648
+IA, F ,1976.0,Mary,61
+IA,M,1965.0,John,105
+IA,M,2013.0,Robert,104
+,M,1963.0,Robert,489
+IA,M,2020.0,Robert,43
+IA,M,1972.0,Taylor,455
+IA,,2014.0,Jordan,
+ IA ,F,2021.0,Jordan,17
+ IA ,F,1921.0,Jennifer,58
+IA,F,1978.0,Patricia,216
+IA,M,1987.0,John,292
+IA,M,1953.0,James,29
+IA,F,1978.0,Jordan,30
+IA,M,1937.0,Michael,41
+IA,M,1991.0,,78
+IA,F,2005.0,Linda,20
+IA, F ,1994.0,alex,64
+IA,M,1978.0,Casey,96
+IA,M,2009.0,Robert,293
+ IA , M ,2010.0,John,194
+IA,M,1952.0,Taylor,8
+IA,M,1967.0,Alex,480
+,F,1988.0,Patricia,285
+IA,F,1996.0,Alex,102
+IA,F,1976.0,Jennifer,249
+IA,M,2021.0,Alex,261
+IA,M,1979.0,Michael,577
+IA,,1943.0,Linda,424
+IA,F,1990.0,Patricia,
+IA,M,1937.0,James,11
+IA, F ,1955.0,Jordan,14
+IA,,1952.0,Taylor,533
+IA,F,1963.0,Casey,162
+IA,F,,Mary,14
+IA,M,1926.0,James,25
+IA,F,2001.0,Jordan,69
+IA, M ,1975.0,John,521
+ IA ,F,1945.0,Mary,488
+ IA ,M,1929.0,Alex,73
+IA,F,1959.0,,70
+ IA ,M,2016.0,Patricia,253
+IA,M,1929.0,Jordan,34
+IA,M,1969.0,John,61
+IA,F,1923.0,Jennifer,
+IA,M,1968.0,Taylor,189
+IA,M,1948.0,Michael,799
+IA,M,2003.0,Patricia,352
+IA,F,1968.0,Alex,103
+IA,F,1973.0,Alex,215
+IA,M,2021.0,,253
+IA,M,1969.0,Michael,728
+IA,F,1918.0,Jennifer,12
+IA,M,1971.0,Robert,1391
+IA,F,1954.0,patricia,382
+IA,M,,Jordan,6
+IA,F,1984.0,Casey,627
+IA,,1947.0,Robert,340
+IA,F,1929.0,Taylor,8
+IA,,1975.0,Alex,984
+IA,F,1973.0,Casey,34
+ IA ,F,2015.0,Patricia,9
+IA,M,1956.0,,7
+IA,F,1986.0,Mary,92
+IA,F,1964.0,Linda,30
+IA,M,1996.0,Robert,27
+IA,F,2008.0,Alex,80
+IA,M,1962.0,taylor,120
+IA,M,1976.0,Jordan,399
+IA,F,1944.0,Patricia,917
+IA,F,1990.0,Alex,61
+,M,1928.0,Alex,113
+IA,M,1970.0,Jordan,186
+IA,M,2004.0,jordan,233
+IA,F,1960.0,Jennifer,233
+IA,M,2009.0,Alex,238
+ IA ,F,1997.0,James,104
+IA,M,1988.0,Mary,311
+IA,F,2020.0,John,155
+ IA ,F,2004.0, Jordan ,172
+IA,M,1925.0,james,32
+IA,M,1977.0,,835
+IA,M,1989.0,James,
+IA,F,1970.0,Mary,970
+IA,M,1994.0,Jordan,214
+IA,F,1967.0,Taylor,538
+IA,M,1993.0,Jordan,261
+IA, M ,1922.0,Michael,9
+IA,F,1955.0,Casey,80
+IA,,1989.0,Jennifer,656
+IA,F,1963.0,jordan,1185
+IA,M,2006.0,Casey,180
+IA,F,1937.0,Casey,83
+IA,F,1974.0,Michael,199
+IA,F,2003.0,Patricia,436
+IA,M,2006.0,James,658
+ IA ,F,1943.0,Patricia,81
+IA,F,1951.0,Jordan,
+IA,M,1965.0,James,449
+IA,M,1974.0,John,
+IA,M,1983.0,Jordan,1232
+IA,F,1999.0,Casey,171
+IA,F,1957.0,Linda,103
+IA,M,1921.0,Alex,27
+IA,M,1932.0,John,18
+IA,M,1989.0,John,185
+,F,1936.0,Jennifer,18
+,M,1970.0,John,532
+IA,M,1937.0,John,84
+,F,1929.0,Casey,80
+IA,M,1975.0,Robert,305
+IA,F,1958.0,Alex,62
+IA,M,2007.0,James,865
+IA,F,1960.0,Alex,442
+IA,M,1990.0,Michael,33
+IA,F,1935.0,Alex,19
+IA,F,2017.0,Patricia,
+IA,M,1973.0,Taylor,268
+IA,F,1923.0,Linda,86
+IA,F,1932.0,Robert,
+,F,1969.0,Patricia,127
+IA,M,1929.0,Robert,12
+IA,,2002.0,Linda,44
+IA,M,1989.0,Jordan,65
+IA,,2013.0,Linda,788
+IA,F,1962.0,Taylor,520
+IA,M,,Alex,1327
+IA,F,1949.0,Casey,11
+IA,M,2000.0,Casey,211
+IA,M,1960.0,Taylor,19
+IA,F,1951.0,Taylor,502
+IA,F,1967.0,Casey,6
+IA,F,1998.0,Jordan,121
+IA, F ,1916.0,Patricia,5
+IA,M,2014.0,Robert,318
+ IA ,F,1950.0,Linda,288
+IA,F,1952.0,Mary,28
+IA,F,1995.0,Jennifer,58
+IA,F,1949.0,,494
+IA,F,1983.0,Jordan,1288
+IA,M,2003.0,Casey,174
+ IA , F ,1975.0,Jennifer,821
+IA,M,1922.0,Alex,39
+ IA ,M,2006.0,Taylor,68
+IA,M,1995.0,John,355
+, F ,1992.0,Patricia,698
+IA,M,2007.0,Michael,666
+IA,M,1996.0,Taylor,118
+IA,F,1937.0,Jennifer,7
+IA,M,1964.0,Alex,132
+IA,F,1982.0,Alex,55
+IA,M,1945.0,James,19
+ IA ,F,1944.0,Alex,155
+IA,F,2000.0,Jennifer,430
+IA,F,1966.0,Jordan,765
+,M,1980.0,Casey,17
+IA, F ,1989.0,Jordan,451
+IA,M,2008.0,James,
+IA,F,2018.0,Casey,143
+IA,M,2012.0,Robert,9
+IA,F,1999.0,Linda,28
+IA,M,1941.0,Alex,134
+IA,M,1964.0,Taylor,42
+,M,1947.0,Alex,5
+IA,M,1947.0,John,562
+IA,M,1958.0,John,98
+, F ,1970.0,Jennifer,148
+IA,M,1998.0,Robert,224
+IA,F,2005.0,Taylor,530
+IA,M,,Michael,9
+IA,M,2007.0,Alex,271
+ IA , F ,1930.0,Casey,56
+ IA ,M,1997.0,John,64
+IA, M ,1939.0,Alex,76
+IA,F,1979.0, Alex ,709
+IA,M,2005.0,Alex,168
+IA,M,1999.0,,80
+,F,1933.0,Linda,17
+,F,1942.0,Mary,236
+IA,F,1947.0,Patricia,32
+IA, F ,1994.0,Casey,197
+,F,1967.0,Jennifer,81
+IA,F,1940.0,Mary,72
+IA,,1998.0,Michael,776
+IA,M,2010.0,Taylor,
+IA,M,1992.0,John,138
+IA, M ,1936.0,Michael,198
+ IA ,F,1941.0,mary,7
+IA,F,1980.0,,367
+IA,M,2002.0,Jennifer,66
+IA,F,1961.0,Alex,233
+IA,F,1946.0,Patricia,656
+IA,F,2014.0,Jennifer,392
+ IA , M ,1920.0,,5
+,M,1918.0,Taylor,36
+IA,F,2005.0,Casey,103
+IA,F,1928.0,Alex,93
+IA,M,1937.0,Alex,184
+ IA ,M,1956.0,Alex,326
+IA,M,2017.0,Alex,579
+IA, M ,1931.0,Jordan,17
+IA,M,1934.0,,44
+IA,M,1964.0,James,468
+IA,F,2019.0,Jennifer,213
+IA,F,1948.0,Alex,110
+IA,M,1964.0,Robert,222
+IA,M,1949.0, James ,147
+IA,F,1941.0,John,64
+IA,F,2021.0,Casey,31
+IA,F,1937.0,Robert,80
+IA, M ,1943.0,taylor,163
+IA,M,1933.0,James,47
+IA, M ,1931.0,John,15
+ IA ,F,1949.0,Patricia,59
+IA,F,2021.0,John,721
+IA,F,1956.0,Alex,
+IA,M,1944.0,John,89
+IA,M,2015.0, Michael ,65
+IA,M,1927.0,John,13
+ IA , M ,1948.0,Robert,741
+IA, F ,1990.0,Linda,154
+ IA , F ,1979.0,Patricia,315
+IA,M,1934.0,,44
+IA,F,1912.0,Patricia,30
+IA,F,1986.0,Alex,86
+ IA ,M,1953.0,Taylor,831
+IA,F,1945.0,Taylor,11
+IA,,2022.0,Casey,5
+IA,M,1960.0,Robert,1006
+ IA ,F,,Jennifer,252
+IA,F,2010.0,Casey,236
+IA,M,1927.0,Robert,90
+IA,F,2005.0,Jennifer,1230
+IA,F,1980.0,Mary,201
+IA,F,1926.0,Taylor,96
+IA,F,1967.0,Linda,38
+IA,F,1947.0,,280
+IA, F ,1975.0,Mary,162
+IA,M,1991.0, Michael ,50
+IA,M,1987.0,Robert,
+IA,M,1936.0,Casey,9
+IA,M,1960.0,,666
+IA, F ,1971.0,Jennifer,171
+IA,M,1950.0,Jordan,6
+IA,F,2004.0,Patricia,579
+IA, M ,1990.0,Alex,81
+IA,F,2013.0,Casey,665
+IA,M,1982.0,Jordan,17
+IA,M,1996.0,John,88
+,F,1957.0,Patricia,622
+IA,F,1918.0,Casey,28
+IA,M,1968.0,Michael,
+ IA ,F,1950.0,John,46
+IA,,1985.0,Patricia,695
+IA, F ,1988.0,Jennifer,201
+IA,F,2020.0,Jordan,32
+IA,,1925.0,Casey,
+IA,M,2013.0,Casey,611
+IA,M,1962.0,James,84
+IA,M,1991.0,Casey,165
+IA,M,2008.0,Robert,5
+IA,M,1986.0,Alex,368
+IA,F,1950.0,Alex,986
+IA,M,2012.0,Taylor,305
+IA,M,1977.0, Mary ,722
+IA,F,1988.0,Jordan,479
+IA,M,1929.0,Casey,184
+IA,F,2009.0,Taylor,42
+IA,M,1986.0,Robert,15
+IA, M ,1969.0,Alex,420
+ IA ,M,1956.0,Jordan,539
+IA,F,2005.0,Patricia,547
+ IA ,M,2017.0,Taylor,
+IA,F,1978.0,Alex,103
+IA,F,1913.0,Taylor,15
+IA, M ,,Alex,594
+IA,F,1960.0,patricia,14
+IA,M,1976.0,Alex,383
+IA,M,1918.0, Casey ,55
+IA,M,1935.0,Alex,214
+IA,M,1996.0,Alex,275
+IA,M,1952.0, Casey ,53
+IA, F ,1987.0,Linda,618
+IA,F,1984.0,Patricia,22
+IA,,1966.0,Alex,228
+IA,F,1932.0,jennifer,25
+IA,M,1910.0,Robert,44
+,M,1938.0,Jordan,12
+IA,F,2004.0,Mary,75
+IA,M,1936.0,James,230
+IA,M,1916.0,Mary,33
+IA,M,1972.0,Patricia,71
+IA,M,1959.0,Taylor,53
+ IA ,F,1992.0,Alex,136
+IA,F,1911.0,Jennifer,15
+IA,F,,casey,471
+ IA ,F,1980.0,Taylor,490
+ IA ,F,1962.0,Jordan,105
+IA,F,2008.0,Jordan,217
+IA,F,1980.0,Jennifer,699
+IA,F,1931.0,Jennifer,139
+IA, M ,2003.0,James,232
+IA,M,1951.0,,635
+IA, F ,1940.0,Casey,12
+IA,M,2010.0,Michael,80
+IA,F,1943.0, Alex ,15
+IA,F,1986.0, Jennifer ,15
+IA,M,1946.0, Alex ,
+,M,2005.0,,183
+IA,F,1958.0,Casey,415
+IA,M,1979.0,Robert,116
+IA,M,1950.0,Casey,624
+IA,M,1955.0,Alex,53
+IA, M ,2002.0,Michael,41
+IA,F,1928.0,Jennifer,51
+IA,M,1942.0,Robert,260
+IA,F,1950.0,Jennifer,428
+IA,M,2017.0,,187
+, F ,1977.0,Alex,446
+,,1951.0,Casey,21
+IA,M,, Alex ,10
+IA,F,2014.0,Taylor,115
+IA,M,1936.0,James,230
+IA,F,1982.0, Casey ,65
+IA,F,1940.0,Linda,6
+IA,F,1993.0,Casey,190
+IA,F,1944.0,Jennifer,120
+IA,F,1954.0,Mary,300
+IA,F,1952.0,Alex,47
+IA,F,2004.0,Taylor,375
+IA,M,1953.0,Michael,291
+,M,1959.0,Michael,118
+IA,F,1966.0,Jennifer,578
+IA,F,,Jennifer,137
+ IA ,F,1969.0,Casey,222
+IA,F,,Casey,66
+IA,M,2018.0,Taylor,28
+IA, M ,2020.0,Jordan,237
+IA,F,1927.0, Robert ,187
+IA,F,2012.0, Jennifer ,308
+IA, F ,,Jordan,462
+IA, M ,1975.0,Taylor,365
+IA,F,2000.0,Linda,39
+IA, M ,,Casey,157
+IA,M,1970.0,Taylor,162
+IA,M,1919.0,Casey,48
+IA,F,1975.0,Linda,679
+IA,F,1968.0,Alex,103
+IA,M,1922.0,Linda,11
+IA,M,1948.0,John,403
+IA,F,1935.0,Jennifer,71
+IA, F ,1941.0,Alex,645
+IA, M ,1986.0,,
+IA,F,2005.0,Taylor,530
+IA,,1926.0,Jennifer,18
+IA,M,1919.0,Michael,47
+IA,F,1941.0,Michael,22
+IA,F,1999.0,Taylor,104
+IA,F,2016.0,Casey,22
+ IA ,,,Mary,
+IA,F,1977.0,Casey,669
+IA, F ,1999.0,Mary,334
+IA,M,1913.0,Jordan,65
+IA,F,1938.0,John,272
+IA,M,1987.0,Taylor,106
+IA,M,1992.0,Alex,99
+IA,M,1938.0,,57
+IA,F,1947.0,Alex,17
+,M,, Jordan ,94
+IA,M,1933.0,Alex,114
+IA,M,1973.0,,653
+,F,1969.0,Linda,77
+IA,M,1953.0,Jordan,
+IA,F,1989.0,Mary,474
+IA,M,1994.0,Michael,35
+IA,F,2017.0,Linda,50
+IA,M,1956.0,Michael,277
+IA,F,1949.0,Mary,51
+IA, F ,1953.0,Taylor,27
+IA,F,1981.0,Linda,128
+IA,M,,James,491
+ IA ,F,1992.0,Robert,426
+IA,M,2010.0,James,483
+IA,,1953.0,Jennifer,552
+,F,1929.0,patricia,345
+IA,M,1996.0,Taylor,118
+ IA ,F,2013.0,Jennifer,16
+IA,M,1986.0,John,117
+IA,F,2003.0,Taylor,350
+IA,F,1985.0,Alex,1162
+,M,1950.0,John,14
+IA,F,,Jennifer,18
+IA,F,1945.0,Patricia,27
+IA,,2015.0,Jordan,85
+IA,M,1978.0,Alex,595
+IA,F,1939.0,Patricia,9
+IA,M,1945.0,Alex,574
+IA,M,1976.0,James,1314
+ IA , F ,1982.0,Jennifer,234
+IA,F,1971.0,Alex,377
+IA,M,1955.0,Robert,250
+,,2009.0,Patricia,67
+IA, M ,1948.0,James,802
+,F,1992.0,Casey,99
+IA,F,1952.0,Linda,242
+,F,2009.0,Alex,258
+IA,F,1968.0,Jennifer,1092
+IA,F,1930.0,Linda,49
+IA,M,1920.0,Casey,
+IA,F,1983.0,Alex,406
+IA,F,1960.0,Jordan,269
+IA, F ,1944.0, Mary ,225
+IA,M,1965.0,Casey,56
+IA,F,1997.0,Casey,93
+IA,M,1944.0,James,144
+IA,F,2011.0,Taylor,107
+ IA ,F,1998.0,Alex,
+IA,M,1985.0,Robert,386
+IA,F,2022.0,Jordan,13
+ IA , M ,2020.0,John,
+IA,M,1914.0,John,81
+IA,F,1942.0,Taylor,10
+IA,M,1975.0,Mary,605
+IA,F,1931.0,,38
+IA,F,2000.0,Alex,11
+ IA ,F,,,
+IA,F,1957.0, Taylor ,451
+,M,1926.0,Casey,
+IA,M,1946.0,,13
+ IA ,M,1985.0,Casey,253
+,,1956.0,Linda,88
+,,,Michael,43
+IA, F ,1989.0,Patricia,555
+ IA ,F,1954.0,Alex,1136
+IA,M,1973.0,James,564
+IA, M ,1969.0,Alex,420
+IA,M,1945.0,Jennifer,213
+IA, F ,1967.0,Patricia,52
+,F,2006.0,Patricia,84
+IA,F,1977.0,Michael,1361
+IA,F,1942.0,Jennifer,172
+IA, F ,1971.0,casey,458
+,M,1965.0,Jordan,955
+IA,M,1913.0,Alex,6
+IA,F,2009.0,Jordan,24
+IA,M,1958.0,Jordan,36
+ IA ,M,1999.0,John,
+,F,,Alex,5
+IA,M,1964.0,John,29
+IA,F,2000.0,Jordan,768
+IA, M ,1972.0,Michael,138
+IA,F,1954.0,Jennifer,18
+ IA ,M,1995.0,James,135
+IA,F,1956.0,Patricia,175
+IA,M,1920.0,robert,49
+IA,F,2006.0,Taylor,842
+IA,F,1914.0,Jordan,
+IA,M,1985.0,Michael,77
+IA,M,1967.0,Michael,64
+ IA ,F,,Jordan,643
+IA,M,,Casey,343
+IA, M ,1962.0,John,179
+IA,F,1995.0,Casey,125
+ IA ,M,1972.0,Alex,
+IA,M,1957.0,Alex,514
+IA, F ,2008.0,Patricia,28
+ IA ,F,,Alex,25
+IA,F,1993.0,James,373
+IA,M,1956.0,john,736
+IA,F,2006.0, Jordan ,639
+IA, M ,1998.0,Casey,748
+IA,M,1981.0, Michael ,64
+IA,M,1990.0,james,497
+ IA ,,1956.0,,8
+IA,F,,Patricia,152
+IA,F,1970.0,Linda,
+IA,F,1938.0,Patricia,10
+IA,F,2012.0,Patricia,606
+IA,M,1967.0,James,
+IA,M,2010.0,Robert,675
+IA,F,1971.0,patricia,74
+IA,M,1982.0,Robert,63
+IA,F,2017.0,Robert,37
+IA,M,2004.0,Robert,236
+IA,F,1955.0,Patricia,48
+ IA ,M,1991.0,alex,33
+ IA ,M,2006.0,Alex,520
+IA,,1985.0,Mary,294
+IA,M,1949.0,michael,286
+IA,F,1984.0,James,609
+IA,F,2002.0,Casey,626
+IA,F,1970.0,Casey,174
+IA,F,1927.0,Alex,458
+IA,M,1998.0,James,619
+,F,2017.0,Mary,187
+ IA ,F,1938.0,Taylor,22
+IA,M,1987.0,James,484
+IA,M,1965.0,Alex,632
+IA,M,,James,191
+,F,,Linda,242
+IA,M,1981.0,Casey,1133
+IA,M,1914.0,Alex,75
+IA,F,1968.0,Linda,89
+IA,F,2003.0,Alex,16
+IA,F,1954.0,Taylor,46
+IA,F,1918.0,Taylor,102
+IA,M,1989.0,Robert,204
+IA,F,1969.0,Alex,14
+IA,M,1949.0,Casey,30
+IA,M,1932.0,Alex,33
+IA, F ,1988.0,Taylor,339
+,M,1950.0, Jennifer ,142
+IA, F ,1991.0,Taylor,467
+IA,,2004.0,Linda,532
+IA,,1954.0,Casey,225
+IA,F,1973.0,Taylor,
+ IA ,M,1990.0,Taylor,166
+IA,M,2015.0,James,12
+IA,M,1926.0,Taylor,188
+ IA , M ,1957.0,Casey,985
+IA,M,1933.0,Michael,47
+IA, M ,1949.0,taylor,145
+ IA ,M,1930.0,Alex,518
+IA,F,2016.0,Alex,
+IA,F,1936.0,Taylor,183
+IA,F,1941.0,Jordan,282
+,M,1988.0,Robert,489
+IA,M,1920.0,Michael,85
+IA,F,1959.0,,218
+IA,M,1944.0,Alex,1034
+IA,F,2015.0,Taylor,213
+IA,M,2022.0,Taylor,75
+,M,1953.0,John,105
+IA,M,1915.0,Michael,28
+ IA , F ,1930.0,Casey,56
+IA,M,1974.0,Jennifer,237
+IA,M,1976.0,John,255
+IA,F,1993.0,Mary,501
+IA,F,1981.0, Alex ,288
+IA,M,2000.0,John,262
+IA,F,1916.0, Mary ,46
+,M,1934.0,John,679
+IA,M,2019.0,Casey,197
+IA,M,2001.0,,54
+IA,F,2021.0,Patricia,161
+IA, F ,1989.0,Linda,473
+IA,F,1929.0,Taylor,8
+IA,M,1943.0,Jordan,298
+IA,F,2015.0,Casey,85
+, M ,1925.0,Jordan,286
+IA, F ,1956.0,taylor,537
+IA,F,1988.0,mary,877
+IA,F,2011.0,Alex,387
+IA,F,1977.0,Patricia,37
+,F,1994.0,Linda,891
+IA,F,1958.0,Jennifer,345
+IA,F,2007.0,Taylor,30
+IA,F,1983.0,Patricia,275
+IA,F,2022.0,Alex,57
+IA,M,1912.0,John,41
+IA,F,1961.0,Taylor,338
+IA,F,,Michael,149
+IA,M,1925.0,Robert,252
+IA, F ,1950.0,Taylor,31
+IA,F,1932.0,Mary,134
+IA,F,2013.0,Mary,907
+IA,M,1934.0,,30
+IA,M,2006.0,Jordan,147
+IA,M,1983.0,Casey,118
+IA,F,1938.0,Casey,226
+IA,F,2009.0,James,15
+IA,M,1950.0,James,14
+IA,M,1960.0,John,133
+IA,F,1924.0,Linda,297
+,M,1993.0,John,189
+IA,F,1967.0,Alex,351
+IA,F,1945.0,Casey,143
+IA,M,1914.0,James,8
+ IA ,F,1983.0,Taylor,145
+IA,M,1913.0,John,8
+IA,F,1982.0,Jordan,108
+IA,M,1979.0,Alex,277
+ IA ,M,,Alex,480
+IA,M,1985.0,Jordan,171
+IA,M,2019.0,Alex,386
+IA,M,1931.0,Alex,155
+IA,M,1971.0,John,59
+IA, M ,1955.0,Linda,40
+IA,M,1942.0,Taylor,54
+IA,F,1974.0,Patricia,995
+IA,F,2010.0,,18
+IA,M,1925.0,Alex,285
+IA,M,1934.0,,30
+IA,M,1952.0,alex,441
+IA, F ,2001.0,Alex,1560
+IA,F,2016.0,Mary,343
+IA,F,1991.0,,229
+IA,F,1965.0,Patricia,288
+IA, M ,2014.0,Taylor,11
+IA,F,1987.0,Patricia,282
+IA, M ,1935.0,James,46
+IA,F,2010.0,Alex,35
+IA,M,2010.0,Alex,369
+ IA ,F,2021.0,Jordan,17
+IA,F,1985.0,Jennifer,335
+IA,F,1990.0, Jennifer ,69
+IA,M,1969.0,James,677
+IA,M,1974.0,Taylor,562
+IA,M,2015.0,casey,55
+IA,M,2009.0,Jordan,95
+IA,M,1943.0,James,61
+IA,M,1965.0,Taylor,371
+IA, M ,2001.0,Casey,
+IA,M,1934.0,Taylor,22
+IA,M,1965.0,Robert,164
+IA, M ,1956.0,James,59
+,M,2005.0,Jordan,928
+IA,F,1981.0,Jennifer,231
+IA,F,1978.0,Linda,281
+IA,M,1970.0,Robert,748
+IA,F,2007.0,Patricia,878
+IA,F,1989.0,Casey,576
+IA, F ,1991.0,Jordan,270
+IA,F,1966.0,Patricia,778
+IA,,1991.0,Linda,69
+IA,F,2002.0,Jennifer,118
+IA,M,1974.0,Michael,85
+IA,M,1938.0, Robert ,9
+IA,F,2021.0,Alex,391
+IA,F,1925.0,Mary,141
+IA,F,2009.0,Casey,243
+ IA ,M,1991.0,Taylor,914
+IA,F,2016.0,Patricia,186
+IA,F,2008.0,,460
+IA,F,1969.0,Taylor,5
+ IA ,F,2010.0,Jordan,623
+IA, F ,2019.0,Patricia,42
+IA,M,1946.0,John,300
+IA,M,1940.0,Taylor,16
+IA,M,1967.0,Taylor,
+IA,F,1985.0,Casey,148
+IA,F,1979.0,Casey,820
+IA, F ,1911.0,Mary,102
+IA,M,1946.0,Jordan,229
+IA,F,1997.0,Mary,38
+IA,M,1936.0,Taylor,187
+IA,M,1959.0,Jordan,684
+,F,1941.0,Patricia,99
+IA,,1980.0,Jordan,478
+IA,M,1967.0,Robert,40
+IA,M,2004.0,John,18
+IA,M,1987.0,Jordan,885
+IA,M,,Michael,17
+IA, M ,2009.0,James,679
+IA,F,1976.0,Patricia,395
+IA,M,2021.0,Robert,13
+IA,F,1956.0,Jordan,627
+IA,F,1998.0,Casey,10
+IA,F,2018.0,Taylor,63
+IA,M,1921.0, Taylor ,92
+IA, M ,1995.0,,133
+IA,M,1922.0,John,5
+ IA ,F,1992.0,Taylor,543
+IA,M,1997.0,Taylor,618
+IA,F,1971.0,Taylor,34
+IA,F,2011.0,Patricia,19
+IA, F ,1961.0,Linda,61
+IA,,1932.0,James,486
+IA,M,1974.0,Casey,80
+IA,F,1926.0,Linda,15
+IA,F,1948.0,Casey,77
+IA,F,2017.0,Jordan,11
+,M,1935.0, Jordan ,99
+IA,F,2006.0,,305
+IA,F,1945.0,Alex,63
+IA,F,1942.0,Casey,478
+IA,F,1977.0,Mary,386
+IA,F,1953.0,Casey,47
+,M,1962.0,Casey,36
+ IA , F ,1967.0,Mary,199
+IA,F,1935.0,mary,94
+IA,M,1925.0, Michael ,8
+IA,F,1954.0,Jordan,
+ IA ,F,2019.0,Mary,633
+ IA ,M,1985.0,Taylor,78
+IA,M,2011.0,John,
+IA,F,2006.0,Casey,13
+IA,M,2011.0,,71
+IA,M,1966.0,Michael,242
+IA,F,1974.0, Casey ,432
+IA,F,2018.0,Patricia,157
+IA,M,,Michael,72
+IA, M ,2020.0,Alex,272
+IA,M,1996.0,Michael,180
+IA,M,1977.0,Taylor,168
+ IA ,F,1978.0,Taylor,607
+IA,F,1953.0,linda,30
+IA,M,1954.0,Taylor,507
+IA,M,1919.0,Taylor,185
+IA,F,2008.0,Casey,7
+,M,1979.0,Casey,
+IA,M,2013.0,james,446
+ IA ,M,2009.0,Michael,123
+IA,M,1918.0,Alex,21
+IA, F ,1941.0,Jennifer,126
+IA,F,1961.0,Jennifer,172
+IA, M ,,casey,60
+IA,M,1973.0,Casey,257
+IA,M,1927.0,,8
+IA,M,1989.0,Michael,186
+IA,M,1973.0,John,263
+IA,F,1975.0,Robert,642
+ IA ,M,1949.0, Robert ,57
+IA,M,1984.0,Jordan,843
+ IA ,F,1984.0,Jordan,
+IA,M,1979.0,John,601
+IA,M,1967.0,Alex,480
+,F,1915.0,,118
+IA,F,2008.0,taylor,101
+IA,F,1971.0,Linda,
+ IA ,F,1927.0,Mary,316
+IA,M,1981.0,Taylor,188
+IA,M,1997.0, James ,301
+IA,F,1934.0,Jordan,155
+IA,,1920.0,Linda,147
+IA,M,1984.0,Casey,78
+IA,M,1963.0,jordan,9
+IA,F,1964.0,Patricia,154
+IA,M,1953.0,Alex,222
+IA,M,1959.0,Alex,
+ IA ,M,2019.0,james,242
+, F ,1957.0,Alex,722
+,M,1928.0,Taylor,136
+IA,F,1982.0,Mary,56
+ IA ,F,1923.0,Jordan,6
+,M,1934.0,John,679
+IA, F ,2003.0,Jordan,181
+ IA ,M,1922.0,Jordan,176
+IA,M,1985.0, James ,327
+IA,M,1984.0,Robert,88
+IA, M ,1939.0,Alex,76
+ IA ,,1987.0,Alex,412
+IA,F,1931.0,Alex,37
+IA,F,2013.0,,45
+IA, M ,1992.0,Casey,271
+IA, M ,1986.0,Taylor,665
+IA,M,1995.0,Robert,108
+IA,F,1937.0,Taylor,85
+ IA ,F,1975.0,Jordan,1396
+IA,M,1990.0,John,101
+IA, F ,2002.0,Alex,31
+ IA , M ,2017.0,James,113
+IA, F ,1996.0,Michael,325
+IA,F,1951.0,Jennifer,23
+IA,M,2016.0,Taylor,108
+IA,F,1963.0,Linda,146
+IA,M,1991.0,Jordan,509
+ IA ,M,2003.0,Michael,60
+IA,,1984.0,Mary,435
+IA,M,2002.0,Alex,23
+IA,M,1974.0,mary,100
+IA,F,1965.0,Casey,581
+IA,M,1996.0,James,
+IA,M,1951.0,Casey,151
+IA,F,1940.0,Taylor,106
+ IA ,M,2004.0, Taylor ,61
+IA,,1991.0,Jennifer,56
+IA,M,1988.0,James,166
+IA,F,1913.0,Patricia,120
+IA,M,1928.0,Michael,9
+IA,M,1990.0,Jordan,81
+IA,F,1985.0,Taylor,197
+IA,M,1921.0,Jordan,103
+IA,M,1960.0,,666
+IA,F,1934.0,Mary,687
+,F,1996.0,Jordan,775
+ IA ,M,1955.0,Taylor,383
+ IA ,F,1944.0,casey,149
+IA,F,2003.0,Linda,
+ IA ,M,1944.0,Robert,54
+IA, M ,1932.0,Robert,30
+IA,M,1994.0,Alex,1080
+IA,M,2008.0,Casey,120
+IA, M ,1936.0,Robert,13
+IA,F,,Casey,597
+IA,M,1932.0,Jordan,83
+,M,2010.0,Casey,12
+IA,F,1919.0,Taylor,9
+IA, M ,1953.0,Linda,413
+IA,F,1996.0,Jennifer,391
+IA,M,1932.0,Michael,61
+IA,M,2006.0,Michael,10
+IA,M,1968.0,Robert,561
+IA,M,1966.0,Alex,165
+IA,,1949.0,Jennifer,174
+IA,F,1927.0,,22
+IA,F,1939.0,Linda,202
+IA,F,1979.0,,1142
+IA,,1997.0,Alex,525
+ IA ,M,1967.0,Jordan,146
+IA,M,1968.0,Casey,598
+IA,F,1917.0,Mary,111
+IA,M,1981.0,John,494
+IA,F,1952.0,Linda,242
+IA,F,1999.0,Jennifer,676
+IA,M,2000.0,Robert,500
+IA,M,1952.0,Michael,64
+IA,F,2007.0,Alex,165
+IA,M,1952.0,John,279
+ IA ,M,1999.0,Taylor,47
+IA,,1926.0,Alex,64
+IA,F,1950.0,Patricia,17
+IA,M,1971.0,Casey,348
+IA,F,1996.0,Taylor,570
+IA,M,2016.0,James,137
+IA,M,2012.0,Michael,141
+IA,M,2012.0,Casey,189
+IA, F ,1975.0,Casey,58
+IA,M,2021.0,John,113
+IA,M,1983.0,James,203
+IA,F,1916.0,Alex,59
+IA,F,1983.0, Casey ,642
+IA,M,2016.0,Casey,464
+IA,M,1932.0,Casey,292
+IA,F,1964.0,Casey,74
+IA,M,1937.0,Casey,27
+IA,M,1939.0,Jordan,145
+IA,,1921.0,John,146
+IA,,2011.0,,86
+IA,M,1993.0,Robert,117
+ IA ,F,1935.0,Taylor,30
+IA,,1972.0,Casey,659
+IA,F,2012.0,casey,43
+IA,F,1970.0,Patricia,35
+IA,F,1975.0,Alex,220
+ IA ,F,,Alex,613
+IA,,1994.0,Patricia,57
+IA, F ,1987.0, Alex ,80
+IA,,1917.0,Casey,7
+IA,,2003.0,jordan,77
+IA,,1979.0,taylor,277
+IA,M,1969.0,Robert,206
+ IA ,M,2003.0,John,8
+IA,M,1945.0,Casey,5
+IA,F,1950.0,Jordan,689
+IA,,1988.0,Casey,598
+IA,,1946.0,Jordan,253
+IA,M,2008.0,John,553
+IA,F,1964.0,Michael,315
+IA,F,1995.0,Mary,24
+IA,M,1910.0,James,16
+IA, F ,1939.0,Jordan,751

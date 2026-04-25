@@ -1,0 +1,1652 @@
+stateCode,gender,birthYear,firstName,numOccurrences
+VA,M,,Jordan,78
+ VA ,M,2004.0,Jordan,
+VA,F,1939.0,Taylor,48
+VA,M,1942.0,Robert,6
+VA,F,1960.0,Linda,599
+VA,,2010.0,Linda,165
+VA,M,1957.0,Casey,399
+VA,F,1943.0,Jordan,95
+VA,M,2020.0,John,13
+VA,F,1999.0,Patricia,462
+VA,M,1968.0,Michael,705
+VA,M,,James,469
+VA,M,1952.0,John,76
+VA,F,1937.0,Alex,8
+VA,M,1916.0,Alex,14
+VA,F,2001.0,Jordan,294
+VA,F,2018.0,Jordan,70
+VA,M,1981.0,Jordan,147
+VA,M,2000.0, Alex ,15
+VA,F,1954.0,Linda,21
+VA, F ,1954.0,Mary,572
+VA,M,2022.0,Robert,
+VA,F,1953.0,Jennifer,6
+VA,F,1979.0,Mary,224
+ VA ,M,1998.0,,5
+VA,F,1921.0,Taylor,76
+VA, M ,1937.0,John,105
+VA,M,,Taylor,777
+VA,F,1942.0,Jordan,192
+VA,M,2003.0,Michael,443
+VA,M,1953.0,Robert,5
+VA,,1976.0,Jordan,10
+ VA ,F,2021.0,Mary,
+VA,F,1954.0,Alex,86
+VA,F,1957.0,Jennifer,325
+VA,M,2004.0,Casey,355
+VA,F,1922.0,linda,13
+VA,M,1985.0,Alex,799
+VA,M,1930.0,John,34
+VA,M,2022.0,Casey,
+VA,M,2019.0,James,816
+VA,M,1960.0,Jordan,37
+VA,F,1950.0,Jordan,142
+VA,F,2006.0,Jennifer,133
+VA,M,1973.0,Jordan,859
+, F ,1974.0,Jordan,114
+,M,2007.0,Jordan,809
+VA,M,1938.0,Taylor,89
+VA,M,1925.0,Michael,30
+ VA ,F,1960.0,Jennifer,
+VA,F,2017.0,Jennifer,360
+VA,M,1918.0,casey,32
+VA,M,1958.0,Linda,56
+VA, F ,2005.0,Jordan,656
+VA,F,1944.0,Patricia,12
+VA,M,1933.0,Taylor,35
+ VA ,F,1961.0,Jennifer,54
+VA,M,1939.0,Casey,6
+VA,M,1960.0,Robert,104
+VA,F,1947.0,Jennifer,32
+ VA ,M,1964.0,Jordan,1063
+,M,1944.0,Jordan,404
+VA,M,2010.0,Casey,355
+ VA ,F,2012.0,Linda,30
+VA,F,1979.0,Robert,16
+VA,F,1967.0,Casey,361
+VA,F,1955.0,Jordan,47
+VA,F,1974.0, Alex ,199
+,F,1950.0,Taylor,941
+VA,M,2002.0,Taylor,
+VA, M ,1987.0,Casey,225
+VA,F,2010.0,Patricia,682
+VA,F,,Jordan,84
+VA,F,1982.0,Taylor,75
+VA,M,1920.0,Michael,52
+VA,F,1989.0,Jennifer,506
+VA,F,2017.0, James ,98
+VA, M ,, Robert ,11
+VA,F,1958.0,Alex,43
+VA,M,2011.0,Linda,14
+VA,F,1999.0,Taylor,263
+VA,M,1976.0,John,669
+VA,F,1922.0, Jennifer ,
+VA,M,1978.0,Casey,982
+VA,M,1958.0,John,64
+VA,F,1999.0,Mary,64
+VA,F,1988.0,Mary,322
+VA,M,,Casey,212
+ VA ,F,1967.0,Michael,760
+VA,M,2005.0,Taylor,156
+VA,F,2015.0,,608
+VA,F,1969.0,Alex,134
+VA,,1976.0,Jennifer,391
+VA,F,1991.0,Linda,1014
+VA,M,2019.0,Michael,
+VA,F,2000.0,Linda,555
+VA,F,1949.0,Patricia,614
+VA,M,2007.0,Michael,10
+VA,M,2017.0,Jordan,65
+VA,F,1933.0,Patricia,49
+VA,F,1912.0,Jennifer,10
+VA,F,1970.0,Linda,106
+,F,1949.0,Mary,6
+VA,M,1966.0,Casey,236
+VA,F,, Jennifer ,15
+VA, F ,2022.0,Linda,67
+VA,M,1987.0,John,10
+VA,M,1938.0,John,7
+VA,F,1997.0,Mary,334
+VA,M,1983.0,Casey,53
+VA,F,1965.0,Mary,480
+VA,M,2018.0,Casey,27
+VA,F,1946.0,Patricia,73
+VA,M,2020.0,Jordan,25
+VA,F,1969.0,Taylor,630
+VA,M,1969.0, John ,342
+VA,F,1989.0,Patricia,449
+VA,M,1970.0,Jennifer,299
+,M,2006.0,Jordan,712
+VA, M ,1988.0,Michael,297
+VA,F,1959.0,Patricia,200
+VA,M,2008.0,John,98
+VA,F,,Taylor,71
+VA,F,1989.0,Casey,73
+VA,F,1988.0,,1104
+ VA , M ,1973.0,Taylor,474
+VA, M ,1986.0,Casey,
+VA,F,1941.0,Jennifer,11
+VA,M,1971.0,Jordan,731
+VA,F,1964.0,Jennifer,252
+VA,M,1949.0,Robert,700
+VA, F ,1981.0,Alex,370
+VA,F,1987.0,Jordan,24
+VA,M,1938.0,Jordan,75
+VA,F,1960.0,Jordan,374
+VA,F,1945.0,Alex,19
+VA,M,2007.0,john,170
+VA,F,2003.0,Patricia,66
+VA,M,1977.0,Michael,473
+VA,M,1971.0,Jordan,731
+VA,M,1944.0,Taylor,15
+VA,M,1943.0,Robert,28
+VA,F,2006.0, Alex ,11
+VA,M,1951.0,James,45
+VA,M,2016.0,John,35
+VA,M,1919.0,michael,85
+VA, M ,2020.0,Casey,234
+VA,M,2018.0,Alex,46
+VA,M,1946.0,Robert,799
+VA,M,1993.0,Casey,164
+VA, F ,1996.0,,271
+VA,M,1966.0,Taylor,140
+VA,M,1962.0,Taylor,51
+VA,,1989.0,Taylor,450
+VA,F,2013.0,Taylor,18
+VA,,2016.0,Casey,97
+VA,F,2010.0,Jennifer,550
+VA,,1918.0,Michael,69
+VA,M,2010.0,Jordan,22
+VA,M,1938.0,James,91
+VA,F,1973.0,mary,73
+VA,M,2010.0,John,53
+ VA ,M,1982.0,Casey,125
+VA,F,2011.0,Alex,662
+VA,M,1921.0,James,19
+VA, M ,1959.0,Casey,837
+ VA ,,1982.0,Taylor,544
+ VA ,F,1925.0, Jordan ,6
+,M,1935.0,Casey,198
+VA,F,1931.0,Alex,234
+VA,M,1955.0,John,748
+VA,M,1990.0,,191
+VA,M,,Jordan,55
+VA,M,1997.0,Alex,360
+VA,F,1972.0,Taylor,265
+VA,M,,Casey,156
+VA, F ,,Michael,601
+VA,F,1987.0, Casey ,679
+VA,F,1971.0,Mary,623
+VA,F,1932.0,Alex,100
+VA,M,1979.0,Taylor,373
+VA,M,1977.0,Taylor,603
+VA,M,1981.0,James,122
+VA,M,1963.0,Mary,66
+VA,M,1991.0,Alex,236
+VA,M,1919.0,Casey,12
+VA,M,1954.0,James,316
+ VA ,F,2002.0,,52
+VA,,1933.0,Taylor,9
+VA,F,1973.0,James,13
+VA,F,1995.0,,1224
+VA,M,2017.0,alex,40
+VA,F,2006.0,Linda,13
+VA, M ,1978.0,Taylor,211
+VA, M ,1972.0, Taylor ,720
+VA,F,1983.0,Mary,486
+VA,,2019.0,John,9
+VA,F,2016.0,Jordan,96
+VA,M,1942.0,Casey,9
+VA,M,1924.0,Alex,138
+VA,F,1964.0,Jordan,21
+VA,M,2007.0,Alex,29
+ VA ,,1935.0,Linda,58
+, F ,1991.0,Taylor,84
+VA,F,1948.0,Taylor,131
+,F,1923.0,Mary,179
+VA,F,1926.0,Jordan,28
+VA,M,1965.0,Robert,95
+VA,M,1922.0,Jordan,6
+VA,F,1943.0,Alex,44
+VA, M ,1975.0,Casey,378
+VA,F,2017.0,John,775
+ VA ,M,1936.0,James,7
+VA,F,1917.0,Linda,193
+VA, F ,1935.0,Jennifer,295
+ VA ,M,1943.0,Michael,48
+ VA ,M,1951.0,Michael,
+VA,M,1948.0,Casey,742
+VA,,1956.0,Alex,323
+VA,M,1960.0,Casey,703
+VA,F,2019.0,Linda,223
+VA,M,1937.0,Jordan,54
+VA,F,2019.0,Jordan,8
+VA,M,1988.0,Alex,256
+VA,F,1965.0,Taylor,75
+ VA , F ,2003.0,Mary,280
+VA,M,1924.0,Robert,64
+VA,M,2009.0,James,36
+VA,M,1948.0,John,11
+VA,F,1961.0,Mary,60
+VA,F,2021.0,,435
+VA,F,2018.0,Mary,121
+VA,M,1957.0,Robert,395
+VA,M,2005.0, John ,44
+VA, F ,2004.0,Alex,21
+VA,M,1931.0,Taylor,45
+ VA ,M,1944.0,Michael,9
+VA,M,1958.0,Michael,
+VA,F,1918.0,Alex,7
+,F,1946.0,Mary,
+ VA , F ,1979.0,Jennifer,168
+VA,M,2001.0,Michael,651
+,F,2010.0,Jordan,25
+VA,F,2005.0,Linda,43
+VA,M,1970.0,Michael,680
+VA,M,1937.0,Casey,96
+VA,M,1970.0,James,283
+VA,F,2009.0,Jordan,55
+VA,M,1998.0,Jennifer,583
+VA,F,1980.0,Patricia,100
+VA,,1949.0,Jordan,15
+VA,F,1963.0,Mary,45
+VA,F,1928.0,Jordan,314
+VA,M,1962.0,Alex,851
+VA, M ,1937.0,Taylor,233
+VA,M,,James,83
+VA,F,1999.0,Casey,36
+VA,,1952.0,Mary,10
+VA,F,1935.0,Linda,13
+VA,F,1987.0,Patricia,383
+VA,M,1997.0,Taylor,197
+VA,F,2014.0,Casey,10
+VA, M ,1976.0,robert,51
+VA,M,1970.0,Robert,356
+ VA ,M,1926.0,John,14
+VA, F ,1965.0,Jordan,199
+VA,M,1987.0,Mary,259
+VA,M,1986.0,alex,1429
+,F,1992.0,Casey,762
+VA,F,1935.0,Casey,8
+VA,M,1987.0,Jordan,731
+VA, M ,1960.0,Taylor,186
+VA,M,,James,16
+VA, F ,1993.0,Jordan,234
+VA, M ,1980.0,James,9
+VA,F,1971.0,alex,1025
+VA,M,1972.0,Michael,62
+VA,F,2003.0,Jordan,34
+VA,F,1928.0,Jennifer,125
+ VA ,M,2001.0,Jordan,57
+VA,M,2013.0,Taylor,114
+VA,,1973.0,Taylor,269
+VA,,1941.0,Alex,
+VA,M,1943.0,James,289
+VA,F,1997.0,Casey,
+VA,F,2014.0, Linda ,11
+VA,F,1984.0,Jordan,58
+VA,M,1955.0,alex,55
+ VA ,M,1948.0,Robert,317
+, F ,1992.0,Taylor,108
+VA,F,2011.0,Jennifer,63
+VA,M,1954.0,Michael,358
+ VA ,,2016.0,,34
+VA,F,1956.0,Casey,5
+,,1954.0,taylor,427
+VA,F,1979.0,Alex,411
+ VA ,,1942.0,Taylor,9
+VA,M,1952.0,Casey,479
+VA,F,1954.0,Jordan,17
+VA,F,2001.0,Taylor,
+VA,,1986.0,Jordan,273
+VA,M,2011.0,Alex,67
+VA, F ,1942.0,Taylor,221
+VA,,1966.0,Alex,890
+VA,M,1979.0,Alex,158
+VA,M,1979.0,Michael,400
+VA,M,1988.0,John,1112
+ VA , M ,1957.0,Jordan,700
+VA,F,1976.0,Linda,474
+VA,,1943.0,Jordan,88
+VA,,1971.0,Casey,204
+VA,F,1977.0,Mary,27
+VA,M,1911.0,James,7
+VA,F,1971.0,Linda,533
+VA,F,1990.0,Linda,333
+VA,F,1982.0,Patricia,600
+ VA ,M,2022.0,Taylor,34
+VA,F,1989.0,Mary,50
+VA,M,1966.0,Michael,44
+VA,M,1994.0,James,315
+VA, M ,1939.0,jordan,236
+VA,,2005.0,Jennifer,73
+VA,F,1990.0,Mary,134
+ VA , M ,1916.0,Robert,7
+VA,M,1960.0,James,413
+VA,F,1995.0,,
+VA,,2016.0,taylor,8
+ VA ,M,1946.0,Linda,22
+VA,M,1993.0,James,205
+VA,M,1941.0,Jordan,94
+VA,F,1981.0, Patricia ,
+VA,M,1932.0,Alex,9
+VA,F,1975.0,,132
+VA, M ,1955.0,Robert,175
+VA,M,1989.0, Taylor ,213
+VA,F,1990.0,Casey,543
+VA,F,1999.0,Jordan,52
+VA,F,1961.0,Alex,593
+VA,F,1948.0,Alex,15
+VA,F,2014.0,alex,269
+VA,F,1968.0,Jennifer,716
+VA,,1946.0,Taylor,37
+VA,F,2009.0,Alex,502
+VA,M,1990.0,John,61
+ VA ,M,1953.0,Alex,1188
+VA,F,1935.0,Alex,7
+VA,F,1916.0,Alex,
+VA,F,1959.0,Linda,151
+VA,F,2015.0,Alex,10
+VA,M,1932.0,Robert,91
+,F,1957.0,Mary,207
+VA,,1911.0,Taylor,8
+VA,M,1952.0,James,241
+ VA ,M,2020.0,Alex,19
+VA, M ,1932.0,John,304
+ VA ,F,2013.0,James,140
+VA,F,2021.0,Casey,119
+VA,M,2012.0,Alex,45
+,M,1958.0,Taylor,172
+ VA ,M,1941.0, James ,
+VA,M,1984.0,Michael,81
+VA,M,1992.0, Mary ,
+VA,M,1970.0,Casey,65
+ VA ,,1928.0,Alex,22
+,M,1910.0,James,31
+VA,F,2011.0,,78
+VA,F,2001.0,Jennifer,194
+ VA ,F,1955.0, Linda ,17
+VA,M,1994.0,Robert,352
+VA,M,1965.0,Taylor,87
+VA,F,2003.0,Casey,20
+VA,M,1944.0,Robert,11
+VA,F,1967.0,Jennifer,268
+VA,F,1977.0,Patricia,261
+VA,F,1993.0,Linda,328
+VA,F,2000.0,Casey,440
+VA,F,1955.0,Mary,970
+VA,F,1996.0,Alex,577
+VA, M ,1944.0,James,363
+VA,M,2013.0,Robert,313
+VA,M,1954.0,Robert,10
+VA,M,1998.0,taylor,1072
+VA,M,2014.0,,
+VA,M,1984.0,Linda,273
+VA,F,2007.0,patricia,9
+VA,M,1970.0,Robert,356
+VA,F,1998.0,Casey,667
+VA, M ,2005.0,,1029
+VA,F,1947.0,Taylor,829
+VA,M,2020.0,Mary,917
+VA,F,1910.0,Jennifer,37
+VA,,1962.0,Linda,523
+VA,M,1961.0,Michael,390
+VA,M,1951.0,Alex,5
+VA,F,,Taylor,85
+ VA ,M,,Michael,6
+VA,M,2012.0,Michael,7
+VA,F,1991.0,mary,97
+VA,M,1947.0,Taylor,93
+VA,M,2002.0,,503
+VA,M,1995.0,Casey,433
+VA,M,1981.0,Alex,1079
+ VA ,M,1918.0,Alex,11
+VA,M,1986.0,John,604
+VA, M ,1975.0,James,176
+VA,F,2004.0,mary,796
+VA, M ,1926.0,robert,34
+VA,M,1981.0,Casey,322
+ VA ,M,1993.0,John,
+VA,F,1951.0,Casey,
+VA,M,1914.0,Alex,7
+VA,M,1999.0,john,684
+ VA ,M,1999.0,Alex,645
+ VA , F ,1992.0,Jennifer,306
+VA,F,1948.0,Patricia,96
+VA,F,1946.0,Linda,10
+VA,F,1954.0,Casey,295
+VA, M ,1980.0,michael,492
+VA,M,1967.0,James,382
+VA,F,1971.0,Taylor,538
+VA, M ,2001.0,John,83
+VA,F,1930.0,Linda,353
+ VA ,M,1941.0,Robert,5
+VA,F,1984.0,Taylor,77
+VA,,1961.0,Robert,286
+VA,M,1972.0,Jordan,1061
+VA,F,1943.0,Taylor,10
+VA,M,1962.0,Robert,81
+VA,F,2007.0,Taylor,48
+VA,M,1950.0,Casey,308
+VA,F,1999.0,Alex,37
+VA,M,1982.0,Alex,690
+VA,F,1981.0,Linda,17
+VA,F,,Jordan,9
+VA,M,1974.0,,156
+VA,M,1981.0,Taylor,194
+VA,M,1926.0,Taylor,96
+VA,M,2006.0,Taylor,1002
+,M,1983.0,John,200
+VA,F,1988.0,Jennifer,236
+VA,M,2009.0,casey,512
+VA,F,1920.0, Taylor ,31
+,F,1996.0,Patricia,452
+VA,M,1995.0,Taylor,327
+VA,M,1968.0,John,592
+VA,M,1929.0,Taylor,6
+VA,M,1947.0,Jordan,115
+VA,F,1953.0,Patricia,529
+VA,F,1947.0,Patricia,144
+VA,M,1978.0, Michael ,27
+VA,M,1927.0,John,37
+VA,M,1986.0,Michael,67
+,F,1998.0,Mary,244
+VA,M,1914.0,Casey,
+VA,F,1991.0,Patricia,699
+VA,M,1993.0,Jordan,307
+VA, F ,1913.0,Casey,14
+VA, F ,1963.0,Jordan,571
+VA,M,2018.0,John,20
+VA,F,2001.0,Casey,676
+VA,F,,Alex,226
+VA,M,1950.0,Michael,119
+VA,M,1924.0,Taylor,83
+VA,F,2005.0,Mary,14
+VA,M,1960.0,John,56
+VA,F,1953.0,Linda,14
+VA, M ,2003.0,James,605
+VA,F,1984.0, Alex ,590
+VA,,1968.0,Jordan,102
+VA,M,2006.0,Casey,107
+VA, F ,1942.0,Patricia,980
+VA,F,1918.0,Patricia,25
+VA,F,1982.0,Jordan,271
+VA,,2017.0,Alex,8
+VA,M,1973.0,James,526
+VA,F,1942.0,Alex,
+VA,M,1996.0,James,413
+VA,M,1984.0,Taylor,219
+VA,F,1966.0,Patricia,
+VA,F,1947.0,Mary,44
+VA,,1933.0, Mary ,6
+VA, M ,2018.0,Robert,592
+VA, F ,1973.0,Jennifer,688
+VA,M,2008.0,taylor,42
+VA,F,,Michael,194
+VA,,1973.0,Michael,57
+VA, F ,,Alex,285
+VA,F,2012.0,Alex,131
+VA,F,1994.0,Mary,40
+VA,F,1939.0,Jordan,16
+VA,M,2009.0,Robert,297
+VA,M,1988.0,Jordan,145
+VA,M,1974.0,Taylor,254
+VA,M,1939.0,Robert,18
+VA,F,1987.0, Linda ,51
+VA, M ,1940.0,Michael,6
+VA, M ,,James,52
+VA,F,2004.0,Taylor,407
+VA,M,2012.0,Taylor,419
+VA,M,1972.0,Michael,62
+VA,M,,Taylor,311
+VA,M,1951.0,Taylor,84
+VA,M,2022.0,Alex,178
+VA,,1987.0,Taylor,50
+ VA , F ,1924.0,,39
+VA,M,,Jordan,438
+VA,F,1951.0,Taylor,267
+VA,M,1957.0,Michael,212
+ VA ,M,1913.0,casey,23
+VA,M,1969.0,Alex,58
+ VA ,,1967.0,Alex,125
+VA,,2002.0,John,381
+VA,F,1985.0,Linda,
+VA,F,1935.0,Jordan,110
+VA,F,1955.0,Casey,601
+VA,F,1914.0,Mary,
+VA,M,1959.0,James,351
+,F,1973.0,,164
+ VA ,M,1922.0,james,6
+ VA ,M,1931.0,John,5
+VA,M,2010.0,Taylor,623
+VA,F,1974.0,mary,730
+ VA ,F,,Jordan,10
+VA, M ,1947.0,,168
+ VA ,M,,John,31
+VA,M,2018.0,Taylor,198
+VA,F,1970.0,Jordan,1454
+ VA ,M,2000.0,,1224
+VA,M,1971.0,Taylor,502
+VA,M,1940.0,Alex,90
+VA,F,,alex,306
+VA,M,1978.0,Alex,929
+VA,M,1983.0,Robert,1055
+VA,F,1935.0,Jordan,110
+VA,M,2012.0,James,486
+VA,F,1990.0,Alex,138
+VA,F,1975.0, Patricia ,528
+VA,F,1983.0,Robert,432
+VA,F,2014.0,John,5
+VA,M,1979.0,Jordan,42
+VA, F ,1952.0,casey,988
+VA,M,1989.0,John,1437
+VA,M,1981.0,John,157
+VA,M,2013.0,Casey,40
+VA,F,1966.0,Jennifer,232
+VA,M,1965.0,Robert,95
+ VA ,F,1939.0,Robert,72
+ VA ,F,1911.0,Mary,24
+VA,M,1978.0,Jennifer,252
+VA,F,1952.0,Alex,287
+VA,M,1994.0,Michael,382
+VA,F,1935.0,Patricia,14
+VA,F,1974.0,Patricia,264
+ VA ,M,1998.0,Michael,523
+VA,F,2008.0,Mary,136
+,M,1915.0,James,9
+VA,F,1970.0,Mary,163
+VA,M,2000.0,Michael,48
+VA,,1984.0,James,542
+VA,M,1980.0, Casey ,12
+VA, F ,1962.0,Jennifer,382
+VA,M,1959.0,Jordan,30
+VA,F,1996.0,Jennifer,893
+ VA ,F,2019.0, Jennifer ,22
+VA,M,1997.0,Casey,65
+ VA ,F,1998.0, Patricia ,22
+VA,M,1953.0,Casey,127
+VA,M,1992.0,Casey,23
+VA,F,,Mary,31
+VA,F,1987.0,Taylor,80
+,F,1963.0,Patricia,359
+VA, F ,,Patricia,776
+VA,F,1998.0,Jennifer,528
+VA,M,1932.0,James,21
+ VA ,M,1991.0, Casey ,12
+VA,M,1955.0,Michael,308
+VA,M,1956.0,John,
+VA,F,1971.0,Mary,623
+VA,F,1956.0,Alex,42
+VA,M,2008.0,Casey,19
+VA,M,2018.0,Jordan,5
+VA,M,1971.0,James,294
+VA,F,1918.0,Jennifer,12
+ VA ,M,,Michael,318
+VA,M,1965.0,Jordan,17
+VA,M,1976.0,Alex,278
+ VA ,,1931.0, Taylor ,215
+VA,F,1965.0,James,20
+VA,M,1912.0,Robert,32
+VA,F,2021.0,Taylor,154
+VA, M ,1979.0,,610
+ VA ,F,1924.0,Alex,13
+VA,F,,Mary,65
+VA,F,2016.0, James ,161
+VA,M,1977.0,Jordan,537
+VA,F,1982.0,Mary,268
+VA, F ,1979.0,Patricia,193
+VA,M,1974.0,Michael,320
+VA,F,2006.0,Jordan,511
+VA,M,1952.0,Alex,43
+VA,F,1957.0,Patricia,98
+VA,F,1987.0,Michael,743
+VA,F,1993.0,Mary,225
+VA,M,1924.0,Casey,278
+,F,1983.0,jennifer,611
+VA,F,1959.0, Jennifer ,21
+VA,M,,,633
+VA,M,1954.0,John,899
+VA,M,2020.0,Taylor,22
+VA,M,1920.0,Taylor,23
+VA,M,2005.0,James,19
+VA,M,1930.0,Taylor,12
+VA,M,2006.0,Linda,948
+VA, M ,2018.0,Robert,592
+VA,M,1934.0,Michael,32
+VA,M,1958.0,James,647
+ VA ,F,2010.0,Alex,41
+VA,M,1992.0, Taylor ,17
+VA,F,1993.0,Jennifer,357
+VA,F,2014.0,Robert,377
+VA,M,1966.0,Alex,
+VA,,2000.0,Patricia,67
+VA, M ,1995.0,John,245
+VA,F,1936.0,Taylor,478
+VA,M,1967.0,John,1212
+VA,M,2000.0,,266
+ VA , F ,2017.0,Linda,
+VA, M ,,John,213
+VA,M,1942.0,Jennifer,84
+VA,M,1966.0,Jordan,316
+VA,M,1927.0,Taylor,56
+VA,F,2017.0,Mary,405
+VA,F,1982.0,Alex,8
+,F,1988.0,Casey,129
+,M,1952.0,Jordan,37
+VA,F,1940.0,Linda,85
+VA,F,1913.0,James,44
+VA,F,1964.0,Alex,345
+VA,M,1965.0,Michael,55
+VA,,,Taylor,86
+VA,,2009.0,Taylor,78
+ VA ,M,,,624
+ VA , M ,1954.0,Casey,201
+VA,F,1958.0,Jordan,70
+VA,M,2008.0,Michael,620
+VA,F,1962.0,Casey,
+VA,F,2015.0,Mary,520
+VA,F,2013.0,Mary,13
+VA,M,1969.0,Michael,197
+VA,M,1989.0,Jordan,146
+VA,F,2008.0,Casey,109
+VA, F ,1986.0,Alex,64
+VA,M,1923.0,John,270
+VA,F,2013.0,Casey,24
+VA,M,2011.0,John,9
+VA,M,1960.0,michael,1372
+VA,F,1968.0,,572
+VA,F,1969.0,Mary,530
+ VA ,M,1959.0,Taylor,63
+VA,F,1970.0,Jennifer,224
+VA,F,1988.0,Taylor,350
+VA,M,1974.0,Casey,315
+VA,M,,Jordan,16
+VA, M ,2001.0,Casey,356
+VA,F,1947.0,Alex,129
+VA,F,2011.0,Linda,15
+ VA ,M,1945.0,Alex,81
+VA,M,1973.0,Patricia,752
+VA,M,1955.0,Casey,246
+VA,M,1982.0,Jordan,189
+VA,M,1965.0,James,978
+VA,M,1984.0,Casey,85
+VA,M,,Jordan,17
+ VA ,M,1950.0,Alex,35
+ VA , F ,1992.0,Mary,813
+VA,F,2008.0,Taylor,310
+VA,F,2022.0,Jennifer,210
+VA, M ,2011.0,Taylor,116
+ VA ,F,1934.0,Mary,7
+ VA ,F,1970.0,Patricia,105
+VA,F,1960.0,Taylor,63
+VA, M ,1948.0,James,21
+VA,M,1915.0,Jordan,85
+VA,,1971.0,Casey,204
+VA,F,1997.0,Patricia,648
+VA,,1964.0,Casey,105
+VA,M,2022.0,john,30
+VA,M,2021.0,Robert,382
+VA, M ,1997.0, James ,90
+VA, M ,2010.0,Alex,31
+ VA ,F,1991.0,Casey,94
+VA,M,1991.0,Jordan,121
+VA,F,1925.0,Patricia,5
+VA,F,1957.0,Patricia,98
+VA,F,1969.0,Jennifer,236
+VA,M,1980.0,Taylor,316
+VA,F,1983.0,Mary,486
+,M,1977.0,Casey,437
+VA,M,1957.0,James,48
+VA,F,1984.0,Casey,1004
+,F,2013.0, Robert ,5
+VA,F,1952.0,Patricia,132
+ VA ,F,2006.0,Mary,10
+VA,M,2013.0,John,
+VA,F,1937.0,Taylor,60
+VA,F,1951.0,Jordan,1303
+VA,M,1980.0, Casey ,12
+VA,M,1941.0,Taylor,40
+VA,M,1986.0,Taylor,221
+VA,F,2004.0,Linda,13
+VA,M,2013.0,James,49
+VA,F,1955.0,Jennifer,1014
+ VA ,M,1979.0,,617
+VA,F,1973.0,Alex,35
+VA,F,1941.0, Taylor ,82
+VA, F ,1956.0,Linda,445
+VA,F,1939.0,Casey,133
+VA,M,2000.0,James,413
+,F,2017.0,Jordan,29
+VA, F ,1988.0,Patricia,243
+VA,M,1925.0,Alex,295
+VA,M,1963.0,John,310
+VA,M,1980.0,Robert,265
+VA, M ,1971.0,john,
+VA,M,2016.0,Michael,316
+VA,M,1931.0,Michael,26
+VA,F,1951.0,linda,1236
+ VA ,M,1983.0,James,645
+VA,F,1984.0,Mary,314
+VA,M,1951.0,Casey,22
+VA,M,1951.0,John,446
+VA, M ,1991.0, Michael ,156
+VA,F,2006.0,Casey,234
+VA,M,,Jordan,313
+VA,F,1963.0,Alex,871
+ VA ,M,1923.0,Taylor,5
+VA,F,2003.0,Alex,294
+VA,M,1925.0,Jordan,41
+VA,F,1918.0,Casey,7
+VA,F,1972.0,Jennifer,235
+VA,M,1948.0,Jordan,
+VA,F,2002.0,Alex,29
+VA,F,1926.0,Alex,312
+VA, M ,2016.0,Taylor,6
+VA,M,1921.0,Robert,40
+VA,M,2002.0,Robert,32
+VA,,1969.0,Taylor,
+VA,F,1938.0,Patricia,37
+ VA ,F,2012.0,Jennifer,17
+VA,M,1992.0,Michael,360
+VA,M,1973.0,Mary,811
+ VA ,F,2007.0,Linda,36
+VA,M,2021.0,John,40
+VA,F,1985.0,Jennifer,616
+VA,F,1983.0,Alex,1043
+VA,F,2001.0,Alex,99
+VA,M,1987.0,Robert,32
+VA,M,1967.0,Alex,87
+VA,F,1924.0,Mary,
+VA,M,1942.0, Alex ,29
+VA,F,2002.0,Taylor,21
+VA,F,1972.0,Casey,30
+VA, F ,1997.0,Jennifer,267
+VA,,1956.0,Taylor,52
+VA,F,1927.0,Alex,18
+VA, M ,1947.0,James,150
+VA, M ,2015.0,Michael,57
+VA,M,1964.0,Alex,39
+VA,M,2011.0,Linda,14
+VA,F,1985.0,Patricia,901
+VA,M,1990.0,Casey,6
+VA,M,1946.0,Michael,176
+VA,M,1945.0,John,197
+VA,M,,Casey,388
+ VA ,F,2021.0,,67
+VA,M,1975.0,john,153
+VA, M ,,Alex,11
+VA,M,2017.0,,12
+VA,M,1990.0,,565
+VA,F,1966.0,Linda,82
+VA,F,1998.0,Alex,329
+VA, F ,, Taylor ,163
+VA,F,1980.0,,506
+VA,M,1988.0,Taylor,255
+VA,F,1953.0,Casey,19
+VA,M,1963.0,Michael,1129
+ VA ,M,1955.0,James,1032
+VA,F,1992.0,Patricia,47
+VA,F,1966.0,Mary,259
+VA,F,2008.0,Patricia,15
+VA,F,1934.0,Casey,55
+VA,F,1946.0,Casey,62
+,M,1985.0,casey,58
+VA,F,2001.0,Patricia,223
+ VA ,F,1951.0,Jennifer,12
+VA,F,2000.0,Mary,17
+VA,F,1948.0,Jennifer,6
+VA,M,1941.0,Taylor,40
+VA,F,1948.0,Mary,355
+VA,M,2015.0,Alex,
+VA,M,1946.0,Alex,186
+,M,1920.0,robert,116
+VA,F,1962.0,,298
+VA, F ,1926.0,Casey,69
+VA,,1986.0,Taylor,40
+,F,1986.0,Jordan,103
+VA,M,1914.0, James ,26
+VA,F,1939.0,Linda,12
+VA,F,1973.0,mary,73
+,F,2014.0, Jordan ,183
+VA,F,2013.0,,5
+VA,F,1969.0, Casey ,8
+VA,F,2017.0,,8
+ VA ,M,2005.0,Michael,58
+ VA ,F,2007.0,Jennifer,585
+VA, M ,1994.0,Casey,874
+VA,M,2011.0,james,102
+ VA ,F,2012.0,Robert,287
+VA,F,2011.0,patricia,394
+VA,F,1985.0,Mary,177
+VA,M,1994.0,Alex,766
+VA,M,2016.0,Jordan,19
+VA, M ,,Alex,11
+ VA ,M,1959.0,Alex,1361
+VA,M,1948.0,Michael,13
+VA, F ,,Robert,589
+VA,M,1919.0,John,16
+VA,F,1957.0,Linda,597
+VA,M,1966.0,Robert,479
+VA,M,2017.0,Casey,6
+VA,M,1988.0,James,788
+VA,,1960.0,Alex,
+VA,M,1976.0,James,292
+VA,F,1963.0,Casey,43
+VA,F,1965.0,Casey,415
+VA,,1954.0,Michael,227
+VA,F,1995.0,Jordan,318
+VA, M ,1936.0,Robert,225
+VA,F,1941.0,Patricia,11
+VA,M,1987.0,Mary,259
+VA,M,1970.0,Jordan,83
+VA,F,1950.0,Alex,26
+ VA ,M,1999.0,taylor,
+VA,F,1953.0,Mary,18
+ VA ,F,1938.0,Jordan,42
+VA,F,1944.0,Casey,111
+VA, M ,1997.0,Jordan,358
+VA,M,1955.0,Jordan,1215
+,F,2020.0,Jennifer,665
+VA,M,1978.0,Jordan,86
+ VA , F ,2007.0,Jordan,361
+VA,M,1991.0,Robert,603
+VA,M,, Jordan ,13
+VA,M,1965.0,John,58
+VA,F,1925.0,Linda,136
+VA,M,1978.0,Jennifer,252
+VA, F ,1967.0,linda,154
+,M,1977.0,Robert,1036
+VA,F,2012.0,taylor,
+VA,M,2017.0,james,12
+VA,F,1992.0,Linda,63
+,M,2013.0,Linda,79
+VA,M,2014.0,Jordan,226
+VA,,1983.0,Casey,65
+VA,M,1913.0,James,39
+VA,F,1975.0,Linda,456
+VA,F,1921.0,Mary,138
+VA,M,1963.0,Taylor,96
+VA,F,1953.0,Taylor,205
+VA,M,1956.0,Taylor,388
+VA,M,2019.0,John,5
+VA,F,1922.0,Michael,90
+VA,F,2012.0,,
+VA,F,2018.0,Alex,304
+VA,,2019.0,Robert,63
+VA,,2014.0,Mary,831
+VA,M,1980.0,,676
+, F ,1999.0,Jennifer,199
+,M,1957.0,Alex,40
+VA, M ,1968.0,Casey,423
+VA,F,,Alex,89
+VA,M,2009.0,Alex,11
+VA, F ,1962.0,Alex,751
+VA,F,1932.0,jordan,8
+VA,F,2018.0,Taylor,329
+VA,M,1983.0, Alex ,706
+VA,M,1988.0,James,788
+VA,F,2019.0,Mary,33
+VA,F,1996.0,Casey,500
+ VA , F ,1995.0,Casey,978
+VA,F,1928.0,Patricia,291
+VA,F,1985.0,Casey,158
+ VA ,F,1989.0,Alex,574
+VA,M,1962.0,John,208
+VA,F,1954.0,Jordan,17
+VA,F,2012.0,Patricia,80
+VA,M,2007.0,Taylor,1039
+,M,2001.0,,16
+VA,M,2003.0,Jennifer,62
+VA,F,2011.0,John,8
+VA,M,2016.0,James,228
+ VA ,F,1949.0,Casey,
+VA,F,2022.0,Mary,224
+VA,M,1921.0,John,24
+VA, M ,1962.0,Casey,421
+VA,M,1943.0,Casey,138
+VA,M,2000.0,Jordan,51
+VA,M,2011.0,robert,468
+VA,M,2016.0,Robert,118
+VA,F,1990.0,Jordan,334
+ VA ,M,2004.0,James,112
+VA,F,1976.0,Taylor,212
+VA,M,1995.0,Michael,539
+VA,F,1961.0,Casey,399
+VA,F,1959.0, Jennifer ,21
+VA, M ,1932.0,Patricia,
+VA,F,1984.0,Patricia,315
+VA,M,1945.0,Jennifer,17
+VA,F,2018.0,Patricia,79
+ VA ,,1930.0,Robert,28
+VA,F,1997.0,Alex,115
+VA,F,1938.0,Linda,6
+VA, F ,1934.0,Patricia,5
+VA,M,1982.0,Jordan,189
+VA,F,1938.0,Alex,236
+VA,,1918.0,Michael,69
+VA,F,,Taylor,
+VA,F,1947.0,Casey,360
+VA,F,1924.0,Taylor,189
+VA, M ,1947.0,John,328
+VA,F,2000.0,taylor,40
+VA,M,1993.0,Michael,447
+VA,F,1990.0,Taylor,51
+,F,1910.0,Mary,71
+VA,M,1970.0,Alex,1003
+VA,F,1943.0,Mary,
+ VA ,F,1912.0,Mary,11
+VA,M,1982.0,Robert,230
+VA,M,2008.0,James,556
+VA, F ,1986.0,Linda,590
+VA, F ,1975.0,Jordan,267
+VA,F,1974.0,Taylor,244
+VA,M,1998.0,John,22
+VA,M,2003.0,Alex,
+VA,M,1979.0,Patricia,480
+VA,F,1956.0,,143
+VA,F,2000.0,taylor,40
+VA, M ,1958.0,Alex,300
+VA,M,1942.0,Linda,14
+VA,F,1975.0,Casey,91
+VA,M,1987.0,Alex,707
+VA,M,1940.0, James ,38
+VA,F,1973.0,Jordan,524
+VA,F,1977.0, Jordan ,44
+VA,M,1982.0,Robert,230
+VA,F,2016.0,Linda,5
+VA,F,1945.0,Jennifer,129
+VA, M ,1946.0,Casey,181
+VA,M,1950.0,Robert,104
+VA,M,,James,156
+VA,F,2003.0,Taylor,351
+VA,F,1947.0,Linda,251
+VA,F,2010.0,Taylor,286
+VA,M,1983.0,Taylor,11
+ VA ,M,2020.0,Michael,51
+VA,M,1951.0,Jennifer,29
+,M,1950.0,Taylor,23
+VA,F,1925.0,Mary,140
+VA,F,1930.0,Mary,10
+VA,F,1940.0,Casey,110
+ VA ,M,1929.0,Alex,45
+VA,M,2019.0,Casey,15
+,F,2008.0,Linda,811
+VA,M,,Casey,212
+ VA ,M,1988.0,Robert,108
+,M,1958.0,Taylor,172
+VA,F,2010.0,Casey,
+VA,F,1968.0,Alex,65
+ VA ,M,1972.0,John,139
+VA,F,1977.0,,210
+VA,M,1957.0,John,6
+VA,M,,Taylor,934
+VA,,1929.0,Patricia,13
+VA,M,1967.0,Robert,280
+VA,M,1964.0,Michael,121
+VA, M ,1989.0,Casey,
+VA,F,1980.0,Jordan,
+VA,F,1974.0,Linda,628
+VA,F,1986.0, Patricia ,38
+,F,1983.0,Patricia,631
+VA,F,1948.0,Robert,14
+VA,F,1967.0,mary,81
+VA,F,2022.0,Casey,9
+VA,M,1991.0,John,33
+VA,M,2021.0,Jordan,18
+VA,F,1912.0,Linda,189
+VA,F,2001.0,John,317
+VA,M,1983.0,Michael,919
+VA,F,1978.0,Taylor,143
+VA,F,1953.0,Alex,54
+VA,M,1966.0,James,
+VA,F,,Patricia,6
+VA,F,1995.0,,635
+VA,F,2003.0,Alex,294
+VA,F,2005.0,Patricia,430
+VA,F,1933.0,casey,44
+VA,F,2020.0,Linda,15
+VA,M,1971.0,Robert,683
+VA,F,1971.0,Jordan,584
+VA,F,1972.0,Alex,
+VA,F,1996.0,Linda,183
+VA, M ,1955.0,Robert,175
+VA,M,1956.0,Michael,62
+VA,F,1986.0,Mary,172
+VA,F,1983.0,Linda,185
+ VA ,M,2009.0,Taylor,53
+VA,M,1981.0,Robert,18
+ VA ,F,1940.0,Patricia,28
+VA,F,1990.0,Jennifer,113
+VA, M ,1975.0,robert,1375
+VA,F,1977.0,Alex,982
+VA,F,1947.0,Jordan,457
+VA,M,1953.0,James,623
+VA,F,1960.0,John,58
+ VA ,M,1987.0,Michael,240
+VA,M,1994.0,Patricia,546
+VA,F,1981.0, Jordan ,127
+VA,F,1959.0, Alex ,9
+VA,M,1973.0, Casey ,31
+VA,F,1957.0, Jordan ,18
+VA,F,1935.0,,5
+VA,M,1985.0,Jordan,404
+VA,,2001.0,Taylor,206
+ VA ,F,1967.0,Jordan,127
+VA,M,1971.0,Jennifer,954
+VA,M,1999.0,Casey,31
+VA,F,1957.0,Alex,572
+VA,M,1928.0,,5
+VA,M,1964.0,James,647
+VA, M ,1966.0,,300
+VA,F,2019.0, Alex ,104
+ VA ,M,2012.0,John,709
+VA,F,1980.0,Casey,53
+VA,F,1933.0,Jennifer,87
+VA,F,1922.0,,28
+VA,M,1951.0,jordan,956
+VA,M,1968.0,Alex,29
+ VA ,M,1981.0,Linda,554
+VA,M,2002.0,Alex,151
+ VA ,M,1928.0,Taylor,7
+VA,F,1945.0,patricia,7
+VA,F,1964.0,Alex,345
+VA,M,1913.0,James,39
+VA,M,2003.0,casey,14
+VA,M,2010.0,Robert,43
+VA, M ,1990.0,Michael,33
+VA,M,1963.0,Alex,1076
+VA,F,1914.0,Patricia,5
+VA,M,1990.0,,746
+ VA ,M,1983.0,Jordan,131
+VA, M ,1945.0,Taylor,72
+VA,F,1988.0,Linda,115
+VA,F,2001.0,Jordan,294
+VA,M,2014.0,Michael,298
+VA,M,1947.0,,37
+VA,M,1941.0,alex,907
+VA,M,2008.0,Robert,168
+ VA ,M,1967.0,Jordan,34
+VA,M,1995.0,Robert,40
+VA, F ,1972.0,Jordan,12
+,F,1964.0,Mary,75
+VA,M,1969.0,Robert,20
+VA,M,1949.0,Jordan,312
+VA,M,1954.0, Jordan ,17
+VA,F,1958.0,Jennifer,239
+ VA ,M,1958.0,Casey,827
+VA,M,2021.0,Alex,28
+VA,F,1911.0,Linda,10
+,F,1981.0,Jennifer,183
+VA,,2010.0,Michael,512
+VA,M,,Robert,241
+ VA ,F,1952.0,Jordan,83
+VA,F,1950.0,Casey,1094
+VA, F ,1990.0,Patricia,10
+VA,M,1949.0,John,66
+VA,F,1985.0,Alex,222
+VA,F,1985.0, Taylor ,351
+VA,F,1939.0,Jennifer,185
+ VA ,F,1982.0,Jennifer,163
+VA,F,1948.0,Jordan,163
+VA,F,1919.0,Jennifer,37
+VA,M,1974.0,Michael,320
+VA,F,1944.0,Mary,28
+VA,M,1921.0,Michael,
+VA,M,1920.0,alex,73
+VA,F,1988.0,John,578
+VA, M ,2006.0,Alex,270
+VA,F,1976.0,Patricia,134
+VA, M ,1916.0,,57
+VA,F,1917.0,Jordan,18
+VA,M,1963.0,Jordan,861
+VA,M,1950.0, Jordan ,65
+VA,F,1984.0, Jennifer ,136
+VA,M,2006.0,Michael,14
+VA,M,1974.0,James,200
+VA,M,1918.0,James,74
+VA,M,2007.0,Casey,570
+VA,F,1927.0,Casey,50
+VA,M,1930.0,Taylor,12
+VA,M,2006.0,Robert,518
+VA,F,2009.0,Patricia,760
+VA,F,1942.0,Jennifer,8
+VA, M ,1930.0,Alex,7
+VA,F,1967.0,Taylor,156
+ VA , M ,1931.0,,15
+VA,M,2014.0,John,101
+VA,F,1986.0,Casey,13
+VA,M,1960.0,Alex,480
+VA,F,1982.0,Casey,192
+,F,1943.0,,276
+ VA ,M,1920.0, Casey ,34
+VA,M,1980.0,Alex,694
+VA,M,1985.0,John,
+VA,F,1965.0,Jennifer,482
+VA,F,1942.0,Casey,
+ VA ,F,1952.0,Jennifer,458
+ VA ,F,1995.0,Linda,135
+VA,M,1936.0,Taylor,64
+VA,F,2000.0,,155
+VA,F,1951.0,Mary,14
+VA,F,2005.0,Alex,124
+VA,M,1975.0,jordan,198
+VA, F ,1937.0,Patricia,12
+VA, M ,1990.0,Robert,750
+VA,M,1958.0,,7
+VA, F ,2009.0,Casey,84
+VA,M,2020.0,James,8
+,M,1910.0,Michael,75
+VA,F,1962.0,Patricia,11
+ VA ,F,1945.0,Linda,224
+VA,,1984.0,Linda,518
+VA,F,2007.0,Mary,106
+ VA ,F,2006.0,Mary,10
+VA,M,1946.0,John,
+VA,F,1972.0,Mary,463
+VA,F,1969.0,Patricia,75
+VA,F,1998.0,Linda,464
+VA,M,1969.0,Casey,1259
+VA,M,1941.0,Linda,21
+VA,M,1988.0,Jordan,145
+VA,F,1966.0, Jordan ,83
+VA,M,1977.0,Alex,674
+VA, M ,1987.0,James,662
+VA,F,,Alex,543
+ VA ,M,2006.0,John,62
+VA,M,1999.0,Robert,24
+VA,M,1974.0,John,26
+VA,F,1940.0,Mary,120
+VA,F,2011.0,Taylor,21
+VA,M,1967.0,Casey,256
+VA,F,2007.0,Casey,15
+VA,M,1998.0,Alex,312
+ VA ,M,1984.0,,260
+VA, M ,1938.0,Michael,16
+VA,F,1922.0,Taylor,143
+VA,F,2014.0,Taylor,10
+VA,F,1956.0,Jennifer,256
+VA,F,,Taylor,604
+VA,M,1996.0,Jordan,22
+VA,F,1976.0,Patricia,134
+VA,F,,Taylor,82
+VA,F,1942.0,Linda,12
+VA,M,1993.0,Robert,647
+VA,F,1966.0,Casey,389
+ VA ,M,1996.0,Taylor,271
+VA,F,1977.0,Jennifer,736
+VA,F,1938.0,Taylor,61
+VA,M,,Robert,371
+VA,M,1993.0,,43
+VA,M,1935.0,Alex,84
+VA, F ,1979.0,Taylor,63
+VA,F,1978.0, Mary ,498
+VA,F,1925.0,Robert,37
+VA,M,,Taylor,208
+VA,F,1983.0,James,376
+VA,F,1944.0,Patricia,12
+VA,F,1937.0,Linda,144
+VA, F ,1919.0,Alex,217
+VA,F,1931.0,Patricia,37
+VA,,1930.0,james,68
+VA,F,1971.0,Jennifer,302
+ VA ,F,2018.0,Jennifer,735
+VA,F,2011.0,Jordan,34
+,F,1978.0, Linda ,358
+VA,M,1927.0,Alex,138
+VA, F ,1950.0,Jennifer,522
+ VA ,F,1997.0, Linda ,454
+VA,F,2009.0,Mary,721
+VA,,1954.0,Alex,
+VA,F,1956.0,Mary,24
+,F,1926.0,Taylor,100
+VA,F,1939.0,Mary,55
+VA,F,1968.0,Mary,245
+VA,F,1958.0,Casey,39
+VA,,1929.0,Casey,354
+VA,,2019.0,Taylor,508
+VA, F ,1978.0,Patricia,125
+VA,M,1991.0, James ,15
+VA,M,2013.0,Alex,111
+ VA ,,1933.0,Linda,24
+VA,M,1988.0,casey,837
+VA,M,1943.0,John,38
+VA,F,1969.0,,132
+VA,F,1978.0,Alex,823
+VA,F,1937.0,,6
+ VA ,F,1968.0,Jordan,801
+VA,F,1926.0,Jennifer,5
+VA,F,2016.0,Patricia,7
+VA,F,1938.0,Mary,5
+VA,M,1936.0,John,186
+VA,F,,Alex,187
+VA,M,1944.0,Casey,248
+VA,F,1930.0,jordan,
+VA,F,1954.0,Taylor,43
+VA,F,1963.0,Linda,13
+VA,F,1996.0,Mary,200
+VA,M,1989.0,Alex,665
+VA,F,2009.0,Jennifer,445
+VA,M,1924.0,Jordan,48
+VA,M,2005.0,alex,124
+VA,F,1932.0,,12
+VA,F,1980.0,Mary,533
+VA,F,1994.0,Patricia,1042
+VA,M,2004.0,Robert,28
+VA, M ,1948.0,Alex,27
+VA,F,1999.0,Robert,825
+VA,,,Casey,91
+VA,,1953.0,Taylor,15
+VA,M,2001.0,Alex,850
+VA,F,2000.0,Patricia,63
+ VA ,F,2017.0,taylor,392
+VA,M,1921.0,Robert,40
+VA,M,1910.0,Taylor,96
+VA,F,1994.0,Taylor,138
+,M,1962.0,James,26
+VA,M,1975.0,Michael,342
+VA,F,1961.0,Jordan,430
+VA,F,1972.0,Linda,824
+VA,M,1982.0,Michael,23
+VA,M,1942.0,Jordan,422
+VA,M,1965.0,Casey,140
+VA,F,1910.0,Alex,25
+ VA ,F,1985.0,Jordan,245
+VA,M,1982.0,James,338
+VA,F,1946.0,Jennifer,26
+ VA ,M,1975.0,Alex,110
+VA,F,1989.0,Jordan,486
+VA,M,1974.0,robert,654
+VA,M,1952.0,Robert,130
+VA,M,,Michael,145
+VA, M ,,james,677
+VA,F,2010.0,Mary,11
+VA,M,2002.0,James,1114
+VA,F,1954.0,Jennifer,35
+VA,M,1945.0,James,221
+VA,M,1979.0,casey,310
+VA,M,1922.0,Casey,8
+VA,F,1983.0,Taylor,530
+VA,M,1972.0,Alex,432
+VA,F,1916.0,Mary,148
+VA,M,1992.0,Jordan,936
+VA,F,1966.0,Taylor,298
+VA,F,1945.0,Jordan,9
+VA,F,2011.0,Mary,140
+ VA ,M,1972.0,,335
+VA,M,1955.0,Taylor,108
+VA,M,1996.0,,64
+,M,1980.0,Jordan,573
+VA,F,2002.0,Mary,
+ VA ,F,1970.0, Alex ,
+VA,M,1992.0,Robert,512
+ VA ,F,1930.0,Alex,23
+VA,M,1973.0,Robert,482
+VA,F,2016.0,Alex,217
+VA,F,1959.0,Mary,114
+VA,,1945.0,Casey,30
+VA,F,1940.0,Alex,816
+VA,M,1999.0,michael,16
+VA,M,1964.0,Robert,9
+VA,M,2021.0,Michael,99
+VA, F ,1964.0, Patricia ,1286
+VA,F,1955.0,patricia,113
+VA,M,1969.0,James,801
+VA,F,1945.0,Taylor,28
+ VA ,M,1931.0,Jordan,103
+VA,M,,James,524
+VA,F,1927.0,Mary,34
+ VA ,F,1973.0,Linda,195
+VA,F,1958.0,Patricia,232
+VA, F ,2004.0,Patricia,78
+,M,1911.0,Alex,25
+VA,M,1929.0,,138
+VA,M,1921.0,Mary,94
+VA,F,1937.0, Mary ,88
+ VA ,M,1994.0,Jordan,16
+ VA ,F,1996.0,Jordan,76
+VA,F,1937.0,Jordan,70
+VA, F ,1965.0,Robert,427
+VA,F,1920.0,Casey,52
+VA,F,1998.0,Jordan,93
+VA,F,1955.0,Taylor,100
+VA,M,1912.0,Jordan,100
+VA,F,1914.0,Linda,27
+,F,2004.0,Jordan,31
+VA,M,1974.0,Alex,430
+VA,F,1979.0,Jordan,35
+VA,M,1934.0,Taylor,494
+VA,F,2002.0, Patricia ,63
+VA,M,1940.0,John,10
+VA,F,2007.0,Alex,70
+,F,1987.0,Alex,499
+VA, M ,1932.0,Patricia,
+ VA ,F,,Linda,430
+VA,M,1998.0,James,385
+ VA ,F,1931.0,Linda,23
+VA,F,1980.0,,261
+VA,F,2014.0,Casey,10
+VA,F,1994.0,Jennifer,285
+VA,F,1978.0,Casey,275
+VA,M,2015.0,Robert,17
+VA,F,2001.0,linda,215
+VA,M,1965.0,Alex,318
+VA,M,1948.0,Taylor,11
+ VA ,F,1969.0,Jordan,841
+VA,F,2006.0,Taylor,1715
+VA,M,1935.0,Michael,
+VA,F,1981.0,Mary,183
+VA,M,1953.0,John,168
+VA, M ,1997.0,Robert,226
+VA,F,1975.0,alex,716
+VA,,2015.0,Casey,426
+VA,F,2002.0,Jordan,88
+ VA ,F,1993.0,Taylor,771
+VA,M,2004.0,John,135
+VA,F,1945.0,Mary,18
+VA,F,2015.0,Casey,24
+VA,M,1918.0,John,114
+VA,M,1996.0,Jennifer,1038
+VA,M,1949.0,Taylor,12
+VA,F,1975.0,Mary,350
+VA,M,1961.0,Alex,698
+VA,M,1923.0,Michael,6
+VA, M ,1947.0,Michael,42
+VA,F,2013.0,Linda,74
+ VA ,F,1997.0,Taylor,134
+VA,F,1994.0,,458
+VA,F,1915.0,Alex,11
+ VA ,M,1986.0,Robert,67
+VA,M,1935.0,Robert,9
+VA, F ,1917.0, Mary ,135
+VA,F,1951.0,Patricia,205
+ VA ,,1943.0,Alex,372
+VA,M,1946.0,Taylor,605
+VA,F,1958.0,Taylor,393
+VA,M,2014.0,taylor,
+VA,M,2004.0,Michael,24
+VA, M ,2016.0,Patricia,104
+VA,M,2007.0, James ,626
+VA,F,1957.0,taylor,448
+VA,M,1985.0,taylor,13
+VA,F,1963.0,Taylor,232
+VA,M,2010.0,James,444
+VA,,1942.0,John,37
+VA,F,1952.0,Linda,66
+,M,,John,13
+ VA ,M,1952.0,Taylor,68
+VA,F,1974.0,Casey,79
+VA,F,1993.0,Mary,225
+VA,F,1978.0,Robert,378
+VA,F,1941.0, Casey ,21
+VA,M,1915.0,Taylor,11
+VA,M,1979.0,Michael,400
+ VA ,F,2000.0,Jennifer,487
+VA,F,1979.0,Robert,16
+VA,M,1976.0,Casey,770
+VA,M,1951.0,Robert,5
+VA,M,1935.0,,66
+VA,M,2014.0,alex,7
+VA,M,1952.0,Michael,608
+VA,M,2003.0,John,94
+VA,,2008.0,Jennifer,26
+VA,F,2002.0,Linda,54
+VA,F,2003.0,Taylor,351
+VA, F ,1960.0,Patricia,202
+VA,M,1941.0,Michael,25
+ VA ,F,1991.0,Jordan,
+VA,M,1956.0,Casey,111
+VA,F,2022.0,Taylor,
+VA,M,2011.0,Casey,12
+VA,M,,John,237
+VA,M,1913.0,John,9
+,M,1961.0,Jordan,292
+VA,F,1934.0,Taylor,51
+VA,M,1970.0,Taylor,596
+VA,F,1936.0,Alex,282
+VA,F,1959.0,Taylor,145
+ VA ,F,2013.0,Patricia,68
+VA,F,1982.0,Linda,737
+VA,M,1932.0,Taylor,112
+ VA ,M,1927.0,Casey,37
+VA,F,,,153
+VA,M,2001.0,james,110
+VA,F,1976.0,Alex,39
+ VA ,M,1956.0,James,49
+ VA ,M,2012.0,Casey,777
+VA,F,2013.0,Alex,381
+VA, M ,1994.0,john,56
+VA,F,1931.0,Casey,17
+VA,M,1926.0,James,185
+VA,M,1939.0,Alex,8
+VA,F,, Jennifer ,18
+VA,F,1979.0,Casey,867
+VA,,1967.0,Michael,157
+VA, F ,1959.0,Casey,126
+VA,F,1935.0,Mary,25
+VA,F,1945.0,Jennifer,129
+VA,F,1971.0,Jordan,584
+VA,M,1935.0,Jordan,9
+VA, M ,2006.0,James,18
+VA,M,1990.0,Jordan,774
+VA,F,1997.0,Jordan,270
+VA,M,1985.0,Robert,439
+,M,2004.0,alex,
+VA,F,1967.0,Patricia,387
+VA,,1978.0,Robert,551
+VA,F,1965.0,Linda,10
+VA,M,1949.0,Casey,27
+VA,M,1914.0,Jordan,27
+ VA ,F,1977.0,Casey,143
+VA,F,1932.0,Mary,5
+VA,M,1922.0,Jennifer,25
+VA,F,2002.0,Jennifer,258
+ VA ,F,1970.0,Casey,419
+ VA ,M,1977.0,John,313
+ VA ,F,1971.0,Patricia,858
+VA,F,2004.0,Jennifer,
+VA,F,1981.0,Casey,130
+VA,F,1965.0,John,565
+ VA , M ,1964.0,John,91
+VA, F ,2008.0,Alex,133
+VA,F,1944.0,Jennifer,11
+VA,F,2003.0,Linda,248
+VA,M,1972.0,casey,715
+VA,F,1923.0,Casey,15
+VA,M,1984.0,Alex,368
+VA,F,1968.0,Casey,560
+VA,M,2018.0,James,19
+VA,M,2013.0,Jordan,5
+VA,M,1964.0,Taylor,28
+VA,M,1936.0,Jordan,95
+VA,F,1983.0,Jordan,751
+VA,M,2012.0,Jordan,88
+VA,M,1996.0,Alex,154
+VA, F ,1954.0,Patricia,145
+VA,M,1973.0,Alex,94
+VA,M,1978.0,James,298
+VA, M ,1945.0,Robert,
+VA,F,1911.0,Jordan,13
+VA,M,,Casey,343
+VA,M,1919.0,Taylor,51
+VA,F,2020.0,,179
+VA,F,1944.0,Alex,168
+VA,F,1928.0,Taylor,5
+VA,M,1998.0,Jordan,394
+VA,M,1957.0,Taylor,23
+VA,M,1992.0,Jordan,936
+VA,F,1981.0,Taylor,445
+VA,M,2016.0,Alex,235
+VA, M ,1961.0,John,839
+VA,M,1997.0,John,71
+, M ,1929.0,Jordan,7
+VA,F,1946.0,Jordan,79
+VA,M,1985.0,Michael,219
+VA,M,1940.0,Robert,28
+VA,F,1942.0,James,101
+VA,M,1934.0,Robert,22
+VA,M,1970.0,John,128
+VA, M ,1917.0,Michael,
+VA,M,1939.0,James,6
+VA,M,1978.0,John,519
+VA,F,1987.0, Jennifer ,13
+VA, M ,2010.0,Alex,31
+VA,F,1968.0,Linda,17
+ VA ,M,,Casey,59
+VA,M,2007.0,john,170
+VA,F,1917.0,Jennifer,48
+VA,F,1943.0,Linda,235
+VA,M,2015.0,James,
+VA, F ,2019.0,Patricia,
+VA,,2005.0,Casey,828
+VA,F,1941.0,Linda,16
+VA,M,1940.0,Casey,92
+VA,M,1989.0,Michael,587
+VA,M,2013.0, Michael ,358
+VA,F,1951.0,Alex,252
+VA,M,2004.0,Taylor,539
+VA,F,1982.0,Jordan,271
+,M,,John,13
+ VA ,M,2020.0,Michael,51
+VA,,1976.0,Michael,28
+VA, F ,1980.0,Jennifer,476
+VA,F,2002.0,Jennifer,258
+VA,F,1959.0,Jordan,105
+VA,F,1927.0,Taylor,
+VA, M ,1925.0,Casey,128
+VA,F,1928.0,Casey,13
+VA,F,,Mary,7
+VA,M,1974.0,Linda,162
+VA, M ,1962.0,Jordan,524
+VA,M,1973.0,John,500
+VA,M,1971.0,Alex,746
+VA, M ,2014.0,casey,10
+VA,M,1968.0,Robert,
+VA,M,2002.0,Casey,67
+VA,M,2021.0,casey,120
+VA,F,1961.0,Patricia,16
+VA, F ,2014.0,Patricia,55
+VA,F,1940.0,Jordan,68
+VA,F,1962.0,Mary,65
+VA,M,1977.0,James,175
+VA,F,2012.0,Mary,79
+VA,F,2016.0, Casey ,144
+VA,F,1986.0,Jennifer,20
+VA,M,1927.0,Alex,138
+VA,F,,Jennifer,82
+VA,F,1941.0,Mary,5
+VA,M,1933.0,Jordan,37
+VA,M,1920.0, John ,92
+VA,F,2003.0,Jennifer,347
+VA,M,1996.0,Robert,450
+VA,F,1975.0,Jennifer,179
+VA,F,1995.0,Patricia,1016
+VA,F,1921.0,Linda,15
+VA,F,1917.0,Alex,54
+VA,F,1973.0,Patricia,12
+VA,M,1993.0,Taylor,63
+VA,M,,Jordan,88
+VA,M,2008.0,Alex,377
+VA,,1978.0,Jennifer,189
+VA,,1953.0,Taylor,15
+VA,F,1991.0,Jennifer,1032
+VA,M,1986.0,James,464
+VA,M,1919.0,Patricia,238
+VA,,1934.0,James,169
+VA,,2022.0,Michael,66
+VA,M,1941.0,Casey,304
+VA,M,1998.0,Casey,76
+VA, F ,1971.0,Casey,106
+VA,M,1911.0,,9
+VA,M,1969.0,Jordan,18
+VA,F,1921.0,Casey,75
+VA,M,1991.0,taylor,122
+VA,F,1950.0,Mary,117
+VA,F,2012.0,Casey,8
+VA,M,1975.0,Taylor,61
+VA, M ,1959.0,John,888
+VA,M,1992.0,Alex,121
+,M,1997.0, Michael ,841
+VA,M,1984.0, Robert ,18
+VA,M,2018.0,Michael,306
+VA,F,1999.0,Linda,314
+ VA ,F,1943.0,Patricia,12
+,M,,Robert,11
+VA,F,1965.0,Patricia,181
+VA,M,1949.0,,40
+VA, F ,1989.0,Linda,245
+VA,F,1994.0,,79
+VA,F,1962.0,Jordan,193
+VA,F,1919.0,Jordan,29
+VA, M ,1959.0,Casey,837
+VA,M,2003.0,Robert,712
+VA,M,1930.0,,134
+VA,M,1968.0,Taylor,67
+,F,1960.0,Casey,60
+VA,F,1995.0,Taylor,492
+ VA ,F,1979.0,Linda,318
+VA,F,1978.0,Jordan,
+VA,M,1976.0,Taylor,204
+VA, F ,2015.0,Jennifer,53
+VA,F,1943.0,Jennifer,38
+VA,M,1995.0,Alex,130
+ VA ,F,1976.0,Mary,167
+VA,M,2006.0,Robert,518
+VA,F,1976.0,Jordan,404
+ VA ,M,1959.0,Michael,924
+VA,F,1972.0,James,803
+VA,F,1991.0,Alex,15
+ VA ,M,1936.0,Alex,89
+VA,M,1923.0,Casey,21
+VA,M,2003.0,Taylor,40
+VA,F,2020.0,Michael,60
+VA,M,1910.0,Casey,9
+VA,M,1956.0,Jordan,302
+VA,F,1928.0,alex,99
+VA,F,1993.0,Casey,528
+VA,F,1980.0,Linda,34
+VA,F,1994.0,Linda,332
+VA,F,1930.0,Taylor,54
+VA,M,1938.0,Robert,8
+VA,F,1949.0,Taylor,211
+VA,M,1981.0,Michael,149
+ VA ,M,2008.0,Jordan,86
+VA,F,1961.0,Linda,650
+VA,F,1958.0,Mary,754
+VA,M,1949.0,Alex,281
+,F,1929.0,Jennifer,64
+VA,M,1963.0,James,119
+VA,M,1956.0,Robert,13
+VA,M,1939.0,Michael,72
+VA,M,1963.0,Robert,393
+VA,M,1958.0, Robert ,39
+VA,F,1936.0,Linda,60
+ VA ,M,,Taylor,405
+ VA ,M,1917.0,James,127
+VA,M,1922.0,Taylor,137
+VA,M,1967.0,Taylor,196
+VA,,1950.0,John,155
+VA,M,1916.0,John,69
+VA,F,2020.0,Jordan,41
+VA,M,1953.0,,546
+VA,M,1979.0,John,463
+VA,M,2009.0,Jordan,26
+VA,F,1992.0,Jordan,633
+VA,F,1987.0,Mary,661
+VA,M,1919.0,Alex,20
+VA,F,2001.0,Mary,438
+VA,,2009.0,michael,499
+VA,M,1946.0,James,10
+ VA , F ,1970.0,Taylor,55
+VA,F,1976.0,Casey,90
+ VA ,F,1993.0,patricia,545
+VA,M,1989.0,James,445
+VA,F,1958.0,linda,129
+VA,F,1974.0,Jennifer,242
+VA,F,1964.0,Linda,198
+VA,F,2014.0,,418
+VA,M,1962.0,michael,34
+VA,F,,patricia,429
+VA,M,1984.0,Jordan,889
+VA,M,1989.0,Robert,329
+ VA , F ,2005.0,Taylor,208

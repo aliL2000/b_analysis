@@ -1,0 +1,1658 @@
+State,Sex,Year,Name,Count
+TX,F,1970.0,Patricia,648
+TX,F,1969.0, Mary ,663
+TX,M,2013.0,Taylor,145
+TX,,1941.0,Taylor,26
+TX,M,1995.0,Taylor,494
+TX,M,1976.0,Taylor,507
+TX, M ,1978.0,John,1102
+TX,M,2018.0,Robert,131
+TX,,1991.0,Casey,422
+TX,M,1973.0,Casey,158
+TX,F,1958.0,Jordan,359
+TX,M,2004.0,James,303
+TX,F,1953.0,Taylor,26
+TX,F,1996.0,Casey,244
+ TX , F ,1964.0,Jordan,144
+TX,F,1978.0,Patricia,402
+TX,M,1954.0,Casey,21
+TX,F,2005.0,Alex,13
+TX,F,1999.0,Patricia,14
+TX,M,1966.0,Alex,687
+TX,M,1996.0,alex,374
+TX,M,1954.0,Alex,46
+TX,M,1912.0,John,17
+TX,F,1996.0, Mary ,97
+TX,F,1963.0,Linda,30
+TX,F,2006.0,Alex,340
+TX, M ,2012.0,taylor,543
+TX,F,2017.0,Patricia,801
+TX,F,2002.0,Linda,255
+TX,M,1986.0,Patricia,165
+ TX ,F,1997.0, Taylor ,607
+TX,,1980.0,,49
+ TX ,F,2006.0,Jennifer,81
+TX,F,1994.0,Mary,166
+TX,F,1989.0,Alex,269
+TX,M,1940.0,James,102
+,M,1930.0,Jordan,67
+TX,,1965.0,Casey,153
+TX,M,1985.0,John,310
+TX,M,1969.0,Robert,331
+TX,M,1974.0,Michael,56
+TX,M,1962.0,James,337
+TX,F,1939.0,Jennifer,625
+TX,M,1960.0,Jordan,40
+TX,M,1940.0,John,264
+ TX ,F,1994.0,Alex,664
+TX,F,1911.0,Linda,6
+TX,M,2016.0, Taylor ,108
+TX,F,1960.0,Casey,763
+TX,M,2010.0,Casey,11
+TX,M,1994.0,Alex,262
+,F,1975.0,Jordan,190
+TX,F,2019.0,Jordan,116
+TX,F,2015.0,Patricia,252
+ TX ,F,1929.0,Taylor,29
+TX,F,1935.0, Jennifer ,690
+TX,M,1997.0,,30
+TX,F,2010.0,Patricia,1050
+TX,M,2012.0,Jordan,19
+TX,F,2019.0,James,207
+TX,M,1940.0,Alex,52
+, F ,1935.0,Alex,7
+TX,M,1924.0,Jordan,80
+TX,M,1970.0, Taylor ,216
+TX,F,1969.0,Taylor,436
+TX,F,1960.0,Alex,
+TX,M,1965.0,Linda,257
+TX,M,1948.0,Taylor,610
+TX,M,1993.0,Michael,73
+ TX ,M,1989.0,Michael,14
+TX,F,1914.0,Michael,13
+TX,M,1966.0,,1002
+TX,M,1988.0,Michael,942
+ TX ,M,1967.0,Alex,523
+TX,M,1970.0,John,185
+,F,1968.0,,130
+TX, M ,1973.0,Robert,122
+TX,M,1914.0,James,34
+ TX ,,1976.0,Alex,572
+TX,M,2001.0,Robert,484
+TX,M,1929.0,Michael,418
+,M,1922.0, Michael ,95
+,F,1945.0,,8
+TX,F,1953.0,Alex,22
+TX,F,1990.0,Casey,222
+ TX ,F,1931.0,Patricia,5
+TX,M,1958.0,Jordan,160
+TX,F,1985.0,Jennifer,72
+TX, M ,1971.0,Taylor,170
+TX,F,2021.0,Patricia,109
+TX,M,1965.0,,28
+ TX ,F,1953.0,Jennifer,12
+TX,M,1988.0,,292
+TX,F,1997.0,James,9
+TX,M,1951.0,Alex,30
+TX,F,2017.0,Alex,10
+,M,1972.0,casey,234
+TX,F,1939.0,Patricia,46
+TX,F,1970.0,Mary,444
+TX,F,1935.0,Jordan,472
+TX,M,2016.0,Alex,171
+TX,F,1965.0,Jennifer,171
+TX,M,1957.0,Jordan,410
+ TX , F ,,Robert,19
+TX,M,1962.0,Robert,376
+TX,F,1976.0,Linda,629
+ TX , M ,1981.0,Casey,314
+TX,M,1945.0,Casey,169
+TX,,1924.0,,39
+TX,F,1963.0,Mary,54
+TX,F,1966.0,Jennifer,318
+TX,M,2020.0,michael,41
+TX,F,1990.0,alex,989
+ TX ,M,1925.0,Robert,5
+TX,M,1953.0,James,241
+TX,M,1954.0,Jordan,685
+TX,M,1933.0,Michael,21
+TX, F ,1976.0,James,242
+, M ,1935.0,Jordan,258
+TX,,1996.0,Jennifer,288
+ TX ,M,1995.0,John,267
+TX,,1979.0,Casey,660
+TX,M,1963.0,Mary,654
+TX,M,, Robert ,5
+TX,F,1973.0,,813
+TX,M,1974.0,Taylor,917
+TX,M,1968.0,,382
+TX,M,1977.0,,18
+TX, F ,1987.0,mary,520
+TX,F,1985.0,mary,7
+TX, F ,2022.0,Mary,8
+TX,F,2017.0,Jennifer,295
+TX, M ,1997.0, Michael ,67
+TX,M,1966.0,John,404
+TX,M,1976.0,Alex,788
+TX,M,1994.0,Linda,163
+TX,F,1984.0,Casey,94
+TX,M,1969.0, Taylor ,346
+TX,M,1959.0, Robert ,24
+ TX ,F,1954.0,Linda,67
+TX,M,1977.0,Michael,45
+ TX ,F,1953.0,Jennifer,12
+TX,F,1989.0,Taylor,922
+TX,F,1916.0,Patricia,42
+TX, F ,1990.0,Linda,440
+TX,M,1979.0, James ,222
+TX,M,1917.0, Jordan ,15
+, M ,1926.0,Casey,46
+TX,M,1964.0,John,611
+TX,M,1961.0,James,483
+TX,F,2008.0,Linda,540
+TX,F,2007.0,Mary,136
+TX,F,1974.0,Jordan,654
+TX,F,1992.0,Mary,412
+TX,M,1943.0,Alex,76
+TX,F,2012.0,Jennifer,17
+TX,F,2016.0,Jordan,419
+TX,F,1968.0, Jordan ,741
+TX,M,1991.0,Alex,
+TX,F,1949.0,,162
+TX,M,,Michael,243
+TX,,2007.0,Jordan,21
+TX,M,1949.0,Alex,106
+TX,F,1982.0,Mary,138
+ TX , F ,1934.0,Robert,36
+TX,M,1950.0,Taylor,51
+TX,F,1950.0,Taylor,33
+TX,M,1951.0, John ,25
+,M,1997.0,John,235
+TX,F,1940.0,Taylor,259
+TX,M,1993.0,Robert,1346
+TX, M ,2019.0,Jordan,167
+TX,M,2005.0,Casey,149
+TX,,1980.0,Robert,382
+TX,F,2017.0,Casey,36
+TX,F,2001.0,Patricia,15
+ TX , F ,1998.0,Casey,35
+TX,F,1949.0,Taylor,245
+TX,F,1964.0,Jennifer,566
+TX,M,1933.0,James,173
+TX,M,2017.0,Casey,92
+TX,M,2003.0,,117
+TX,M,2016.0,Robert,6
+,F,1975.0,Alex,1049
+TX,M,1930.0,Casey,245
+TX,M,1994.0,,175
+TX,F,2020.0,alex,46
+TX,M,1999.0,Casey,644
+TX,M,1962.0,Mary,19
+TX,F,1949.0,Jennifer,196
+TX,M,1975.0,Michael,949
+TX,M,2006.0,Alex,104
+TX,M,1920.0,Taylor,6
+TX,F,1936.0,Casey,10
+TX, F ,1942.0,Jennifer,45
+TX,M,1995.0,Alex,133
+TX,F,2003.0, Mary ,1452
+TX,F,1942.0,Taylor,821
+TX,F,1925.0,Mary,7
+TX,F,1951.0,James,548
+TX, F ,1944.0,Linda,72
+TX,F,1913.0,Linda,18
+TX,M,1963.0,Robert,16
+TX,F,2006.0,Mary,14
+TX,F,2009.0,Taylor,278
+TX,M,1971.0,Casey,269
+TX,,1988.0,Mary,613
+,M,1949.0,Casey,146
+TX,M,1914.0,Alex,8
+ TX ,F,1982.0,taylor,445
+TX,M,1949.0,Jordan,630
+TX,F,2003.0,Alex,5
+TX,F,1947.0,Linda,78
+,F,1937.0,Mary,26
+TX,F,1932.0,Mary,27
+TX,F,,Jordan,11
+TX,F,1924.0, Michael ,9
+TX,F,1972.0,Jordan,395
+TX,F,1964.0,Alex,89
+TX,F,1943.0,Patricia,55
+TX,M,1944.0, John ,22
+TX,M,2018.0,james,24
+TX,M,1945.0,Jordan,34
+TX,M,1986.0,Robert,156
+ TX ,F,1928.0,Linda,70
+TX,M,1969.0,Jordan,
+TX,M,2003.0,Jordan,983
+TX,,1970.0,Taylor,218
+TX,M,1999.0,Michael,69
+TX,F,1993.0,Jennifer,929
+TX,M,1958.0, Taylor ,11
+TX,F,2019.0,Mary,635
+TX,M,1930.0,Robert,509
+TX,F,1995.0, Jordan ,94
+TX,F,1963.0,Alex,230
+TX,F,1962.0,Linda,636
+TX,F,1942.0,Alex,517
+TX, M ,1961.0,Alex,265
+,M,2009.0,Taylor,18
+TX,,1966.0,James,492
+TX, F ,1940.0,Mary,217
+TX,M,1977.0,casey,380
+TX, F ,1959.0,Mary,293
+TX,F,2009.0,Patricia,72
+TX,M,1989.0,Robert,720
+TX, F ,1982.0,Casey,461
+TX,F,1932.0,Linda,
+TX, M ,1968.0,Mary,392
+TX, M ,2014.0,Robert,62
+TX,,1965.0,Linda,553
+TX,M,1934.0,Taylor,
+TX, F ,1982.0,Casey,461
+TX,F,1939.0,Jordan,162
+TX,M,1995.0,Jordan,481
+TX,M,1953.0,Jordan,237
+TX,F,1954.0,Jordan,6
+TX,,2003.0,James,815
+,F,2020.0,Patricia,57
+TX, F ,1982.0,Jordan,236
+TX, M ,1933.0,,371
+TX, M ,1959.0,James,39
+TX,F,1948.0,Jennifer,630
+TX,F,1928.0,Casey,102
+TX,F,1924.0,Patricia,37
+TX,M,2021.0,Casey,39
+,M,2021.0,John,
+ TX ,M,1983.0,Taylor,171
+TX, M ,2020.0,Taylor,191
+TX,M,1971.0,Michael,16
+,F,1948.0,Casey,231
+,M,1975.0,Casey,174
+TX,F,1925.0,Jordan,42
+TX,F,1936.0,Jordan,45
+TX,M,,Casey,661
+TX,F,1923.0,Taylor,67
+TX, F ,1921.0,casey,13
+TX,F,1917.0,,13
+TX, F ,1950.0,Casey,31
+TX,M,2013.0,Michael,205
+TX,F,2013.0,Casey,55
+TX,M,2018.0,Linda,52
+TX,M,1944.0,James,799
+TX,M,1927.0,Alex,424
+TX,F,1920.0,Jennifer,27
+TX,F,1996.0,Linda,70
+TX,M,1950.0,Casey,412
+ TX ,M,2017.0,robert,131
+TX,M,1987.0,John,1057
+TX,M,1950.0,John,36
+TX,M,2008.0,Casey,77
+TX,F,1922.0,Linda,65
+TX,M,1938.0,Taylor,140
+TX,F,1932.0,Linda,
+TX,M,1924.0,Taylor,9
+TX,M,1969.0,Alex,781
+ TX ,M,1912.0,James,72
+TX,M,1913.0,James,49
+TX,,1965.0,John,378
+TX,M,1996.0,James,83
+ TX ,M,2001.0, Taylor ,62
+TX,M,2022.0,Taylor,291
+TX,M,1963.0,Alex,371
+TX,F,1973.0,Jordan,871
+TX,M,2012.0,michael,546
+TX,M,1946.0,Robert,80
+TX,M,1951.0,Michael,5
+TX,F,2007.0,Linda,114
+TX, M ,1942.0,John,6
+TX,M,1919.0,John,8
+TX,M,1978.0,,593
+TX,F,2014.0,Mary,9
+,,1944.0,Jennifer,200
+TX,F,1959.0,,6
+ TX ,M,1995.0,Patricia,484
+TX,M,1931.0,,213
+TX,M,1936.0,John,32
+TX,M,1939.0,James,58
+TX,F,1956.0,Alex,569
+TX,F,1952.0, Jordan ,44
+TX,F,1966.0,Linda,137
+TX,M,1991.0,Jordan,181
+TX, M ,,Alex,47
+TX,F,1948.0,Linda,52
+ TX ,F,1959.0,Jordan,196
+TX,F,2020.0,James,141
+TX,F,1992.0,Linda,1068
+,F,2016.0,alex,45
+,M,1991.0,John,667
+TX,M,1987.0,Alex,265
+,M,2001.0,jordan,257
+TX,F,1975.0,jennifer,140
+TX,M,1910.0,alex,14
+TX,M,2004.0,Casey,495
+TX,,1974.0,Robert,180
+TX,M,2000.0,Michael,575
+TX,F,,,190
+,F,1994.0,Linda,750
+ TX ,F,2002.0,Jordan,
+TX,F,1965.0,,361
+TX,F,2008.0,Patricia,12
+,M,1988.0,Casey,77
+TX, M ,2012.0,Casey,7
+TX,M,,Michael,109
+TX,,1979.0,Michael,620
+,M,2005.0,Mary,164
+TX,F,1961.0,Patricia,288
+TX, M ,1989.0,Linda,171
+ TX ,F,2016.0,Jennifer,10
+TX,M,1947.0, Jordan ,206
+TX,,1971.0,Jordan,612
+ TX ,F,1955.0,Jennifer,220
+TX,M,1982.0,Robert,92
+TX,M,1962.0,,254
+TX, M ,1998.0,James,64
+TX,F,1997.0,Jordan,175
+TX,F,1932.0,Alex,
+TX,M,1916.0,Michael,57
+TX,F,1939.0,Linda,271
+TX,M,1941.0,Taylor,165
+TX,M,2003.0,John,38
+ TX ,F,1977.0,Mary,49
+TX,M,1978.0,,365
+TX,F,1984.0,Taylor,486
+TX,M,1975.0,Robert,656
+TX,F,1995.0,Patricia,466
+TX,F,2003.0,Alex,5
+TX,F,1974.0,Linda,19
+TX,M,1999.0,Alex,78
+TX,,1925.0,James,154
+TX,F,1981.0,Patricia,77
+TX,M,1943.0,James,249
+TX,,1943.0,Casey,93
+TX,F,1961.0,Jordan,785
+TX,M,2007.0,James,707
+TX,F,2000.0,Casey,39
+ TX ,M,1976.0,Casey,558
+TX,F,2007.0,Casey,21
+ TX ,M,1929.0, Casey ,183
+TX,,1969.0,Jordan,427
+TX,F,1999.0,John,344
+TX,M,1950.0,Robert,19
+TX,M,1922.0,James,9
+TX,F,1974.0,Casey,565
+TX,M,1961.0,jordan,219
+TX,F,1992.0,jennifer,35
+TX,,1966.0,James,492
+TX,F,1995.0,Linda,248
+TX, F ,2007.0,Jennifer,691
+TX,,1960.0,Patricia,222
+TX,M,1995.0,Casey,90
+TX,F,1938.0,Linda,21
+TX,F,1958.0,Jennifer,657
+TX,F,1946.0,Patricia,440
+TX,,1936.0,Mary,140
+TX,M,1960.0,Casey,37
+TX,M,2020.0,Alex,62
+TX,M,1952.0,Taylor,944
+TX,M,1997.0,,33
+TX,M,1973.0,Michael,358
+TX,M,1978.0,Taylor,660
+ TX ,F,1945.0,Alex,247
+TX,F,2000.0,mary,75
+TX,M,1998.0,Jordan,25
+TX,F,1951.0,Jordan,217
+TX,F,2011.0,Patricia,320
+TX,F,1993.0,Linda,117
+TX, M ,2011.0,Jordan,17
+ TX ,M,1949.0,Michael,54
+TX,F,1921.0,Jennifer,276
+TX,F,1972.0, Jennifer ,100
+TX,,1944.0,Alex,9
+ TX ,F,2009.0,Jennifer,110
+TX,F,1989.0,patricia,291
+TX,M,1911.0,Alex,7
+,M,2002.0,Casey,94
+ TX ,M,2006.0,Taylor,56
+TX,F,1979.0, Linda ,361
+,F,2019.0,Alex,34
+TX,M,1919.0,Jordan,239
+TX,F,1993.0,Linda,117
+TX,M,1999.0,,411
+TX, F ,1958.0,Patricia,108
+TX, F ,1988.0,Patricia,530
+TX, F ,1940.0,Casey,50
+TX,F,2013.0,Patricia,529
+TX,,1984.0,Alex,276
+TX,M,1951.0,Jordan,64
+TX,M,1968.0,James,159
+TX,M,1946.0,Alex,13
+TX,M,1954.0,,47
+TX,M,1922.0,Taylor,181
+TX,F,2007.0,Alex,39
+TX,F,1945.0,Jennifer,328
+TX,M,1973.0,James,35
+TX,F,1978.0,Jennifer,1035
+TX,F,1947.0,Patricia,14
+TX,F,1938.0,Patricia,21
+TX,F,1937.0,Jennifer,62
+TX,M,,Michael,279
+TX,F,1975.0,Linda,151
+ TX ,F,1990.0,,718
+TX, M ,1931.0,Jordan,28
+TX,,1990.0,Taylor,293
+TX,M,1945.0,Alex,311
+TX,M,1931.0, Patricia ,379
+TX,,2000.0,Taylor,5
+TX,F,1992.0,,186
+TX,F,1961.0,Jennifer,362
+TX,M,1967.0, Robert ,180
+TX,M,1982.0,Alex,912
+TX,M,1960.0,Taylor,501
+TX,M,1940.0,Casey,348
+TX,M,2012.0,John,27
+TX,M,1989.0,Taylor,299
+TX,M,1948.0,James,64
+TX,M,1976.0,Robert,165
+TX,M,2014.0,Alex,231
+TX,M,1972.0,Robert,769
+,F,1921.0,linda,13
+TX,F,,Mary,851
+,M,2009.0,Robert,10
+TX,F,1928.0, Patricia ,21
+TX,F,1932.0,Jordan,128
+TX,F,2005.0,Mary,259
+TX,F,2012.0,Taylor,726
+TX,,2001.0,Casey,96
+TX,M,1938.0,Michael,17
+TX,M,1927.0,Jordan,59
+TX,M,1960.0,Robert,29
+TX,M,2021.0,Taylor,114
+TX,M,2002.0,Michael,43
+TX,M,1943.0,Michael,581
+TX,F,1950.0,Mary,1037
+TX,M,1955.0,Jennifer,334
+TX, M ,1953.0,Casey,858
+,M,2013.0,Robert,118
+,M,2002.0,Robert,723
+ TX ,F,1976.0,Patricia,202
+TX,F,1938.0,Alex,
+TX,F,1947.0,Jordan,121
+ TX ,F,,Jennifer,58
+TX,M,1993.0,James,1237
+ TX , F ,1979.0,Taylor,44
+TX,F,1995.0,Mary,27
+TX,F,2013.0,Jennifer,246
+,F,1977.0,Patricia,393
+TX,M,1939.0,John,43
+, F ,1914.0,Alex,6
+TX,M,1986.0,Patricia,165
+TX,F,1960.0,Taylor,14
+TX,F,1977.0,Taylor,276
+TX, M ,2008.0,taylor,18
+TX,F,1932.0,Jennifer,124
+TX,M,1956.0,Patricia,5
+TX,M,1959.0,Michael,56
+TX,M,1920.0,Alex,32
+ TX ,M,1942.0,Casey,430
+TX, M ,1957.0,John,572
+TX,F,1927.0,Alex,365
+TX,M,1973.0,John,37
+TX,F,1933.0,Taylor,52
+TX,M,2002.0,Alex,63
+TX,M,2015.0,Michael,24
+TX,M,1949.0,Taylor,100
+TX,,1956.0,Mary,13
+TX,F,1993.0, Casey ,83
+TX,M,1962.0,Casey,119
+TX,F,1933.0,,67
+ TX ,M,1930.0,John,379
+TX,F,1987.0,Alex,629
+TX,M,1981.0,James,528
+TX,F,,linda,688
+TX,M,2019.0,Alex,114
+TX,M,1925.0,John,89
+ TX ,M,1952.0,,90
+TX,F,1920.0,Alex,11
+ TX ,F,2012.0,Mary,187
+TX,F,2003.0,Jennifer,175
+TX,M,2013.0,Jordan,207
+TX,M,1927.0,Alex,424
+TX,M,1971.0,Alex,197
+TX,,1974.0,Patricia,267
+TX,,1965.0,Jordan,119
+TX, F ,1970.0,Alex,444
+,,1941.0,Jennifer,327
+TX,M,2003.0,Michael,72
+TX, M ,1966.0,James,140
+TX,F,1962.0,Alex,970
+ TX ,F,1967.0,Jennifer,37
+TX,F,1980.0,linda,842
+,M,2006.0,James,97
+,F,1948.0,Casey,231
+TX,M,2009.0,Alex,823
+,F,2014.0,Linda,7
+TX,F,,Alex,223
+TX,M,2015.0,Taylor,11
+TX,M,1923.0,Taylor,10
+ TX ,M,1986.0,Jordan,522
+TX,M,1978.0,Casey,798
+TX,F,1998.0,taylor,34
+TX,M,1983.0,Jordan,666
+TX, M ,2011.0,Alex,268
+TX,F,1986.0,Linda,601
+TX,M,1944.0,James,799
+TX,F,2017.0,Michael,709
+TX,F,,Mary,47
+TX, F ,1922.0,Mary,6
+TX,M,1980.0,Taylor,649
+TX,F,1958.0,Taylor,267
+TX,F,1977.0,Linda,230
+TX,M,2008.0, Michael ,312
+TX,M,1992.0,Taylor,1133
+TX,M,1932.0,Michael,7
+TX, M ,2020.0, Robert ,8
+TX,F,2021.0, Alex ,26
+TX,M,1969.0,Jordan,
+TX,M,2005.0,James,35
+TX,F,1971.0,Patricia,133
+TX,M,1997.0,Casey,1004
+TX,M,1981.0,John,64
+ TX ,M,1959.0, Alex ,429
+TX,,1996.0,,194
+ TX ,F,1954.0,Taylor,260
+,F,1941.0,Casey,203
+TX, M ,1986.0,Casey,229
+TX,F,1943.0,Mary,5
+TX,M,1946.0,Casey,11
+TX,F,1988.0,Taylor,187
+TX,F,1972.0,Casey,854
+TX,F,1972.0,Linda,44
+TX,M,1944.0,Alex,
+TX,F,1995.0, Jennifer ,408
+TX,F,1975.0,Taylor,755
+TX,M,,Michael,33
+TX,F,1972.0,Patricia,63
+TX,M,1990.0,Alex,
+TX,M,1999.0,Jordan,829
+TX, M ,1941.0, Jordan ,
+TX,F,1982.0,Linda,427
+ TX ,M,1947.0,,392
+TX,M,1958.0,James,27
+ TX ,M,2014.0,Casey,523
+TX,F,,Mary,508
+ TX ,F,,Alex,341
+TX,M,1958.0, Alex ,427
+TX,F,1946.0,Mary,65
+TX,F,1935.0,Patricia,338
+TX,M,1932.0,John,9
+TX,,1964.0,Patricia,134
+TX,M,1950.0,James,505
+TX, F ,1936.0,Jennifer,33
+TX,F,1970.0,,308
+TX,M,1939.0,Alex,200
+TX,M,1980.0,John,1051
+TX,F,1960.0,linda,92
+ TX ,F,1999.0,Jennifer,137
+TX,F,1998.0,Jennifer,299
+TX,M,1919.0,Alex,7
+TX,F,2021.0,Casey,117
+TX,F,2015.0,Jordan,800
+, F ,1933.0,alex,11
+TX,F,2000.0,John,141
+TX,F,1993.0, John ,647
+TX,F,1922.0,Patricia,173
+ TX ,F,1941.0,Linda,329
+TX,M,1996.0,jordan,601
+ TX ,F,1914.0,Mary,8
+ TX ,F,1969.0,Jennifer,881
+ TX ,F,2004.0, Jordan ,7
+TX,M,1964.0,Robert,449
+TX,M,1933.0,Jennifer,136
+TX,M,1968.0,Patricia,69
+TX,M,,jennifer,19
+TX, F ,1992.0, Casey ,218
+ TX ,F,1986.0,Taylor,92
+TX,F,1966.0,Mary,147
+ TX , M ,1962.0,Taylor,634
+,M,2010.0,James,916
+TX,M,1987.0,Casey,362
+TX,M,1929.0,James,75
+,F,,Linda,78
+ TX ,F,1921.0,Alex,21
+TX,F,1958.0,Casey,191
+TX,F,2001.0,Jordan,183
+TX,F,,Casey,13
+ TX ,M,1977.0,Alex,427
+TX, M ,1968.0,John,11
+TX,M,1952.0,Casey,19
+TX,M,1930.0,Robert,509
+,M,2019.0,robert,13
+TX,M,1921.0, Alex ,22
+TX, F ,1942.0,Patricia,110
+TX,F,1967.0,Mary,843
+TX,,1945.0,Jordan,171
+TX,M,1913.0,John,17
+TX,F,1969.0,Casey,245
+TX,M,1972.0,Michael,255
+TX,M,2015.0,James,49
+TX, M ,1919.0,Michael,8
+,M,1970.0,Robert,538
+TX,F,2021.0,Linda,43
+TX,F,2021.0,Michael,152
+TX,M,1951.0,Taylor,715
+TX,F,,Patricia,166
+TX,M,1987.0,,80
+TX,M,1928.0,Casey,11
+TX,F,1919.0,Alex,21
+TX,F,1962.0,Jordan,9
+TX,M,1912.0,Robert,6
+TX,F,1982.0,Alex,699
+TX,M,1976.0,james,214
+TX,F,1962.0,Casey,114
+TX,M,1947.0,Alex,366
+TX,F,2009.0,Mary,183
+TX,F,1953.0,Patricia,389
+TX,F,1960.0,Mary,48
+TX,F,1958.0,,8
+TX,M,1917.0,James,114
+,M,1916.0,Alex,20
+TX,M,1928.0,Taylor,407
+TX,F,1941.0,Alex,7
+TX,F,1997.0, Alex ,59
+TX,M,1958.0,Michael,25
+,M,1959.0,Jordan,1009
+TX,M,1980.0,James,102
+TX,M,1948.0,Jennifer,22
+TX,M,1941.0,Casey,6
+TX,F,1927.0,Linda,30
+TX,M,1919.0,Robert,44
+TX,F,1942.0,Alex,517
+TX,F,2004.0,taylor,121
+TX,F,1966.0,Jordan,171
+TX,M,1998.0,Taylor,5
+ TX ,F,1956.0,Casey,78
+TX,F,1915.0,Alex,153
+TX,F,1932.0,Casey,848
+TX,F,1987.0,Patricia,542
+TX,M,2004.0,Alex,1241
+ TX ,M,1962.0,Alex,636
+TX,F,1923.0,jennifer,6
+,F,1952.0,Casey,76
+TX,F,1983.0,Taylor,477
+TX,M,,Jordan,12
+TX, F ,2009.0,Alex,592
+TX,M,1914.0,,44
+ TX ,,1969.0,Alex,76
+TX,F,1993.0,Mary,18
+TX,,2022.0,Alex,15
+TX,M,1992.0,James,841
+TX,F,1941.0,Mary,243
+,F,2013.0,Jordan,12
+TX,M,1999.0,john,33
+TX,M,1946.0,Jordan,23
+TX,F,1970.0,Linda,615
+TX,F,1943.0,Alex,302
+TX,,2005.0,Michael,142
+TX,M,1999.0,Taylor,
+TX,M,2017.0,John,189
+TX,F,2006.0, Patricia ,356
+TX,F,1998.0,Patricia,1552
+TX,M,1949.0,robert,44
+ TX ,F,2022.0,Patricia,283
+ TX ,M,2009.0,Linda,113
+TX,M,1972.0,,538
+TX,M,1981.0,Robert,225
+TX,M,, Robert ,5
+TX,F,1973.0,Jennifer,551
+ TX ,M,1956.0, Jordan ,154
+TX,F,1974.0, Alex ,
+TX,F,, Jennifer ,21
+TX,,, Jennifer ,49
+, F ,2020.0,Linda,31
+TX,F,1968.0,Jennifer,88
+TX,F,1963.0,Jordan,597
+TX,M,1940.0, Taylor ,196
+TX,M,,James,201
+TX,M,1978.0,Patricia,443
+TX,F,2014.0,Alex,72
+TX,F,1957.0,Alex,33
+TX,M,1940.0,Mary,24
+ TX ,M,1983.0,John,348
+TX,F,2014.0,Jordan,445
+TX,M,1952.0,Jordan,353
+TX,F,1923.0,Jordan,25
+ TX ,M,1947.0,,28
+,M,1915.0,James,18
+TX,M,1993.0,Jordan,12
+TX, M ,2013.0,Alex,353
+TX,M,1983.0,James,257
+TX,M,1955.0,Robert,113
+ TX ,M,1993.0,Alex,218
+TX,M,1938.0,Robert,432
+TX,M,1980.0,Alex,230
+TX,M,1971.0,Mary,193
+,F,1973.0,Casey,480
+TX,F,1925.0,Taylor,110
+TX,F,1915.0,Linda,24
+TX,F,1936.0,Patricia,
+TX,M,1949.0,James,159
+TX, M ,1989.0,Jordan,88
+TX,F,1943.0,Taylor,87
+TX,M,1954.0,John,49
+TX,F,2012.0,Linda,122
+TX,M,1997.0, Taylor ,73
+TX,F,1936.0,Taylor,29
+TX,F,1913.0,Patricia,96
+TX,M,1923.0,james,5
+TX,M,1945.0,Mary,110
+TX,F,1944.0,Taylor,118
+TX,F,1947.0,Alex,623
+TX,M,1982.0,Jordan,
+TX,M,1994.0,John,224
+TX,F,1968.0,Alex,
+TX,M,2015.0,John,318
+TX,F,1964.0,,376
+TX,M,1912.0,Jennifer,19
+TX,F,,Taylor,386
+TX,M,1983.0,Alex,296
+TX,F,,Jennifer,257
+TX, M ,,Robert,11
+TX,F,1959.0,Casey,348
+TX,F,2020.0,mary,26
+TX,M,1977.0,Robert,448
+TX, M ,1944.0,Taylor,90
+TX,M,1982.0,Casey,185
+,M,1916.0,Casey,51
+TX,F,1956.0,Patricia,8
+TX,M,1993.0,Jennifer,244
+TX,F,2007.0,Jordan,341
+TX,M,1992.0,Casey,74
+TX,M,1980.0,Michael,228
+TX,F,2014.0,patricia,72
+TX, F ,1990.0,Mary,744
+ TX ,F,1930.0,Mary,194
+TX,F,,Mary,78
+TX,M,1964.0,Jordan,188
+TX,F,1961.0,Mary,902
+TX,M,1974.0, Casey ,446
+TX,,1993.0,Taylor,106
+TX,M,2000.0,Jordan,306
+TX,F,2007.0,James,9
+TX,M,1990.0,Casey,571
+,M,1959.0,casey,308
+TX,F,2015.0,Taylor,255
+ TX ,,1961.0,Taylor,60
+TX,M,1956.0,Casey,831
+TX,F,1924.0,Linda,117
+TX,M,2017.0,Michael,5
+TX,F,1994.0,Patricia,322
+TX,F,2007.0,patricia,35
+TX,F,2019.0,Casey,31
+TX,F,1983.0,Jordan,310
+TX,F,,Taylor,35
+ TX ,F,1954.0,Mary,403
+TX,M,2019.0,James,12
+TX,F,2010.0,mary,168
+TX,M,1949.0,John,168
+TX,F,2011.0, Casey ,119
+,M,1988.0,Alex,125
+TX,F,2018.0,Jennifer,154
+TX,M,1941.0,Michael,28
+TX,F,1977.0,Robert,564
+TX, F ,1916.0,Casey,9
+TX,M,1957.0,Taylor,32
+ TX ,M,1986.0, Taylor ,132
+TX,F,2000.0,Linda,140
+TX,M,1989.0,Casey,564
+TX, M ,1994.0,Casey,1144
+ TX ,M,2014.0,John,24
+TX,F,2001.0,Mary,37
+TX,,1959.0,Alex,86
+TX,M,1918.0,James,64
+ TX , M ,1944.0,Robert,192
+TX,M,1967.0,Jordan,236
+TX,M,1981.0,Michael,152
+TX,M,2018.0,Michael,247
+TX,F,1966.0,Alex,70
+TX,M,1949.0,John,168
+,F,1985.0,Patricia,81
+TX,M,1990.0, James ,77
+TX,F,1967.0,casey,83
+TX,F,1912.0,Taylor,16
+TX,F,1910.0,Jennifer,48
+ TX ,F,1975.0,Mary,227
+ TX ,M,1974.0,John,6
+TX,M,2002.0,John,41
+TX,F,1929.0,,15
+ TX ,F,1991.0,Alex,113
+TX,M,1982.0,Taylor,732
+TX,F,1951.0,jennifer,
+TX, F ,2022.0,Jennifer,31
+TX,F,1987.0,Casey,159
+TX,M,2022.0,Casey,26
+TX,M,1912.0,Alex,7
+TX,F,1991.0, Linda ,
+TX,M,1991.0,Casey,1013
+TX,M,1956.0,Michael,43
+TX,M,2019.0,Taylor,89
+TX,F,1991.0,,185
+TX,M,1994.0,Michael,823
+ TX ,F,1955.0,Casey,550
+TX,M,1939.0,,25
+ TX ,M,2004.0,Jordan,311
+TX,M,1975.0,Taylor,40
+TX,F,2015.0,Jennifer,66
+TX,M,1957.0,Michael,102
+ TX ,F,1964.0,Casey,228
+TX,F,2015.0,Alex,5
+,F,1975.0,Michael,134
+,M,1918.0,Alex,64
+TX,M,1963.0,Taylor,471
+ TX ,M,2007.0,taylor,524
+TX,M,1994.0,Taylor,
+TX,F,1983.0,casey,647
+TX,M,,Michael,8
+TX,M,1934.0,John,8
+TX,M,1968.0,Michael,369
+TX,F,1983.0,Linda,551
+TX,M,1978.0,James,389
+TX,F,1964.0,Taylor,254
+TX,F,1920.0,Mary,7
+TX,F,1937.0,Linda,9
+TX,F,,Michael,348
+TX,M,2015.0,Jordan,67
+TX,F,2013.0,Alex,246
+TX,M,2017.0,Jordan,400
+TX, F ,,Jennifer,50
+TX,F,1971.0,Mary,168
+ TX ,M,1964.0,Alex,140
+TX, F ,1932.0,Patricia,126
+ TX ,F,1952.0, John ,324
+TX,M,1987.0,James,
+TX, M ,1967.0,Taylor,169
+,F,2013.0,James,40
+ TX ,F,1960.0,Robert,167
+TX,F,1926.0,Casey,44
+TX,F,1965.0,Taylor,472
+TX,M,2019.0,Michael,325
+ TX , F ,1956.0, Jennifer ,134
+TX,,2021.0,Jennifer,125
+TX,F,1976.0,Jennifer,30
+TX, F ,1990.0,Linda,440
+ TX ,M,1956.0,Taylor,392
+, M ,,Michael,8
+TX,F,1964.0,Mary,232
+TX, M ,1969.0,Michael,853
+TX,F,1976.0,Jordan,442
+TX,M,1939.0,Casey,144
+ TX ,F,1933.0,Jordan,74
+TX,F,1942.0,Jordan,14
+TX,M,,Casey,30
+TX,M,1960.0,Taylor,501
+TX,,1935.0,Casey,
+ TX ,M,2010.0,Jordan,48
+TX,F,1993.0,Jordan,666
+TX,M,1960.0,John,253
+TX,F,2012.0,Jordan,100
+TX,F,1979.0,Alex,277
+TX,F,1981.0,Jennifer,390
+TX,M,1956.0,,25
+TX,M,2005.0,John,5
+TX,F,1936.0,Patricia,
+TX,F,1990.0,Jordan,270
+TX,F,1981.0, Alex ,488
+TX, F ,2016.0,taylor,456
+TX,F,1986.0,Patricia,226
+TX,F,2005.0,Jennifer,31
+ TX ,F,2013.0,Taylor,143
+TX,M,,Robert,627
+TX,M,1945.0, Taylor ,24
+TX,M,1968.0,Casey,142
+TX, M ,1955.0,Jordan,152
+TX,M,1992.0,alex,56
+TX, F ,1981.0,linda,577
+TX,F,1928.0,Mary,25
+TX,F,1960.0,Jennifer,195
+TX,F,1989.0,Linda,361
+TX,M,1959.0,Taylor,17
+TX,M,1935.0,Taylor,53
+TX,M,1953.0,Alex,
+TX,M,1925.0,Patricia,10
+TX,M,1933.0,Robert,5
+TX,F,2015.0,Casey,9
+TX,M,1965.0, Robert ,259
+ TX ,M,1970.0,James,441
+TX,M,,James,143
+TX, F ,1970.0,Jordan,
+TX,,1966.0,Taylor,228
+TX,,1972.0,,110
+TX,M,1984.0,,33
+TX,M,1934.0,Robert,11
+TX,F,2005.0,Taylor,182
+TX, F ,1973.0,Alex,610
+TX,,1973.0, Jordan ,1151
+TX,F,1949.0,Patricia,300
+,M,1921.0,Michael,
+TX,F,1919.0,patricia,17
+TX,M,1926.0,Jordan,123
+TX,M,2007.0,John,49
+TX,M,1964.0,Taylor,253
+TX,F,1931.0,Mary,6
+TX,F,1986.0, Mary ,357
+TX,F,2016.0,casey,10
+TX,F,1939.0,Casey,96
+TX,,1963.0,Casey,324
+TX,M,1951.0,Robert,179
+TX,,1955.0,Patricia,20
+TX,F,2021.0,Taylor,7
+,M,1992.0,Robert,95
+TX,M,1944.0,Jordan,211
+TX,M,1971.0,John,
+TX,F,1959.0,,26
+,F,1997.0,Casey,37
+TX,M,1936.0,Taylor,344
+TX, F ,2015.0,Mary,280
+TX,M,1961.0,Robert,540
+TX,M,2012.0,James,7
+ TX ,F,2000.0,Alex,25
+TX,F,1987.0,Jennifer,457
+,F,1929.0,Jordan,32
+TX,M,1952.0,John,270
+TX,M,2013.0,John,7
+TX,M,1934.0,Michael,58
+TX,F,1957.0,Casey,47
+TX,M,1960.0,James,87
+TX, M ,,James,144
+TX,F,1920.0,John,207
+TX, M ,1984.0,casey,153
+TX, F ,1973.0,,283
+TX,M,1985.0,Robert,104
+TX,M,2003.0,Robert,228
+TX,F,2009.0,Casey,42
+TX,F,2006.0,Taylor,16
+TX,F,1968.0, Taylor ,498
+TX,F,1952.0,Alex,299
+TX,M,1948.0, Casey ,959
+TX,M,1983.0,Jennifer,446
+TX,F,1940.0,Jennifer,194
+TX,F,1983.0,Mary,40
+TX, F ,2016.0,Patricia,162
+TX,,1984.0,Patricia,200
+TX,M,1966.0,Jordan,497
+TX,M,2014.0,Jennifer,115
+TX,M,,Alex,35
+TX,M,1946.0,James,7
+TX,F,1969.0,Linda,466
+TX,,1986.0,Michael,462
+TX,F,1985.0,Casey,363
+TX,M,1999.0, James ,765
+TX,M,1993.0,John,109
+TX,,2022.0,Linda,146
+TX,F,1973.0,Linda,17
+TX,M,1950.0, Alex ,576
+TX, M ,1984.0, James ,139
+TX,,1956.0,Jordan,135
+TX,F,1934.0,Michael,36
+TX,F,1954.0,Jennifer,41
+TX,M,1986.0,Robert,156
+TX,M,1957.0,Robert,452
+TX,F,2004.0,Jennifer,57
+TX,M,1984.0,Robert,878
+TX,M,1933.0,,21
+TX,F,1950.0,Jennifer,8
+TX,M,1979.0,John,390
+TX,M,1945.0,John,381
+TX,F,1960.0, Jordan ,
+ TX ,F,1956.0,Linda,168
+TX,F,1915.0, Casey ,139
+TX,,2001.0,Casey,96
+TX,F,1921.0,Jordan,122
+TX,M,1921.0,Taylor,43
+TX,M,1967.0,John,463
+ TX ,M,1960.0,Alex,814
+TX,M,2000.0,James,132
+TX,F,1974.0,Mary,177
+TX,M,1939.0,Robert,
+TX,M,1955.0,Michael,417
+ TX ,F,1949.0,Casey,68
+TX, M ,1998.0,Robert,602
+TX,M,2014.0,Jordan,671
+TX, M ,1925.0,Casey,11
+TX,M,1985.0,Jordan,226
+TX,F,2008.0,Alex,93
+TX,M,2004.0,Linda,144
+,F,1992.0,Patricia,524
+TX,F,1987.0,Linda,
+TX, M ,1978.0,Michael,24
+TX,,1917.0, Jennifer ,7
+TX,F,1945.0,Mary,90
+TX, M ,1981.0,Jordan,45
+TX,M,1968.0, Alex ,244
+TX,F,1985.0,,538
+TX,F,,Patricia,485
+TX,F,1937.0,Alex,352
+TX,F,1998.0,Linda,7
+TX, F ,2011.0,Linda,
+TX,F,1944.0,Mary,396
+TX,F,2000.0,Taylor,356
+TX,M,1954.0,Robert,26
+TX, F ,1988.0,Linda,1030
+TX,M,1948.0,Robert,164
+TX,M,2017.0,John,189
+TX,M,1945.0, Taylor ,24
+TX,M,,Michael,
+TX,M,2016.0,Michael,559
+TX,M,1993.0,Casey,61
+TX,M,1917.0,robert,5
+ TX ,M,,Jordan,539
+TX,F,1926.0,,132
+TX,F,1919.0,Linda,43
+TX, F ,2012.0,casey,525
+TX,M,1968.0, Robert ,115
+TX,M,1970.0,Alex,70
+TX,F,1938.0, Jennifer ,35
+TX,M,1925.0, Alex ,32
+TX,M,1989.0, John ,216
+TX,F,1999.0,Linda,25
+,F,2017.0,Mary,46
+TX, F ,1989.0,Jordan,275
+TX,M,1967.0,James,387
+TX,F,1951.0,Patricia,233
+TX,F,1955.0,Taylor,141
+TX,M,2022.0,Jordan,49
+TX,M,1979.0,,511
+TX, F ,1937.0,Casey,29
+TX,M,1997.0,Jordan,37
+TX,F,1981.0,Jordan,832
+TX,F,2020.0, Casey ,446
+TX, F ,2004.0,linda,541
+TX,F,1980.0,Mary,82
+TX,M,1971.0,James,116
+ TX ,M,2000.0,John,105
+TX,M,2011.0, Casey ,103
+TX,F,1945.0,Patricia,27
+, F ,2012.0,,563
+TX,F,,Casey,90
+TX,F,2003.0,Jordan,30
+TX,M,2014.0, Michael ,9
+TX,M,1965.0,Alex,105
+TX,M,2016.0,John,295
+TX,M,1952.0,James,216
+TX,M,1945.0,Michael,7
+TX,F,1991.0,jordan,473
+TX,M,1964.0,Michael,616
+ TX ,M,1929.0,Alex,106
+TX,F,1973.0, Taylor ,
+TX,F,2010.0,Casey,290
+TX,F,1995.0,Taylor,434
+TX,M,1939.0,Michael,128
+TX,F,1976.0,Linda,629
+TX,F,1984.0,Jordan,606
+TX,M,1941.0,John,69
+TX,F,2017.0,,142
+ TX ,F,1957.0,Mary,71
+TX,F,2001.0,,163
+TX,F,2011.0,Alex,102
+TX,F,1957.0,Jordan,131
+TX,M,1943.0,Jordan,90
+TX,F,1983.0,Jennifer,49
+TX,M,2022.0,John,199
+ TX ,F,,Jordan,169
+,F,1965.0,Mary,138
+TX,M,1981.0,Alex,88
+TX,M,1985.0,James,107
+TX,M,1996.0,John,680
+TX,M,2015.0,Alex,602
+TX,F,2019.0,Taylor,97
+TX,F,1935.0,Jordan,472
+TX,F,1937.0,Jordan,24
+TX,M,1973.0, Taylor ,17
+TX,M,1975.0,Jordan,346
+ TX , M ,1935.0,,210
+TX,F,1991.0, Linda ,
+TX,F,2006.0,Casey,
+TX,F,2011.0,Jordan,20
+ TX ,M,2013.0,James,42
+TX,F,1934.0,Taylor,268
+,F,1974.0,Taylor,375
+TX,,1987.0,James,56
+ TX ,M,2018.0,Taylor,34
+TX,F,1971.0,,
+TX,F,1976.0,Taylor,193
+TX,M,1985.0,Casey,926
+ TX ,,1933.0,Jennifer,7
+TX,M,2016.0,Jordan,
+TX,F,1933.0,Mary,111
+TX, M ,1946.0,Michael,462
+TX,F,1946.0,Taylor,42
+TX, F ,2015.0,Linda,148
+TX,F,2005.0,Casey,751
+TX,F,1978.0,Linda,589
+TX,F,1979.0,Patricia,163
+TX,F,2022.0, Taylor ,84
+TX, M ,1978.0,Jordan,
+TX,,1970.0,Taylor,218
+TX,F,2010.0,Taylor,98
+ TX ,M,1950.0,Jordan,221
+TX,M,1966.0,Casey,409
+TX, M ,,Michael,192
+TX,M,2018.0,Alex,87
+,M,2006.0,James,97
+TX, M ,1953.0,Michael,234
+ TX ,F,1963.0,Taylor,1053
+TX,F,1961.0,Linda,55
+TX,M,2000.0,alex,
+,F,1985.0,Taylor,284
+TX,,1977.0,John,273
+TX,M,1963.0,Michael,183
+TX,M,1997.0, Taylor ,73
+TX,F,2004.0,Alex,833
+TX,M,2008.0,John,21
+TX,,2007.0,Michael,476
+TX, F ,1980.0,Alex,177
+TX,F,2000.0,Jordan,120
+TX,M,1968.0,James,159
+TX,M,1938.0,Alex,9
+TX,F,1940.0,Linda,15
+,M,1956.0,robert,37
+TX,M,1944.0,Casey,115
+TX,,1944.0,Alex,9
+,F,1936.0,Linda,20
+TX,M,1970.0,Michael,141
+TX,F,1993.0,Alex,52
+TX,F,1963.0,Patricia,144
+TX,F,1994.0,Taylor,483
+TX,F,1982.0,Jennifer,620
+,M,2008.0,Jordan,14
+TX,F,2019.0,Patricia,253
+TX,M,1972.0,,234
+ TX ,M,1964.0,Jennifer,275
+TX,M,1967.0,Casey,
+TX,F,1984.0,Mary,685
+TX,F,1954.0,Patricia,156
+TX,F,1945.0,Linda,74
+TX,F,1911.0,Alex,160
+TX,M,1984.0, Alex ,301
+TX,,1952.0,Michael,893
+TX,F,2018.0,jordan,40
+TX,F,2006.0,Linda,103
+, M ,1966.0,Robert,479
+TX,F,2011.0,Taylor,658
+TX,F,1967.0,Patricia,157
+TX,F,1966.0,Taylor,247
+TX, M ,1941.0,Robert,1008
+ TX ,F,1980.0,Casey,68
+TX,M,1932.0,Taylor,5
+TX,F,1958.0,,
+TX,F,1986.0,Jennifer,224
+TX,F,1933.0,Patricia,295
+TX,M,1981.0,Taylor,8
+TX,F,1974.0,,926
+TX,F,1975.0,Casey,926
+TX,M,1929.0,Jordan,57
+TX,F,1997.0,Jennifer,520
+TX, F ,1942.0,Mary,290
+TX,M,,,700
+TX,M,2019.0,John,13
+ TX ,M,2021.0,Alex,
+TX, F ,1923.0,Mary,19
+TX,M,1997.0,James,748
+TX,F,2018.0,Mary,446
+TX,M,2020.0,Jordan,19
+TX,M,1988.0,Taylor,139
+TX,M,2001.0,Casey,487
+TX,F,1940.0,Alex,183
+TX,M,1923.0,Casey,150
+ TX ,M,1947.0,Mary,10
+TX,M,1926.0,Robert,124
+TX,M,1985.0,Alex,387
+TX,M,1985.0,,261
+TX,F,1952.0,Patricia,
+TX, M ,1938.0,Jordan,209
+TX,F,1962.0,patricia,31
+TX,M,1957.0,Alex,77
+ TX ,M,1913.0,Casey,43
+TX,M,2006.0,Jordan,51
+TX,M,1971.0,Jordan,135
+TX,F,1990.0,Jennifer,159
+ TX ,M,1972.0,,403
+TX,F,1938.0,Casey,105
+TX,M,2009.0,James,1011
+TX,F,1989.0,casey,57
+TX,F,1998.0,Mary,534
+,M,1953.0,Taylor,18
+,M,2021.0,,235
+ TX ,M,1951.0,James,71
+,F,,Casey,23
+,M,1969.0,James,376
+TX, F ,1970.0,Jennifer,552
+ TX ,F,1948.0,Taylor,254
+TX,M,1936.0,Robert,8
+TX,M,1964.0,Casey,115
+TX,F,1996.0,Taylor,118
+ TX ,M,2015.0,Robert,79
+TX,F,1990.0,John,351
+TX,M,2016.0,James,11
+TX,F,1987.0, Taylor ,69
+TX,M,1918.0,casey,51
+TX,M,1937.0,Jordan,12
+TX,M,1961.0,john,90
+,F,,Patricia,702
+TX,M,2013.0,Casey,65
+TX,F,1985.0,Linda,214
+TX,M,2006.0,Robert,277
+TX,M,2010.0,Robert,396
+TX,F,1915.0,Jennifer,9
+TX,F,,Casey,385
+TX,M,1969.0,Casey,204
+TX,M,1929.0,James,75
+TX, F ,1919.0,Mary,6
+TX,M,1947.0,Taylor,41
+TX,F,1920.0,Linda,83
+TX,M,1971.0,Robert,122
+TX,F,1959.0,Linda,233
+TX,F,2003.0,Casey,53
+TX, M ,1948.0,Jordan,7
+TX,F,1999.0,Mary,1377
+ TX , M ,1958.0,Casey,303
+ TX , M ,2011.0,John,9
+TX,F,1977.0,Jennifer,129
+TX,M,2014.0,Taylor,764
+TX,F,1992.0,Jordan,695
+TX,M,2016.0,Casey,79
+TX, M ,2003.0,,41
+TX,M,1946.0,jennifer,30
+TX,M,2003.0,Casey,270
+TX,M,2012.0,John,27
+TX,M,,Michael,33
+TX,F,1923.0,Patricia,218
+TX,F,1991.0,Taylor,229
+TX,F,1938.0,Jordan,47
+TX,F,1919.0,Jordan,18
+TX,M,1987.0,Jordan,461
+ TX ,M,2017.0, James ,556
+TX,F,1967.0,Jordan,19
+TX,F,1949.0,Mary,21
+TX,M,1990.0,John,164
+,M,1998.0,Alex,562
+TX,M,1991.0,Robert,858
+TX,F,1965.0,jordan,825
+TX,F,1967.0,Alex,313
+ TX ,M,1931.0,Alex,89
+TX,M,2002.0,Mary,246
+TX,M,1937.0, Casey ,52
+ TX ,F,1949.0,Jordan,758
+TX,F,2022.0,Jordan,7
+TX,F,1934.0,Patricia,5
+TX,F,1912.0,Jordan,132
+TX,M,1996.0,Taylor,29
+TX, F ,2017.0,Taylor,214
+TX,M,1996.0,Robert,99
+TX,F,2008.0,Jennifer,133
+TX,M,2001.0,Patricia,
+TX,F,2005.0,Linda,491
+TX,,,Mary,660
+TX,F,1984.0,Linda,648
+TX,M,2010.0,Taylor,564
+,,1930.0,Michael,206
+TX,M,1970.0,Jordan,164
+TX,F,1914.0,Casey,
+ TX ,F,1943.0,Casey,117
+TX,M,1987.0,Robert,92
+TX,F,,Jordan,8
+TX,F,2021.0,,14
+TX,,1963.0,John,485
+TX, M ,1939.0, Jordan ,401
+TX, F ,1947.0,Mary,40
+TX,F,1967.0,Linda,542
+TX,F,,Jennifer,82
+TX,F,1928.0,Jennifer,9
+TX,F,1986.0,Casey,324
+TX,M,1940.0,Jordan,123
+TX, M ,1910.0,Jennifer,78
+TX,F,1955.0,mary,60
+ TX ,M,,taylor,15
+ TX ,M,1922.0,John,188
+TX,M,1945.0,James,140
+TX,M,1986.0,Alex,683
+TX,M,1926.0,Patricia,31
+TX,M,1961.0,Michael,132
+TX, M ,,,425
+TX,M,1983.0,Michael,61
+TX,,1937.0,Patricia,370
+TX,F,1953.0,Casey,
+TX,F,1954.0,Alex,390
+TX,F,1986.0,Alex,81
+TX,F,1947.0,,871
+TX,F,2002.0,Casey,457
+TX,M,1970.0, Casey ,231
+TX,M,1954.0,James,347
+TX,F,1986.0,Jordan,
+TX,M,2018.0,Jordan,6
+TX,M,1937.0,,32
+TX,F,1938.0,Mary,130
+TX,F,1924.0,mary,7
+TX,F,1999.0,James,16
+TX,M,1942.0,Jordan,65
+TX,F,1978.0,Alex,933
+TX,F,2016.0,Mary,48
+TX,M,1976.0,Jordan,243
+TX,M,1952.0,Alex,264
+TX,F,1994.0,Jennifer,19
+ TX ,M,1956.0,Taylor,392
+TX,,1981.0,John,567
+TX,F,1989.0,mary,22
+TX,M,1965.0,John,779
+TX,M,1977.0,casey,380
+TX,F,1952.0,Jennifer,240
+TX,M,2000.0,Robert,75
+ TX ,M,1954.0,Michael,282
+TX,F,1981.0,Mary,548
+TX,M,2004.0,Robert,143
+TX,M,1995.0,James,584
+TX,M,1964.0,Patricia,296
+TX,F,1977.0,Jordan,113
+TX,M,1992.0,Jordan,289
+TX,F,1963.0,Jennifer,50
+TX,M,2005.0,Jordan,67
+TX,M,1969.0,John,160
+TX,M,1917.0,John,11
+TX,F,2002.0,Patricia,29
+TX,,1989.0,Jennifer,45
+TX,M,2001.0,James,20
+TX,M,1936.0,Jordan,51
+,F,2002.0,Taylor,451
+TX,F,1984.0,Jennifer,36
+TX,M,1961.0,Taylor,581
+TX,F,2003.0,,245
+TX,F,1957.0,Taylor,28
+TX,M,1937.0,Alex,7
+ TX ,M,1981.0,Jennifer,206
+TX,F,1962.0,mary,51
+TX,M,2008.0,James,36
+TX,F,2010.0,Linda,10
+TX,M,1993.0,Taylor,523
+TX,M,1992.0, John ,409
+TX,F,2013.0,Linda,15
+TX,F,1923.0,Casey,10
+TX,F,1978.0, Casey ,235
+TX,M,1928.0,John,
+TX, F ,1978.0,Taylor,403
+TX,F,1996.0,,175
+TX,M,1974.0,Alex,617
+ TX ,F,1915.0,Jordan,5
+TX,F,1941.0,Patricia,36
+TX,F,1946.0,Casey,73
+TX,F,,Mary,936
+TX,F,1940.0, Jordan ,131
+TX,F,2001.0,Robert,154
+TX,F,1983.0, Alex ,35
+ TX ,M,1922.0,Robert,320
+TX, M ,1968.0,John,11
+TX,M,,James,112
+TX,M,1951.0,Casey,752
+TX,F,1952.0,Linda,
+TX,M,1990.0,Jordan,87
+TX,M,1982.0,James,66
+TX,F,,Jordan,391
+, M ,1967.0,Jennifer,238
+TX,F,1953.0,Linda,16
+TX,F,1987.0,Jordan,341
+TX,F,1944.0,Casey,22
+TX, F ,2005.0, Jordan ,199
+,F,1968.0,Linda,89
+TX,F,1972.0,Taylor,252
+TX, M ,1989.0,Alex,675
+TX,F,,Patricia,609
+TX,F,1929.0,Patricia,8
+TX,,2007.0,Casey,46
+ TX ,F,1927.0,Mary,47
+TX,F,1920.0,Robert,20
+TX,F,2001.0,,108
+TX,M,1920.0,Robert,79
+TX,M,1987.0,Taylor,324
+TX,F,2018.0,,
+,M,2000.0,Casey,273
+TX,F,1996.0,Jordan,70
+TX, F ,1999.0,Alex,552
+TX, F ,,jennifer,101
+TX,F,1954.0,casey,646
+TX,F,, Taylor ,6
+TX, M ,2006.0,Michael,213
+TX, F ,2014.0,Taylor,45
+TX, M ,1975.0, John ,447
+TX,F,2007.0,,8
+TX, M ,1963.0,James,476
+TX,F,2014.0,Casey,345
+TX, M ,2011.0,Michael,24
+TX,M,1995.0,Michael,134
+TX,F,1999.0,,
+ TX , F ,1939.0,Taylor,22
+TX,,, Jennifer ,49
+ TX ,M,1976.0,Casey,558
+TX,F,1967.0,Taylor,300
+TX,F,1942.0,Casey,44
+TX,F,1951.0,Mary,160
+TX,F,1935.0,Mary,7
+TX,M,2018.0,Casey,196
+TX,F,1918.0,Mary,12
+TX,M,1956.0, John ,270
+TX, M ,2012.0,Alex,1208
+TX,F,2005.0,Patricia,213
+TX,F,2008.0,Mary,12
+TX,M,1937.0,Michael,53
+ TX ,F,1992.0,Taylor,663
+TX,F,1963.0,casey,885
+TX,M,,Michael,110
+TX,F,1976.0,Casey,200
+ TX ,M,1976.0,John,640
+TX,M,,Alex,848
+ TX ,,1976.0,Alex,572
+TX,M,1991.0,Michael,562
+TX,M,,Alex,58
+TX,F,1934.0,Alex,259
+,M,1999.0,jennifer,68
+TX,F,2003.0,Linda,18
+TX,,1965.0,Patricia,137
+TX,F,1951.0,Taylor,80
+TX,M,2011.0, Taylor ,745
+TX,,1983.0,Robert,637
+TX, M ,2002.0,James,772
+TX,F,1995.0,Alex,132
+TX,F,1981.0,Taylor,289
+,,2017.0,John,213
+TX,F,, Casey ,602
+TX,F,2019.0,Linda,468
+TX,,1983.0,Patricia,96
+TX,F,1996.0,Alex,21
+TX,,,Taylor,180
+TX,M,1935.0,Robert,463
+TX,M,1941.0,James,43
+,M,1912.0,Jordan,9
+TX,M,2009.0,Casey,30
+TX,M,1923.0, John ,14
+TX,M,1947.0,Robert,11
+TX,F,1971.0,Casey,218
+TX,F,1934.0,casey,9
+TX,M,1982.0,Michael,33
+TX, M ,1958.0,John,303
+TX,F,1971.0,Alex,108
+TX,M,1994.0,Robert,226
+TX,M,1953.0, John ,727
+TX,F,1949.0,Linda,
+TX,F,1988.0,Jordan,110
+TX,M,1992.0,Michael,592
+TX, M ,1974.0, James ,
+TX,F,2011.0,Jennifer,44
+TX,F,1962.0,Casey,114
+TX,M,2007.0,Alex,580
+TX,F,1980.0,Patricia,572
+ TX ,M,1998.0,Casey,1169
+TX,F,,Linda,17
+TX,F,1913.0,Jordan,24
+TX,F,1931.0,Jordan,
+TX,M,1996.0,Michael,
+TX,M,2006.0,Casey,274
+TX,M,1930.0,,222
+TX,F,1961.0,Casey,44
+TX,F,1956.0,Taylor,228
+TX,F,1999.0,Casey,7
+TX,M,1975.0,James,173
+TX, M ,1957.0,John,572
+ TX ,F,1972.0,Mary,563
+TX,M,1918.0,Michael,5
+TX,F,1957.0,Linda,348
+TX,M,1980.0,Jordan,986
+TX,F,1979.0,Jennifer,468
+TX, F ,2000.0,Patricia,40
+TX, M ,1942.0,Alex,116
+TX,,1930.0,Michael,35
+TX,M,1955.0,Taylor,309
+TX,M,1948.0,John,651
+ TX ,,1923.0,Alex,10
+TX,F,1980.0,jennifer,64
+TX,M,1974.0,Jordan,184
+TX,F,1970.0,James,125
+TX,F,1979.0,Jordan,283
+TX,M,1965.0,James,47
+TX,,1979.0,Mary,772
+TX,F,1945.0,Casey,12
+TX,F,1927.0,Alex,365
+TX, F ,2001.0,Linda,81
+TX,F,1965.0,Casey,325
+TX,F,2002.0,Alex,21
+TX,M,2005.0,Taylor,294
+TX,M,,Michael,34
+TX,M,1991.0,Taylor,178
+TX, M ,1989.0,James,241
+TX,M,,Michael,5
+TX,F,1988.0,Jennifer,95
+TX,F,1975.0,Patricia,108
+TX,F,1977.0,Casey,504
+TX,F,1955.0,Linda,19
+TX,M,2011.0,Robert,198
+TX,M,2001.0,John,89
+TX,M,1961.0,Casey,835
+TX, M ,2005.0,Alex,459
+,F,2006.0,Jordan,749
+TX,F,1990.0,Taylor,450
+TX,M,1955.0,John,91
+TX,M,1982.0,John,704
+TX,F,2003.0,Taylor,356
+TX,F,1947.0,Jennifer,300
+TX,F,,Casey,13
+TX,F,1950.0,Linda,557
+TX,M,1981.0,Taylor,8
+TX,M,1984.0,Taylor,5
+TX,F,2009.0,Linda,92
+TX,M,1979.0,Jordan,257
+TX,F,1985.0,John,445
+TX,F,1980.0,taylor,191
+TX,F,1930.0,Alex,5
+TX,F,1957.0,Jennifer,98
+TX,M,1932.0,James,
+TX,M,1986.0,James,182
+TX,M,1984.0,John,1216
+TX,M,2005.0,Jordan,67
+TX,F,2015.0,Jennifer,66
+TX,F,1969.0, Patricia ,170
+TX,F,1998.0,Jordan,110
+TX,M,1971.0,James,116
+TX,M,1938.0,Casey,65
+ TX ,M,,robert,20
+TX,F,2022.0,Alex,48
+TX,M,1936.0,Alex,6
+TX,F,1942.0, Linda ,
+TX,F,1953.0,Mary,187
+TX,M,1963.0,jordan,726
+TX,F,,Jordan,613
+TX,M,1955.0, Alex ,55
+TX,F,1968.0,Patricia,1039
+TX,F,2008.0,Taylor,
+TX,F,2001.0, Alex ,69
+TX,M,1967.0,Michael,24
+TX,F,1946.0,Linda,104
+TX,M,1976.0,Michael,200
+TX,,,Taylor,180
+TX,M,1986.0,John,473
+TX,F,,Jennifer,1070
+ TX ,F,2010.0,Jennifer,297
+TX,F,1976.0,Mary,179
+TX, M ,1967.0,Mary,121
+TX, M ,1950.0,Michael,76
+TX,M,1929.0,John,420
+ TX ,M,1998.0,John,214
+TX,M,1955.0,Casey,68
+TX,M,1958.0,Robert,99
+TX,M,1977.0,Taylor,1164
+TX,F,1925.0,Linda,23
+TX,F,2018.0,Casey,9
+TX,F,,Jordan,462
+TX,F,1972.0,Alex,81
+TX,F,1978.0,Jordan,427
+TX,,2004.0,Mary,37
+ TX ,F,2020.0,Jennifer,108
+,M,1953.0,,225
+TX, M ,1947.0,James,794
+TX,M,1968.0,,918
+TX,M,1965.0,Michael,147
+ TX ,F,1921.0,Alex,21
+ TX ,F,1926.0,Mary,77
+,M,1918.0,Patricia,38
+TX,F,2010.0,Jordan,21
+TX,F,1955.0,Jordan,779
+TX,M,1962.0,John,30
+TX,,2009.0,John,7
+TX,M,1995.0,Robert,200
+TX, M ,1946.0,Taylor,547
+ TX , M ,1943.0,taylor,251
+TX,F,1997.0,Patricia,806
+TX, M ,1948.0,Michael,1012
+TX,M,1977.0, Jordan ,311
+TX,F,2012.0,Alex,688
+TX, M ,2002.0,Jordan,590
+ TX ,F,1951.0,Casey,297
+TX,F,1994.0,Casey,1186
+TX,F,1994.0,Jordan,18
+TX,M,2004.0,John,21
+TX,F,1946.0,Jordan,9
+TX,F,2009.0,Jordan,710
+TX,F,1927.0,Patricia,42
+TX, F ,1980.0,Jordan,661
+TX,M,2010.0,John,445
+,M,1915.0,James,18
+TX,M,2017.0,Alex,86
+TX,F,1955.0, Alex ,83
+TX,M,1959.0,John,129
+TX, F ,2000.0,Jennifer,43
+TX,M,2017.0,Taylor,57
+TX,M,1975.0,Alex,363
+TX,M,1990.0,robert,221
+TX,F,1958.0,Alex,
+TX,F,2011.0,Mary,678
+TX, M ,1916.0,John,27
+TX,F,,Patricia,601
+TX,F,1988.0,Alex,277
+TX,M,1955.0,James,227
+ TX ,M,,Alex,144
+TX,M,1914.0,Robert,
+TX,F,,Patricia,63
+TX,M,1991.0,James,667
+TX,M,2009.0,Casey,30
+TX,M,1956.0,Alex,90
+TX, M ,2007.0,Robert,188
+TX,M,1927.0,,33
+TX,M,2010.0,linda,272
+TX,F,,Mary,512
+ TX ,M,1962.0,Jordan,108
+TX,F,1993.0,patricia,65
+TX,F,1953.0,Jordan,240
+TX,M,1988.0, Jordan ,225
+TX,F,1968.0,Mary,81
+TX,F,1920.0,Casey,99
+TX, F ,2017.0,Jordan,50
+TX,M,2002.0,taylor,47
+TX,,1973.0,Alex,171
+TX,M,1985.0,Michael,173

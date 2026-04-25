@@ -1,0 +1,1691 @@
+State,Sex,Year,Name,Count
+AR,M,1926.0,Robert,104
+AR,F,1922.0,James,154
+AR,M,1927.0,Mary,16
+AR,F,1991.0,Alex,694
+AR,M,1980.0,Taylor,386
+AR,F,1969.0,Jennifer,206
+AR,F,1920.0,Patricia,322
+AR,,1922.0,Alex,
+AR,F,2011.0,Casey,617
+AR,M,1962.0,Casey,648
+AR,,2003.0,Patricia,55
+AR,F,1973.0,jennifer,506
+AR,M,1956.0,,43
+AR,F,1974.0,jennifer,955
+AR,F,2010.0,Jennifer,104
+AR,M,2016.0,,69
+AR,F,2018.0,jordan,354
+AR,F,1975.0, Patricia ,249
+AR,F,1930.0,Patricia,98
+AR,M,1977.0,Michael,571
+AR,F,1994.0,Patricia,408
+AR,F,2013.0,,18
+AR,M,1945.0,Jordan,479
+AR,M,2003.0,Jordan,
+AR,,1984.0,Casey,623
+AR,M,1959.0,,18
+ AR ,M,1952.0,John,28
+AR,F,1965.0,Mary,39
+AR,F,1928.0,Jennifer,279
+AR,F,1989.0,Taylor,110
+AR,M,2018.0,Robert,340
+AR,F,1953.0,Mary,457
+AR,M,,John,63
+AR,M,1959.0,James,869
+AR,M,1922.0,James,51
+AR,F,1975.0,Taylor,154
+AR, F ,2018.0,Patricia,390
+AR,M,1980.0,,476
+AR,M,1997.0,Casey,161
+AR,M,1939.0,Jordan,70
+AR,M,1932.0, Casey ,167
+ AR ,M,1943.0,Michael,149
+AR,F,1989.0,Michael,256
+AR,M,1977.0,John,263
+,,2020.0,,10
+AR,F,1936.0,Mary,13
+AR,F,1922.0,Casey,36
+AR,F,2006.0,,
+AR,M,1984.0,Robert,726
+AR,F,2016.0,Jordan,88
+AR,M,2016.0,Jordan,201
+AR,,1960.0,Alex,
+,M,1996.0,John,11
+AR,F,1985.0,Jordan,219
+AR,F,2000.0,Mary,
+AR,F,1948.0,,384
+ AR ,M,1974.0,Alex,36
+AR,M,1989.0,,422
+AR, F ,1933.0,,7
+AR, M ,1940.0,Casey,34
+AR,F,2009.0,Casey,89
+AR,M,2015.0,Jordan,7
+AR,M,2004.0,Mary,645
+AR,M,2001.0,Michael,23
+AR,F,2003.0,Linda,9
+AR,F,1943.0,,131
+AR,F,1980.0,Jennifer,168
+AR, F ,2012.0,Taylor,647
+AR,F,1947.0,Mary,160
+AR,F,1977.0,Jennifer,768
+AR,F,1922.0,Jordan,35
+AR,,2022.0,Alex,44
+AR,F,1924.0,Mary,43
+AR,F,1983.0,alex,
+AR,M,1969.0,Robert,468
+AR,M,2011.0,John,558
+AR,M,1964.0,Jordan,29
+AR,,1985.0,John,268
+AR,F,1934.0,Alex,
+AR,M,1948.0,James,
+,F,,Taylor,23
+AR,F,2003.0,Alex,189
+AR, M ,2002.0,James,108
+AR,M,1971.0,Linda,
+AR,F,1960.0,Casey,42
+AR,F,1980.0,Alex,459
+AR, M ,1920.0,James,108
+AR,M,2000.0,Casey,166
+AR,F,1966.0,Linda,10
+AR,F,,Michael,21
+ AR ,M,1977.0,Taylor,555
+AR,F,1911.0,Jordan,10
+AR,M,1935.0,James,70
+AR,M,1958.0,James,663
+AR,M,1917.0,Michael,88
+AR, M ,1984.0,Jordan,286
+AR,F,1957.0,Jordan,80
+AR,M,2008.0,Michael,348
+AR,F,1997.0,Alex,801
+AR,M,1915.0,Robert,8
+AR,M,1994.0,James,442
+AR, M ,1944.0,Alex,21
+AR,F,1966.0,Jordan,364
+AR,F,1913.0,Mary,44
+AR,M,1926.0,Jordan,102
+,F,1990.0,Patricia,520
+AR,,1978.0,Alex,264
+ AR ,M,1986.0,John,268
+AR,M,1927.0,James,14
+AR,F,,Alex,468
+AR,M,1958.0,Mary,189
+,M,1969.0,James,356
+AR,F,1936.0,Jennifer,
+AR,M,1993.0, Taylor ,68
+AR,M,1997.0, Alex ,56
+AR,M,1962.0,Jordan,591
+AR,F,1996.0,Patricia,467
+AR,F,1935.0,Alex,107
+AR,F,2008.0,Jennifer,65
+AR, F ,,Mary,55
+AR, M ,1994.0,Michael,831
+AR,M,1966.0,Mary,627
+AR, M ,2001.0,,99
+AR,M,1995.0,James,239
+AR,M,2002.0,Michael,501
+AR,M,2019.0,Robert,59
+AR,F,1988.0,Alex,106
+AR,M,1947.0,John,61
+AR,M,1921.0,John,10
+AR,F,1958.0,Taylor,334
+AR,F,1979.0,Casey,647
+AR,F,2006.0,Taylor,336
+AR,M,,Taylor,222
+ AR ,F,1947.0,Patricia,310
+AR,M,1990.0,Robert,96
+ AR ,M,1982.0,taylor,455
+AR,M,1988.0,Casey,83
+AR,M,,John,383
+AR, F ,1954.0,Jennifer,538
+ AR ,M,1949.0,Jordan,180
+AR,F,1946.0,Casey,
+AR,,1951.0,Taylor,10
+AR,F,1930.0,Jennifer,
+AR,M,2013.0,John,936
+AR,F,1955.0,Jordan,80
+ AR ,F,1916.0,Jordan,5
+ AR ,F,1982.0, Taylor ,74
+AR,M,1938.0,robert,96
+AR,F,2016.0,Alex,9
+AR,M,2012.0,Alex,
+AR, F ,1972.0,James,1219
+AR,F,1944.0,taylor,528
+AR,F,1955.0,Mary,584
+AR, M ,1929.0,John,
+AR,M,1996.0,Jordan,200
+AR,F,2001.0,Patricia,656
+ AR ,F,,Jennifer,451
+AR,F,1965.0,Casey,679
+AR,F,1927.0,Linda,159
+AR,M,1944.0,Robert,535
+AR,M,1961.0,Robert,191
+AR,F,1915.0, Mary ,21
+AR,,1915.0,Casey,
+ AR ,M,1970.0,Jordan,50
+AR,F,1978.0,Jennifer,692
+AR, M ,1920.0,,77
+AR,,1919.0,Alex,11
+AR,F,1955.0,Jennifer,113
+AR,M,1986.0,Alex,
+AR,F,1927.0,Alex,
+AR,M,2008.0,Taylor,141
+AR,F,2012.0,Patricia,54
+AR,F,2004.0,Linda,738
+ AR ,F,1934.0,Taylor,29
+ AR ,F,1960.0,,505
+AR,F,1998.0,Alex,70
+AR,M,1928.0,James,101
+ AR ,M,,Casey,30
+ AR , F ,1958.0,James,665
+ AR ,F,1986.0,patricia,608
+AR, M ,1966.0,Robert,144
+AR,,, Robert ,255
+AR,F,1988.0,Patricia,125
+AR,,1997.0,Casey,38
+AR, M ,1930.0,,5
+AR,M,1961.0,Casey,529
+AR, M ,2015.0,James,181
+AR,M,1966.0,John,404
+AR,M,1981.0,James,
+AR,M,1993.0,John,178
+AR,M,1926.0,Casey,9
+AR,M,2015.0,Alex,210
+AR,,1987.0,Taylor,392
+AR,F,1938.0,Linda,10
+AR,F,1983.0,Taylor,506
+AR,M,1987.0,Jordan,49
+AR,F,,,14
+AR,M,1934.0,Alex,18
+AR,M,2000.0,Robert,271
+AR, M ,2007.0,,280
+AR,M,1948.0,Casey,27
+AR,M,1918.0,Jordan,8
+AR, M ,1996.0,James,813
+AR,M,1969.0,Jordan,196
+AR,M,1927.0,John,27
+ AR , F ,1933.0,linda,149
+AR,M,1944.0,michael,472
+ AR , M ,1948.0,John,
+,M,1963.0,John,586
+AR,M,2015.0,Michael,147
+,,1962.0,James,536
+AR,F,1935.0,Mary,20
+AR,M,1935.0,Robert,279
+AR,M,1953.0,Jordan,938
+AR,F,2010.0,Taylor,
+AR,F,1941.0,Jordan,14
+AR,F,2009.0,Alex,
+AR,F,1923.0,Jordan,8
+AR,M,2016.0,James,9
+AR,M,1940.0,James,17
+AR,M,1950.0,John,227
+AR, F ,1969.0,Linda,52
+AR,M,1975.0,James,775
+AR,F,2020.0,Alex,12
+AR,F,1925.0,Alex,13
+AR,F,1936.0,jordan,245
+AR,F,1972.0, Alex ,402
+AR,M,2007.0,Alex,564
+AR,F,1981.0,Jordan,887
+ AR ,F,1958.0,Jordan,222
+AR,F,1980.0,Mary,199
+AR,M,1955.0, Taylor ,182
+AR,F,1990.0,Linda,211
+AR,F,1949.0,linda,67
+ AR , F ,,Taylor,245
+AR,M,2016.0,James,9
+AR,M,2002.0,John,104
+AR,M,1957.0,Alex,772
+AR, M ,2005.0,Taylor,368
+AR,M,1984.0,,655
+AR,F,1937.0,Casey,372
+AR,,1967.0,Robert,59
+AR,M,2011.0,Robert,288
+AR,M,1976.0,Jennifer,236
+AR,F,1967.0,Jennifer,218
+AR,F,1996.0,,741
+AR,M,1970.0,John,202
+AR,F,2006.0,Alex,173
+ AR ,F,1986.0,Taylor,591
+AR,F,1955.0, Patricia ,
+ AR ,M,2007.0, Casey ,339
+AR,M,1956.0,Robert,902
+AR,F,1920.0,mary,50
+AR,F,1999.0,Casey,32
+AR,F,1985.0,Casey,192
+AR,M,2002.0,Robert,186
+AR,M,,Robert,1253
+ AR , F ,1983.0,,150
+AR,M,1986.0,,224
+,M,1981.0,Robert,20
+AR,F,,Jordan,
+AR,F,2011.0,Alex,262
+AR,F,1949.0,John,1086
+AR,M,1924.0,,36
+AR, M ,1947.0,Casey,10
+AR,M,1965.0,Robert,975
+AR,F,1976.0,Taylor,189
+AR,F,1934.0,Jordan,96
+AR,M,1935.0,Patricia,84
+ AR ,M,2002.0,Alex,30
+AR,M,1981.0,Jordan,186
+AR,F,1928.0,Alex,62
+ AR ,M,1999.0,Casey,513
+AR,F,1920.0,taylor,7
+AR,F,1942.0,taylor,63
+AR,M,1967.0,James,505
+AR,F,2007.0,Alex,
+AR, M ,2000.0,Alex,1115
+AR,F,2017.0,Mary,209
+AR,,1991.0,Taylor,371
+ AR ,F,1939.0,Alex,16
+AR, F ,1912.0, Alex ,23
+,M,1997.0,Jordan,261
+AR, F ,1967.0,Patricia,390
+AR,F,1994.0,Casey,76
+ AR ,M,1957.0,Taylor,199
+AR,F,1938.0,Patricia,609
+AR,M,1943.0,John,190
+ AR ,M,1986.0,Michael,315
+AR,M,1988.0,James,346
+AR, M ,1949.0,,157
+ AR ,F,1990.0,,
+,M,2001.0,Taylor,
+AR,F,1965.0,alex,206
+AR,M,1972.0,Alex,1048
+AR,M,1942.0,Taylor,34
+AR,M,1965.0,michael,289
+AR,M,1977.0,Jordan,328
+AR,M,,,283
+AR,F,1985.0,Patricia,40
+AR,F,1969.0,Patricia,68
+AR,M,1938.0,Casey,421
+AR,F,1914.0,Jordan,12
+ AR ,M,2019.0,James,652
+AR,M,1943.0,Taylor,180
+AR,M,1964.0,James,305
+ AR ,M,2010.0,Alex,
+AR,M,1978.0,Michael,192
+AR,F,1990.0,Jordan,804
+AR, M ,,,574
+AR,F,1988.0,Jennifer,910
+AR,F,1986.0,Casey,41
+AR,M,2007.0,John,16
+AR,F,1919.0,Linda,83
+AR, M ,2021.0,Taylor,18
+AR,F,1979.0,Taylor,132
+AR,,1974.0,James,524
+AR,M,1934.0,Robert,169
+AR,F,2013.0, Taylor ,72
+ AR ,M,1947.0,Jordan,60
+ AR , M ,1956.0,Linda,209
+AR,M,1959.0,Casey,273
+AR,F,1996.0,Taylor,236
+AR,F,1998.0,Jordan,289
+AR, M ,1932.0,Taylor,130
+AR,M,1989.0,James,1211
+AR,M,2021.0,James,16
+AR,F,1935.0,Linda,8
+AR,M,1919.0, Linda ,9
+AR,F,1944.0,Jennifer,364
+AR,M,1980.0,,363
+AR, F ,1956.0, Casey ,27
+AR,F,2010.0,Mary,47
+AR,F,1976.0,Linda,452
+AR,M,1938.0,Linda,157
+AR, M ,1938.0,Jordan,50
+,F,1967.0,Taylor,437
+AR,M,1954.0,Taylor,181
+AR,,1984.0,James,156
+AR,F,2001.0,,420
+AR,F,1968.0,Taylor,35
+AR,F,1963.0,Casey,289
+ AR ,F,1975.0,Jennifer,86
+ AR ,F,1939.0,Mary,48
+AR,M,2008.0,Casey,22
+AR,M,1963.0,Alex,753
+AR, M ,1944.0,John,272
+AR,F,1971.0,Casey,28
+AR, F ,1947.0,Casey,129
+AR,F,1951.0,Alex,60
+AR,F,1937.0,Linda,55
+AR,F,1968.0,Casey,540
+ AR ,M,1972.0,James,568
+AR,M,1956.0,Michael,52
+AR,F,1996.0,alex,1144
+AR,M,2002.0,Taylor,953
+AR,F,1991.0,Linda,1086
+AR,M,1943.0,Robert,10
+AR,M,1977.0,Mary,361
+AR,F,2019.0,Alex,143
+AR,M,1924.0,John,27
+AR,M,1942.0,Michael,49
+AR,M,,James,553
+AR,M,,Taylor,371
+AR,F,2000.0,Patricia,24
+AR,F,1973.0,Linda,
+AR,M,1933.0,Michael,5
+AR,M,2017.0,taylor,53
+ AR ,F,2012.0, Jennifer ,15
+AR,M,2016.0,Michael,19
+AR,F,1981.0,Patricia,606
+AR,F,1983.0,Mary,5
+ AR ,M,1986.0,Michael,315
+AR, F ,1944.0,Jordan,
+AR,M,1935.0,John,6
+AR,F,1960.0, Patricia ,262
+AR,F,1945.0, Mary ,14
+AR,M,1964.0,Casey,306
+AR,M,1958.0,Michael,512
+AR,F,1977.0,Patricia,208
+AR,F,2014.0,alex,276
+AR,F,,Jennifer,80
+AR,F,1987.0,Alex,710
+AR,F,1944.0,Linda,13
+AR,F,1977.0,Linda,44
+AR,F,1963.0,Linda,18
+AR, M ,2015.0,James,181
+AR,M,2014.0,Taylor,23
+AR,,2020.0,Linda,158
+AR,F,2013.0,,16
+AR,M,1937.0,robert,432
+AR,M,1938.0,Linda,157
+AR,M,1940.0,Michael,20
+AR,M,1946.0,john,22
+AR,,1967.0,Robert,59
+AR,F,2002.0,Taylor,26
+,F,1994.0,Jordan,61
+AR,M,1985.0,,1000
+AR,F,1924.0,Jennifer,37
+AR,M,1990.0,James,573
+AR,F,1984.0,Alex,421
+AR,M,,John,86
+AR,F,1958.0,Michael,604
+AR, F ,1964.0,Mary,
+AR,F,1948.0, Casey ,69
+AR,F,1957.0,,34
+AR,M,1966.0,Jordan,96
+AR, M ,2008.0,john,321
+AR,M,1990.0,Linda,125
+AR,M,1994.0,,413
+AR,F,2022.0,Casey,359
+ AR ,F,2009.0,Taylor,12
+ AR ,,1963.0,Mary,35
+AR, M ,1932.0,Michael,14
+AR,M,1959.0,Michael,87
+AR,M,1969.0,Casey,458
+,F,1999.0,Patricia,119
+ AR ,M,1917.0,Alex,25
+AR,M,1958.0,Robert,9
+AR,F,1984.0,Patricia,639
+AR,M,2005.0,Jordan,304
+AR,M,1991.0,Alex,127
+AR,F,,Alex,1214
+AR,F,1934.0,Linda,
+AR,M,1993.0,Alex,175
+AR, M ,2010.0, Robert ,356
+AR,F,2010.0,patricia,
+AR, M ,1989.0,John,358
+AR,M,1936.0,Jordan,75
+AR,M,1986.0,James,1177
+AR,M,1945.0,Alex,6
+AR,M,1971.0,James,353
+AR,M,1937.0,John,54
+AR,M,1966.0,Taylor,512
+AR,M,1952.0,Alex,24
+AR,M,2005.0,Casey,7
+AR,,1934.0,James,62
+AR,F,1987.0,Mary,227
+AR,F,1973.0,Taylor,339
+AR,M,1939.0,Taylor,277
+AR,F,1981.0,Linda,384
+AR,M,1986.0,Jordan,374
+AR, M ,1933.0, Robert ,9
+AR,M,1949.0,Michael,
+AR,M,2006.0,Casey,100
+AR,F,1961.0,Taylor,1106
+AR,M,1995.0,taylor,1084
+AR,M,1977.0,James,153
+ AR ,F,2002.0,Casey,676
+AR,M,1922.0,Jordan,262
+AR,M,1968.0,John,787
+AR,F,2012.0,Casey,48
+AR,M,2009.0,Jordan,204
+AR,F,2004.0,Patricia,105
+AR,M,,Michael,11
+AR,F,1961.0,Patricia,286
+AR,M,2020.0, Robert ,84
+AR,M,1920.0,Michael,6
+,F,1974.0, Alex ,768
+ AR ,F,1985.0,Jennifer,154
+AR,M,2006.0,James,310
+AR,F,1996.0,Mary,311
+AR,M,1968.0,Jordan,1012
+ AR ,F,2005.0,Casey,37
+ AR ,F,2002.0,mary,189
+AR,F,1947.0,Taylor,517
+,F,1952.0,Alex,156
+AR,M,,,119
+AR, M ,,Jordan,26
+AR,M,1953.0, John ,327
+AR,M,1964.0,Jordan,29
+ AR ,M,2003.0,Alex,59
+AR,M,1984.0,John,327
+AR,M,1970.0,John,202
+AR,F,2001.0,Linda,
+AR, F ,1956.0,Jennifer,82
+AR, F ,1942.0,Mary,19
+AR,,1995.0,Alex,
+AR,M,1932.0,James,53
+AR,F,1957.0,Taylor,224
+AR,F,1925.0,Taylor,167
+AR, F ,1941.0,Casey,91
+AR,M,1995.0,Casey,481
+AR,M,1927.0, Casey ,132
+AR,M,1959.0,John,153
+AR, M ,2005.0,Taylor,368
+AR,,,Casey,77
+AR,M,1948.0,Jordan,258
+AR,M,2014.0,Michael,5
+AR,M,2008.0,James,622
+AR,F,1942.0,Jordan,
+AR,M,1950.0,Taylor,
+AR,F,2002.0, Jordan ,174
+AR,F,1990.0,Casey,740
+ AR ,F,1910.0,Jordan,41
+AR,F,1968.0,Linda,824
+AR,F,2016.0,Casey,621
+AR,M,1976.0,Alex,79
+AR,M,,Casey,20
+AR, M ,1952.0,Robert,15
+ AR ,F,2005.0,Jordan,483
+ AR ,F,1938.0,Mary,8
+AR,M,1989.0,Jordan,516
+ AR ,F,1973.0,Casey,82
+AR,F,1940.0,Jordan,745
+AR,F,,Jennifer,46
+AR,F,,Michael,21
+AR,M,,James,138
+AR,F,, Taylor ,33
+,M,1985.0,Taylor,431
+AR,M,1947.0,Alex,48
+,F,,,19
+AR,F,1950.0,Alex,23
+AR,F,1996.0,Casey,233
+AR,M,1973.0,taylor,251
+AR, F ,1984.0,Taylor,439
+AR,M,1983.0,Taylor,1091
+AR,F,1989.0,Casey,52
+AR,M,1989.0,Patricia,213
+AR,F,1992.0,Taylor,554
+AR,F,2000.0,Linda,16
+AR,F,2001.0,Alex,482
+AR,M,2009.0,James,8
+AR,F,1998.0,Jennifer,167
+AR,M,1913.0,James,12
+AR,M,1993.0,Robert,568
+AR,M,1988.0, Alex ,13
+AR,F,1975.0,Alex,105
+AR,M,1939.0,Patricia,287
+AR,M,1991.0,John,
+AR,F,2020.0,Taylor,193
+AR,F,1992.0,Mary,109
+AR, F ,1954.0,,245
+AR,M,1965.0,Linda,572
+AR,F,1987.0,Linda,613
+AR,,1967.0,Casey,151
+AR,M,1981.0,patricia,758
+AR,M,1961.0,Jordan,472
+AR,M,1939.0,Jennifer,432
+AR,,1983.0,Jennifer,511
+AR,M,1977.0,Casey,699
+AR,M,1946.0,Robert,8
+ AR ,F,1913.0,Jennifer,192
+AR,M,1983.0,Casey,563
+AR,F,1999.0,Taylor,267
+AR,,2019.0,Mary,38
+AR,F,1961.0,Casey,552
+AR,F,1993.0,Jordan,146
+AR,F,1989.0,Alex,176
+AR,M,2022.0,Jordan,10
+AR,F,,Casey,210
+AR,M,1943.0,linda,824
+ AR ,F,1983.0,Casey,276
+AR,F,1958.0,Mary,12
+AR, M ,1970.0,Robert,1032
+AR,M,1961.0,Taylor,127
+AR,M,1953.0,Casey,15
+AR,F,1946.0,Jordan,356
+AR,F,1969.0,Jordan,27
+ AR ,,1979.0,linda,164
+AR,M,1921.0,Casey,8
+AR,F,1977.0, Taylor ,63
+AR,M,2017.0,,137
+AR,,1943.0,Jennifer,5
+AR,F,1955.0,Alex,710
+ AR ,M,1928.0,,158
+AR,F,1982.0,Patricia,369
+AR,M,2005.0,John,339
+AR,F,1958.0,Patricia,57
+AR,M,2018.0,Jordan,12
+AR,F,1937.0,Jordan,15
+AR,F,1950.0,Casey,50
+,F,1943.0,Linda,
+AR,F,1953.0,Taylor,11
+AR,F,1928.0,Linda,531
+AR,M,1941.0,Robert,325
+AR,M,2003.0,Taylor,219
+AR,F,1966.0,Mary,450
+AR,M,1979.0,James,373
+AR,F,1941.0,Linda,13
+AR,F,1972.0,Casey,419
+AR, M ,1982.0,Michael,625
+AR,F,1976.0,Jordan,375
+AR,M,1979.0,Taylor,434
+AR,F,1913.0,Jordan,41
+ AR ,F,2014.0,Jennifer,33
+AR,F,1923.0,Linda,37
+AR,F,1978.0,Jordan,333
+AR,F,1965.0,,298
+AR,M,2012.0,Taylor,149
+AR,,1968.0,,350
+AR,F,1929.0,Mary,54
+ AR ,F,1983.0, Patricia ,106
+ AR ,,1998.0,John,806
+AR,M,1911.0,Michael,9
+AR,M,1913.0,Taylor,80
+AR,M,2015.0,john,5
+AR,M,2015.0,Casey,290
+AR,F,1925.0,Jennifer,152
+AR,F,1984.0,Jennifer,
+AR,M,1951.0,Casey,45
+ AR ,F,1947.0,Linda,30
+AR, F ,1950.0,Jennifer,350
+AR,F,1959.0,,22
+AR, M ,1987.0,John,277
+AR,F,1974.0,Robert,169
+AR,M,1998.0,Alex,226
+AR,,1951.0,John,124
+ AR ,F,1952.0,Casey,183
+AR,M,1954.0,Robert,45
+AR,M,1931.0,Robert,79
+AR,F,1973.0, Jordan ,159
+AR, M ,1941.0,Alex,253
+AR,F,,Alex,80
+AR,F,1956.0,Jordan,1237
+AR,F,1925.0,Casey,5
+AR,M,,Jennifer,128
+AR,M,2010.0,Taylor,222
+AR,F,1947.0,Alex,138
+ AR ,M,1994.0,Casey,510
+AR,M,2007.0,James,169
+AR,,1968.0,Robert,653
+AR,F,1932.0,Patricia,
+AR,F,1949.0,Alex,58
+AR,F,1927.0,Mary,12
+AR,M,2010.0,Michael,41
+AR,F,1961.0,Jordan,56
+AR,M,1994.0,Taylor,30
+ AR ,F,1947.0,Patricia,310
+AR,F,2021.0,Jordan,475
+AR,F,,Jennifer,175
+AR,,1921.0, Patricia ,36
+AR,F,1948.0,Alex,117
+AR,F,2008.0,Linda,41
+AR,F,1931.0,Casey,37
+AR,M,2007.0, Robert ,797
+ AR , F ,1941.0,Alex,11
+AR, F ,1971.0,Taylor,144
+AR,M,1913.0,Jordan,88
+ AR ,M,1992.0,John,527
+AR,M,1951.0,,194
+AR,,1966.0, Casey ,922
+AR,F,2009.0,Mary,183
+AR,F,2001.0,Taylor,564
+AR,M,1999.0,James,15
+AR,M,1931.0,Robert,79
+AR,M,1990.0,John,280
+AR,M,2014.0,Jordan,14
+AR,M,2013.0,Michael,134
+AR,M,1979.0,Jordan,150
+ AR , F ,1959.0,Patricia,209
+AR,M,2012.0,John,123
+,M,1972.0,casey,83
+AR, F ,1971.0,Jordan,223
+AR,M,1938.0,John,227
+AR,M,1966.0,Patricia,137
+AR, M ,2008.0,Robert,90
+AR,F,1997.0,Jennifer,83
+AR,M,1949.0,Casey,101
+AR,M,1942.0, James ,416
+AR,F,2003.0,Alex,189
+AR,M,1948.0,Taylor,
+AR,M,,Robert,50
+AR, M ,1979.0,Robert,50
+AR,F,1949.0,Jennifer,64
+AR,F,2021.0,Taylor,
+AR, M ,1997.0,James,141
+AR, F ,1941.0,Jennifer,50
+AR,M,1999.0,John,845
+,M,1964.0,Michael,277
+AR,F,1999.0,linda,
+AR,M,1965.0,Taylor,314
+AR,F,1949.0,Michael,983
+AR,M,1987.0,James,174
+AR,F,1938.0,Taylor,203
+,F,2012.0,Linda,5
+AR,M,2015.0,Robert,33
+AR,M,1964.0,Alex,134
+AR,F,1989.0,Mary,732
+AR,F,1989.0,Patricia,89
+AR,M,1969.0,John,48
+AR,,1970.0,Michael,28
+AR,M,1960.0,Robert,164
+AR,F,1949.0,Patricia,9
+AR,M,1983.0,john,615
+AR,F,1986.0,Jordan,13
+AR,M,1929.0,Alex,35
+AR,M,1998.0,Taylor,816
+AR,F,1971.0,Alex,52
+AR,M,2006.0,Michael,132
+AR,F,1944.0,Patricia,124
+AR,M,1950.0,Jordan,171
+AR,M,1934.0,Casey,11
+AR,F,1959.0,Jordan,880
+AR,M,1923.0,Patricia,5
+AR,F,1945.0,robert,372
+AR,F,1957.0,,622
+AR,F,1948.0, Taylor ,269
+AR,M,1946.0,,22
+AR,F,1933.0,Jennifer,35
+AR,F,1943.0,Alex,855
+AR,M,1973.0,John,283
+AR,F,1953.0,Jordan,15
+AR,M,1946.0,Taylor,400
+AR,F,2005.0,Taylor,38
+AR,F,1949.0,Jordan,518
+AR,M,1925.0,Casey,
+,M,1996.0,michael,201
+AR,F,1995.0,Mary,336
+AR,M,1946.0,Jennifer,16
+AR,M,1989.0,taylor,202
+AR,,1955.0,Casey,611
+AR,M,1975.0,,399
+,F,1968.0,Jennifer,175
+ AR ,M,1936.0, Casey ,14
+AR,,1966.0,Michael,119
+AR,F,1953.0, Patricia ,22
+AR,M,2020.0,Patricia,10
+AR,M,1985.0,Michael,257
+AR,M,1942.0,John,61
+AR,F,1974.0,Taylor,500
+,,1968.0,Patricia,132
+AR,F,1945.0,Jennifer,752
+AR,F,1970.0,,232
+AR,M,1930.0,Taylor,26
+AR,M,1916.0,James,23
+AR, M ,1956.0,John,338
+AR,F,1977.0,Casey,877
+AR,M,,Alex,48
+AR,F,,Jennifer,56
+AR, F ,2014.0,Casey,75
+AR,F,1999.0,Alex,212
+AR,F,1958.0,Jennifer,111
+AR,,1915.0,Jennifer,
+AR,M,1962.0, John ,49
+AR,,1967.0,Taylor,767
+AR,,1999.0,Mary,644
+ AR ,F,1969.0,,19
+AR, F ,1932.0,mary,114
+AR,M,1914.0,Jordan,10
+AR,F,1997.0,Linda,542
+AR,M,2004.0,Robert,55
+AR,M,2004.0,john,18
+AR,F,1969.0,Casey,247
+AR,M,1988.0, Alex ,13
+AR, F ,1917.0,Jennifer,169
+AR,F,1923.0,Jordan,8
+AR,M,1918.0,Alex,31
+AR,F,1940.0,Taylor,170
+AR,M,2017.0,James,49
+AR,M,1955.0,Alex,924
+AR,F,1948.0,Jennifer,744
+ AR ,F,1971.0,Jennifer,296
+AR,M,1963.0,Mary,143
+AR,M,1968.0,James,589
+AR,M,2002.0,Jordan,115
+,,1921.0,Casey,30
+AR,M,1992.0,Alex,15
+AR,F,1933.0,Taylor,114
+AR,M,1939.0,John,368
+AR, M ,,Taylor,47
+AR,M,1941.0,Taylor,17
+AR, M ,2001.0,Jordan,281
+AR,M,1984.0,Alex,651
+AR,F,1963.0,Jordan,538
+AR,M,2001.0,Alex,10
+AR, F ,1931.0,Linda,299
+ AR ,M,2006.0,Taylor,233
+AR, M ,1941.0,Alex,253
+AR,F,1948.0,Patricia,593
+ AR ,M,2008.0,Alex,29
+AR,M,1966.0,Patricia,137
+ AR ,F,1983.0,Linda,179
+AR,F,1970.0,Patricia,621
+AR,F,2012.0,James,324
+AR,,2006.0,robert,378
+AR,F,1913.0,Alex,24
+,M,,Alex,283
+AR,M,1919.0,James,123
+AR,F,1954.0,Jordan,579
+ AR ,F,1970.0,Jennifer,114
+AR,F,1991.0,Casey,80
+AR,F,1981.0,Jordan,887
+AR,F,1962.0,Alex,249
+AR,F,1920.0,Linda,58
+AR, F ,1950.0,Taylor,65
+AR,M,1968.0,Alex,
+AR, F ,1963.0,Patricia,917
+AR,,2017.0, Linda ,43
+AR,F,1965.0,Linda,25
+ AR ,F,1988.0,Taylor,334
+AR,M,2010.0,Casey,75
+AR,,1987.0,Jordan,45
+AR,F,2001.0,Mary,388
+AR,,1922.0,Casey,9
+AR,,2010.0,Jordan,792
+AR,F,2016.0,Jennifer,489
+,M,1983.0,Robert,210
+AR,F,1991.0,,
+ AR ,F,2017.0,John,282
+ AR , F ,1920.0,Alex,48
+ AR ,M,2019.0,Michael,68
+AR,M,1993.0,,134
+AR,,2007.0,Jordan,146
+ AR ,F,1962.0,Linda,99
+AR,F,1928.0,Jordan,218
+AR,F,2018.0,Casey,17
+AR,M,2015.0, Taylor ,83
+AR,F,1943.0,Taylor,59
+AR,M,1947.0,Robert,134
+AR,F,1940.0, Casey ,168
+AR,F,1951.0,Linda,202
+AR,M,1975.0,Taylor,199
+AR,M,2000.0,Jordan,37
+AR,,1939.0,Linda,45
+AR,,1968.0,Jordan,80
+AR,F,1951.0,Patricia,225
+, F ,2015.0,Mary,274
+,F,1952.0,Jordan,51
+AR,F,1995.0,jennifer,935
+AR, F ,1958.0,Casey,
+AR,M,1975.0,Alex,
+ AR ,,1985.0,Jordan,62
+AR, M ,1921.0, Michael ,12
+AR,F,1967.0,Linda,174
+AR,F,1985.0,Mary,278
+AR,M,1930.0,Taylor,26
+ AR ,,1934.0,John,58
+AR,F,1982.0,Mary,262
+AR,F,1945.0,Alex,58
+AR,M,1962.0,James,106
+AR,M,2017.0,Robert,95
+AR,F,1942.0,Patricia,
+AR,F,1970.0,Casey,270
+AR,M,1958.0,Jordan,204
+AR,M,2011.0,Alex,6
+AR,M,1995.0,patricia,13
+AR,F,1985.0, Taylor ,518
+AR,F,1913.0,Patricia,6
+AR, F ,1923.0,Mary,75
+AR,M,2005.0,Mary,555
+AR, M ,1986.0,,
+,M,2016.0,Taylor,233
+AR,F,1974.0,Mary,243
+,F,2009.0,Linda,10
+AR,F,1995.0,Alex,62
+AR,F,2003.0,Mary,332
+AR,M,1918.0,Taylor,97
+ AR ,M,1962.0,Robert,874
+AR,F,1959.0,Mary,61
+AR,F,2008.0,Patricia,1106
+AR,M,1951.0,Michael,622
+AR,F,1993.0,Jennifer,443
+AR,M,1997.0,Robert,18
+AR,F,1945.0,,
+AR,F,2016.0,Linda,134
+AR, M ,1943.0,James,66
+AR,M,2000.0,John,89
+AR,F,1972.0,Jennifer,99
+,M,2017.0,Jordan,193
+ AR ,F,,Linda,175
+AR,M,1987.0,michael,259
+AR,F,1947.0,Jordan,323
+AR,M,1946.0,Jordan,701
+AR,M,1953.0,Taylor,272
+AR,F,1951.0,,114
+ AR ,F,1940.0,Jennifer,20
+ AR ,F,1962.0,Patricia,1175
+AR,F,,Jennifer,500
+AR,M,1962.0,Taylor,12
+AR,M,1976.0, Casey ,174
+AR,F,2011.0,Mary,23
+ AR ,F,1965.0,Jordan,318
+AR,M,1978.0, Casey ,42
+AR,F,1952.0,Linda,430
+AR,F,1980.0,Linda,217
+AR,F,1984.0,linda,87
+AR,M,1972.0,John,249
+AR,M,1968.0,michael,874
+, F ,2018.0,Linda,28
+AR,F,2009.0,Patricia,10
+AR,F,2004.0,Jennifer,82
+ AR ,F,2019.0,Taylor,109
+AR,M,1961.0,,650
+AR,F,2003.0,,
+AR,M,1935.0,Taylor,6
+AR,M,2014.0,Casey,71
+AR,M,1967.0,Alex,914
+AR,M,1915.0,john,7
+AR,M,1959.0,Taylor,33
+AR, M ,1973.0,Alex,100
+AR,M,,Casey,40
+AR,M,1926.0,Taylor,5
+AR,M,1964.0,,
+AR, F ,2020.0,mary,
+ AR ,M,1965.0,John,646
+AR,F,2010.0,casey,544
+AR,F,1990.0,Mary,163
+AR,F,1932.0,Casey,8
+AR,M,1921.0,Robert,175
+AR,F,1913.0,Taylor,10
+AR,F,, Taylor ,606
+AR,M,2000.0,Michael,88
+AR,M,1991.0,Casey,166
+AR,F,1951.0,Jordan,506
+AR,F,1931.0,Jordan,10
+AR, M ,1912.0,Jordan,28
+AR,M,1977.0,Robert,184
+AR,M,1973.0,Robert,726
+AR,F,,Casey,737
+AR,M,1957.0,Linda,294
+AR,M,1972.0,Michael,11
+AR, M ,1972.0,Jordan,65
+,M,1982.0,Casey,326
+AR,M,1953.0,James,113
+AR,F,1935.0,Jennifer,36
+AR,F,2015.0,Taylor,540
+ AR ,F,1976.0,Alex,366
+AR,M,1970.0,James,70
+AR,F,1945.0,Jordan,9
+ AR ,M,2010.0,Alex,
+AR,F,1935.0,Robert,
+AR,M,1993.0,James,685
+AR,M,2004.0,Jordan,6
+AR,M,1951.0,Jordan,90
+, M ,2012.0,Michael,16
+AR, F ,2011.0,Jordan,166
+AR,F,2011.0,Jennifer,214
+,,1948.0,Mary,154
+AR,M,1965.0,Jordan,109
+AR,F,1960.0,Taylor,479
+AR,M,1976.0,James,228
+AR,M,1918.0,casey,118
+AR,,2007.0,Patricia,5
+AR,F,1919.0,Taylor,10
+AR,F,1920.0,Jennifer,57
+AR,M,1973.0,James,332
+ AR , M ,1953.0,Michael,327
+AR,M,1925.0,Taylor,5
+AR,M,1926.0,John,53
+AR,,1921.0, Patricia ,36
+AR,F,1945.0,Taylor,327
+AR,F,1993.0,Mary,138
+ AR ,M,1976.0,Robert,792
+AR,F,1955.0,Casey,247
+AR,F,1951.0,Casey,6
+AR,F,1961.0,Jennifer,
+AR,M,2011.0,James,68
+AR,F,1955.0,Linda,12
+AR,M,2015.0,Jordan,7
+AR,F,1995.0,Taylor,44
+ AR ,F,1976.0,Jennifer,509
+AR,F,1944.0,Mary,747
+AR,F,1959.0,,881
+AR,F,1980.0,Patricia,848
+AR,F,1954.0,Linda,562
+AR,F,1938.0,,14
+AR,M,2004.0,Casey,18
+AR,F,1925.0,Casey,5
+,F,2014.0,Jordan,41
+AR,M,1919.0,John,34
+AR,M,1995.0,Michael,39
+AR,M,1969.0,Alex,137
+AR,F,2009.0,,48
+AR,,2008.0,Casey,164
+AR,M,1953.0,Robert,20
+AR,F,1967.0,,508
+AR,F,1991.0,Taylor,31
+AR,M,2013.0,Alex,699
+ AR , M ,1938.0,jennifer,346
+AR,F,1961.0,Alex,75
+AR,F,1944.0,Alex,52
+AR,F,1969.0,Alex,72
+AR,F,1951.0,michael,390
+AR,M,1942.0,Taylor,34
+AR,F,1996.0,Linda,688
+AR,M,1959.0,Jordan,69
+AR, M ,,Casey,10
+ AR ,M,1983.0,Jennifer,904
+AR,F,1964.0,Alex,1359
+AR,,1912.0,Patricia,69
+,M,2009.0,Taylor,37
+AR,F,1982.0,Casey,108
+AR,M,1929.0,Robert,127
+AR,M,1986.0,Casey,433
+ AR ,M,1940.0,Alex,334
+AR,M,1937.0,Michael,63
+AR,M,1965.0,Casey,14
+AR,F,1997.0,Mary,785
+AR,F,1995.0,Jordan,720
+AR, M ,2018.0,Casey,103
+AR, F ,1926.0,Alex,8
+AR,M,1981.0,Taylor,312
+AR,F,1997.0,Taylor,106
+AR,F,2005.0,Mary,259
+AR,F,1947.0,John,5
+AR,F,1952.0,Jennifer,135
+AR,F,1938.0,,152
+AR, M ,2000.0,James,18
+AR,M,1998.0,Jordan,938
+AR,M,1954.0,Casey,64
+AR,M,1992.0,James,563
+,F,2006.0,Linda,25
+AR,M,1912.0,Patricia,11
+AR,F,2000.0,Jordan,62
+AR,M,2019.0,Taylor,302
+AR,M,1998.0,Taylor,816
+AR,F,1917.0,Mary,9
+AR,M,1955.0,John,928
+AR,F,1970.0,Linda,538
+AR,F,1981.0,Taylor,725
+AR,M,1988.0,,
+ AR ,F,2000.0,Jennifer,400
+AR,M,1951.0,Robert,354
+AR,M,1942.0,Casey,349
+AR,F,1986.0,Jennifer,290
+AR,M,1956.0,,9
+AR,M,1916.0,John,29
+AR,F,1993.0,Casey,
+,F,1986.0,Linda,905
+AR,M,1910.0,Alex,22
+AR,M,1981.0,Alex,323
+AR,M,1915.0,Taylor,27
+ AR ,F,1988.0,,1284
+AR,F,1983.0,Mary,5
+AR,F,1971.0,Patricia,140
+AR,F,2012.0,Mary,1024
+AR,M,1978.0,Jordan,51
+AR,F,1927.0,Casey,104
+AR, M ,1958.0,Taylor,582
+AR,M,1983.0, James ,247
+AR,F,2022.0,Patricia,41
+AR,M,1958.0,John,
+AR,F,1982.0,Alex,262
+AR,M,1981.0,Casey,186
+AR,F,1998.0,Taylor,281
+AR,,1942.0,Jennifer,35
+AR,M,1995.0,Robert,200
+AR,F,2001.0,Alex,482
+AR,M,1983.0,michael,1243
+AR,F,1978.0,Taylor,232
+AR, F ,1980.0,Jordan,48
+AR,F,1978.0,Linda,656
+AR,,,Jennifer,
+AR,M,1911.0,Casey,5
+AR,M,1999.0,alex,217
+AR,M,2005.0,Robert,529
+AR,F,1976.0,Patricia,192
+AR,F,1960.0,Jennifer,26
+AR,M,1960.0,Casey,526
+AR, F ,1931.0,Mary,106
+AR,M,2003.0,Casey,93
+AR,F,2008.0,Jordan,40
+AR,F,1999.0,Jennifer,485
+AR,M,2005.0,Alex,27
+AR,F,1974.0,Linda,212
+ AR ,F,1961.0,Linda,380
+AR,F,1929.0,Casey,36
+ AR , F ,1992.0,Linda,931
+AR,M,,Jordan,309
+AR,M,1921.0,Alex,20
+AR,F,1932.0,Jennifer,168
+AR,M,1963.0,Michael,647
+AR,M,1979.0,Alex,550
+AR,M,1932.0,,31
+AR,F,1916.0,Jennifer,11
+ AR ,F,1936.0,Taylor,198
+AR,M,2013.0,Robert,222
+AR,M,1971.0,taylor,814
+AR,M,1924.0,Michael,23
+AR,F,1930.0, Taylor ,189
+,F,1977.0,Alex,704
+AR,F,2014.0,Taylor,99
+AR,F,1973.0,patricia,436
+ AR ,F,1939.0,Mary,48
+AR,M,1975.0,Jordan,93
+AR,F,2015.0,Linda,34
+ AR ,F,1935.0,Taylor,9
+AR,F,1993.0,Taylor,696
+ AR ,M,2012.0,Robert,220
+AR,M,1995.0,Casey,481
+ AR ,F,1960.0,Mary,146
+, M ,1963.0,Casey,769
+AR,M,1931.0,Taylor,147
+AR,M,1983.0,Alex,933
+AR, F ,1946.0,Alex,160
+AR, M ,,Taylor,31
+AR,F,1927.0,Patricia,23
+ AR , F ,1959.0,Alex,150
+AR,M,1966.0,Alex,35
+AR,F,1928.0,Taylor,16
+AR, F ,2006.0,Casey,486
+ AR ,F,2005.0,Linda,43
+AR,,2003.0,Robert,318
+AR,F,1995.0,Linda,28
+AR,M,1963.0,James,
+AR,F,1982.0,,872
+AR,M,1919.0,Jordan,5
+AR,M,1963.0,Jordan,438
+AR,F,2005.0,Alex,444
+AR,M,2017.0,Casey,239
+AR,F,1957.0,Alex,46
+AR,F,1964.0,Jennifer,224
+AR,M,1916.0,Casey,18
+AR,M,1993.0,Jordan,828
+AR,F,1964.0,Patricia,1101
+AR,F,2002.0,Linda,14
+,M,1912.0,Taylor,15
+,F,1985.0,,153
+AR,,1967.0,Jordan,106
+AR,F,1914.0,Alex,15
+AR, M ,1943.0,,42
+AR,F,1935.0,Patricia,10
+ AR ,F,1942.0,Alex,140
+AR,F,,Jordan,527
+ AR ,F,2021.0,Mary,348
+AR,F,2001.0,James,277
+AR,F,1954.0,Casey,423
+AR,,1936.0,Robert,21
+AR,F,1992.0,Jordan,13
+AR,F,,James,262
+ AR ,F,1995.0,Patricia,141
+AR,F,1966.0,Jennifer,483
+AR,F,1996.0,Linda,688
+AR,M,1991.0,Robert,440
+AR,F,2001.0,Robert,120
+AR,M,1992.0,Casey,691
+AR,F,1940.0,Taylor,170
+AR,F,2001.0,,420
+,M,2004.0,Alex,135
+AR,F,1994.0,Alex,445
+AR,M,1952.0,Michael,301
+AR,M,,Taylor,706
+AR,M,1950.0,James,6
+AR,M,1945.0,Robert,85
+AR, F ,1964.0,Taylor,270
+ AR ,M,1990.0,Jordan,682
+AR,F,1977.0,Jordan,152
+AR,M,1945.0, John ,35
+AR,F,1932.0,Linda,35
+AR,M,1979.0,Casey,186
+AR,F,1954.0,Alex,39
+AR,M,1988.0,John,184
+AR,,1924.0,James,35
+AR,F,2010.0,John,9
+AR,M,1954.0,Jennifer,117
+AR, F ,2003.0,Casey,505
+AR,M,,Michael,13
+AR,,1937.0,Patricia,83
+AR,F,2006.0,James,11
+AR,F,1927.0,Casey,104
+AR,F,1940.0,Mary,9
+AR,M,1989.0,Casey,158
+AR,F,1978.0,Casey,475
+AR,F,1999.0,Jordan,350
+AR,M,1980.0,Jordan,211
+AR,F,1975.0,Mary,444
+,M,1946.0,Casey,22
+ AR ,M,1983.0,Jordan,679
+ AR ,M,2020.0,Alex,132
+AR,,2007.0,Jordan,
+ AR ,M,1981.0,john,242
+AR,F,1974.0,Jordan,210
+AR,M,2017.0,Alex,25
+AR,F,2008.0,Alex,295
+ AR ,M,1990.0,Alex,424
+ AR ,F,2013.0,Jennifer,10
+AR,F,2021.0,Patricia,25
+AR,M,1930.0,Jordan,
+AR,F,2002.0,Patricia,508
+AR,F,1976.0,Taylor,189
+AR,F,2018.0,Taylor,13
+ AR ,M,1939.0,Alex,5
+AR,F,2010.0,casey,544
+AR,F,1989.0,Jennifer,176
+AR,F,1970.0,Jordan,
+AR,,1929.0,Alex,44
+AR,F,1980.0,Taylor,163
+,F,1977.0,Mary,154
+AR,F,1958.0,Linda,31
+AR,F,2002.0,alex,14
+AR,F,1932.0,James,21
+AR,M,1923.0,Michael,84
+AR, F ,,James,28
+AR,F,1959.0,Michael,540
+AR, F ,1967.0,Alex,444
+AR,M,,michael,13
+AR, F ,1991.0,Mary,849
+AR,M,1956.0,Alex,276
+AR,M,,,20
+,M,1999.0,Michael,123
+AR,F,1965.0,Jennifer,100
+AR,M,2006.0,James,310
+AR,M,1968.0,Taylor,52
+AR,,,Michael,498
+AR,F,1952.0,Taylor,653
+AR,M,,Taylor,491
+AR,M,1982.0,Jordan,97
+,F,1966.0,Taylor,57
+AR,M,1939.0,Michael,614
+,M,1974.0,John,246
+AR,F,2008.0,Taylor,128
+AR,M,2003.0,James,71
+AR,F,2020.0,Casey,90
+,M,1982.0,Robert,183
+AR,F,1952.0,Patricia,688
+ AR ,F,1969.0,Taylor,
+AR,M,2022.0,Casey,766
+AR,M,1956.0,Michael,52
+ AR ,F,2015.0, Patricia ,499
+AR,F,1918.0,Taylor,12
+AR,F,1956.0,alex,170
+AR,F,1993.0,Alex,460
+AR,M,1975.0,Casey,173
+AR, M ,1957.0,Michael,425
+AR,M,1911.0,Alex,51
+AR,F,2012.0,Jordan,8
+AR,F,1926.0,Jennifer,137
+AR,M,1979.0,Michael,347
+AR,M,2005.0,Mary,555
+AR,M,1988.0,Robert,75
+AR,,1930.0,Jordan,68
+AR,F,1919.0,Jennifer,59
+AR,F,1934.0,jennifer,77
+AR,M,2022.0,Taylor,10
+AR,F,2017.0,Jennifer,199
+AR,F,2018.0,jennifer,11
+AR, M ,1931.0,Alex,284
+AR,M,1967.0,Michael,399
+AR,F,1946.0,Linda,269
+AR,M,1952.0,Michael,301
+AR,M,1968.0,Casey,116
+AR,M,1971.0,Casey,192
+,F,1988.0,John,1149
+AR,,1915.0, James ,81
+AR,M,1998.0,Robert,535
+AR,M,1935.0,Michael,255
+AR,,1922.0,Casey,9
+AR,F,1980.0,Casey,366
+AR,F,1987.0,taylor,75
+AR,M,2022.0,John,113
+,M,1991.0,Michael,1183
+AR,F,1937.0,Jennifer,17
+AR,M,1926.0,Michael,52
+ AR , F ,1940.0,John,451
+AR,M,1957.0,James,88
+AR,,1964.0,Robert,403
+AR,F,1960.0,Linda,165
+AR,M,1921.0,Robert,175
+AR,F,1981.0,Casey,429
+AR,M,2009.0, Michael ,118
+AR,M,2005.0,Michael,149
+AR,F,1936.0,Casey,254
+AR,F,2001.0,Jennifer,52
+AR,M,1925.0,Taylor,5
+AR,M,1947.0,Taylor,310
+AR,F,,Casey,157
+AR,M,1962.0,Alex,473
+,M,1958.0,Casey,71
+,F,2006.0,Jordan,574
+AR,,1989.0,Alex,944
+ AR ,F,1937.0,Taylor,31
+AR,M,1967.0,Jordan,712
+AR,M,1940.0,Jordan,515
+AR,M,,john,247
+AR,F,1972.0,,1009
+,F,2011.0,Linda,33
+AR,M,1992.0,Patricia,350
+AR,M,,James,333
+AR,F,1929.0,Patricia,28
+AR,M,1992.0,Jordan,92
+AR,M,2000.0,Jennifer,266
+AR,M,1968.0,Mary,323
+AR,F,2012.0,John,67
+AR,M,2011.0,Casey,100
+AR,M,2011.0,Jordan,52
+AR,M,1939.0,casey,305
+AR,F,1960.0,Alex,65
+AR,,1946.0,Michael,62
+AR,M,1966.0,James,936
+AR,F,1976.0,Mary,371
+ AR ,M,2004.0, Taylor ,112
+ AR ,M,1960.0,Michael,219
+AR,F,1918.0,Casey,33
+AR,M,1949.0,John,110
+AR,M,1951.0, Alex ,105
+AR,F,1921.0,Linda,228
+AR,M,1976.0,Michael,144
+AR,M,1922.0,,20
+AR, F ,1970.0,Taylor,349
+AR,M,1999.0,Taylor,844
+AR,M,1984.0,James,75
+AR,M,1932.0,John,22
+,M,1937.0,Casey,23
+AR,F,1974.0,Patricia,1004
+AR,M,2013.0,Casey,124
+AR,,1994.0,John,109
+AR,M,1957.0,Jordan,24
+ AR ,F,2000.0,Casey,109
+AR,M,1982.0,Patricia,266
+AR,,2003.0,Michael,72
+AR,M,1949.0,Taylor,632
+AR,F,1972.0,Linda,133
+AR,F,2016.0,Mary,10
+AR,M,1937.0,James,5
+,,1989.0,Michael,888
+AR,F,1979.0,Jordan,163
+AR,F,2005.0,Taylor,38
+AR, M ,1955.0,Michael,
+AR,F,1973.0,Mary,152
+AR,F,1991.0,Patricia,154
+AR, M ,1923.0,Robert,313
+,F,1977.0,Alex,704
+AR,,1995.0,John,595
+AR,,1948.0,Jennifer,237
+AR,F,1970.0,Alex,960
+AR,F,1939.0,Jennifer,433
+AR,F,2007.0,,230
+ AR ,M,1947.0,Michael,716
+AR,M,1994.0,Alex,8
+AR,F,1979.0,,71
+AR,M,1993.0,Casey,864
+AR, M ,, Robert ,720
+AR,F,2014.0,Patricia,
+AR,M,,Robert,21
+AR,F,2006.0,Jennifer,1214
+AR,F,1958.0,,149
+AR, M ,2019.0,Jennifer,12
+,M,1929.0,James,68
+AR,F,1963.0,Taylor,892
+AR,M,1956.0,Taylor,64
+AR,F,1934.0,Patricia,738
+AR,M,1990.0,Michael,241
+,M,2010.0,John,22
+AR,F,2019.0,casey,210
+AR, F ,1943.0,Mary,1087
+AR,F,1910.0,Patricia,6
+AR,F,1992.0,Casey,102
+AR,M,1959.0,Mary,
+AR,F,1932.0,Jennifer,168
+AR,M,1963.0,Taylor,165
+AR,M,1941.0,Casey,8
+AR,F,1986.0,Mary,424
+AR,M,1973.0,Casey,177
+AR,M,1966.0,Casey,670
+AR,F,1987.0,Casey,
+AR,F,1975.0,Casey,212
+AR, F ,1984.0,Jordan,56
+AR,M,1945.0,Casey,135
+AR, M ,1995.0,Jordan,727
+AR,M,1975.0,Taylor,199
+ AR , M ,2001.0,Casey,491
+AR,F,1954.0,Patricia,87
+AR,F,2022.0,Alex,75
+AR,M,1978.0,Robert,
+AR, F ,1927.0,Jordan,13
+AR,F,1981.0,Alex,97
+AR,M,2009.0,Alex,115
+AR,F,1926.0,Casey,79
+AR,F,1969.0,James,
+AR,F,1964.0,jordan,631
+AR,M,,Jennifer,11
+AR,M,1988.0,Jordan,1010
+AR,M,2014.0,James,56
+AR,F,1976.0,Casey,1224
+AR,F,1988.0,Linda,412
+AR,F,1978.0,Alex,231
+AR,F,1963.0,,62
+AR,F,2000.0,Taylor,
+AR,M,1978.0,john,
+AR,M,1954.0,Alex,496
+AR,M,1944.0,James,85
+,F,1993.0,Linda,289
+AR,M,1947.0, James ,5
+AR,M,1996.0,Taylor,58
+AR,F,1933.0,Jordan,197
+AR,F,1989.0,Linda,938
+AR,F,1997.0,Jordan,371
+AR,M,2014.0,Robert,368
+AR,M,2019.0,John,49
+AR,F,1938.0,Jordan,545
+AR,M,1941.0,James,35
+AR,F,1955.0,Taylor,
+AR,M,1929.0,Jordan,40
+AR,F,1950.0,Mary,15
+AR,F,2017.0,Alex,267
+AR,M,1955.0,james,13
+AR,F,1998.0,Mary,
+AR,F,,James,291
+AR,M,1952.0,Taylor,75
+AR,M,1952.0,Casey,886
+ AR ,M,,James,729
+ AR ,,1940.0,Robert,7
+AR,F,1954.0,Casey,423
+AR,F,1978.0,Mary,112
+AR,M,1970.0,Alex,126
+AR,M,2007.0,,566
+AR,F,1962.0,jordan,271
+ AR ,F,,Jordan,649
+AR,F,1952.0,mary,15
+AR, M ,1940.0,Taylor,300
+AR, M ,1954.0,michael,590
+AR, F ,1948.0,Jordan,75
+,F,1967.0,Taylor,437
+ AR ,,1988.0,Casey,242
+AR,F,1964.0,Casey,37
+AR,F,1936.0,,54
+AR,M,1978.0,Michael,192
+AR,F,2005.0,Alex,444
+AR,F,1972.0,Jordan,52
+AR,M,1921.0,Taylor,396
+AR,F,1939.0,Casey,24
+AR,M,,Alex,64
+AR,M,1954.0,James,45
+AR,F,2007.0,Linda,853
+AR,F,1998.0,Casey,
+AR,M,1935.0,Jordan,270
+AR,F,1962.0,Casey,149
+AR,,1949.0,Alex,490
+AR,F,1946.0,Mary,217
+ AR ,F,1925.0,Patricia,11
+ AR ,F,1954.0,Taylor,667
+AR,F,1957.0,Casey,592
+AR,M,1980.0,Casey,208
+AR,M,,casey,9
+AR,M,1971.0,John,177
+AR,F,1964.0,Linda,141
+AR,M,1953.0,Alex,155
+AR,F,1916.0,Mary,22
+AR,F,1979.0,Patricia,62
+AR, M ,1948.0,Michael,
+AR,F,1974.0,Taylor,500
+AR,F,1985.0,Linda,83
+,M,1997.0,Taylor,184
+AR, F ,1993.0,Patricia,403
+AR,M,2006.0,Jordan,41
+AR,F,1950.0,Linda,11
+AR,M,1952.0,James,304
+ AR , F ,1910.0,Taylor,38
+,F,1994.0,Mary,273
+AR,M,1971.0,,90
+AR,F,2016.0,Patricia,7
+AR,M,1985.0,Alex,464
+AR,F,1945.0,Linda,25
+AR,M,1920.0,Taylor,34
+AR, M ,2006.0,John,45
+AR,F,1975.0,Linda,142
+AR,F,1992.0,Alex,438
+AR,F,2013.0,Alex,5
+AR, M ,1990.0,Taylor,839
+AR, F ,,Alex,14
+AR,F,1962.0,Mary,317
+AR,F,1998.0,Linda,579
+AR,F,1949.0,Casey,54
+AR,M,1920.0,Alex,17
+AR,F,2015.0,Jordan,157
+AR,M,1972.0,,269
+,M,1992.0,Michael,183
+AR,M,1912.0,Casey,27
+ AR ,F,1998.0,Patricia,419
+AR, M ,2012.0,James,31
+AR,,1995.0,John,595
+AR,M,1970.0,Casey,713
+AR, F ,1967.0,,87
+AR, M ,1971.0, Alex ,7
+AR,M,2020.0,Taylor,11
+AR,,1998.0,Michael,
+ AR ,M,1951.0,Taylor,5
+AR,F,1949.0,Mary,328
+AR,M,1950.0,Michael,57
+ AR ,F,1950.0,Jordan,172
+AR,,2020.0,,298
+,F,1922.0,Taylor,108
+AR,M,1974.0,,177
+AR,F,1956.0,Patricia,275
+AR,F,1939.0,Taylor,155
+AR,M,1945.0,Michael,85
+ AR ,M,1933.0,Jordan,214
+AR,M,2020.0,Michael,146
+AR,F,2019.0,Jordan,6
+AR,F,2012.0,Mary,1024
+AR,M,2021.0,Alex,13
+AR,,1986.0,Robert,555
+AR,M,1914.0,Casey,5
+AR,M,2011.0,Taylor,
+AR,M,1999.0,Robert,9
+,F,2014.0,Jordan,41
+AR, M ,1960.0,Jordan,216
+AR,F,2014.0,Mary,209
+AR,M,1987.0,Casey,718
+AR,M,1972.0,Alex,1048
+AR,F,2022.0,Jordan,24
+AR,M,1973.0,Jordan,569
+ AR ,M,1942.0,Jordan,69
+AR,F,2004.0,Taylor,53
+AR,M,1918.0,James,154
+AR,F,1978.0,Patricia,95
+AR,M,1952.0,Jordan,168
+AR,F,1932.0,Taylor,21
+ AR ,F,2001.0,Casey,125
+AR,F,2006.0,Patricia,135
+ AR ,F,1953.0,Alex,597
+ AR ,M,1982.0,John,43
+ AR ,F,1963.0,Jennifer,
+AR,F,1959.0,,44
+AR,F,1994.0,Taylor,240
+AR,F,,Mary,21
+,,1915.0,Patricia,55
+AR, F ,1967.0,,87
+AR, F ,1928.0,Mary,220
+AR,F,2012.0,Alex,646
+AR,F,1936.0,Patricia,130
+AR,M,,Casey,131
+AR,M,1939.0,james,
+,M,2010.0,Jordan,142
+AR,M,2019.0,Alex,500
+AR,,2008.0,Mary,166
+AR,M,1997.0,John,562
+AR, F ,1989.0,Jordan,509
+AR,M,1980.0,Alex,255
+ AR ,M,1920.0,John,13
+ AR ,M,1927.0,Jordan,28
+AR,F,1987.0,Patricia,719
+AR,M,1960.0,Taylor,123
+AR,M,1981.0,Michael,332
+,F,2004.0,Alex,670
+AR,M,1938.0,Taylor,
+AR,F,2004.0,Jordan,677
+AR,,1974.0,Casey,422
+AR,,1935.0,Alex,110
+AR, F ,1984.0,Casey,263
+AR,M,2004.0,Michael,80
+AR,M,1985.0,Robert,
+AR,F,1997.0, Patricia ,445
+AR,F,2017.0,Taylor,23
+AR,F,,Jennifer,119
+,F,1934.0,Casey,396
+AR,M,,Robert,314
+AR,M,1974.0,Jordan,25
+AR,,1951.0,Linda,105
+,,1962.0,James,536
+AR,F,1966.0,Patricia,139
+ AR ,F,1910.0,Jordan,41
+AR,M,1967.0,John,659
+AR, F ,1922.0,Patricia,8
+AR,M,1960.0,,210
+ AR ,M,1957.0,Casey,543
+ AR ,M,1959.0,Alex,231
+AR,M,1936.0,Michael,36
+AR,M,1976.0,john,244
+AR,M,2018.0,John,328
+AR,M,2009.0,Robert,
+AR,F,2000.0,alex,448
+AR, F ,2013.0, Patricia ,67
+ AR ,F,1929.0,Linda,70
+AR,M,1962.0,Michael,125
+AR,F,,Patricia,7
+AR,M,1965.0,Alex,31
+AR, F ,2003.0,Jordan,929
+AR,F,1962.0,Jennifer,389
+AR,M,1944.0,Jordan,665
+,F,1956.0,Mary,740
+AR,F,2018.0,Alex,26
+AR, M ,1996.0,Alex,1029
+AR,M,1960.0,John,401
+AR,M,1971.0,Jordan,680
+AR,F,2015.0,Casey,263
+AR,F,,mary,198
+AR,M,1985.0,Casey,197
+ AR ,M,2020.0, James ,463
+AR,F,,Alex,697
+AR,,1966.0,Alex,283
+AR,F,2014.0,Linda,146
+AR,M,2016.0, Robert ,
+AR,F,1925.0,Mary,96
+ AR ,F,2000.0,Jennifer,400
+AR,F,1945.0,Taylor,327
+,F,1957.0,Jennifer,31
+AR,F,1994.0,Linda,218
+AR, M ,1999.0,Jordan,329
+AR,,1995.0,John,76
+AR,M,1959.0,Jordan,69
+AR,F,2004.0,Casey,107
+AR,F,2009.0,jordan,162
+AR,M,2014.0,Alex,67
+AR,M,2022.0,michael,695
+AR,,1974.0,Michael,96
+AR,F,1942.0,Casey,5
+AR,M,1921.0,Jordan,17
+AR,F,1961.0,Mary,378
+AR,M,1969.0,Michael,1207
+AR,F,2005.0, Jennifer ,56
+AR,F,2019.0,Linda,207
+AR,M,1982.0,Alex,31
+AR,F,1975.0,Jordan,125
+ AR ,F,1986.0,patricia,608
+AR,M,1972.0,Taylor,84
+AR,M,2021.0,Robert,201
+AR,F,1923.0,Taylor,6
+AR,F,2007.0,,637
+AR, M ,1992.0,Robert,478
+AR,F,1972.0,Mary,90
+AR, M ,,Taylor,189
+AR,F,1971.0,linda,54
+AR,F,2010.0,Linda,229
+AR,M,1965.0,James,404
+AR,,1947.0,Jennifer,55
+AR,M,1954.0,Jordan,50
+AR,F,,Casey,12
+AR,F,1937.0, Mary ,77
+ AR ,F,1929.0,Jordan,36
+AR,F,1931.0,Patricia,518
+AR,M,1956.0,Jordan,30
+ AR ,M,2014.0,John,273
+AR,F,1957.0,Mary,614
+AR,M,1963.0,Robert,166
+ AR ,F,1924.0,alex,12
+AR, M ,1980.0, James ,
+AR,F,1965.0,Taylor,531
+AR, F ,1926.0,Mary,40
+AR,F,1950.0,Patricia,26
+AR, M ,1987.0,Robert,871
+AR,F,1953.0,Casey,841
+AR,M,1969.0,Taylor,132
+,M,2008.0,Jordan,120
+AR,F,1991.0,Jennifer,57
+ AR ,F,1986.0,Alex,427
+,F,1943.0,Jordan,27
+AR,F,1912.0,Jennifer,11
+AR, F ,1937.0,Michael,52
+ AR ,F,1956.0,Linda,278
+ AR ,M,1966.0,Jennifer,250
+AR,M,2001.0,Robert,288
+AR,F,1932.0,Jordan,315
+AR,F,,Patricia,23
+AR,F,1990.0,Alex,988
+AR,F,2021.0,Jennifer,203
+AR,M,1928.0,jordan,76
+ AR , M ,1931.0, Jennifer ,47
+AR,F,1918.0,Taylor,12
+AR,M,,Robert,27
+AR,F,1939.0,Patricia,5
+AR,M,1980.0,Robert,214
+AR,M,1921.0,James,10
+AR,M,1977.0,Alex,88
+AR,M,1955.0,jordan,147
+AR,F,1930.0,Mary,8
+AR,F,2016.0, Taylor ,150
+ AR ,M,1991.0,James,459
+AR,M,1924.0,Robert,62
+AR,F,1971.0, Mary ,627
+AR,F,2004.0,,201
+AR,M,2001.0,,40
+ AR ,F,1979.0,Mary,677
+AR,F,2017.0,Jordan,
+AR,,1982.0, Linda ,
+ AR ,M,2006.0,Alex,21
+AR,M,1950.0,,285
+AR,,2022.0,Jennifer,518
+AR,M,1941.0,John,16
+AR,F,1945.0,Patricia,10
+ AR , M ,1991.0,Jordan,104
+,F,1981.0,Jennifer,243
+AR,M,2020.0,John,45
+AR,M,1945.0,Taylor,69
+AR,,1915.0, James ,81
+AR,M,1998.0,James,788
+ AR ,M,1961.0,Michael,838
+AR,M,1957.0,John,31
+AR, F ,1951.0,jennifer,761
+AR,M,1955.0,Robert,152
+ AR ,M,1961.0,John,51
+AR,M,1973.0,Michael,681
+AR,F,2003.0,Jennifer,10
+AR,M,1975.0,Michael,424
+AR,M,1941.0,Jordan,58
+AR,,1988.0,Michael,808
+AR,F,2013.0,Mary,168
+ AR , F ,1946.0,Jennifer,45
+AR,F,1953.0,Jennifer,241
+AR,F,,Casey,5
+AR,M,2005.0,James,239
+ AR ,,1915.0,,6
+AR,F,2019.0,Patricia,50
+AR,F,1912.0,Michael,6
+AR,M,1923.0,,5
+AR,M,1931.0,James,19
+AR,M,1923.0,Taylor,17
+AR,M,2009.0,John,238
+AR, M ,1926.0,James,62

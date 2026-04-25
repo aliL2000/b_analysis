@@ -1,0 +1,1647 @@
+STATE,SEX,YEAR,NAME,COUNT
+WV,M,1933.0,robert,8
+ WV ,F,1995.0,Mary,255
+WV,F,1923.0,Taylor,49
+,F,1970.0,Jennifer,799
+WV, F ,2007.0,Casey,775
+WV,F,1953.0,,904
+WV,,1953.0,Alex,624
+WV,F,1918.0,Michael,41
+WV,F,1958.0,Patricia,395
+WV,,1995.0,Jordan,48
+WV,F,2005.0,Jordan,315
+WV,F,1977.0,Alex,635
+WV, F ,1997.0,Linda,38
+ WV ,F,,Alex,805
+WV,M,2001.0,Alex,105
+WV,F,1922.0,Casey,12
+WV,M,,Taylor,314
+WV,M,1998.0,John,
+WV,F,1956.0,Casey,10
+ WV ,F,1930.0,Jordan,110
+WV,F,1948.0,mary,81
+,F,2011.0, Taylor ,30
+WV,F,1976.0,Casey,569
+WV,F,2021.0, Mary ,65
+WV,M,1963.0,Alex,247
+WV,M,2021.0,Robert,144
+ WV , F ,2022.0,Mary,151
+WV,F,1948.0,Jennifer,61
+WV,F,2000.0,Taylor,
+WV,F,2009.0,Taylor,10
+ WV ,F,2021.0,Casey,57
+WV,,1998.0,Alex,155
+WV,M,1940.0,Taylor,661
+WV,F,1945.0,Patricia,25
+WV,F,,Jordan,13
+WV,M,1917.0,Robert,5
+WV,M,1984.0,Jordan,359
+WV,F,1962.0,Linda,117
+WV,M,1965.0,Jordan,275
+WV,F,1947.0,Jordan,338
+WV,M,1987.0,Taylor,360
+WV,M,1959.0,Jordan,309
+WV,M,1939.0,Casey,685
+,M,1982.0,James,58
+WV,F,2013.0,,50
+WV,M,1972.0,Taylor,540
+WV,M,2018.0,Taylor,15
+WV,F,1991.0,Alex,576
+WV,F,1983.0,Casey,51
+WV,M,1965.0,James,326
+WV,M,1945.0,Robert,91
+WV, M ,1949.0,Michael,281
+ WV ,F,1935.0,Casey,24
+WV,F,1987.0,jordan,860
+WV,M,1989.0,James,32
+WV, F ,,Casey,303
+WV,M,2008.0,Jordan,
+WV,M,,Casey,451
+WV,M,1940.0,,106
+WV,F,1963.0,Jennifer,263
+WV,M,,alex,244
+WV,M,1935.0,Casey,208
+WV,F,2004.0,Alex,487
+WV,M,1997.0,John,27
+WV,F,1988.0,alex,
+WV, F ,2003.0,Jordan,147
+WV, M ,1922.0,Casey,107
+WV, F ,2012.0,Jordan,46
+WV,F,1945.0,Linda,64
+WV,F,1989.0,Jordan,95
+WV,F,1977.0,Mary,39
+ WV ,F,,Taylor,235
+WV,,1945.0,Casey,18
+ WV ,M,1919.0,Jordan,67
+WV,M,1913.0,Michael,75
+WV,F,1950.0,Mary,14
+WV,F,1999.0,Mary,914
+WV,M,1952.0,Michael,24
+WV,M,2009.0,Casey,863
+,F,1935.0,Mary,97
+WV, F ,2018.0,Casey,7
+WV,F,1942.0,Jordan,31
+ WV ,F,1951.0,Mary,21
+,M,1990.0,Alex,
+WV,F,1925.0, Robert ,5
+WV,F,1951.0,alex,764
+ WV , F ,2013.0,Taylor,129
+WV,M,1942.0,Alex,61
+WV,M,1942.0,Taylor,5
+WV,F,1992.0,Casey,74
+WV,M,1950.0,Casey,16
+,M,1932.0,Alex,41
+WV,F,2011.0,Linda,6
+ WV ,M,,Taylor,77
+WV,F,2014.0,Casey,42
+WV,M,1939.0,Taylor,227
+WV,M,2013.0,John,74
+WV,M,1938.0,Michael,5
+WV,F,1931.0,Jordan,204
+WV,F,1953.0,Robert,299
+WV,M,1962.0,Jordan,42
+WV,F,1938.0,Linda,9
+WV,M,1990.0,Robert,169
+WV,F,1945.0,Taylor,130
+,M,1951.0,Robert,566
+WV,M,1952.0,Casey,21
+WV,M,1913.0,Robert,15
+WV,F,2009.0,Alex,186
+WV, F ,1950.0,Michael,69
+WV,F,1917.0,casey,30
+WV,M,1916.0,Taylor,27
+WV,F,1959.0,Jennifer,91
+WV,F,2000.0,,263
+WV,M,2005.0,Mary,550
+WV,,1988.0,Casey,123
+WV, F ,1959.0,Casey,857
+WV,M,2018.0,Casey,
+WV,M,2002.0, Michael ,487
+WV,M,2002.0,Jordan,600
+WV,M,1975.0,Jordan,808
+WV,,1925.0,Michael,
+WV,,1957.0,Patricia,6
+WV,F,1985.0,Robert,621
+WV,M,1983.0,Alex,227
+WV,F,1961.0,Alex,75
+ WV ,M,1938.0, Taylor ,467
+WV,M,1940.0,Casey,41
+WV,M,1956.0,John,9
+WV, F ,2004.0,Jennifer,
+WV,F,1950.0,Casey,216
+WV,M,1983.0,Jordan,226
+WV, F ,1941.0,Patricia,133
+WV,,1943.0,Casey,45
+WV,F,2017.0,Linda,260
+WV,F,2007.0,John,191
+WV,F,1932.0,Jennifer,155
+,M,2010.0,John,376
+WV,F,1933.0,Mary,21
+WV,M,2012.0,Mary,24
+WV,F,,Alex,330
+WV,F,1998.0,Casey,30
+WV,M,1974.0,Casey,149
+WV,M,1929.0,Jordan,8
+WV,M,1941.0,Casey,33
+ WV ,M,2020.0,Alex,6
+WV, M ,1960.0,Taylor,38
+WV,F,1978.0,Jordan,456
+WV,F,1921.0,Alex,28
+WV,M,1962.0, Alex ,168
+WV,M,1963.0,Michael,106
+WV,M,1928.0,Taylor,51
+WV,,1953.0,Casey,228
+ WV ,M,2020.0, Michael ,10
+WV,F,2006.0, Taylor ,672
+WV,M,1998.0,Jennifer,180
+WV,M,1954.0,Mary,17
+WV,M,2014.0,Jordan,290
+WV,F,1941.0,Mary,20
+WV,,1930.0,Patricia,305
+ WV ,M,1970.0,James,128
+WV,F,1916.0,Taylor,9
+WV,F,1948.0,Patricia,270
+WV, F ,1941.0,Alex,238
+WV, F ,2001.0,Casey,16
+WV,M,1949.0,Taylor,20
+WV,F,1953.0, John ,57
+ WV ,,1921.0,Michael,33
+ WV ,M,2019.0, Robert ,347
+,M,,Casey,285
+WV,F,1919.0,taylor,168
+WV,F,1940.0,alex,276
+ WV ,F,1976.0,,56
+WV,F,1988.0,,405
+WV,M,1924.0,Michael,21
+WV,M,1953.0,Jordan,28
+WV,F,1994.0,Alex,529
+WV,M,1980.0,James,182
+,F,1970.0,Linda,839
+WV,M,1956.0,Taylor,
+WV,F,1978.0,,684
+WV,F,1997.0,Patricia,21
+WV,F,2021.0,Jordan,7
+WV,F,1967.0,Casey,137
+ WV ,M,1942.0,Robert,369
+WV,M,1947.0,Casey,776
+WV,F,,Jennifer,59
+WV,F,2018.0,Jordan,99
+WV,M,1937.0,Alex,5
+WV, F ,1958.0,Casey,473
+WV,F,1972.0,Casey,148
+WV,F,1967.0,Alex,325
+WV,F,2007.0,jordan,5
+WV,F,1951.0,Linda,148
+WV,M,1963.0,John,310
+WV,M,2020.0,Robert,6
+WV,M,1958.0,james,19
+WV,M,2007.0,Robert,74
+WV, F ,1961.0,Linda,14
+WV,F,1981.0,Patricia,450
+WV,F,1938.0,Linda,9
+WV, F ,1992.0,Jordan,57
+WV,,1918.0,Jordan,8
+ WV ,M,1979.0,Alex,420
+WV,F,2013.0,Casey,9
+WV,M,1938.0,James,38
+WV,,1966.0,John,217
+WV,F,1955.0,Jordan,149
+WV,F,1948.0,Alex,110
+WV,M,1910.0,John,72
+WV, M ,1952.0,James,324
+WV,M,1970.0,Michael,443
+WV,M,1955.0,Alex,268
+WV,,1991.0,Patricia,156
+ WV ,M,1977.0,James,173
+ WV ,F,1960.0,Alex,254
+WV, F ,1961.0,Patricia,948
+WV,M,1999.0,Casey,72
+WV,M,2016.0,,12
+ WV ,F,1974.0,Casey,420
+ WV ,M,1971.0,Michael,339
+WV,F,1965.0,Jennifer,312
+ WV ,M,1910.0,Taylor,50
+WV,F,1934.0,Jennifer,162
+WV, M ,1968.0,Jordan,163
+WV,F,1936.0,Mary,358
+WV,F,,Casey,517
+WV,M,1977.0,Casey,64
+WV,F,1917.0,Mary,61
+WV,F,1988.0,James,300
+WV,M,1948.0,James,27
+WV,F,1929.0,Robert,39
+ WV , M ,1917.0, Michael ,76
+WV,M,1921.0,Alex,
+WV,M,2017.0,Taylor,
+WV,F,1958.0,Alex,50
+WV,F,2011.0,Jennifer,267
+ WV ,M,1975.0,Taylor,805
+WV,M,,Robert,774
+WV,M,1983.0,Casey,407
+WV,M,1960.0,Casey,717
+WV,,2013.0,Taylor,67
+WV,M,1948.0,Michael,425
+WV,,1948.0,Casey,1371
+WV,M,2015.0,James,12
+WV,F,1988.0,Mary,
+WV,M,1969.0,James,
+WV,F,1965.0,Linda,13
+ WV , F ,1911.0,Taylor,48
+WV,F,1979.0,,57
+,F,2000.0, Patricia ,73
+WV,M,1940.0,Robert,9
+WV,M,1978.0,Taylor,255
+WV, M ,1957.0,James,637
+WV,M,1992.0,Robert,118
+WV,M,1924.0,Taylor,197
+WV,F,1966.0,Jordan,122
+WV,F,2002.0,casey,23
+WV,F,1981.0,Jennifer,863
+WV,M,1976.0,John,179
+ WV ,F,2016.0,Alex,237
+WV,F,1980.0,mary,14
+WV,F,1994.0,Patricia,626
+WV,F,1995.0, Linda ,412
+WV,M,1958.0,Taylor,274
+WV, M ,2009.0,James,409
+WV, F ,1956.0,John,78
+WV,F,1966.0,Casey,8
+WV,M,1953.0,Michael,16
+ WV ,F,1945.0,Jennifer,194
+ WV ,M,2000.0,Casey,7
+WV,M,1964.0,John,524
+WV,M,1993.0,,726
+WV,F,,Mary,17
+WV,,1969.0, Jordan ,473
+WV,M,1971.0,Robert,769
+WV,F,2008.0,Mary,25
+WV,M,1959.0,Michael,19
+WV,M,1998.0,Casey,825
+WV,M,1987.0, John ,192
+WV,M,1956.0,Alex,14
+WV,F,1986.0,Patricia,119
+WV,M,1937.0,Casey,52
+WV,F,1916.0,Linda,82
+WV,M,1996.0,Robert,270
+WV,F,,Jordan,
+WV,M,1950.0,John,482
+WV, F ,1980.0,Patricia,375
+WV,F,1965.0,jordan,404
+WV,M,1958.0,,322
+WV,M,2002.0,Taylor,208
+WV, M ,1991.0,Patricia,138
+WV, M ,1946.0,James,140
+WV,M,1934.0,Alex,312
+ WV ,F,1973.0,Jordan,130
+WV,M,1968.0,Casey,16
+WV,M,1991.0,John,225
+WV, M ,1995.0,John,398
+ WV ,,1910.0,alex,6
+WV,,1978.0,alex,599
+WV,F,1990.0,Jennifer,246
+,F,1925.0,Linda,62
+WV,M,1952.0,Taylor,24
+WV, M ,2002.0,Robert,524
+WV,M,1986.0,casey,280
+WV,M,1929.0,James,7
+WV,M,2017.0,Casey,498
+WV,M,1957.0,Alex,99
+WV,M,1962.0,Michael,31
+WV,M,1949.0,Casey,109
+ WV ,M,1915.0,Jordan,48
+WV,M,1967.0,Taylor,281
+WV,F,1970.0,Taylor,41
+ WV ,F,1980.0,Casey,349
+WV,M,1932.0,Casey,35
+WV,F,2018.0,alex,570
+WV,M,1966.0,James,622
+WV,,,John,647
+WV,F,2022.0,Alex,555
+WV,F,1932.0,jordan,146
+WV,F,2018.0, Taylor ,817
+WV,M,1966.0,Casey,126
+WV,M,2005.0,James,254
+WV,F,1990.0,Patricia,316
+WV,F,1920.0,Mary,10
+WV,F,1926.0,Jennifer,7
+WV,M,2007.0,Jordan,14
+WV,F,1987.0,Taylor,231
+WV,,2009.0,Linda,52
+ WV ,M,1948.0,Casey,48
+WV, F ,1968.0,Linda,439
+WV,M,1931.0, James ,67
+WV,M,1965.0,Casey,75
+WV,F,1926.0,Alex,28
+WV,M,1961.0,James,689
+WV,M,1997.0,Mary,117
+WV,F,1986.0,Casey,129
+WV, F ,1981.0,robert,104
+WV,F,1941.0,,101
+WV,M,1990.0,Michael,169
+WV,F,1982.0,Linda,
+WV,F,,alex,39
+WV,F,1918.0,Alex,5
+WV,M,2011.0,Taylor,12
+WV,F,2000.0,Mary,79
+WV,M,2001.0, Michael ,104
+WV,M,1952.0,Jordan,102
+WV,F,2008.0,taylor,666
+WV,M,2010.0,Alex,36
+WV,F,1975.0,Alex,
+WV,M,,John,114
+WV,F,1987.0,Jennifer,538
+WV, F ,1957.0,jennifer,650
+WV,F,2017.0,Taylor,7
+WV,M,2008.0,Taylor,
+WV,F,2001.0,Jordan,801
+WV,F,1985.0,Taylor,239
+WV,M,1932.0,John,9
+WV, F ,2000.0,Linda,204
+WV,M,2012.0,James,90
+WV,M,1935.0,Jordan,14
+ WV ,M,1940.0,James,358
+WV,M,2022.0,Robert,105
+WV,M,1919.0,Michael,
+WV,F,2002.0,Jennifer,108
+WV,M,2005.0,Robert,51
+WV,F,1953.0,Alex,101
+WV,,1951.0,Alex,568
+WV,M,1943.0,Alex,21
+ WV ,M,,Casey,34
+, M ,1958.0,John,301
+,F,1983.0,Linda,44
+WV,M,2018.0,Robert,358
+ WV ,,2001.0,Taylor,45
+WV,M,1920.0,Taylor,7
+WV,M,2007.0,John,6
+WV,F,1993.0,Alex,574
+WV,M,2006.0,Taylor,732
+WV,,1990.0,Alex,
+WV, M ,1941.0,,453
+WV,F,1964.0,Mary,388
+WV,F,1957.0,Casey,52
+WV,F,1967.0,Linda,135
+ WV ,F,1975.0,Jordan,734
+WV, F ,1972.0, Patricia ,123
+WV,F,1986.0,Jennifer,342
+ WV ,F,1933.0,Taylor,85
+WV,M,1958.0,Jordan,264
+WV,F,2017.0,Mary,178
+WV,M,2004.0,Jordan,58
+WV,M,1976.0,Linda,373
+WV,M,1939.0,John,7
+ WV ,F,1970.0,Alex,547
+ WV ,M,1997.0,Casey,214
+WV, M ,1923.0,John,73
+WV,F,1979.0,Alex,731
+WV,M,1937.0,John,76
+ WV ,F,1973.0,Taylor,444
+WV,M,2020.0,Jordan,
+WV,F,2006.0,Patricia,42
+WV,F,2015.0,Jordan,127
+ WV ,M,,Jennifer,9
+WV,M,2011.0,James,536
+WV,M,1996.0,John,217
+WV,M,,jennifer,
+WV,M,1989.0,Taylor,40
+WV, M ,2015.0,Casey,133
+WV,F,1983.0,robert,987
+WV,M,1927.0,Jordan,92
+WV,M,1936.0,Alex,19
+WV,F,1967.0,Taylor,23
+WV,M,1978.0,Michael,460
+WV,M,1913.0,James,79
+WV,M,2003.0, John ,57
+WV,F,1944.0,Patricia,317
+ WV ,M,,Patricia,28
+WV,,1916.0,Mary,7
+WV,M,1941.0,Michael,56
+WV,F,1993.0,Jordan,47
+WV,M,1994.0,Taylor,171
+WV,M,1932.0,Taylor,50
+ WV ,M,1992.0,James,913
+WV,F,1978.0,Casey,256
+,M,1964.0,Robert,24
+WV,M,1991.0, James ,137
+WV, F ,1982.0,,301
+WV,M,1981.0,Alex,266
+WV,F,1977.0,casey,
+WV,M,1950.0,Robert,89
+WV, F ,1977.0,Jordan,798
+WV,F,1955.0,casey,5
+ WV ,M,1974.0,Mary,302
+ WV ,,2007.0,Linda,10
+WV,F,2021.0,patricia,64
+ WV ,F,2016.0,Casey,7
+WV,M,2022.0,James,
+WV,F,1987.0,Alex,19
+WV,M,1985.0,Robert,64
+ WV , M ,2004.0,Robert,533
+WV,M,1964.0,Jordan,360
+WV,F,1962.0,Casey,763
+WV,M,1949.0,Alex,81
+WV,,1951.0,Alex,568
+WV,F,1966.0,Alex,357
+,F,1942.0,Jennifer,31
+WV,F,1999.0,Taylor,788
+WV,F,1954.0,Taylor,181
+WV, F ,1969.0,Taylor,354
+WV,M,2003.0,Robert,74
+ WV ,M,1998.0,jordan,8
+WV,M,1975.0,Patricia,179
+WV,F,,alex,68
+WV,M,1945.0,Michael,30
+WV,F,1951.0,Patricia,479
+WV,F,2013.0,Linda,45
+WV,F,2001.0,James,317
+WV,M,2014.0,Michael,226
+WV,M,1990.0,Linda,351
+,M,1982.0,Robert,
+WV, F ,1970.0,Patricia,361
+WV,F,1976.0,Alex,341
+ WV ,F,1974.0, Mary ,138
+WV, M ,1925.0,Jordan,21
+WV,M,1934.0,John,39
+WV,F,1975.0, Linda ,104
+WV,F,1931.0,Jennifer,79
+WV,F,1977.0,Mary,39
+WV,F,1934.0,Jordan,37
+WV, M ,1993.0, John ,160
+WV,M,1916.0,Alex,9
+WV,M,2006.0,Alex,1028
+WV,,2016.0,Jordan,394
+WV,M,1920.0,James,10
+WV,F,1920.0,,152
+ WV ,F,1975.0,Casey,495
+WV,F,,Linda,978
+WV,F,1973.0,,467
+WV, M ,1926.0,Robert,45
+WV,F,1969.0,,112
+WV, M ,1968.0,Jordan,163
+ WV ,M,1971.0,Casey,52
+WV,F,2002.0,Jordan,106
+WV,F,1961.0,Mary,121
+WV,M,1923.0,Michael,175
+WV,F,1986.0,Alex,228
+WV,F,2015.0,Jennifer,23
+WV,F,1988.0,Patricia,159
+ WV ,M,1975.0,Michael,289
+WV, M ,2008.0,Alex,368
+WV,F,2020.0,Linda,6
+WV, M ,1969.0,John,588
+WV,F,2001.0,Patricia,32
+WV,F,2004.0,Mary,14
+WV,F,1941.0,jordan,58
+WV, F ,1933.0,Patricia,393
+WV, M ,,Taylor,73
+WV,F,,Jennifer,257
+WV,M,2013.0,Alex,85
+WV,M,2017.0,John,53
+WV,F,1993.0,Patricia,36
+WV,F,1914.0,Alex,50
+WV,F,1955.0,Taylor,200
+WV,M,1942.0,Jordan,464
+WV,F,2005.0,Linda,13
+WV,F,1949.0,Linda,328
+WV,F,1998.0,Patricia,951
+WV,M,1955.0,John,225
+WV,M,1992.0,Jordan,
+WV,F,1920.0,Taylor,34
+WV,F,1952.0,Casey,116
+WV,F,1997.0,Casey,345
+ WV ,M,1934.0,James,114
+WV,F,1969.0,Patricia,89
+WV,F,2008.0,Patricia,147
+WV,M,1960.0,John,472
+WV,M,1994.0,Jordan,
+WV, F ,1953.0,jordan,469
+WV,M,1950.0,Michael,14
+WV,F,1958.0,Linda,280
+,,1941.0,Linda,56
+WV,M,2022.0,Taylor,587
+ WV ,F,1934.0,Linda,364
+ WV ,M,1952.0,Robert,33
+WV,F,2021.0, Jennifer ,33
+WV,F,1967.0,Jennifer,633
+ WV ,F,1952.0, Jennifer ,28
+WV,M,1961.0,Robert,1154
+WV,F,1963.0,Mary,94
+WV,F,1950.0,Alex,446
+WV,M,1987.0,James,91
+WV,F,1978.0,Jennifer,69
+WV,F,1965.0,Patricia,576
+ WV ,M,1970.0,Jordan,818
+WV,F,,Alex,28
+WV,F,1912.0,Alex,22
+WV, M ,2003.0,Jordan,1014
+WV,M,1994.0,John,853
+WV,M,2018.0,Michael,129
+WV, F ,1937.0,Jordan,736
+WV,M,1957.0,Taylor,57
+WV,F,1990.0,Taylor,162
+WV, M ,1988.0,John,571
+WV,F,1968.0,casey,693
+WV,F,1986.0,Taylor,773
+,F,1965.0,John,993
+WV,M,1930.0,Patricia,54
+WV,F,1971.0,Linda,294
+WV,M,1920.0,Robert,13
+WV,F,1971.0,Jennifer,221
+WV,F,1966.0,Mary,140
+WV,,1943.0,Jordan,7
+,F,1937.0,Alex,459
+WV, F ,1973.0,Alex,174
+WV,F,2022.0,,15
+WV,M,1991.0,Casey,508
+WV,F,1948.0,Taylor,21
+WV,F,1978.0,alex,447
+WV,M,1949.0,john,41
+WV,M,2003.0,Alex,8
+WV,M,1954.0,James,
+WV,M,1959.0,Alex,23
+WV,M,1919.0,Robert,176
+ WV ,F,1963.0,Patricia,90
+WV,M,2011.0,Michael,350
+WV,F,1951.0,Jordan,387
+ WV ,,2015.0,Taylor,174
+WV,F,1928.0,Linda,41
+WV,F,1994.0,Jennifer,165
+WV,M,1914.0,Taylor,23
+WV,M,2007.0,,431
+WV,M,1946.0,taylor,
+WV, F ,2012.0,Patricia,645
+WV,F,1989.0,casey,426
+WV,M,1963.0,Jordan,403
+WV,F,1947.0,Mary,75
+WV,M,1999.0,John,75
+ WV ,M,1994.0,Robert,22
+WV,F,1940.0,Mary,122
+WV,F,1979.0,Casey,261
+WV, F ,1946.0,Jennifer,68
+WV,M,1995.0,,150
+WV,M,2006.0,Patricia,17
+WV,M,1957.0,Casey,1083
+WV,M,1970.0,Alex,223
+WV,F,1996.0,Casey,110
+WV,M,1961.0,Jordan,307
+WV,F,1945.0, Jordan ,352
+WV,F,1988.0,Taylor,142
+WV,F,1997.0,Alex,89
+WV,F,2013.0,Alex,28
+WV, M ,1969.0,Michael,523
+WV,F,1976.0,jennifer,388
+,F,,Alex,69
+WV,M,,Taylor,292
+WV,M,1961.0,Taylor,358
+WV,,1938.0,Jordan,76
+WV,M,2009.0,Taylor,7
+WV,F,1992.0,Jennifer,556
+WV,F,1918.0, Jennifer ,60
+WV,F,1923.0,Michael,11
+WV, F ,1955.0,Alex,722
+WV,M,1977.0,Robert,328
+WV,F,1953.0,Michael,426
+WV,F,2007.0,Jennifer,19
+WV,F,1959.0,Taylor,68
+WV,M,,James,59
+ WV ,M,1962.0,Casey,14
+WV,M,1922.0,James,66
+WV,F,1979.0,Linda,234
+WV,F,1999.0,Casey,567
+ WV , M ,1964.0,,138
+WV,F,1982.0,Alex,577
+WV,M,2021.0,Taylor,296
+WV,F,1999.0, Jordan ,420
+WV,F,1944.0,Taylor,50
+WV,M,1967.0,Alex,1322
+WV,F,2011.0,Mary,
+WV, M ,1979.0,Jordan,127
+,M,1951.0,Robert,566
+WV,F,1967.0,Alex,325
+WV,M,1955.0,Casey,7
+WV,F,1989.0,Mary,95
+WV,M,1994.0,Alex,46
+WV,M,1978.0, Robert ,614
+WV,M,1944.0,Casey,42
+WV,F,2012.0,,352
+ WV ,F,1953.0,Taylor,599
+WV,M,1985.0,Casey,902
+WV,,,taylor,65
+ WV , M ,2008.0,Robert,134
+WV,M,2001.0,Jennifer,574
+WV,,2009.0,Robert,74
+WV, M ,1939.0,James,136
+WV,M,1986.0,Jennifer,13
+,M,1910.0,Robert,9
+WV, F ,,Jennifer,
+WV,F,2001.0,Taylor,583
+WV,M,2000.0,James,121
+WV,M,1926.0,Taylor,281
+WV, F ,2008.0,Casey,615
+WV,M,1949.0,Jordan,51
+WV,M,1950.0,James,347
+,F,1964.0,taylor,
+WV,F,2010.0,,123
+WV,F,1954.0,Mary,454
+WV,M,1930.0,,187
+WV, F ,1958.0,Taylor,78
+WV,F,2005.0,Casey,562
+WV,M,2005.0,Alex,518
+WV,M,1982.0,Alex,406
+WV, M ,1947.0,Jordan,6
+WV, M ,1925.0,Taylor,45
+WV,M,1913.0,John,16
+WV,M,1983.0,John,363
+WV,F,1965.0, Alex ,25
+WV,,1983.0,Alex,635
+WV,M,2002.0,John,
+WV,F,1995.0,,173
+WV,F,1944.0,Linda,117
+WV, M ,1943.0,Michael,93
+WV,F,1928.0,Jordan,305
+WV,M,1985.0,John,268
+ WV ,M,,Robert,64
+WV,M,1967.0,Casey,182
+WV,M,1943.0,James,55
+WV,M,1921.0,Mary,218
+WV,F,1953.0,Linda,97
+,M,1925.0,,83
+WV,F,1976.0,Mary,541
+ WV ,M,1974.0,James,187
+WV,F,1992.0,Taylor,401
+WV,F,1912.0,Linda,14
+ WV ,F,1979.0,Mary,263
+, F ,1984.0,Taylor,331
+WV,M,1962.0,John,26
+WV, F ,1993.0,Jennifer,499
+, M ,1915.0,Alex,47
+ WV ,M,1979.0,casey,199
+ WV ,F,2009.0,Jordan,274
+WV,F,2017.0,Jordan,151
+WV,F,2010.0,Mary,452
+WV,M,1971.0,James,594
+ WV ,F,1916.0,Patricia,27
+WV,F,,Mary,690
+ WV ,,1937.0,Patricia,34
+WV,F,2014.0,,187
+ WV ,M,1992.0,John,183
+WV,F,1944.0,Casey,135
+WV,F,1943.0,Linda,407
+WV,M,1954.0,jordan,239
+,M,1960.0,Robert,124
+WV,F,1971.0,Jordan,875
+WV,F,2006.0,Linda,90
+ WV , M ,2000.0,Taylor,9
+WV,M,2000.0,Robert,
+WV,,1950.0,Taylor,306
+WV,F,2015.0,Alex,
+WV,M,1911.0,Jordan,39
+WV,M,1994.0,Casey,
+WV,M,2011.0,Alex,518
+WV,F,1999.0, Linda ,647
+WV,F,1925.0,Jordan,326
+WV,F,1962.0,Patricia,514
+WV,F,2000.0,,263
+WV,F,1996.0,Patricia,712
+WV,M,1986.0,John,69
+WV,M,1953.0,John,294
+WV, F ,1935.0,Linda,7
+WV,M,2004.0,Michael,167
+WV,M,1916.0,Robert,8
+ WV ,M,1926.0,John,7
+WV,M,1954.0, Alex ,56
+WV,,, John ,494
+WV,M,1973.0,John,457
+ WV , F ,1994.0,Taylor,
+,F,1961.0,Taylor,933
+WV,F,2010.0,Jennifer,416
+WV,F,1971.0,Mary,788
+WV,F,1940.0,Patricia,62
+WV,M,1969.0, Robert ,133
+WV, F ,2012.0, Taylor ,824
+WV,M,1949.0,Casey,109
+WV,M,1983.0,Jordan,226
+WV,F,1999.0,Jennifer,995
+WV, F ,1960.0,Mary,1087
+WV,F,2018.0,Jennifer,8
+WV, F ,2016.0,Jennifer,13
+ WV ,M,1999.0,Jordan,805
+WV,M,2001.0,Robert,868
+, M ,2003.0,,69
+WV,F,1993.0,Casey,266
+WV,F,1996.0,Taylor,566
+WV,M,1980.0,Jordan,721
+WV,M,1987.0,alex,135
+WV, M ,1995.0,Michael,502
+,M,1919.0,Casey,9
+WV,F,1987.0,Casey,127
+WV,M,1938.0,Robert,134
+WV,F,1964.0,Jordan,276
+WV,,1954.0,Taylor,56
+WV,F,2014.0,Linda,113
+WV,M,,Taylor,519
+WV,F,1916.0,alex,
+WV,M,1979.0,Michael,243
+WV,M,2012.0,Jordan,74
+WV,F,1949.0,Mary,978
+WV,F,1967.0,Jordan,438
+WV,M,2017.0,Alex,75
+WV,M,1991.0,Robert,714
+WV, M ,1976.0,Taylor,972
+WV,F,1950.0,Taylor,35
+WV,F,1996.0,Linda,543
+WV,F,1949.0,Casey,50
+WV,M,1951.0,James,8
+WV,M,2006.0,Jordan,534
+WV,F,1978.0,Mary,494
+WV,M,1995.0,James,53
+,M,1924.0,Alex,40
+WV,M,2013.0,Robert,
+WV,M,1926.0, James ,240
+WV,M,1935.0,alex,84
+WV,M,1949.0,Robert,502
+WV,M,2022.0,Alex,37
+WV,,1944.0,Alex,62
+WV,F,1915.0,,8
+WV,M,1920.0,,66
+WV,F,1990.0,,
+WV,F,1952.0,Jordan,63
+WV,M,1965.0,Taylor,
+WV,F,,Linda,
+WV,F,1941.0,Taylor,9
+WV,F,1969.0,Patricia,89
+WV, F ,1936.0, Alex ,
+ WV ,F,1986.0, Mary ,54
+WV,M,1988.0,Robert,
+WV,F,2010.0,Michael,275
+WV,F,1932.0,Taylor,7
+WV,F,1958.0,Jennifer,33
+WV,F,2002.0,Taylor,250
+WV,M,1989.0,,403
+WV,F,1921.0,Taylor,162
+WV, M ,1936.0,Robert,87
+WV,F,1965.0,Mary,
+WV,F,2020.0,Casey,68
+WV,M,1967.0,John,94
+WV,,2016.0,Michael,6
+WV,F,1929.0,Jennifer,33
+ WV ,M,1954.0,Michael,132
+WV,M,1988.0,Michael,
+WV,F,1970.0, Mary ,77
+WV, M ,1951.0, Jordan ,35
+WV,F,1997.0,Jordan,144
+WV,M,1956.0,Robert,301
+ WV ,F,1970.0,Jordan,119
+,M,1927.0,Alex,9
+WV,M,1952.0,Alex,224
+ WV ,M,1968.0,Taylor,830
+WV,F,2007.0,Mary,38
+WV, F ,1984.0,Patricia,106
+WV,F,1929.0,Patricia,20
+WV,M,1931.0,Michael,39
+WV,M,1959.0,Robert,27
+WV, M ,1933.0, John ,71
+WV,M,1962.0,Taylor,52
+WV, F ,1964.0,Casey,106
+WV,F,1938.0,Mary,
+WV,F,1969.0,,404
+WV,M,1960.0,Michael,1139
+WV,F,1991.0,Taylor,238
+WV, F ,1982.0,Taylor,259
+WV,F,2004.0,Linda,541
+ WV , F ,2014.0,Taylor,372
+WV,M,1968.0,Michael,348
+WV,,1978.0,alex,599
+WV,M,2010.0,James,978
+WV,F,1952.0, Taylor ,281
+WV,M,1970.0,Robert,136
+WV,F,1924.0,Patricia,12
+WV,M,1957.0,John,163
+WV,F,1931.0,Taylor,11
+WV, F ,1935.0, Taylor ,41
+WV,F,1976.0,Jordan,83
+WV,M,1948.0,Jordan,70
+WV,M,1996.0,John,217
+WV,M,1981.0,James,165
+WV,F,1989.0,Alex,508
+WV,F,1980.0, Linda ,387
+WV,M,1995.0,Taylor,10
+WV,,1978.0,Mary,251
+WV,,1976.0,Jordan,247
+WV,F,,Patricia,16
+ WV ,M,1936.0,Michael,211
+WV, M ,1999.0,Linda,116
+WV,M,2003.0,Alex,8
+WV,F,1929.0,Robert,39
+ WV ,F,2004.0,Taylor,120
+ WV , F ,1948.0,Linda,461
+WV,M,1997.0,Taylor,186
+WV,M,2014.0,Alex,108
+ WV ,M,1976.0,Casey,501
+WV,M,1955.0,Robert,545
+WV,F,2011.0,jordan,453
+WV,M,1923.0,Jennifer,32
+WV,M,1972.0,Robert,209
+,F,1975.0,Mary,296
+WV,M,1947.0,Alex,121
+WV,M,1932.0,Michael,5
+WV,M,2009.0,Michael,433
+WV,M,1918.0,Taylor,178
+WV,M,1921.0,James,10
+WV,M,1960.0,Michael,1139
+WV,M,2004.0,John,192
+WV,F,1968.0,Jordan,301
+WV,,1984.0,Linda,345
+WV,M,1937.0, James ,32
+WV,M,1953.0,Robert,355
+WV, M ,2002.0,,
+,F,1939.0,Linda,245
+WV,F,1994.0,Casey,825
+WV,M,1986.0,James,448
+WV,F,1987.0,Patricia,415
+WV,M,1933.0,Alex,155
+WV,,1920.0,Jennifer,5
+WV, M ,1983.0, Taylor ,243
+WV,F,1949.0,Jordan,939
+WV,M,1992.0,Taylor,865
+WV,F,1942.0,Patricia,70
+WV,F,,Jennifer,27
+WV,M,1946.0,Michael,5
+WV,F,2005.0,Patricia,227
+,F,1956.0,Taylor,86
+WV,F,1987.0,Mary,166
+WV,F,1991.0,Jordan,292
+WV,M,1985.0,James,381
+WV,M,1979.0,James,349
+WV,F,2017.0,Patricia,150
+WV,M,1962.0,Robert,657
+WV,M,1946.0,Jennifer,18
+WV,F,1925.0,Patricia,391
+ WV ,M,2016.0,James,10
+WV,M,,James,795
+WV,M,1930.0,Robert,473
+WV,F,1992.0,Patricia,10
+WV,M,1990.0,James,534
+WV, M ,1918.0,Casey,26
+WV,F,1922.0,Jordan,21
+WV,F,1932.0,,114
+,,1968.0,Jennifer,142
+WV,F,1946.0,Alex,23
+,M,1963.0,Jennifer,69
+WV,M,1985.0,Taylor,447
+WV,F,1967.0,patricia,103
+WV,M,1981.0,John,892
+WV,M,1986.0,Robert,301
+WV,M,1941.0,Jordan,80
+WV,M,,James,86
+WV,M,1952.0,John,15
+WV,F,1915.0, Jordan ,8
+WV,F,1949.0,Taylor,39
+ WV ,M,2014.0,Robert,13
+WV, M ,1953.0,Taylor,7
+WV,F,1986.0,Jordan,552
+WV,F,1977.0,Linda,61
+WV,M,2004.0,James,18
+ WV ,F,2000.0,Michael,379
+WV,M,1945.0,Taylor,12
+WV,F,1996.0,Patricia,712
+WV,F,1927.0,Taylor,28
+WV,F,1956.0,Jennifer,396
+WV, M ,1943.0,Mary,27
+WV,M,1931.0,Jordan,668
+WV,M,1964.0,James,333
+WV,F,2019.0,Mary,53
+WV,F,1976.0,Linda,539
+WV,M,1977.0,Jordan,254
+WV,M,1953.0,James,25
+WV,F,1972.0,Jordan,71
+WV,M,1931.0,Robert,560
+WV,F,1997.0,Jennifer,384
+WV, M ,,robert,93
+WV,F,,Mary,154
+WV,M,2012.0,Robert,171
+WV,F,2016.0,Robert,507
+WV,M,1945.0,Alex,8
+WV,M,2021.0,John,100
+WV,M,1970.0,John,471
+WV,F,1956.0,Linda,351
+WV,M,1985.0,Michael,84
+WV,F,2009.0,Casey,191
+WV,F,1947.0,Linda,5
+WV, M ,1987.0,Casey,729
+WV,F,1976.0,Taylor,316
+WV,M,1981.0,,344
+WV,F,2006.0,Mary,301
+WV,M,1988.0,,191
+WV, F ,1951.0, Casey ,132
+ WV ,F,1934.0,Casey,6
+ WV ,F,1926.0,Linda,12
+WV,,2022.0,Jennifer,169
+ WV ,M,1948.0,alex,349
+WV,F,1999.0,Alex,142
+WV,M,1937.0,Jordan,8
+WV,,1942.0,Linda,6
+WV,,1935.0,John,217
+ WV ,F,2008.0,Jennifer,214
+WV,F,,Robert,425
+WV,F,1926.0,taylor,19
+WV, F ,1977.0,Taylor,1286
+WV,F,1964.0,michael,350
+WV,,1984.0,Linda,345
+, M ,1989.0,Casey,632
+WV,F,1981.0,Mary,40
+WV, M ,1940.0,Michael,127
+WV,F,2017.0,Michael,30
+WV,M,1961.0,John,77
+WV,,1928.0,taylor,22
+WV, F ,1972.0,Taylor,267
+WV,M,1969.0,,1033
+WV,F,1966.0,Taylor,156
+ WV ,F,2015.0,Linda,6
+WV,,1979.0,Patricia,278
+WV,F,1963.0,Taylor,49
+WV,M,1970.0,Taylor,226
+ WV , F ,2002.0,,10
+WV,M,1984.0,,899
+WV,F,1996.0,Jennifer,656
+ WV ,F,1951.0,,297
+WV, M ,1975.0,Casey,11
+ WV , F ,2021.0,Alex,582
+WV,M,1914.0,Casey,6
+WV,F,2017.0,Jennifer,19
+WV,F,1998.0,Taylor,191
+WV,M,1956.0, Casey ,
+ WV ,F,1943.0,Robert,214
+WV,F,1965.0,Casey,443
+WV,M,1997.0,Robert,41
+WV,M,2007.0,Michael,80
+WV,M,1982.0,Casey,998
+WV,M,1966.0,Taylor,544
+WV,F,1933.0,casey,98
+WV, F ,1961.0,Jennifer,520
+WV,F,1960.0,Jennifer,695
+WV,F,1938.0,Alex,8
+WV, M ,2013.0,Michael,10
+WV,M,1924.0,robert,30
+WV,F,1956.0,Alex,822
+WV,F,1978.0,Linda,382
+WV, M ,2006.0,Michael,73
+WV,F,1954.0,Patricia,
+WV, M ,2014.0,Casey,396
+ WV ,F,2015.0,Casey,24
+WV,M,1975.0,Robert,515
+WV,M,2013.0,John,74
+WV,F,1954.0,Casey,19
+WV,M,2001.0,Jordan,98
+WV,F,1952.0,Linda,
+ WV ,M,1957.0,Michael,81
+WV,M,1927.0,Robert,167
+WV,M,1959.0, Casey ,196
+WV,F,,linda,233
+WV,F,2013.0,Jennifer,57
+WV,F,2005.0,Alex,162
+WV,F,1942.0,Jordan,31
+WV,F,1961.0,,29
+WV,F,1943.0,Mary,43
+WV,M,1993.0,Taylor,72
+WV,F,1964.0,Linda,117
+WV,M,1973.0,Casey,548
+WV,M,1998.0,,293
+ WV ,M,1980.0,John,116
+WV,M,1958.0,Michael,148
+,M,1955.0,Taylor,42
+WV,,2004.0,Casey,182
+ WV ,F,2003.0,Alex,286
+WV,,1915.0,Patricia,7
+,M,1967.0,Jordan,863
+WV, M ,1995.0,Michael,502
+WV,F,1971.0,Casey,517
+WV,M,1978.0,Casey,
+WV, M ,1960.0,James,210
+WV,F,1951.0,Jennifer,25
+WV,F,1985.0,Jennifer,809
+WV,F,1981.0,Jordan,263
+ WV ,M,1999.0,Jordan,805
+WV,M,1931.0,Casey,182
+WV,F,1938.0,Robert,6
+,F,1931.0,Mary,76
+WV,F,1994.0,Mary,20
+WV,F,1958.0,Mary,145
+,M,1984.0,Robert,329
+WV,F,2008.0,Jordan,11
+WV,F,2012.0,Linda,42
+WV,M,1941.0,Robert,63
+ WV ,M,1976.0,Michael,610
+ WV ,M,1936.0,Casey,58
+ WV ,F,2003.0,Casey,6
+WV,F,,Jordan,6
+WV,F,1979.0,Taylor,242
+WV,F,2013.0, Mary ,304
+WV,F,1942.0,Alex,45
+WV,M,2010.0,Taylor,171
+WV, M ,2015.0,Jordan,
+WV,F,1988.0,Jennifer,184
+,F,,Taylor,285
+WV, M ,1982.0,Michael,305
+WV,M,2004.0, Alex ,262
+WV,M,1972.0,Casey,1015
+WV, F ,2006.0,Casey,858
+WV,F,1927.0,Casey,34
+WV,F,1960.0, Casey ,310
+ WV ,,1981.0,Jordan,177
+WV,F,,Taylor,24
+WV,M,1996.0,James,193
+WV,M,2021.0,Michael,164
+WV,F,1935.0,Jennifer,72
+ WV , M ,1965.0,alex,1210
+WV, F ,1942.0,Casey,58
+WV, M ,1953.0,Casey,32
+WV,M,1914.0,John,115
+WV,F,1970.0,Casey,553
+WV,F,1963.0,Alex,285
+WV, M ,2003.0,James,460
+WV, F ,1995.0,Taylor,239
+WV, F ,2011.0,Patricia,183
+ WV ,M,1943.0,Jordan,50
+WV,,, Casey ,49
+WV, F ,,Casey,
+WV,M,1976.0,James,568
+WV,F,1962.0,Jennifer,684
+WV,F,1929.0, James ,26
+WV,,1993.0,Michael,60
+ WV ,M,2003.0,Casey,20
+WV,,2015.0,robert,304
+WV,,1966.0,,593
+WV,,,Alex,78
+WV,M,1967.0,James,116
+ WV ,F,2014.0,Patricia,119
+WV,F,1991.0,Jennifer,29
+ WV ,M,1961.0,Casey,26
+,F,2009.0,Jennifer,210
+,F,1990.0,Jordan,8
+WV,F,,Jennifer,5
+WV,F,2004.0,Jordan,141
+WV,F,2015.0,Patricia,421
+ WV ,M,1912.0,Robert,
+WV,M,2018.0,Alex,347
+WV,F,1924.0,Casey,6
+WV,M,1986.0,Alex,255
+WV,F,1996.0,Jordan,519
+WV,M,1983.0,James,266
+WV,F,1969.0,Jordan,168
+WV,F,1989.0,Patricia,618
+WV,F,1980.0,Jennifer,189
+WV,M,1999.0,James,199
+,F,1977.0,Jennifer,451
+ WV ,M,1978.0,Linda,135
+WV, M ,1944.0,Robert,39
+,M,2000.0,,56
+WV,F,,Casey,182
+WV,M,1935.0, Robert ,8
+WV,,2009.0,Jordan,84
+WV,M,1930.0,Michael,134
+WV,F,2016.0,Patricia,165
+WV,M,1931.0,,7
+WV, M ,,Taylor,557
+WV, M ,2004.0,Taylor,191
+ WV ,F,1934.0,,32
+WV,F,1980.0, Jordan ,512
+WV,F,1983.0,Mary,751
+WV,F,2005.0,taylor,16
+ WV , M ,1944.0,Alex,93
+WV,F,1946.0,Mary,129
+WV,,1976.0,Robert,676
+WV,F,1920.0,Casey,21
+WV,F,1982.0,Patricia,354
+WV,F,1921.0, Patricia ,5
+WV, M ,,Jordan,
+WV,,1990.0,,1188
+WV,F,1960.0,,748
+ WV ,F,1971.0,Taylor,257
+ WV , F ,2001.0,john,222
+WV,F,2021.0,Jordan,7
+WV,M,2011.0,Robert,30
+WV,F,1949.0,Patricia,780
+WV,F,1946.0,Jordan,294
+WV,M,2007.0,,192
+,F,1973.0,Jennifer,585
+WV,F,2012.0,Mary,104
+WV,F,,Casey,11
+WV, F ,2019.0,Jordan,13
+WV,F,1917.0,Taylor,
+,F,1956.0,Patricia,12
+ WV ,M,1955.0,,181
+ WV ,M,1936.0,Jordan,16
+WV,M,1972.0,Michael,208
+WV,M,1914.0,James,25
+WV,F,1910.0,Jordan,77
+,F,1933.0,Jordan,28
+WV, F ,1946.0,Patricia,529
+ WV , F ,1917.0,Jordan,6
+,M,,James,548
+ WV ,F,1975.0,Patricia,629
+WV,M,1951.0,Casey,13
+WV,M,2008.0,Michael,49
+ WV ,M,1911.0,Casey,75
+WV,F,1944.0,,262
+ WV ,M,1991.0,Taylor,148
+WV,M,1963.0,Casey,
+WV,F,1997.0,taylor,249
+WV,M,1998.0,Michael,691
+WV,F,1971.0,Patricia,41
+WV,M,1931.0,,7
+ WV ,F,1937.0,Mary,6
+WV,F,1939.0,Patricia,42
+WV,M,1937.0,Robert,21
+WV,M,1985.0,Alex,248
+WV,M,2004.0,Mary,137
+ WV ,F,,Linda,384
+ WV ,M,1951.0,Michael,876
+ WV ,F,1919.0, Linda ,78
+WV,M,1980.0,Michael,1222
+WV,F,1971.0,Alex,234
+WV,M,1990.0,Jordan,31
+WV,M,,,358
+WV,M,2000.0,Michael,482
+WV,F,2018.0,Linda,64
+WV,M,1993.0,Alex,428
+WV,M,1976.0,Alex,848
+ WV ,M,1946.0,Alex,26
+WV,,1989.0,,774
+WV,M,1996.0,Michael,77
+WV,F,1992.0,Linda,
+WV,M,1996.0,Jordan,50
+ WV ,M,1994.0,Robert,22
+WV,M,1937.0,,60
+WV,F,1963.0,casey,754
+WV,M,1987.0,Jordan,337
+ WV ,F,1985.0,Alex,223
+WV,F,1983.0,Taylor,284
+WV,M,1957.0,Robert,795
+,M,1968.0,Alex,324
+WV,M,,John,742
+WV, M ,1973.0,Michael,704
+WV,M,2006.0,Robert,612
+ WV ,M,,Alex,302
+WV,M,1925.0,Casey,272
+WV,M,2006.0, Casey ,51
+WV,M,2018.0,John,23
+WV,F,1972.0,jennifer,89
+WV,M,1921.0,Jordan,47
+WV,F,1943.0,Alex,21
+WV,F,1984.0,Alex,12
+WV,M,1991.0,Michael,83
+WV,M,1980.0,Alex,267
+WV,M,1981.0,Michael,658
+ WV , F ,2003.0,Linda,56
+WV,M,,Taylor,
+WV,F,2001.0,Jennifer,380
+WV,F,1939.0,Jennifer,777
+WV,F,1985.0,Linda,337
+WV,F,1972.0,Linda,492
+WV,M,1979.0,Mary,185
+,M,1958.0,Casey,188
+WV,F,1947.0,Patricia,49
+WV,F,1995.0,Jennifer,
+ WV ,M,1921.0,Casey,8
+WV,F,1993.0,Taylor,18
+WV,F,1993.0,Linda,945
+WV, F ,2007.0,Alex,285
+WV,F,, Taylor ,469
+ WV ,M,1974.0,Michael,234
+WV,M,1975.0,John,598
+WV,M,1935.0,James,6
+WV,M,2012.0,Mary,24
+ WV ,F,1962.0,Jordan,89
+, M ,1922.0,Taylor,8
+ WV ,M,2005.0,Casey,63
+WV,M,2015.0,Alex,279
+,F,1981.0,Taylor,336
+WV,F,1910.0,Linda,21
+WV,F,1992.0,Taylor,401
+WV,F,1975.0,Taylor,38
+WV,F,1913.0,Robert,10
+WV,F,,Linda,217
+WV,M,1960.0,alex,8
+WV,F,2019.0,Patricia,10
+WV,F,1963.0,Linda,922
+WV,M,1994.0,Michael,140
+WV,F,1964.0,Jennifer,74
+WV,F,1969.0,Casey,520
+WV,M,2005.0,Jordan,
+WV,M,1943.0,Taylor,10
+WV,F,1933.0,Jennifer,13
+WV, F ,1976.0,Robert,101
+WV,M,1946.0,Robert,82
+ WV ,M,2000.0,Alex,503
+ WV ,F,1981.0,Casey,658
+WV,M,1954.0,Robert,262
+WV,M,1983.0,Michael,622
+ WV ,M,1999.0,Alex,66
+ WV ,M,1981.0,taylor,167
+WV, F ,1950.0,Jordan,7
+WV,M,1947.0,Taylor,381
+WV,F,1945.0,Mary,
+WV,,1932.0,Patricia,38
+WV,F,1974.0,Alex,243
+WV,M,1966.0,michael,10
+WV,F,1981.0,Linda,291
+WV,M,1959.0,Robert,27
+WV, M ,1958.0,Robert,988
+WV,M,1988.0,Alex,421
+WV,F,1915.0,Casey,111
+WV,F,1989.0, Taylor ,110
+WV,F,2000.0, Jordan ,226
+WV,F,1937.0,Jennifer,
+WV,M,1943.0,Robert,6
+WV,F,1983.0,Jordan,188
+WV,,1943.0,Casey,5
+WV,M,1983.0,,203
+WV,M,,Casey,107
+WV,F,2018.0,Mary,6
+WV,F,2004.0,,624
+WV,F,1960.0,Jordan,119
+WV,F,2008.0,Linda,
+WV,F,2022.0,,5
+WV,M,1989.0,Jordan,163
+WV,,1969.0, Alex ,640
+WV,M,1951.0,John,157
+WV,F,1913.0,Jennifer,168
+WV,M,1978.0,John,103
+WV,M,1941.0, Taylor ,173
+WV,F,1995.0, Casey ,94
+ WV ,F,2002.0,Patricia,157
+WV,M,1975.0,Alex,221
+WV,M,1950.0,Jordan,170
+WV,M,1996.0, Alex ,272
+WV,F,,Jordan,220
+WV,M,2011.0,john,10
+WV,,2021.0,Linda,206
+ WV ,M,1930.0,James,13
+WV,F,,Mary,191
+WV,M,2021.0,Casey,205
+WV,M,,James,29
+WV,F,2019.0,Linda,
+WV,M,1984.0,Casey,208
+WV,M,,Taylor,158
+WV,M,2019.0,Michael,111
+WV,M,1967.0,robert,651
+WV,F,1977.0,Patricia,427
+WV,F,1960.0,Patricia,97
+WV,F,2006.0,Alex,63
+WV,M,1988.0,James,141
+WV,M,2016.0,Taylor,6
+WV,M,1949.0,James,56
+WV,M,1964.0,Michael,254
+ WV ,F,2003.0,Jennifer,77
+WV,F,1972.0,Mary,187
+,F,1984.0,jordan,69
+WV,,1940.0,Taylor,31
+WV, M ,1953.0,Casey,32
+WV,F,,Casey,12
+WV,F,1955.0,jennifer,120
+WV,M,1982.0,Taylor,743
+ WV ,M,1974.0,jordan,20
+WV,M,2000.0,Jordan,1198
+ WV ,F,1959.0,Patricia,36
+WV,F,1926.0, Jordan ,161
+WV,F,1974.0,Linda,598
+WV,F,1980.0,Alex,55
+WV,F,2014.0,Alex,284
+WV,F,2005.0,Mary,99
+WV,F,1995.0,Patricia,51
+ WV ,M,1965.0, Michael ,1058
+WV,M,1985.0,Jordan,316
+WV,F,2002.0,James,528
+WV,,1963.0,James,808
+WV,M,1941.0, James ,156
+WV,M,2008.0,James,
+WV,M,1995.0,Casey,98
+WV, F ,2020.0,Alex,99
+WV,F,2020.0,Mary,388
+WV,F,1913.0,Patricia,5
+WV,F,1922.0,Jennifer,60
+WV,M,1992.0,Michael,51
+WV,M,2001.0,Casey,152
+WV,F,1939.0,Casey,90
+WV,F,1992.0,Alex,87
+WV,M,1989.0,Alex,83
+ WV ,F,,Jennifer,120
+WV,M,1971.0,John,32
+WV,M,1970.0,Alex,223
+WV,F,1935.0,James,43
+WV,M,1980.0,Robert,811
+WV,F,1989.0,Jennifer,
+WV,M,1982.0,John,74
+WV,M,2010.0, Jordan ,11
+WV,F,1915.0,Jennifer,16
+WV,F,1961.0,Mary,121
+WV,F,2013.0,Jordan,65
+ WV ,F,1996.0,Mary,391
+WV,F,1953.0,Mary,125
+WV,F,1946.0,Linda,
+WV,M,1999.0, Michael ,243
+ WV ,M,1978.0,James,1058
+WV,F,2010.0,Taylor,251
+,M,1940.0,Jordan,448
+WV,F,1998.0,Mary,367
+WV,F,2016.0,Linda,538
+WV,M,2016.0,Robert,477
+WV, M ,1984.0,Taylor,51
+WV,M,1938.0,Casey,5
+ WV ,M,1920.0,Casey,25
+WV,M,1977.0,Michael,882
+,M,,,211
+WV,M,2006.0,James,233
+WV,M,1930.0,John,23
+WV,F,1950.0,Linda,202
+WV,M,1974.0,Robert,323
+WV,M,2021.0,Jordan,1053
+WV,M,,James,8
+ WV ,F,2005.0,Jennifer,32
+ WV ,M,1967.0,Michael,305
+ WV ,F,,Taylor,46
+WV,M,1939.0,Robert,337
+WV,M,1980.0,Mary,172
+WV,,1956.0,Michael,26
+WV,M,1954.0,John,10
+WV,M,1948.0,Robert,41
+WV,F,1982.0,,635
+,,1941.0,Linda,56
+WV,M,1954.0,Casey,728
+WV,M,1917.0,John,131
+WV, M ,1962.0,James,321
+WV,F,1935.0,Alex,5
+WV,M,1969.0,Alex,18
+WV,F,1940.0,,45
+WV,M,2010.0,Casey,43
+WV,F,2016.0,Taylor,14
+WV,F,1998.0,Jordan,127
+WV,F,1954.0,,616
+WV,M,1973.0,Jordan,116
+WV, F ,1984.0,Mary,369
+WV,F,1968.0,,
+WV,F,2002.0,Alex,68
+WV,F,1919.0,Jennifer,6
+WV,F,1974.0,Patricia,91
+WV,F,1973.0,Linda,223
+ WV ,M,1945.0,Jordan,98
+ WV ,,1959.0,Jordan,1091
+WV,M,1972.0,Jordan,783
+WV,F,1956.0,Mary,736
+ WV ,M,1992.0,Alex,36
+WV,F,1996.0,Alex,86
+WV,M,1998.0,James,301
+WV,F,1974.0,Taylor,198
+WV,M,1999.0,Robert,63
+WV,M,1919.0,John,33
+WV, F ,1952.0,Mary,111
+WV,F,1982.0,Jordan,58
+WV, M ,1988.0,Casey,184
+WV,,1975.0,James,13
+WV, M ,1986.0,Michael,479
+WV,M,2008.0,John,307
+WV,,1947.0, Jennifer ,23
+WV, F ,1938.0,casey,105
+WV,M,,mary,39
+WV,,1950.0,John,49
+WV,,2013.0,,19
+WV,M,2002.0, Michael ,487
+WV,M,1977.0,Alex,36
+WV,F,1989.0, Linda ,8
+WV,M,2014.0,James,85
+WV,M,1932.0,James,40
+ WV ,M,1935.0,Taylor,10
+WV,M,1945.0,John,5
+ WV ,F,1927.0,Jennifer,303
+WV,F,,Taylor,331
+WV,F,1993.0,,484
+WV,F,2002.0,Linda,5
+WV,F,2006.0,Linda,90
+WV,M,1961.0,Taylor,358
+WV,M,1947.0,Robert,302
+ WV ,F,1954.0,Jennifer,1151
+WV,M,2012.0,Alex,204
+WV,F,1925.0,,42
+WV,,1962.0,Alex,43
+WV,M,1938.0,Alex,
+WV, M ,1925.0,Robert,39
+WV,M,2002.0,alex,44
+WV,F,1969.0,,269
+WV, M ,1944.0,Jordan,606
+WV,M,2019.0,Casey,81
+WV,M,1969.0,Taylor,655
+ WV ,F,1938.0,taylor,230
+WV,F,2000.0,Alex,320
+WV,M,1944.0,James,5
+WV,F,1942.0,Taylor,36
+WV,M,1993.0,,564
+WV,F,1947.0,Casey,400
+WV,F,1966.0, Jennifer ,102
+WV,M,2005.0,John,16
+WV,M,,Jordan,493
+,M,1996.0,Taylor,250
+WV, M ,1957.0,Jordan,299
+WV,F,1973.0,Patricia,492
+WV,M,,John,290
+ WV ,F,,Taylor,760
+WV,,1984.0,Michael,220
+ WV ,F,1968.0,Alex,148
+WV,M,1959.0,James,28
+WV,M,1980.0,casey,473
+WV,F,1968.0,James,
+WV,M,1922.0,,44
+WV,M,1978.0,Jordan,1121
+WV,F,1946.0,Taylor,320
+WV,F,1963.0,Jordan,5
+WV, F ,1967.0,Mary,234
+WV,M,1912.0,Michael,13
+WV,F,2004.0,Casey,26
+WV,M,1947.0,james,320
+WV,,1987.0,Michael,330
+,F,2010.0,jordan,425
+WV,F,2007.0,Patricia,66
+WV,F,1927.0,Jordan,7
+WV,F,1920.0,Alex,42
+WV,M,1958.0,james,19
+WV,F,2002.0,James,528
+ WV ,F,2019.0,Taylor,15
+WV,M,1911.0,Michael,21
+WV,F,2017.0,Alex,82
+WV,F,1957.0,Linda,50
+WV,F,1940.0,Jennifer,5
+WV,M,,James,5
+WV,F,1940.0,John,23
+WV,M,1977.0,Taylor,17
+ WV ,M,2020.0,John,74
+WV,M,2019.0,,833
+WV, F ,1950.0,Patricia,422
+WV,M,2006.0,John,635
+WV,F,1964.0, Alex ,202
+WV,M,2002.0,Casey,758
+WV,M,1998.0,Robert,64
+WV, M ,1940.0,Alex,14
+WV,M,1931.0,Taylor,72
+WV,F,2015.0,Mary,10
+WV,F,1911.0,Mary,10
+WV,M,1947.0,michael,31
+WV,M,1959.0,Taylor,786
+WV,M,1973.0,Alex,180
+ WV ,F,1959.0,Alex,294
+WV,M,2021.0,Alex,171
+,F,2018.0,Patricia,95
+WV,F,2021.0,Taylor,155
+WV,M,2022.0,John,191
+WV,M,1950.0, Alex ,410
+WV,M,1995.0,Alex,16
+WV,M,,Jordan,93
+ WV ,F,2003.0,Patricia,893
+WV,M,1919.0,James,22
+WV,F,2001.0,Alex,313
+WV, F ,1981.0,Alex,57
+WV,M,1997.0,Michael,694
+WV,M,2012.0,John,249
+WV,M,1960.0,Jordan,87
+WV,F,1936.0,Casey,14
+WV,M,2017.0,James,17
+WV,M,1912.0,Taylor,12
+WV,M,1964.0,alex,662
+WV,M,1996.0,Casey,192
+WV,F,1959.0,Linda,133
+WV,F,1992.0,Mary,235
+WV,M,, Alex ,381
+WV,M,1973.0,James,493
+WV,M,2008.0,Casey,77
+WV,M,1966.0,James,622
+WV,F,2014.0,Robert,379
+, F ,1922.0,Alex,113
+WV,F,1988.0,Linda,619
+WV,M,1964.0,Casey,298
+WV,M,1961.0,Alex,373
+WV,F,1974.0,Jordan,
+WV,,1997.0,James,144
+WV,M,1924.0,John,90
+WV, F ,1973.0,Casey,641
+WV,M,1997.0,Patricia,285
+WV, M ,2007.0,Alex,150
+WV,F,,Jennifer,29
+WV,M,1968.0,John,606
+WV,,2001.0,Linda,6
+WV, F ,1983.0, Patricia ,399
+WV,M,2002.0,Mary,14
+WV,M,2005.0,Michael,522
+WV, F ,1983.0,Jennifer,270
+WV,M,1921.0,Taylor,76
+WV,M,1979.0,Robert,251
+ WV ,M,1951.0,Taylor,23
+,M,1946.0,Jordan,98
+WV, F ,2012.0,Casey,5
+,F,1930.0,Casey,23
+WV,F,1982.0,Mary,769
+WV,F,,Alex,5
+WV,F,1956.0,Jordan,666
+WV,F,1928.0,Patricia,22
+WV,M,2005.0,James,254
+WV,F,1917.0,Alex,175
+WV,F,1999.0,Patricia,487
+,F,2003.0,Mary,181
+WV,,1997.0,Alex,425
+WV,M,1955.0,James,570
+WV,M,1991.0,Jordan,320
+WV,F,1990.0,Linda,141
+WV,M,2008.0,Jordan,
+WV,,1988.0,Taylor,553
+ WV ,,1986.0,Jordan,36
+WV,F,2016.0,Mary,107
+WV,M,2016.0,John,186
+WV,M,1989.0,,372
+WV,M,1991.0,,53
+WV,F,1991.0,Linda,454
+WV,M,1986.0,Taylor,132
+WV,M,1955.0,Jennifer,374
+WV,M,2019.0,Alex,164
+WV,M,1942.0,James,677
+ WV ,F,1949.0,,531
+WV,F,1998.0,Alex,38
+WV,F,1955.0,Mary,42
+WV,M,1982.0,Jordan,95
+WV,F,1994.0,Jordan,217
+WV,F,1974.0,Jennifer,282
+WV,,1990.0,Taylor,435
+WV,F,1937.0,Casey,10
+WV,M,1977.0,john,143
+,M,1972.0,Alex,289
+WV,M,2015.0,Taylor,17
+WV,F,1994.0,Linda,609
+WV,,2019.0,Alex,395
+WV, M ,1944.0,Taylor,101
+WV,F,1943.0,Patricia,967
+WV, M ,1933.0, John ,71
+WV,M,2010.0,Michael,116
+WV,M,2014.0,Taylor,422
+WV,F,1972.0,,455
+ WV ,F,1955.0,linda,469
+WV,F,2012.0,Alex,23
+ WV ,M,2011.0,jordan,12
+ WV ,M,2020.0,Casey,5
+WV,F,1944.0,Jordan,8
+ WV ,M,1966.0,Robert,559
+WV,F,1978.0, Taylor ,183
+WV,F,1926.0,,8
+WV,M,2001.0,James,
+WV,M,1968.0,Robert,462
+ WV ,F,1978.0,Patricia,821
+ WV ,M,1972.0,James,294
+WV,,1962.0,Mary,490
+WV,M,1971.0,Jordan,
+WV, F ,1938.0,Jennifer,53
+ WV ,M,,Casey,838
+WV,F,1985.0,Patricia,342
+WV,F,2006.0,Jennifer,94
+WV,F,1958.0,jordan,338
+WV,M,1981.0,Robert,65
+WV,M,1993.0,Jordan,728
+ WV ,M,1948.0,John,675
+,M,1984.0,Robert,329
+WV,F,2011.0,Alex,683
+WV,F,2020.0,Patricia,44
+WV,M,1997.0,Jordan,26
+WV,F,1975.0,Jennifer,139
+WV, F ,1995.0, Alex ,1035
+WV,,2008.0,Robert,112
+WV,F,1959.0,Mary,35
+WV,M,2017.0,Jordan,224
+WV,F,1957.0,Mary,30
+ WV ,F,1964.0,Patricia,46
+WV,M,1963.0,Robert,981
+WV,F,2003.0,Taylor,399
+WV, F ,1968.0,Taylor,852
+WV,M,2009.0,John,409
+WV,F,2022.0,Taylor,53
+WV,F,1937.0, Taylor ,5
+WV,M,1929.0,Alex,
+WV,M,1992.0,Casey,25
+WV, M ,1965.0,John,95
+WV,F,1942.0,Mary,183
+WV,M,,Casey,5
+WV, F ,1965.0,Taylor,49
+WV,M,1933.0,Michael,7
+ WV ,F,1955.0,Patricia,52
+WV, M ,1939.0, Jordan ,182
+WV,M,2017.0,Robert,303
+WV,M,1984.0,James,206
+WV,F,1961.0,Jordan,244
+WV,F,1991.0,Casey,6
+WV,F,1950.0,Jennifer,14
+ WV ,M,2007.0,Casey,65
+WV,M,1955.0,Michael,41
+WV,M,1956.0,James,8
+, M ,1963.0,Taylor,572
+WV,M,1984.0,John,383
+WV,F,2009.0,Patricia,102
+WV,M,,taylor,216
+WV,F,1954.0,Alex,27
+ WV ,,1957.0,Alex,205
+WV,F,1954.0,Linda,11
+,F,1943.0, Taylor ,295
+WV,F,1949.0,Alex,6
