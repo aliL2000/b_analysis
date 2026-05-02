@@ -1,0 +1,1649 @@
+state,sex,year,name,count
+MA,F,1996.0,Linda,
+MA, M ,1932.0,Casey,63
+MA,M,1917.0,Michael,6
+,F,1964.0,Linda,245
+MA,M,1939.0,Taylor,43
+MA,M,1910.0,John,184
+MA,F,2011.0,Taylor,163
+MA,F,1948.0,Casey,5
+MA,M,2019.0,Jordan,454
+MA,M,1949.0,John,178
+MA,M,1970.0,James,76
+MA,F,1985.0,Mary,348
+MA,M,1966.0,Robert,486
+, M ,1996.0,Michael,593
+MA,F,1952.0,Linda,683
+MA,M,2001.0, Robert ,717
+MA,F,1943.0, Casey ,525
+MA,M,2018.0,John,7
+MA,M,1958.0,Michael,171
+MA,M,1962.0,michael,431
+MA,M,1999.0,michael,207
+ MA ,M,1968.0,jordan,80
+MA,F,1972.0,Mary,346
+MA,M,1991.0,John,375
+MA,F,1972.0,Jordan,49
+MA,F,1960.0,Jennifer,274
+ MA ,M,,John,559
+MA,M,2010.0,Jordan,7
+MA,M,1965.0,John,869
+MA,F,1995.0,,363
+MA, M ,2011.0,Casey,
+MA, M ,1974.0,Casey,359
+MA,M,1921.0,Alex,120
+MA,,,Patricia,54
+MA,F,1991.0, Patricia ,187
+MA,M,1962.0,Casey,792
+ MA , F ,2001.0,Michael,418
+MA,F,1923.0,Mary,107
+ MA ,F,1940.0,Mary,359
+,F,1959.0,Jordan,381
+MA, F ,1981.0,Alex,20
+MA,F,1939.0,Linda,451
+MA,F,2003.0,Taylor,70
+MA,,2004.0,Jordan,30
+MA,M,,James,314
+MA,M,1995.0,Michael,155
+ MA ,F,1981.0,Linda,84
+ MA ,F,1989.0,Taylor,321
+MA,F,1961.0,Jennifer,585
+MA,M,1959.0,Robert,859
+MA,M,1991.0, Jordan ,592
+MA,,,Robert,
+MA,,1960.0,John,823
+MA, M ,1976.0,James,178
+MA,,1939.0,Jennifer,203
+MA,M,1954.0,Michael,
+MA,M,1987.0,Michael,125
+MA,F,1967.0,Alex,462
+MA,M,1956.0,Casey,572
+MA,M,1933.0,James,12
+MA,M,1937.0,,90
+MA,,2017.0,John,125
+MA,,2017.0,Casey,7
+MA,F,1929.0,Linda,246
+ MA ,M,1987.0,Alex,95
+MA,F,1984.0,Taylor,466
+MA, F ,1992.0,Casey,766
+MA,F,1985.0,Alex,35
+MA,M,1981.0,Michael,589
+MA,M,1986.0,,243
+MA,F,2003.0,Patricia,185
+MA, F ,2017.0,Linda,10
+MA,,1925.0,James,10
+MA,M,1944.0,Robert,62
+MA,F,1973.0,Patricia,719
+MA,F,,,5
+MA,M,1995.0,Robert,148
+MA,,2007.0,James,845
+MA, F ,1928.0,Casey,38
+MA,M,1982.0,Taylor,
+ MA ,M,2004.0,John,174
+,M,,James,411
+ MA ,F,1977.0,mary,138
+MA,M,2012.0,,
+MA,,,Casey,135
+MA,F,1978.0,Taylor,69
+MA,F,1960.0,Jordan,432
+ MA , F ,1959.0,Linda,61
+MA,F,1952.0,Alex,394
+MA,F,2000.0,alex,72
+,M,2012.0,John,6
+MA,F,1979.0, Alex ,526
+MA,F,1996.0,Patricia,350
+ MA ,F,2021.0,Taylor,18
+MA, M ,1978.0,Alex,224
+MA,M,1998.0,Casey,720
+MA,M,1949.0,John,178
+MA,M,1967.0,Jordan,113
+MA, M ,2012.0,Alex,84
+MA,M,1936.0,Michael,264
+MA,F,1996.0,mary,58
+MA,M,1951.0,Alex,706
+MA,M,1926.0,robert,25
+MA,M,1952.0,Alex,1383
+MA,F,1964.0,Casey,175
+MA, F ,1998.0,Taylor,81
+MA,M,1945.0,Casey,266
+MA,M,1980.0,Casey,409
+MA,M,1973.0, Casey ,137
+ MA ,M,1989.0, Alex ,94
+MA,F,1999.0,Patricia,483
+MA,,2019.0,John,306
+MA,M,,Casey,635
+MA,F,2004.0,Patricia,505
+MA,F,1957.0,Patricia,100
+MA,M,1931.0,Alex,45
+MA, F ,1962.0,Mary,377
+MA,M,,James,192
+ MA ,M,1972.0,Michael,363
+ MA ,M,2016.0,Casey,143
+MA,M,1956.0,Taylor,905
+MA,F,1968.0,Patricia,686
+MA, M ,1964.0,Michael,222
+MA,F,1963.0,Jennifer,
+MA, M ,1997.0,Alex,86
+MA,M,1950.0,Jordan,136
+MA,M,1923.0,Jordan,62
+MA,F,1966.0, Patricia ,26
+MA,F,1938.0, Patricia ,20
+MA,M,,Jennifer,372
+MA, F ,1940.0,Jennifer,10
+MA,M,1920.0,Taylor,14
+MA,F,1914.0,Linda,22
+MA,F,1951.0,Mary,487
+MA,F,1990.0,,225
+ MA ,F,1992.0,Alex,655
+MA,M,1995.0,Alex,988
+MA,F,1995.0,Jordan,1279
+MA,F,1989.0,Patricia,57
+MA,F,1943.0,Jennifer,254
+ MA ,F,1938.0, Jordan ,43
+MA,F,2005.0,Linda,109
+MA, F ,1920.0,Taylor,45
+MA,M,1968.0,Michael,1098
+MA,M,1965.0,James,813
+ MA ,M,2006.0,Robert,471
+ MA ,F,1988.0,Patricia,327
+MA,M,,Jordan,134
+MA,M,1939.0,James,48
+MA, M ,1989.0,Michael,242
+ MA ,F,2002.0,Jennifer,55
+MA,M,1998.0,Alex,193
+MA,M,1972.0,Taylor,403
+ MA ,F,1988.0,Alex,1058
+MA,M,1958.0,Jordan,640
+ MA ,M,1947.0,,188
+ MA ,F,1933.0,Casey,9
+MA,M,1912.0,Taylor,35
+MA,M,1930.0,John,6
+MA,M,1917.0,Robert,10
+MA,M,2018.0,,146
+MA,M,1958.0,Casey,242
+MA,F,1933.0,Patricia,17
+MA,F,1953.0,Alex,68
+MA,F,1932.0,Alex,13
+MA,F,2002.0,Mary,478
+MA,F,1991.0,Jennifer,164
+MA,M,2007.0,Casey,135
+ MA ,M,1969.0,James,15
+MA, M ,1918.0,Alex,12
+ MA ,M,2001.0,Linda,92
+MA,F,1936.0,Linda,136
+,F,2017.0,Alex,8
+MA,F,1996.0,mary,58
+MA,M,1979.0,John,489
+MA,M,2014.0,Michael,16
+MA,M,1948.0,James,30
+MA,,1989.0,Casey,439
+MA, F ,1975.0,Jordan,846
+MA, F ,2006.0,Mary,332
+MA,F,2022.0,Jordan,167
+MA,M,2017.0,James,42
+MA,M,2007.0,Robert,72
+MA,M,2003.0,Michael,104
+ MA ,M,1988.0,John,521
+MA,M,1934.0,Taylor,60
+MA,M,2006.0,james,560
+MA,F,1931.0,patricia,5
+MA,M,1982.0,Robert,728
+MA,M,1960.0,Michael,976
+MA,F,2014.0,Casey,
+,M,1981.0,John,153
+MA,M,1941.0,John,9
+MA,M,1956.0,James,553
+MA,F,1970.0,Casey,412
+MA, F ,1968.0,Alex,378
+ MA ,M,1985.0,Alex,642
+,F,,Patricia,125
+MA,M,,Alex,284
+MA,M,1945.0,John,177
+MA,M,2007.0,Linda,352
+MA,F,2021.0,Casey,11
+MA,,1981.0,Linda,55
+ MA ,F,1977.0,Taylor,61
+MA,F,1960.0,,54
+MA,F,1915.0,Alex,
+MA, M ,1995.0,John,528
+MA,M,1986.0,John,313
+MA,F,1955.0,Alex,87
+MA,,1993.0,Alex,303
+,F,2011.0,John,70
+MA,M,1934.0,John,15
+MA,M,2005.0,John,926
+MA,M,1941.0,Jennifer,1096
+MA,F,1988.0,Linda,577
+MA,M,1972.0,Alex,1114
+MA,F,1989.0,Alex,519
+MA, M ,1920.0,Robert,20
+MA,,1917.0,Casey,6
+ MA ,F,1958.0,Alex,
+MA, M ,1949.0,James,275
+MA,F,,Casey,
+MA,F,1935.0, Jennifer ,13
+ MA ,F,2015.0,Mary,10
+MA,F,1934.0,Jennifer,146
+MA,F,1930.0,Jordan,172
+MA,F,1996.0,casey,687
+MA, M ,1953.0,James,186
+MA,F,2001.0,Alex,40
+MA,F,1972.0,James,527
+MA, M ,2000.0,Michael,326
+MA,M,1969.0, Casey ,
+MA,M,1938.0,Michael,362
+,,1982.0,Taylor,399
+ MA ,M,1931.0,Casey,32
+MA,F,1982.0,jordan,726
+MA,M,1984.0,Taylor,1065
+MA,M,1996.0,Casey,86
+MA,M,1919.0,Casey,23
+,F,1943.0,Alex,14
+MA,M,1942.0,James,7
+MA,,1922.0,Jennifer,65
+MA,M,1999.0,Alex,265
+MA, F ,1961.0,Jordan,1052
+MA,M,1966.0,Michael,266
+,F,1986.0,Linda,411
+MA,F,,Jordan,28
+MA,M,1948.0,Jordan,34
+MA,F,1990.0,,203
+MA,F,1942.0,Mary,5
+MA,F,2002.0,Patricia,101
+MA,M,1975.0,Taylor,443
+MA,F,1919.0,Mary,55
+MA,M,1944.0,Taylor,1134
+MA,M,,Taylor,310
+MA, M ,1961.0,Michael,222
+MA,M,1952.0,Alex,1383
+MA,F,1995.0,Patricia,
+MA,M,1974.0,Michael,1236
+MA,M,1959.0,James,363
+MA,F,1963.0,Jordan,1090
+MA, F ,2003.0,Mary,11
+MA,F,1937.0,Mary,95
+MA,F,1926.0,Linda,63
+MA,M,2001.0,Casey,921
+MA,M,1928.0,Michael,87
+MA,F,1955.0,Mary,112
+MA,M,1981.0,Robert,249
+MA,F,1932.0,Taylor,19
+MA,F,1977.0,Jennifer,219
+MA,M,2002.0, Mary ,72
+MA,F,2009.0,Taylor,25
+MA,F,1944.0,Alex,322
+MA,M,1938.0,James,613
+MA,M,,Jordan,41
+MA,F,1948.0,Jordan,15
+MA,,1965.0,Michael,63
+MA, M ,1936.0,James,326
+MA,M,1957.0,Jordan,9
+ MA ,F,1962.0,Casey,
+MA,M,1962.0,,67
+MA,F,1996.0,Linda,
+ MA ,M,1924.0, Alex ,115
+MA,F,1948.0, Patricia ,327
+MA,M,1974.0,Jennifer,597
+MA,M,,James,37
+MA,M,2000.0,Jordan,192
+ MA ,M,1993.0,Robert,478
+MA,F,1970.0,Linda,26
+MA,,2001.0,Linda,899
+MA,M,1974.0,,776
+MA,M,2020.0,John,404
+MA,F,2006.0,Linda,303
+MA,F,,Linda,198
+MA,F,1989.0,Linda,201
+MA,F,1969.0,Casey,71
+MA,F,2010.0, Alex ,12
+MA, F ,1982.0,Alex,14
+ MA ,F,1941.0,Alex,539
+ MA ,M,2015.0,Casey,851
+MA,F,1932.0,Jordan,14
+ MA ,F,1973.0,Jordan,137
+MA,F,1944.0,Mary,492
+ MA ,M,1942.0,Jordan,80
+ MA ,M,1966.0,James,
+, M ,2000.0,Alex,13
+MA,M,1969.0,Alex,16
+MA,,1960.0,Patricia,431
+MA,F,2012.0,,47
+MA,F,1965.0,Linda,902
+MA,F,1931.0,Jennifer,20
+MA, F ,2005.0,Alex,36
+MA,M,1918.0,Jordan,83
+MA,M,,Alex,34
+MA, M ,1964.0,Alex,
+MA,M,2013.0,,10
+MA,F,1966.0,Jordan,
+MA,F,1929.0,Patricia,130
+MA,M,1980.0,Robert,113
+MA,,1988.0,Jennifer,19
+MA, M ,1919.0,Robert,17
+MA,M,1962.0,Jennifer,307
+ MA ,M,1935.0,Taylor,152
+MA,F,1928.0,Jennifer,30
+MA, M ,1926.0, Michael ,419
+MA,F,2013.0,Casey,144
+MA,M,1952.0,Jordan,94
+MA, F ,1999.0,Alex,328
+MA,F,2015.0,Jennifer,315
+MA,M,1933.0,Alex,5
+MA, M ,1928.0,Alex,170
+MA,M,1941.0,James,34
+MA,F,1942.0,Taylor,22
+,M,2015.0,Michael,40
+,F,1977.0,Linda,55
+ MA ,F,1935.0,Taylor,20
+MA,M,2010.0,James,103
+MA,F,1969.0,Mary,980
+MA,,1961.0,Jordan,210
+MA,F,,alex,692
+MA, F ,1918.0,Casey,95
+MA,M,1949.0,Alex,78
+MA,M,1951.0,Robert,423
+MA,M,1977.0,Taylor,125
+ MA ,M,2008.0,Michael,57
+MA,M,1973.0,,21
+,F,1980.0,Taylor,135
+MA,M,1984.0,Alex,335
+MA,F,1964.0,Jordan,278
+MA,F,2012.0, Jennifer ,386
+MA,F,1994.0,Patricia,34
+MA,F,1969.0,Taylor,15
+MA,F,1987.0,Casey,376
+MA,F,1922.0,Jordan,240
+MA,F,1966.0,Mary,735
+MA,F,1947.0,Taylor,
+,M,,Casey,40
+MA,M,1985.0,Michael,462
+MA,F,1968.0,Mary,14
+MA,F,1969.0,Jordan,171
+MA,M,1959.0,Jordan,790
+MA,F,2015.0,Taylor,21
+MA, F ,1999.0,Casey,152
+MA,M,1967.0,Michael,839
+MA,F,,Patricia,211
+MA, F ,2000.0,Patricia,367
+MA, F ,1916.0,Jennifer,100
+MA,F,1967.0,Michael,1140
+MA,M,2019.0,Michael,158
+MA,M,1934.0,Alex,156
+,M,1993.0,Alex,222
+MA,F,1981.0, Mary ,157
+MA, F ,1946.0,Linda,342
+ MA ,M,2003.0,Casey,17
+MA,F,1953.0,Taylor,135
+MA,,2006.0,michael,105
+MA,M,1936.0,John,275
+MA,M,1985.0,James,303
+MA,M,1957.0,Alex,84
+MA,M,1990.0,Jordan,156
+MA,F,1983.0,Mary,343
+MA,M,2020.0,John,404
+MA,M,2015.0,,82
+MA,F,1959.0,Alex,141
+MA, M ,1952.0,Michael,40
+MA,M,1966.0,Alex,64
+MA,M,1986.0,Taylor,747
+MA,F,,Casey,12
+MA,M,1915.0,James,100
+MA, M ,1951.0,James,496
+MA,M,1951.0,,52
+MA,F,1955.0,Patricia,369
+MA,M,1973.0,alex,29
+MA,F,1976.0,Jordan,148
+MA,F,2000.0,Jennifer,380
+MA,M,1956.0,Alex,164
+MA,F,1971.0,Linda,72
+MA,M,1946.0,Jordan,56
+MA,M,2006.0,Alex,205
+MA,M,2017.0,Jordan,886
+MA,M,2005.0,,583
+MA,M,1949.0,casey,291
+MA,M,2003.0,Robert,161
+MA,M,1926.0,Alex,166
+ MA ,F,1956.0,Jennifer,19
+MA,F,1987.0,Taylor,339
+MA,F,1967.0,Mary,82
+ MA ,F,1997.0,Taylor,103
+,F,1947.0,Linda,47
+MA, F ,1974.0, Patricia ,212
+MA,,2001.0,Jordan,376
+MA,F,1999.0,Jordan,52
+MA,M,1999.0,Taylor,79
+MA,M,,Taylor,105
+MA,F,2008.0, Mary ,316
+MA,M,1933.0,Taylor,131
+MA,F,1969.0,Patricia,987
+MA,M,,michael,10
+, M ,1941.0,Michael,23
+ MA ,M,1946.0,Michael,552
+MA,F,1949.0,Alex,276
+MA,F,1962.0,Taylor,108
+MA,M,1955.0, Taylor ,407
+MA,F,1973.0,Casey,263
+MA,M,1996.0, Jordan ,325
+MA,M,1994.0,Michael,54
+MA,F,2014.0,Linda,45
+MA,M,1988.0,Taylor,96
+MA,M,1977.0,Jordan,670
+MA,M,1980.0,Jordan,
+MA,F,1985.0,Jordan,677
+MA,F,1925.0,Jennifer,260
+MA,F,1982.0,Mary,533
+,M,1998.0,Robert,528
+MA,F,1979.0,Taylor,824
+MA,M,1973.0, Michael ,207
+MA,,2005.0, Casey ,215
+MA,M,1917.0,Jordan,21
+ MA ,M,1971.0,Robert,
+MA,M,1986.0,Michael,742
+MA,M,1950.0,John,95
+MA,F,1994.0,John,385
+MA,F,1993.0,Jordan,
+MA,M,1949.0,,41
+MA,F,1984.0, Patricia ,1053
+MA,M,1966.0,Taylor,75
+MA,M,1992.0,Casey,189
+MA,M,1994.0,Casey,149
+MA,M,2001.0,John,27
+MA,F,2012.0,Jordan,11
+MA,F,,Linda,22
+,F,1956.0,patricia,420
+MA, M ,1957.0,James,129
+MA,F,1984.0,Casey,109
+MA, F ,,Mary,31
+,F,2021.0,Jordan,148
+MA, M ,1974.0,james,35
+ MA , M ,2000.0, James ,38
+,M,1921.0,Jordan,72
+MA,F,1934.0,Alex,13
+MA,F,,Patricia,159
+MA,M,1958.0,James,27
+MA,F,2004.0,Linda,443
+MA,M,1986.0,robert,306
+MA,F,1983.0,Patricia,329
+MA,F,1959.0,Jennifer,68
+,M,1981.0,Taylor,432
+, M ,,taylor,236
+MA,F,1997.0,Alex,222
+MA,M,1961.0,Casey,700
+MA,,1928.0,Linda,6
+MA,F,1962.0,Linda,516
+MA,M,1981.0,Casey,398
+MA,F,1940.0,Jordan,23
+MA,M,1958.0,,345
+MA,M,1967.0,Casey,473
+MA,F,1924.0,Casey,7
+MA,F,1937.0,Taylor,14
+MA,M,1929.0,Casey,77
+MA,F,1986.0,Robert,698
+MA,F,1973.0,Jennifer,61
+MA,M,1968.0,Jennifer,24
+MA, F ,1958.0,Jennifer,37
+MA,F,2017.0,Jennifer,21
+MA,M,1931.0,John,217
+ MA , M ,1942.0,Michael,477
+MA,F,1957.0,,25
+MA,F,1986.0,Taylor,97
+,M,1977.0,John,109
+MA,F,1941.0,Taylor,204
+MA,,1970.0,,157
+MA,,1942.0,Jennifer,246
+MA,M,1994.0,,420
+MA,F,1972.0,Casey,362
+MA, F ,1979.0,Linda,465
+MA,M,1911.0,Casey,138
+MA,F,1943.0,Patricia,53
+MA,,1976.0,Casey,406
+MA,M,,James,177
+MA,F,1970.0,Alex,71
+ MA ,F,1940.0,alex,617
+MA,F,1941.0,Mary,78
+MA,,1995.0,Taylor,279
+MA,F,2020.0,Linda,11
+ MA ,F,2014.0,Patricia,13
+MA,F,1998.0,Patricia,
+MA,M,1999.0,John,
+MA,M,1956.0,Robert,45
+MA,M,1943.0, Jennifer ,25
+MA, F ,1939.0,Mary,13
+MA,F,,Taylor,34
+MA,F,2001.0,Taylor,67
+MA,F,1921.0,Casey,136
+MA,M,1941.0,Casey,9
+,M,1974.0,Patricia,351
+ MA ,M,1953.0,,139
+MA, F ,2012.0,Casey,53
+, M ,2009.0,Michael,181
+MA,M,1948.0,Patricia,557
+MA,M,1919.0,Michael,31
+MA,F,2017.0,Jordan,47
+MA,F,1965.0,Mary,580
+MA,M,1931.0,Taylor,30
+MA,F,1926.0, Casey ,11
+MA,M,1928.0,Robert,
+ MA ,M,1934.0,James,28
+MA,F,1989.0,Mary,19
+MA,,2001.0,Patricia,29
+MA,M,1991.0,Casey,808
+MA,M,1927.0,Michael,34
+MA,F,1971.0,Patricia,319
+MA,F,1974.0,Mary,497
+MA,F,1912.0,Alex,13
+MA,F,,Jordan,884
+MA,M,1973.0,John,827
+MA,F,1982.0,Jennifer,38
+MA,F,1975.0,Patricia,380
+MA,F,1931.0,Casey,7
+MA,F,1949.0,Jordan,27
+MA,M,1983.0, Casey ,51
+MA,F,1990.0,Jordan,
+MA,F,2010.0,Linda,170
+,M,2000.0,Casey,139
+MA,,2008.0,Taylor,213
+MA,F,,Patricia,
+MA,F,1945.0,Casey,51
+MA,F,2022.0,Taylor,102
+MA, F ,2020.0,Casey,165
+MA,F,2015.0,John,13
+ MA ,F,1941.0,Casey,16
+MA,M,1963.0,,167
+,,1929.0,Mary,40
+MA,F,2002.0,Casey,263
+MA,M,1947.0, Robert ,136
+ MA ,M,2004.0,Casey,21
+MA, F ,1970.0,Jordan,223
+,F,2001.0,Mary,276
+MA,M,1968.0,Alex,224
+MA,M,2016.0,,79
+MA,M,2010.0,Michael,8
+MA,M,1982.0,Michael,
+MA,F,1923.0,,25
+MA,F,1974.0,,489
+MA,F,1961.0,Robert,254
+MA,M,2014.0,Casey,66
+MA, F ,1989.0,Jordan,90
+MA,F,1951.0,Michael,379
+MA,M,1930.0,Jordan,194
+MA,M,2009.0,Alex,762
+,F,1960.0,linda,545
+,M,1959.0,Michael,116
+MA,M,2016.0,Jordan,
+MA,M,1930.0,Taylor,30
+MA,M,1984.0,James,777
+MA,M,1978.0,Taylor,630
+MA, F ,1951.0,casey,376
+MA,F,,Taylor,83
+MA, M ,1980.0,John,209
+MA,F,2014.0,Jennifer,56
+MA,M,1972.0,Casey,
+MA,M,1964.0,James,
+ MA ,F,2022.0,Casey,12
+MA,,1970.0,Casey,100
+ MA ,,1991.0,Alex,45
+MA,M,,Taylor,313
+MA,M,1990.0,Taylor,462
+MA,F,1947.0,Jennifer,54
+MA,M,1948.0,,39
+MA,M,1941.0,Casey,9
+MA,F,1998.0,Linda,645
+MA,M,1911.0,Michael,13
+MA,M,1925.0,Taylor,275
+ MA ,F,1917.0,Mary,43
+MA,M,2004.0,Robert,54
+ MA ,M,2010.0,Taylor,9
+MA,M,1912.0,James,62
+MA,M,1993.0,Michael,1145
+MA,M,1957.0,Taylor,58
+MA,F,1944.0, Patricia ,527
+MA,F,1933.0,Jordan,355
+MA,F,1922.0,Taylor,140
+MA,M,1974.0,Alex,358
+MA,M,1970.0, Robert ,210
+MA,M,1960.0,Jordan,416
+MA,F,1945.0,Patricia,369
+MA,M,1999.0,Jordan,30
+MA,F,2010.0,Casey,48
+MA,F,1991.0,Jordan,130
+MA,F,1940.0,Taylor,7
+MA,M,, Robert ,526
+MA,M,1930.0,,144
+MA,M,1966.0,John,64
+MA,F,1963.0,Linda,813
+ MA ,F,1939.0,Taylor,14
+MA,M,1947.0,John,1004
+MA,M,2005.0,Alex,249
+MA,F,2003.0,Jennifer,302
+MA,F,1911.0,Patricia,75
+MA,F,1949.0,Taylor,129
+MA, M ,1983.0,Alex,673
+MA,F,1972.0,Alex,138
+MA,F,1953.0,Patricia,631
+ MA ,M,1976.0, Michael ,400
+MA,F,1940.0,Casey,36
+MA,M,1993.0,Jordan,38
+MA,M,2002.0,James,739
+MA,M,1924.0,John,353
+MA,F,1935.0,Mary,9
+,F,1993.0,Jennifer,
+MA,M,1956.0,Michael,20
+MA,F,1991.0,,769
+MA,M,1959.0,Alex,314
+MA, M ,1944.0,James,15
+MA,F,2000.0,Linda,1028
+MA,F,1971.0,Jennifer,66
+,,1914.0,Casey,25
+MA,M,2018.0,Jordan,
+MA,F,2016.0,Taylor,13
+MA,M,2009.0,Casey,848
+MA,M,2010.0,John,54
+MA,M,1988.0,Jordan,23
+ MA ,M,2019.0,,215
+ MA ,F,1994.0,,112
+MA,M,1973.0,Jordan,899
+MA,M,1945.0,Robert,96
+MA,F,1958.0,Casey,580
+MA, F ,1986.0,patricia,589
+MA,M,2015.0,John,271
+MA,F,1937.0,Jennifer,365
+MA, F ,2014.0,,21
+MA,M,1953.0,Taylor,248
+MA,M,1952.0,Robert,20
+MA,F,2011.0,Patricia,109
+MA,M,1950.0,Robert,611
+ MA ,F,1954.0,Jennifer,489
+MA,F,1986.0,,350
+MA,M,2003.0,James,32
+MA,M,1997.0,Robert,287
+MA,M,1948.0,Taylor,23
+MA,M,1974.0,Taylor,220
+MA,,1948.0,John,1154
+MA,M,1990.0,Michael,211
+MA,F,,Jordan,423
+ MA ,F,1956.0,Linda,536
+MA,F,2005.0,Jennifer,48
+,M,1988.0,James,150
+MA,M,1926.0,James,258
+ MA ,F,1974.0,Jordan,159
+MA,M,2018.0,Jordan,
+MA,F,1990.0,Mary,131
+MA,F,2022.0,Patricia,42
+MA,F,1992.0, Jennifer ,16
+MA,M,1923.0,John,7
+MA,F,1950.0,Casey,28
+MA,M,1975.0,Robert,304
+MA,F,1970.0,Patricia,67
+MA,F,1931.0,Taylor,14
+MA,M,1960.0,James,212
+MA,F,2006.0,Taylor,9
+MA,M,2002.0,Michael,38
+MA,M,1971.0,taylor,336
+MA,F,1965.0,Alex,27
+MA,F,1957.0,Mary,456
+MA,M,1915.0,Casey,28
+MA,F,1976.0,Taylor,300
+ MA ,M,1997.0,Michael,506
+MA,F,2000.0,Casey,240
+MA,F,1975.0,Casey,815
+MA,M,1992.0,James,92
+MA,F,1941.0,Patricia,9
+MA,M,1925.0,Robert,87
+MA, F ,1988.0,Taylor,539
+MA,F,1942.0,Robert,399
+ MA ,M,1955.0,John,79
+ MA ,M,1984.0,Casey,766
+MA,M,1975.0,Casey,267
+MA,F,1962.0,Jordan,109
+MA,M,1937.0,James,40
+,F,2019.0,Jordan,9
+MA,F,2000.0,Mary,68
+MA, F ,1916.0,Jordan,22
+MA,M,1910.0,Casey,73
+ MA ,M,2018.0,Alex,362
+,M,1927.0,Taylor,24
+MA,M,1970.0,Michael,32
+MA,,1954.0,Linda,170
+MA, M ,2011.0,Jordan,668
+MA,M,1996.0, Taylor ,14
+MA, M ,1934.0,Jordan,100
+MA, M ,1975.0,Jordan,519
+MA,F,1934.0,Casey,8
+MA, M ,1985.0,Patricia,483
+MA, M ,1976.0,Alex,399
+MA,F,1944.0,Jordan,63
+MA,F,1950.0,Mary,97
+MA,F,1956.0,,621
+MA,M,1981.0,Alex,723
+MA,F,1952.0, Mary ,591
+MA,M,1946.0,Casey,115
+MA,F,1998.0,Jennifer,943
+MA, M ,2013.0,Casey,286
+MA, M ,1978.0, Michael ,303
+MA,F,1953.0,,33
+ MA ,F,1961.0,Taylor,64
+MA,M,1967.0,John,207
+MA,,1984.0,Alex,53
+MA,M,1984.0,John,290
+ MA ,F,1966.0,Casey,118
+ MA ,M,1971.0,Patricia,
+MA,F,1952.0,Casey,599
+MA,M,2007.0,John,68
+MA,M,1910.0,James,9
+MA,M,2014.0,Robert,175
+MA,F,1957.0, Alex ,161
+MA,M,,Patricia,78
+MA,M,1922.0,James,9
+MA,M,2022.0,Taylor,130
+MA,F,1957.0,Taylor,912
+MA,F,2019.0,Mary,46
+MA,M,1991.0,John,375
+MA,F,1929.0,Jennifer,32
+MA,M,1956.0,John,665
+MA,M,2003.0,Jordan,125
+ MA ,M,1937.0,Alex,24
+MA,M,1989.0,Jordan,498
+MA,M,1954.0, Alex ,79
+ MA ,M,1947.0,Jordan,22
+MA,M,1997.0,James,498
+MA,F,1974.0,Taylor,9
+MA,F,1999.0,Linda,274
+ MA ,F,1980.0, Linda ,377
+ MA ,F,1976.0,Casey,257
+ MA , F ,1918.0, Jennifer ,5
+,M,1985.0,Jordan,676
+MA,F,1969.0,Jennifer,
+MA,F,2022.0,Jennifer,23
+MA,F,1954.0,Mary,11
+MA,F,1976.0,Patricia,447
+MA,F,1936.0,jennifer,273
+,M,1960.0,Taylor,1477
+MA, F ,1929.0,Taylor,19
+MA,F,2012.0,Taylor,6
+MA,M,1920.0,John,187
+MA, F ,1983.0,Jordan,266
+MA,F,1922.0,Mary,10
+ MA ,F,1967.0, Robert ,540
+MA,F,1943.0,Taylor,35
+MA, F ,1963.0,Mary,36
+MA,,1954.0,John,257
+MA,M,2013.0,Jordan,176
+MA,M,1979.0,,90
+MA,M,2019.0,Alex,13
+MA,F,2013.0,Linda,590
+, F ,1948.0,Mary,27
+MA, M ,1944.0, John ,9
+MA,M,1959.0,Alex,314
+MA,M,1973.0,Taylor,386
+ MA , F ,1997.0,Patricia,
+,M,2011.0,John,61
+MA,F,1951.0,Patricia,75
+MA,F,2015.0,Alex,63
+MA,M,2021.0,,100
+MA,M,2012.0,Michael,253
+MA,F,1991.0,Mary,199
+MA,M,1958.0,Jennifer,83
+MA,F,2011.0,Mary,330
+MA,F,1947.0,Mary,129
+MA,F,1921.0,,197
+ MA ,F,1990.0,Alex,223
+MA,M,1989.0,jennifer,351
+MA,F,1960.0,James,721
+MA,F,1975.0,Taylor,
+MA,F,1989.0,Jennifer,368
+ MA ,F,1969.0,John,263
+ MA , F ,2004.0,,59
+ MA ,M,,Taylor,120
+MA,,1965.0,Robert,166
+MA,M,1974.0,John,509
+MA,F,1992.0,Patricia,110
+MA,M,1943.0, Jennifer ,25
+MA, F ,1956.0,Taylor,219
+MA,F,1955.0,Casey,76
+MA,F,1992.0,,16
+MA,M,1955.0,alex,409
+MA,M,1968.0,Taylor,
+MA,M,1963.0,michael,614
+MA,F,1919.0,Jordan,297
+MA,M,1949.0,Jordan,32
+,F,2008.0,Alex,172
+MA,M,1935.0,Jordan,
+MA,F,2007.0,Mary,109
+MA, F ,1927.0,Mary,256
+MA, M ,1992.0,Taylor,96
+ MA ,M,1936.0,,218
+MA,,2015.0,Taylor,290
+MA,M,1975.0,Michael,176
+MA,M,1948.0,Jennifer,49
+MA, M ,2013.0,James,44
+ MA ,M,1952.0,James,58
+MA, M ,1914.0,,13
+MA,F,1960.0,Alex,336
+MA,M,1916.0,James,8
+MA,M,1934.0, Robert ,8
+MA,M,1929.0,James,19
+MA,,1944.0,Alex,51
+MA,F,1984.0,Linda,57
+ MA ,,1910.0,Jordan,25
+MA,M,1993.0,James,286
+MA,F,2003.0,linda,64
+MA,F,1961.0,Mary,504
+MA, F ,1967.0,Taylor,567
+MA,M,1982.0,casey,445
+MA,M,,Michael,227
+ MA ,F,1981.0, Taylor ,255
+MA,M,,Michael,265
+,M,1995.0,James,
+MA,F,1971.0, Mary ,
+MA,M,1977.0,Robert,317
+MA,F,1968.0,Casey,270
+MA,F,2015.0,Linda,22
+MA,F,1987.0,Patricia,227
+MA,F,1994.0,Taylor,203
+MA,F,1945.0,Linda,130
+MA,M,1983.0,Robert,225
+MA,M,1939.0,alex,10
+MA,M,2015.0,Jordan,16
+MA,M,2005.0,Robert,127
+MA,F,1960.0,Taylor,35
+MA,M,1950.0,James,36
+MA,M,1982.0,James,48
+MA,M,,Casey,59
+ MA , F ,1961.0,Alex,
+,F,1999.0,Mary,296
+MA,M,1994.0, Jordan ,720
+MA,M,1983.0,Taylor,67
+MA,M,1956.0,Jordan,140
+MA, M ,1992.0,John,348
+MA,M,2013.0,Michael,527
+MA,M,1992.0,Jordan,185
+MA,,1967.0,Taylor,
+MA, F ,2006.0,Jennifer,9
+MA,F,1912.0,Jennifer,24
+MA, F ,1916.0,Casey,96
+MA,F,1998.0,Jordan,320
+MA,F,2006.0,Patricia,913
+MA,M,,Jordan,925
+MA,M,1924.0, Jordan ,5
+MA,M,2005.0,Casey,872
+,M,1941.0,Alex,94
+MA, F ,2007.0,Patricia,74
+,M,1942.0,John,105
+MA,F,1968.0, Linda ,
+MA,M,1998.0,Taylor,165
+MA,F,1990.0,Taylor,207
+MA,F,1965.0,Jordan,823
+MA,M,1923.0,robert,165
+MA,M,1998.0,Jordan,244
+MA,M,1914.0,Jordan,23
+MA,F,1980.0,jordan,279
+MA,F,,Alex,299
+MA,M,1935.0, Alex ,15
+MA,M,1927.0,Jordan,28
+,F,1952.0,Jordan,34
+ MA ,M,,Alex,285
+MA,F,1942.0,Alex,
+MA, M ,2002.0,Jordan,87
+,F,2021.0,Alex,10
+MA,M,1937.0,Mary,132
+MA,M,1940.0,Taylor,28
+MA,M,1976.0,Jordan,589
+MA,F,1930.0,Patricia,7
+,F,2010.0,Taylor,113
+MA,F,1992.0,Jordan,
+MA,M,1989.0,James,186
+MA,M,2020.0,James,281
+MA,F,1980.0,Patricia,545
+MA,M,1948.0,Robert,226
+MA,F,1925.0,Jordan,29
+MA,F,,Jordan,18
+MA,,2000.0,jordan,
+MA,M,1961.0,John,597
+MA,F,1917.0,Jennifer,122
+MA,F,1998.0,Mary,190
+MA,F,1921.0,Jordan,24
+ MA ,M,1985.0,Robert,19
+MA,F,1964.0,Alex,113
+MA,M,1987.0,Casey,741
+MA,M,1942.0,Casey,163
+MA,F,1944.0,Casey,9
+MA,M,2018.0,Michael,29
+MA, M ,2002.0,Casey,807
+,F,1964.0,Patricia,546
+ MA , F ,1985.0,casey,537
+MA,M,1947.0,Casey,44
+MA,,1979.0,Jennifer,137
+MA,F,1997.0,Jordan,70
+MA,F,1961.0,Michael,110
+MA, M ,2004.0,,155
+MA,F,1948.0,Linda,138
+ MA ,M,2007.0,Jordan,16
+MA, M ,1989.0,John,
+,M,1987.0,Jennifer,
+MA,M,1954.0,Jordan,20
+MA,F,2015.0,Casey,42
+MA,F,2019.0,Alex,
+MA,F,1952.0, Taylor ,27
+MA, M ,1979.0,James,298
+MA,M,1987.0,Jordan,7
+MA,F,1945.0,Alex,464
+MA,M,,Taylor,1168
+MA,M,1928.0,Taylor,84
+MA,M,2002.0,Taylor,52
+MA,F,2003.0,Robert,524
+MA,M,1990.0,Casey,303
+ MA ,M,1969.0,James,15
+MA,M,1932.0,James,
+MA,F,, Taylor ,9
+MA,M,1961.0,James,61
+MA,M,,John,231
+MA,M,1964.0,Casey,
+MA,F,1919.0,Alex,6
+,F,1923.0,Casey,7
+,F,1993.0,Patricia,7
+ MA ,M,1984.0,Robert,409
+MA,M,1968.0,James,596
+MA,M,1978.0,John,788
+MA,F,1993.0,Mary,106
+MA,,1950.0, Linda ,153
+MA,M,1992.0,Alex,310
+MA,M,,James,27
+MA, F ,1948.0,Jennifer,7
+MA,F,2011.0,Jennifer,732
+MA,M,1929.0,Alex,27
+MA,F,2007.0,Casey,15
+MA,M,,,485
+MA,F,1941.0,Jordan,19
+MA,F,1925.0, Taylor ,107
+MA,M,,,977
+MA,M,1943.0,Taylor,391
+,F,1920.0,Alex,31
+MA, M ,1969.0,John,778
+MA,M,1981.0,james,266
+MA,F,2011.0,Linda,850
+MA, F ,1931.0,,5
+MA,F,2006.0,Jordan,29
+MA,F,1967.0,Casey,334
+MA,F,1932.0,Jennifer,237
+MA,M,1933.0,Casey,357
+MA, F ,, Taylor ,185
+MA,F,1938.0,casey,5
+MA,M,1987.0,John,113
+MA,F,1982.0,Patricia,170
+MA,M,1978.0,Jordan,200
+MA, M ,1995.0,Casey,322
+ MA ,F,1931.0,Alex,60
+MA,M,1991.0,Taylor,224
+MA,F,2000.0,Taylor,255
+MA,F,1983.0,Jennifer,314
+MA, M ,1958.0,Taylor,138
+MA,F,1935.0,Linda,81
+MA,M,1991.0,,471
+MA,M,1971.0,Casey,115
+MA,M,1998.0,John,253
+MA,F,2011.0,Casey,1408
+MA,M,1995.0,Mary,1015
+MA,F,2022.0,Alex,19
+MA,M,1932.0,Alex,29
+MA,F,1957.0,Robert,21
+MA,F,1975.0,Jennifer,686
+MA,M,1976.0,Robert,
+MA,F,1963.0,Alex,59
+MA,F,1967.0,Patricia,831
+MA,M,2014.0,Jordan,225
+, F ,1994.0,Linda,16
+MA,F,1958.0,Taylor,30
+MA,M,1967.0,,272
+MA,M,1982.0,Jordan,569
+MA,M,, James ,9
+ MA ,M,1929.0,John,261
+MA, F ,2011.0,,251
+MA,M,1979.0,Alex,304
+MA, F ,1939.0,Patricia,74
+,F,1947.0,Alex,448
+MA,M,2012.0,,189
+MA,F,1968.0,taylor,140
+MA,M,1971.0,James,232
+MA,M,1913.0,Jordan,39
+MA,M,1986.0,Jordan,480
+MA,M,,John,673
+MA,F,2016.0,Linda,46
+ MA , F ,1988.0,Jordan,912
+MA, M ,1996.0,Robert,510
+MA,F,1973.0,,382
+MA,M,2011.0,Robert,88
+MA,F,2004.0,Mary,310
+MA,F,2018.0,Casey,283
+MA,F,1971.0,Taylor,
+MA,F,2007.0,Jennifer,254
+MA,F,1910.0,Taylor,21
+,F,1934.0,Jordan,170
+ MA , M ,1949.0,Michael,359
+MA, F ,1947.0,Jordan,13
+MA,M,2017.0,Taylor,25
+MA,F,2009.0,Jennifer,143
+MA,F,1949.0,,321
+MA,F,1970.0,,736
+ MA , F ,1997.0,Casey,1010
+MA,F,1997.0,Mary,523
+MA,F,1920.0,Mary,247
+MA,F,1995.0,Alex,218
+MA, F ,1981.0,Casey,187
+MA,F,2017.0,Mary,200
+ MA ,F,1983.0,Alex,61
+MA,M,2004.0,Alex,363
+MA,M,1919.0,Jordan,137
+MA,M,2018.0,Jennifer,40
+MA,F,1999.0,Jordan,52
+MA, M ,1994.0,James,136
+MA,M,1972.0, John ,132
+MA,M,2001.0,Michael,386
+MA,F,1985.0,Jennifer,879
+MA,F,1974.0,Jennifer,
+MA,M,,Robert,736
+MA,F,1989.0,Casey,31
+MA,M,1945.0,James,162
+MA,F,2016.0,,89
+MA,F,1936.0,casey,21
+MA,F,1932.0,Linda,423
+MA,M,1971.0,Jordan,375
+MA,M,1981.0,Jordan,10
+ MA ,F,2017.0,Casey,41
+MA,F,1933.0,Alex,7
+MA,M,2001.0,James,59
+MA,M,1976.0,Taylor,50
+MA,M,1939.0,Jordan,8
+MA,F,1984.0,Jennifer,34
+MA,,2007.0,James,845
+MA,M,1943.0,Jordan,93
+MA,F,1952.0,Michael,70
+MA,M,1959.0,John,16
+MA,F,2013.0,Jennifer,5
+MA,M,2022.0,,20
+MA, M ,1996.0,James,864
+MA,M,2012.0,Taylor,
+MA,M,2019.0,Taylor,14
+ MA ,M,1928.0,John,116
+MA,,1925.0,John,54
+MA,M,1953.0,Jennifer,729
+MA,F,1985.0,James,1120
+MA,,1966.0,Linda,401
+MA,F,1945.0,James,29
+MA,F,1941.0,Jennifer,89
+MA,M,1993.0,Taylor,111
+MA, F ,1928.0,jordan,40
+MA,M,2022.0,John,291
+ MA ,F,1992.0,mary,627
+MA,F,1980.0,,994
+MA, M ,1940.0,John,148
+MA,M,1977.0,Casey,49
+MA,M,2012.0,James,22
+MA,M,2007.0,Alex,435
+ MA , F ,1955.0,Jennifer,81
+MA,M,1964.0,Robert,
+MA,,1970.0,,157
+MA,,1963.0,taylor,76
+MA,M,2006.0,Casey,24
+MA,F,1991.0,Casey,91
+MA,F,1979.0,Jordan,57
+ MA ,F,2018.0,taylor,51
+MA,M,2005.0,James,146
+MA,F,2019.0,Taylor,10
+ MA ,M,2008.0,Alex,778
+MA,F,1966.0,Alex,882
+MA,F,2002.0,Jordan,8
+MA,M,1939.0,Michael,228
+,M,1962.0,Jordan,276
+MA,F,1935.0,Jordan,17
+MA,F,1978.0,Casey,104
+MA,F,1958.0,Michael,992
+MA,M,2009.0,James,366
+MA, M ,1945.0,Alex,801
+MA,,1946.0,John,33
+MA,M,1952.0,Casey,6
+MA,,2007.0,Jordan,115
+MA,,1959.0, Patricia ,102
+MA,,1987.0,,146
+MA, F ,1972.0,Taylor,683
+,M,2017.0,Michael,64
+MA,F,1977.0,Alex,372
+MA,F,1942.0,Jordan,31
+MA,F,1963.0,Casey,788
+MA,M,2011.0,Alex,
+MA,M,1972.0,Robert,315
+MA,F,1984.0,Jordan,182
+MA,M,1992.0,Michael,38
+,F,1956.0,Casey,281
+MA,,2020.0,Robert,212
+MA,F,2002.0,alex,804
+MA,F,2009.0,Mary,222
+MA,F,1980.0,Casey,685
+MA,F,1945.0,Taylor,41
+MA,F,1948.0,Taylor,27
+MA,F,1960.0,Mary,38
+MA, M ,1975.0,James,532
+MA,M,1925.0,Jordan,10
+ MA ,M,1967.0,robert,940
+MA,F,1987.0,,72
+,,1986.0,Mary,38
+MA,,1948.0,Michael,581
+MA,F,2014.0,James,
+, F ,1936.0,Jordan,164
+ MA , F ,2018.0,Mary,262
+MA,F,1936.0,Alex,10
+MA,F,2005.0,mary,89
+MA,F,1978.0,Jennifer,361
+,M,1983.0,michael,
+MA,F,1994.0,Jennifer,372
+MA,F,1980.0,Mary,637
+MA,F,1979.0,Mary,828
+MA,F,1986.0,Jennifer,121
+MA,F,1918.0,Alex,6
+MA,M,1980.0,James,
+MA,M,1954.0,Mary,93
+MA,F,,Linda,66
+MA,M,1926.0,Taylor,199
+MA,F,1953.0,Jordan,
+MA,M,1968.0,Casey,196
+MA, F ,1967.0,Jennifer,821
+ MA ,M,1978.0,Robert,615
+MA,F,1946.0,,217
+ MA ,F,1981.0,Patricia,751
+MA,F,1942.0,Patricia,6
+MA,F,2001.0,Jennifer,15
+MA,F,1991.0,Robert,640
+MA,M,1951.0,taylor,68
+MA,F,2009.0,Linda,53
+MA,M,1971.0,Alex,985
+MA,M,1987.0,Taylor,114
+MA,F,1970.0,Taylor,334
+MA,M,1955.0,Casey,641
+MA,M,1979.0,Casey,222
+,F,1990.0,Linda,484
+MA,F,1969.0,Linda,791
+MA,F,1938.0,Mary,9
+MA,M,,James,138
+MA, F ,1972.0, Jennifer ,530
+MA,F,1922.0,Alex,7
+MA, M ,1954.0,Casey,612
+ MA ,F,1983.0,Casey,446
+MA,,2011.0,Taylor,75
+MA,F,1913.0,Taylor,60
+MA,F,2019.0,Casey,75
+MA,F,1950.0,Taylor,14
+MA, M ,1942.0,Alex,1079
+MA,M,1996.0,John,115
+ MA ,M,1965.0,Jordan,225
+MA,M,1945.0,Michael,6
+MA,F,,John,478
+MA,M,2006.0,Jordan,35
+MA,F,1924.0,Linda,26
+MA, F ,1994.0,Alex,454
+MA,F,1994.0,Jordan,59
+MA,M,2002.0,Robert,69
+ MA , M ,2017.0,Alex,738
+ MA ,F,1945.0,Jordan,340
+MA,F,1996.0,Jordan,722
+MA,F,1987.0,,53
+MA,F,1920.0,Jordan,35
+MA,M,1948.0,Casey,41
+ MA ,F,2015.0,Patricia,228
+MA,F,1966.0,Linda,710
+MA,F,1923.0,Jordan,342
+MA,F,2009.0,Alex,141
+MA,,2008.0,Jennifer,
+MA,M,1964.0,Jordan,781
+MA,M,1973.0,James,257
+MA,M,1985.0,Taylor,
+MA,F,1959.0,Taylor,398
+MA,F,2006.0,Alex,580
+MA,F,1980.0,Alex,66
+MA,F,1981.0,jennifer,308
+MA,F,1965.0,Taylor,542
+MA,F,1946.0,casey,396
+MA,F,1944.0,Taylor,200
+MA,F,2013.0,John,296
+MA,M,1916.0,John,6
+MA,M,1960.0,Robert,33
+,M,1940.0,Robert,95
+MA, M ,1931.0,James,35
+MA, F ,1938.0, Jennifer ,27
+MA,M,1923.0,Michael,117
+MA,F,1971.0,Alex,191
+MA,M,2014.0,John,24
+MA,F,1998.0,Casey,5
+MA,M,2021.0,Jordan,45
+MA,F,1978.0,Linda,156
+,F,2008.0,Taylor,828
+MA,M,1996.0,Alex,585
+MA,F,1924.0,Mary,145
+MA,F,1982.0,Linda,310
+MA,F,1967.0,Alex,462
+,M,1944.0,Michael,95
+MA,F,1979.0,John,129
+MA,M,1946.0,Alex,93
+MA,M,2004.0,taylor,614
+ MA ,F,1999.0,Taylor,
+MA,F,1997.0, Jennifer ,372
+MA,M,1921.0,Taylor,8
+MA,M,2010.0,Casey,97
+MA,F,1972.0,Linda,641
+MA,F,2019.0,Jennifer,87
+MA,M,1980.0,Alex,346
+MA,M,2000.0,jennifer,695
+MA,F,2021.0,Linda,73
+MA, M ,2016.0, Alex ,15
+MA,F,1952.0,Jennifer,1089
+MA,F,1914.0,Alex,16
+MA,M,1963.0,James,30
+MA,M,1935.0,Casey,297
+MA,F,1966.0,Taylor,685
+MA,F,1988.0,Robert,79
+MA, M ,,John,488
+MA, M ,1938.0,Robert,86
+ MA ,M,1977.0,James,320
+MA,M,1961.0,Taylor,593
+MA,F,1998.0,Alex,35
+MA,F,2001.0,Casey,54
+MA,M,1938.0,john,58
+MA,F,1952.0,Patricia,
+MA,F,1950.0, Jennifer ,349
+ MA ,F,1961.0,Linda,27
+MA,M,1975.0,John,1018
+MA,F,,Alex,66
+MA,F,,Casey,282
+MA,F,1915.0,Casey,7
+MA,F,1993.0,Linda,631
+MA,M,1911.0,Robert,5
+MA,F,1995.0,Casey,313
+MA,F,1955.0,Jordan,17
+MA,M,1977.0,Michael,324
+MA,M,,Robert,751
+MA, F ,1948.0,Alex,31
+MA,F,1939.0,Robert,57
+MA,,1971.0,Casey,670
+ MA , F ,1991.0, Linda ,26
+MA,F,1999.0,Jennifer,7
+MA,M,,Alex,247
+MA,M,1985.0, Casey ,131
+MA,M,2015.0,Robert,192
+MA,M,2007.0,Taylor,15
+MA,M,1955.0,Jordan,9
+MA,F,1948.0,Casey,5
+MA, M ,1989.0,Taylor,185
+MA, F ,1943.0,John,294
+MA,M,1926.0,Patricia,46
+MA,,1952.0,John,69
+MA,M,1940.0,Casey,28
+MA,F,2011.0, Jordan ,447
+ MA ,F,2021.0,Mary,39
+ MA ,M,2019.0,Robert,120
+MA,M,2008.0,Robert,
+MA,M,1928.0,Casey,123
+MA,F,1951.0,Jennifer,906
+MA,M,1954.0,James,359
+MA,F,1944.0,Linda,394
+MA,M,1984.0,Michael,613
+MA, F ,1983.0,Jordan,266
+MA,M,1955.0,Mary,104
+MA,M,1962.0,Robert,217
+MA,M,1954.0,Taylor,348
+MA,,1969.0,Robert,127
+MA,M,2021.0,casey,506
+MA,M,1918.0,John,84
+,M,1938.0,Jordan,467
+MA,M,,James,121
+ MA , F ,1984.0,Mary,931
+MA, M ,1985.0,John,184
+MA,F,1967.0,,
+MA,M,1955.0, Taylor ,407
+ MA , M ,2020.0,jordan,233
+MA,M,1920.0,Casey,18
+MA,,1932.0,Robert,29
+MA,M,1983.0,John,224
+MA,F,2004.0,Alex,137
+MA,M,1957.0,michael,35
+ MA ,F,1941.0,Linda,33
+MA,F,2005.0,Patricia,37
+MA,M,1977.0,Alex,58
+MA,F,2005.0,Taylor,391
+MA,F,1985.0,linda,432
+MA,M,1918.0,,138
+MA,M,,Alex,264
+MA,M,1946.0,Taylor,11
+ MA ,,1956.0,Mary,321
+MA,F,1965.0,Patricia,230
+MA, M ,2013.0,Robert,45
+MA,F,1959.0,Mary,
+MA,M,1943.0,Alex,17
+MA,M,1955.0,Robert,126
+MA,F,1976.0,Jennifer,62
+MA,F,1922.0,Linda,335
+MA, F ,1943.0,Jordan,146
+MA,F,2002.0,Taylor,258
+MA, M ,1986.0,James,475
+MA,F,1993.0,Casey,553
+MA,M,1953.0,Michael,62
+MA,M,1963.0,John,242
+MA,F,1932.0,Mary,9
+MA,M,2005.0,James,146
+MA,F,1935.0,Linda,81
+ MA , F ,1977.0,Casey,391
+MA,F,1964.0,Taylor,326
+MA, M ,1958.0,Robert,20
+MA,M,1915.0,Casey,28
+MA,M,1995.0,Jordan,451
+MA, M ,1970.0,Taylor,1228
+MA,F,1957.0, Jordan ,11
+MA,,1944.0,Alex,51
+MA,F,1979.0,Taylor,824
+MA,F,2009.0,Casey,139
+MA,M,1955.0,James,183
+MA,F,1923.0,,17
+MA,M,,Robert,49
+MA, F ,1996.0,Jennifer,8
+MA,F,,Michael,458
+MA,F,1945.0,Casey,51
+MA,F,2016.0,Patricia,357
+MA,M,1922.0, John ,111
+ MA ,F,1995.0,Mary,35
+ MA ,M,1951.0, John ,75
+MA,F,1928.0,Alex,41
+MA,F,1973.0,Linda,424
+MA,M,2016.0,John,464
+MA,M,1962.0,Taylor,34
+MA,M,1943.0,John,38
+MA,M,1996.0,Linda,156
+MA,M,2006.0,Jordan,35
+MA,,1949.0,Taylor,179
+ MA ,M,1991.0,alex,227
+ MA , M ,1972.0,James,505
+MA,F,1954.0,Patricia,308
+MA,M,1955.0,Michael,506
+MA,F,1978.0,Patricia,8
+ MA ,F,1992.0,mary,627
+MA,F,1982.0,Casey,180
+MA,M,1925.0,Casey,
+,F,2007.0,Linda,20
+ MA ,F,2021.0,Taylor,18
+MA,M,1932.0,Michael,302
+MA,M,1930.0,Alex,257
+ MA ,F,1923.0,Linda,270
+MA,M,, Jordan ,80
+MA, F ,1968.0,Jordan,
+MA,F,2019.0,Patricia,15
+MA,M,1931.0,Robert,12
+ MA ,M,1913.0,John,20
+MA,,1991.0,James,335
+MA,,1980.0,Taylor,949
+MA,F,1949.0,Linda,320
+MA,F,1999.0,Linda,274
+MA,M,1953.0,Alex,180
+MA, M ,1936.0,Robert,24
+MA,F,2016.0,Jennifer,179
+MA, F ,2010.0,James,240
+MA,F,2012.0,,6
+MA,M,1914.0,John,23
+MA,F,1988.0, Mary ,288
+MA,,2013.0,Jordan,26
+MA, F ,1945.0,,
+MA,F,1947.0,Mary,129
+MA,M,1959.0,Casey,217
+MA,M,1989.0,Robert,235
+MA,M,1963.0,robert,680
+MA,F,1979.0,Casey,165
+MA,M,1968.0,John,527
+MA,,2008.0,Patricia,652
+MA,F,1925.0,Jennifer,260
+MA,F,1962.0,Patricia,38
+MA,,2010.0,Jennifer,25
+MA,F,,Patricia,51
+MA, F ,1947.0,Casey,8
+MA,F,2016.0,Alex,22
+ MA ,M,2003.0,Alex,184
+MA,M,,Taylor,40
+MA,F,2020.0,Taylor,307
+MA, F ,2020.0,Michael,
+MA,F,,Patricia,49
+MA, F ,1934.0,Taylor,423
+,M,1910.0,Robert,41
+, F ,2012.0, Patricia ,12
+MA,M,2020.0,Taylor,249
+MA,M,1984.0,Jordan,176
+MA,M,2011.0,Michael,64
+,M,1988.0,Michael,12
+MA,,1983.0,James,247
+MA,F,1953.0,Casey,458
+MA,M,2003.0,John,81
+MA, M ,1918.0,Michael,90
+MA,M,1950.0,Alex,49
+MA,F,1937.0,casey,142
+MA,M,1961.0,alex,83
+, F ,1962.0,Alex,305
+MA,M,1941.0,Jordan,43
+MA,F,2010.0,Jordan,404
+MA,F,2020.0,Jennifer,41
+MA,M,1925.0,Casey,
+MA,M,1935.0,robert,363
+MA,M,2005.0,Taylor,283
+MA,M,1977.0,Jennifer,162
+MA,F,1935.0,Patricia,451
+MA,,1961.0,robert,1264
+MA,F,1958.0,Linda,662
+MA,M,2000.0,,794
+MA,,,Alex,942
+MA, F ,1962.0,Jennifer,668
+MA,M,1958.0,John,103
+MA,M,1991.0,Robert,116
+MA,F,2005.0,Jordan,75
+MA,M,1976.0,John,253
+ MA , M ,2021.0,Robert,125
+MA, M ,1929.0,Robert,5
+ MA ,M,1911.0,,30
+MA,M,2009.0, Taylor ,414
+MA,F,2016.0,Casey,26
+MA,F,1912.0,,9
+MA,M,1971.0,Michael,
+MA,M,2008.0,Jordan,551
+MA, M ,1990.0,Robert,432
+ MA ,M,1965.0,Alex,17
+MA, M ,2006.0,,60
+MA,F,1957.0,Jennifer,645
+MA,F,1940.0,Patricia,23
+MA,,2018.0,James,13
+MA,M,1952.0,Patricia,130
+MA,M,1963.0,Jordan,186
+MA,F,1977.0,Jordan,498
+MA,F,, Jennifer ,265
+MA,F,1979.0,Patricia,149
+MA,M,2005.0,Jordan,20
+MA,F,1966.0,Jennifer,296
+MA,M,1926.0,John,
+MA,M,1943.0,James,22
+ MA ,M,2009.0,John,51
+MA,,,Jennifer,67
+MA,F,1961.0,Casey,931
+MA,M,1993.0,John,406
+MA,M,1968.0,Robert,612
+MA,F,2018.0,Jordan,5
+MA,F,1934.0,Mary,114
+ MA ,F,1973.0,Taylor,138
+MA,F,2018.0, Jennifer ,379
+MA,F,2014.0,Taylor,117
+ MA ,F,1967.0,Jordan,743
+MA,M,1965.0,Taylor,428
+MA,F,1955.0,Linda,373
+MA,F,1953.0,Mary,528
+MA,F,,Jennifer,17
+MA,F,1915.0,Patricia,5
+MA,M,1986.0,Alex,239
+MA,M,1964.0,John,295
+MA,F,1948.0,Jordan,15
+,F,2014.0,Alex,90
+MA,M,1927.0,John,9
+MA,,1915.0,Jennifer,6
+MA, M ,1979.0,Taylor,127
+MA,F,1925.0, Alex ,18
+MA,M,1943.0,Robert,233
+MA,M,1998.0,,350
+MA,F,,Jordan,256
+MA, M ,1979.0,Jordan,733
+MA,F,,Patricia,75
+MA,M,1954.0,Robert,
+MA,F,1996.0,Taylor,116
+MA,,2010.0,Alex,537
+MA,F,1994.0,Mary,216
+ MA ,F,,Alex,5
+MA,F,2009.0, Patricia ,5
+MA,M,1988.0,Robert,310
+ MA ,M,,Robert,83
+MA,,2017.0,John,125
+MA,M,1974.0,Jordan,346
+MA,M,2021.0,James,35
+MA,,1995.0,Taylor,10
+MA,M,1971.0,taylor,336
+ MA ,F,1981.0,Jordan,232
+MA,M,2007.0,Michael,193
+MA,M,2013.0,Taylor,6
+MA,M,1971.0,John,858
+MA,M,1928.0,James,38
+MA,F,1946.0,Mary,119
+MA, F ,1976.0,Linda,201
+MA,,1993.0,Alex,303
+MA,M,, Alex ,11
+MA,M,2020.0,Alex,48
+MA,M,2001.0,Jordan,129
+MA,F,2011.0, Jordan ,447
+MA,M,1953.0,John,27
+MA,F,1995.0,Jennifer,768
+MA,F,1996.0,Alex,420
+MA,M,1997.0,Casey,201
+,F,1986.0,Jordan,79
+MA, F ,1931.0,Linda,132
+ MA ,M,2017.0,Mary,6
+MA,M,1950.0,Casey,11
+MA,F,1911.0, Alex ,28
+MA, F ,1988.0,Casey,182
+MA,F,1993.0,Taylor,339
+MA,F,1913.0,Linda,96
+MA,M,1945.0,Jordan,23
+MA,M,1953.0,John,27
+MA,M,1953.0,Robert,358
+,F,1939.0,Jordan,33
+MA,M,1956.0,John,665
+ MA ,M,1987.0, James ,149
+ MA ,M,1947.0,Taylor,270
+MA,F,,Casey,72
+MA,M,1970.0,Alex,211
+MA,,1990.0,James,65
+MA,F,1954.0,,87
+MA,F,1945.0,Jennifer,21
+MA,F,2003.0,,219
+MA, F ,1929.0,,
+MA,M,1988.0,Casey,562
+MA,M,1937.0, John ,84
+MA, F ,2004.0,Casey,243
+MA,M,1940.0,Jordan,6
+MA,M,1951.0,Jordan,560
+MA,M,1978.0,Casey,234
+MA,F,1929.0,Casey,7
+ MA ,M,1969.0,Jordan,121
+MA,M,1966.0,Jordan,47
+MA,F,,Alex,655
+MA,F,1964.0,Jennifer,609
+MA,F,1977.0,Patricia,8
+MA,F,1951.0,Jordan,792
+MA,F,1975.0,Linda,776
+MA,M,2008.0,Casey,23
+MA,F,1972.0,Patricia,358
+MA,F,1973.0,Mary,38
+MA,F,1936.0,Mary,23
+MA, F ,1913.0,Alex,27
+MA,M,2022.0,Robert,201
+MA,F,1970.0,Jennifer,28
+MA,M,1962.0,James,48
+MA,M,1959.0,Taylor,
+MA,M,1960.0,casey,30
+MA, F ,2004.0,Casey,243
+MA,F,1985.0,Taylor,194
+MA,F,,Robert,211
+MA, F ,1975.0,Mary,138
+MA,M,2000.0,,162
+ MA ,M,2009.0,,74
+MA,M,1969.0,Taylor,110
+MA,M,1964.0,Casey,
+,F,1969.0,Alex,369
+MA,M,1966.0,Casey,133
+MA,M,1923.0,James,21
+MA,,1983.0,Linda,449
+MA,F,2020.0,Mary,
+MA, F ,1949.0,Jennifer,30
+ MA ,M,1963.0,Casey,71
+MA,M,1957.0,Casey,20
+MA,M,2012.0,Casey,254
+MA,F,1932.0,Casey,313
+MA,M,1988.0,Jennifer,940
+MA,M,1939.0,Casey,134
+MA, M ,1997.0,Taylor,855
+MA,M,2000.0,Robert,449
+,M,1990.0,Alex,182
+MA,M,1922.0,Casey,33
+MA,F,1957.0,Casey,37
+MA,M,1987.0,Linda,44
+MA,F,1943.0,Linda,21
+MA,M,1997.0,Jennifer,734
+MA,M,2014.0,Taylor,26
+MA,F,1974.0,alex,489
+MA, M ,1979.0,Michael,33
+MA,,1914.0,Mary,
+MA,M,1994.0,John,705
+ MA ,M,1957.0,Robert,105
+MA,F,1930.0,Taylor,6
+MA,M,1916.0,Jennifer,54
+MA,M,1972.0,Jordan,101
+MA,F,1916.0,Patricia,26
+MA,F,1955.0,Taylor,906
+MA,F,1937.0,Alex,23
+MA,F,,Alex,25
+MA,,1990.0,John,580
+MA, F ,2006.0,Mary,332
+MA,M,1988.0,Alex,299
+ MA ,F,1946.0,Jennifer,138
+MA,M,2021.0,Alex,53
+MA,,,,61
+MA,F,1954.0,Jordan,10
+ MA ,M,1957.0,John,546
+MA,M,2006.0,John,266
+MA,M,2013.0,John,110
+MA,F,1918.0,Jordan,
+MA,F,2010.0,Mary,95
+MA,F,1958.0,,67
+MA,M,1978.0,James,926
+MA,F,1950.0,Alex,428
+MA,M,1917.0,james,10
+MA, M ,1922.0,Alex,142
+MA,F,1987.0,Jordan,352
+MA,F,1986.0, Alex ,211
+ MA ,F,,Patricia,226
+MA,M,1937.0,,126
+MA,,1940.0,James,75
+MA,M,1980.0,Michael,31
+MA,F,1992.0,Linda,341
+MA,F,1978.0,Mary,
+ MA ,M,2006.0,Taylor,272
+MA,F,1926.0,Taylor,113
+ MA ,F,1935.0,casey,
+ MA ,M,2010.0,Robert,35
+,,1926.0,Mary,6
+MA,F,1975.0,Alex,539
+MA,F,2017.0,Taylor,12
+MA,F,2013.0,Patricia,251
+MA,F,2006.0,Casey,468
+MA,M,1931.0,,84
+MA,F,2003.0,Jordan,
+MA,M,1949.0,Robert,306
+MA,F,1964.0,Mary,523
+MA,M,1964.0,Taylor,681
+MA, F ,2007.0,Alex,10
+ MA ,M,2002.0,Alex,60

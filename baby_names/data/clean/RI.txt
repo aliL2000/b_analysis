@@ -1,0 +1,1661 @@
+state,sex,year,name,count
+RI,F,,Casey,347
+RI,F,,Mary,73
+RI,F,,Jennifer,250
+ RI ,F,,Mary,121
+RI,M,,Casey,399
+RI, F ,,Casey,580
+RI,M,,James,104
+RI,F,, Jordan ,
+RI,M,,Jordan,124
+RI,F,,casey,66
+RI,M,,Taylor,106
+RI,M,,Casey,31
+RI,M,,Casey,248
+RI,F,,Patricia,24
+RI,M,,James,10
+RI,M,,Alex,151
+RI,M,,,150
+RI,F,,Jennifer,101
+RI, F ,,Jennifer,537
+,,,Alex,266
+,,,Alex,285
+RI, M ,,Robert,26
+RI,F,,Jordan,56
+RI,F,,Alex,604
+ RI ,M,, Patricia ,913
+RI,M,,James,1013
+RI,M,,John,418
+RI,M,,John,13
+RI,F,,Jordan,54
+RI,M,,John,56
+ RI ,M,,casey,270
+RI,M,,James,10
+RI,F,,Linda,67
+RI,M,,James,84
+,M,,Robert,
+RI,F,,Patricia,38
+RI,M,,James,232
+RI,M,,Jordan,25
+RI,F,,Taylor,
+RI,F,,Mary,87
+RI,F,,Taylor,45
+RI,F,,Taylor,341
+RI,F,,jordan,6
+RI, F ,,Patricia,197
+ RI ,M,, Casey ,114
+RI,M,,James,99
+RI,M,,Robert,92
+ RI ,M,,Casey,348
+RI,F,,Mary,47
+RI, F ,,Jordan,178
+ RI ,M,,Michael,52
+RI,M,,Robert,82
+RI,F,,Linda,21
+RI,F,,,142
+RI,F,,Mary,496
+RI,,,Mary,130
+RI,M,,Alex,167
+RI,M,,Casey,269
+RI,F,,robert,757
+,F,,Patricia,709
+RI,M,,John,975
+RI,M,,Jordan,13
+RI,M,,Taylor,605
+ RI ,F,,Mary,68
+RI,M,,Jordan,972
+RI, F ,,Jordan,6
+RI, M ,,Robert,501
+RI,M,,Robert,600
+RI,M,,Taylor,524
+RI,M,,James,46
+ RI ,M,,Michael,117
+RI,F,,Linda,33
+RI,F,,Alex,188
+ RI ,M,,James,282
+RI,F,,Alex,35
+RI,F,,Linda,434
+RI,M,,Casey,645
+RI,F,,Casey,135
+RI,F,,Jordan,59
+RI, M ,,James,50
+RI, M ,,James,342
+RI, M ,,Jordan,123
+RI,M,,James,320
+RI,M,,James,86
+RI,F,,Linda,394
+RI,,,Casey,155
+RI,M,,Michael,58
+RI,F,,Alex,510
+RI, F ,,,315
+RI,M,,Michael,46
+RI,F,,Jordan,254
+RI,F,,Linda,246
+RI, F ,,Linda,425
+ RI ,F,,Robert,
+RI,,,Taylor,114
+RI,F,,Patricia,44
+RI,M,,,440
+RI,F,,Mary,85
+RI,F,,Jennifer,583
+RI,F,,,114
+ RI ,F,,Casey,131
+RI,M,,Alex,109
+RI,M,,Michael,118
+,M,,Michael,462
+RI,F,,Jordan,322
+ RI ,F,,Alex,
+ RI ,M,,Michael,6
+RI, F ,,Jennifer,127
+RI,M,,Jordan,690
+RI,M,,John,1196
+RI,F,,Casey,180
+ RI ,,,Jordan,870
+, F ,,Casey,340
+ RI ,F,,Casey,80
+ RI ,M,,James,6
+ RI ,F,,Alex,204
+RI,F,,Patricia,165
+,F,,Mary,55
+RI,M,,John,358
+RI,M,,John,442
+RI,F,,Jennifer,491
+RI,,,Casey,67
+RI,M,,Jordan,729
+RI,M,,Alex,16
+RI,M,,Jordan,428
+RI,F,,alex,160
+ RI , M ,,Casey,226
+RI,F,, Casey ,
+,F,,Jordan,
+RI,,,Jordan,
+ RI ,F,,Linda,61
+RI,M,,Robert,18
+RI,F,,Taylor,900
+RI, F ,,Jordan,29
+RI,M,,Jordan,140
+RI,F,,Linda,1062
+RI,F,,Jennifer,672
+RI,,,Taylor,361
+RI,M,,Michael,745
+RI, M ,,James,112
+RI,M,,taylor,48
+RI, F ,,Taylor,292
+RI,M,,John,238
+RI,F,,Casey,489
+RI,F,,Mary,246
+RI,F,,Taylor,
+RI,F,,,
+RI,M,,Jordan,190
+RI,F,,Jennifer,22
+RI,F,,Casey,49
+RI,M,,Michael,337
+RI,M,,James,140
+RI,,,Michael,35
+RI,F,,Casey,550
+RI,M,,Michael,195
+RI,M,,Michael,443
+RI,M,,Jordan,315
+RI,M,,Taylor,648
+RI,F,,Jennifer,423
+RI,F,,Jordan,587
+RI,F,,Patricia,619
+RI,M,,taylor,21
+RI,M,,Robert,199
+RI,,,,260
+RI, M ,,john,18
+RI,M,,Jordan,681
+RI, M ,,Jordan,332
+RI,F,,linda,315
+RI,M,,James,127
+RI,M,,John,168
+ RI , F ,,Linda,632
+,M,,Taylor,129
+RI,F,,Casey,
+RI,M,,,213
+RI,M,,Jordan,186
+ RI ,F,,Jordan,90
+RI,F,,Linda,192
+RI,M,,James,530
+RI,F,,Jennifer,55
+RI,M,,John,51
+RI,F,,taylor,313
+RI,M,,robert,165
+RI,M,,Taylor,71
+RI,F,,Linda,670
+RI,M,,Casey,549
+RI,F,,Alex,123
+RI,M,, Alex ,90
+RI,F,,Taylor,366
+,M,, Alex ,138
+RI,M,,jordan,238
+RI,F,,Linda,159
+RI,M,,,41
+RI,M,,James,462
+RI,F,,Jordan,451
+ RI ,M,,Jennifer,
+RI,F,,Patricia,852
+RI,F,,Jennifer,144
+ RI ,M,,James,66
+RI,M,,Casey,111
+ RI ,F,,Patricia,23
+RI,M,,Alex,356
+,M,,James,162
+RI,F,,Linda,131
+RI,M,,Michael,938
+RI,F,,Jordan,25
+RI,F,,Jennifer,30
+ RI ,F,,Taylor,8
+RI,F,,Patricia,121
+RI,M,,Robert,937
+ RI ,F,,,
+ RI ,F,,Jordan,7
+ RI ,F,,Taylor,26
+ RI ,F,,Alex,5
+RI,M,,james,95
+RI,F,, Taylor ,56
+RI,F,,jennifer,713
+RI,F,,Jordan,28
+RI,M,,Taylor,241
+RI,M,,,23
+RI,M,,Robert,5
+RI,M,,Michael,317
+RI,F,,Jennifer,607
+RI,M,,John,32
+RI,F,,Jennifer,80
+ RI ,F,,Casey,343
+RI,M,,Alex,43
+RI,M,,Alex,15
+,F,,Jordan,109
+RI,M,,John,44
+RI, M ,,Taylor,108
+RI, F ,, Jennifer ,525
+RI, F ,,Mary,79
+RI,M,,Alex,31
+RI,M,,Robert,652
+ RI ,F,,Mary,32
+RI,F,,Alex,626
+RI,F,,,35
+RI,M,,John,308
+ RI ,F,,Casey,677
+RI,F,,Jordan,37
+RI,M,,Casey,114
+RI,F,,Patricia,24
+RI,M,,Patricia,302
+RI,M,, Taylor ,432
+RI,M,,Taylor,211
+RI,M,, James ,21
+RI, M ,,Robert,497
+RI,F,,Casey,8
+ RI ,F,,Alex,12
+RI,,,Alex,50
+RI,F,,Patricia,42
+,M,,Robert,22
+ RI ,M,,Alex,225
+RI,M,,john,496
+RI,F,,alex,104
+RI,M,,Taylor,
+RI,F,,Jordan,
+RI, F ,,Taylor,12
+RI,F,,Jordan,799
+RI,F,,Jordan,254
+RI,F,,Jordan,77
+RI,M,,taylor,819
+RI,M,,Michael,423
+RI,F,,Patricia,278
+RI,F,,james,68
+RI,F,,patricia,215
+RI,M,,Taylor,138
+RI,F,,Jordan,5
+RI,M,,James,526
+RI,F,,Linda,124
+RI,M,,,186
+RI, M ,,Jordan,9
+ RI ,F,,Jennifer,108
+RI,F,,Patricia,163
+RI,M,,Robert,326
+RI,M,,Casey,56
+RI,F,,Alex,78
+RI,F,,Patricia,309
+RI,F,,Taylor,87
+RI,M,,,969
+RI,F,,Patricia,
+RI,F,,Mary,17
+ RI ,M,,,1279
+RI,F,,Casey,60
+RI,,, Taylor ,195
+RI,M,, Taylor ,59
+RI,F,,Jennifer,8
+ RI ,M,,Jordan,121
+RI,,,Jordan,172
+RI, F ,,Casey,65
+RI,F,,,354
+RI, F ,,Mary,104
+RI,F,,Mary,22
+RI,F,,Robert,550
+RI,M,,Patricia,123
+RI,M,,Taylor,627
+RI,M,,James,571
+RI,,,Jordan,278
+RI,F,,Mary,66
+RI,F,,Casey,39
+RI,F,,jordan,125
+RI, M ,,Taylor,989
+RI,F,,,328
+RI,M,,John,46
+RI,F,,Alex,11
+RI,F,,Linda,19
+RI, M ,,Alex,297
+RI,M,,Casey,64
+RI,M,,Michael,287
+RI,M,,James,112
+RI,F,,Patricia,5
+RI,F,,Jordan,249
+RI,F,,Taylor,23
+RI,F,,Jennifer,472
+RI,M,,Robert,36
+RI,M,,Jordan,
+RI,F,,Linda,365
+RI, F ,,Alex,397
+RI,F,,,
+RI,F,,Alex,20
+RI,F,,Taylor,123
+RI,M,,,505
+RI,F,,Casey,98
+RI,M,,John,80
+RI,M,,,15
+RI,M,, Taylor ,573
+RI,F,,Linda,1014
+RI,M,,Taylor,20
+RI, M ,,James,975
+RI,F,,Mary,
+ RI ,M,,Casey,42
+RI,F,,Casey,543
+RI,M,,Alex,680
+,,,Linda,699
+ RI ,M,,taylor,352
+RI,F,,,435
+RI,F,,Patricia,52
+RI,F,,Jennifer,63
+RI,M,,Casey,98
+RI,F,,Mary,
+RI,,,Linda,766
+RI,F,,Jennifer,426
+RI,M,,Taylor,732
+RI,F,,Mary,172
+RI,F,,mary,140
+RI,F,,,136
+RI,M,,Robert,450
+RI,F,,Jennifer,463
+RI,F,,jennifer,258
+RI, F ,,James,258
+RI,M,,Robert,268
+RI,M,,Alex,926
+RI,F,,Linda,5
+RI,F,,Patricia,137
+RI,M,,John,566
+RI,M,,Robert,
+RI,M,,Alex,194
+ RI , F ,,Linda,437
+RI,F,,Alex,10
+RI, F ,,Taylor,37
+RI, M ,,Michael,37
+ RI ,F,,Casey,22
+RI, F ,,Casey,
+RI,M,,Jordan,683
+RI,F,,Taylor,614
+RI,M,,Jordan,60
+RI,F,,Jordan,65
+ RI ,F,, Jordan ,100
+ RI ,F,,Taylor,17
+RI,M,,Casey,485
+RI,M,,John,104
+RI, F ,,Taylor,186
+RI,M,,John,60
+ RI ,F,,Taylor,209
+RI,F,,Mary,24
+RI,M,,John,
+RI,F,,Alex,281
+RI,F,,Linda,19
+RI,F,,taylor,6
+RI,F,,Jordan,101
+RI,M,,,108
+RI,F,,Jordan,29
+RI,F,,,31
+RI,M,,john,144
+RI, F ,,Linda,5
+RI,F,,,171
+RI,M,,Taylor,230
+RI,M,,Michael,43
+RI,M,,Jordan,65
+RI,F,,Jordan,656
+RI,M,,Taylor,191
+RI, F ,,Jordan,298
+RI,,,Mary,130
+RI,M,,Jordan,360
+RI,M,,Robert,66
+RI,M,,Casey,51
+RI,F,,Jordan,265
+RI,M,,Robert,284
+RI,M,,Jordan,380
+RI,F,,Linda,67
+RI,F,,Jennifer,266
+RI, M ,,Alex,52
+ RI ,M,,James,31
+RI,F,,Jordan,704
+RI,F,,Casey,575
+RI,M,, Jordan ,184
+RI,M,,Casey,256
+RI,M,,Jordan,148
+RI,F,,Jordan,969
+RI,F,,John,135
+RI,F,,Jennifer,286
+RI,F,,Linda,446
+RI,M,,Casey,
+RI,F,,Taylor,115
+RI,F,, Jennifer ,163
+RI,M,,Jordan,544
+RI,M,,casey,236
+RI,M,,Jordan,266
+RI,M,,John,62
+RI,M,,Michael,64
+RI,M,,John,881
+RI,M,,Jordan,758
+RI,M,,john,332
+RI,F,,Linda,46
+RI,M,,robert,82
+,F,,,248
+ RI ,F,,Mary,11
+RI,M,, John ,277
+RI,F,,Jordan,158
+RI,M,,John,
+,F,,Casey,385
+RI,F,,casey,216
+RI,M,,Robert,43
+RI,F,,Linda,476
+RI,F,,Jennifer,709
+RI,M,, Robert ,508
+RI,F,,patricia,671
+RI,M,,John,110
+RI,M,,Alex,45
+RI,M,,,121
+RI, M ,,Linda,380
+RI,M,,Taylor,539
+RI,M,,Alex,30
+RI,M,,John,152
+RI,F,,patricia,
+ RI ,F,,Taylor,427
+RI,,,Michael,12
+RI,F,,Mary,732
+RI,F,,James,30
+RI,F,,Patricia,79
+ RI ,F,,Jordan,90
+RI,F,,Michael,436
+ RI ,F,,Alex,280
+RI,F,,jennifer,113
+,F,,Jordan,268
+RI,M,,James,465
+RI,F,,Linda,20
+ RI ,F,,Patricia,295
+RI,M,,casey,310
+ RI ,F,,Taylor,25
+RI,M,,Michael,493
+RI,M,,Michael,469
+RI,M,,Linda,17
+,F,,Taylor,114
+RI,M,,Alex,174
+RI, F ,,Alex,66
+RI,M,,Jordan,152
+,M,,John,
+RI,F,,Casey,493
+RI, F ,,jordan,199
+RI,F,,Patricia,414
+RI,M,,Alex,714
+RI,M,,Alex,851
+RI,M,,Robert,18
+RI,F,,Mary,97
+RI,F,,Linda,54
+RI,,,,1486
+RI,F,,Jennifer,566
+RI,M,,Robert,209
+RI,,, Alex ,
+ RI ,F,,Linda,834
+RI,,,Casey,294
+RI,M,,James,120
+ RI ,M,,Mary,9
+RI,F,,Jennifer,7
+RI,F,,Jennifer,22
+ RI ,M,,Jennifer,155
+ RI ,M,,James,182
+RI,F,,Taylor,119
+ RI ,F,,Jordan,191
+RI,F,,Mary,47
+RI,M,,taylor,139
+RI,M,,Michael,374
+RI, M ,,Casey,
+RI,F,,Casey,
+RI,,,patricia,11
+RI,M,,,497
+RI,M,,,115
+RI,M,,Taylor,140
+RI,M,,John,7
+RI,M,,Robert,67
+RI, M ,,Casey,190
+RI,M,,Robert,835
+RI,M,,James,80
+ RI ,,,Casey,614
+RI,F,,Jordan,110
+RI,M,,Robert,342
+RI,M,,Jordan,969
+RI, F ,,Casey,491
+RI,M,,Casey,177
+RI,M,,Taylor,867
+RI,M,,Michael,26
+,F,,Casey,353
+RI,M,,Casey,32
+RI,M,,James,213
+RI,M,,Taylor,24
+RI,M,,John,80
+RI,M,,Michael,739
+RI,M,,Alex,179
+RI,F,,John,1069
+RI,F,,Mary,105
+RI,M,,James,80
+ RI ,,,John,54
+RI,M,,Alex,784
+RI,F,,Jordan,18
+RI,F,,Casey,132
+RI,F,,Mary,208
+RI,F,,Alex,1070
+RI,M,,Alex,926
+RI,M,,Michael,196
+RI,F,,Casey,127
+RI,M,,Alex,
+RI,F,,Jennifer,137
+ RI , F ,,Mary,5
+RI,M,,Michael,17
+RI,M,,John,1221
+,M,,michael,173
+RI,F,,Alex,10
+RI,F,,linda,954
+RI,M,,Michael,158
+RI,F,,taylor,20
+RI,M,,James,51
+RI,F,,Alex,10
+RI,,,Casey,35
+RI,M,,John,253
+RI, M ,,Casey,37
+RI,M,,James,17
+RI,F,,Alex,221
+RI,F,,Taylor,117
+RI,F,,Casey,12
+RI,M,,Robert,
+RI,,,Alex,153
+RI,M,,James,12
+ RI ,M,,James,258
+RI,M,,Alex,179
+RI,M,,Robert,188
+,,,James,34
+RI,F,,Casey,101
+RI,F,,Jordan,35
+RI,M,,Michael,21
+ RI ,M,,James,59
+RI,F,,Robert,22
+RI,M,,James,23
+RI,F,,Jordan,11
+RI,F,, Mary ,121
+RI,F,,Jordan,32
+ RI ,F,,casey,144
+RI, M ,,Taylor,623
+RI,F,,alex,16
+ RI ,F,,Jordan,
+RI,M,,James,23
+RI,M,, James ,123
+RI,F,,Jordan,633
+RI, F ,, Taylor ,39
+RI,M,,Jordan,8
+RI,M,,Robert,342
+RI,F,,Mary,307
+RI,M,,,119
+RI,F,,,632
+RI,M,,Michael,146
+RI,M,,alex,24
+RI,F,,Jordan,102
+RI,M,,Robert,
+RI,F,,Jennifer,83
+RI,M,,Linda,
+RI,F,,Taylor,32
+RI,M,,Robert,11
+RI,M,,Jordan,190
+ RI ,F,,Alex,69
+RI,M,,Taylor,436
+RI,F,,Mary,713
+RI,F,,Robert,7
+RI,M,, James ,15
+ RI ,M,,john,141
+RI,F,,Casey,72
+RI,,,Casey,320
+RI,F,,Taylor,169
+ RI ,F,,Patricia,71
+RI,F,,Jordan,422
+RI,M,,michael,18
+RI,F,,Robert,264
+RI,M,,Taylor,715
+RI,M,,Michael,389
+RI,F,, Taylor ,18
+RI,F,, Taylor ,5
+RI,F,, Linda ,736
+RI,F,,Patricia,60
+RI,F,,Linda,154
+RI, F ,,Taylor,5
+RI,M,,Jordan,689
+RI,M,,James,210
+RI,F,,Patricia,9
+RI,M,,Jordan,178
+RI,M,,James,23
+RI,M,,michael,1519
+RI,M,,Taylor,56
+RI,F,, Casey ,43
+RI,F,,Mary,599
+,M,, Taylor ,257
+RI,M,,Jordan,46
+RI,F,, Taylor ,242
+RI,F,,Casey,111
+RI,M,,John,143
+RI,F,,Alex,242
+,M,,Robert,84
+RI,M,,James,105
+RI,M,,Jordan,571
+ RI , F ,,jordan,227
+RI,F,,Alex,658
+RI,F,,patricia,250
+,F,,Linda,67
+RI,F,,Linda,65
+RI,F,,Linda,113
+RI,F,,Jennifer,30
+,M,, Michael ,308
+RI,M,,James,82
+RI,M,,,121
+RI,F,,Casey,
+ RI , M ,,Taylor,26
+RI,F,,Linda,25
+RI,F,,,22
+ RI , M ,,Alex,14
+RI,F,,Jordan,6
+RI,,,Mary,134
+RI,,,Linda,594
+RI,F,,Casey,11
+RI,M,,Michael,194
+RI,M,,Alex,192
+RI,M,,John,939
+ RI , F ,,Linda,154
+RI,F,,Taylor,13
+RI,M,,Taylor,667
+RI,M,,Casey,56
+RI,M,,,44
+RI,M,,James,48
+,F,,Casey,292
+RI,F,,Mary,27
+ RI ,F,,,469
+RI,F,,alex,50
+RI,F,, Taylor ,338
+RI, M ,,Michael,947
+RI,M,,Robert,341
+RI,F,,Jordan,444
+RI, M ,,Robert,97
+RI,M,,Casey,184
+RI,F,,Alex,904
+RI,M,,Taylor,414
+RI,M,,Taylor,52
+RI,F,, Mary ,74
+RI,F,,Jennifer,15
+RI, M ,,Robert,293
+RI,,, Linda ,33
+RI,M,,Robert,
+RI,,,John,274
+ RI ,M,,Taylor,16
+RI,M,,James,10
+RI,F,,Linda,143
+ RI ,M,,Jordan,42
+ RI ,M,,Taylor,84
+RI,M,,James,16
+RI,M,,James,548
+RI,F,,Casey,370
+RI,F,,,40
+,F,,Jordan,56
+RI,,,Robert,196
+RI, F ,,Taylor,423
+RI, F ,,Mary,19
+RI,M,,Casey,524
+RI,M,,Taylor,575
+ RI ,F,,,
+RI,F,,Patricia,284
+ RI ,F,,Taylor,676
+RI,F,,Jordan,29
+RI,M,,Michael,196
+RI,F,,Patricia,140
+,M,,Taylor,589
+RI,,,Alex,102
+RI, F ,, Patricia ,28
+RI,M,,Taylor,517
+RI,F,,Jordan,85
+RI,M,,alex,381
+RI,M,,Alex,188
+ RI ,M,,John,1064
+RI,F,,Patricia,438
+RI, F ,,Alex,500
+RI,F,,Patricia,16
+,F,,mary,498
+RI,F,,linda,549
+RI, M ,,Alex,33
+RI, M ,,Alex,23
+ RI ,,,Alex,364
+ RI ,M,,John,95
+RI,F,,Linda,30
+RI,M,,Alex,14
+RI,M,,Robert,274
+RI,F,,Casey,210
+RI,F,,Casey,10
+RI,F,,Alex,63
+,M,,James,7
+RI,M,,Michael,19
+RI,F,,Taylor,256
+RI,F,,Jennifer,480
+ RI ,M,,Taylor,523
+RI,M,,Robert,138
+RI,M,,,93
+RI,F,,Jennifer,526
+RI,M,,John,224
+RI,M,,James,38
+RI,F,,Jennifer,170
+RI, M ,,Taylor,1300
+RI,M,,alex,108
+RI, M ,,John,27
+,M,,michael,411
+RI,F,,Linda,
+RI,M,,Alex,17
+RI,F,,Mary,196
+,M,,Casey,149
+RI,F,,Taylor,11
+RI,F,,Linda,143
+RI, F ,,Patricia,21
+RI, F ,,Jennifer,235
+RI,F,,Linda,130
+RI,M,,John,336
+RI,F,,Patricia,344
+RI,F,,Alex,321
+RI,M,,John,343
+RI,F,,Casey,
+RI,M,,Taylor,291
+RI,F,,Patricia,163
+RI,M,,Alex,
+RI, F ,,Taylor,11
+RI, F ,,Patricia,25
+RI,M,,Casey,161
+RI,F,,Jennifer,416
+RI,M,,Alex,136
+ RI , M ,,Mary,7
+ RI ,F,,,30
+RI,F,,Taylor,356
+RI,F,,Linda,72
+ RI ,F,,Patricia,116
+RI,M,,Michael,108
+RI, M ,,Taylor,35
+RI,M,,Taylor,400
+RI,M,,Jordan,65
+RI,M,,James,529
+RI,F,,Patricia,280
+RI, F ,,Jordan,38
+RI,F,,Taylor,318
+RI,M,,Casey,130
+RI,F,,Patricia,343
+RI,M,,Alex,523
+RI, F ,,Jennifer,759
+RI,M,,Robert,322
+ RI ,M,,Alex,219
+RI,M,,Taylor,368
+RI,F,,Mary,39
+RI,F,,Linda,47
+RI,M,,Alex,9
+RI,M,,Casey,33
+RI,F,,,6
+RI,M,,john,102
+RI,M,,Robert,36
+RI,M,,Jennifer,180
+RI,M,,Robert,247
+RI,M,,John,37
+RI,M,,John,403
+,M,,Taylor,825
+RI,F,,Casey,9
+RI,F,,Linda,86
+RI,F,,Taylor,
+ RI ,F,,Casey,71
+RI,F,,Mary,13
+RI,M,,Casey,343
+RI,M,,Casey,217
+RI,F,,Jennifer,5
+ RI , F ,,linda,126
+RI,M,,Michael,405
+RI,M,,Jordan,168
+RI, M ,,Taylor,184
+ RI ,,,James,191
+RI,F,,james,18
+ RI , F ,,Jennifer,6
+RI,M,,John,309
+RI,M,,Jordan,47
+RI,M,,Jordan,1201
+RI,M,,Casey,115
+RI,M,,Taylor,10
+RI,M,,Taylor,15
+RI,F,, Mary ,1057
+RI,F,,,555
+RI,F,,Taylor,582
+RI,M,,robert,221
+RI,M,,Michael,317
+RI, M ,,Michael,181
+RI, F ,,casey,194
+ RI ,F,,Mary,64
+RI,F,,Jordan,256
+RI,F,,Jennifer,269
+RI,M,,Jordan,30
+RI,M,,Alex,461
+RI,M,, Michael ,199
+RI,M,,Michael,287
+RI,F,,Mary,
+RI,F,,Jordan,425
+RI,M,,Patricia,28
+RI,F,, Linda ,18
+RI,M,,Robert,750
+ RI ,M,,John,602
+RI,M,,,8
+,M,,Taylor,175
+RI,F,,Alex,
+RI,M,,Casey,292
+RI,F,, Jordan ,180
+RI,M,,Michael,194
+RI,M,, Michael ,40
+RI, M ,,John,287
+RI,F,,Taylor,210
+RI,F,,Casey,164
+RI,F,,Linda,612
+RI,M,,John,20
+RI,M,,Michael,217
+RI,F,,Taylor,417
+RI,M,,Michael,425
+RI,F,,Alex,444
+RI,F,,Linda,87
+RI, F ,,Jennifer,29
+RI,M,,James,
+ RI ,M,,James,66
+RI,F,,John,204
+RI,,,Jordan,24
+, M ,,Casey,443
+RI,M,,john,20
+RI,M,,,5
+RI,F,, Taylor ,881
+RI,F,,John,34
+RI,F,,Alex,307
+ RI ,M,,Taylor,9
+,F,,Jennifer,368
+RI,M,,Alex,794
+RI, M ,,Taylor,107
+ RI ,M,,Alex,644
+RI,M,,Mary,67
+RI,M,,Taylor,75
+RI, F ,,Taylor,196
+RI,F,,Mary,348
+RI,F,, Patricia ,137
+RI,M,,Robert,45
+ RI ,M,,Michael,732
+RI, F ,,Mary,39
+RI,,,Robert,
+RI,F,,Patricia,26
+RI,F,,Mary,25
+RI,M,,Jordan,36
+RI,M,,,5
+RI,F,,Casey,83
+RI,M,,John,67
+ RI ,M,,Mary,602
+RI,F,,Jennifer,67
+RI,F,,Casey,226
+RI,F,,Jennifer,519
+RI, M ,,,248
+RI,F,,Alex,490
+RI,M,,John,45
+RI,M,,Michael,33
+RI,M,,Jordan,15
+RI,F,,Mary,206
+RI,F,,Mary,189
+RI, M ,,jordan,101
+,M,,Casey,8
+RI, M ,,Taylor,39
+RI,M,,Robert,243
+RI,,,Michael,406
+RI,F,,Alex,44
+ RI ,M,,Michael,696
+RI,F,,Mary,76
+RI,M,, Alex ,214
+RI,F,,Mary,206
+,F,,Alex,238
+RI,F,,,7
+RI,F,,Alex,228
+RI,F,,patricia,26
+RI,F,,Jennifer,344
+RI,M,,John,169
+RI,M,,Alex,34
+RI,F,,Alex,104
+RI,F,,Jennifer,75
+, M ,,Casey,7
+RI,F,,patricia,402
+RI, F ,,Mary,348
+RI,M,, Jordan ,84
+RI,M,,,51
+RI,M,,John,320
+RI,F,,casey,115
+RI,F,,Taylor,592
+RI, M ,,Casey,200
+RI, M ,,John,37
+RI,M,,Casey,214
+RI, M ,,Michael,192
+RI, F ,,Linda,76
+RI,M,,Casey,79
+RI,M,,alex,533
+RI,M,,,35
+RI,M,, Alex ,323
+,,,John,208
+ RI ,F,,Patricia,170
+ RI ,M,,James,443
+RI,F,,Linda,870
+RI,M,,Casey,335
+RI,M,,John,852
+RI,F,,Patricia,249
+RI,M,,robert,181
+RI, M ,,Alex,216
+RI, M ,,Robert,497
+RI, M ,,James,17
+RI,M,,robert,605
+RI,F,,Mary,317
+RI,M,,james,243
+RI,M,,Jordan,721
+RI, F ,,Casey,759
+RI,,,Alex,388
+RI,F,,Mary,240
+RI,F,,Patricia,91
+RI,F,,alex,93
+RI, M ,,robert,60
+,M,,,451
+,M,,John,317
+ RI ,F,,Jordan,24
+RI,F,,Taylor,115
+RI,M,,Jordan,19
+RI,M,,Michael,17
+RI,F,,,740
+RI,,,Mary,18
+RI,M,,James,192
+RI,F,,Taylor,251
+RI,F,,Taylor,6
+RI,F,,Patricia,13
+RI, F ,,Taylor,161
+RI,F,,Jordan,238
+RI,F,,Patricia,61
+ RI ,F,,Patricia,182
+RI,,,Jennifer,35
+RI,M,,Jordan,282
+RI,F,,Jennifer,638
+RI, M ,,Michael,76
+,,,Jordan,369
+RI,F,,Patricia,253
+ RI ,M,,robert,501
+RI,M,,Patricia,198
+RI,M,,Casey,95
+RI,F,,Patricia,6
+RI, M ,,Robert,97
+RI,F,,jennifer,
+RI, M ,,Alex,1142
+, F ,,Casey,337
+RI,M,,alex,1439
+RI,F,,jennifer,672
+ RI ,F,,Taylor,9
+,F,,Mary,381
+RI,F,,Jennifer,638
+RI,F,,Linda,33
+RI,M,,Jordan,108
+RI,M,,John,225
+RI,M,, Alex ,272
+RI, M ,,Robert,5
+ RI ,F,,Robert,58
+RI,M,,James,724
+RI,F,,Taylor,381
+RI,M,,Taylor,58
+RI,M,,Taylor,19
+RI,M,,Alex,17
+RI,F,,Jennifer,
+RI,M,,Taylor,93
+ RI ,F,,Patricia,51
+RI,F,,Patricia,293
+RI,F,,Mary,459
+RI,F,,Jennifer,61
+RI,F,,Mary,711
+ RI ,F,,Alex,118
+RI,M,,Robert,221
+ RI ,M,,Jordan,177
+RI,M,,Alex,69
+RI,M,, Taylor ,1012
+RI,M,,Patricia,609
+RI,F,,Patricia,345
+RI,M,,Mary,433
+RI,F,,Michael,206
+ RI ,F,,James,633
+RI,M,,Jordan,690
+ RI ,F,,Taylor,38
+RI,F,,Taylor,51
+RI,F,,Linda,769
+ RI ,M,,Michael,26
+RI,F,,Jennifer,562
+RI,F,,Alex,107
+RI,F,,Jennifer,232
+ RI ,F,,Taylor,21
+RI,F,,Mary,337
+RI,M,,Taylor,139
+RI,M,,James,28
+ RI ,M,,Robert,41
+RI,F,,Mary,486
+RI,F,,Jordan,36
+RI,F,,Taylor,103
+RI, F ,,Jennifer,989
+RI,F,,Jennifer,313
+RI,F,,Michael,9
+RI,F,,Patricia,220
+RI,F,,Taylor,47
+RI,F,,Linda,
+RI,M,,Jordan,57
+RI,F,,Patricia,
+RI,M,,Taylor,7
+RI,F,,Jordan,219
+RI,F,,Mary,147
+ RI ,M,,James,329
+RI,M,,Taylor,211
+RI,,,Alex,1120
+RI,M,,Casey,593
+RI,M,,,172
+RI,F,,Mary,39
+RI,F,,,21
+RI,M,,Jordan,693
+RI,,,James,202
+RI,M,,Robert,197
+RI,M,,Jordan,27
+RI,F,,Jennifer,543
+RI,M,,Alex,61
+RI,F,,Jordan,167
+ RI ,M,,Michael,311
+RI,F,,Casey,360
+RI,M,,Jordan,539
+RI,M,, James ,47
+RI,M,,Casey,523
+RI,F,,Linda,140
+RI,F,,Jordan,116
+RI,F,,Alex,23
+RI,M,,Alex,59
+RI,M,,Casey,
+RI,M,,John,22
+RI,F,,Alex,78
+RI,M,,Taylor,9
+RI,F,,Taylor,8
+RI,M,,Jordan,883
+RI,,,Robert,11
+RI,M,,Casey,101
+RI,F,, Jennifer ,832
+RI,F,,Alex,126
+ RI ,F,,Jordan,16
+RI,F,,Alex,46
+ RI ,F,,Patricia,148
+RI,M,,Robert,166
+RI, M ,,Robert,17
+,M,,John,82
+RI,M,,Robert,103
+ RI ,M,,Alex,195
+ RI ,F,,Mary,109
+RI,,,Michael,225
+RI,F,,Casey,376
+ RI ,M,,James,134
+RI,F,, John ,649
+RI,M,,Alex,630
+RI,M,,Jennifer,20
+RI,M,,Casey,28
+RI,F,,Patricia,355
+RI,M,,Michael,49
+,F,,Casey,56
+RI,F,,Alex,712
+RI,M,,Robert,323
+RI,F,,Linda,827
+RI, F ,,Taylor,277
+RI, M ,,Robert,17
+RI,F,,Linda,412
+RI,M,,Alex,5
+RI, F ,,Taylor,254
+RI,F,,Jordan,27
+RI,M,,Robert,51
+RI,F,,Jennifer,340
+RI, F ,,Jordan,455
+RI,M,,James,409
+RI,M,,James,95
+RI,F,,Patricia,177
+RI,F,,Taylor,417
+RI,F,,Casey,119
+RI,F,,Alex,303
+RI,M,, Alex ,333
+RI,M,,Robert,39
+RI,M,,,531
+RI,F,,Linda,279
+RI,F,,Jordan,979
+RI,,, Taylor ,266
+,M,,Alex,253
+RI,F,,Linda,48
+RI,,,John,88
+RI,M,,Taylor,594
+RI,M,,Taylor,141
+RI,M,,Jennifer,666
+RI, M ,,Robert,105
+RI,F,,Jennifer,62
+RI,M,,john,6
+RI,F,,Casey,483
+RI,F,,patricia,123
+RI,F,,patricia,14
+RI,M,,robert,141
+ RI ,F,,Casey,638
+RI,F,,Jordan,116
+RI,F,,Patricia,184
+RI,M,,Casey,36
+RI,F,,Taylor,121
+RI,M,,James,34
+RI,M,,Alex,291
+RI,F,,Jennifer,363
+RI,M,,James,938
+RI,F,,Jordan,107
+RI,F,,Taylor,9
+RI,F,,Jordan,16
+RI,,,Jordan,105
+RI,M,,John,19
+ RI ,F,,Alex,11
+RI,F,,Linda,138
+RI,M,,Jordan,5
+RI,F,,Alex,22
+RI,M,,Jordan,174
+,F,,Linda,452
+RI,F,,Casey,11
+ RI ,F,,Taylor,182
+RI,M,,Michael,14
+RI,M,,,6
+RI,F,,Mary,60
+RI,M,, John ,150
+RI,M,,James,16
+RI,F,,,44
+RI,M,,Michael,744
+,M,,James,
+RI,,,Jordan,126
+ RI , F ,,Mary,31
+RI,F,,Mary,19
+RI,F,,Linda,959
+RI,M,,Jordan,182
+RI,M,,Casey,124
+RI,M,,John,10
+RI,M,,John,435
+ RI ,F,,Mary,191
+RI,M,,Casey,151
+RI,M,,Robert,386
+RI,F,,Jennifer,504
+ RI ,,,Casey,113
+RI,F,,Mary,50
+RI,M,,Michael,1084
+ RI ,M,,Casey,351
+RI,M,,Jordan,
+RI,M,,James,112
+RI,M,,Robert,149
+RI,F,,Mary,708
+RI,F,,,67
+,F,,Patricia,8
+RI,F,,Jordan,19
+RI,F,,,580
+RI,F,,Patricia,121
+ RI ,F,,Taylor,10
+,F,,Casey,367
+RI,F,,Patricia,171
+RI,M,,John,242
+ RI ,F,,,26
+RI,M,,Michael,1102
+ RI ,M,,James,76
+RI,M,,Mary,
+,F,,alex,39
+RI,M,,Jordan,328
+ RI ,F,,Patricia,78
+ RI ,F,,Patricia,40
+RI,,,Alex,10
+RI,M,,Taylor,396
+RI,M,,Michael,9
+RI,F,,Taylor,41
+RI,F,,Casey,168
+RI,M,,Jennifer,40
+,F,,Alex,55
+RI,F,,alex,49
+RI,F,,Mary,246
+RI,M,,Taylor,74
+RI,F,,mary,6
+RI,F,,Alex,163
+RI,M,,Michael,65
+,,,Casey,12
+RI,M,,John,325
+RI,M,,Jordan,35
+RI,M,,Jordan,13
+ RI ,F,,Casey,753
+RI,M,,Michael,1190
+,,,,133
+RI,F,,Casey,260
+RI,,,James,145
+RI,M,,Michael,18
+ RI ,F,,james,365
+RI,F,,Jordan,
+RI,M,,Michael,388
+,M,,James,899
+RI,F,,Linda,263
+RI,M,,Casey,957
+RI,F,,Taylor,553
+RI,F,,Jennifer,521
+RI,M,,Michael,11
+RI,F,,Michael,38
+RI,F,,Alex,49
+RI,M,,Taylor,78
+RI, F ,,Patricia,660
+RI,M,,Jordan,517
+RI,M,,Taylor,123
+RI,M,,Casey,876
+RI,F,,Patricia,270
+RI,F,,Mary,37
+RI,M,,Taylor,594
+RI,F,,Linda,
+RI,F,,Mary,32
+RI,F,,Mary,6
+RI,F,,,76
+RI,M,,James,42
+RI,F,,Jordan,768
+ RI ,F,, Jennifer ,15
+RI,F,,Taylor,368
+RI,M,,Robert,44
+ RI ,M,, Jordan ,14
+RI,F,,Jordan,120
+RI,M,,Alex,181
+RI,M,,james,78
+RI,F,,Jennifer,1026
+RI,F,,Jordan,547
+RI, F ,,Taylor,
+ RI ,F,,,50
+RI, M ,,James,157
+RI,F,,John,222
+RI,F,,Robert,598
+RI,F,,Alex,562
+RI,F,,Jordan,139
+RI,M,,Robert,326
+ RI ,M,,Jordan,339
+RI,F,,Linda,83
+,F,,Jordan,203
+ RI ,M,,Casey,391
+,M,,Alex,37
+RI,F,,Jennifer,969
+RI,F,,Mary,543
+RI,M,,Jordan,594
+RI,M,,Robert,12
+ RI ,F,, Jennifer ,37
+RI,F,,Alex,1033
+RI,M,,Robert,547
+RI,M,, Robert ,222
+RI,F,,,240
+RI,M,,Alex,141
+RI,M,,Michael,107
+RI,F,,Jordan,768
+RI,F,,Casey,307
+RI, F ,,Taylor,85
+RI,M,,Mary,179
+RI,M,,Casey,
+RI,F,,Taylor,344
+RI, F ,, Mary ,578
+ RI ,M,,Mary,97
+RI,M,,Robert,102
+RI, F ,,Patricia,119
+RI,F,,Patricia,346
+RI,F,,Patricia,268
+RI,M,,James,94
+RI,M,,Jordan,587
+RI,M,,Casey,233
+RI,M,,Alex,167
+RI,M,,Taylor,41
+RI,F,,Mary,131
+RI,M,,John,135
+RI, M ,,Taylor,199
+RI, F ,,James,15
+RI,F,,Mary,8
+RI,F,,Patricia,199
+RI,F,,Patricia,16
+RI,M,,Casey,209
+RI,M,,Michael,67
+RI,F,,Alex,755
+RI,M,,Robert,536
+RI,M,,James,10
+RI,M,, John ,322
+RI,M,,Alex,251
+RI,F,,Alex,20
+RI, M ,,Robert,15
+RI,M,,Jordan,232
+RI, F ,,alex,39
+RI,M,,Jordan,6
+RI,M,,Michael,
+RI,F,, Patricia ,626
+RI,M,,John,139
+RI,F,,Jennifer,108
+RI, F ,,Alex,984
+RI,M,,James,19
+RI,F,,Alex,122
+RI,F,, Jordan ,637
+RI,F,,Jordan,40
+RI,F,,Patricia,376
+RI,F,,mary,52
+ RI ,M,,john,
+RI,M,,Michael,83
+RI,F,,Linda,
+RI,F,,Jordan,90
+RI, M ,,Michael,10
+RI,F,,Jordan,21
+RI,F,,Jennifer,33
+,M,,Linda,261
+RI,F,,Alex,
+RI,M,,James,399
+RI,M,,Alex,
+RI,F,,linda,549
+RI,M,,Michael,704
+RI,M,,Michael,216
+RI,M,,James,13
+RI,M,,Jordan,479
+RI,M,,Casey,989
+RI, F ,,Casey,65
+RI, M ,,Jordan,39
+RI,F,,Casey,9
+RI,F,,Alex,259
+,F,,Mary,390
+RI,F,,Alex,710
+RI,F,,Jordan,289
+RI,M,,Jordan,182
+RI,M,,alex,37
+RI,,,Patricia,23
+RI,M,,alex,647
+ RI ,F,,Mary,7
+RI,M,,Jordan,258
+,M,,Alex,130
+RI,F,,Alex,
+RI,F,,Casey,118
+RI,M,,Taylor,
+RI,F,, Jordan ,7
+RI,M,,Alex,52
+RI,F,,linda,79
+RI, M ,,John,10
+RI,F,,Jennifer,295
+RI,M,,Michael,425
+RI,F,,Jordan,547
+ RI ,M,,James,304
+RI,F,,Taylor,34
+RI,F,,Taylor,318
+RI,M,,James,465
+,M,,,338
+RI,F,,Jennifer,335
+RI,M,,Jennifer,86
+ RI ,M,,Taylor,121
+RI,F,,Alex,596
+RI,F,,Jordan,601
+,F,,Casey,83
+ RI ,M,,Jordan,76
+RI,M,,Taylor,16
+RI,M,,Robert,132
+RI,M,,Casey,102
+RI,F,,Jennifer,507
+RI,M,, John ,387
+RI,M,,,108
+RI,M,, James ,718
+RI,F,,Jordan,537
+RI,F,,Mary,371
+,M,,Michael,220
+RI,F,,Taylor,245
+RI,M,,Mary,273
+RI,F,, Mary ,102
+RI,F,,Mary,118
+RI,M,, Michael ,44
+RI,M,,jordan,372
+RI,M,,Jordan,
+ RI ,M,,John,131
+, M ,,John,280
+RI,F,,Patricia,263
+RI,M,,Patricia,256
+RI,M,,Jordan,19
+RI,F,,Alex,22
+RI,F,,Patricia,515
+RI,F,,Taylor,568
+RI,M,,Jordan,451
+ RI ,,,Robert,20
+RI,M,,Robert,117
+RI, F ,,Mary,517
+RI,F,,Casey,315
+RI,F,,Patricia,233
+RI,F,,Mary,539
+RI,M,,James,255
+RI,F,,Alex,6
+,M,,John,495
+RI,M,,Michael,40
+RI,M,,James,28
+RI,F,,Alex,12
+ RI ,M,,Casey,457
+RI,F,,Linda,57
+,M,,Casey,602
+RI,M,,Robert,886
+RI,M,,Patricia,
+RI,M,,John,45
+RI,M,,Jordan,106
+RI,F,,Jennifer,108
+RI,F,,Michael,69
+RI,F,, Mary ,132
+ RI ,F,,casey,10
+RI,F,,Casey,134
+ RI ,M,,John,237
+RI,M,,mary,456
+RI,M,,Alex,287
+RI,F,,Linda,264
+RI,F,,Linda,16
+RI,M,,Alex,206
+RI,F,,Linda,260
+RI,F,,Robert,583
+RI,F,,Casey,66
+RI,F,,Casey,1175
+RI,F,,Mary,157
+RI,F,,Alex,718
+ RI ,,,Patricia,39
+RI,M,,Jordan,47
+RI,M,,Michael,225
+RI, M ,,Casey,46
+ RI ,F,, Taylor ,58
+RI,M,,Taylor,
+RI,M,,John,92
+RI,F,,Taylor,209
+RI,F,,Linda,
+RI,M,,,19
+RI,F,,Taylor,
+RI,M,,Michael,180
+RI,F,,Alex,32
+RI,M,,James,403
+RI,F,,Jordan,646
+RI,M,,James,279
+RI,M,,,84
+RI,M,,James,39
+ RI ,F,,Jordan,1306
+,M,,Robert,150
+RI,M,,james,105
+RI,M,,Taylor,330
+RI,M,,Taylor,67
+,F,,Jennifer,141
+RI, F ,,James,128
+RI,M,, Alex ,681
+RI,F,,Alex,163
+RI, M ,,michael,10
+RI,F,,Patricia,
+RI,M,,,164
+RI,M,,Michael,60
+RI,F,,Linda,391
+RI,F,,linda,185
+ RI , M ,,Linda,78
+RI,M,,Jennifer,136
+RI,M,,Alex,668
+RI, F ,,Jordan,78
+RI,M,,Taylor,140
+RI,M,, Jordan ,149
+RI,F,,Alex,
+RI,M,, Alex ,646
+ RI ,F,,,9
+RI,M,,John,550
+RI,M,,Jordan,
+RI,F,,Taylor,331
+RI,F,,Mary,688
+,F,,linda,418
+RI, M ,,James,157
+RI, M ,,Robert,16
+RI,M,,Casey,92
+RI,M,,Alex,100
+RI,F,,Linda,50
+RI, F ,,Taylor,277
+RI,F,,Casey,231
+RI,M,,Jordan,35
+RI,M,,john,632
+RI, M ,,Robert,132
+RI,F,,Linda,29
+ RI ,F,,,80
+RI,F,,Patricia,7
+RI,F,,Jordan,68
+RI,F,,Mary,
+RI,M,,Alex,509
+RI,F,,Alex,155
+,F,,,638
+RI,F,,Jennifer,83
+RI,M,,Taylor,130
+RI,F,,john,5
+RI,F,,,78
+RI, M ,,James,15
+RI,M,,Jordan,260
+,M,,Michael,200
+RI,M,,robert,221
+,M,,James,7
+RI,M,,Robert,152
+RI,F,,Jordan,515
+RI,F,,Mary,908
+RI,M,,Taylor,135
+RI,M,,Robert,6
+RI,M,,James,261
+RI,M,,casey,75
+ RI ,,,Casey,319
+RI,M,,Michael,13
+RI,M,,John,7
+,F,,Taylor,157
+RI, M ,,,5
+RI,F,,Jennifer,1369
+RI,M,,Alex,7
+RI,M,,,547
+RI,F,,Mary,73
+RI,M,,James,52
+RI,,,John,15
+RI,M,,Casey,64
+RI,F,,Jennifer,100
+RI,,,Robert,
+RI,F,,Jennifer,491
+RI,F,,Taylor,1147
+ RI ,F,,Casey,15
+RI,,,Alex,765
+,F,,Jennifer,685
+RI,F,,Linda,
+RI,F,,Alex,59
+ RI ,F,,Patricia,849
+RI,M,,James,31
+RI,M,,Jordan,162
+, F ,,Casey,307
+RI,F,,Taylor,12
+RI,M,,Patricia,8
+RI,F,,James,780
+ RI ,F,,Casey,421
+,F,,Casey,312
+RI,F,,Alex,130
+RI,M,,Michael,625
+RI,F,,Jennifer,41
+,F,,Jennifer,50
+RI, M ,,taylor,216
+ RI ,,,Casey,147
+RI,M,,Michael,703
+RI,F,,Mary,108
+RI,F,,Patricia,22
+RI,M,,Robert,66
+RI,M,,John,
+RI,,,Taylor,152
+RI,F,,Taylor,6
+RI,F,,Patricia,542
+RI,M,,Casey,305
+RI,F,,Linda,500
+RI,F,,Taylor,499
+RI,F,,Jennifer,387
+RI,M,,Robert,74
+RI,M,,Taylor,334
+RI,M,,Casey,12
+,F,,Casey,83
+RI,M,,Taylor,325
+RI,F,,Patricia,477
+RI,M,,,43
+RI,F,,Jennifer,59
+RI,F,,Alex,385
+RI,M,,Alex,126
+RI,F,,Casey,211
+RI,M,,James,400
+RI, F ,,Patricia,944
+RI,M,,John,81
+RI,M,,Taylor,286
+RI, F ,,Taylor,37
+RI,M,,Alex,273
+RI,F,,Casey,522
+RI,,,Alex,147
+RI,F,,Patricia,23
+RI, F ,,Alex,26
+RI, F ,,Robert,159
+RI,F,,Mary,38
+RI,M,,Taylor,435
+RI,F,,Taylor,246
+RI,F,,Mary,92
+RI,M,,Alex,470
+RI,F,,Jennifer,16
+RI,F,,Casey,
+RI,F,,Alex,15
+RI, F ,,Mary,98
+RI,M,,Jordan,9
+RI,F,,jordan,303
+RI,M,,James,30
+RI,F,,Patricia,
+RI,M,,John,20
+RI,F,,Alex,229
+RI,F,,Linda,220
+RI,M,,,252
+RI,F,,Linda,786
+ RI ,F,,,231
+RI,F,,Jordan,10
+RI,F,,Casey,83
+ RI ,F,,Casey,91
+RI,M,,Casey,802
+RI,M,,Robert,166
+RI,F,,Taylor,
+RI,F,,Linda,9
+RI,F,,Linda,135
+RI,F,,Mary,56
+RI,F,,Jennifer,68
+RI,M,, John ,226
+RI,M,,Casey,70
+,M,,Casey,
+RI,M,, Casey ,75
+RI, F ,,jennifer,112
+RI,M,,Robert,16
+RI, M ,,alex,9
+RI,M,,Taylor,123
+RI,F,,Alex,61
+RI,M,,Michael,13
+RI,F,,Jordan,799
+RI,F,,Mary,33
+RI,F,,Linda,95
+ RI ,F,,Casey,254
+RI,M,,Taylor,10
+RI,M,,Michael,251
+RI,M,,Robert,7
+RI,F,,Jennifer,152
+RI,F,, Mary ,66
+RI,F,,Alex,648
+RI,M,,Jordan,61
+RI,F,,Casey,18
+RI,M,,Jordan,541
+RI,F,,Linda,54
+RI,F,,Patricia,71
+RI,M,,Jordan,315
+ RI ,M,,Casey,32
+,M,,,258
+RI,F,,taylor,20
+,F,,Casey,15
+RI,M,,Jordan,734
+RI,,,Jordan,223
+RI,F,,,16
+RI,M,,Robert,160
+RI,F,,alex,214
+RI,M,,john,78
+RI, F ,,Alex,25
+RI,F,,Jennifer,1008
+RI,M,,Taylor,89
+RI,F,,Casey,168
+RI,M,,Michael,463
+ RI , M ,, Alex ,409
+RI,M,,Michael,83
+RI,M,,Alex,
+RI,F,,Linda,39
+RI,M,,Casey,7
+RI,F,,Linda,25

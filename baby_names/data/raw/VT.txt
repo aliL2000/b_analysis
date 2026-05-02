@@ -1,0 +1,1630 @@
+state,sex,year,name,count
+VT,M,1978.0, Jennifer ,300
+VT,F,1954.0,Jordan,14
+VT,M,1983.0,robert,599
+VT,M,,Michael,118
+VT,M,1954.0,Taylor,52
+VT,M,2001.0,,120
+VT,F,1936.0,Patricia,143
+VT,F,1914.0,Jennifer,19
+VT,M,,Alex,1011
+VT,M,1961.0,James,189
+VT,F,1993.0,Jennifer,59
+VT,M,1967.0,Casey,326
+ VT ,M,2001.0,Alex,
+VT,M,1970.0,Casey,300
+VT,F,1984.0, Mary ,265
+VT, F ,1960.0,Linda,58
+,M,1965.0, Patricia ,
+VT,F,2003.0,Patricia,222
+VT,F,2021.0,Linda,19
+VT,F,1963.0,Mary,425
+VT,M,2009.0,Taylor,43
+VT,F,1944.0, Alex ,113
+VT,M,1957.0,Alex,21
+VT,F,1995.0,Jordan,127
+VT,F,1999.0,Mary,136
+VT,M,,Michael,22
+VT,M,1977.0,James,669
+VT,M,1968.0,Taylor,243
+, F ,1963.0,Jennifer,110
+ VT ,M,1979.0,Casey,64
+VT,F,1932.0, Linda ,60
+VT,M,1955.0,John,1644
+,M,1911.0,John,18
+ VT ,F,1935.0,Casey,6
+,F,1988.0,Patricia,187
+VT,F,1964.0,Patricia,421
+ VT ,M,1946.0,Taylor,191
+ VT ,F,1992.0,Linda,232
+, F ,1947.0,Alex,33
+ VT ,F,1913.0,Jordan,167
+VT,M,1939.0,,236
+VT, F ,1994.0,Alex,22
+VT,M,1970.0,,141
+VT, F ,1959.0,Jordan,60
+ VT ,F,1981.0,Jennifer,
+VT,F,1914.0,Linda,55
+VT,F,1971.0,Alex,81
+VT,F,1959.0,Casey,492
+VT,M,1910.0,Patricia,5
+VT, F ,1978.0,Linda,942
+VT, M ,1951.0,John,573
+VT, F ,1959.0,Mary,925
+VT,M,2014.0,Jordan,85
+VT,F,1970.0,john,103
+VT, M ,1955.0,Michael,304
+VT,M,1945.0,,41
+VT,F,1967.0,Taylor,93
+,M,2020.0,John,6
+VT,M,1975.0,John,190
+VT,F,1936.0,Casey,22
+VT,M,1919.0,Taylor,34
+VT,F,2009.0, Jordan ,59
+VT,M,2005.0,Michael,271
+VT,M,1942.0, Alex ,15
+VT,F,2011.0,Jennifer,367
+VT,M,1937.0,Michael,
+VT,M,1921.0,Patricia,
+VT, M ,1979.0,John,29
+VT,M,2008.0,,63
+VT, M ,1934.0,Casey,14
+VT,M,1949.0,Taylor,47
+VT,M,2009.0,Jordan,958
+ VT ,M,1998.0,Michael,875
+VT,F,1977.0,Mary,341
+VT,F,1916.0,Taylor,47
+VT, F ,1944.0,Taylor,91
+ VT ,M,1948.0,Robert,40
+VT,F,2005.0,Robert,148
+VT,F,1952.0,Jennifer,619
+VT,M,1926.0,Robert,39
+VT,M,1978.0,,976
+VT,F,1955.0,Jordan,301
+ VT ,F,2018.0,Taylor,12
+VT,M,1967.0,Michael,447
+VT,F,1949.0,jennifer,110
+VT,F,1985.0,Alex,136
+VT,F,1967.0,Jordan,695
+VT,M,1992.0,,541
+VT,F,1934.0,Casey,44
+VT,F,1935.0,Patricia,21
+VT, F ,1960.0,Jennifer,763
+ VT ,M,,James,48
+VT,F,1980.0,Patricia,348
+ VT ,F,1990.0,Mary,849
+VT,F,,Taylor,392
+VT,F,2007.0,Casey,49
+VT,M,1976.0,Michael,14
+VT,F,2012.0,Mary,18
+VT,F,1995.0,Linda,439
+VT,M,1969.0,Taylor,75
+VT,F,2011.0,Alex,165
+VT,M,2000.0,John,91
+VT,F,1985.0,Mary,225
+VT,M,1949.0,Jordan,10
+VT,M,1947.0,Jordan,9
+VT, F ,1945.0,Alex,362
+ VT , M ,1984.0,Casey,
+VT,M,1958.0,Casey,34
+ VT ,M,2003.0,Jordan,1288
+VT,M,2022.0,Alex,38
+VT,F,1982.0,Jordan,513
+ VT ,F,1950.0,Linda,355
+VT,F,1927.0,Jennifer,387
+VT,,1926.0,Casey,164
+VT,F,1920.0,Patricia,122
+VT,M,2010.0,John,53
+,F,1972.0,Mary,412
+VT,M,1942.0,James,241
+VT,F,1984.0,Jennifer,251
+VT,F,1930.0,Taylor,9
+VT,F,2021.0,James,8
+ VT ,M,1997.0,Michael,63
+VT,,1996.0,,453
+VT, F ,2001.0,Jordan,794
+VT, F ,1968.0,Taylor,44
+VT,M,2016.0,Michael,113
+VT,M,1978.0,Robert,96
+VT,M,1917.0,,21
+VT, M ,1951.0,Jordan,91
+VT,M,1997.0,Casey,657
+VT,M,2022.0,James,225
+VT, M ,1956.0,jordan,382
+VT,M,1991.0,Alex,173
+VT,F,2011.0,Taylor,112
+VT,F,1949.0,Alex,52
+VT,M,1929.0,John,12
+ VT ,,2002.0,Linda,166
+VT,M,2018.0,Alex,42
+,,1953.0,Casey,209
+VT,M,1956.0,Alex,32
+VT,M,1945.0,Michael,737
+VT,M,2016.0,James,488
+VT,M,1932.0,Michael,
+VT,F,2017.0,Alex,
+VT,M,1951.0,James,43
+VT,,1940.0,Mary,19
+VT,,2016.0,Casey,309
+,F,1956.0,Jennifer,85
+VT,M,1987.0,Taylor,443
+VT,M,2004.0,Jordan,22
+VT,M,2009.0,Alex,404
+,F,2008.0,Alex,117
+VT,F,1941.0,Michael,179
+VT,F,1949.0,Casey,451
+VT,M,1990.0,Alex,756
+VT,F,1996.0,Taylor,863
+VT,M,1964.0,,162
+VT,M,1972.0, Jordan ,75
+VT,M,1957.0,Taylor,50
+ VT ,F,1987.0,Taylor,42
+VT,M,1921.0,Robert,154
+VT,M,1918.0,John,41
+VT,M,,Patricia,216
+VT,M,1973.0,Alex,576
+VT,F,2000.0,patricia,120
+VT,F,1955.0,Casey,
+VT,M,1936.0,Jordan,530
+VT,M,1972.0,Robert,140
+VT,F,2017.0,Jennifer,161
+VT,F,,Jennifer,678
+VT,M,1946.0,John,5
+VT,M,1931.0,Casey,178
+VT,F,1999.0,Patricia,228
+VT,F,1919.0,Linda,23
+VT,M,1969.0,Casey,85
+ VT ,F,1932.0,Alex,56
+VT,F,1951.0,Alex,
+VT,M,2015.0,Casey,26
+VT, M ,1989.0,Robert,176
+ VT ,F,2001.0,Jennifer,
+VT, F ,1981.0,Patricia,386
+VT,F,1938.0, Jennifer ,31
+ VT ,M,1991.0,Taylor,169
+ VT ,M,1921.0,,25
+VT,M,1939.0,Jordan,22
+VT,F,1922.0,,244
+VT,M,2011.0, Taylor ,192
+VT,F,1929.0,Jennifer,20
+VT, F ,1957.0,Taylor,567
+VT,F,1937.0,Michael,152
+VT,F,1958.0,alex,303
+VT,M,1985.0,John,663
+VT,F,1941.0,Jennifer,237
+,,2003.0,Taylor,953
+ VT ,F,1982.0,Casey,559
+VT,M,1923.0,John,21
+VT,M,2021.0,Jordan,268
+VT,M,2010.0,Jordan,55
+ VT ,M,1959.0,James,282
+,M,1958.0,Jordan,326
+VT,F,1940.0,Alex,174
+VT,F,1954.0,Jennifer,88
+VT,F,1960.0,Patricia,470
+VT, M ,1979.0,Taylor,124
+VT,M,1987.0,james,164
+VT, F ,1921.0,jennifer,97
+VT, M ,1990.0,Casey,103
+VT, M ,1914.0,John,13
+VT, F ,2018.0,Casey,257
+VT,F,1921.0,Linda,7
+VT, F ,1993.0,Taylor,719
+VT,M,1924.0,Alex,188
+VT,M,1996.0,Robert,270
+ VT ,F,1975.0,Alex,237
+VT,M,1996.0,Jordan,
+ VT ,F,1937.0,Alex,153
+,M,1910.0, Michael ,14
+VT,,1931.0, Casey ,470
+VT,F,1962.0,Jennifer,1155
+VT,,1948.0,Patricia,423
+VT,M,1942.0,Taylor,408
+VT,M,1980.0,,746
+VT,F,1991.0,Jordan,15
+VT,F,2011.0,Mary,132
+VT,F,1933.0,Patricia,12
+VT,M,1987.0,james,164
+VT,F,1950.0,Casey,357
+VT,F,1950.0, Mary ,12
+VT,F,1998.0,Taylor,141
+VT,,2004.0,Casey,202
+VT,F,1980.0,Jordan,970
+VT,M,2021.0,James,53
+VT,M,1966.0,John,16
+VT,F,1944.0,Jordan,104
+VT,F,1989.0,Alex,374
+VT,F,1936.0,Jennifer,114
+ VT ,F,2019.0,Taylor,57
+VT, F ,,Jennifer,333
+VT,M,1971.0,Jordan,466
+,M,2002.0,casey,409
+VT,F,1951.0,Linda,94
+VT,,1947.0,Casey,207
+VT,,2015.0,Casey,18
+VT,M,1960.0,James,313
+VT,F,2008.0,,333
+ VT ,M,2000.0,Michael,66
+VT, M ,1940.0,Linda,16
+VT, F ,2009.0,Linda,103
+VT,F,1976.0,Mary,352
+VT,M,1976.0,casey,243
+VT,M,2005.0,Jennifer,151
+VT, M ,1987.0, Jordan ,283
+VT,M,1968.0,,612
+ VT ,M,1996.0,James,65
+VT,M,1924.0,,8
+VT,F,1997.0,Taylor,17
+VT,M,2019.0,Alex,41
+VT,M,1962.0,Mary,21
+VT, F ,,Casey,622
+,,,Jordan,52
+VT,,1993.0,Michael,91
+VT,M,1921.0,John,64
+VT,M,1955.0,Casey,548
+ VT ,F,2005.0,Jordan,109
+VT,M,1972.0,Casey,637
+ VT ,M,1998.0,Casey,896
+VT,F,1949.0,Mary,540
+VT,F,1946.0,Casey,40
+VT,M,1967.0,jordan,
+ VT , M ,1932.0,Robert,
+VT,F,1994.0,Taylor,858
+VT,M,1987.0,Casey,
+VT,M,1953.0,Michael,752
+VT,M,1911.0,,37
+VT,F,1924.0,Alex,180
+VT,,1928.0,Michael,47
+VT,M,1935.0,Jordan,199
+VT,M,1979.0,Jordan,1010
+VT,F,1995.0, Mary ,116
+VT,,1958.0,Taylor,115
+VT,M,1939.0,patricia,84
+VT,M,1942.0,Michael,40
+VT,M,2002.0,Taylor,90
+VT,M,2000.0,Alex,52
+VT, M ,1971.0,John,164
+ VT ,M,1996.0,Casey,139
+VT,M,2007.0,,44
+VT,M,1998.0,Alex,89
+VT,F,1926.0,Patricia,25
+VT,F,1978.0,Mary,187
+VT,M,2001.0,Casey,21
+VT,M,2021.0,Robert,77
+VT,M,2018.0,,31
+VT,F,1981.0,Taylor,36
+VT,F,1938.0,Patricia,300
+VT,F,1966.0,Patricia,
+VT, F ,1976.0,Casey,280
+VT,M,1967.0,James,184
+VT,F,1953.0,Mary,62
+VT,F,,Patricia,99
+VT,M,1953.0,Jordan,9
+VT,M,1910.0,John,13
+VT,M,1962.0,,303
+VT, M ,1983.0,James,501
+VT,M,1964.0,Casey,165
+VT,M,,Michael,694
+VT,F,1989.0,Taylor,766
+VT,M,1950.0,alex,9
+VT,F,1975.0,Patricia,285
+VT,M,1944.0,Michael,264
+VT,M,1971.0,Taylor,514
+VT, F ,1986.0,Casey,223
+VT,M,1975.0,,31
+VT,M,2022.0,Michael,
+VT,F,1970.0,Jordan,742
+VT,M,2015.0,Jennifer,347
+VT,M,,John,1164
+VT,M,1980.0,,746
+VT, M ,1990.0,John,541
+VT,M,1977.0,Casey,462
+ VT ,F,1918.0,,6
+,F,1980.0,Mary,408
+VT,F,1979.0,Alex,82
+VT,M,2011.0,Michael,38
+VT,M,1937.0,Casey,955
+VT,M,1966.0, Alex ,59
+VT,F,2008.0, Jennifer ,83
+VT,F,1990.0,Linda,
+VT,M,1918.0,Casey,9
+VT,F,1939.0,Patricia,186
+VT,F,1935.0,Jordan,
+VT,M,1938.0,Michael,78
+VT,,1991.0,Jennifer,11
+VT,M,1947.0,John,505
+VT,F,2007.0,Jordan,56
+VT,M,1937.0,John,182
+VT,F,,Casey,157
+VT, M ,1962.0,Michael,135
+ VT ,F,,Alex,441
+VT, M ,1984.0,Michael,189
+VT,F,2006.0,patricia,13
+VT,M,1942.0,John,22
+VT,F,1976.0,Alex,323
+VT,F,1968.0,Patricia,483
+VT,M,1956.0,Taylor,52
+VT,M,1950.0,robert,761
+VT,M,1990.0,jordan,910
+VT,F,1948.0,Robert,583
+VT,M,,Casey,66
+VT,M,1978.0,Taylor,580
+VT,F,1970.0,Taylor,35
+ VT ,F,1940.0,Jennifer,767
+ VT ,M,1994.0,John,21
+ VT ,M,1954.0, Alex ,134
+VT,M,1991.0,Michael,128
+VT,F,2013.0,Alex,402
+ VT ,F,2002.0,Jordan,39
+VT,M,1967.0,Taylor,863
+VT,,1969.0,Michael,1014
+VT,M,1991.0,Michael,128
+VT, F ,2006.0,Alex,470
+VT,F,1945.0,Michael,5
+ VT ,M,1994.0,,78
+VT,F,2002.0,,60
+VT,F,1939.0,Mary,244
+VT,F,1933.0,Alex,53
+VT,,1959.0,Jennifer,69
+VT,,1962.0,Mary,328
+VT,F,1988.0,Mary,225
+VT,F,1934.0,Taylor,10
+VT,F,1950.0,Jennifer,36
+VT,M,1989.0,James,601
+VT,F,1969.0,,191
+VT,F,1996.0,Alex,792
+VT,F,1988.0,Casey,623
+ VT ,M,1971.0,Casey,136
+VT,M,1994.0,Robert,23
+VT,,1991.0,Jennifer,11
+VT,F,1972.0,Linda,10
+VT,M,1993.0,James,519
+VT,M,1923.0,Taylor,8
+VT,,1969.0,Jennifer,239
+VT,F,1922.0,Patricia,27
+VT,M,1991.0,Robert,179
+,F,1991.0,Patricia,114
+ VT ,F,1931.0,Jordan,24
+VT,F,1975.0,Jennifer,77
+VT,M,1945.0,Casey,20
+VT,F,1960.0,Alex,705
+ VT ,M,1941.0,Taylor,126
+VT,,1988.0,James,316
+VT,M,1995.0,Jordan,77
+VT,F,1980.0,Linda,614
+VT,F,1972.0,Patricia,783
+VT,M,1979.0,Alex,10
+VT,F,1957.0,Jordan,23
+VT,M,1924.0, Michael ,38
+VT, M ,1966.0,James,42
+VT,M,1950.0,Taylor,333
+VT,F,1985.0,Linda,215
+ VT ,,1961.0,John,200
+VT,M,1973.0,Casey,67
+VT,M,1927.0,Mary,61
+VT,M,1989.0,John,173
+VT, M ,1973.0,Robert,327
+VT,,1960.0,Alex,726
+VT, M ,1943.0,Taylor,239
+VT,M,1974.0,Robert,204
+VT,,1920.0,Alex,
+VT,,1982.0,Casey,306
+VT,,1967.0,Patricia,674
+VT,,1955.0,Alex,117
+VT,M,2002.0,Robert,30
+VT,M,1978.0,John,92
+VT,F,1965.0,Jordan,136
+VT,M,1936.0,Linda,493
+ VT , F ,1975.0,Mary,637
+VT,F,1955.0,Alex,34
+VT,,1948.0, James ,713
+VT,F,1994.0,Jordan,144
+VT,F,2013.0,Taylor,74
+,F,1986.0,Jennifer,104
+VT,M,2003.0,Michael,111
+VT,M,1994.0,Taylor,49
+VT,F,2000.0,Linda,377
+VT,M,1970.0,Taylor,
+VT,F,2001.0,Alex,52
+VT,M,1918.0,Jordan,53
+ VT ,F,,Taylor,91
+VT,M,1927.0,Jordan,125
+VT,M,1973.0,Taylor,86
+VT,F,2005.0, Alex ,28
+,M,1954.0,Robert,267
+VT,F,2022.0,Robert,89
+ VT ,,2015.0,Jordan,142
+VT,M,1923.0,Robert,43
+ VT , M ,1926.0,Michael,37
+VT,M,,Alex,78
+VT,M,1922.0,Taylor,258
+VT,F,1981.0,Linda,100
+VT,M,1992.0,Taylor,40
+VT,F,1957.0,Casey,59
+VT,F,1939.0,Jordan,33
+VT,M,2002.0,James,621
+VT,M,1969.0,Robert,165
+ VT ,M,1978.0,jordan,393
+ VT ,F,,Alex,17
+VT,F,2016.0,Taylor,7
+VT,M,1934.0,Patricia,22
+VT,F,,Jordan,176
+VT,F,2016.0,Linda,617
+VT,F,2004.0,Taylor,
+VT, M ,1961.0,alex,675
+VT,M,1964.0,James,
+VT,M,1959.0, Alex ,36
+VT, M ,1952.0,Taylor,45
+VT,M,1976.0,Taylor,232
+VT,M,,,340
+VT, M ,1969.0,,
+VT,F,1959.0,Patricia,44
+VT,F,2007.0,Alex,53
+VT,F,,Casey,27
+VT,M,1922.0,John,108
+VT,M,1928.0,Robert,7
+VT,F,1994.0,Jennifer,276
+ VT ,M,1988.0,Alex,961
+VT,F,2007.0, Patricia ,36
+VT,F,1978.0, James ,323
+VT,F,,Jennifer,60
+VT,F,2014.0,Taylor,7
+VT,F,,Taylor,343
+VT,F,2000.0,Mary,
+VT,M,2011.0,,314
+VT,,1992.0,James,807
+ VT ,M,1946.0,James,80
+VT,F,1971.0,,518
+VT,,1965.0,Jordan,1014
+VT,F,1952.0,Patricia,110
+VT, F ,1961.0,Taylor,295
+VT,,2010.0,Casey,50
+VT, F ,2014.0,Jennifer,1039
+VT,F,2021.0,Patricia,83
+VT,,,Taylor,6
+VT,M,2006.0, James ,603
+VT,F,2014.0,Linda,94
+VT,M,1958.0,Alex,924
+VT,M,,Jordan,136
+VT,M,1961.0,Jordan,72
+VT,F,1962.0,Patricia,
+,F,1911.0,Jennifer,10
+VT,M,1988.0,Taylor,146
+VT,F,2018.0,,38
+VT,M,1968.0,James,21
+VT,F,, Jennifer ,531
+VT,,1954.0,Casey,69
+,M,1955.0,Jordan,244
+,F,,Linda,280
+VT,F,1978.0,Jennifer,53
+VT,F,1999.0, Casey ,958
+VT,M,1927.0,Mary,61
+ VT ,F,1942.0,Patricia,278
+VT,M,1988.0,Casey,390
+VT,M,1974.0,,484
+VT,F,1977.0,,49
+ VT ,,1974.0,Taylor,1102
+VT,M,1982.0,James,307
+VT,F,1927.0,Taylor,176
+ VT ,M,2008.0,Alex,
+VT,M,1987.0,Alex,42
+VT,,1935.0,Taylor,465
+VT,F,1952.0,Jordan,
+VT,,1918.0,Jordan,113
+VT, M ,2000.0,Casey,133
+VT,F,1937.0,James,423
+VT,M,1984.0,John,251
+VT,F,2011.0,Casey,86
+VT,F,1969.0,Patricia,302
+VT,M,2012.0, Alex ,8
+VT,M,2008.0,Casey,12
+VT, M ,1944.0,Robert,753
+VT,M,1946.0,Alex,19
+ VT ,F,1942.0,Jordan,5
+VT,M,2017.0,John,158
+VT,F,1969.0,Alex,7
+ VT ,M,1993.0,Jordan,95
+VT, F ,2000.0,,16
+VT,F,1926.0,John,208
+VT,M,2007.0,Taylor,70
+VT,F,1948.0,Casey,338
+, M ,1978.0,alex,215
+VT,M,1975.0,Robert,227
+,,2003.0,Taylor,953
+VT,M,1963.0, Casey ,259
+VT,,1989.0,Michael,414
+VT,F,,linda,151
+VT,F,1994.0,Patricia,22
+VT,F,2012.0, Casey ,20
+VT,M,2017.0,Alex,255
+VT,F,1974.0, Patricia ,54
+VT,M,1940.0,John,89
+VT,M,1967.0,John,53
+VT,F,1953.0,Mary,62
+VT,F,1978.0,Taylor,172
+VT,,2010.0,Jordan,129
+ VT ,M,,Jordan,1242
+ VT ,F,1961.0,Casey,383
+VT,F,2004.0,linda,32
+VT,F,1950.0,Taylor,235
+VT,F,1952.0,Alex,62
+VT,M,2022.0,John,27
+VT,F,1972.0,Alex,442
+VT,F,1974.0,Taylor,72
+VT,M,1933.0,John,13
+VT,F,1979.0,Taylor,544
+VT,M,2020.0,James,82
+VT,F,1952.0,Mary,321
+VT,F,2016.0,John,260
+VT,F,1945.0,Linda,51
+VT,F,1989.0,Patricia,92
+,M,2005.0,James,257
+ VT ,M,2018.0,James,52
+,M,2013.0,Taylor,84
+VT,M,1985.0,,430
+VT,F,1957.0,Linda,26
+VT,F,1974.0,Linda,230
+VT, M ,1937.0,Robert,43
+VT,M,1976.0,Mary,94
+VT,F,1953.0,Taylor,225
+VT,M,1955.0,Robert,63
+VT,F,1986.0,Patricia,11
+VT,M,1931.0,James,61
+VT,F,1942.0,Jennifer,269
+VT,M,1956.0,James,419
+VT,M,1915.0,Alex,135
+VT,M,1960.0,Robert,503
+ VT ,M,2020.0,Jordan,85
+VT,F,1923.0,Casey,245
+ VT ,M,1938.0,Jordan,37
+,M,1970.0,James,47
+VT,M,,robert,309
+VT,M,1993.0,Taylor,53
+VT,F,1928.0,Jordan,35
+,M,2012.0,Mary,451
+VT,M,1957.0,Michael,381
+VT,F,1945.0,Patricia,828
+VT,F,1971.0,Jordan,13
+VT,F,2009.0,jennifer,745
+VT,,1974.0,Jennifer,186
+VT,F,1988.0,Jennifer,67
+ VT ,M,1992.0,John,856
+VT,F,1956.0,Mary,723
+VT, M ,1936.0,Michael,21
+VT,F,1971.0,Jennifer,95
+VT,F,1964.0,Jennifer,430
+VT,M,1925.0,Michael,15
+VT,F,1939.0, Linda ,32
+VT, M ,1910.0,Jordan,7
+VT,M,2007.0,Casey,997
+VT,F,2002.0,Casey,31
+VT,F,1930.0,Mary,122
+VT,M,1924.0,,55
+VT,F,1965.0,Jennifer,117
+VT,M,1957.0, Linda ,683
+VT,M,,John,134
+VT,M,2001.0,Taylor,67
+ VT ,F,2004.0,Jordan,308
+VT,M,1933.0,James,166
+ VT ,M,1975.0, Taylor ,716
+VT,F,1995.0,Alex,199
+VT,M,1940.0,Taylor,427
+VT,F,1976.0,Jennifer,748
+VT,M,2000.0,Robert,229
+ VT ,M,1922.0, Casey ,51
+ VT ,M,1960.0,John,1156
+VT,F,1966.0,jordan,301
+VT,F,1951.0,,352
+VT,M,1918.0,Taylor,6
+VT,F,1984.0,Taylor,124
+,M,1939.0,Alex,
+VT,F,1951.0,Mary,52
+VT,M,1932.0,,23
+VT,M,2003.0,John,424
+VT,F,1986.0,Linda,56
+VT,F,1936.0,Linda,199
+VT,M,1982.0,Robert,443
+VT,F,1941.0,Taylor,138
+VT,M,1947.0,Michael,28
+VT,M,1940.0,Casey,560
+VT,F,1959.0,Robert,449
+VT,M,2007.0,Robert,26
+VT,F,1994.0,Casey,275
+VT,F,,Alex,279
+VT,F,1940.0, Taylor ,832
+VT, F ,1955.0,Mary,
+VT,M,1988.0,John,893
+VT, M ,1956.0,Casey,243
+ VT ,M,2022.0,Robert,47
+VT, F ,1941.0,Patricia,143
+VT,F,2019.0,Alex,13
+VT, M ,2008.0,Michael,34
+,F,1986.0,mary,201
+VT,F,2022.0,Mary,55
+VT,M,1999.0,John,66
+VT,F,1930.0,Jennifer,77
+VT,F,1945.0,Casey,5
+VT,M,2001.0,Robert,116
+VT,F,1933.0,Linda,249
+VT,,1987.0,Jordan,336
+VT,M,1985.0,casey,638
+VT,M,1997.0,Taylor,292
+VT,M,2019.0,Casey,31
+,F,1934.0,Linda,35
+VT, F ,1968.0,Mary,31
+VT,F,1989.0,Jennifer,60
+VT,F,1922.0,Linda,58
+VT,M,1966.0,Michael,331
+VT,F,1932.0,Michael,12
+VT,F,1996.0,Patricia,376
+VT,F,1973.0,Mary,427
+VT, F ,1993.0,Mary,705
+VT,F,1961.0,Linda,797
+VT,F,1992.0,Taylor,402
+VT,,1991.0,Taylor,66
+VT,M,1994.0,Michael,483
+VT,M,1996.0,Taylor,199
+VT,M,1965.0,James,478
+VT,M,2006.0, James ,603
+VT, M ,1972.0,John,661
+,,1980.0,Taylor,121
+ VT ,M,1969.0,John,365
+VT,M,1932.0,Patricia,21
+VT, M ,2007.0,James,26
+VT,F,1992.0,Jordan,348
+VT, F ,1985.0,Casey,493
+ VT ,F,1962.0,Alex,12
+VT, M ,2017.0,James,511
+VT,F,1965.0,Alex,113
+VT,F,1961.0,Jennifer,68
+VT,F,1992.0,Patricia,134
+VT,F,2000.0,Taylor,440
+VT,M,1964.0,,241
+VT,F,1972.0,Casey,86
+VT,M,1953.0,John,351
+VT,,2002.0,Alex,198
+VT,F,1963.0,Jordan,1114
+ VT ,F,1916.0,Mary,36
+VT,M,1995.0,Casey,633
+VT,,1999.0,Robert,320
+VT,M,1923.0,James,53
+VT,F,2005.0,Jennifer,172
+VT,M,1986.0,Michael,409
+ VT ,,1996.0,Alex,58
+,F,1969.0,,1090
+VT,M,1959.0, Jordan ,97
+VT,F,1990.0,Taylor,98
+VT, M ,2018.0,Robert,8
+VT,,1913.0,James,41
+ VT ,M,1950.0,John,32
+VT,F,1963.0,Taylor,40
+VT,M,1954.0,Michael,173
+VT,M,1961.0,Taylor,
+VT,M,1932.0, Alex ,8
+VT,M,1985.0,Taylor,259
+VT,M,1943.0,Jordan,10
+VT,M,1975.0,Jordan,39
+ VT ,M,2001.0,John,42
+VT,F,1979.0,Mary,281
+VT,M,2022.0,Casey,417
+VT,F,1983.0,Patricia,876
+VT,F,1958.0,Linda,757
+VT, F ,1963.0, James ,65
+ VT ,M,1945.0,Jordan,115
+VT,F,1975.0,Jordan,69
+VT,F,,Jennifer,
+VT,M,1951.0,Taylor,176
+VT,,1973.0,Taylor,298
+VT,F,1995.0,Jennifer,68
+VT,M,1961.0,Michael,
+VT,M,1968.0,Jordan,399
+VT,M,1916.0,john,94
+VT,F,2018.0,Linda,115
+VT,M,2006.0,Michael,102
+VT,M,1974.0,,58
+VT,F,1943.0,Linda,498
+VT,F,1973.0,Patricia,103
+VT,M,1937.0,Alex,112
+VT,,1997.0,Alex,354
+VT,F,1956.0,Taylor,293
+VT,M,2008.0,James,180
+VT,M,2004.0,Taylor,25
+ VT ,F,,Jennifer,9
+VT,M,1915.0,James,27
+VT,M,1992.0,Jordan,158
+VT,M,1963.0,Michael,753
+VT,F,1991.0,,828
+VT,F,2009.0,Casey,
+VT, M ,1960.0,Casey,255
+VT,M,1973.0,James,336
+VT,M,1989.0,Alex,693
+VT,M,2004.0,John,11
+VT,F,1990.0,Patricia,284
+,M,1954.0,john,255
+VT,F,1985.0,Jennifer,427
+VT,,1923.0,Linda,5
+,M,1941.0,Jennifer,280
+VT,M,1913.0,Taylor,20
+VT,M,1929.0,jordan,256
+ VT ,M,1982.0,Mary,756
+ VT ,F,2005.0,Taylor,167
+VT,M,1999.0,,332
+VT,M,1941.0,Jordan,457
+VT,F,2002.0,Patricia,40
+VT, F ,1998.0,,372
+VT,M,1988.0,Michael,94
+VT,F,1982.0,Linda,12
+VT,F,1973.0,Linda,432
+ VT , F ,1962.0,Linda,
+ VT , M ,1940.0,James,76
+VT,M,1989.0,Jordan,130
+VT,M,1940.0,Taylor,427
+VT,F,1953.0,Alex,14
+VT, M ,1935.0,John,77
+VT,M,1935.0,Casey,9
+VT,M,1956.0,John,141
+VT,M,1967.0,Robert,232
+VT,M,1963.0,Jordan,170
+VT,F,1956.0,,1136
+VT,M,1977.0,Robert,501
+VT, F ,1930.0,Patricia,93
+VT, F ,1927.0,Jordan,56
+VT,F,2017.0,Jordan,340
+VT,F,1951.0,Mary,52
+VT,F,1999.0,Taylor,5
+ VT ,F,1930.0,Linda,38
+VT,,1932.0,Jordan,22
+VT,F,1984.0,Linda,481
+VT,F,1924.0,John,7
+VT,M,1963.0,Taylor,382
+VT, M ,2020.0,Robert,8
+VT,M,1956.0,Michael,38
+VT,M,1964.0,John,108
+VT,F,2011.0,Jordan,40
+VT, M ,1997.0,Jordan,51
+VT,,2008.0,John,981
+VT,M,2000.0,taylor,208
+,F,1964.0,Mary,980
+VT,M,1917.0,Jordan,25
+VT,F,1939.0,Jennifer,101
+VT,M,2015.0,John,
+VT,M,1969.0,James,410
+VT, F ,1947.0,Mary,427
+VT, F ,1991.0,Mary,105
+VT,F,1972.0,Jordan,379
+ VT ,M,,Taylor,718
+VT,F,1958.0,Robert,306
+VT,M,1985.0,Robert,80
+,M,1915.0,Michael,14
+,F,1967.0,linda,295
+VT,F,1930.0,,8
+VT,F,1948.0,Linda,6
+ VT ,M,2014.0,John,47
+VT,M,1973.0,Jordan,224
+VT,F,1936.0,Alex,170
+VT,M,1973.0,Michael,163
+VT,M,,Robert,
+VT,F,1914.0,Casey,7
+VT, F ,1946.0,Jordan,92
+VT,,1998.0,James,95
+VT,F,1966.0,Mary,75
+ VT ,F,2001.0,Jennifer,
+VT,M,1949.0, Casey ,599
+VT,F,1964.0,,31
+VT,M,1948.0,Casey,529
+VT, F ,2016.0,Jennifer,194
+VT, F ,,Linda,52
+VT,F,1941.0,mary,531
+VT,F,1996.0,Mary,612
+VT,M,1980.0,John,238
+VT,M,1993.0,John,654
+VT,F,2022.0,Casey,273
+VT,F,1968.0,Casey,463
+VT,M,1941.0,Casey,358
+VT, M ,1968.0,Alex,184
+,,1947.0,Casey,239
+VT,F,1973.0,Alex,194
+VT,F,1965.0,Linda,483
+VT,F,2001.0,Taylor,
+VT,M,2004.0,Michael,215
+VT,F,1953.0,Linda,1168
+VT,M,1912.0,John,69
+VT,M,1935.0,Jordan,199
+VT,M,2018.0,John,62
+VT,F,1926.0,Alex,41
+VT,M,1971.0,Alex,99
+VT,F,1950.0,Patricia,265
+VT,M,1990.0,Michael,476
+VT,M,1984.0,robert,490
+VT,F,2001.0,mary,
+VT,M,1950.0,Casey,308
+VT, F ,1961.0,Mary,130
+VT,M,1986.0,Jordan,247
+VT,F,1968.0,Linda,257
+VT,M,2016.0,Jordan,27
+VT,F,,Jennifer,20
+VT,F,2020.0,Jordan,10
+VT, M ,1942.0,Jordan,199
+VT, M ,2013.0,john,7
+VT, M ,1934.0,Taylor,152
+VT, F ,1982.0,Patricia,117
+VT,M,1980.0,,202
+VT,M,1999.0,james,574
+ VT ,M,2020.0,Jordan,85
+VT,F,1927.0,Mary,51
+VT,M,1994.0,Casey,109
+VT,F,1972.0,Taylor,74
+VT,F,1939.0,Robert,7
+VT,F,2006.0,Linda,213
+VT,F,1964.0,Jordan,604
+VT,F,1989.0,Linda,156
+VT, M ,1944.0,Casey,49
+VT,F,2014.0,Patricia,15
+VT,F,1944.0,Patricia,15
+VT,M,,Alex,328
+VT,F,1945.0,Taylor,104
+VT,M,1964.0,Jordan,155
+VT,M,1990.0,James,843
+ VT ,,1962.0,Jennifer,60
+VT,M,1975.0,alex,461
+VT,M,1962.0,John,1241
+ VT ,F,2020.0,Jennifer,142
+VT,F,1969.0,,561
+VT,M,1991.0,Jordan,349
+VT,M,2015.0,Taylor,16
+,F,2003.0,Alex,31
+VT,F,2010.0,Patricia,140
+VT,M,1936.0,Alex,19
+VT,M,1925.0,Alex,63
+VT,M,1928.0,Jordan,357
+,F,2009.0, Mary ,49
+VT,M,1981.0,Michael,19
+VT,F,,Mary,437
+VT,M,2009.0,James,54
+VT,F,1997.0,Casey,131
+VT,M,1996.0, John ,33
+VT,F,2016.0,John,260
+VT,F,2013.0,Patricia,186
+VT,F,1975.0,Linda,538
+VT, F ,1929.0,Michael,16
+,F,1969.0,Linda,145
+ VT ,M,1939.0,Casey,9
+VT,F,1977.0,Patricia,285
+VT,F,1942.0,Casey,54
+VT,M,,James,13
+VT,,,,130
+VT,M,1966.0,Taylor,697
+VT,F,2006.0,Mary,607
+ VT ,M,1932.0,James,36
+VT,,1991.0,Alex,195
+VT,F,1948.0,Mary,11
+VT,F,2014.0,Casey,683
+VT, M ,1946.0,Casey,319
+VT,F,1934.0,Mary,11
+VT,M,1972.0,Alex,196
+VT,,2005.0,Jordan,230
+VT,M,1965.0,Taylor,100
+VT,M,2011.0,Casey,135
+VT,F,1981.0,Jordan,594
+VT, M ,1962.0,Casey,306
+ VT ,M,1916.0,alex,
+ VT ,M,1941.0,michael,
+VT,M,2006.0,John,620
+ VT ,F,2007.0,Mary,23
+VT,M,1953.0,,24
+VT,F,2000.0,Jordan,680
+VT,M,2010.0,Casey,13
+ VT ,F,1941.0,Linda,53
+VT,F,2006.0,Jordan,27
+VT,M,1954.0,James,251
+VT,F,2001.0,Patricia,368
+VT,M,1971.0,James,153
+VT,F,1916.0,Patricia,15
+VT,F,1983.0,Mary,225
+VT,F,2022.0,Linda,102
+VT,F,2021.0,Taylor,80
+VT,F,1982.0,jennifer,264
+VT,F,1914.0,Jordan,12
+VT,M,1985.0,James,33
+VT,F,1966.0,Jennifer,596
+VT,,1965.0,Alex,396
+VT,F,1937.0,Jordan,26
+VT,F,1982.0,Alex,328
+VT, F ,1945.0,Jordan,22
+VT,M,1977.0,John,
+VT,M,1976.0,John,109
+VT,F,1922.0,Mary,62
+VT,F,2008.0,Patricia,11
+ VT ,F,1973.0,Jordan,1068
+VT,M,1915.0,Casey,68
+VT,F,2012.0,Taylor,
+VT,F,1919.0,Mary,47
+ VT ,M,1976.0,alex,157
+VT,F,1958.0,Mary,386
+VT,M,2017.0,Michael,31
+VT,M,1980.0,Taylor,173
+VT,M,1933.0, Jordan ,20
+VT,F,2006.0,Taylor,446
+VT,F,2022.0,,
+VT,F,1965.0,Taylor,171
+ VT ,F,1944.0,Mary,6
+VT,F,1990.0,Alex,51
+VT,F,1963.0,Patricia,171
+,M,2015.0,James,
+VT,M,1990.0,Taylor,476
+VT,M,,Mary,
+VT,F,1939.0,Alex,8
+VT,F,1938.0,Casey,168
+VT, M ,1939.0,Robert,255
+VT, F ,1969.0,Jennifer,396
+VT,F,1932.0,Jennifer,199
+VT,F,2006.0, Jennifer ,371
+VT,M,1941.0,James,111
+VT,F,1964.0,Casey,147
+,F,1987.0,,527
+VT,M,1943.0,Alex,72
+VT,F,1971.0,Mary,476
+VT,F,2021.0,Casey,819
+VT,M,1969.0,Alex,1475
+VT,F,1970.0,Alex,214
+VT,F,,Casey,54
+VT,M,,Alex,23
+,M,1983.0,Taylor,146
+VT,F,1993.0,Patricia,393
+VT,M,1964.0,,162
+VT, M ,1927.0,Alex,19
+VT,F,1960.0,jordan,354
+VT,F,2007.0,Linda,18
+VT,M,1996.0,Jordan,
+VT,M,1986.0,Jordan,247
+VT,F,1986.0,,529
+VT,F,1962.0,Jordan,465
+VT, F ,2005.0, Casey ,585
+VT,M,1996.0,Taylor,199
+ VT ,,2016.0,Patricia,114
+VT,M,2006.0,Jordan,397
+VT,M,1943.0,John,37
+VT,F,2010.0,Linda,54
+VT, F ,1953.0,Patricia,92
+ VT , F ,1994.0,Linda,167
+VT,M,1981.0,Taylor,275
+VT,M,1999.0,Jordan,32
+,M,1959.0,Robert,485
+,,2003.0,James,53
+ VT ,F,1998.0,Linda,508
+VT,M,1976.0,Jordan,84
+VT,M,1956.0,Robert,18
+VT,F,1935.0,Alex,45
+VT,F,1975.0,Taylor,130
+VT,M,1947.0,James,22
+VT,F,2015.0,Mary,292
+VT,F,1990.0,Casey,367
+VT,F,2018.0,Patricia,332
+VT,M,,Alex,6
+VT,F,1985.0,Patricia,66
+VT,M,1949.0,John,10
+VT,M,1957.0,Robert,54
+VT,F,2008.0,Casey,7
+VT,M,,,
+VT,F,1947.0,,1446
+VT,F,1995.0,Casey,44
+VT,F,1954.0,Mary,808
+VT,M,1959.0,Michael,256
+VT,M,1930.0,Robert,16
+VT,F,1990.0,Jordan,570
+VT, F ,1987.0,Patricia,1191
+VT,F,2010.0,,26
+VT,F,2013.0,James,196
+VT,M,2013.0,James,406
+VT,M,1925.0,Taylor,223
+VT,F,1956.0,Linda,970
+VT,F,1996.0,Jennifer,261
+VT, F ,2016.0,Jordan,30
+,F,2009.0, Mary ,49
+,F,1958.0,Patricia,50
+VT, M ,2012.0,jordan,104
+VT,M,2012.0,Michael,146
+VT,M,1985.0,Michael,528
+VT,,1992.0, Robert ,55
+ VT ,M,1998.0,Taylor,709
+VT,F,1993.0,Alex,752
+VT, F ,2012.0,Patricia,465
+VT,F,1968.0,Jennifer,437
+VT,M,2008.0,Mary,663
+ VT ,F,1951.0,Jordan,24
+VT,M,1968.0,Casey,578
+VT,F,1979.0,Jordan,652
+VT,M,1947.0,Taylor,25
+VT,M,1942.0,Robert,13
+VT,,1984.0,Patricia,776
+VT,F,1952.0,Jordan,
+VT,M,2003.0,Taylor,70
+VT,F,1997.0,Linda,757
+ VT ,M,1963.0,Robert,35
+VT,M,2017.0,Taylor,146
+VT,M,2008.0,Linda,62
+VT,F,1997.0,Mary,223
+VT,M,1959.0,Casey,562
+ VT , M ,1912.0,jordan,77
+VT,F,1944.0,Jennifer,28
+VT,M,1948.0, Michael ,7
+VT,F,1970.0,Jennifer,104
+VT,F,1954.0, Casey ,403
+VT,M,1980.0,Robert,318
+VT,F,1998.0,jordan,182
+VT,M,1937.0,jordan,197
+,F,1910.0,Jordan,24
+VT, M ,,Robert,211
+VT,F,1980.0,Jennifer,256
+VT,M,1997.0,James,1275
+VT, M ,,John,16
+ VT ,M,1981.0,Robert,588
+VT,,1952.0, Michael ,40
+VT, F ,1924.0,Casey,120
+ VT ,M,1999.0,Michael,62
+VT,M,2007.0,Casey,997
+ VT ,F,2004.0,John,
+VT, M ,1948.0,Alex,13
+VT,M,1945.0,James,54
+VT,F,2007.0,jennifer,9
+,F,2008.0,James,863
+VT,M,1949.0,Mary,552
+VT,F,1987.0,Jennifer,662
+ VT ,F,1936.0,Taylor,195
+VT,M,1958.0,,37
+VT,F,1910.0,Patricia,15
+VT, F ,1993.0,Jordan,191
+VT,M,1957.0,Mary,185
+VT,F,1931.0, Mary ,64
+VT,M,2018.0,Jordan,176
+VT,M,2002.0,John,1117
+VT,F,,Patricia,108
+VT,M,2004.0,Jennifer,194
+VT,M,1949.0,Robert,56
+VT,M,1975.0,Jordan,39
+VT,F,1952.0,Linda,124
+VT,F,1985.0,Mary,225
+VT, F ,1986.0,Alex,208
+VT,M,1949.0,Robert,56
+VT,F,1967.0,Alex,141
+VT,F,1937.0,Casey,24
+VT,F,1933.0,Michael,82
+VT,F,1964.0,Taylor,133
+VT,F,1926.0,Jordan,
+VT,M,1920.0,Robert,7
+VT, F ,2020.0,Casey,14
+VT,M,,Alex,135
+VT,F,1992.0,Mary,80
+ VT ,M,1979.0,Michael,1168
+VT,F,2004.0,James,9
+ VT ,F,2015.0,Patricia,43
+VT, M ,1983.0,Michael,41
+VT,F,2020.0,Linda,11
+,F,1989.0,Jordan,313
+VT, M ,1943.0,Michael,25
+VT,F,1963.0,Alex,521
+VT,M,1950.0,Jordan,144
+VT, F ,2002.0,Alex,
+VT,F,,Jordan,216
+VT,F,1979.0,Linda,166
+VT,F,2019.0,John,120
+VT,M,1997.0,Linda,75
+VT,F,1982.0,Mary,17
+VT,F,1994.0,Mary,805
+VT,M,1934.0,James,311
+VT,F,1972.0,Jennifer,382
+ VT ,F,1971.0,Taylor,309
+VT,F,1985.0,Taylor,52
+VT, M ,1949.0,Michael,239
+VT,M,1972.0,Taylor,1119
+VT,F,1981.0, Alex ,356
+VT,M,1990.0,Mary,252
+VT,M,2000.0,James,6
+VT,F,1934.0,Patricia,139
+VT,,2001.0,Jordan,96
+VT,M,2009.0,Casey,421
+,F,1971.0,Patricia,700
+ VT ,F,1938.0,Linda,88
+VT,M,1963.0,James,115
+ VT ,M,1928.0,Taylor,135
+VT,F,2017.0,Casey,137
+VT,M,2004.0,Casey,828
+ VT ,M,1960.0,Jordan,188
+VT,F,1930.0,Jordan,188
+, M ,1935.0,Alex,26
+VT,M,1930.0,Alex,16
+, F ,1980.0,Casey,134
+VT,M,1959.0,,79
+VT, F ,2017.0,linda,29
+VT,,,taylor,400
+ VT ,M,1910.0, Mary ,65
+VT,M,2022.0,Taylor,207
+VT,F,1973.0,,123
+VT,M,1966.0,Casey,289
+VT,M,2009.0,Robert,82
+, F ,1954.0,Linda,265
+ VT ,M,1978.0,Michael,225
+VT,F,1950.0, Mary ,12
+VT,M,1933.0, Alex ,40
+VT, F ,1996.0,Jordan,343
+VT,M,2005.0,John,6
+VT,M,1984.0,James,8
+VT,M,1995.0,Michael,384
+VT,M,1977.0,Jordan,
+VT, F ,1933.0,Mary,48
+VT,,1957.0,Jennifer,270
+VT, F ,1960.0, Taylor ,483
+VT,F,1955.0,Taylor,19
+, M ,1952.0,Jordan,194
+VT,M,1914.0,Casey,5
+VT,,,John,814
+VT,F,1952.0,Taylor,486
+,F,1974.0, Casey ,514
+VT,F,1976.0,Jordan,135
+VT,M,1958.0,Robert,105
+VT,M,1971.0,Michael,613
+ VT ,F,,Mary,9
+VT,M,2010.0,James,32
+VT,F,1983.0,,172
+VT,F,2021.0,Mary,12
+VT,F,2016.0,Mary,276
+VT,M,1977.0,Taylor,66
+VT, M ,1942.0,Jordan,199
+VT,M,1983.0,Casey,1054
+VT,M,2007.0,Jordan,15
+VT,M,1984.0,taylor,897
+VT, M ,1944.0,James,62
+VT,M,1951.0,Alex,459
+VT,M,2004.0,Robert,900
+VT, M ,1962.0,taylor,18
+VT,F,1961.0,Alex,710
+ VT , F ,1976.0,Linda,441
+VT,M,2019.0,Robert,61
+VT,M,2016.0, Alex ,408
+VT,M,2011.0,Jordan,213
+VT,M,1958.0,James,567
+, M ,2021.0,jennifer,345
+VT,F,1948.0,Taylor,50
+VT,M,2006.0,Robert,941
+VT,M,1919.0,Robert,16
+VT,M,1940.0, Michael ,15
+VT, F ,2004.0,Mary,43
+VT, M ,1953.0,Taylor,344
+VT,F,2003.0,Linda,68
+VT,M,1943.0,,348
+VT, F ,2005.0,Linda,358
+VT,F,1975.0,Casey,677
+VT,,1995.0,Patricia,235
+VT, M ,1950.0,Michael,226
+VT,F,1963.0,Linda,54
+VT,M,1989.0,Casey,328
+VT,M,1960.0,Michael,567
+VT,F,2001.0,Casey,532
+VT,F,1965.0,Patricia,
+ VT ,F,1984.0,Casey,436
+VT,M,1982.0,Michael,632
+VT,F,1912.0,,17
+VT,M,1944.0,Taylor,132
+VT,M,, James ,15
+VT,M,2016.0,John,170
+VT,F,1953.0,Jennifer,69
+VT, F ,1939.0,Casey,129
+VT,F,1996.0,Casey,205
+VT,M,,Michael,
+VT,F,2015.0,Jennifer,15
+VT, F ,1988.0, Taylor ,466
+VT,M,1938.0,Alex,9
+VT,,1970.0,Casey,98
+VT,M,1985.0,Jordan,208
+VT,M,2010.0, Michael ,561
+VT,F,1956.0,Alex,67
+VT,M,2002.0,Jordan,757
+VT,F,2014.0,Jordan,7
+ VT ,F,2013.0,Jordan,42
+VT,M,2015.0,John,
+VT,F,2005.0,Patricia,144
+VT,M,2017.0,Jordan,865
+VT,F,1916.0,jordan,65
+VT,F,2000.0,Jennifer,154
+VT,F,1968.0,Alex,612
+VT,,1994.0,Jordan,859
+VT,M,1952.0,John,74
+ VT ,M,1976.0,Robert,175
+VT,F,1997.0,,447
+VT,F,1957.0,Alex,350
+VT,M,1998.0,Robert,51
+VT,M,1946.0,Michael,31
+VT,F,1979.0,Patricia,247
+VT, M ,1979.0,Patricia,572
+VT,F,1987.0,alex,475
+VT,F,1968.0,Jordan,27
+VT,M,1982.0,taylor,513
+VT,M,2010.0,Taylor,311
+ VT ,F,,Taylor,11
+VT,F,1981.0,Casey,605
+VT,M,1957.0,Jordan,422
+VT,F,,Mary,40
+VT,M,1931.0,Casey,178
+VT,M,1911.0,Michael,87
+VT,M,1987.0,Robert,458
+ VT ,M,1986.0,,610
+VT,M,1941.0,John,19
+ VT , F ,2022.0,Alex,115
+VT,F,1961.0,Patricia,120
+VT,F,1935.0,Michael,408
+VT,F,2018.0,Jennifer,500
+VT,F,1981.0,Mary,92
+ VT ,F,2007.0,Taylor,110
+VT,F,1939.0,Taylor,9
+VT, M ,1954.0,Jordan,18
+VT,F,2004.0, Alex ,132
+VT,F,2002.0, Mary ,557
+VT,M,1986.0,James,680
+VT,F,2004.0,Jennifer,30
+VT,M,2013.0,Alex,38
+VT,F,2009.0,Taylor,125
+VT,M,1958.0,John,332
+VT, F ,1915.0,Jordan,8
+VT, M ,1983.0,Alex,422
+VT,M,1959.0,John,116
+VT,M,1934.0,Patricia,22
+VT,M,2008.0, Taylor ,774
+VT,F,1937.0, Patricia ,463
+VT,F,1927.0,Linda,56
+VT,F,1999.0,Alex,288
+ VT ,M,2013.0,Michael,
+VT,M,1967.0,,1093
+VT,F,2009.0,Patricia,9
+VT,,1944.0,Alex,41
+VT,M,1944.0,Mary,274
+ VT ,M,1982.0,,370
+VT,F,1970.0,Linda,191
+VT,F,,Casey,348
+VT,M,2018.0,Casey,88
+VT,M,,Alex,290
+VT,F,1965.0,Mary,291
+VT,F,1983.0,Linda,326
+VT,F,1978.0,Jordan,708
+VT,M,2017.0,Robert,200
+VT, F ,2013.0,Linda,74
+VT,,1966.0, Casey ,336
+VT,F,1947.0,Taylor,43
+VT,M,2019.0,Michael,338
+VT,F,1965.0,Casey,79
+VT,F,1984.0,Jordan,34
+VT,M,1970.0,Alex,40
+VT,,1997.0,Robert,676
+ VT ,F,1988.0,Alex,228
+VT, F ,1927.0,Casey,285
+VT,M,2015.0,Jordan,6
+VT, M ,1965.0,Robert,37
+VT,F,1992.0,Alex,30
+VT, F ,1978.0,Alex,
+VT,F,1998.0,Mary,332
+VT,M,2004.0,James,569
+VT,F,1967.0,Mary,
+VT,M,1961.0,Robert,779
+VT,M,2018.0,Michael,7
+VT, F ,1922.0,casey,66
+VT,F,1948.0,Alex,72
+VT,M,1989.0,,561
+VT,,1939.0,,41
+ VT ,M,1993.0,Robert,673
+VT,M,,Robert,
+,F,1946.0,Linda,129
+VT,M,2001.0,James,220
+VT,F,1999.0,Jennifer,91
+VT,M,1939.0,Jordan,22
+ VT ,,2009.0,Michael,196
+VT,M,1944.0,Jordan,889
+VT,M,1986.0,Alex,1158
+VT,M,1928.0,,31
+VT,M,1963.0,John,28
+VT,M,1974.0,Jordan,191
+VT,M,1918.0,Michael,23
+VT,F,2010.0,Jennifer,451
+VT,F,1917.0,Patricia,6
+VT,M,1934.0,,30
+VT,M,1974.0,Michael,106
+VT,M,1949.0,Alex,203
+VT,M,1946.0,Jordan,95
+VT,M,2011.0,Robert,241
+VT, M ,1991.0,Casey,578
+VT,F,1967.0,Jennifer,131
+VT,M,,James,1099
+ VT , M ,2020.0,Alex,353
+VT,M,2011.0,Alex,19
+VT,F,,Mary,359
+ VT ,M,2006.0,Taylor,103
+,M,1962.0,Robert,306
+VT,,1957.0,James,400
+VT,F,1947.0,Jordan,15
+VT,M,1957.0,John,81
+VT,M,1990.0,Robert,
+VT, M ,2006.0,Casey,914
+ VT ,M,1997.0,John,64
+,F,1970.0,Patricia,745
+VT,F,1942.0,Alex,
+VT,F,1954.0,Taylor,120
+VT,M,,Alex,469
+VT,F,2017.0,Patricia,
+VT,F,1942.0,Linda,18
+VT, F ,2008.0,Mary,338
+ VT ,,1926.0,Casey,131
+VT,M,1948.0,Casey,529
+ VT ,F,1977.0,alex,544
+VT,M,1929.0,Alex,132
+VT,F,2006.0,Mary,607
+VT,F,1947.0,Patricia,15
+VT,M,2011.0,James,543
+VT,,1961.0,Jordan,74
+VT,F,1998.0,Casey,11
+VT,F,1912.0,Jordan,14
+VT,,2005.0,Taylor,13
+,M,1964.0,Michael,431
+VT, F ,1996.0,Jordan,343
+VT,,1973.0,Casey,463
+VT,M,2019.0,,64
+VT, M ,1937.0,James,199
+VT,M,1992.0,Jennifer,480
+VT,M,2010.0,Robert,731
+,M,1922.0,Jordan,19
+VT,M,1952.0,Casey,
+VT,M,1963.0,Alex,557
+VT,M,1995.0,Alex,82
+,M,2005.0,Alex,207
+VT,F,1920.0,,6
+VT,F,1984.0,Patricia,59
+VT,F,1928.0,Patricia,154
+VT,F,1959.0,Linda,308
+VT,M,2014.0,Taylor,13
+VT,M,1988.0,Jordan,309
+ VT ,F,1974.0,Alex,144
+,F,1950.0,Alex,72
+VT,M,1941.0,,817
+VT,F,2016.0,Taylor,7
+VT,M,1935.0,Michael,169
+VT,F,,Mary,5
+ VT ,,1966.0,Alex,524
+VT,M,1983.0,Jordan,142
+VT,F,1970.0,Mary,40
+VT,F,1960.0,mary,126
+VT,F,1940.0,Linda,86
+VT,F,1943.0,Taylor,60
+VT,M,1982.0,Jordan,389
+VT,F,1992.0,Jennifer,129
+ VT ,M,2007.0,Alex,93
+VT,F,1913.0,Taylor,61
+VT,F,1928.0,Alex,42
+VT,M,2003.0,Taylor,70
+VT,M,2017.0, Casey ,66
+VT,F,1963.0,Casey,287
+VT,F,1995.0,Taylor,322
+VT,M,1941.0,James,111
+ VT , M ,2000.0,Jordan,81
+VT,F,1936.0, Jordan ,
+ VT ,F,1955.0,patricia,95
+,M,1930.0, John ,92
+VT,F,,Patricia,99
+VT,F,2011.0,Linda,45
+VT,F,1937.0,Jennifer,35
+VT,M,2014.0,Linda,438
+VT,M,1968.0,John,277
+, F ,2005.0,Mary,110
+VT,M,,Casey,75
+VT,F,1924.0,Jennifer,9
+VT,M,1961.0,Casey,826
+VT, M ,1983.0,John,240
+VT, F ,1974.0,mary,338
+VT,M,1966.0,Robert,377
+VT,F,1984.0,Alex,466
+VT,F,1991.0,Casey,335
+VT,F,1953.0,Jordan,99
+VT,M,1982.0,Patricia,35
+VT,M,,Casey,31
+,F,,Jennifer,17
+VT,M,2003.0,Alex,290
+VT,M,1952.0,Alex,521
+ VT ,F,1931.0,Taylor,32
+,F,1950.0,Alex,72
+VT,,,Casey,415
+VT,M,1947.0,alex,614
+VT,M,1995.0,John,243
+VT,F,1951.0,Casey,220
+VT,F,1928.0,Mary,16
+,F,1987.0,Linda,498
+VT,M,1968.0,,258
+VT,F,2012.0,Jordan,391
+VT,M,,Jordan,56
+ VT ,M,1975.0,james,511
+VT,M,2003.0,Casey,96
+VT,F,2000.0,Casey,961
+VT,F,2018.0,Alex,39
+VT,F,1920.0,Mary,131
+VT,F,1980.0,Alex,1124
+VT, M ,1959.0,Taylor,380
+VT,F,1914.0,Mary,83
+ VT ,M,1953.0,James,95
+VT,M,1940.0,Alex,791
+ VT ,M,1981.0,James,318
+VT,F,2008.0,Jordan,815
+VT,F,1977.0, Jennifer ,10
+VT, F ,1977.0,linda,319
+VT,M,1953.0,robert,645
+VT,M,1980.0,Jordan,28
+,M,2006.0,alex,13
+VT,F,1928.0,Linda,10
+VT,M,,Alex,6
+VT,M,1931.0,Michael,159
+VT,M,1929.0,Robert,6
+VT,F,1958.0,Jordan,320
+VT, F ,1993.0,Casey,328
+VT,F,1919.0,Jennifer,23
+,M,1962.0,,548
+VT,F,1956.0,Jordan,68
+VT,M,2007.0,Michael,399
+VT,M,2014.0,,
+ VT ,M,1967.0,Alex,48
+VT,F,2003.0,Jennifer,157
+VT, M ,1920.0,John,9
+VT,F,1944.0,Patricia,15
+VT,M,1948.0,,127
+VT,M,2021.0,Casey,584
+VT,F,1922.0,jennifer,28
+VT,F,1999.0,Linda,393
+VT,,1993.0,Casey,198
+VT,M,1942.0,Casey,67
+VT,M,1999.0,Taylor,769
+VT,M,1955.0,James,1250
+VT,F,1924.0,Jordan,22
+VT,M,2008.0,James,180
+ VT ,M,1980.0,Alex,117
+VT,F,1988.0,Casey,623
+VT, F ,1931.0,Jennifer,24
+VT,M,1987.0, John ,252
+VT,M,1998.0,Jordan,24
+VT,F,1985.0,,40
+VT,M,1978.0,Casey,
+VT,F,1988.0,Linda,76
+VT,M,1965.0,Casey,381
+VT, M ,2020.0,Michael,313
+VT,F,1987.0,Casey,366
+VT,F,1921.0,Patricia,7
+ VT ,M,1958.0,Michael,374
+VT,F,2006.0,Casey,46
+VT,F,1976.0,Taylor,161
+ VT ,M,,Alex,1044
+VT,F,2021.0,Alex,93
+VT,F,1927.0,Alex,298
+VT,F,1946.0,Taylor,182
+VT,F,1952.0,Casey,322
+VT,F,1998.0,Alex,18
+VT,M,2013.0,Jordan,143
+VT,M,1943.0,James,285
+VT,,1995.0,Robert,325
+VT,M,1981.0,Alex,
+VT,M,1973.0,John,169
+VT,M,2005.0,Casey,101
+VT,,1977.0,Taylor,312
+VT,F,1937.0,Mary,9
+,F,1988.0,Jordan,972
+VT,F,1957.0,Michael,159
+VT, F ,,Patricia,210
+VT,,2021.0,Alex,7
+VT,F,1978.0,Patricia,8
+VT, F ,1924.0, Patricia ,43
+VT,F,2014.0,Alex,180
+VT,F,1989.0,Mary,540
+VT,M,2005.0,Robert,780
+VT,M,1957.0,Casey,39
+,F,1944.0, Linda ,176
+VT,M,1926.0,Jordan,201
+VT,M,1938.0,Taylor,42
+VT,,1913.0,James,41
+VT, M ,1992.0,Michael,178
+VT,F,2003.0,Casey,52
+VT,M,1951.0,Robert,431
+VT, F ,1940.0,casey,74
+VT,,1942.0,Mary,10
+VT,M,,John,1164
+VT,F,1974.0,Jordan,967
+VT,M,1969.0,Linda,
+VT,,2015.0,Linda,219
+VT,M,1945.0,John,987
+VT,F,1951.0,Jennifer,109
+VT,,1983.0,alex,318
+VT,M,1964.0,Taylor,140
+VT,F,1936.0,mary,1184
+VT,F,1951.0,Patricia,200
+VT,M,1995.0,Taylor,
+VT,F,,Taylor,10
+VT,M,1936.0,Casey,483
+VT,,1937.0,,145
+VT,M,1938.0,Robert,38
+VT,F,2003.0,Jordan,450
+VT,F,1979.0,Casey,175
+VT,F,1964.0,Linda,
+VT,F,1954.0,Patricia,
+VT,F,1964.0,John,25
+VT,M,1965.0,John,118
+VT,F,,Taylor,5
+VT,,2002.0,Jennifer,210
+VT,,1950.0,Jordan,389
+VT,,1966.0,Linda,64
+VT,M,,Robert,6
+VT,M,1981.0,jordan,647
+VT,M,2013.0,Casey,78
+VT,F,2013.0,jennifer,489
+VT,M,1948.0,Jordan,37
+VT,M,1991.0,James,284
+VT,F,1966.0,taylor,
+VT,F,1971.0,linda,391
+VT,F,1948.0,Michael,109
+VT,F,1915.0,Mary,14
+VT, M ,1951.0,John,573
+VT,M,1968.0,Robert,277
+VT,M,1980.0, James ,956
+VT, M ,2012.0,James,269
+VT,F,1948.0, Jennifer ,71
+,M,1996.0,Michael,175
+VT,F,1997.0,jordan,685
+VT,F,1941.0,Jordan,655
+VT,M,1970.0,John,398
+VT,F,1940.0,Patricia,
+VT,F,2008.0,Linda,6
+VT,M,1932.0,Casey,49
+ VT ,M,,James,268
+VT,F,1943.0,Jordan,121
+VT,M,2020.0,Taylor,244
+VT,M,1936.0,Taylor,76
+VT,M,1977.0,,31
+VT,M,,Michael,320
+VT,M,1984.0,Jordan,533
+ VT ,,2010.0,,459
+VT,M,1960.0, Taylor ,447
+VT,M,1927.0,Casey,6
+ VT ,F,1998.0,Linda,508
+VT,M,1982.0,,661
+ VT ,,1957.0,Patricia,264
+VT,M,1993.0,James,519
+VT,F,1949.0,Taylor,8
+VT, F ,1959.0, Alex ,124
+VT,M,,Robert,13
+VT,F,1976.0,Patricia,228
+VT,F,1955.0,Jennifer,273
+VT,M,2008.0,Robert,20
+ VT ,M,1952.0,James,141
+VT,F,1990.0,Jennifer,
+,M,1979.0,James,
+VT,F,1960.0,Casey,89
+VT,F,1946.0,,16
+VT,,2022.0,Patricia,34
+VT,F,1997.0,patricia,243
+VT, F ,1978.0,Linda,942
+VT,M,1976.0,Mary,94
+VT,F,1911.0,Taylor,13
+VT,F,2003.0,mary,27
+VT,F,1962.0,Taylor,
+VT,M,1927.0,John,73
+VT,M,1950.0,james,232
+ VT ,F,1911.0, Casey ,14
+VT,F,1958.0,Casey,201
+VT,M,1974.0,Casey,120
+VT,F,1982.0,taylor,480
+ VT , M ,1940.0,Jordan,443
+VT,M,1970.0,Robert,155
+VT,M,1981.0,Casey,553
+VT,M,1952.0,Robert,563
+VT,M,1972.0,Michael,
+VT,M,1980.0,Linda,694
+VT,M,2006.0,Michael,102
+VT,M,2014.0,Robert,68
+VT,F,1983.0,Jennifer,302
+VT,F,1962.0,Casey,240
+VT,F,2010.0,Alex,180
+VT,F,1918.0, Jennifer ,62
+VT, F ,1955.0,Linda,192
+VT,F,1927.0,Patricia,81
+VT,M,1986.0,John,303
+VT,M,2012.0,Casey,37
+VT,M,1988.0,,340

@@ -1,0 +1,1668 @@
+state,sex,year,name,count
+ NY ,,1992.0,Jordan,361
+NY,,1970.0,Michael,230
+NY,,2008.0,Jordan,41
+NY,,2006.0, Jordan ,808
+NY,,1939.0,Robert,60
+NY,,2018.0,James,
+NY,,1941.0,James,735
+NY,,1980.0,Alex,172
+NY,,1939.0,Alex,364
+NY,,, Robert ,11
+NY,,1975.0,,555
+NY,,1955.0,Robert,609
+NY,,1968.0,Robert,189
+NY,,,Michael,118
+NY,,1922.0,Casey,
+NY,,1929.0,John,5
+NY,,1987.0,,709
+NY,,2020.0,John,149
+NY,,1986.0,James,128
+NY,,1967.0,James,318
+ NY ,,1987.0,Casey,72
+NY,,1996.0,John,942
+NY,,1993.0,John,311
+NY,,1965.0,Casey,914
+ NY ,,1954.0,Jordan,24
+NY,,1960.0,Alex,
+NY,,2007.0,Casey,11
+NY,,2012.0,Mary,130
+NY,,1968.0,Jordan,223
+NY,,1951.0,John,431
+NY,,1932.0,Alex,12
+,,1917.0,Jordan,82
+NY,,1981.0,,983
+NY,,2019.0,Casey,287
+NY,,,Linda,8
+NY,,,Casey,69
+NY,,1968.0,alex,56
+NY,,1993.0,Alex,770
+NY,,,John,332
+NY,,,James,48
+NY,,2008.0,John,871
+ NY ,,,Alex,633
+NY,,1952.0,Casey,762
+NY,,2007.0,Michael,82
+NY,,1933.0,Linda,156
+NY,,1958.0,James,538
+NY,,1924.0,Alex,255
+ NY ,,1985.0,Jennifer,716
+NY,,1952.0,Michael,153
+,,1975.0,Patricia,9
+NY,,,Michael,526
+,,,Alex,7
+NY,,1958.0,Casey,809
+NY,,1935.0,Taylor,151
+NY,,1997.0,Michael,77
+NY,,1964.0,Casey,345
+NY,,1957.0,Casey,34
+NY,,1986.0,Casey,300
+NY,,1976.0,Patricia,1253
+NY,,1941.0,Casey,638
+NY,,1966.0,Casey,26
+NY,,1959.0,Jennifer,772
+NY,,2011.0,Robert,32
+NY,,1983.0, Mary ,681
+NY,,1983.0,Alex,494
+NY,,1984.0,Robert,314
+,,1944.0, Taylor ,597
+NY,,1950.0,Casey,39
+,,1958.0,Linda,436
+NY,,1966.0,Taylor,67
+NY,,1966.0,Alex,325
+NY,,1932.0,Jennifer,14
+NY,,2011.0,,639
+NY,,1953.0,James,133
+NY,,1961.0,Michael,877
+NY,,1961.0,Jordan,530
+NY,,2022.0,Patricia,5
+NY,,1987.0,James,292
+NY,,1987.0,Linda,422
+NY,,2009.0,Jordan,70
+NY,,2016.0,Casey,28
+ NY ,,,Jordan,232
+NY,,2010.0,Alex,74
+NY,,2011.0,James,
+NY,,1929.0,Taylor,16
+NY,,1960.0,Michael,148
+NY,,,Linda,21
+ NY ,,1971.0,,122
+NY,,1988.0,Linda,67
+NY,,1961.0,Patricia,112
+ NY ,,1957.0,Michael,69
+NY,,1954.0,Taylor,1143
+NY,,1951.0,Robert,431
+NY,,1988.0,Jordan,136
+NY,,1964.0,Jennifer,631
+ NY ,,1933.0,jennifer,29
+NY,,1976.0,Michael,243
+NY,,1940.0,,12
+NY,,1986.0,Alex,
+NY,,1958.0,Mary,65
+NY,,2006.0,Taylor,247
+,,1966.0,Alex,1090
+NY,,1928.0,Mary,313
+NY,,1983.0,Linda,145
+NY,,1955.0,Taylor,35
+NY,,1993.0,Mary,998
+NY,,1948.0,James,905
+NY,,1975.0,Mary,105
+NY,,1978.0,Jennifer,177
+ NY ,,1932.0,jordan,8
+NY,,1981.0,,576
+NY,,2010.0,Jordan,8
+ NY ,,1968.0,Patricia,24
+,,1937.0,John,32
+NY,,2009.0,John,261
+NY,,1980.0,Jordan,117
+NY,,1973.0,Jordan,58
+NY,,1995.0,Linda,452
+,,1930.0,Jordan,332
+ NY ,,1991.0,,128
+NY,,1935.0,Alex,22
+NY,,1996.0,Robert,148
+NY,,2019.0,Alex,
+NY,,1958.0,Jordan,397
+NY,,2007.0,Taylor,26
+ NY ,,1952.0,Casey,103
+NY,,1913.0,Jennifer,63
+NY,,,Robert,148
+NY,,1910.0,Mary,12
+NY,,1939.0,Jennifer,
+NY,,2004.0,Robert,
+NY,,1934.0,robert,38
+NY,,1996.0,,87
+NY,,1959.0,Michael,918
+NY,,1991.0,Robert,83
+NY,,1913.0,Alex,20
+NY,,1927.0,John,33
+NY,,1960.0,Taylor,342
+NY,,,Mary,32
+NY,,1946.0,Robert,90
+NY,,1941.0,Alex,19
+NY,,1970.0,Michael,78
+NY,,2012.0,robert,476
+NY,,,Jordan,
+NY,,1955.0,Linda,261
+NY,,1949.0,Taylor,123
+NY,,1928.0,jordan,226
+NY,,1993.0,Taylor,130
+NY,,1936.0,James,145
+NY,,1944.0,Mary,170
+NY,,2005.0,Alex,480
+NY,,1911.0,Jordan,82
+NY,,1945.0,Casey,96
+NY,,1934.0,Jordan,316
+NY,,1956.0,Taylor,366
+,,1980.0,John,152
+NY,,1977.0,Casey,113
+NY,,1967.0,Patricia,140
+ NY ,,1999.0,taylor,370
+NY,,2001.0,Robert,313
+NY,,1944.0,Alex,70
+NY,,1922.0,Jordan,6
+NY,,1969.0,Alex,198
+NY,,1954.0,,5
+NY,,1923.0,,55
+NY,,1931.0,Jennifer,60
+NY,,1969.0,Robert,202
+NY,,1971.0,Alex,235
+NY,,1933.0, Casey ,
+NY,,1959.0,Taylor,880
+NY,,2020.0,Jennifer,148
+NY,,1956.0,Alex,
+NY,,1975.0,Jennifer,273
+NY,,1979.0,Michael,26
+NY,,,Michael,75
+NY,,2021.0,Taylor,43
+NY,,1998.0,Michael,824
+NY,,1978.0,taylor,48
+NY,,1972.0,Casey,526
+NY,,1947.0,Linda,13
+NY,,1938.0,Jordan,47
+NY,,1998.0,Casey,35
+NY,,2005.0,James,303
+ NY ,,1954.0,,1042
+NY,,2019.0,Jordan,671
+NY,,2015.0,John,23
+,,1968.0,Casey,156
+NY,,1946.0,Jennifer,28
+NY,,2010.0,Patricia,18
+NY,,,Mary,939
+NY,,1911.0,Patricia,48
+ NY ,,1967.0,Robert,189
+NY,,2001.0,Casey,274
+ NY ,,2011.0,John,6
+ NY ,,1952.0,Alex,24
+NY,,1948.0,Mary,103
+NY,,1934.0,Michael,162
+NY,,1950.0,Jordan,87
+NY,,1968.0,Robert,
+NY,,1979.0,Mary,104
+NY,,2013.0,Mary,61
+NY,,2000.0,Alex,
+NY,,1989.0,Jennifer,6
+NY,,1939.0,Casey,160
+NY,,1991.0,Taylor,199
+,,1994.0,John,58
+NY,,1966.0,Michael,40
+NY,,1946.0,Mary,390
+NY,,1925.0, Linda ,185
+NY,,1937.0,James,57
+NY,,1962.0, James ,215
+NY,,1972.0,Jordan,246
+NY,,1911.0,Linda,31
+NY,,1920.0,Casey,8
+NY,,1921.0,Jennifer,
+NY,,1934.0,Taylor,56
+NY,,1984.0,Alex,174
+NY,,1950.0,Jennifer,79
+NY,,1917.0,James,37
+ NY ,,1933.0,Taylor,41
+NY,,2019.0,Casey,33
+NY,,,,
+NY,,1994.0,Robert,110
+,,2013.0,Alex,376
+NY,,1979.0,Jordan,663
+NY,,,Linda,16
+NY,,1946.0, John ,45
+NY,,1989.0,Taylor,50
+NY,,1999.0,Jennifer,36
+NY,,1942.0,Mary,423
+ NY ,,1969.0,John,303
+NY,,1956.0, Michael ,320
+NY,,1984.0,Patricia,348
+NY,,1994.0,Taylor,20
+ NY ,,1960.0,Patricia,941
+NY,,1946.0,Taylor,38
+NY,,1930.0,Alex,188
+NY,,1990.0,John,869
+,,2000.0,Robert,299
+NY,,2022.0,Mary,11
+NY,,1939.0,Jordan,742
+ NY ,,1986.0,Taylor,108
+NY,,1950.0,Taylor,5
+NY,,1956.0,Casey,432
+NY,,1958.0,Jordan,397
+NY,,1996.0,Taylor,30
+NY,,1927.0,Taylor,77
+NY,,2009.0,Michael,22
+NY,,1975.0,Alex,555
+NY,,1988.0,Michael,
+NY,,2017.0,casey,41
+NY,,2000.0,Casey,39
+NY,,2019.0,jordan,14
+NY,,1991.0,Alex,24
+NY,,1970.0,Jordan,584
+NY,,1983.0,Casey,88
+NY,,1926.0,Jennifer,83
+,,2004.0,Jordan,232
+NY,,1925.0,Mary,90
+NY,,1957.0,,246
+NY,,,Robert,278
+NY,,1967.0,Casey,269
+NY,,,,9
+NY,,,Mary,43
+NY,,2013.0,Taylor,12
+NY,,1925.0,Casey,
+NY,,1920.0,Taylor,18
+,,1910.0,Jordan,6
+NY,,2000.0,,488
+NY,,1971.0,,428
+NY,,1984.0,Mary,525
+NY,,1986.0,Jordan,267
+NY,,1998.0,Alex,35
+NY,,2012.0,Casey,24
+NY,,1986.0,Jennifer,41
+NY,,1988.0,casey,645
+NY,,1994.0,Jordan,691
+NY,,2013.0,Patricia,212
+NY,,1966.0,Jordan,90
+ NY ,,1967.0,Robert,189
+NY,,1918.0,Jennifer,5
+NY,,1983.0,james,275
+,,1988.0, Alex ,112
+NY,,1997.0,Jordan,66
+NY,,1997.0, Patricia ,64
+NY,,1948.0,,88
+NY,,1931.0,Jordan,453
+NY,,1965.0,Taylor,266
+,,1923.0,Jennifer,51
+ NY ,,2022.0,James,5
+NY,,1962.0,Linda,172
+NY,,,Michael,151
+NY,,1930.0,Jennifer,105
+NY,,2020.0,Michael,294
+NY,,1999.0,robert,45
+NY,,2019.0,Taylor,37
+NY,,1926.0,Patricia,6
+NY,,1976.0,Taylor,531
+NY,,,Alex,259
+NY,,2004.0,Alex,40
+NY,,1992.0,James,885
+NY,,1931.0,Michael,581
+ NY ,,2005.0,Taylor,109
+NY,,1979.0,Robert,297
+NY,,2002.0,,50
+NY,,1993.0,Casey,54
+NY,,1992.0,Casey,567
+NY,,1992.0,James,885
+NY,,1990.0,Jennifer,462
+NY,,2008.0, Michael ,71
+NY,,2000.0,Jordan,597
+NY,,1992.0,Robert,265
+NY,,2011.0,Taylor,46
+NY,,1918.0,Alex,34
+NY,,1975.0,Jordan,636
+ NY ,,1957.0,Mary,587
+ NY ,,1935.0,Jordan,141
+ NY ,,2012.0,Taylor,629
+NY,,1947.0,Mary,
+NY,,1984.0,James,39
+NY,,,Taylor,326
+ NY ,,1931.0,James,283
+ NY ,,1953.0,Taylor,747
+NY,,1967.0,Linda,41
+NY,,2000.0,Jordan,116
+NY,,2021.0,Mary,408
+NY,,1922.0,Alex,92
+NY,,1951.0,Patricia,22
+NY,,2006.0,Taylor,7
+ NY ,,2005.0,Linda,38
+NY,,1926.0,Robert,63
+NY,,1971.0,John,
+NY,,1982.0,Jordan,544
+NY,,1923.0,,55
+NY,,2005.0,Jordan,623
+ NY ,,1955.0,Linda,341
+NY,,1988.0,Robert,388
+NY,,1989.0,John,742
+NY,,1965.0,Patricia,285
+NY,,1979.0,James,440
+NY,,1952.0,Taylor,25
+NY,,1930.0,Robert,28
+ NY ,,1969.0,Patricia,250
+NY,,,alex,52
+NY,,1953.0,Jordan,39
+NY,,2006.0, Casey ,685
+NY,,2021.0,Michael,26
+NY,,1981.0,Casey,331
+NY,,2012.0,Jordan,294
+ NY ,,2001.0,Casey,275
+NY,,2005.0,Taylor,797
+ NY ,,1932.0,Robert,349
+NY,,1996.0,Mary,651
+NY,,1934.0,Mary,180
+NY,,1989.0,Alex,257
+NY,,1937.0,Robert,492
+NY,,1956.0,Jordan,30
+NY,,2011.0,Jordan,55
+NY,,2015.0,Alex,118
+NY,,2011.0, Patricia ,29
+NY,,1955.0, John ,38
+NY,,1966.0,James,682
+NY,,1962.0,Michael,253
+NY,,2004.0,Jordan,75
+NY,,1974.0,,532
+NY,,2002.0,James,117
+NY,,2004.0,Linda,160
+NY,,1992.0,Patricia,683
+NY,,2014.0,Alex,117
+NY,,1993.0, James ,108
+NY,,2021.0,James,181
+NY,,1945.0,Patricia,157
+NY,,,Linda,400
+NY,,1976.0,Alex,841
+NY,,1995.0,Jennifer,904
+NY,,,Mary,167
+NY,,2006.0,John,196
+NY,,1999.0,Mary,126
+NY,,1977.0,Patricia,680
+NY,,1985.0,Jordan,101
+NY,,1911.0,Robert,60
+NY,,2010.0,Linda,103
+,,2020.0,Jordan,68
+,,2011.0,Mary,66
+NY,,1929.0,Mary,8
+NY,,1941.0,,279
+NY,,1967.0,Alex,440
+NY,,2020.0,alex,78
+ NY ,,1939.0,Taylor,35
+NY,,2004.0,Patricia,80
+NY,,1970.0,,362
+NY,,2021.0,Alex,20
+NY,,2019.0,Mary,9
+NY,,2017.0,Patricia,649
+NY,,1975.0,,696
+ NY ,,,Jordan,16
+NY,,1945.0,Linda,298
+NY,,1947.0,Taylor,
+NY,,1951.0,Taylor,705
+NY,,1961.0,Robert,258
+NY,,1984.0,Jennifer,539
+NY,,2012.0,Linda,21
+NY,,1973.0,Alex,899
+NY,,1951.0,Michael,389
+NY,,1980.0,Patricia,552
+NY,,,Taylor,219
+NY,,2004.0,Jennifer,15
+ NY ,,1923.0,,11
+NY,,2005.0,Jordan,52
+NY,,1966.0,Jordan,592
+ NY ,,,Taylor,802
+NY,,1973.0,Patricia,909
+NY,,1955.0,Alex,52
+NY,,1989.0,Robert,656
+NY,,1921.0,Michael,10
+NY,,1974.0,Alex,119
+NY,,1992.0,Alex,85
+NY,,2011.0,Alex,17
+NY,,1983.0,Casey,706
+NY,,1940.0,Casey,36
+NY,,1987.0,Michael,597
+NY,,2022.0,Robert,
+NY,,,Linda,143
+NY,,1964.0,Patricia,542
+NY,,1936.0,Alex,146
+ NY ,,1943.0,Casey,1047
+NY,,1943.0,James,13
+NY,,1970.0,Alex,41
+NY,,1941.0,Alex,310
+NY,,1958.0,John,131
+NY,,1912.0,Robert,31
+NY,,1923.0,Casey,46
+NY,,2011.0,Jennifer,118
+NY,,,Taylor,101
+NY,,1925.0,Jennifer,265
+NY,,1918.0,Casey,128
+NY,,2006.0,Alex,90
+NY,,2013.0,Alex,6
+ NY ,,1991.0,Mary,769
+ NY ,,1984.0,John,120
+NY,,1918.0,Michael,219
+NY,,1980.0,Robert,175
+ NY ,,2011.0,Linda,1663
+NY,,1974.0,,601
+NY,,1973.0,Mary,93
+ NY ,,,,33
+NY,,1979.0,Linda,323
+NY,,1977.0,Robert,309
+NY,,,Robert,455
+NY,,1949.0,Casey,
+NY,,,Alex,213
+NY,,1937.0,Patricia,21
+NY,,1915.0,Patricia,33
+ NY ,,, Robert ,1283
+ NY ,,2018.0,Taylor,83
+NY,,1940.0,John,393
+NY,,1940.0,Patricia,34
+NY,,1973.0,Linda,119
+NY,,2000.0,Linda,57
+NY,,2017.0,James,97
+NY,,1949.0,jordan,230
+NY,,2000.0, Patricia ,783
+NY,,1948.0,,137
+NY,,1977.0,Jordan,97
+NY,,1964.0,Jordan,189
+NY,,1933.0, Taylor ,13
+NY,,1937.0,Linda,159
+NY,,1943.0,Mary,14
+NY,,1977.0,Taylor,51
+NY,,,Taylor,6
+NY,,1959.0,Casey,756
+ NY ,,1977.0,Casey,451
+NY,,1919.0, Casey ,14
+NY,,1923.0,Patricia,43
+NY,,1934.0, Casey ,262
+NY,,2016.0,Linda,216
+NY,,1929.0,Jordan,83
+NY,,2009.0,Taylor,12
+NY,,1917.0,,5
+NY,,,Michael,78
+,,2017.0,Taylor,243
+NY,,2016.0,Mary,516
+NY,,,Alex,30
+,,2002.0,Mary,586
+NY,,1948.0,Michael,382
+NY,,2002.0,Taylor,744
+ NY ,,2007.0,,86
+NY,,2018.0,Casey,555
+NY,,1998.0,patricia,6
+ NY ,,1938.0,John,18
+NY,,1970.0,Casey,35
+NY,,,Taylor,165
+NY,,1972.0,Taylor,1194
+NY,,1950.0,Alex,262
+NY,,1922.0,James,28
+NY,,1965.0,Alex,6
+NY,,1955.0,Michael,948
+NY,,1976.0,Alex,834
+NY,,,Mary,20
+NY,,1919.0,Casey,33
+NY,,1955.0,Mary,394
+NY,,1952.0,Mary,9
+NY,,1973.0,Taylor,430
+NY,,1914.0,Alex,131
+NY,,2015.0,Robert,9
+NY,,2002.0,Linda,483
+NY,,1962.0,Jordan,115
+NY,,2001.0,Patricia,994
+NY,,1931.0,John,96
+NY,,1938.0,John,429
+NY,,1996.0,Linda,811
+NY,,1998.0,Jordan,63
+NY,,1980.0,Jennifer,196
+NY,,1942.0,Alex,38
+NY,,1971.0,Taylor,5
+NY,,,Alex,111
+NY,,2011.0,Michael,39
+NY,,1970.0,Taylor,318
+NY,,1916.0,Casey,139
+NY,,1983.0,robert,564
+NY,,2011.0,Jordan,80
+NY,,2020.0,Patricia,189
+NY,,1957.0,James,343
+NY,,,Linda,816
+NY,,,Patricia,435
+NY,,1988.0,Jordan,282
+NY,,1999.0,james,266
+NY,,1949.0,John,7
+NY,,1963.0,linda,172
+NY,,2011.0,Casey,338
+NY,,1930.0,Alex,
+NY,,1979.0,Casey,65
+NY,,1945.0,,41
+NY,,1938.0,,92
+NY,,1935.0,Robert,313
+NY,,1982.0,Casey,303
+NY,,1953.0,,
+NY,,2013.0,John,376
+NY,,1969.0,jordan,
+NY,,1959.0,Mary,246
+NY,,1937.0,Michael,226
+NY,,1986.0,Jordan,20
+NY,,1947.0,Alex,185
+NY,,1946.0,Alex,178
+NY,,1996.0,James,44
+NY,,1982.0,Alex,49
+,,1978.0,Patricia,246
+NY,,2017.0,Casey,21
+NY,,1945.0,,
+NY,,1947.0,Jennifer,28
+NY,,1946.0,Casey,76
+NY,,2013.0,James,34
+NY,,1975.0,Michael,345
+NY,,1970.0,jennifer,205
+NY,,1996.0,Jordan,41
+NY,,1977.0,,88
+NY,,,Alex,133
+NY,,,Jennifer,123
+NY,,2000.0,John,545
+NY,,1945.0,Taylor,240
+NY,,1936.0,Jordan,9
+NY,,1980.0,,126
+NY,,1952.0,,126
+NY,,2016.0,Jordan,45
+,,1959.0,Alex,971
+NY,,1993.0,Patricia,87
+NY,,1910.0,Patricia,14
+ NY ,,2017.0,,24
+ NY ,,1992.0,Michael,24
+ NY ,,1969.0,Linda,1120
+ NY ,,2002.0,Patricia,112
+NY,,1976.0,Jennifer,167
+NY,,2009.0,Casey,212
+NY,,1933.0,Jordan,93
+NY,,2012.0, Alex ,53
+ NY ,,2019.0,Taylor,331
+ NY ,,1944.0,James,473
+NY,,1986.0,Taylor,440
+NY,,1934.0,John,25
+NY,,,Jordan,
+NY,,2020.0,Robert,20
+NY,,1978.0,James,192
+NY,,2003.0,Casey,760
+ NY ,,1961.0,Taylor,483
+NY,,,Linda,439
+NY,,1944.0,Casey,69
+NY,,1997.0,John,181
+NY,,1951.0,Alex,
+NY,,1926.0,Alex,192
+NY,,,Michael,33
+NY,,1928.0,Casey,5
+NY,,1995.0,Mary,293
+NY,,1949.0,Jennifer,33
+NY,,1936.0,taylor,71
+NY,,1917.0,Alex,15
+NY,,2008.0,Casey,96
+NY,,1955.0,Jordan,456
+ NY ,,2009.0,James,50
+NY,,1975.0,Jordan,298
+NY,,1971.0,Patricia,326
+NY,,1937.0, Jordan ,100
+NY,,1980.0,James,441
+ NY ,,1982.0,Patricia,153
+NY,,1950.0,Patricia,254
+ NY ,,1999.0,Alex,81
+NY,,1991.0,Casey,477
+,,1928.0,Alex,15
+NY,,1999.0,Alex,715
+NY,,1932.0,Casey,
+NY,,1950.0,James,23
+NY,,1950.0,Casey,51
+NY,,1925.0,James,28
+NY,,1966.0,linda,705
+NY,,1952.0, Jennifer ,701
+ NY ,,1964.0,Taylor,82
+NY,,1945.0,Casey,493
+NY,,1997.0,Mary,53
+NY,,1992.0,Linda,42
+NY,,1962.0,Taylor,687
+NY,,1931.0,Jordan,278
+NY,,2005.0,patricia,206
+ NY ,,1942.0,Robert,612
+NY,,1961.0,Jordan,151
+NY,,1939.0,Jordan,10
+NY,,1951.0,casey,
+NY,,2012.0,Taylor,268
+,,1976.0,Casey,1018
+NY,,1987.0,Jennifer,220
+,,1956.0,Jordan,22
+ NY ,,1985.0,James,765
+NY,,1968.0, Jordan ,149
+NY,,2014.0,Alex,929
+NY,,2001.0,Jordan,47
+ NY ,,2019.0, Jennifer ,549
+NY,,2021.0,John,109
+ NY ,,2014.0,Michael,97
+NY,,1953.0,Robert,56
+NY,,,Linda,306
+ NY ,,1993.0,Taylor,17
+NY,,1944.0,Taylor,40
+NY,,2002.0,Casey,66
+NY,,1993.0, Jennifer ,12
+NY,,2012.0,John,189
+NY,,1973.0,,86
+NY,,1991.0,Linda,217
+NY,,2005.0,Jennifer,77
+ NY ,,1976.0,Mary,598
+NY,,2009.0,Taylor,260
+ NY ,,1951.0,Michael,250
+NY,,2019.0,Patricia,5
+NY,,1957.0, Jordan ,104
+ NY ,,1915.0,Jordan,247
+ NY ,,1978.0,Michael,166
+NY,,1946.0,James,28
+ NY ,,1937.0, Casey ,169
+NY,,1986.0,Michael,186
+ NY ,,2009.0,Mary,93
+NY,,1954.0,Casey,156
+,,1947.0,Taylor,14
+NY,,1913.0,Taylor,23
+NY,,1980.0,Alex,351
+NY,,1948.0,,630
+NY,,1962.0,Patricia,248
+NY,,1976.0,Patricia,27
+NY,,1980.0, Taylor ,278
+NY,,1963.0,,132
+NY,,1965.0,Mary,174
+ NY ,,1914.0,Patricia,11
+NY,,1978.0,Linda,281
+NY,,1929.0,Michael,27
+NY,,1949.0,Casey,
+NY,,1968.0,Michael,295
+NY,,1961.0,Alex,551
+NY,,1948.0,Alex,38
+NY,,1963.0,Alex,21
+NY,,1967.0,Jordan,163
+NY,,1945.0,James,382
+NY,,2009.0,,50
+NY,,1983.0,Linda,637
+NY,,1990.0,Mary,88
+NY,,1976.0,Michael,236
+NY,,2009.0,Jennifer,34
+,,2006.0,Jennifer,127
+NY,,1952.0,Robert,232
+NY,,1956.0,Patricia,12
+NY,,1944.0,,129
+NY,,1952.0,Linda,44
+NY,,1994.0,Jennifer,624
+ NY ,,1996.0,Jordan,9
+NY,,1949.0,james,102
+NY,,1918.0,Alex,8
+ NY ,,2016.0, Jennifer ,
+NY,,1941.0,John,44
+NY,,1994.0,Linda,315
+NY,,1957.0,James,343
+NY,,1932.0,Patricia,87
+NY,,1965.0,James,1050
+NY,,1980.0, Taylor ,278
+NY,,1963.0,Michael,215
+NY,,1955.0,Jordan,91
+NY,,1981.0,Taylor,992
+NY,,2002.0,Alex,381
+NY,,1942.0,James,26
+NY,,2009.0,Jordan,16
+NY,,1976.0, Jordan ,447
+NY,,2009.0,Mary,60
+ NY ,,2018.0,Jordan,83
+NY,,1965.0,Michael,599
+NY,,1924.0,Patricia,213
+NY,,1964.0,James,296
+,,2009.0,Alex,79
+NY,,1931.0,Taylor,75
+NY,,1952.0,jordan,1001
+NY,,1989.0,Alex,148
+NY,,1932.0, Linda ,70
+NY,,1984.0,Jordan,599
+NY,,1942.0,Michael,12
+NY,,1994.0,Mary,51
+NY,,2018.0,,276
+NY,,1990.0,Taylor,27
+NY,,1977.0,Mary,359
+NY,,1976.0,taylor,83
+NY,,1928.0, John ,118
+NY,,1928.0,Jennifer,29
+NY,,1969.0,Casey,555
+NY,,1935.0,Patricia,50
+NY,,1975.0, Taylor ,143
+ NY ,,1968.0,Jennifer,129
+NY,,1937.0,Jordan,87
+NY,,1961.0,Linda,
+,,1989.0,Jordan,801
+NY,,1945.0,Mary,244
+NY,,1964.0,Casey,431
+NY,,1999.0, John ,1041
+NY,,1949.0,Alex,
+NY,,1937.0,alex,127
+NY,,1995.0,James,61
+ NY ,,1949.0,Mary,477
+NY,,1992.0,Taylor,
+NY,,1943.0,Casey,525
+NY,,1943.0,taylor,146
+ NY ,,1997.0,Taylor,6
+NY,,1927.0,Casey,30
+NY,,2004.0,John,36
+NY,,2002.0,Jennifer,32
+NY,,1951.0,Casey,545
+NY,,,Casey,10
+NY,,1955.0,Patricia,253
+NY,,1951.0,Jordan,980
+NY,,1948.0,Alex,247
+NY,,2014.0,Taylor,18
+NY,,2007.0,Mary,679
+NY,,,Casey,48
+NY,,1948.0,John,77
+NY,,1954.0,patricia,23
+NY,,2002.0,Casey,229
+NY,,1960.0, Jennifer ,218
+ NY ,,1951.0,Michael,250
+NY,,1958.0,John,56
+NY,,1977.0, Taylor ,120
+NY,,1986.0,Robert,17
+NY,,2004.0,Michael,186
+NY,,2001.0,Taylor,529
+NY,,1954.0,Jennifer,149
+NY,,1956.0,Robert,323
+NY,,1986.0, Casey ,644
+NY,,1967.0, Casey ,698
+ NY ,,1918.0,Robert,7
+,,1995.0,Jordan,397
+NY,,1956.0,John,72
+NY,,, Linda ,114
+ NY ,,2014.0,Jordan,30
+NY,,2022.0,Casey,11
+NY,,1988.0,Patricia,973
+NY,,1923.0,Mary,24
+NY,,1932.0,Michael,43
+NY,,1966.0,Robert,201
+NY,,1951.0,John,87
+NY,,1949.0,Michael,
+NY,,2006.0,Mary,774
+NY,,2001.0,John,378
+NY,,1955.0,Jennifer,1150
+NY,,1930.0, Linda ,12
+ NY ,,1990.0,Taylor,168
+NY,,1923.0,Jordan,115
+NY,,2008.0,,414
+NY,,1983.0,Michael,1081
+NY,,1970.0,James,98
+ NY ,,1929.0,Robert,30
+NY,,1963.0,James,298
+NY,,1987.0,Jordan,174
+NY,,1951.0,Mary,254
+NY,,1958.0,Robert,367
+NY,,2008.0,Casey,10
+NY,,1968.0,John,817
+NY,,2002.0,Alex,678
+,,2012.0,John,90
+NY,,1960.0,jordan,1147
+NY,,1973.0, John ,816
+NY,,2001.0,Taylor,539
+,,1960.0,James,784
+NY,,1960.0,Robert,47
+NY,,1995.0,Alex,19
+NY,,2000.0,Alex,167
+NY,,2016.0,Michael,77
+NY,,1939.0,Taylor,395
+NY,,1911.0,Jennifer,33
+NY,,2019.0,James,152
+NY,,1996.0,Casey,73
+NY,,,Mary,100
+NY,,2006.0,James,235
+NY,,1965.0,robert,62
+NY,,1924.0,John,69
+NY,,1997.0,Jennifer,778
+NY,,1947.0,Casey,65
+NY,,1936.0,Jennifer,33
+ NY ,,,John,381
+NY,,1990.0,Robert,971
+NY,,1920.0,Jennifer,252
+NY,,1968.0,Mary,50
+ NY ,,1921.0,,95
+NY,,1937.0,Casey,
+NY,,1953.0,Patricia,17
+NY,,1999.0,Jordan,407
+NY,,2005.0,patricia,206
+NY,,1997.0,Linda,324
+NY,,1976.0,Casey,442
+NY,,,Jordan,77
+NY,,1985.0,,618
+,,1943.0, Jennifer ,415
+ NY ,,,Jennifer,1145
+NY,,1957.0,Casey,15
+NY,,,Alex,25
+NY,,1969.0,Mary,416
+NY,,1976.0,John,125
+NY,,1978.0,,860
+ NY ,,2007.0,James,12
+NY,,1994.0,James,63
+NY,,2001.0,James,13
+,,1999.0,Michael,10
+NY,,, Linda ,
+NY,,,John,903
+NY,,2017.0,John,14
+NY,,1998.0,,672
+NY,,1965.0,Jennifer,68
+ NY ,,2010.0,Casey,62
+NY,,1969.0,Taylor,833
+NY,,1950.0,Linda,86
+NY,,1953.0,Taylor,23
+,,1935.0,jordan,9
+NY,,1950.0,Alex,167
+,,1989.0,Casey,180
+NY,,1966.0,Casey,261
+NY,,1989.0,Casey,436
+NY,,1959.0,,504
+NY,,2018.0,Alex,72
+NY,,2007.0, Jennifer ,26
+NY,,2008.0,Mary,160
+NY,,1962.0,jordan,249
+NY,,1970.0,Casey,384
+NY,,2004.0,James,734
+NY,,1938.0,Mary,258
+NY,,1991.0,Alex,308
+,,1995.0,Patricia,761
+NY,,2018.0, Jennifer ,241
+NY,,1981.0,Robert,513
+NY,,1993.0,John,16
+NY,,1961.0,Alex,111
+NY,,,john,26
+NY,,1957.0,John,325
+NY,,1961.0,Jennifer,19
+NY,,1990.0,James,90
+NY,,1972.0,Casey,318
+NY,,1951.0,Alex,881
+NY,,2006.0,Alex,91
+NY,,1988.0,Michael,111
+NY,,1984.0,Alex,137
+NY,,2007.0,john,300
+NY,,1930.0,Taylor,273
+NY,,1914.0,Linda,107
+NY,,2008.0,Alex,7
+NY,,2015.0,Alex,6
+NY,,1920.0,Alex,30
+NY,,2022.0,Linda,116
+NY,,1916.0,John,7
+NY,,1992.0,Casey,436
+NY,,1978.0,Jordan,773
+NY,,1913.0,casey,21
+NY,,1985.0,Taylor,534
+NY,,1994.0,Casey,286
+NY,,1973.0,Alex,327
+NY,,1977.0,Jennifer,220
+NY,,1971.0,Jordan,90
+NY,,2001.0,Michael,21
+NY,,1918.0,Taylor,161
+NY,,1947.0, Jordan ,238
+NY,,1992.0,Michael,19
+NY,,,Jennifer,122
+ NY ,,1965.0,,228
+NY,,2015.0,Casey,41
+NY,,1972.0, Jennifer ,141
+NY,,1977.0,Alex,156
+NY,,1960.0,Jordan,
+NY,,1959.0,Patricia,619
+NY,,1961.0,Jennifer,34
+NY,,1983.0,Jordan,605
+NY,,1963.0,Jordan,
+NY,,1952.0,Taylor,220
+NY,,1971.0,Casey,52
+NY,,1931.0,,
+NY,,2000.0,Taylor,102
+NY,,1998.0,James,70
+NY,,1948.0,Alex,38
+NY,,1917.0,patricia,27
+NY,,2021.0,Michael,26
+NY,,1949.0,Michael,
+ NY ,,1997.0,Alex,
+NY,,1961.0,Taylor,588
+NY,,1943.0,Linda,39
+NY,,1995.0, Taylor ,430
+NY,,2003.0,alex,176
+NY,,1991.0,Michael,188
+NY,,,Jordan,369
+NY,,1968.0,Taylor,228
+NY,,1942.0,Taylor,464
+NY,,1947.0, Mary ,35
+NY,,2006.0, Jennifer ,88
+NY,,1946.0,Patricia,194
+NY,,1957.0,,54
+NY,,1971.0,Mary,11
+NY,,2022.0,Alex,403
+NY,,1993.0,Michael,137
+NY,,1972.0,,51
+NY,,1979.0, Casey ,53
+NY,,2006.0,Patricia,
+ NY ,,2018.0,Jordan,89
+ NY ,,1946.0,Alex,374
+NY,,1974.0,Taylor,175
+ NY ,,1933.0,jennifer,29
+NY,,1920.0,Linda,123
+NY,,1957.0,jennifer,71
+NY,,1948.0,Linda,189
+NY,,,Robert,39
+NY,,,Patricia,174
+ NY ,,2008.0,Robert,63
+NY,,2012.0,Alex,243
+NY,,2015.0,Jordan,6
+NY,,1943.0,Alex,6
+NY,,1925.0,Taylor,35
+ NY ,,2017.0,Robert,26
+NY,,1910.0,Robert,8
+NY,,1983.0,Jordan,57
+NY,,1969.0,Michael,305
+NY,,1995.0,Casey,10
+NY,,1942.0,Jordan,52
+NY,,2005.0,Alex,397
+NY,,2012.0,Patricia,23
+NY,,1964.0,,
+NY,,1925.0,,86
+NY,,1919.0,Michael,58
+NY,,1980.0,Casey,731
+NY,,1953.0,Robert,56
+ NY ,,2014.0,Casey,21
+NY,,1966.0,James,48
+NY,,1999.0,Casey,288
+NY,,1982.0,John,425
+NY,,1932.0,james,289
+NY,,1985.0,Casey,421
+NY,,1956.0,Alex,133
+NY,,1986.0,Michael,186
+NY,,1982.0,casey,438
+NY,,2015.0,Michael,
+NY,,2022.0,Alex,193
+NY,,2003.0,Robert,24
+NY,,1980.0,Mary,543
+NY,,2005.0,John,48
+NY,,1962.0,Alex,75
+ NY ,,2000.0,Michael,532
+,,1938.0,Casey,32
+NY,,,Linda,437
+,,1962.0,Jennifer,
+ NY ,,1967.0,Alex,750
+NY,,1930.0,Patricia,42
+NY,,1957.0,John,219
+NY,,1984.0, Casey ,222
+NY,,1941.0,,178
+NY,,1942.0,Robert,5
+NY,,1924.0,James,63
+NY,,2001.0,,366
+NY,,2014.0,Taylor,38
+NY,,1925.0,Casey,6
+,,1955.0,,1457
+NY,,1935.0,Mary,
+NY,,1990.0,Casey,598
+NY,,1927.0,Casey,30
+NY,,1984.0,Taylor,368
+NY,,1959.0,Robert,66
+ NY ,,1996.0,Michael,226
+NY,,1991.0, Jordan ,183
+NY,,1977.0,Linda,134
+NY,,2003.0,Michael,392
+NY,,2001.0,Alex,20
+NY,,1954.0,,118
+NY,,1945.0,Jennifer,57
+NY,,1961.0,James,43
+NY,,1966.0,,250
+NY,,1956.0,Taylor,48
+ NY ,,1942.0,James,17
+NY,,1971.0,Robert,147
+NY,,1979.0,Taylor,198
+NY,,1980.0,michael,30
+NY,,1911.0,Casey,71
+ NY ,,1923.0,Michael,186
+ NY ,,1969.0,Taylor,868
+NY,,1926.0, James ,313
+NY,,,Casey,853
+ NY ,,1975.0,Alex,125
+ NY ,,2020.0,taylor,97
+NY,,1955.0,Casey,681
+NY,,2007.0,Linda,257
+NY,,,Taylor,467
+NY,,1964.0,Robert,
+NY,,2010.0,John,1035
+NY,,1968.0,,785
+ NY ,,,John,90
+NY,,1944.0,Alex,5
+NY,,, John ,5
+NY,,2019.0,John,61
+ NY ,,,Mary,279
+ NY ,,2015.0,Patricia,5
+NY,,1932.0,,16
+NY,,,Casey,528
+,,1939.0,Patricia,415
+NY,,1918.0,Taylor,47
+NY,,1927.0,Robert,19
+NY,,1953.0,Michael,50
+NY,,1944.0,Taylor,40
+NY,,2009.0,Robert,438
+NY,,1976.0,Linda,10
+NY,,,,103
+NY,,1990.0,Patricia,49
+NY,,2022.0,Michael,106
+NY,,1916.0,Linda,22
+NY,,1976.0,James,273
+NY,,1954.0,Taylor,18
+NY,,1992.0,Casey,567
+NY,,1973.0,Taylor,
+NY,,,Alex,364
+NY,,1937.0, Taylor ,5
+NY,,1976.0,Robert,663
+NY,,1940.0,Jordan,166
+NY,,1997.0, Casey ,739
+NY,,,Mary,135
+ NY ,,1972.0,Alex,84
+NY,,1954.0,Casey,611
+ NY ,,1943.0,Jennifer,61
+NY,,1964.0,Alex,616
+NY,,1963.0,Robert,235
+NY,,1930.0,casey,445
+NY,,1992.0,Taylor,69
+NY,,1998.0,Alex,52
+NY,,1953.0,Casey,91
+NY,,,Alex,133
+ NY ,,1986.0,Patricia,117
+NY,,1970.0,taylor,27
+NY,,1975.0,Mary,105
+NY,,1947.0,Casey,6
+NY,,1936.0,Robert,67
+NY,,1994.0,Jordan,
+NY,,1988.0,Jennifer,550
+NY,,1962.0,Robert,197
+NY,,1921.0,Robert,10
+NY,,1913.0,John,26
+ NY ,,2007.0,Alex,99
+,,1974.0,Taylor,230
+NY,,1969.0,Casey,354
+NY,,1941.0,Taylor,598
+NY,,1943.0,alex,40
+NY,,1952.0,John,561
+NY,,1965.0,Alex,83
+,,1938.0,Jennifer,53
+NY,,1912.0,Alex,55
+ NY ,,1998.0,Mary,155
+,,1999.0,Mary,55
+NY,,1949.0,Jordan,
+,,1981.0,Jennifer,74
+NY,,1928.0,Linda,27
+NY,,1916.0,James,23
+NY,,1948.0,Robert,80
+NY,,2008.0, Taylor ,37
+NY,,1928.0,Taylor,50
+NY,,1989.0,Taylor,844
+NY,,1928.0,Alex,236
+NY,,1959.0, Jordan ,1081
+NY,,2014.0,Patricia,715
+NY,,1946.0,,513
+,,1963.0,John,54
+NY,,1979.0,jordan,221
+NY,,2007.0,John,35
+NY,,1991.0,James,624
+NY,,1952.0,,44
+NY,,2000.0,,364
+NY,,2003.0,Jordan,944
+NY,,1953.0,Jordan,806
+NY,,2013.0,Robert,42
+NY,,1996.0,,269
+,,1963.0,Mary,55
+NY,,1922.0,Mary,37
+NY,,1979.0,Linda,284
+NY,,1970.0, Alex ,211
+NY,,1964.0,Taylor,460
+NY,,1998.0,Jordan,442
+NY,,1994.0,Taylor,315
+NY,,1946.0,Taylor,70
+NY,,1935.0,Alex,22
+NY,,2003.0,Jordan,131
+NY,,2002.0,Jordan,1352
+NY,,1986.0,Michael,215
+NY,,1914.0,Michael,7
+NY,,2013.0,jordan,8
+NY,,1939.0,Michael,475
+,,1962.0,Alex,208
+NY,,1995.0,Taylor,248
+NY,,2016.0,Taylor,401
+NY,,1960.0,Mary,
+NY,,1978.0,Alex,713
+NY,,1955.0,Taylor,
+NY,,1983.0,Alex,
+NY,,2020.0,Casey,70
+ NY ,,1930.0,Jordan,
+NY,,1954.0,Alex,116
+,,1941.0,John,185
+NY,,2018.0,Taylor,147
+NY,,1963.0,Jordan,42
+NY,,2014.0, James ,81
+NY,,1963.0,Casey,850
+NY,,1950.0,Jennifer,111
+NY,,2007.0,Patricia,386
+NY,,1920.0,Jennifer,
+NY,,2006.0,Jordan,128
+NY,,1979.0,,177
+ NY ,,1997.0,James,55
+NY,,1976.0,Jennifer,820
+NY,,1987.0,Alex,143
+NY,,1940.0,Jennifer,48
+NY,,1935.0,Alex,6
+NY,,,Patricia,212
+NY,,2015.0,Taylor,455
+ NY ,,1933.0,Michael,6
+NY,,2006.0,Alex,91
+ NY ,,1957.0,Patricia,46
+NY,,1975.0,Casey,277
+,,1949.0, Alex ,12
+NY,,1978.0,Linda,494
+NY,,1985.0,Robert,832
+NY,,1941.0,Casey,99
+ NY ,,1927.0,Jordan,18
+NY,,1974.0,James,157
+NY,,1993.0, James ,108
+,,,Jordan,73
+NY,,1934.0,Taylor,8
+NY,,2021.0,alex,217
+NY,,1943.0,john,22
+NY,,1927.0,Linda,17
+NY,,1929.0,Jennifer,163
+NY,,1964.0,Linda,37
+NY,,1983.0,John,61
+NY,,1987.0,John,77
+NY,,1972.0,alex,895
+NY,,1996.0,Alex,54
+NY,,1970.0,,362
+NY,,2009.0,patricia,564
+NY,,1942.0,Jennifer,70
+NY,,1982.0,Linda,46
+NY,,2003.0,John,384
+NY,,1926.0,Casey,7
+NY,,2014.0,Alex,929
+,,2008.0,Linda,38
+ NY ,,1930.0,Linda,121
+ NY ,,1938.0,alex,73
+,,1918.0,James,6
+NY,,1956.0,Casey,139
+NY,,,Taylor,204
+NY,,1968.0,James,8
+NY,,2002.0,Jordan,1352
+NY,,1983.0, Jennifer ,516
+NY,,2005.0,Mary,700
+NY,,2000.0,Casey,44
+NY,,1974.0,Casey,930
+NY,,1927.0,Jordan,
+NY,,1971.0,James,11
+NY,,1959.0,Casey,533
+ NY ,,1962.0,Taylor,184
+NY,,1993.0,Jordan,40
+NY,,1998.0,Taylor,338
+NY,,1985.0,Patricia,
+,,1973.0, Casey ,256
+NY,,1932.0,Robert,32
+NY,,1958.0,Jordan,34
+NY,,1987.0,Taylor,378
+NY,,1918.0,john,59
+NY,,1985.0,Alex,81
+NY,,2021.0,Jennifer,141
+NY,,1990.0,jennifer,130
+NY,,2003.0,Taylor,129
+NY,,1997.0,Linda,324
+NY,,2003.0,robert,114
+NY,,1971.0,Linda,157
+,,1921.0,Patricia,325
+NY,,1919.0,Jennifer,5
+NY,,1971.0,Michael,994
+NY,,1942.0,Casey,18
+ NY ,,1950.0,Taylor,538
+NY,,1928.0,Michael,115
+NY,,1970.0,linda,160
+NY,,1975.0,James,208
+NY,,2021.0,Robert,160
+NY,,1972.0,Patricia,179
+NY,,2008.0, Jennifer ,616
+NY,,2004.0,Casey,87
+NY,,1985.0,Michael,668
+NY,,1989.0,Patricia,743
+NY,,1934.0,James,72
+NY,,1964.0,John,948
+NY,,1972.0,Michael,313
+NY,,1958.0,Alex,419
+NY,,1917.0,Alex,9
+NY,,1952.0,jordan,1001
+NY,,2007.0,Casey,772
+NY,,1981.0,Alex,181
+NY,,1949.0,Patricia,66
+NY,,1965.0,Jordan,34
+NY,,1917.0,Taylor,9
+NY,,2013.0,Casey,165
+NY,,1938.0,Michael,53
+NY,,1927.0,Casey,66
+NY,,1926.0,Linda,220
+NY,,1973.0,Jennifer,542
+NY,,1936.0,taylor,71
+NY,,1965.0,Linda,161
+NY,,1978.0,Casey,73
+NY,,1967.0,Linda,41
+NY,,2007.0,Alex,660
+NY,,,Jennifer,123
+NY,,2006.0,Robert,
+ NY ,,, John ,19
+NY,,,Linda,12
+NY,,1912.0,Taylor,41
+NY,,1994.0,Michael,695
+NY,,1928.0,Patricia,26
+NY,,1997.0,Robert,145
+NY,,1952.0,Jordan,128
+NY,,,James,261
+NY,,1996.0,Jennifer,1012
+NY,,2008.0,James,334
+NY,,,Alex,48
+NY,,1986.0,Linda,327
+ NY ,,1982.0,Robert,57
+ NY ,,1999.0, Jordan ,28
+NY,,1974.0,Michael,162
+NY,,1995.0,Jordan,84
+ NY ,,1954.0,Linda,22
+,,2001.0,Jordan,318
+ NY ,,1961.0,Mary,124
+NY,,,Mary,118
+NY,,,Michael,414
+NY,,1924.0,Taylor,76
+NY,,1990.0,Jordan,1164
+NY,,1978.0,Casey,88
+,,1979.0,John,844
+NY,,2006.0,Linda,140
+NY,,1919.0,Alex,36
+NY,,,Alex,507
+NY,,2015.0,Jennifer,223
+NY,,1971.0,Jennifer,541
+NY,,1944.0,James,25
+NY,,1944.0,Robert,690
+NY,,2007.0,jordan,203
+NY,,1997.0,Casey,350
+NY,,2000.0,Mary,631
+NY,,1964.0,John,340
+NY,,1922.0,mary,168
+,,1960.0, Taylor ,173
+NY,,2005.0,Casey,159
+NY,,1993.0,Jordan,330
+NY,,,Mary,132
+ NY ,,1959.0,Taylor,74
+NY,,1966.0,,927
+ NY ,,2014.0,Jennifer,75
+NY,,2019.0,robert,532
+NY,,1915.0,Casey,24
+,,1915.0,,9
+NY,,1942.0,Casey,12
+NY,,2021.0,Jordan,37
+NY,,1985.0,Linda,381
+NY,,1935.0, James ,22
+ NY ,,1945.0,John,80
+NY,,2017.0,Mary,262
+NY,,1995.0,Alex,16
+NY,,1917.0,Jennifer,11
+,,2012.0,Jordan,69
+ NY ,,1957.0,Alex,54
+NY,,1975.0,James,358
+NY,,1991.0,Casey,861
+NY,,,james,699
+NY,,1943.0,Michael,98
+NY,,1939.0,Alex,
+NY,,1985.0,Jordan,
+NY,,1981.0,Taylor,835
+NY,,2002.0,Jordan,22
+NY,,1986.0,John,181
+NY,,2012.0,Casey,205
+NY,,1988.0,Casey,82
+NY,,1963.0,Jordan,
+NY,,1974.0,Jordan,959
+NY,,1955.0,James,25
+NY,,1933.0,Casey,239
+NY,,1929.0,Linda,486
+NY,,1953.0,,47
+NY,,1948.0,Casey,25
+ NY ,,2013.0,Michael,325
+NY,,1996.0,taylor,518
+NY,,1972.0,,125
+NY,,2010.0,Alex,39
+NY,,2022.0,Taylor,324
+NY,,1913.0, Patricia ,54
+NY,,1987.0,Jordan,394
+,,2006.0,Casey,111
+NY,,1950.0,Robert,20
+NY,,1935.0,Jennifer,190
+NY,,1938.0,Jordan,19
+NY,,2016.0,,9
+NY,,1951.0,Jennifer,260
+NY,,1911.0, Alex ,183
+NY,,1956.0,Linda,162
+NY,,2013.0, Jordan ,643
+NY,,1982.0,Jennifer,285
+ NY ,,2007.0,Jordan,233
+ NY ,,1958.0,Mary,32
+NY,,2003.0,Jennifer,267
+NY,,1967.0,,689
+NY,,1988.0,Mary,
+NY,,2022.0,Jennifer,59
+NY,,1979.0,Alex,74
+NY,,1942.0,Alex,15
+NY,,2021.0,Casey,
+NY,,1912.0,Patricia,14
+NY,,,Alex,143
+NY,,1934.0,Casey,40
+NY,,1948.0,Patricia,126
+NY,,1964.0,Michael,88
+NY,,1999.0,,244
+NY,,1974.0,Michael,162
+NY,,1980.0,Casey,27
+NY,,1938.0,Patricia,32
+NY,,2012.0,James,116
+NY,,1961.0,Casey,1019
+NY,,1954.0,Robert,179
+NY,,1936.0,Casey,100
+NY,,2010.0,Robert,428
+NY,,1960.0,John,8
+,,1971.0,Casey,270
+ NY ,,1930.0,James,5
+NY,,1961.0,Casey,
+NY,,1919.0,Taylor,62
+ NY ,,1952.0,Patricia,14
+ NY ,,1972.0,John,437
+ NY ,,2006.0,Michael,374
+NY,,1981.0,Taylor,835
+NY,,1932.0,John,9
+ NY ,,1967.0,Jennifer,23
+NY,,1920.0,Jordan,21
+NY,,,jordan,211
+ NY ,,1984.0,Casey,153
+NY,,1987.0,Robert,245
+NY,,1962.0, Casey ,379
+NY,,2009.0,Linda,166
+NY,,1997.0,Alex,811
+NY,,1985.0,John,256
+NY,,2018.0,alex,60
+NY,,2010.0,Michael,860
+NY,,1940.0,Alex,41
+NY,,1944.0,Casey,534
+NY,,1937.0,Taylor,6
+ NY ,,2003.0,Alex,12
+NY,,1936.0,Jordan,53
+NY,,1998.0,Robert,233
+NY,,2021.0,Linda,161
+NY,,1988.0,Jennifer,59
+NY,,1963.0,Taylor,311
+NY,,1984.0,Michael,42
+NY,,1995.0,Robert,376
+NY,,1983.0,,163
+NY,,1982.0,Patricia,491
+NY,,2020.0,Casey,27
+NY,,2014.0,John,600
+NY,,2014.0,Robert,
+NY,,1965.0,John,
+NY,,1931.0,Casey,153
+NY,,1961.0,Casey,
+NY,,1990.0,,145
+NY,,1915.0, Linda ,11
+NY,,1998.0,Linda,45
+NY,,1978.0, Mary ,684
+NY,,1974.0,Mary,156
+NY,,1992.0,,221
+NY,,,Michael,78
+NY,,1984.0,Taylor,70
+NY,,1998.0,Casey,
+NY,,,,494
+NY,,2016.0,Taylor,35
+NY,,1979.0,Jennifer,198
+NY,,1935.0,John,72
+NY,,1984.0,Jordan,165
+NY,,1999.0,Taylor,658
+NY,,1992.0,John,406
+,,1948.0,Taylor,222
+NY,,1989.0, Linda ,140
+NY,,1921.0,James,41
+NY,,1958.0,John,56
+NY,,1936.0,Linda,127
+NY,,2016.0,Alex,173
+NY,,1985.0,Alex,130
+NY,,1960.0,Mary,327
+NY,,1988.0,Alex,249
+NY,,2015.0,Mary,86
+ NY ,,1986.0,Mary,80
+,,2016.0,Alex,263
+NY,,1938.0,Casey,107
+NY,,1963.0,Patricia,339
+NY,,1981.0,John,142
+NY,,2010.0,Jordan,19
+NY,,1935.0,Taylor,101
+NY,,2017.0,Linda,318
+NY,,1969.0,Jordan,143
+NY,,1953.0,Mary,8
+NY,,2003.0,Patricia,40
+NY,,1972.0,Jordan,98
+NY,,1945.0,,250
+NY,,1943.0,Taylor,578
+NY,,1999.0,Linda,87
+NY,,1925.0,Jordan,27
+NY,,1995.0,Casey,137
+NY,,1920.0,Alex,
+NY,,1972.0,James,194
+NY,,1971.0,alex,138
+NY,,,Mary,135
+NY,,1936.0,Taylor,11
+ NY ,,1947.0, Patricia ,38
+NY,,1973.0,Robert,332
+NY,,, Taylor ,922
+NY,,1981.0, Michael ,1453
+NY,,1990.0,Linda,246
+NY,,1962.0,John,48
+NY,,2016.0,James,10
+NY,,1998.0,John,28
+NY,,1980.0,Linda,261
+,,1947.0,Michael,19
+NY,,2003.0,Taylor,
+NY,,1979.0,Patricia,258
+NY,,2007.0,Robert,66
+ NY ,,1982.0,Alex,779
+NY,,2015.0,Jordan,8
+,,1914.0,Jordan,25
+NY,,1958.0, Michael ,15
+ NY ,,1910.0,Linda,56
+NY,,1963.0,Jennifer,700
+NY,,1968.0,Taylor,13
+NY,,1981.0,Jordan,420
+,,2010.0,Jennifer,120
+NY,,1989.0,jordan,393
+NY,,1950.0,john,135
+NY,,1940.0,Casey,11
+NY,,2015.0,Linda,28
+NY,,1978.0,Jordan,435
+NY,,1912.0,Robert,31
+NY,,2010.0,Linda,65
+NY,,1981.0,,576
+NY,,,Patricia,216
+NY,,1956.0,James,700
+NY,,1957.0,,354
+NY,,1970.0,Casey,384
+NY,,1948.0,,137
+ NY ,,1950.0,Taylor,538
+NY,,1933.0,,
+NY,,,Alex,203
+NY,,1915.0,Taylor,23
+NY,,2020.0,Taylor,42
+NY,,2018.0,Linda,30
+NY,,,Patricia,62
+NY,,1989.0,james,
+NY,,2010.0,Jennifer,256
+NY,,1973.0,michael,557
+NY,,1943.0,taylor,146
+NY,,1988.0,James,417
+NY,,1981.0,James,468
+NY,,1953.0,Jennifer,43
+NY,,1954.0,Mary,54
+NY,,1929.0,Patricia,54
+NY,,1946.0,Jordan,13
+NY,,1935.0,Casey,71
+,,2013.0,Jennifer,10
+NY,,1914.0,Mary,7
+NY,,1956.0,Jennifer,749
+NY,,1931.0,Robert,94
+NY,,,Patricia,165
+NY,,2014.0, Linda ,1034
+NY,,1982.0,Taylor,501
+NY,,1959.0,john,273
+NY,,1973.0,James,370
+NY,,1915.0,Alex,92
+NY,,1986.0,Alex,632
+NY,,1969.0,Alex,764
+NY,,2001.0,Alex,406
+ NY ,,1982.0,Mary,576
+NY,,1994.0,Alex,62
+NY,,1968.0,Alex,
+NY,,1953.0,Alex,16
+NY,,2021.0,Jordan,
+NY,,2002.0,Robert,48
+,,1988.0,John,624
+ NY ,,2008.0,Jordan,77
+NY,,2005.0,Casey,109
+NY,,1953.0,Casey,28
+NY,,1949.0,Michael,596
+NY,,1960.0,Casey,91
+NY,,1989.0,Mary,609
+NY,,2004.0,Taylor,419
+NY,,1934.0,Alex,39
+NY,,2015.0,Taylor,152
+NY,,1967.0,Taylor,259
+NY,,1922.0,Robert,17
+NY,,1998.0,Taylor,33
+NY,,1962.0,Casey,35
+NY,,1967.0,Michael,10
+NY,,1929.0,Casey,262
+NY,,1971.0, Jordan ,112
+ NY ,,1959.0,Jordan,20
+NY,,2002.0,Michael,
+NY,,1940.0,James,806
+NY,,2021.0,Taylor,740
+NY,,1967.0,John,8
+NY,,1974.0,Jordan,281
+ NY ,,,mary,10
+NY,,1981.0,Mary,89
+ NY ,,,Patricia,820
+NY,,1939.0,Linda,54
+,,2010.0,Taylor,56
+NY,,2003.0,James,28
+NY,,,John,218
+NY,,1991.0,patricia,238
+NY,,1957.0,Taylor,83
+NY,,2004.0,Alex,600
+NY,,1977.0, Michael ,308
+NY,,1918.0,Jordan,27
+NY,,1997.0,Jordan,194
+NY,,1958.0,Taylor,
+NY,,2020.0,Jordan,548
+ NY ,,1934.0,Jennifer,9
+NY,,1970.0,Jordan,165
+NY,,1974.0,casey,771
+NY,,1941.0,Jennifer,14
+ NY ,,1935.0,Michael,474
+NY,,1931.0,Patricia,6
+,,1982.0,Taylor,123
+NY,,1969.0,James,461
+NY,,2002.0,Linda,269
+NY,,1970.0,,166
+NY,,1998.0,Jennifer,699
+NY,,1933.0,Robert,140
+NY,,1992.0,Jordan,491
+NY,,1987.0,Alex,444
+NY,,,Taylor,279
+ NY ,,2004.0,mary,52
+NY,,2002.0,Taylor,154
+NY,,1976.0,Jordan,276
+NY,,1981.0,Alex,191
+NY,,1958.0,Casey,828
+NY,,1965.0,Jordan,328
+NY,,1994.0,Casey,318
+NY,,2002.0,Robert,1090
+NY,,1915.0,Jordan,114
+,,1977.0,Alex,193
+,,1953.0,John,218
+NY,,1990.0,Michael,588
+ NY ,,1961.0,John,121
+ NY ,,1993.0,Alex,208
+NY,,1916.0,Jennifer,22
+NY,,1958.0,Patricia,252
+NY,,1921.0,Alex,33
+NY,,1993.0, Robert ,360
+NY,,1923.0,James,7
+NY,,2006.0, Casey ,685
+NY,,2009.0,Alex,8
+NY,,1934.0,Linda,21
+NY,,2011.0,Jordan,55
+NY,,1982.0,Jordan,87
+NY,,1949.0,Robert,5
+NY,,1952.0,Jennifer,66
+ NY ,,1945.0,Taylor,270
+NY,,1987.0,,148
+ NY ,,2022.0,Casey,87
+NY,,1960.0,Casey,153
+NY,,1939.0,James,47
+NY,,1966.0,Patricia,760
+NY,,1970.0,Robert,
+NY,,1933.0,Jordan,5
+NY,,1943.0,Patricia,453
+,,1979.0,Alex,170
+NY,,2008.0,Taylor,27
+NY,,1983.0,Patricia,558
+NY,,2020.0,Jennifer,464
+NY,,1923.0,John,80
+NY,,1982.0,James,792
+NY,,1932.0, James ,617
+,,1954.0,John,
+NY,,1956.0,Robert,323
+NY,,1940.0,Michael,18
+NY,,1966.0,Taylor,959
+NY,,1994.0,Alex,
+NY,,1990.0, Casey ,142
+NY,,1916.0,Michael,39
+NY,,1994.0,Patricia,310
+NY,,1975.0,Taylor,573
+NY,,1922.0,taylor,116
+NY,,2016.0,Casey,26
+NY,,1924.0,Patricia,27
+NY,,1974.0,Michael,286
+NY,,1978.0,Taylor,421
+NY,,1969.0,Jennifer,635
+ NY ,,1923.0,,11
+NY,,2022.0,,22
+NY,,1925.0,Patricia,97
+NY,,1972.0,Jennifer,6
+NY,,1985.0,Casey,236
+NY,,1981.0,Patricia,404
+NY,,1947.0,James,5
+NY,,,Michael,189
+NY,,1944.0,Jordan,225
+NY,,1987.0,Mary,53
+NY,,1944.0,Linda,25
+ NY ,,1951.0,,11
+NY,,2005.0,Michael,212
+NY,,1989.0,Michael,267
+NY,,1946.0,,68
+NY,,1957.0,Taylor,76
+NY,,1988.0,taylor,11
+NY,,1977.0,john,130
+,,1936.0,Patricia,33
+NY,,2012.0,Jennifer,397
+NY,,1929.0,Taylor,124
+NY,,1942.0,Taylor,129
+NY,,1991.0,Taylor,665
+NY,,1938.0,Linda,126
+NY,,1995.0,Michael,303
+NY,,1974.0,Linda,317
+NY,,2015.0,John,27
+NY,,2017.0,Robert,
+NY,,2014.0,casey,45
+NY,,2004.0,Casey,319
+NY,,1940.0,Robert,12
+NY,,1987.0,casey,88
+NY,,1960.0,,5
+NY,,1957.0,Alex,239
+NY,,1954.0,Michael,260
+NY,,1977.0, Jordan ,45
+NY,,1983.0,Taylor,677
