@@ -1,1664 +1,1664 @@
 state,sex,year,name,count
-AZ,M,1977.0,John,177
-,F,1970.0,Mary,631
-AZ,M,2020.0,Taylor,209
-AZ,M,1941.0,Alex,65
- AZ ,F,1952.0,Jennifer,11
-AZ,F,1980.0,Mary,395
-AZ,M,1979.0,Alex,123
- AZ ,M,1944.0,robert,687
-AZ,F,1918.0,Jordan,49
-AZ,,1929.0,Jordan,11
-AZ,M,2015.0,Michael,9
- AZ ,M,1977.0,Casey,361
-AZ,F,1973.0,Casey,151
-AZ,M,2001.0,Taylor,55
-AZ,M,1911.0,Jordan,30
-AZ, M ,1910.0,Robert,35
-AZ,M,1972.0,John,189
-AZ,F,1947.0,Mary,34
-AZ,F,1944.0,Patricia,41
-AZ, F ,2022.0,alex,67
- AZ ,M,1931.0,John,178
+AZ,M,1977,John,177
+,F,1970,Mary,631
+AZ,M,2020,Taylor,209
+AZ,M,1941,Alex,65
+AZ,F,1952,Jennifer,11
+AZ,F,1980,Mary,395
+AZ,M,1979,Alex,123
+AZ,M,1944,robert,687
+AZ,F,1918,Jordan,49
+AZ,,1929,Jordan,11
+AZ,M,2015,Michael,9
+AZ,M,1977,Casey,361
+AZ,F,1973,Casey,151
+AZ,M,2001,Taylor,55
+AZ,M,1911,Jordan,30
+AZ,M,1910,Robert,35
+AZ,M,1972,John,189
+AZ,F,1947,Mary,34
+AZ,F,1944,Patricia,41
+AZ,F,2022,alex,67
+AZ,M,1931,John,178
 AZ,F,,Jordan,383
-AZ,M,1922.0,Jordan,
-AZ,F,2010.0,John,28
-AZ,F,1969.0,Alex,63
+AZ,M,1922,Jordan,
+AZ,F,2010,John,28
+AZ,F,1969,Alex,63
 AZ,M,,John,691
- AZ ,M,2013.0,Mary,8
-AZ,M,1978.0,Jordan,129
-AZ,M,1971.0,Michael,
-AZ,F,1983.0,Jennifer,20
-AZ,M,2006.0,John,508
-AZ,F,2017.0,Taylor,149
-AZ,F,1980.0,Jennifer,57
-AZ,M,1999.0,Jordan,602
-AZ,M,1983.0,Casey,343
-AZ,F,1936.0,Alex,5
-AZ,F,1971.0,Mary,112
-AZ,,1922.0,John,219
-AZ,F,1954.0,Jordan,86
- AZ ,F,1991.0,Linda,125
-AZ,F,2009.0,Mary,153
-AZ,M,1982.0,Michael,446
- AZ , M ,1966.0,Michael,63
- AZ ,F,1971.0,Jennifer,336
-,F,2020.0,Alex,74
+AZ,M,2013,Mary,8
+AZ,M,1978,Jordan,129
+AZ,M,1971,Michael,
+AZ,F,1983,Jennifer,20
+AZ,M,2006,John,508
+AZ,F,2017,Taylor,149
+AZ,F,1980,Jennifer,57
+AZ,M,1999,Jordan,602
+AZ,M,1983,Casey,343
+AZ,F,1936,Alex,5
+AZ,F,1971,Mary,112
+AZ,,1922,John,219
+AZ,F,1954,Jordan,86
+AZ,F,1991,Linda,125
+AZ,F,2009,Mary,153
+AZ,M,1982,Michael,446
+AZ,M,1966,Michael,63
+AZ,F,1971,Jennifer,336
+,F,2020,Alex,74
 AZ,F,,Jordan,88
-AZ, M ,,Casey,324
-AZ,M,1911.0,Taylor,48
-AZ, F ,1962.0,Mary,689
-AZ,M,1991.0,James,871
- AZ ,M,1985.0,James,766
+AZ,M,,Casey,324
+AZ,M,1911,Taylor,48
+AZ,F,1962,Mary,689
+AZ,M,1991,James,871
+AZ,M,1985,James,766
 AZ,F,,Patricia,20
-AZ,F,1989.0,Jordan,822
-AZ,F,2011.0,Alex,108
-AZ, F ,1942.0,Alex,497
+AZ,F,1989,Jordan,822
+AZ,F,2011,Alex,108
+AZ,F,1942,Alex,497
 AZ,M,,Michael,220
-,F,1937.0, Patricia ,89
-AZ,F,1951.0,Patricia,1012
-AZ,M,2009.0,John,35
-AZ,M,2011.0,Michael,72
-AZ,F,1970.0,Patricia,1482
-AZ,M,2002.0,Patricia,467
-AZ,M,1928.0,Taylor,42
-AZ,M,2014.0,Casey,
-AZ, F ,1936.0,Jordan,136
- AZ ,M,2011.0,Alex,270
-AZ,M,1974.0,Robert,33
-AZ,M,1966.0,Casey,613
-AZ,M,1972.0,Alex,
-AZ,,1928.0,Michael,45
-AZ,M,2021.0,Casey,571
-AZ,M,1933.0,John,38
-AZ,F,1997.0,Casey,16
-AZ,M,1992.0,Jordan,48
-AZ,F,1999.0,Jennifer,265
-AZ,M,2022.0,Patricia,
-AZ,F,1994.0,Mary,668
-,M,1918.0,Casey,67
-AZ,F,1990.0,,405
-AZ,M,1947.0,James,100
-AZ,M,1989.0,Michael,249
-AZ,M,1997.0,John,33
-AZ,F,1989.0,Linda,103
-AZ,M,1917.0,Michael,
-AZ, F ,1921.0,Casey,25
-AZ,F,1996.0,Alex,68
-AZ,M,1993.0,Jennifer,268
-AZ,M,2002.0,Taylor,754
-AZ,M,1937.0,John,6
- AZ , M ,2020.0,john,245
+,F,1937,Patricia,89
+AZ,F,1951,Patricia,1012
+AZ,M,2009,John,35
+AZ,M,2011,Michael,72
+AZ,F,1970,Patricia,1482
+AZ,M,2002,Patricia,467
+AZ,M,1928,Taylor,42
+AZ,M,2014,Casey,
+AZ,F,1936,Jordan,136
+AZ,M,2011,Alex,270
+AZ,M,1974,Robert,33
+AZ,M,1966,Casey,613
+AZ,M,1972,Alex,
+AZ,,1928,Michael,45
+AZ,M,2021,Casey,571
+AZ,M,1933,John,38
+AZ,F,1997,Casey,16
+AZ,M,1992,Jordan,48
+AZ,F,1999,Jennifer,265
+AZ,M,2022,Patricia,
+AZ,F,1994,Mary,668
+,M,1918,Casey,67
+AZ,F,1990,,405
+AZ,M,1947,James,100
+AZ,M,1989,Michael,249
+AZ,M,1997,John,33
+AZ,F,1989,Linda,103
+AZ,M,1917,Michael,
+AZ,F,1921,Casey,25
+AZ,F,1996,Alex,68
+AZ,M,1993,Jennifer,268
+AZ,M,2002,Taylor,754
+AZ,M,1937,John,6
+AZ,M,2020,john,245
 AZ,F,,Patricia,514
-AZ,M,1974.0,Taylor,276
-AZ,F,1990.0,Casey,951
-AZ,,1993.0,Jennifer,114
-AZ, M ,1952.0,James,88
-AZ,F,1962.0,Taylor,302
-AZ,F,1944.0, Jennifer ,21
-AZ,M,1985.0,Robert,250
-AZ,,1929.0,Michael,327
-AZ,M,1955.0,James,120
- AZ ,M,1935.0, Linda ,260
-AZ,M,1960.0,Jordan,142
-, M ,1994.0, Taylor ,1039
-AZ,M,1977.0,Robert,641
-AZ,M,1988.0, Alex ,14
-AZ, M ,,John,49
-AZ, M ,1965.0,Michael,952
-AZ,M,1976.0,Alex,619
-,M,2011.0,Taylor,537
-AZ,,1968.0,James,228
-AZ,F,1939.0,Jordan,381
-AZ,M,1983.0,Michael,347
-AZ,F,1964.0,Alex,485
-AZ,M,1954.0,Taylor,
-,M,1947.0,Robert,7
-AZ,M,1944.0,,44
- AZ ,M,2013.0,Robert,505
- AZ ,M,2021.0,John,39
-AZ,F,, Patricia ,469
-AZ,F,1981.0,Jordan,45
-AZ,M,1996.0,Taylor,134
-AZ,M,1951.0,Alex,219
-AZ,F,1999.0,Jordan,223
-AZ,F,2010.0,Mary,200
+AZ,M,1974,Taylor,276
+AZ,F,1990,Casey,951
+AZ,,1993,Jennifer,114
+AZ,M,1952,James,88
+AZ,F,1962,Taylor,302
+AZ,F,1944,Jennifer,21
+AZ,M,1985,Robert,250
+AZ,,1929,Michael,327
+AZ,M,1955,James,120
+AZ,M,1935,Linda,260
+AZ,M,1960,Jordan,142
+,M,1994,Taylor,1039
+AZ,M,1977,Robert,641
+AZ,M,1988,Alex,14
+AZ,M,,John,49
+AZ,M,1965,Michael,952
+AZ,M,1976,Alex,619
+,M,2011,Taylor,537
+AZ,,1968,James,228
+AZ,F,1939,Jordan,381
+AZ,M,1983,Michael,347
+AZ,F,1964,Alex,485
+AZ,M,1954,Taylor,
+,M,1947,Robert,7
+AZ,M,1944,,44
+AZ,M,2013,Robert,505
+AZ,M,2021,John,39
+AZ,F,,Patricia,469
+AZ,F,1981,Jordan,45
+AZ,M,1996,Taylor,134
+AZ,M,1951,Alex,219
+AZ,F,1999,Jordan,223
+AZ,F,2010,Mary,200
 AZ,F,,jennifer,30
-AZ,M,1944.0,,626
-AZ,M,1959.0,Casey,510
-AZ,,2020.0,Taylor,102
-AZ, F ,1969.0,Jordan,14
-AZ,M,1919.0,Jordan,147
- AZ , F ,2008.0,Alex,
-AZ,M,2006.0,Alex,97
-AZ,M,1922.0,Robert,36
-,M,1946.0,Casey,137
-AZ,M,1958.0,Jordan,383
-AZ,M,1952.0,Alex,601
- AZ ,F,1989.0,Mary,443
-AZ,M,1933.0, Michael ,
+AZ,M,1944,,626
+AZ,M,1959,Casey,510
+AZ,,2020,Taylor,102
+AZ,F,1969,Jordan,14
+AZ,M,1919,Jordan,147
+AZ,F,2008,Alex,
+AZ,M,2006,Alex,97
+AZ,M,1922,Robert,36
+,M,1946,Casey,137
+AZ,M,1958,Jordan,383
+AZ,M,1952,Alex,601
+AZ,F,1989,Mary,443
+AZ,M,1933,Michael,
 AZ,M,,Michael,850
-AZ,M,1970.0,Taylor,394
-AZ,M,1991.0,Michael,35
- AZ ,F,1965.0,John,227
-AZ,F,2003.0,Taylor,196
+AZ,M,1970,Taylor,394
+AZ,M,1991,Michael,35
+AZ,F,1965,John,227
+AZ,F,2003,Taylor,196
 AZ,F,,Alex,41
-AZ,M,1994.0,Jordan,
-AZ,F,1915.0,Jordan,21
-AZ,F,1948.0, Taylor ,70
-AZ,F,1940.0,Jennifer,131
-AZ,F,2002.0,Jennifer,552
-AZ,M,2008.0,John,917
-AZ,F,1990.0,Jordan,717
-AZ,F,2012.0,Mary,
-AZ,M,1975.0,Taylor,379
-AZ,F,1991.0,Alex,79
-AZ,M,1954.0,Robert,80
-AZ,F,1964.0,Jordan,234
-,M,2011.0,Taylor,537
-AZ,F,1987.0,Alex,149
-AZ,F,1937.0,,11
-AZ,M,1971.0,Jordan,60
-AZ,M,2020.0,Casey,28
-AZ,F,2008.0,Patricia,71
-AZ,M,2004.0,Michael,41
-AZ,,1937.0, Alex ,16
-AZ,M,1920.0,Alex,15
-AZ,M,1995.0,Casey,25
-AZ,F,1965.0,Mary,702
+AZ,M,1994,Jordan,
+AZ,F,1915,Jordan,21
+AZ,F,1948,Taylor,70
+AZ,F,1940,Jennifer,131
+AZ,F,2002,Jennifer,552
+AZ,M,2008,John,917
+AZ,F,1990,Jordan,717
+AZ,F,2012,Mary,
+AZ,M,1975,Taylor,379
+AZ,F,1991,Alex,79
+AZ,M,1954,Robert,80
+AZ,F,1964,Jordan,234
+,M,2011,Taylor,537
+AZ,F,1987,Alex,149
+AZ,F,1937,,11
+AZ,M,1971,Jordan,60
+AZ,M,2020,Casey,28
+AZ,F,2008,Patricia,71
+AZ,M,2004,Michael,41
+AZ,,1937,Alex,16
+AZ,M,1920,Alex,15
+AZ,M,1995,Casey,25
+AZ,F,1965,Mary,702
 AZ,M,,Jordan,437
-AZ,M,1914.0,John,6
- AZ ,F,1975.0,Patricia,92
-AZ, F ,1931.0,Jordan,10
-AZ,M,1948.0,Michael,84
-AZ,M,1980.0,Casey,374
- AZ ,M,1931.0,casey,11
-AZ,M,1987.0,Jordan,287
-AZ,F,1931.0,Mary,7
-AZ,F,1939.0,Alex,609
-AZ,,1935.0,Alex,7
-AZ,F,1918.0,Mary,6
-AZ,F,1983.0,Linda,528
-AZ,F,1954.0,Robert,24
-AZ,F,, Alex ,6
-AZ,F,1912.0,Casey,18
-AZ,F,1978.0,Alex,311
-AZ,F,1945.0,Jennifer,5
-AZ,F,1999.0, Alex ,18
-AZ,F,1931.0,Linda,13
-AZ,F,1912.0,Patricia,14
-AZ,F,2016.0,Alex,75
-AZ, F ,2003.0,Jennifer,376
-AZ,F,1927.0,Linda,118
-,F,1959.0,Casey,293
-AZ,M,2001.0,Casey,648
-AZ,M,1959.0,Alex,329
-AZ,F,1973.0,Linda,166
+AZ,M,1914,John,6
+AZ,F,1975,Patricia,92
+AZ,F,1931,Jordan,10
+AZ,M,1948,Michael,84
+AZ,M,1980,Casey,374
+AZ,M,1931,casey,11
+AZ,M,1987,Jordan,287
+AZ,F,1931,Mary,7
+AZ,F,1939,Alex,609
+AZ,,1935,Alex,7
+AZ,F,1918,Mary,6
+AZ,F,1983,Linda,528
+AZ,F,1954,Robert,24
+AZ,F,,Alex,6
+AZ,F,1912,Casey,18
+AZ,F,1978,Alex,311
+AZ,F,1945,Jennifer,5
+AZ,F,1999,Alex,18
+AZ,F,1931,Linda,13
+AZ,F,1912,Patricia,14
+AZ,F,2016,Alex,75
+AZ,F,2003,Jennifer,376
+AZ,F,1927,Linda,118
+,F,1959,Casey,293
+AZ,M,2001,Casey,648
+AZ,M,1959,Alex,329
+AZ,F,1973,Linda,166
 AZ,,,Michael,112
- AZ ,,1938.0,Robert,298
-AZ,M,1937.0,Casey,187
-AZ,F,1980.0,Casey,588
-AZ,F,1987.0,Jennifer,485
-AZ,M,1987.0,Robert,
-AZ,F,1941.0,Alex,34
-AZ,,1963.0,Taylor,69
-AZ,F,1952.0,,93
-AZ, F ,1991.0,Mary,155
-AZ, F ,2000.0,Alex,68
-AZ,M,1938.0,Jordan,5
-AZ,F,1968.0,Alex,209
-AZ,F,2006.0, Linda ,106
-AZ,M,1985.0,,11
-AZ,F,1981.0,,531
-AZ,F,1948.0,Patricia,162
-AZ,M,1926.0,Patricia,400
-AZ,F,2011.0,Linda,551
-AZ,M,1955.0,,94
-AZ,M,1984.0,james,87
-AZ, M ,1969.0,robert,572
-AZ, M ,2002.0,James,84
- AZ ,F,1988.0,Jordan,721
-AZ,F,1925.0,Casey,157
-AZ,F,1982.0,Casey,27
-AZ,F,2008.0,Michael,1086
- AZ ,,1972.0,Jordan,25
-AZ, M ,1995.0,Taylor,757
-AZ,F,1975.0,Taylor,187
-AZ,M,1972.0,Robert,167
-AZ,F,1973.0,Patricia,423
- AZ ,F,,Casey,173
-AZ,F,1973.0,Taylor,16
-AZ,F,2020.0,Jordan,146
- AZ ,,1976.0,Alex,13
-AZ,F,2013.0,,18
-AZ,M,1974.0,James,246
-AZ,F,1981.0,Mary,213
-AZ,M,1961.0,Michael,107
-AZ,M,1968.0,John,120
-AZ,M,1958.0,Mary,494
-AZ,F,1993.0,Linda,187
-AZ,F,2022.0,Casey,405
-AZ,M,2017.0,Casey,12
-AZ,M,1986.0,Taylor,85
-AZ, F ,1965.0,Casey,574
-AZ, F ,1960.0,Patricia,940
-AZ,M,2018.0,Michael,126
-AZ,,1958.0,Jordan,12
-AZ,F,1992.0,Jordan,282
- AZ ,F,2022.0,Mary,25
-AZ,M,1954.0,Alex,320
-AZ,F,1945.0,Linda,104
-AZ,M,1923.0,Jordan,87
-AZ,M,1976.0,Robert,132
- AZ ,F,2020.0,Jennifer,191
-AZ,F,1959.0,Linda,483
- AZ ,,1943.0,Taylor,110
-,M,1948.0,James,163
-AZ,M,2012.0,Robert,138
-AZ,M,2015.0,James,22
-AZ,F,2008.0,Taylor,7
-AZ,F,1936.0,Linda,49
-AZ, F ,2017.0,Jennifer,450
-AZ,F,1987.0,Patricia,167
-AZ,M,2019.0,patricia,40
-AZ,F,1939.0,Casey,8
-AZ,F,2009.0,Taylor,521
-AZ,M,1934.0,Robert,12
-AZ,M,1952.0,John,371
-AZ,F,2012.0,Michael,118
-AZ,M,2018.0,Alex,104
- AZ , F ,,Casey,20
-AZ,F,2007.0,Patricia,23
-AZ,M,1957.0,Alex,150
-AZ,F,1968.0,Taylor,300
- AZ ,M,1950.0,John,16
-AZ,F,1989.0,Taylor,724
-AZ,F,1944.0,Mary,59
- AZ , F ,1924.0,Mary,10
-AZ,F,1974.0,Linda,168
-,F,1926.0,Patricia,164
-AZ,F,1993.0,Taylor,
-AZ,M,1981.0,Casey,161
- AZ ,M,1981.0,Taylor,157
-AZ,F,1971.0,Taylor,150
-AZ, F ,1963.0,,106
-AZ,M,1962.0,Robert,294
-AZ,M,1952.0,Patricia,92
-AZ,F,1945.0,Jordan,21
-AZ,F,1986.0, Taylor ,77
-AZ,F,1972.0,Linda,58
-AZ,F,2016.0,Jennifer,227
-AZ,M,1955.0,Taylor,165
- AZ ,F,1949.0,Casey,170
+AZ,,1938,Robert,298
+AZ,M,1937,Casey,187
+AZ,F,1980,Casey,588
+AZ,F,1987,Jennifer,485
+AZ,M,1987,Robert,
+AZ,F,1941,Alex,34
+AZ,,1963,Taylor,69
+AZ,F,1952,,93
+AZ,F,1991,Mary,155
+AZ,F,2000,Alex,68
+AZ,M,1938,Jordan,5
+AZ,F,1968,Alex,209
+AZ,F,2006,Linda,106
+AZ,M,1985,,11
+AZ,F,1981,,531
+AZ,F,1948,Patricia,162
+AZ,M,1926,Patricia,400
+AZ,F,2011,Linda,551
+AZ,M,1955,,94
+AZ,M,1984,james,87
+AZ,M,1969,robert,572
+AZ,M,2002,James,84
+AZ,F,1988,Jordan,721
+AZ,F,1925,Casey,157
+AZ,F,1982,Casey,27
+AZ,F,2008,Michael,1086
+AZ,,1972,Jordan,25
+AZ,M,1995,Taylor,757
+AZ,F,1975,Taylor,187
+AZ,M,1972,Robert,167
+AZ,F,1973,Patricia,423
+AZ,F,,Casey,173
+AZ,F,1973,Taylor,16
+AZ,F,2020,Jordan,146
+AZ,,1976,Alex,13
+AZ,F,2013,,18
+AZ,M,1974,James,246
+AZ,F,1981,Mary,213
+AZ,M,1961,Michael,107
+AZ,M,1968,John,120
+AZ,M,1958,Mary,494
+AZ,F,1993,Linda,187
+AZ,F,2022,Casey,405
+AZ,M,2017,Casey,12
+AZ,M,1986,Taylor,85
+AZ,F,1965,Casey,574
+AZ,F,1960,Patricia,940
+AZ,M,2018,Michael,126
+AZ,,1958,Jordan,12
+AZ,F,1992,Jordan,282
+AZ,F,2022,Mary,25
+AZ,M,1954,Alex,320
+AZ,F,1945,Linda,104
+AZ,M,1923,Jordan,87
+AZ,M,1976,Robert,132
+AZ,F,2020,Jennifer,191
+AZ,F,1959,Linda,483
+AZ,,1943,Taylor,110
+,M,1948,James,163
+AZ,M,2012,Robert,138
+AZ,M,2015,James,22
+AZ,F,2008,Taylor,7
+AZ,F,1936,Linda,49
+AZ,F,2017,Jennifer,450
+AZ,F,1987,Patricia,167
+AZ,M,2019,patricia,40
+AZ,F,1939,Casey,8
+AZ,F,2009,Taylor,521
+AZ,M,1934,Robert,12
+AZ,M,1952,John,371
+AZ,F,2012,Michael,118
+AZ,M,2018,Alex,104
+AZ,F,,Casey,20
+AZ,F,2007,Patricia,23
+AZ,M,1957,Alex,150
+AZ,F,1968,Taylor,300
+AZ,M,1950,John,16
+AZ,F,1989,Taylor,724
+AZ,F,1944,Mary,59
+AZ,F,1924,Mary,10
+AZ,F,1974,Linda,168
+,F,1926,Patricia,164
+AZ,F,1993,Taylor,
+AZ,M,1981,Casey,161
+AZ,M,1981,Taylor,157
+AZ,F,1971,Taylor,150
+AZ,F,1963,,106
+AZ,M,1962,Robert,294
+AZ,M,1952,Patricia,92
+AZ,F,1945,Jordan,21
+AZ,F,1986,Taylor,77
+AZ,F,1972,Linda,58
+AZ,F,2016,Jennifer,227
+AZ,M,1955,Taylor,165
+AZ,F,1949,Casey,170
 AZ,M,,Casey,107
-AZ, F ,1992.0, Taylor ,
-AZ,M,1989.0,Casey,48
-AZ,F,1980.0,Jordan,411
-AZ,F,1996.0,Casey,22
- AZ ,M,1926.0,Alex,231
-AZ,F,1968.0,jordan,590
+AZ,F,1992,Taylor,
+AZ,M,1989,Casey,48
+AZ,F,1980,Jordan,411
+AZ,F,1996,Casey,22
+AZ,M,1926,Alex,231
+AZ,F,1968,jordan,590
 AZ,F,,Mary,502
-AZ,M,1913.0,James,38
-AZ,M,1972.0, James ,347
-AZ,F,2002.0,Linda,237
-AZ,M,1944.0,,44
-AZ,M,1949.0,Alex,169
- AZ ,F,1926.0,Taylor,106
-AZ,F,1915.0,,44
-AZ,,1953.0,,1178
-AZ,M,2012.0,taylor,456
-AZ,M,2022.0,,10
+AZ,M,1913,James,38
+AZ,M,1972,James,347
+AZ,F,2002,Linda,237
+AZ,M,1944,,44
+AZ,M,1949,Alex,169
+AZ,F,1926,Taylor,106
+AZ,F,1915,,44
+AZ,,1953,,1178
+AZ,M,2012,taylor,456
+AZ,M,2022,,10
 ,F,,Patricia,143
-AZ,M,2013.0,Taylor,
-AZ,F,2012.0,Taylor,174
-,F,1996.0, Mary ,1097
-AZ,F,1933.0,James,9
- AZ ,M,2000.0,Alex,91
-AZ,M,1961.0,Taylor,79
-AZ,F,1923.0,,47
-AZ, M ,1951.0,Robert,90
-AZ,F,1985.0,Casey,152
+AZ,M,2013,Taylor,
+AZ,F,2012,Taylor,174
+,F,1996,Mary,1097
+AZ,F,1933,James,9
+AZ,M,2000,Alex,91
+AZ,M,1961,Taylor,79
+AZ,F,1923,,47
+AZ,M,1951,Robert,90
+AZ,F,1985,Casey,152
 AZ,F,,Casey,532
-,M,2007.0,Robert,79
-AZ,,1941.0,Mary,50
-AZ,F,1958.0,Casey,305
-AZ,F,1955.0,,92
-AZ, M ,1940.0,James,72
-AZ,M,1977.0,James,233
-AZ,M,1958.0,Michael,296
-AZ, M ,2010.0,taylor,7
-AZ,M,2004.0,,
+,M,2007,Robert,79
+AZ,,1941,Mary,50
+AZ,F,1958,Casey,305
+AZ,F,1955,,92
+AZ,M,1940,James,72
+AZ,M,1977,James,233
+AZ,M,1958,Michael,296
+AZ,M,2010,taylor,7
+AZ,M,2004,,
 AZ,M,,Alex,84
-AZ,M,2003.0,Taylor,227
-AZ,M,1921.0,John,87
-AZ,F,1960.0,michael,
-AZ,F,1931.0,Alex,13
-AZ,M,1978.0,James,
-AZ,M,1970.0,Casey,239
-,M,1912.0,Jordan,31
-AZ,F,2000.0,Casey,366
-AZ,M,1984.0,Robert,292
-AZ,M,1950.0,Robert,
-AZ,,1990.0,Taylor,17
-AZ,F,1950.0,Jordan,36
-AZ,M,1990.0,Robert,176
-AZ,M,2011.0,James,22
-AZ,M,1989.0,,223
-AZ,F,1990.0,Jennifer,491
- AZ , F ,1977.0,Linda,265
- AZ , F ,2014.0,Jordan,33
-AZ,M,1938.0,Taylor,13
- AZ ,M,1978.0,Mary,71
-AZ, F ,1950.0,Alex,334
-,M,1967.0,Patricia,383
-AZ,M,1935.0,Michael,31
-AZ,F,1997.0,Alex,169
-,M,1985.0,John,398
-AZ,F,1938.0,Patricia,236
-AZ,M,1932.0,john,161
-AZ, F ,1985.0,Patricia,502
-AZ,M,1997.0, Jordan ,323
-AZ,M,1952.0,Alex,601
-AZ,M,1971.0,Taylor,38
-AZ,M,1969.0,Taylor,431
- AZ ,M,1995.0,James,185
-AZ,M,1948.0,Taylor,22
-AZ,F,2003.0,Patricia,534
-AZ,M,2002.0,Casey,753
-AZ,,1957.0,Linda,154
-AZ,M,1933.0,Robert,176
- AZ ,M,1944.0,michael,82
-AZ, F ,2004.0,Jennifer,297
-AZ,M,1950.0,Jennifer,68
-AZ,M,1988.0,john,539
- AZ , F ,1986.0,,26
-AZ,M,1958.0,John,1136
-AZ,F,2021.0,Alex,8
-AZ,F,1983.0,Mary,145
-AZ,F,2015.0,Casey,226
-AZ,M,1963.0, James ,41
-AZ,M,2006.0,James,
+AZ,M,2003,Taylor,227
+AZ,M,1921,John,87
+AZ,F,1960,michael,
+AZ,F,1931,Alex,13
+AZ,M,1978,James,
+AZ,M,1970,Casey,239
+,M,1912,Jordan,31
+AZ,F,2000,Casey,366
+AZ,M,1984,Robert,292
+AZ,M,1950,Robert,
+AZ,,1990,Taylor,17
+AZ,F,1950,Jordan,36
+AZ,M,1990,Robert,176
+AZ,M,2011,James,22
+AZ,M,1989,,223
+AZ,F,1990,Jennifer,491
+AZ,F,1977,Linda,265
+AZ,F,2014,Jordan,33
+AZ,M,1938,Taylor,13
+AZ,M,1978,Mary,71
+AZ,F,1950,Alex,334
+,M,1967,Patricia,383
+AZ,M,1935,Michael,31
+AZ,F,1997,Alex,169
+,M,1985,John,398
+AZ,F,1938,Patricia,236
+AZ,M,1932,john,161
+AZ,F,1985,Patricia,502
+AZ,M,1997,Jordan,323
+AZ,M,1952,Alex,601
+AZ,M,1971,Taylor,38
+AZ,M,1969,Taylor,431
+AZ,M,1995,James,185
+AZ,M,1948,Taylor,22
+AZ,F,2003,Patricia,534
+AZ,M,2002,Casey,753
+AZ,,1957,Linda,154
+AZ,M,1933,Robert,176
+AZ,M,1944,michael,82
+AZ,F,2004,Jennifer,297
+AZ,M,1950,Jennifer,68
+AZ,M,1988,john,539
+AZ,F,1986,,26
+AZ,M,1958,John,1136
+AZ,F,2021,Alex,8
+AZ,F,1983,Mary,145
+AZ,F,2015,Casey,226
+AZ,M,1963,James,41
+AZ,M,2006,James,
 AZ,M,,James,95
- AZ ,M,1950.0,Jordan,73
-AZ,F,1984.0,Taylor,509
-AZ,M,1923.0,John,32
-AZ,M,1938.0, James ,407
- AZ ,F,,Alex,621
-AZ,M,1965.0,Taylor,724
-AZ,F,1995.0,John,539
-AZ, M ,1937.0,Jordan,166
-AZ,F,1992.0,Linda,133
-AZ,F,1973.0,Jennifer,272
-, F ,1985.0,Linda,425
-AZ,M,1969.0,John,71
+AZ,M,1950,Jordan,73
+AZ,F,1984,Taylor,509
+AZ,M,1923,John,32
+AZ,M,1938,James,407
+AZ,F,,Alex,621
+AZ,M,1965,Taylor,724
+AZ,F,1995,John,539
+AZ,M,1937,Jordan,166
+AZ,F,1992,Linda,133
+AZ,F,1973,Jennifer,272
+,F,1985,Linda,425
+AZ,M,1969,John,71
 AZ,F,,Mary,616
-AZ,F,1937.0,Michael,33
-,M,1971.0,Alex,14
-AZ,M,1980.0,Taylor,247
-AZ,F,2007.0, Jennifer ,110
-AZ,F,1944.0,Casey,5
-AZ,M,1970.0,James,849
-AZ,F,1999.0,Mary,75
+AZ,F,1937,Michael,33
+,M,1971,Alex,14
+AZ,M,1980,Taylor,247
+AZ,F,2007,Jennifer,110
+AZ,F,1944,Casey,5
+AZ,M,1970,James,849
+AZ,F,1999,Mary,75
 AZ,F,,,311
-AZ,M,2022.0,jordan,81
-AZ,M,1967.0,Robert,126
-AZ,F,1991.0,Jennifer,1141
-AZ,M,1932.0,Taylor,31
+AZ,M,2022,jordan,81
+AZ,M,1967,Robert,126
+AZ,F,1991,Jennifer,1141
+AZ,M,1932,Taylor,31
 AZ,M,,Casey,88
- AZ ,F,1910.0,Taylor,8
-AZ,F,1937.0,Casey,33
-AZ,,1997.0,Jennifer,10
-AZ,F,1915.0,Patricia,17
-AZ, M ,1973.0,John,100
- AZ ,M,2019.0,Mary,135
-, F ,1985.0,Jennifer,96
-AZ,F,1955.0,Linda,30
-AZ,F,1939.0,Jordan,381
-AZ,F,1916.0,John,10
-AZ,M,1987.0,John,242
+AZ,F,1910,Taylor,8
+AZ,F,1937,Casey,33
+AZ,,1997,Jennifer,10
+AZ,F,1915,Patricia,17
+AZ,M,1973,John,100
+AZ,M,2019,Mary,135
+,F,1985,Jennifer,96
+AZ,F,1955,Linda,30
+AZ,F,1939,Jordan,381
+AZ,F,1916,John,10
+AZ,M,1987,John,242
 AZ,M,,Alex,157
-AZ,F,1953.0,Casey,181
-AZ,F,1980.0,James,103
-AZ,M,1984.0,Taylor,261
-AZ,F,1951.0,Jordan,62
-AZ,M,1990.0,Patricia,256
-AZ, M ,1943.0,Michael,13
-AZ,,1966.0,Jennifer,107
-AZ,M,2009.0,Taylor,29
-AZ,F,1977.0,John,116
-AZ,M,1984.0, Michael ,83
-AZ,M,1963.0,Michael,676
-AZ,M,1957.0,,53
-AZ,M,1987.0,Linda,417
+AZ,F,1953,Casey,181
+AZ,F,1980,James,103
+AZ,M,1984,Taylor,261
+AZ,F,1951,Jordan,62
+AZ,M,1990,Patricia,256
+AZ,M,1943,Michael,13
+AZ,,1966,Jennifer,107
+AZ,M,2009,Taylor,29
+AZ,F,1977,John,116
+AZ,M,1984,Michael,83
+AZ,M,1963,Michael,676
+AZ,M,1957,,53
+AZ,M,1987,Linda,417
 AZ,F,,james,57
-AZ,,1960.0,Linda,371
-AZ,F,1971.0,Casey,385
-AZ,M,2001.0,John,119
-AZ,F,1967.0,Patricia,335
-,F,1980.0,Taylor,371
-AZ,,1959.0,Michael,379
-AZ,M,1957.0,Jordan,29
-AZ,M,1943.0,James,38
-AZ,F,1979.0,Taylor,82
-AZ,M,2013.0,Michael,140
-AZ,M,1986.0,Michael,265
-AZ,M,1944.0,Alex,21
-AZ,M,1950.0,James,
-AZ,M,1985.0,,11
-AZ,F,1992.0,Jennifer,604
-,F,1937.0,Mary,12
+AZ,,1960,Linda,371
+AZ,F,1971,Casey,385
+AZ,M,2001,John,119
+AZ,F,1967,Patricia,335
+,F,1980,Taylor,371
+AZ,,1959,Michael,379
+AZ,M,1957,Jordan,29
+AZ,M,1943,James,38
+AZ,F,1979,Taylor,82
+AZ,M,2013,Michael,140
+AZ,M,1986,Michael,265
+AZ,M,1944,Alex,21
+AZ,M,1950,James,
+AZ,M,1985,,11
+AZ,F,1992,Jennifer,604
+,F,1937,Mary,12
 AZ,M,,Michael,22
-AZ,M,1996.0,John,263
-AZ,M,1998.0,Jordan,514
+AZ,M,1996,John,263
+AZ,M,1998,Jordan,514
 AZ,F,,mary,22
-AZ,M,1935.0,Alex,50
-AZ,M,1976.0,Taylor,
-AZ,M,1947.0,Michael,131
-AZ,F,2003.0,Linda,248
- AZ ,M,1960.0,,90
-AZ,M,1939.0,Robert,241
-AZ,F,1962.0,Jennifer,453
+AZ,M,1935,Alex,50
+AZ,M,1976,Taylor,
+AZ,M,1947,Michael,131
+AZ,F,2003,Linda,248
+AZ,M,1960,,90
+AZ,M,1939,Robert,241
+AZ,F,1962,Jennifer,453
 AZ,M,,James,18
-AZ,F,1953.0,Jordan,388
+AZ,F,1953,Jordan,388
 AZ,F,,Patricia,90
-AZ,M,1956.0,Jordan,39
+AZ,M,1956,Jordan,39
 AZ,F,,,497
-AZ,M,1926.0,Michael,15
-AZ,F,1982.0,Jennifer,744
-AZ, M ,1985.0,Alex,97
-AZ,F,1983.0,Casey,62
-AZ,M,1982.0,Casey,149
-AZ,M,1997.0,Alex,915
-AZ, M ,1995.0,jordan,11
-AZ,M,1975.0,Alex,134
-AZ,F,1994.0,Taylor,69
-AZ,,1919.0,Taylor,41
-AZ,F,1938.0,Mary,230
-AZ,M,1983.0,robert,422
-AZ,M,1919.0,Alex,22
-AZ,F,1984.0,Casey,80
-AZ,F,2006.0,,112
-AZ, F ,2018.0,Mary,387
-AZ,M,1942.0,John,406
-AZ,F,1943.0,Patricia,7
-AZ,,1968.0,Robert,484
- AZ ,F,1950.0,Jennifer,269
- AZ ,M,1966.0,Taylor,246
-AZ,M,1935.0,jordan,
-AZ,M,1970.0,Michael,10
-AZ,M,1958.0,Patricia,30
- AZ ,M,1965.0,John,419
-AZ,M,1927.0,Taylor,245
-AZ,M,1956.0,John,492
-AZ,,1949.0,Robert,110
-AZ,F,1994.0,Michael,161
-AZ,F,1970.0,Casey,71
-AZ,F,2014.0,Casey,606
-AZ,M,1931.0,Taylor,
-AZ,F,2015.0,Taylor,123
- AZ ,F,1964.0,Linda,11
-AZ,M,2016.0,Taylor,33
-AZ,F,2000.0,Jordan,132
-AZ,F,1986.0,Jordan,242
- AZ ,F,1979.0,Jordan,884
-AZ,F,1922.0,Jennifer,155
-AZ,M,1987.0,Casey,926
- AZ ,F,1928.0,Patricia,6
-AZ,,1997.0,Linda,254
-AZ,F,1964.0,Robert,84
-AZ,F,1971.0,Alex,1525
-AZ, F ,1988.0,Taylor,173
-AZ,F,1970.0,Jennifer,26
-AZ,M,1982.0,Taylor,102
-AZ,M,1997.0,Robert,315
-AZ,M,2015.0,Alex,
-AZ,M,1919.0,John,50
-AZ,F,1967.0,Mary,261
-AZ,F,1965.0, Jennifer ,89
-AZ,F,2006.0,Taylor,101
-AZ,M,2001.0,,35
+AZ,M,1926,Michael,15
+AZ,F,1982,Jennifer,744
+AZ,M,1985,Alex,97
+AZ,F,1983,Casey,62
+AZ,M,1982,Casey,149
+AZ,M,1997,Alex,915
+AZ,M,1995,jordan,11
+AZ,M,1975,Alex,134
+AZ,F,1994,Taylor,69
+AZ,,1919,Taylor,41
+AZ,F,1938,Mary,230
+AZ,M,1983,robert,422
+AZ,M,1919,Alex,22
+AZ,F,1984,Casey,80
+AZ,F,2006,,112
+AZ,F,2018,Mary,387
+AZ,M,1942,John,406
+AZ,F,1943,Patricia,7
+AZ,,1968,Robert,484
+AZ,F,1950,Jennifer,269
+AZ,M,1966,Taylor,246
+AZ,M,1935,jordan,
+AZ,M,1970,Michael,10
+AZ,M,1958,Patricia,30
+AZ,M,1965,John,419
+AZ,M,1927,Taylor,245
+AZ,M,1956,John,492
+AZ,,1949,Robert,110
+AZ,F,1994,Michael,161
+AZ,F,1970,Casey,71
+AZ,F,2014,Casey,606
+AZ,M,1931,Taylor,
+AZ,F,2015,Taylor,123
+AZ,F,1964,Linda,11
+AZ,M,2016,Taylor,33
+AZ,F,2000,Jordan,132
+AZ,F,1986,Jordan,242
+AZ,F,1979,Jordan,884
+AZ,F,1922,Jennifer,155
+AZ,M,1987,Casey,926
+AZ,F,1928,Patricia,6
+AZ,,1997,Linda,254
+AZ,F,1964,Robert,84
+AZ,F,1971,Alex,1525
+AZ,F,1988,Taylor,173
+AZ,F,1970,Jennifer,26
+AZ,M,1982,Taylor,102
+AZ,M,1997,Robert,315
+AZ,M,2015,Alex,
+AZ,M,1919,John,50
+AZ,F,1967,Mary,261
+AZ,F,1965,Jennifer,89
+AZ,F,2006,Taylor,101
+AZ,M,2001,,35
 AZ,M,,casey,1296
-AZ,F,1922.0,Patricia,14
- AZ ,,1942.0,Casey,228
-AZ,F,1965.0, Jordan ,165
-AZ,F,2002.0,,248
- AZ ,M,1947.0,Taylor,705
- AZ ,F,1949.0,Linda,248
- AZ ,F,,Linda,
-AZ,F,2003.0,Robert,74
-AZ,M,1956.0,Taylor,755
-,F,1940.0,Jordan,92
-AZ,F,1994.0,Patricia,139
-AZ,M,2005.0,,361
-,M,1928.0,Patricia,282
-AZ,F,1983.0,Alex,291
- AZ ,M,,Alex,
- AZ ,F,1993.0,Patricia,108
-AZ, M ,1981.0,Michael,431
-AZ,M,1964.0,John,824
-AZ,M,1932.0,Jordan,14
-AZ,F,1990.0,patricia,108
-AZ,F,2019.0,Linda,335
-AZ,M,1988.0,Taylor,50
-,F,1983.0,Jordan,107
-AZ, M ,1990.0,,247
-AZ,F,2020.0,Mary,25
-AZ,F,2008.0,Jordan,62
-AZ,F,1971.0,Patricia,302
-,M,2003.0,Alex,78
- AZ ,M,1933.0,casey,103
-AZ,F,2011.0,Jordan,23
-AZ, F ,1951.0,Linda,140
-AZ,M,2018.0,Robert,47
-AZ,F,2007.0,taylor,742
-AZ,M,1988.0,robert,176
-AZ,F,1961.0,Casey,506
-AZ,M,1936.0,,73
-AZ,M,2015.0,James,22
-AZ,M,2010.0,John,164
-AZ,M,1933.0,James,27
-AZ,M,1919.0,Robert,11
-AZ,F,1913.0,Linda,20
-AZ,M,1992.0,John,305
- AZ ,,,Alex,28
-AZ,M,1980.0,Robert,482
-AZ,,1970.0,Alex,268
-AZ,M,1989.0, Mary ,701
- AZ ,F,2010.0,Jennifer,197
-AZ,F,2014.0, Alex ,368
-AZ,F,2002.0,Taylor,816
-AZ, F ,1992.0,Alex,305
-AZ,F,1982.0,Mary,675
-AZ,,1945.0,John,353
-AZ,F,1986.0,James,237
-AZ,F,2010.0,Casey,20
+AZ,F,1922,Patricia,14
+AZ,,1942,Casey,228
+AZ,F,1965,Jordan,165
+AZ,F,2002,,248
+AZ,M,1947,Taylor,705
+AZ,F,1949,Linda,248
+AZ,F,,Linda,
+AZ,F,2003,Robert,74
+AZ,M,1956,Taylor,755
+,F,1940,Jordan,92
+AZ,F,1994,Patricia,139
+AZ,M,2005,,361
+,M,1928,Patricia,282
+AZ,F,1983,Alex,291
+AZ,M,,Alex,
+AZ,F,1993,Patricia,108
+AZ,M,1981,Michael,431
+AZ,M,1964,John,824
+AZ,M,1932,Jordan,14
+AZ,F,1990,patricia,108
+AZ,F,2019,Linda,335
+AZ,M,1988,Taylor,50
+,F,1983,Jordan,107
+AZ,M,1990,,247
+AZ,F,2020,Mary,25
+AZ,F,2008,Jordan,62
+AZ,F,1971,Patricia,302
+,M,2003,Alex,78
+AZ,M,1933,casey,103
+AZ,F,2011,Jordan,23
+AZ,F,1951,Linda,140
+AZ,M,2018,Robert,47
+AZ,F,2007,taylor,742
+AZ,M,1988,robert,176
+AZ,F,1961,Casey,506
+AZ,M,1936,,73
+AZ,M,2015,James,22
+AZ,M,2010,John,164
+AZ,M,1933,James,27
+AZ,M,1919,Robert,11
+AZ,F,1913,Linda,20
+AZ,M,1992,John,305
+AZ,,,Alex,28
+AZ,M,1980,Robert,482
+AZ,,1970,Alex,268
+AZ,M,1989,Mary,701
+AZ,F,2010,Jennifer,197
+AZ,F,2014,Alex,368
+AZ,F,2002,Taylor,816
+AZ,F,1992,Alex,305
+AZ,F,1982,Mary,675
+AZ,,1945,John,353
+AZ,F,1986,James,237
+AZ,F,2010,Casey,20
 AZ,F,,,576
 AZ,F,,Jordan,383
-AZ,M,1944.0,Taylor,
- AZ ,F,2002.0,Patricia,12
-AZ,M,2004.0,Taylor,19
-AZ,M,1926.0,James,12
+AZ,M,1944,Taylor,
+AZ,F,2002,Patricia,12
+AZ,M,2004,Taylor,19
+AZ,M,1926,James,12
 ,F,,Jennifer,492
-AZ,F,1998.0,Jordan,
-AZ,M,1972.0,Taylor,265
+AZ,F,1998,Jordan,
+AZ,M,1972,Taylor,265
 AZ,M,,Robert,41
-AZ,M,2000.0,Michael,13
-AZ,M,1987.0,Alex,593
-AZ,M,1948.0,Robert,22
-AZ,M,2003.0, Casey ,77
-AZ,F,1960.0,Alex,561
-AZ,,1938.0,Linda,39
-AZ,F,2002.0,Mary,805
-AZ,M,2000.0,James,903
- AZ ,M,,Jordan,928
-AZ,M,1980.0,Alex,537
- AZ ,M,1992.0,Alex,941
-AZ, M ,2019.0,Robert,287
-,,1987.0,Linda,48
-,F,1968.0,Mary,
-AZ,M,1943.0,Casey,
-AZ,,2007.0,Robert,422
-AZ,F,1918.0,Alex,9
-AZ,M,1952.0,Casey,253
-AZ,,1995.0,Taylor,19
-AZ,F,1931.0,Patricia,12
-AZ,F,1942.0,Patricia,29
-AZ,F,2006.0,Jennifer,162
-AZ,F,1949.0,Mary,14
- AZ ,F,1939.0,,212
-AZ,F,1950.0,Patricia,207
-AZ,F,1992.0,Casey,141
-AZ,F,1946.0,Jordan,24
-AZ,M,2007.0, Michael ,71
-AZ,M,2022.0,,100
-AZ,F,1957.0,Alex,20
-AZ,M,1910.0,Taylor,8
-AZ,M,1982.0,James,383
-AZ,F,1911.0,Taylor,18
-AZ, F ,2012.0,Patricia,27
- AZ ,F,1982.0,Jordan,404
-AZ,F,, Casey ,61
- AZ ,F,2000.0,Jennifer,84
-AZ,M,1945.0, Casey ,59
-AZ,F,2015.0,Patricia,448
-AZ,,1927.0,Patricia,11
-AZ,F,1956.0,Casey,157
-AZ,F,1974.0,Mary,266
-AZ,M,1989.0,Jordan,623
-AZ, M ,1925.0, Alex ,
-AZ,M,1975.0,,331
+AZ,M,2000,Michael,13
+AZ,M,1987,Alex,593
+AZ,M,1948,Robert,22
+AZ,M,2003,Casey,77
+AZ,F,1960,Alex,561
+AZ,,1938,Linda,39
+AZ,F,2002,Mary,805
+AZ,M,2000,James,903
+AZ,M,,Jordan,928
+AZ,M,1980,Alex,537
+AZ,M,1992,Alex,941
+AZ,M,2019,Robert,287
+,,1987,Linda,48
+,F,1968,Mary,
+AZ,M,1943,Casey,
+AZ,,2007,Robert,422
+AZ,F,1918,Alex,9
+AZ,M,1952,Casey,253
+AZ,,1995,Taylor,19
+AZ,F,1931,Patricia,12
+AZ,F,1942,Patricia,29
+AZ,F,2006,Jennifer,162
+AZ,F,1949,Mary,14
+AZ,F,1939,,212
+AZ,F,1950,Patricia,207
+AZ,F,1992,Casey,141
+AZ,F,1946,Jordan,24
+AZ,M,2007,Michael,71
+AZ,M,2022,,100
+AZ,F,1957,Alex,20
+AZ,M,1910,Taylor,8
+AZ,M,1982,James,383
+AZ,F,1911,Taylor,18
+AZ,F,2012,Patricia,27
+AZ,F,1982,Jordan,404
+AZ,F,,Casey,61
+AZ,F,2000,Jennifer,84
+AZ,M,1945,Casey,59
+AZ,F,2015,Patricia,448
+AZ,,1927,Patricia,11
+AZ,F,1956,Casey,157
+AZ,F,1974,Mary,266
+AZ,M,1989,Jordan,623
+AZ,M,1925,Alex,
+AZ,M,1975,,331
 AZ,M,,Michael,1061
- AZ ,F,1997.0,,
-AZ,F,1916.0,Alex,10
-AZ,F,1978.0,Jordan,817
-AZ,M,1920.0,Casey,17
-AZ,F,1955.0,Taylor,8
-AZ, F ,1922.0,Linda,13
-AZ,M,1941.0,Taylor,115
-AZ, M ,1993.0,Robert,114
-AZ,M,1965.0,patricia,487
-AZ,M,2005.0, James ,168
-AZ,F,1996.0,Taylor,108
-AZ,F,2004.0,Patricia,284
-AZ,F,1978.0,Linda,315
-AZ,M,2019.0,Jordan,15
-AZ,,2009.0,Robert,111
-AZ,M,2018.0,,695
-AZ,F,1986.0,John,81
-AZ,F,1977.0,alex,65
-AZ,M,1979.0,Robert,
-AZ,F,2010.0,Alex,750
-AZ,M,1917.0,Jordan,73
-AZ,M,2016.0,,10
-AZ,M,1931.0,James,39
-AZ,M,2004.0,,701
-AZ,F,1952.0,Mary,45
-AZ,F,2011.0,Casey,625
-AZ,M,1930.0,jordan,419
-AZ,F,2021.0,Casey,33
-AZ,,1990.0,James,
-AZ, M ,2002.0, Robert ,6
- AZ ,F,1987.0,Casey,715
-AZ,F,1946.0,Patricia,23
-AZ,,1957.0,,342
-AZ,F,1934.0,Alex,90
- AZ ,M,1939.0,James,745
-AZ,F,1952.0,Alex,586
-AZ,F,1945.0,Casey,89
-AZ,F,1983.0,Patricia,947
-AZ,M,1923.0,Mary,18
-AZ,F,2021.0,Taylor,110
- AZ ,F,1966.0,Alex,68
-AZ,F,1984.0,Jordan,220
-AZ,F,1947.0,Taylor,277
-AZ,F,1939.0,mary,88
-AZ,M,2009.0,Casey,408
-AZ,F,1964.0,Casey,538
-,M,1973.0,Michael,190
-AZ,F,1959.0,Mary,325
-AZ,F,1947.0,Casey,168
-AZ,M,1918.0,Taylor,48
-AZ,,1915.0,Casey,14
-AZ,F,1967.0,Linda,235
-AZ,M,1971.0,John,121
-AZ,F,1915.0,Jennifer,21
+AZ,F,1997,,
+AZ,F,1916,Alex,10
+AZ,F,1978,Jordan,817
+AZ,M,1920,Casey,17
+AZ,F,1955,Taylor,8
+AZ,F,1922,Linda,13
+AZ,M,1941,Taylor,115
+AZ,M,1993,Robert,114
+AZ,M,1965,patricia,487
+AZ,M,2005,James,168
+AZ,F,1996,Taylor,108
+AZ,F,2004,Patricia,284
+AZ,F,1978,Linda,315
+AZ,M,2019,Jordan,15
+AZ,,2009,Robert,111
+AZ,M,2018,,695
+AZ,F,1986,John,81
+AZ,F,1977,alex,65
+AZ,M,1979,Robert,
+AZ,F,2010,Alex,750
+AZ,M,1917,Jordan,73
+AZ,M,2016,,10
+AZ,M,1931,James,39
+AZ,M,2004,,701
+AZ,F,1952,Mary,45
+AZ,F,2011,Casey,625
+AZ,M,1930,jordan,419
+AZ,F,2021,Casey,33
+AZ,,1990,James,
+AZ,M,2002,Robert,6
+AZ,F,1987,Casey,715
+AZ,F,1946,Patricia,23
+AZ,,1957,,342
+AZ,F,1934,Alex,90
+AZ,M,1939,James,745
+AZ,F,1952,Alex,586
+AZ,F,1945,Casey,89
+AZ,F,1983,Patricia,947
+AZ,M,1923,Mary,18
+AZ,F,2021,Taylor,110
+AZ,F,1966,Alex,68
+AZ,F,1984,Jordan,220
+AZ,F,1947,Taylor,277
+AZ,F,1939,mary,88
+AZ,M,2009,Casey,408
+AZ,F,1964,Casey,538
+,M,1973,Michael,190
+AZ,F,1959,Mary,325
+AZ,F,1947,Casey,168
+AZ,M,1918,Taylor,48
+AZ,,1915,Casey,14
+AZ,F,1967,Linda,235
+AZ,M,1971,John,121
+AZ,F,1915,Jennifer,21
 AZ,,,Jennifer,354
 AZ,F,,Patricia,12
- AZ ,F,2013.0,Mary,364
-AZ,F,1989.0,Alex,232
-AZ,F,1961.0,,653
- AZ ,M,1942.0,james,626
-AZ,M,1991.0,Robert,20
-AZ,F,1934.0,Casey,20
-AZ,M,1993.0,John,204
-AZ,F,1942.0,Jennifer,136
-AZ,F,1914.0,Alex,25
-AZ,F,1962.0,Alex,920
-AZ,M,1996.0, Alex ,184
-AZ,,2011.0,Patricia,103
-AZ,M,1988.0,James,402
- AZ ,M,1991.0,Casey,372
-AZ,M,2000.0,John,185
- AZ ,F,1946.0,James,33
+AZ,F,2013,Mary,364
+AZ,F,1989,Alex,232
+AZ,F,1961,,653
+AZ,M,1942,james,626
+AZ,M,1991,Robert,20
+AZ,F,1934,Casey,20
+AZ,M,1993,John,204
+AZ,F,1942,Jennifer,136
+AZ,F,1914,Alex,25
+AZ,F,1962,Alex,920
+AZ,M,1996,Alex,184
+AZ,,2011,Patricia,103
+AZ,M,1988,James,402
+AZ,M,1991,Casey,372
+AZ,M,2000,John,185
+AZ,F,1946,James,33
 AZ,F,,Taylor,192
-AZ,M,2007.0,Taylor,140
-AZ, M ,1933.0,Alex,307
- AZ ,F,2001.0,Jennifer,256
+AZ,M,2007,Taylor,140
+AZ,M,1933,Alex,307
+AZ,F,2001,Jennifer,256
 AZ,F,,Mary,482
-AZ,M,1966.0,Jordan,189
-AZ,F,1946.0,Linda,31
-AZ,M,1946.0, Jordan ,
-AZ,M,1999.0,Casey,
-AZ,M,1967.0,Taylor,412
- AZ ,F,1969.0,Mary,331
-AZ,M,1955.0,Michael,150
-AZ,F,1995.0,Alex,362
-AZ,M,1973.0,Jordan,306
-AZ, M ,2010.0,Casey,35
-,F,1958.0,Patricia,161
-AZ,,1957.0,Robert,846
- AZ ,F,1987.0, Mary ,450
-AZ,M,1972.0,Jordan,184
-,M,1978.0,John,226
-AZ,M,1916.0,John,12
-AZ,F,1963.0,,60
-AZ,F,1986.0,Casey,369
-AZ,F,1961.0,Mary,41
-AZ,M,2001.0,James,51
- AZ ,F,2005.0,Jordan,936
-AZ,M,2021.0,alex,18
-AZ,M,1973.0,Taylor,127
-AZ,F,1993.0,mary,17
-AZ,F,2007.0,Alex,234
-AZ,F,2008.0,Mary,154
- AZ ,M,1941.0, John ,21
-AZ,M,1937.0,Robert,518
-AZ,F,2005.0,Casey,693
-AZ, F ,1974.0,Patricia,368
-AZ, F ,2019.0,Jordan,48
+AZ,M,1966,Jordan,189
+AZ,F,1946,Linda,31
+AZ,M,1946,Jordan,
+AZ,M,1999,Casey,
+AZ,M,1967,Taylor,412
+AZ,F,1969,Mary,331
+AZ,M,1955,Michael,150
+AZ,F,1995,Alex,362
+AZ,M,1973,Jordan,306
+AZ,M,2010,Casey,35
+,F,1958,Patricia,161
+AZ,,1957,Robert,846
+AZ,F,1987,Mary,450
+AZ,M,1972,Jordan,184
+,M,1978,John,226
+AZ,M,1916,John,12
+AZ,F,1963,,60
+AZ,F,1986,Casey,369
+AZ,F,1961,Mary,41
+AZ,M,2001,James,51
+AZ,F,2005,Jordan,936
+AZ,M,2021,alex,18
+AZ,M,1973,Taylor,127
+AZ,F,1993,mary,17
+AZ,F,2007,Alex,234
+AZ,F,2008,Mary,154
+AZ,M,1941,John,21
+AZ,M,1937,Robert,518
+AZ,F,2005,Casey,693
+AZ,F,1974,Patricia,368
+AZ,F,2019,Jordan,48
 AZ,M,,Casey,7
-AZ,M,1930.0,Alex,118
-AZ,F,1962.0, Michael ,207
-AZ,F,2019.0,Jennifer,26
-AZ,F,2010.0,Linda,41
-AZ,,1921.0,Jordan,120
- AZ ,F,2001.0, Jordan ,177
-AZ,F,1995.0,Casey,150
-AZ,F,1995.0,Mary,54
-AZ,F,1911.0,casey,100
-AZ,F,1957.0,Taylor,769
- AZ ,M,1996.0,Michael,1050
- AZ ,,1924.0,Jennifer,5
-AZ,F,1933.0,Patricia,78
-AZ,F,1974.0,Taylor,139
-AZ,M,1996.0,James,20
- AZ ,M,2002.0,Michael,47
-AZ,M,1957.0,James,
-AZ, F ,1967.0,Alex,438
-AZ,F,1932.0,mary,224
-AZ,F,1950.0,Casey,719
-AZ,F,1965.0,Linda,70
-AZ, M ,1994.0,Alex,179
- AZ ,F,1921.0,Linda,28
-AZ,F,1985.0,jordan,208
-AZ,M,1945.0,Michael,103
-AZ,F,1951.0,Jennifer,1036
-AZ, M ,1967.0,Jordan,1072
+AZ,M,1930,Alex,118
+AZ,F,1962,Michael,207
+AZ,F,2019,Jennifer,26
+AZ,F,2010,Linda,41
+AZ,,1921,Jordan,120
+AZ,F,2001,Jordan,177
+AZ,F,1995,Casey,150
+AZ,F,1995,Mary,54
+AZ,F,1911,casey,100
+AZ,F,1957,Taylor,769
+AZ,M,1996,Michael,1050
+AZ,,1924,Jennifer,5
+AZ,F,1933,Patricia,78
+AZ,F,1974,Taylor,139
+AZ,M,1996,James,20
+AZ,M,2002,Michael,47
+AZ,M,1957,James,
+AZ,F,1967,Alex,438
+AZ,F,1932,mary,224
+AZ,F,1950,Casey,719
+AZ,F,1965,Linda,70
+AZ,M,1994,Alex,179
+AZ,F,1921,Linda,28
+AZ,F,1985,jordan,208
+AZ,M,1945,Michael,103
+AZ,F,1951,Jennifer,1036
+AZ,M,1967,Jordan,1072
 AZ,F,,Jennifer,24
-,F,1946.0,Taylor,10
-AZ,M,1970.0,Jordan,482
- AZ ,,1968.0,Jordan,549
-AZ,,1952.0,Casey,545
-AZ,M,1937.0,taylor,36
-AZ,M,2021.0, Jordan ,9
-AZ,M,2003.0,robert,141
-AZ,F,1930.0,Casey,30
-AZ,M,1966.0,Alex,521
-AZ,F,1966.0,Jordan,574
-,M,1964.0,Taylor,131
-AZ,F,1975.0,Alex,222
-AZ,F,2004.0,Alex,502
-AZ,M,1936.0,Casey,419
-AZ,M,1964.0,Michael,815
-AZ,F,1998.0,Mary,189
-AZ,F,1981.0,Patricia,341
-AZ,F,2007.0,Mary,316
-AZ,F,1979.0,Jennifer,1129
-AZ,M,2015.0,Mary,43
-AZ,F,1954.0,Alex,71
-AZ,M,1959.0,John,46
-AZ,F,1984.0,Mary,411
-AZ,,1985.0,Michael,
-AZ,M,1983.0,Jordan,51
- AZ ,F,1950.0,Jennifer,269
-AZ,M,2006.0,Jordan,618
-AZ,F,1945.0,Alex,205
-AZ,F,1978.0,James,646
-AZ,F,2013.0,Jennifer,130
- AZ ,M,1981.0,John,218
-AZ,M,1945.0,Alex,742
-AZ,M,1941.0,,160
-AZ,F,1926.0,Jennifer,11
- AZ ,F,1952.0,Robert,170
+,F,1946,Taylor,10
+AZ,M,1970,Jordan,482
+AZ,,1968,Jordan,549
+AZ,,1952,Casey,545
+AZ,M,1937,taylor,36
+AZ,M,2021,Jordan,9
+AZ,M,2003,robert,141
+AZ,F,1930,Casey,30
+AZ,M,1966,Alex,521
+AZ,F,1966,Jordan,574
+,M,1964,Taylor,131
+AZ,F,1975,Alex,222
+AZ,F,2004,Alex,502
+AZ,M,1936,Casey,419
+AZ,M,1964,Michael,815
+AZ,F,1998,Mary,189
+AZ,F,1981,Patricia,341
+AZ,F,2007,Mary,316
+AZ,F,1979,Jennifer,1129
+AZ,M,2015,Mary,43
+AZ,F,1954,Alex,71
+AZ,M,1959,John,46
+AZ,F,1984,Mary,411
+AZ,,1985,Michael,
+AZ,M,1983,Jordan,51
+AZ,F,1950,Jennifer,269
+AZ,M,2006,Jordan,618
+AZ,F,1945,Alex,205
+AZ,F,1978,James,646
+AZ,F,2013,Jennifer,130
+AZ,M,1981,John,218
+AZ,M,1945,Alex,742
+AZ,M,1941,,160
+AZ,F,1926,Jennifer,11
+AZ,F,1952,Robert,170
 AZ,M,,Jordan,121
-AZ,M,1977.0,Taylor,1046
-AZ,M,2016.0,John,290
-AZ,M,1946.0,James,7
-AZ,F,1961.0,Taylor,213
-AZ,,1981.0,Robert,310
-AZ,M,1964.0,Casey,5
-AZ,F,2015.0,Mary,100
-AZ,M,1930.0,Casey,220
-AZ,F,2017.0,Mary,461
-AZ,F,1958.0,Alex,176
-AZ,M,1941.0,Casey,46
-AZ, F ,1956.0,Taylor,84
-AZ,F,2021.0,Linda,276
-AZ,M,1959.0,Taylor,648
-AZ,,1960.0,Casey,531
-AZ,F,2006.0,Jordan,189
-AZ,F,1932.0,Jennifer,14
-AZ, F ,2013.0,Alex,197
-AZ,M,1950.0,Michael,21
-AZ,M,2001.0,Jordan,88
-AZ,M,1966.0,,257
-AZ,F,1999.0, Alex ,18
-AZ,M,1993.0,Michael,690
-AZ,M,1925.0,Michael,55
-AZ, M ,1961.0,Robert,22
-AZ,F,1979.0,Alex,61
-AZ,M,1940.0,Michael,17
-AZ,M,1960.0,James,362
-AZ,F,1947.0,Jordan,8
-AZ,M,1937.0,Alex,130
-AZ,F,1961.0,Linda,472
-,M,1917.0,Taylor,8
-AZ,F,1933.0,Linda,12
-AZ,F,1964.0,jennifer,18
-AZ,F,2012.0, Jennifer ,567
-AZ,F,1944.0,Alex,238
-AZ,M,1953.0,Michael,6
-AZ,F,1944.0,Alex,238
-AZ,M,2019.0, Casey ,8
-AZ,F,1958.0, Linda ,241
-AZ,M,2001.0,Robert,569
-AZ,M,1964.0,james,1193
-AZ,F,2018.0,Jennifer,574
+AZ,M,1977,Taylor,1046
+AZ,M,2016,John,290
+AZ,M,1946,James,7
+AZ,F,1961,Taylor,213
+AZ,,1981,Robert,310
+AZ,M,1964,Casey,5
+AZ,F,2015,Mary,100
+AZ,M,1930,Casey,220
+AZ,F,2017,Mary,461
+AZ,F,1958,Alex,176
+AZ,M,1941,Casey,46
+AZ,F,1956,Taylor,84
+AZ,F,2021,Linda,276
+AZ,M,1959,Taylor,648
+AZ,,1960,Casey,531
+AZ,F,2006,Jordan,189
+AZ,F,1932,Jennifer,14
+AZ,F,2013,Alex,197
+AZ,M,1950,Michael,21
+AZ,M,2001,Jordan,88
+AZ,M,1966,,257
+AZ,F,1999,Alex,18
+AZ,M,1993,Michael,690
+AZ,M,1925,Michael,55
+AZ,M,1961,Robert,22
+AZ,F,1979,Alex,61
+AZ,M,1940,Michael,17
+AZ,M,1960,James,362
+AZ,F,1947,Jordan,8
+AZ,M,1937,Alex,130
+AZ,F,1961,Linda,472
+,M,1917,Taylor,8
+AZ,F,1933,Linda,12
+AZ,F,1964,jennifer,18
+AZ,F,2012,Jennifer,567
+AZ,F,1944,Alex,238
+AZ,M,1953,Michael,6
+AZ,F,1944,Alex,238
+AZ,M,2019,Casey,8
+AZ,F,1958,Linda,241
+AZ,M,2001,Robert,569
+AZ,M,1964,james,1193
+AZ,F,2018,Jennifer,574
 AZ,F,,Patricia,11
-AZ,M,1940.0,Taylor,22
-AZ,F,2016.0,Jordan,41
-AZ,M,1976.0,James,64
-AZ,F,1926.0,Linda,215
-AZ, F ,1948.0,Jennifer,115
-AZ,,2009.0,Robert,10
- AZ ,M,1978.0,Michael,459
-AZ,F,1939.0, Taylor ,248
-AZ,F,1913.0, Patricia ,5
-AZ,M,1913.0,Taylor,10
-AZ,F,1981.0,casey,342
-AZ,F,1960.0,Jennifer,57
- AZ , F ,1954.0,Michael,449
-AZ,F,1980.0,Patricia,217
-AZ,F,1950.0,Taylor,283
-AZ,M,1965.0,Alex,194
-AZ,F,1974.0,casey,
- AZ ,F,1976.0,Mary,41
-AZ,M,2018.0,Taylor,531
-AZ,F,1912.0,Linda,94
-AZ,F,2011.0,Taylor,59
-AZ,,2006.0,Robert,23
-AZ,F,2000.0,Mary,112
-AZ,F,1957.0,Jennifer,25
-AZ,F,1997.0,,398
-AZ,M,1951.0,Taylor,20
-AZ,F,1956.0,Alex,249
-AZ,M,1986.0,Jordan,490
-AZ,,1998.0,Jennifer,442
-AZ,F,2002.0,Linda,237
-AZ,F,2014.0,Jennifer,
-AZ,F,1985.0, Mary ,645
-AZ,M,2005.0,Robert,9
-AZ,M,1968.0,Alex,42
+AZ,M,1940,Taylor,22
+AZ,F,2016,Jordan,41
+AZ,M,1976,James,64
+AZ,F,1926,Linda,215
+AZ,F,1948,Jennifer,115
+AZ,,2009,Robert,10
+AZ,M,1978,Michael,459
+AZ,F,1939,Taylor,248
+AZ,F,1913,Patricia,5
+AZ,M,1913,Taylor,10
+AZ,F,1981,casey,342
+AZ,F,1960,Jennifer,57
+AZ,F,1954,Michael,449
+AZ,F,1980,Patricia,217
+AZ,F,1950,Taylor,283
+AZ,M,1965,Alex,194
+AZ,F,1974,casey,
+AZ,F,1976,Mary,41
+AZ,M,2018,Taylor,531
+AZ,F,1912,Linda,94
+AZ,F,2011,Taylor,59
+AZ,,2006,Robert,23
+AZ,F,2000,Mary,112
+AZ,F,1957,Jennifer,25
+AZ,F,1997,,398
+AZ,M,1951,Taylor,20
+AZ,F,1956,Alex,249
+AZ,M,1986,Jordan,490
+AZ,,1998,Jennifer,442
+AZ,F,2002,Linda,237
+AZ,F,2014,Jennifer,
+AZ,F,1985,Mary,645
+AZ,M,2005,Robert,9
+AZ,M,1968,Alex,42
 AZ,M,,Michael,299
-AZ,F,1977.0,Jennifer,54
-AZ,F,1977.0,Taylor,375
-AZ,F,1960.0,Taylor,570
-AZ,M,1920.0,Taylor,11
-AZ,M,1940.0,John,23
-AZ, F ,1956.0,Jordan,551
-AZ, M ,2000.0,Jordan,32
-AZ,F,2004.0,Mary,815
+AZ,F,1977,Jennifer,54
+AZ,F,1977,Taylor,375
+AZ,F,1960,Taylor,570
+AZ,M,1920,Taylor,11
+AZ,M,1940,John,23
+AZ,F,1956,Jordan,551
+AZ,M,2000,Jordan,32
+AZ,F,2004,Mary,815
 AZ,M,,John,609
-AZ,,1982.0,Linda,176
-AZ, M ,1984.0,Casey,6
-AZ,M,1967.0,James,175
+AZ,,1982,Linda,176
+AZ,M,1984,Casey,6
+AZ,M,1967,James,175
 AZ,F,,Jordan,131
-AZ,F,1933.0,,
-,M,1945.0, Jordan ,78
-AZ,F,1978.0,,78
-AZ,F,1963.0,Alex,937
-AZ,M,2015.0,Jordan,31
-,M,2018.0,Jordan,49
-AZ,,1970.0,mary,616
-AZ,F,1969.0,Robert,54
- AZ , M ,2006.0,Casey,21
-AZ,F,2019.0,Taylor,43
-AZ,M,1918.0,John,17
-AZ,F,2004.0,Linda,186
-AZ, M ,1924.0,Jordan,111
-AZ,F,1930.0,Michael,46
-AZ,M,1983.0,James,184
-AZ,F,2011.0,Jennifer,294
-AZ,F,1941.0,Linda,54
-AZ,F,2003.0, Jordan ,151
- AZ ,M,2021.0,Michael,62
-AZ,M,1913.0,Casey,44
-AZ,M,1940.0,,61
-AZ,F,2010.0,Jordan,516
-AZ,F,2005.0,Alex,42
-AZ,F,1917.0,Jennifer,33
+AZ,F,1933,,
+,M,1945,Jordan,78
+AZ,F,1978,,78
+AZ,F,1963,Alex,937
+AZ,M,2015,Jordan,31
+,M,2018,Jordan,49
+AZ,,1970,mary,616
+AZ,F,1969,Robert,54
+AZ,M,2006,Casey,21
+AZ,F,2019,Taylor,43
+AZ,M,1918,John,17
+AZ,F,2004,Linda,186
+AZ,M,1924,Jordan,111
+AZ,F,1930,Michael,46
+AZ,M,1983,James,184
+AZ,F,2011,Jennifer,294
+AZ,F,1941,Linda,54
+AZ,F,2003,Jordan,151
+AZ,M,2021,Michael,62
+AZ,M,1913,Casey,44
+AZ,M,1940,,61
+AZ,F,2010,Jordan,516
+AZ,F,2005,Alex,42
+AZ,F,1917,Jennifer,33
 AZ,,,Casey,24
-AZ,F,1925.0,taylor,13
-AZ,M,1936.0,Robert,40
+AZ,F,1925,taylor,13
+AZ,M,1936,Robert,40
 AZ,M,,Michael,117
-AZ,M,1957.0,Alex,150
-AZ,F,1927.0,,194
-,F,2009.0,Linda,158
-AZ,F,1972.0,Patricia,403
-AZ,M,2016.0,Taylor,33
-AZ, F ,1964.0,Patricia,147
-AZ,M,1918.0,Michael,30
-AZ,F,1996.0,Jennifer,465
-,M,1973.0,James,48
-AZ,M,1943.0,Robert,106
-AZ,M,1977.0,Michael,182
-AZ,M,1954.0,James,93
-AZ,M,1990.0,Taylor,208
-AZ,F,1977.0,John,116
-AZ,F,1947.0,Jennifer,802
-AZ,F,1932.0,Linda,15
-AZ,M,1986.0, Alex ,175
-AZ,F,1916.0,John,10
-AZ,M,1948.0,Casey,30
- AZ ,F,,Mary,72
-AZ,F,1951.0,Alex,544
-AZ,F,1972.0,Mary,1004
-, M ,2000.0,,114
-AZ,M,2016.0,Robert,128
- AZ , F ,1995.0,jordan,273
-AZ,F,1935.0,Jennifer,197
-AZ,M,2002.0,John,
-AZ,M,1954.0,Casey,111
- AZ ,M,1946.0,Taylor,90
-AZ,,1995.0,Linda,92
-AZ, M ,1939.0,Jordan,286
- AZ ,F,2022.0,Linda,5
- AZ , M ,2015.0,Casey,129
-AZ,F,1969.0,Taylor,763
-AZ,M,2004.0,John,20
-AZ,F,2007.0,Mary,316
-AZ,M,2014.0,Jordan,80
- AZ ,M,1968.0,Taylor,655
-AZ,F,2015.0,Jennifer,162
-AZ,M,1960.0,John,140
-AZ,F,1966.0,Linda,
-AZ,,1987.0,Jordan,226
-AZ,M,1983.0,Alex,372
-, F ,1980.0,Alex,306
-AZ,M,1957.0,,593
-AZ,,1915.0,Casey,62
-AZ,F,1996.0,Linda,303
-AZ,F,1961.0,Jordan,433
-AZ,M,1965.0,Casey,76
-AZ,F,1932.0,Jordan,87
-AZ,M,2017.0,Robert,379
-AZ,,1997.0,Linda,254
-AZ,M,1983.0,Taylor,441
+AZ,M,1957,Alex,150
+AZ,F,1927,,194
+,F,2009,Linda,158
+AZ,F,1972,Patricia,403
+AZ,M,2016,Taylor,33
+AZ,F,1964,Patricia,147
+AZ,M,1918,Michael,30
+AZ,F,1996,Jennifer,465
+,M,1973,James,48
+AZ,M,1943,Robert,106
+AZ,M,1977,Michael,182
+AZ,M,1954,James,93
+AZ,M,1990,Taylor,208
+AZ,F,1977,John,116
+AZ,F,1947,Jennifer,802
+AZ,F,1932,Linda,15
+AZ,M,1986,Alex,175
+AZ,F,1916,John,10
+AZ,M,1948,Casey,30
+AZ,F,,Mary,72
+AZ,F,1951,Alex,544
+AZ,F,1972,Mary,1004
+,M,2000,,114
+AZ,M,2016,Robert,128
+AZ,F,1995,jordan,273
+AZ,F,1935,Jennifer,197
+AZ,M,2002,John,
+AZ,M,1954,Casey,111
+AZ,M,1946,Taylor,90
+AZ,,1995,Linda,92
+AZ,M,1939,Jordan,286
+AZ,F,2022,Linda,5
+AZ,M,2015,Casey,129
+AZ,F,1969,Taylor,763
+AZ,M,2004,John,20
+AZ,F,2007,Mary,316
+AZ,M,2014,Jordan,80
+AZ,M,1968,Taylor,655
+AZ,F,2015,Jennifer,162
+AZ,M,1960,John,140
+AZ,F,1966,Linda,
+AZ,,1987,Jordan,226
+AZ,M,1983,Alex,372
+,F,1980,Alex,306
+AZ,M,1957,,593
+AZ,,1915,Casey,62
+AZ,F,1996,Linda,303
+AZ,F,1961,Jordan,433
+AZ,M,1965,Casey,76
+AZ,F,1932,Jordan,87
+AZ,M,2017,Robert,379
+AZ,,1997,Linda,254
+AZ,M,1983,Taylor,441
 AZ,M,,Jordan,16
 AZ,M,,John,250
-AZ,M,1960.0,Taylor,424
-AZ, M ,2017.0,Jordan,84
- AZ ,F,1917.0,Mary,120
-AZ,M,1963.0,Alex,664
-AZ,F,1961.0,Alex,8
+AZ,M,1960,Taylor,424
+AZ,M,2017,Jordan,84
+AZ,F,1917,Mary,120
+AZ,M,1963,Alex,664
+AZ,F,1961,Alex,8
 ,F,,Alex,60
-AZ,M,1927.0,Alex,7
-,,2020.0,Robert,722
-AZ,M,1992.0,Casey,60
-AZ,M,1917.0,Alex,28
-AZ, M ,2012.0,Alex,9
-AZ,M,2005.0,,96
-AZ,F,2010.0,Taylor,1286
-AZ,M,2005.0,jordan,126
-AZ, M ,1934.0,Michael,30
-AZ,,1921.0,Jordan,5
+AZ,M,1927,Alex,7
+,,2020,Robert,722
+AZ,M,1992,Casey,60
+AZ,M,1917,Alex,28
+AZ,M,2012,Alex,9
+AZ,M,2005,,96
+AZ,F,2010,Taylor,1286
+AZ,M,2005,jordan,126
+AZ,M,1934,Michael,30
+AZ,,1921,Jordan,5
 AZ,M,,Robert,166
-AZ,F,1994.0,Jennifer,515
-,M,2019.0,John,30
-AZ, M ,2014.0,Alex,16
-AZ,F,1965.0,patricia,598
-AZ,F,1985.0,Taylor,168
-AZ,M,1961.0, John ,
+AZ,F,1994,Jennifer,515
+,M,2019,John,30
+AZ,M,2014,Alex,16
+AZ,F,1965,patricia,598
+AZ,F,1985,Taylor,168
+AZ,M,1961,John,
 AZ,M,,Alex,210
-AZ,M,1985.0, Jordan ,458
+AZ,M,1985,Jordan,458
 AZ,M,,Jordan,870
-AZ, M ,1967.0,John,832
-AZ, F ,1970.0,Alex,74
-AZ,M,2001.0,Michael,27
-AZ,M,2003.0,James,732
-AZ,F,1984.0,Patricia,1042
-AZ,F,1973.0,Mary,110
-AZ,M,2005.0,Alex,73
-AZ,F,1946.0,Casey,87
-AZ,M,1958.0,Casey,226
-AZ, F ,1972.0,Taylor,657
-AZ,M,1969.0,Alex,51
-AZ,M,1949.0,Michael,10
-AZ,M,1967.0,Alex,141
-,M,2007.0,Jordan,449
-AZ,M,2012.0,,20
-AZ,M,1987.0,,575
-,,1997.0,Mary,224
-AZ,F,1969.0,Casey,73
-AZ,F,1976.0,Jordan,
-AZ,M,1947.0,John,23
- AZ ,F,1930.0,Alex,100
-AZ,F,1966.0,taylor,65
-AZ,M,1925.0,Robert,50
-AZ,M,1963.0,Casey,203
-AZ,M,1954.0,John,15
-AZ,F,1929.0,Alex,209
-AZ,F,1941.0,Jordan,146
-AZ,M,1992.0,Robert,383
-AZ,M,2008.0,Jordan,132
-AZ,M,1982.0,Robert,514
-AZ,F,1968.0,Patricia,256
-AZ,F,1976.0,Linda,159
-AZ, F ,1964.0,Taylor,138
-AZ,F,2009.0,Alex,827
- AZ ,F,2015.0,Jordan,111
- AZ , F ,2005.0,John,411
- AZ , M ,1962.0,,627
-AZ,M,1989.0, James ,240
-AZ,M,1929.0,James,78
-AZ,M,1941.0,Jordan,14
-AZ,M,1956.0,Linda,394
-,F,1970.0,Taylor,79
-AZ,M,1938.0,Michael,353
-AZ,M,1991.0,John,
-AZ,M,1979.0, Casey ,267
-AZ,F,2021.0,Jennifer,45
-AZ,M,1981.0,Casey,161
-AZ,,1958.0,Jordan,12
-AZ,M,1982.0,Jordan,110
-AZ,M,1959.0,James,219
-AZ,F,1939.0,Jennifer,20
-AZ,M,1979.0,John,70
-AZ,F,1950.0,Taylor,283
-AZ,F,1944.0,Jordan,86
-AZ,F,2022.0,Jordan,6
-AZ,F,1983.0,Alex,291
-AZ,F,1947.0,Patricia,59
- AZ ,F,1946.0,Mary,
-AZ,M,1951.0,Jordan,95
-AZ,F,1979.0,Mary,24
-AZ,M,1956.0,Robert,39
-AZ,M,1980.0,Robert,482
-AZ,M,1953.0,Alex,137
-AZ,M,1964.0,Robert,70
-AZ,M,1957.0,James,
- AZ ,M,2013.0,James,337
- AZ ,M,2022.0,Casey,171
-AZ, M ,1947.0,Jordan,27
-AZ,M,1974.0,John,185
-AZ,,2018.0,Patricia,304
-,M,1952.0,Robert,1053
+AZ,M,1967,John,832
+AZ,F,1970,Alex,74
+AZ,M,2001,Michael,27
+AZ,M,2003,James,732
+AZ,F,1984,Patricia,1042
+AZ,F,1973,Mary,110
+AZ,M,2005,Alex,73
+AZ,F,1946,Casey,87
+AZ,M,1958,Casey,226
+AZ,F,1972,Taylor,657
+AZ,M,1969,Alex,51
+AZ,M,1949,Michael,10
+AZ,M,1967,Alex,141
+,M,2007,Jordan,449
+AZ,M,2012,,20
+AZ,M,1987,,575
+,,1997,Mary,224
+AZ,F,1969,Casey,73
+AZ,F,1976,Jordan,
+AZ,M,1947,John,23
+AZ,F,1930,Alex,100
+AZ,F,1966,taylor,65
+AZ,M,1925,Robert,50
+AZ,M,1963,Casey,203
+AZ,M,1954,John,15
+AZ,F,1929,Alex,209
+AZ,F,1941,Jordan,146
+AZ,M,1992,Robert,383
+AZ,M,2008,Jordan,132
+AZ,M,1982,Robert,514
+AZ,F,1968,Patricia,256
+AZ,F,1976,Linda,159
+AZ,F,1964,Taylor,138
+AZ,F,2009,Alex,827
+AZ,F,2015,Jordan,111
+AZ,F,2005,John,411
+AZ,M,1962,,627
+AZ,M,1989,James,240
+AZ,M,1929,James,78
+AZ,M,1941,Jordan,14
+AZ,M,1956,Linda,394
+,F,1970,Taylor,79
+AZ,M,1938,Michael,353
+AZ,M,1991,John,
+AZ,M,1979,Casey,267
+AZ,F,2021,Jennifer,45
+AZ,M,1981,Casey,161
+AZ,,1958,Jordan,12
+AZ,M,1982,Jordan,110
+AZ,M,1959,James,219
+AZ,F,1939,Jennifer,20
+AZ,M,1979,John,70
+AZ,F,1950,Taylor,283
+AZ,F,1944,Jordan,86
+AZ,F,2022,Jordan,6
+AZ,F,1983,Alex,291
+AZ,F,1947,Patricia,59
+AZ,F,1946,Mary,
+AZ,M,1951,Jordan,95
+AZ,F,1979,Mary,24
+AZ,M,1956,Robert,39
+AZ,M,1980,Robert,482
+AZ,M,1953,Alex,137
+AZ,M,1964,Robert,70
+AZ,M,1957,James,
+AZ,M,2013,James,337
+AZ,M,2022,Casey,171
+AZ,M,1947,Jordan,27
+AZ,M,1974,John,185
+AZ,,2018,Patricia,304
+,M,1952,Robert,1053
 AZ,M,,Patricia,572
-AZ,F,1929.0,Jordan,6
-AZ,M,1955.0,Jordan,
- AZ ,M,1950.0,Casey,19
-AZ,F,2014.0,Taylor,10
-AZ,M,1994.0,John,221
-AZ,F,1940.0,Casey,844
-,F,2010.0,Patricia,42
-AZ,M,1998.0,John,235
-AZ,M,1995.0,Alex,1338
-AZ,M,2007.0,Casey,456
-AZ,,1959.0,Jordan,382
- AZ ,F,2012.0,Jordan,331
-,F,1913.0,Jennifer,18
-AZ,F,1974.0,Jennifer,1188
-AZ,F,2007.0,Linda,41
-AZ,M,1966.0, John ,928
-AZ,M,1933.0,Taylor,49
-AZ,F,1972.0,James,791
-AZ,F,2001.0,Linda,34
-AZ,M,1990.0,Michael,695
- AZ ,M,1923.0,Taylor,9
-AZ,M,1957.0,Casey,385
-AZ,F,2008.0,Casey,417
-AZ,F,2002.0,John,439
-AZ, F ,1973.0,Alex,
-AZ,M,1986.0,Casey,812
- AZ ,M,1910.0,James,9
- AZ ,M,2005.0,Casey,12
-AZ,F,1974.0,Alex,
-AZ,F,1923.0,Mary,5
-AZ,M,1927.0,,37
-AZ, M ,1947.0,Alex,93
-, F ,,Jennifer,93
-AZ,F,1960.0,michael,
-,F,2015.0,Linda,6
-AZ,M,2014.0,Taylor,386
-AZ,M,1968.0,casey,59
-AZ,,1975.0,Mary,66
-AZ,,2013.0,Patricia,776
- AZ ,F,1993.0,James,470
-AZ,M,1993.0,,675
- AZ ,,1963.0,Jordan,332
-,M,1951.0,James,398
-AZ,F,1978.0,Jennifer,61
-AZ,F,2015.0,Robert,19
-AZ,F,1979.0,Linda,66
- AZ , F ,1988.0,Jennifer,514
-AZ,F,1983.0,Taylor,26
-AZ,M,1995.0,John,437
-AZ,F,1940.0,Patricia,77
-AZ,F,1955.0,Mary,265
-AZ,M,1993.0,James,156
- AZ ,M,1919.0,James,17
-AZ, F ,1955.0,Casey,231
-AZ,M,2000.0,Casey,340
-AZ,M,1955.0,Robert,802
-AZ,M,1949.0,Taylor,231
- AZ ,F,1944.0,Taylor,83
- AZ ,F,2019.0,,126
-AZ,M,1999.0,James,801
-,F,1919.0,alex,74
-AZ,M,1916.0,Jordan,9
-,M,1921.0,Patricia,98
-AZ,F,1991.0,Patricia,252
-AZ,M,1946.0,Alex,82
-AZ,F,2000.0,Taylor,254
-AZ,M,1965.0,James,324
-AZ,M,1949.0,James,227
-AZ,M,1948.0,john,206
-,M,1974.0,Michael,471
-AZ,F,1979.0,Casey,621
-AZ, F ,2000.0,Linda,49
-AZ,M,1932.0,linda,120
-AZ,M,1971.0,Casey,154
-AZ,F,1994.0,Linda,341
- AZ ,,1953.0,John,52
-AZ,M,2021.0,Taylor,75
+AZ,F,1929,Jordan,6
+AZ,M,1955,Jordan,
+AZ,M,1950,Casey,19
+AZ,F,2014,Taylor,10
+AZ,M,1994,John,221
+AZ,F,1940,Casey,844
+,F,2010,Patricia,42
+AZ,M,1998,John,235
+AZ,M,1995,Alex,1338
+AZ,M,2007,Casey,456
+AZ,,1959,Jordan,382
+AZ,F,2012,Jordan,331
+,F,1913,Jennifer,18
+AZ,F,1974,Jennifer,1188
+AZ,F,2007,Linda,41
+AZ,M,1966,John,928
+AZ,M,1933,Taylor,49
+AZ,F,1972,James,791
+AZ,F,2001,Linda,34
+AZ,M,1990,Michael,695
+AZ,M,1923,Taylor,9
+AZ,M,1957,Casey,385
+AZ,F,2008,Casey,417
+AZ,F,2002,John,439
+AZ,F,1973,Alex,
+AZ,M,1986,Casey,812
+AZ,M,1910,James,9
+AZ,M,2005,Casey,12
+AZ,F,1974,Alex,
+AZ,F,1923,Mary,5
+AZ,M,1927,,37
+AZ,M,1947,Alex,93
+,F,,Jennifer,93
+AZ,F,1960,michael,
+,F,2015,Linda,6
+AZ,M,2014,Taylor,386
+AZ,M,1968,casey,59
+AZ,,1975,Mary,66
+AZ,,2013,Patricia,776
+AZ,F,1993,James,470
+AZ,M,1993,,675
+AZ,,1963,Jordan,332
+,M,1951,James,398
+AZ,F,1978,Jennifer,61
+AZ,F,2015,Robert,19
+AZ,F,1979,Linda,66
+AZ,F,1988,Jennifer,514
+AZ,F,1983,Taylor,26
+AZ,M,1995,John,437
+AZ,F,1940,Patricia,77
+AZ,F,1955,Mary,265
+AZ,M,1993,James,156
+AZ,M,1919,James,17
+AZ,F,1955,Casey,231
+AZ,M,2000,Casey,340
+AZ,M,1955,Robert,802
+AZ,M,1949,Taylor,231
+AZ,F,1944,Taylor,83
+AZ,F,2019,,126
+AZ,M,1999,James,801
+,F,1919,alex,74
+AZ,M,1916,Jordan,9
+,M,1921,Patricia,98
+AZ,F,1991,Patricia,252
+AZ,M,1946,Alex,82
+AZ,F,2000,Taylor,254
+AZ,M,1965,James,324
+AZ,M,1949,James,227
+AZ,M,1948,john,206
+,M,1974,Michael,471
+AZ,F,1979,Casey,621
+AZ,F,2000,Linda,49
+AZ,M,1932,linda,120
+AZ,M,1971,Casey,154
+AZ,F,1994,Linda,341
+AZ,,1953,John,52
+AZ,M,2021,Taylor,75
 AZ,M,,Michael,97
-AZ,F,1962.0,Alex,920
-AZ,M,1911.0,Robert,
-AZ,M,1975.0,Michael,50
+AZ,F,1962,Alex,920
+AZ,M,1911,Robert,
+AZ,M,1975,Michael,50
 AZ,F,,Jordan,25
-AZ,F,1941.0,Casey,579
-AZ,F,1968.0,Casey,147
-AZ,F,1953.0,Michael,219
-AZ,F,2008.0,Jennifer,288
-AZ,M,2011.0,Casey,44
-AZ,M,1962.0, Casey ,340
-AZ,F,1943.0,Jordan,16
-AZ,F,1940.0,Mary,43
-,F,2012.0,Alex,10
-AZ,F,1986.0,Mary,393
-AZ,M,1963.0,,685
- AZ ,F,1993.0,Casey,72
-AZ,M,1929.0,John,22
-AZ,M,1978.0,James,
-AZ,M,1961.0,Jordan,40
-AZ,M,1927.0,Michael,50
-AZ,M,1966.0,Alex,521
-AZ,M,2011.0,Jordan,582
-AZ,F,1987.0,Taylor,208
- AZ ,M,1924.0,Alex,323
-AZ,M,1948.0,john,206
-AZ,M,1968.0,Michael,803
-AZ, M ,1994.0,Casey,533
-AZ, M ,1999.0,Taylor,107
-AZ,F,2014.0,Linda,24
-AZ,M,2011.0,Robert,194
-AZ,F,1942.0,Mary,7
-AZ,M,1932.0,James,9
-AZ,M,2008.0,Robert,327
-AZ,F,1938.0,Patricia,236
-AZ,F,1958.0,Taylor,479
- AZ ,M,2007.0,James,30
-AZ,M,1949.0,Casey,164
-AZ,F,1946.0, Jennifer ,319
-AZ,F,2005.0,Patricia,9
-AZ, F ,1992.0,Mary,196
-AZ, F ,2007.0,Casey,925
- AZ ,M,1981.0,Alex,273
-AZ, M ,1948.0,Alex,295
- AZ , M ,1974.0,Patricia,18
-AZ,F,1991.0,Jordan,804
-AZ,M,1956.0, James ,35
-,M,1981.0,Jordan,
-AZ,M,1952.0,Jordan,6
- AZ ,M,2017.0,Taylor,122
- AZ ,F,1968.0,jennifer,460
-AZ, F ,1956.0, Linda ,258
-AZ,F,1980.0,Linda,610
-AZ,F,1973.0,Jordan,463
-AZ,M,1959.0,James,219
-AZ,F,1969.0,Jennifer,169
-AZ,M,1986.0,Robert,64
- AZ ,F,1968.0,Linda,504
-AZ,M,1927.0,Jordan,120
-AZ,F,1991.0,Patricia,252
-AZ,M,1989.0,Alex,29
-,F,2015.0,Linda,6
-AZ,F,1942.0,Linda,512
-AZ,,1925.0,Casey,42
-AZ,M,1970.0,John,783
- AZ ,M,2016.0,Jordan,70
- AZ ,F,2001.0,Mary,156
-AZ,F,1976.0,Patricia,112
-AZ,F,1971.0,Jordan,588
-AZ,,1912.0,Alex,
-AZ,F,2005.0, Mary ,139
-AZ,F,2001.0,Taylor,27
-AZ,F,1962.0,Linda,199
-AZ,M,2000.0,Mary,293
-AZ,,1942.0,Michael,14
-AZ,,1957.0,Casey,35
-AZ,F,1940.0,Alex,6
-AZ,F,1931.0,Casey,12
-AZ,F,1967.0,Jennifer,162
-,M,1964.0,,201
-AZ,M,1935.0,Taylor,692
- AZ ,M,1937.0,James,124
-AZ,,1973.0,Alex,255
-AZ,F,1997.0,,27
-AZ,M,1989.0,John,432
-AZ,F,1972.0,Casey,691
-AZ,M,1934.0,John,148
-AZ,M,2006.0,Michael,1098
-AZ,M,1973.0,Robert,397
-AZ,F,1969.0,Linda,490
-AZ,F,1966.0,Patricia,542
-,F,1922.0,Taylor,23
-AZ,M,1983.0,John,143
-AZ,F,1978.0,Taylor,374
-AZ,F,1963.0,Jordan,353
- AZ ,F,2016.0,Casey,604
-,M,1991.0,,6
- AZ ,F,2009.0,Patricia,891
-AZ,M,1942.0,Robert,63
-AZ,M,1958.0,Robert,332
- AZ ,F,1952.0,Robert,170
-AZ,F,1992.0,Patricia,555
-,M,1995.0, Robert ,312
-AZ,M,2019.0,Michael,7
-AZ,M,1936.0,Michael,7
-AZ,M,1982.0,Alex,209
-AZ, M ,1960.0,Casey,504
-AZ,F,1996.0,Jordan,944
-AZ,F,1944.0,Linda,24
-AZ,F,1938.0,Taylor,417
- AZ ,,1927.0, Jordan ,9
-AZ,M,1974.0, Casey ,587
-AZ, M ,1998.0,Taylor,521
-AZ,F,1998.0,Alex,663
-AZ,F,1950.0,Mary,135
-AZ,F,1979.0,Patricia,512
-AZ,F,2013.0,Linda,39
-AZ,M,1949.0,John,125
-AZ,M,1935.0,Casey,270
-AZ,F,1914.0,Jordan,7
- AZ ,M,1952.0,Taylor,323
-AZ,M,1934.0,Mary,8
- AZ ,F,1969.0,Patricia,198
-AZ,F,1925.0,Alex,21
-AZ,M,1930.0,James,133
-,M,1950.0,alex,5
-AZ,M,1986.0,James,97
-AZ,M,1910.0, Michael ,32
-AZ, F ,1963.0,Casey,108
-AZ,F,1965.0,Taylor,363
-AZ,M,1928.0,Robert,313
-AZ,M,1969.0,Casey,274
-AZ,M,1958.0,James,101
-,M,1924.0,John,244
- AZ ,M,1998.0,Alex,13
-AZ, M ,1986.0,John,183
-AZ,M,1924.0,James,10
- AZ ,F,2013.0,jordan,546
-AZ,,1998.0,Robert,165
- AZ ,F,1942.0,Taylor,6
-AZ,F,1951.0,Taylor,379
-AZ,M,1976.0,James,64
-AZ,F,2006.0, Mary ,139
- AZ ,M,1998.0,Casey,221
-AZ,M,1998.0,James,45
+AZ,F,1941,Casey,579
+AZ,F,1968,Casey,147
+AZ,F,1953,Michael,219
+AZ,F,2008,Jennifer,288
+AZ,M,2011,Casey,44
+AZ,M,1962,Casey,340
+AZ,F,1943,Jordan,16
+AZ,F,1940,Mary,43
+,F,2012,Alex,10
+AZ,F,1986,Mary,393
+AZ,M,1963,,685
+AZ,F,1993,Casey,72
+AZ,M,1929,John,22
+AZ,M,1978,James,
+AZ,M,1961,Jordan,40
+AZ,M,1927,Michael,50
+AZ,M,1966,Alex,521
+AZ,M,2011,Jordan,582
+AZ,F,1987,Taylor,208
+AZ,M,1924,Alex,323
+AZ,M,1948,john,206
+AZ,M,1968,Michael,803
+AZ,M,1994,Casey,533
+AZ,M,1999,Taylor,107
+AZ,F,2014,Linda,24
+AZ,M,2011,Robert,194
+AZ,F,1942,Mary,7
+AZ,M,1932,James,9
+AZ,M,2008,Robert,327
+AZ,F,1938,Patricia,236
+AZ,F,1958,Taylor,479
+AZ,M,2007,James,30
+AZ,M,1949,Casey,164
+AZ,F,1946,Jennifer,319
+AZ,F,2005,Patricia,9
+AZ,F,1992,Mary,196
+AZ,F,2007,Casey,925
+AZ,M,1981,Alex,273
+AZ,M,1948,Alex,295
+AZ,M,1974,Patricia,18
+AZ,F,1991,Jordan,804
+AZ,M,1956,James,35
+,M,1981,Jordan,
+AZ,M,1952,Jordan,6
+AZ,M,2017,Taylor,122
+AZ,F,1968,jennifer,460
+AZ,F,1956,Linda,258
+AZ,F,1980,Linda,610
+AZ,F,1973,Jordan,463
+AZ,M,1959,James,219
+AZ,F,1969,Jennifer,169
+AZ,M,1986,Robert,64
+AZ,F,1968,Linda,504
+AZ,M,1927,Jordan,120
+AZ,F,1991,Patricia,252
+AZ,M,1989,Alex,29
+,F,2015,Linda,6
+AZ,F,1942,Linda,512
+AZ,,1925,Casey,42
+AZ,M,1970,John,783
+AZ,M,2016,Jordan,70
+AZ,F,2001,Mary,156
+AZ,F,1976,Patricia,112
+AZ,F,1971,Jordan,588
+AZ,,1912,Alex,
+AZ,F,2005,Mary,139
+AZ,F,2001,Taylor,27
+AZ,F,1962,Linda,199
+AZ,M,2000,Mary,293
+AZ,,1942,Michael,14
+AZ,,1957,Casey,35
+AZ,F,1940,Alex,6
+AZ,F,1931,Casey,12
+AZ,F,1967,Jennifer,162
+,M,1964,,201
+AZ,M,1935,Taylor,692
+AZ,M,1937,James,124
+AZ,,1973,Alex,255
+AZ,F,1997,,27
+AZ,M,1989,John,432
+AZ,F,1972,Casey,691
+AZ,M,1934,John,148
+AZ,M,2006,Michael,1098
+AZ,M,1973,Robert,397
+AZ,F,1969,Linda,490
+AZ,F,1966,Patricia,542
+,F,1922,Taylor,23
+AZ,M,1983,John,143
+AZ,F,1978,Taylor,374
+AZ,F,1963,Jordan,353
+AZ,F,2016,Casey,604
+,M,1991,,6
+AZ,F,2009,Patricia,891
+AZ,M,1942,Robert,63
+AZ,M,1958,Robert,332
+AZ,F,1952,Robert,170
+AZ,F,1992,Patricia,555
+,M,1995,Robert,312
+AZ,M,2019,Michael,7
+AZ,M,1936,Michael,7
+AZ,M,1982,Alex,209
+AZ,M,1960,Casey,504
+AZ,F,1996,Jordan,944
+AZ,F,1944,Linda,24
+AZ,F,1938,Taylor,417
+AZ,,1927,Jordan,9
+AZ,M,1974,Casey,587
+AZ,M,1998,Taylor,521
+AZ,F,1998,Alex,663
+AZ,F,1950,Mary,135
+AZ,F,1979,Patricia,512
+AZ,F,2013,Linda,39
+AZ,M,1949,John,125
+AZ,M,1935,Casey,270
+AZ,F,1914,Jordan,7
+AZ,M,1952,Taylor,323
+AZ,M,1934,Mary,8
+AZ,F,1969,Patricia,198
+AZ,F,1925,Alex,21
+AZ,M,1930,James,133
+,M,1950,alex,5
+AZ,M,1986,James,97
+AZ,M,1910,Michael,32
+AZ,F,1963,Casey,108
+AZ,F,1965,Taylor,363
+AZ,M,1928,Robert,313
+AZ,M,1969,Casey,274
+AZ,M,1958,James,101
+,M,1924,John,244
+AZ,M,1998,Alex,13
+AZ,M,1986,John,183
+AZ,M,1924,James,10
+AZ,F,2013,jordan,546
+AZ,,1998,Robert,165
+AZ,F,1942,Taylor,6
+AZ,F,1951,Taylor,379
+AZ,M,1976,James,64
+AZ,F,2006,Mary,139
+AZ,M,1998,Casey,221
+AZ,M,1998,James,45
 AZ,F,,Jordan,
-AZ,F,1947.0,Linda,8
- AZ ,M,1976.0,Jordan,426
-AZ, M ,1990.0,Casey,481
-AZ,F,1955.0,Patricia,515
-AZ,M,1922.0,James,9
+AZ,F,1947,Linda,8
+AZ,M,1976,Jordan,426
+AZ,M,1990,Casey,481
+AZ,F,1955,Patricia,515
+AZ,M,1922,James,9
 AZ,M,,Michael,426
-AZ,M,1932.0,Robert,44
-AZ,F,1953.0,Patricia,
-AZ,,1978.0,,120
-AZ,F,1959.0,Jordan,639
-AZ,M,1997.0,,19
-AZ,F,1984.0, Alex ,541
-AZ,F,2016.0,Linda,6
-AZ,M,1955.0,John,171
-AZ,F,1957.0,Mary,168
+AZ,M,1932,Robert,44
+AZ,F,1953,Patricia,
+AZ,,1978,,120
+AZ,F,1959,Jordan,639
+AZ,M,1997,,19
+AZ,F,1984,Alex,541
+AZ,F,2016,Linda,6
+AZ,M,1955,John,171
+AZ,F,1957,Mary,168
 ,F,,Alex,67
 AZ,F,,Patricia,99
-AZ,F,1924.0,Alex,227
-AZ,M,1929.0,Patricia,385
-AZ,M,1979.0,Taylor,427
-AZ,F,1953.0,Taylor,170
-AZ,M,1970.0,Robert,47
-AZ,M,1984.0,jordan,155
- AZ ,F,1959.0,Patricia,160
-AZ,F,2018.0,Taylor,7
-AZ, M ,1960.0,Robert,447
-AZ,M,1943.0,Jordan,192
-AZ,,1945.0,Taylor,6
-AZ,F,1928.0,Linda,214
-AZ,M,1990.0,,149
-AZ,F,2020.0,Patricia,393
-AZ,M,1964.0,Alex,188
-AZ,F,1981.0,Linda,1039
-AZ,F,1910.0,Linda,11
-AZ,F,1946.0,Alex,527
+AZ,F,1924,Alex,227
+AZ,M,1929,Patricia,385
+AZ,M,1979,Taylor,427
+AZ,F,1953,Taylor,170
+AZ,M,1970,Robert,47
+AZ,M,1984,jordan,155
+AZ,F,1959,Patricia,160
+AZ,F,2018,Taylor,7
+AZ,M,1960,Robert,447
+AZ,M,1943,Jordan,192
+AZ,,1945,Taylor,6
+AZ,F,1928,Linda,214
+AZ,M,1990,,149
+AZ,F,2020,Patricia,393
+AZ,M,1964,Alex,188
+AZ,F,1981,Linda,1039
+AZ,F,1910,Linda,11
+AZ,F,1946,Alex,527
 AZ,,,Taylor,204
-AZ, M ,1931.0,Mary,6
-AZ, M ,1975.0,Robert,626
-AZ,F,2016.0,Patricia,593
-AZ,M,2009.0,,264
-AZ,F,1994.0,Alex,115
- AZ ,M,1946.0,Michael,135
-AZ,M,1990.0,Alex,541
-AZ,F,1982.0,Taylor,241
-AZ,M,1985.0,Taylor,275
-AZ,F,1931.0,Taylor,44
-AZ,F,1937.0,Jordan,103
-AZ,M,1978.0, Alex ,569
-AZ,F,1981.0,Taylor,167
-AZ,M,1992.0,Linda,311
- AZ ,M,1962.0,James,598
-AZ,F,1970.0,Jordan,480
-AZ,,1994.0,James,104
+AZ,M,1931,Mary,6
+AZ,M,1975,Robert,626
+AZ,F,2016,Patricia,593
+AZ,M,2009,,264
+AZ,F,1994,Alex,115
+AZ,M,1946,Michael,135
+AZ,M,1990,Alex,541
+AZ,F,1982,Taylor,241
+AZ,M,1985,Taylor,275
+AZ,F,1931,Taylor,44
+AZ,F,1937,Jordan,103
+AZ,M,1978,Alex,569
+AZ,F,1981,Taylor,167
+AZ,M,1992,Linda,311
+AZ,M,1962,James,598
+AZ,F,1970,Jordan,480
+AZ,,1994,James,104
 AZ,M,,Alex,184
-AZ,F,1984.0,Linda,475
-AZ,M,1980.0,John,202
-AZ,M,1929.0,Robert,132
-AZ,F,2020.0,Casey,619
-AZ,F,1949.0,Alex,11
-,F,1970.0,Taylor,79
-, M ,1989.0,Robert,90
-AZ,F,2012.0,Casey,6
-AZ,F,2021.0,Mary,287
-AZ,M,1946.0,Robert,32
-,M,1921.0,Taylor,83
-AZ,F,1953.0,Linda,91
-AZ,F,1959.0,Taylor,574
-AZ,F,1932.0,Linda,15
- AZ ,M,1960.0,,90
- AZ ,F,,Jennifer,24
-AZ,F,1929.0,Linda,465
-AZ,M,1999.0,Michael,689
-AZ,F,1962.0,Patricia,105
-AZ,,1976.0,Casey,791
-AZ,F,1988.0,Patricia,
-AZ,F,2011.0,Mary,128
-AZ, F ,2008.0,Linda,353
-AZ,F,1959.0,Alex,
-AZ,F,1998.0,Linda,77
-AZ,F,1954.0,Casey,106
-AZ,F,1998.0,James,93
-AZ,M,1984.0,John,539
- AZ ,F,1965.0,Alex,172
-AZ,F,1952.0,Taylor,1081
-AZ,M,2018.0,Casey,14
-AZ,F,1936.0,Patricia,14
-AZ,M,1962.0,Michael,116
-,M,1954.0,Michael,
- AZ ,F,1975.0,Jordan,43
-AZ,F,1954.0,Mary,132
-AZ,M,1978.0,Taylor,294
- AZ ,F,1948.0,Mary,370
-AZ,F,1934.0,Taylor,6
-AZ, F ,1916.0,Jordan,27
- AZ ,F,1934.0,Patricia,196
-AZ,F,1921.0,Taylor,5
-AZ,M,2017.0,Michael,318
-AZ, M ,1961.0,Alex,200
+AZ,F,1984,Linda,475
+AZ,M,1980,John,202
+AZ,M,1929,Robert,132
+AZ,F,2020,Casey,619
+AZ,F,1949,Alex,11
+,F,1970,Taylor,79
+,M,1989,Robert,90
+AZ,F,2012,Casey,6
+AZ,F,2021,Mary,287
+AZ,M,1946,Robert,32
+,M,1921,Taylor,83
+AZ,F,1953,Linda,91
+AZ,F,1959,Taylor,574
+AZ,F,1932,Linda,15
+AZ,M,1960,,90
+AZ,F,,Jennifer,24
+AZ,F,1929,Linda,465
+AZ,M,1999,Michael,689
+AZ,F,1962,Patricia,105
+AZ,,1976,Casey,791
+AZ,F,1988,Patricia,
+AZ,F,2011,Mary,128
+AZ,F,2008,Linda,353
+AZ,F,1959,Alex,
+AZ,F,1998,Linda,77
+AZ,F,1954,Casey,106
+AZ,F,1998,James,93
+AZ,M,1984,John,539
+AZ,F,1965,Alex,172
+AZ,F,1952,Taylor,1081
+AZ,M,2018,Casey,14
+AZ,F,1936,Patricia,14
+AZ,M,1962,Michael,116
+,M,1954,Michael,
+AZ,F,1975,Jordan,43
+AZ,F,1954,Mary,132
+AZ,M,1978,Taylor,294
+AZ,F,1948,Mary,370
+AZ,F,1934,Taylor,6
+AZ,F,1916,Jordan,27
+AZ,F,1934,Patricia,196
+AZ,F,1921,Taylor,5
+AZ,M,2017,Michael,318
+AZ,M,1961,Alex,200
 AZ,F,,Patricia,90
-AZ,M,1953.0,casey,31
- AZ ,F,1988.0,Mary,373
-AZ,M,1937.0,Michael,218
-AZ,M,2002.0,Jordan,214
-AZ,,1933.0,Mary,12
-AZ,M,2007.0,Alex,582
-AZ, F ,1970.0,Linda,961
-AZ,,1947.0,Casey,111
-AZ,F,1988.0,Alex,297
-AZ,F,2009.0,Casey,14
- AZ ,F,1956.0,Patricia,192
-AZ,M,1996.0,Robert,45
+AZ,M,1953,casey,31
+AZ,F,1988,Mary,373
+AZ,M,1937,Michael,218
+AZ,M,2002,Jordan,214
+AZ,,1933,Mary,12
+AZ,M,2007,Alex,582
+AZ,F,1970,Linda,961
+AZ,,1947,Casey,111
+AZ,F,1988,Alex,297
+AZ,F,2009,Casey,14
+AZ,F,1956,Patricia,192
+AZ,M,1996,Robert,45
 AZ,F,,Casey,156
-AZ,M,2008.0, James ,790
-AZ,M,2010.0,Michael,216
-AZ,M,1994.0,Robert,471
-AZ,M,1939.0,Michael,35
-,,1999.0,Taylor,738
-AZ,M,2019.0,James,8
-AZ,,2008.0,Alex,212
- AZ ,M,1926.0,John,38
-AZ,F,2001.0,Alex,48
-AZ,F,1976.0,Casey,577
-AZ,M,1998.0,Michael,912
-AZ,F,1963.0,Linda,133
-AZ,F,1958.0,Jennifer,636
-, F ,1995.0,,422
-AZ, M ,2013.0,Jordan,177
+AZ,M,2008,James,790
+AZ,M,2010,Michael,216
+AZ,M,1994,Robert,471
+AZ,M,1939,Michael,35
+,,1999,Taylor,738
+AZ,M,2019,James,8
+AZ,,2008,Alex,212
+AZ,M,1926,John,38
+AZ,F,2001,Alex,48
+AZ,F,1976,Casey,577
+AZ,M,1998,Michael,912
+AZ,F,1963,Linda,133
+AZ,F,1958,Jennifer,636
+,F,1995,,422
+AZ,M,2013,Jordan,177
 AZ,F,,Casey,19
- AZ ,M,1967.0,Casey,339
-AZ,F,1984.0,Jennifer,526
-AZ,F,1977.0,Jordan,61
-AZ,M,1922.0,Michael,15
-AZ,M,1971.0,James,418
-AZ,F,1974.0,Jordan,981
-AZ,M,1927.0,Patricia,101
-AZ,F,1976.0,,103
- AZ ,F,2002.0,Jordan,14
-AZ, F ,1998.0,Patricia,826
-AZ,F,1958.0, Linda ,241
-AZ,M,1925.0,Jordan,20
-AZ,M,1939.0, Taylor ,502
+AZ,M,1967,Casey,339
+AZ,F,1984,Jennifer,526
+AZ,F,1977,Jordan,61
+AZ,M,1922,Michael,15
+AZ,M,1971,James,418
+AZ,F,1974,Jordan,981
+AZ,M,1927,Patricia,101
+AZ,F,1976,,103
+AZ,F,2002,Jordan,14
+AZ,F,1998,Patricia,826
+AZ,F,1958,Linda,241
+AZ,M,1925,Jordan,20
+AZ,M,1939,Taylor,502
 AZ,M,,James,389
 AZ,F,,Mary,197
 AZ,F,,Mary,130
-AZ,M,1969.0,Michael,166
-AZ,M,1942.0,Alex,460
-AZ, M ,2008.0,Casey,684
-AZ,F,1960.0,,25
-,F,1938.0,Jordan,255
-AZ,F,1975.0,Casey,316
-AZ,F,1934.0,Jennifer,84
-AZ,M,1997.0,Michael,850
-AZ,F,1999.0,Linda,660
-AZ,F,1988.0,Linda,494
-AZ, M ,1975.0,,348
-AZ,F,2002.0,Alex,778
-AZ,F,1995.0,Patricia,119
-AZ,M,2018.0,James,757
-AZ,F,1993.0,jordan,814
-AZ,M,1984.0,alex,164
-,F,1991.0,Casey,76
+AZ,M,1969,Michael,166
+AZ,M,1942,Alex,460
+AZ,M,2008,Casey,684
+AZ,F,1960,,25
+,F,1938,Jordan,255
+AZ,F,1975,Casey,316
+AZ,F,1934,Jennifer,84
+AZ,M,1997,Michael,850
+AZ,F,1999,Linda,660
+AZ,F,1988,Linda,494
+AZ,M,1975,,348
+AZ,F,2002,Alex,778
+AZ,F,1995,Patricia,119
+AZ,M,2018,James,757
+AZ,F,1993,jordan,814
+AZ,M,1984,alex,164
+,F,1991,Casey,76
 AZ,F,,,702
-,F,1971.0,Linda,386
-AZ,M,1980.0,James,255
-,F,1997.0,Taylor,575
-AZ,M,2013.0,,47
-AZ,F,1936.0,Taylor,107
-AZ,F,1928.0,Alex,254
-AZ,M,1955.0,Robert,802
-AZ,F,1980.0,Jennifer,57
-,,1949.0,,106
-AZ, F ,,Taylor,9
+,F,1971,Linda,386
+AZ,M,1980,James,255
+,F,1997,Taylor,575
+AZ,M,2013,,47
+AZ,F,1936,Taylor,107
+AZ,F,1928,Alex,254
+AZ,M,1955,Robert,802
+AZ,F,1980,Jennifer,57
+,,1949,,106
+AZ,F,,Taylor,9
 ,M,,,33
-AZ,M,1976.0,John,1199
-AZ,F,1996.0,Patricia,248
- AZ , M ,1982.0,John,113
-,M,1969.0,Jordan,445
-AZ,M,1960.0,Alex,217
- AZ ,M,2022.0,Robert,59
-AZ,M,2013.0,Alex,5
-AZ,M,1987.0,Michael,648
-,M,1939.0,John,52
-AZ,,1951.0,Casey,362
-AZ,F,1972.0,,1649
-AZ,,1953.0,James,54
-AZ,F,1972.0,Jennifer,977
-AZ, M ,1916.0,Taylor,29
-AZ,F,1936.0,Jennifer,21
-AZ,F,1947.0,Alex,161
- AZ ,M,2016.0,Alex,56
+AZ,M,1976,John,1199
+AZ,F,1996,Patricia,248
+AZ,M,1982,John,113
+,M,1969,Jordan,445
+AZ,M,1960,Alex,217
+AZ,M,2022,Robert,59
+AZ,M,2013,Alex,5
+AZ,M,1987,Michael,648
+,M,1939,John,52
+AZ,,1951,Casey,362
+AZ,F,1972,,1649
+AZ,,1953,James,54
+AZ,F,1972,Jennifer,977
+AZ,M,1916,Taylor,29
+AZ,F,1936,Jennifer,21
+AZ,F,1947,Alex,161
+AZ,M,2016,Alex,56
 AZ,M,,Casey,184
-AZ, M ,1961.0,James,151
-AZ, M ,1945.0,James,610
-AZ,M,1986.0,James,97
-AZ,,1959.0,robert,442
-AZ,M,2017.0,Alex,6
-AZ,M,1981.0,James,
- AZ ,F,1923.0,Jordan,107
-AZ,M,1999.0,robert,875
-AZ,M,1951.0,Michael,
-AZ,M,1922.0,Alex,32
-AZ, M ,1974.0,Jordan,123
-AZ,M,2010.0,Jordan,168
-,F,1977.0,Mary,
-AZ,M,2004.0,Jordan,
-AZ,F,2006.0,,112
-AZ,M,2006.0,Taylor,317
-AZ,F,1954.0,Taylor,90
-,M,2003.0,Jordan,53
-AZ,F,1990.0,Linda,41
-AZ,M,2002.0,Alex,26
- AZ ,M,2015.0,john,94
-AZ,F,1990.0,Mary,216
-AZ,F,1924.0,Taylor,15
-AZ,F,1940.0,Taylor,9
-AZ,F,1948.0,Alex,18
-AZ,M,1952.0,Michael,67
-AZ,M,1914.0,Jordan,39
-AZ, M ,2009.0,Michael,741
-AZ,M,1954.0,Taylor,
-AZ,M,2014.0,John,483
-AZ,F,2017.0,Alex,72
-AZ,M,1992.0,James,203
- AZ ,F,2013.0,jordan,546
-AZ,M,2006.0,Taylor,317
-AZ, F ,1978.0,patricia,741
-AZ,,2019.0,Casey,264
+AZ,M,1961,James,151
+AZ,M,1945,James,610
+AZ,M,1986,James,97
+AZ,,1959,robert,442
+AZ,M,2017,Alex,6
+AZ,M,1981,James,
+AZ,F,1923,Jordan,107
+AZ,M,1999,robert,875
+AZ,M,1951,Michael,
+AZ,M,1922,Alex,32
+AZ,M,1974,Jordan,123
+AZ,M,2010,Jordan,168
+,F,1977,Mary,
+AZ,M,2004,Jordan,
+AZ,F,2006,,112
+AZ,M,2006,Taylor,317
+AZ,F,1954,Taylor,90
+,M,2003,Jordan,53
+AZ,F,1990,Linda,41
+AZ,M,2002,Alex,26
+AZ,M,2015,john,94
+AZ,F,1990,Mary,216
+AZ,F,1924,Taylor,15
+AZ,F,1940,Taylor,9
+AZ,F,1948,Alex,18
+AZ,M,1952,Michael,67
+AZ,M,1914,Jordan,39
+AZ,M,2009,Michael,741
+AZ,M,1954,Taylor,
+AZ,M,2014,John,483
+AZ,F,2017,Alex,72
+AZ,M,1992,James,203
+AZ,F,2013,jordan,546
+AZ,M,2006,Taylor,317
+AZ,F,1978,patricia,741
+AZ,,2019,Casey,264
 AZ,F,,Patricia,111
-AZ,M,2013.0,John,54
-,M,1956.0,Casey,78
-AZ,F,1963.0, Mary ,841
-AZ, M ,2021.0,Robert,210
-AZ,F,1921.0,John,64
-AZ,M,1983.0,Michael,347
- AZ ,M,1988.0,jordan,197
-AZ, F ,1974.0,Patricia,368
-AZ,F,1941.0,Taylor,72
-AZ,F,2018.0,Jordan,14
-AZ,M,2006.0,Linda,
-,F,1943.0,Casey,556
-AZ,M,1999.0,Alex,120
- AZ ,F,1996.0, John ,74
-AZ,M,1995.0,Michael,674
-,M,2020.0,James,11
-AZ,M,1944.0,Jordan,112
-AZ,M,1974.0,Taylor,276
-AZ,F,1918.0,Taylor,62
-AZ,M,2020.0,Jordan,129
-AZ,F,1998.0,Casey,551
-AZ,F,1922.0,Casey,106
-AZ,,1969.0,,208
-,F,1975.0,Jennifer,383
-AZ, M ,1975.0,,348
-AZ,F,1967.0,Casey,245
-AZ,F,1989.0,Casey,287
-AZ,M,1961.0, John ,
-AZ, M ,1915.0,James,9
-AZ,M,1940.0,Alex,9
-AZ,F,1967.0,Jordan,341
-AZ,F,1918.0,Jennifer,37
-AZ,,1990.0,Taylor,17
-AZ, F ,1956.0,Mary,91
-AZ,F,1918.0,Linda,5
-AZ,M,2012.0,James,
-AZ,M,1918.0,James,26
-AZ,M,2010.0,Alex,5
-AZ,F,2003.0,Mary,1088
-AZ,F,1963.0,Jennifer,131
-AZ,F,1989.0,Jennifer,19
-AZ,F,1930.0,Linda,8
-AZ,M,1999.0,John,85
-AZ,M,1987.0,James,264
-AZ, F ,1982.0,Patricia,40
-AZ,F,2007.0,Jordan,170
-,M,1915.0,Taylor,8
-AZ,F,2018.0,Casey,16
-AZ,,1965.0,Robert,8
-AZ,M,1939.0,casey,205
-AZ, M ,2014.0,Alex,16
- AZ ,F,1927.0,Alex,311
-AZ,F,2003.0,Taylor,196
-AZ,F,1988.0,Casey,621
-AZ,F,1934.0,Mary,
-AZ,F,1916.0,Casey,39
-AZ,F,1985.0,Alex,188
-,F,1942.0,Jordan,272
-AZ,F,2004.0,Jordan,40
- AZ ,F,2013.0,Taylor,300
-AZ,F,1986.0,Linda,99
-AZ,F,1924.0,Casey,79
-AZ,,1997.0,Taylor,32
-AZ,M,1992.0,Taylor,679
-AZ,F,1948.0,Casey,414
-AZ,M,1972.0,Casey,203
-AZ,M,1979.0,James,67
-AZ,M,1941.0,James,1078
-AZ,F,1959.0,jennifer,260
- AZ ,F,1967.0,Taylor,445
-AZ,F,1927.0,Jennifer,508
-AZ,M,2009.0,James,34
-AZ,F,1960.0,John,152
- AZ ,M,1958.0,Taylor,412
-AZ,F,1952.0,Jordan,134
- AZ ,M,1931.0,Michael,8
-AZ,F,1948.0,Linda,49
-AZ,M,1988.0,Casey,506
-AZ,F,2005.0, Taylor ,14
-AZ,F,1929.0,Mary,
- AZ ,F,1933.0,Mary,138
-AZ,F,1991.0,Taylor,699
-AZ,M,1980.0,Jordan,281
-AZ, F ,1993.0,alex,398
-AZ,M,1919.0,Michael,59
-AZ,M,1963.0,Robert,205
-AZ,M,1912.0,James,6
-AZ,M,2010.0,robert,10
-AZ,F,1962.0,Casey,173
-AZ,M,2015.0,Robert,23
-AZ,F,2003.0,casey,261
-AZ,M,1991.0,Taylor,
-AZ,M,1967.0,Michael,238
-AZ,F,1957.0,Jordan,237
-,M,1957.0,Taylor,69
-AZ,M,1965.0,Jordan,299
-AZ,F,1945.0,,25
-AZ,M,2022.0,,16
-AZ,F,1949.0,Patricia,165
-AZ,F,1929.0,Casey,144
-AZ,F,1913.0,Jordan,48
-AZ,F,1956.0,Jennifer,142
-AZ,M,1996.0,Casey,918
-AZ,F,1916.0,Mary,21
-, F ,1961.0,Patricia,26
-AZ,M,1948.0,Mary,7
-AZ,M,1962.0,John,208
-AZ,,1978.0,Robert,156
-AZ,M,1996.0, Jordan ,649
-, M ,1978.0,Casey,
-AZ,M,1971.0,Robert,485
-AZ,M,1993.0,Casey,126
-AZ,F,1923.0,Patricia,97
-AZ,M,1911.0,Robert,
-AZ,F,2019.0,Patricia,10
-AZ, M ,1974.0,Alex,301
-,F,1982.0,Alex,647
-AZ,F,1966.0,casey,90
-AZ,M,1994.0,Michael,359
-AZ,F,1953.0,Alex,21
- AZ ,M,1985.0,Michael,239
-AZ,F,1943.0,Alex,12
-, F ,1951.0,,211
-AZ,,1945.0,,144
-AZ, M ,1962.0,Taylor,156
-AZ,F,1977.0, Casey ,594
-AZ,M,1991.0,Jordan,106
-AZ,F,1922.0,Mary,9
-AZ,M,2010.0,James,684
- AZ ,F,1949.0,Jordan,46
- AZ ,M,1950.0,,149
-AZ,F,2019.0,Mary,104
-AZ,M,2005.0,Michael,116
-AZ,F,1975.0,,24
-AZ,F,1949.0,Jennifer,
-AZ,F,1919.0,,5
-AZ,M,1975.0,James,821
+AZ,M,2013,John,54
+,M,1956,Casey,78
+AZ,F,1963,Mary,841
+AZ,M,2021,Robert,210
+AZ,F,1921,John,64
+AZ,M,1983,Michael,347
+AZ,M,1988,jordan,197
+AZ,F,1974,Patricia,368
+AZ,F,1941,Taylor,72
+AZ,F,2018,Jordan,14
+AZ,M,2006,Linda,
+,F,1943,Casey,556
+AZ,M,1999,Alex,120
+AZ,F,1996,John,74
+AZ,M,1995,Michael,674
+,M,2020,James,11
+AZ,M,1944,Jordan,112
+AZ,M,1974,Taylor,276
+AZ,F,1918,Taylor,62
+AZ,M,2020,Jordan,129
+AZ,F,1998,Casey,551
+AZ,F,1922,Casey,106
+AZ,,1969,,208
+,F,1975,Jennifer,383
+AZ,M,1975,,348
+AZ,F,1967,Casey,245
+AZ,F,1989,Casey,287
+AZ,M,1961,John,
+AZ,M,1915,James,9
+AZ,M,1940,Alex,9
+AZ,F,1967,Jordan,341
+AZ,F,1918,Jennifer,37
+AZ,,1990,Taylor,17
+AZ,F,1956,Mary,91
+AZ,F,1918,Linda,5
+AZ,M,2012,James,
+AZ,M,1918,James,26
+AZ,M,2010,Alex,5
+AZ,F,2003,Mary,1088
+AZ,F,1963,Jennifer,131
+AZ,F,1989,Jennifer,19
+AZ,F,1930,Linda,8
+AZ,M,1999,John,85
+AZ,M,1987,James,264
+AZ,F,1982,Patricia,40
+AZ,F,2007,Jordan,170
+,M,1915,Taylor,8
+AZ,F,2018,Casey,16
+AZ,,1965,Robert,8
+AZ,M,1939,casey,205
+AZ,M,2014,Alex,16
+AZ,F,1927,Alex,311
+AZ,F,2003,Taylor,196
+AZ,F,1988,Casey,621
+AZ,F,1934,Mary,
+AZ,F,1916,Casey,39
+AZ,F,1985,Alex,188
+,F,1942,Jordan,272
+AZ,F,2004,Jordan,40
+AZ,F,2013,Taylor,300
+AZ,F,1986,Linda,99
+AZ,F,1924,Casey,79
+AZ,,1997,Taylor,32
+AZ,M,1992,Taylor,679
+AZ,F,1948,Casey,414
+AZ,M,1972,Casey,203
+AZ,M,1979,James,67
+AZ,M,1941,James,1078
+AZ,F,1959,jennifer,260
+AZ,F,1967,Taylor,445
+AZ,F,1927,Jennifer,508
+AZ,M,2009,James,34
+AZ,F,1960,John,152
+AZ,M,1958,Taylor,412
+AZ,F,1952,Jordan,134
+AZ,M,1931,Michael,8
+AZ,F,1948,Linda,49
+AZ,M,1988,Casey,506
+AZ,F,2005,Taylor,14
+AZ,F,1929,Mary,
+AZ,F,1933,Mary,138
+AZ,F,1991,Taylor,699
+AZ,M,1980,Jordan,281
+AZ,F,1993,alex,398
+AZ,M,1919,Michael,59
+AZ,M,1963,Robert,205
+AZ,M,1912,James,6
+AZ,M,2010,robert,10
+AZ,F,1962,Casey,173
+AZ,M,2015,Robert,23
+AZ,F,2003,casey,261
+AZ,M,1991,Taylor,
+AZ,M,1967,Michael,238
+AZ,F,1957,Jordan,237
+,M,1957,Taylor,69
+AZ,M,1965,Jordan,299
+AZ,F,1945,,25
+AZ,M,2022,,16
+AZ,F,1949,Patricia,165
+AZ,F,1929,Casey,144
+AZ,F,1913,Jordan,48
+AZ,F,1956,Jennifer,142
+AZ,M,1996,Casey,918
+AZ,F,1916,Mary,21
+,F,1961,Patricia,26
+AZ,M,1948,Mary,7
+AZ,M,1962,John,208
+AZ,,1978,Robert,156
+AZ,M,1996,Jordan,649
+,M,1978,Casey,
+AZ,M,1971,Robert,485
+AZ,M,1993,Casey,126
+AZ,F,1923,Patricia,97
+AZ,M,1911,Robert,
+AZ,F,2019,Patricia,10
+AZ,M,1974,Alex,301
+,F,1982,Alex,647
+AZ,F,1966,casey,90
+AZ,M,1994,Michael,359
+AZ,F,1953,Alex,21
+AZ,M,1985,Michael,239
+AZ,F,1943,Alex,12
+,F,1951,,211
+AZ,,1945,,144
+AZ,M,1962,Taylor,156
+AZ,F,1977,Casey,594
+AZ,M,1991,Jordan,106
+AZ,F,1922,Mary,9
+AZ,M,2010,James,684
+AZ,F,1949,Jordan,46
+AZ,M,1950,,149
+AZ,F,2019,Mary,104
+AZ,M,2005,Michael,116
+AZ,F,1975,,24
+AZ,F,1949,Jennifer,
+AZ,F,1919,,5
+AZ,M,1975,James,821

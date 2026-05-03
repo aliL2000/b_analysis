@@ -1,1640 +1,1640 @@
 state,sex,year,name,count
-WA, M ,1941.0,Taylor,20
-WA, M ,1999.0,Alex,483
-WA,F,2018.0,Patricia,104
-WA,M,2021.0,James,156
-WA,,1950.0,Casey,412
-WA,M,1990.0,James,49
-WA,,1915.0,Mary,21
-WA,F,1967.0,,597
-WA,F,1966.0,Jennifer,426
-,M,1962.0,James,171
-WA, F ,1953.0,,149
-WA,F,1986.0,Taylor,703
-WA,M,1999.0,Taylor,148
-WA,M,1994.0,Taylor,56
-WA, F ,1980.0,Patricia,206
-WA,M,1918.0,Robert,166
-WA,M,1991.0,Michael,105
- WA ,M,1982.0,Alex,523
-WA,F,1980.0,Casey,745
-WA,M,2001.0,John,32
-WA,M,1926.0,,69
+WA,M,1941,Taylor,20
+WA,M,1999,Alex,483
+WA,F,2018,Patricia,104
+WA,M,2021,James,156
+WA,,1950,Casey,412
+WA,M,1990,James,49
+WA,,1915,Mary,21
+WA,F,1967,,597
+WA,F,1966,Jennifer,426
+,M,1962,James,171
+WA,F,1953,,149
+WA,F,1986,Taylor,703
+WA,M,1999,Taylor,148
+WA,M,1994,Taylor,56
+WA,F,1980,Patricia,206
+WA,M,1918,Robert,166
+WA,M,1991,Michael,105
+WA,M,1982,Alex,523
+WA,F,1980,Casey,745
+WA,M,2001,John,32
+WA,M,1926,,69
 WA,F,,Linda,15
-,M,1959.0,,512
-WA,F,2001.0,Jennifer,538
-WA,M,1990.0,Casey,16
-WA,M,1973.0,John,57
- WA ,M,1965.0,Michael,
-WA,M,1973.0,Michael,774
-WA,M,1940.0,John,9
-WA,M,1978.0,Michael,547
- WA ,M,1916.0,Mary,13
-WA,M,2013.0,James,94
-,F,1992.0,Alex,5
-WA,F,1988.0,Taylor,202
-WA,M,1962.0,Casey,32
-WA,M,1981.0,James,459
-WA,F,1982.0, Jordan ,355
-, M ,1931.0,John,15
-WA,F,1955.0,james,44
-WA,F,1988.0,Jennifer,1637
-WA,F,1970.0, Mary ,34
-WA,,1989.0,Linda,95
-WA,M,1998.0,Casey,13
-WA,M,1971.0,linda,263
- WA ,F,1986.0,Linda,624
-WA,M,1941.0,Casey,7
-WA,F,1919.0,Alex,64
+,M,1959,,512
+WA,F,2001,Jennifer,538
+WA,M,1990,Casey,16
+WA,M,1973,John,57
+WA,M,1965,Michael,
+WA,M,1973,Michael,774
+WA,M,1940,John,9
+WA,M,1978,Michael,547
+WA,M,1916,Mary,13
+WA,M,2013,James,94
+,F,1992,Alex,5
+WA,F,1988,Taylor,202
+WA,M,1962,Casey,32
+WA,M,1981,James,459
+WA,F,1982,Jordan,355
+,M,1931,John,15
+WA,F,1955,james,44
+WA,F,1988,Jennifer,1637
+WA,F,1970,Mary,34
+WA,,1989,Linda,95
+WA,M,1998,Casey,13
+WA,M,1971,linda,263
+WA,F,1986,Linda,624
+WA,M,1941,Casey,7
+WA,F,1919,Alex,64
 WA,F,,John,105
-WA,M,1960.0,Taylor,14
-WA,,2012.0,Linda,673
-WA,F,1914.0,John,77
-WA,M,1981.0,Jordan,659
-WA,M,1975.0,Alex,22
-WA,M,2002.0,Alex,778
-WA,M,1971.0,John,
-WA,M,1952.0,Casey,143
-,,1977.0,John,596
+WA,M,1960,Taylor,14
+WA,,2012,Linda,673
+WA,F,1914,John,77
+WA,M,1981,Jordan,659
+WA,M,1975,Alex,22
+WA,M,2002,Alex,778
+WA,M,1971,John,
+WA,M,1952,Casey,143
+,,1977,John,596
 WA,M,,Patricia,232
-WA,M,2018.0,Alex,361
-WA,F,1942.0,Taylor,119
-WA,M,1916.0,,62
- WA ,M,1943.0,Alex,88
-WA,F,1984.0,Jennifer,144
-WA, F ,1991.0,Jordan,89
-WA,M,1962.0,Alex,63
-WA,M,1975.0,Jordan,289
-WA,F,1958.0,jordan,255
-WA,,1919.0,Patricia,17
+WA,M,2018,Alex,361
+WA,F,1942,Taylor,119
+WA,M,1916,,62
+WA,M,1943,Alex,88
+WA,F,1984,Jennifer,144
+WA,F,1991,Jordan,89
+WA,M,1962,Alex,63
+WA,M,1975,Jordan,289
+WA,F,1958,jordan,255
+WA,,1919,Patricia,17
 WA,M,,Taylor,164
-WA,F,1974.0,,252
-WA,F,1957.0,Linda,175
-WA,F,1959.0,Casey,104
-WA,M,1952.0,Robert,164
-WA,F,1969.0,Linda,77
-WA,M,1995.0,James,302
-WA,M,1992.0,Alex,74
-WA,M,1992.0,Casey,311
-,F,2006.0,Linda,28
-WA, F ,2003.0,Alex,139
-WA,M,1958.0,James,1213
-WA,F,1988.0,Linda,455
-WA,M,1982.0,Robert,549
-WA,M,1998.0,,16
-WA,F,1938.0,Taylor,137
-WA,F,1927.0,Michael,118
-,M,1950.0,Jordan,17
-,F,2019.0,Jennifer,87
- WA ,F,,Casey,483
-WA,F,2014.0,Alex,158
-WA,M,1999.0,Michael,654
-WA,M,2008.0,James,8
-WA,F,1992.0, Patricia ,485
-WA,M,1968.0,Robert,
-WA,M,1975.0,Taylor,414
- WA ,M,1925.0,Robert,29
-WA,M,1916.0,Michael,5
-WA,M,1990.0,John,168
-WA,,2004.0,Alex,249
-WA,F,1931.0,Casey,31
-WA,F,1969.0,Mary,419
-WA,M,1917.0,Jordan,24
-WA,M,1940.0,Taylor,198
-,F,1911.0,Alex,25
-WA,F,2012.0,Jordan,17
-WA,M,1929.0,James,
-WA,M,1943.0,James,14
-WA,M,2019.0,Robert,8
-WA,M,1942.0,Casey,804
-WA,F,1974.0,Taylor,6
- WA ,M,1980.0,Taylor,88
-WA,M,2015.0, James ,568
-WA,F,1936.0,Taylor,13
-,M,1974.0,Taylor,
-WA,M,1965.0,Jordan,528
+WA,F,1974,,252
+WA,F,1957,Linda,175
+WA,F,1959,Casey,104
+WA,M,1952,Robert,164
+WA,F,1969,Linda,77
+WA,M,1995,James,302
+WA,M,1992,Alex,74
+WA,M,1992,Casey,311
+,F,2006,Linda,28
+WA,F,2003,Alex,139
+WA,M,1958,James,1213
+WA,F,1988,Linda,455
+WA,M,1982,Robert,549
+WA,M,1998,,16
+WA,F,1938,Taylor,137
+WA,F,1927,Michael,118
+,M,1950,Jordan,17
+,F,2019,Jennifer,87
+WA,F,,Casey,483
+WA,F,2014,Alex,158
+WA,M,1999,Michael,654
+WA,M,2008,James,8
+WA,F,1992,Patricia,485
+WA,M,1968,Robert,
+WA,M,1975,Taylor,414
+WA,M,1925,Robert,29
+WA,M,1916,Michael,5
+WA,M,1990,John,168
+WA,,2004,Alex,249
+WA,F,1931,Casey,31
+WA,F,1969,Mary,419
+WA,M,1917,Jordan,24
+WA,M,1940,Taylor,198
+,F,1911,Alex,25
+WA,F,2012,Jordan,17
+WA,M,1929,James,
+WA,M,1943,James,14
+WA,M,2019,Robert,8
+WA,M,1942,Casey,804
+WA,F,1974,Taylor,6
+WA,M,1980,Taylor,88
+WA,M,2015,James,568
+WA,F,1936,Taylor,13
+,M,1974,Taylor,
+WA,M,1965,Jordan,528
 WA,M,,Taylor,
- WA ,M,1996.0,,188
-WA, M ,1988.0,Robert,587
- WA ,M,1982.0,Michael,
- WA ,M,2006.0,Linda,1041
+WA,M,1996,,188
+WA,M,1988,Robert,587
+WA,M,1982,Michael,
+WA,M,2006,Linda,1041
 WA,,,James,97
-WA,M,1962.0,Jordan,56
-WA,M,1972.0,james,375
+WA,M,1962,Jordan,56
+WA,M,1972,james,375
 WA,M,,John,583
-WA,M,2018.0,James,309
-WA,F,1966.0,Jordan,261
-WA,M,2006.0,James,11
-WA,M,1957.0,John,256
-,,1916.0,Taylor,173
-WA,M,1989.0,Alex,276
-WA,M,1946.0,Michael,244
-WA,F,1996.0,Michael,445
-WA,F,1979.0,Casey,111
+WA,M,2018,James,309
+WA,F,1966,Jordan,261
+WA,M,2006,James,11
+WA,M,1957,John,256
+,,1916,Taylor,173
+WA,M,1989,Alex,276
+WA,M,1946,Michael,244
+WA,F,1996,Michael,445
+WA,F,1979,Casey,111
 WA,M,,Jordan,965
-WA,F,1994.0,Mary,84
-,F,1919.0,Casey,104
-WA,M,1980.0,John,111
-WA,M,1965.0,James,431
-WA,M,1966.0,Jordan,463
-WA,F,1968.0,Alex,311
-WA,F,1910.0,Taylor,41
-WA, M ,2010.0,Linda,14
-WA,M,2000.0,Robert,14
-WA,F,1986.0,Alex,81
+WA,F,1994,Mary,84
+,F,1919,Casey,104
+WA,M,1980,John,111
+WA,M,1965,James,431
+WA,M,1966,Jordan,463
+WA,F,1968,Alex,311
+WA,F,1910,Taylor,41
+WA,M,2010,Linda,14
+WA,M,2000,Robert,14
+WA,F,1986,Alex,81
 WA,F,,,19
-WA,F,1941.0,Jordan,266
- WA ,M,1980.0,Casey,9
-WA,F,1944.0,jennifer,276
+WA,F,1941,Jordan,266
+WA,M,1980,Casey,9
+WA,F,1944,jennifer,276
 WA,M,,,19
-WA,M,1931.0,Patricia,8
-WA,M,1913.0,michael,53
-WA,M,1984.0,Michael,79
-WA, F ,1959.0,Jordan,481
-WA,F,1999.0,Jordan,40
-WA,F,1997.0,Alex,163
-WA,F,1926.0,Mary,91
-WA,F,1957.0,Casey,144
-WA,M,1988.0,Michael,447
-WA,F,2011.0,Michael,314
-WA,M,1923.0,Michael,9
-,M,1987.0,James,1153
-WA,,1990.0,Taylor,167
-WA,F,1922.0,Jordan,347
-WA,M,1966.0,Alex,347
- WA ,M,1991.0,Casey,1217
- WA ,M,1940.0,Casey,38
+WA,M,1931,Patricia,8
+WA,M,1913,michael,53
+WA,M,1984,Michael,79
+WA,F,1959,Jordan,481
+WA,F,1999,Jordan,40
+WA,F,1997,Alex,163
+WA,F,1926,Mary,91
+WA,F,1957,Casey,144
+WA,M,1988,Michael,447
+WA,F,2011,Michael,314
+WA,M,1923,Michael,9
+,M,1987,James,1153
+WA,,1990,Taylor,167
+WA,F,1922,Jordan,347
+WA,M,1966,Alex,347
+WA,M,1991,Casey,1217
+WA,M,1940,Casey,38
 WA,F,,Patricia,759
-WA,F,1962.0,Taylor,83
-WA,F,1991.0,Casey,55
-WA,F,2011.0,Linda,20
-WA,F,2022.0,Mary,
-WA,M,1956.0, Michael ,911
- WA ,M,1967.0,Patricia,53
-WA,M,1971.0,Patricia,161
+WA,F,1962,Taylor,83
+WA,F,1991,Casey,55
+WA,F,2011,Linda,20
+WA,F,2022,Mary,
+WA,M,1956,Michael,911
+WA,M,1967,Patricia,53
+WA,M,1971,Patricia,161
 WA,M,,Casey,974
-WA,M,2022.0,Casey,83
-WA,,1944.0,Taylor,111
-WA,F,2020.0,Casey,416
-WA,F,1971.0,Mary,222
- WA ,M,1944.0,Jordan,94
- WA , F ,2004.0,Michael,28
-WA,M,1917.0,John,23
-WA,M,1934.0,Jordan,337
+WA,M,2022,Casey,83
+WA,,1944,Taylor,111
+WA,F,2020,Casey,416
+WA,F,1971,Mary,222
+WA,M,1944,Jordan,94
+WA,F,2004,Michael,28
+WA,M,1917,John,23
+WA,M,1934,Jordan,337
 WA,F,,Alex,89
 WA,M,,Casey,101
-WA,F,1972.0,Jennifer,12
- WA ,F,1969.0, Alex ,873
-WA,F,1980.0,Taylor,394
-WA,M,1965.0,robert,747
-WA,M,1964.0,James,935
- WA ,F,2004.0,Casey,34
-WA,M,2005.0,James,35
-WA,M,1932.0,Robert,16
- WA ,F,1949.0,Taylor,60
-WA,F,2020.0,Mary,55
-WA,F,1998.0,Linda,84
-WA,,1934.0,Taylor,13
-WA,F,2003.0,Mary,29
-WA,M,2013.0,Robert,99
-WA,F,2012.0, Casey ,172
-WA,F,1974.0, Alex ,480
-WA,,1954.0,James,
-WA,F,2000.0,Mary,415
-WA,M,1927.0,Alex,211
-WA,,1938.0,Jordan,111
- WA ,F,2020.0,Jennifer,63
-WA,,1957.0,Alex,59
-,F,1939.0,Casey,9
-WA,F,1947.0,Jordan,834
-WA,M,1948.0,Jordan,6
-WA,F,1961.0,Casey,75
-WA,F,2001.0,Mary,257
-WA,M,1963.0,Michael,251
-WA,F,1966.0,Alex,316
-,F,1978.0,Linda,704
-WA,F,1977.0,Linda,189
-WA,M,1946.0,John,5
- WA , F ,1967.0,Taylor,69
-WA,F,1950.0,Casey,26
-WA,M,2005.0,Patricia,229
- WA ,F,1948.0,Jordan,92
-WA,M,1968.0,Casey,69
-WA,F,1955.0,Mary,442
-WA,F,2021.0,Patricia,20
-,M,2000.0,Taylor,40
-WA,,1912.0,John,8
-WA,M,2017.0,Taylor,650
+WA,F,1972,Jennifer,12
+WA,F,1969,Alex,873
+WA,F,1980,Taylor,394
+WA,M,1965,robert,747
+WA,M,1964,James,935
+WA,F,2004,Casey,34
+WA,M,2005,James,35
+WA,M,1932,Robert,16
+WA,F,1949,Taylor,60
+WA,F,2020,Mary,55
+WA,F,1998,Linda,84
+WA,,1934,Taylor,13
+WA,F,2003,Mary,29
+WA,M,2013,Robert,99
+WA,F,2012,Casey,172
+WA,F,1974,Alex,480
+WA,,1954,James,
+WA,F,2000,Mary,415
+WA,M,1927,Alex,211
+WA,,1938,Jordan,111
+WA,F,2020,Jennifer,63
+WA,,1957,Alex,59
+,F,1939,Casey,9
+WA,F,1947,Jordan,834
+WA,M,1948,Jordan,6
+WA,F,1961,Casey,75
+WA,F,2001,Mary,257
+WA,M,1963,Michael,251
+WA,F,1966,Alex,316
+,F,1978,Linda,704
+WA,F,1977,Linda,189
+WA,M,1946,John,5
+WA,F,1967,Taylor,69
+WA,F,1950,Casey,26
+WA,M,2005,Patricia,229
+WA,F,1948,Jordan,92
+WA,M,1968,Casey,69
+WA,F,1955,Mary,442
+WA,F,2021,Patricia,20
+,M,2000,Taylor,40
+WA,,1912,John,8
+WA,M,2017,Taylor,650
 WA,M,,John,66
-WA, F ,1913.0,Jennifer,6
-WA,F,1969.0,taylor,
-,M,2022.0,Jordan,114
- WA ,,2010.0,Alex,172
-WA,M,1917.0,Alex,14
-WA,F,1995.0,Jordan,114
-WA,F,1973.0,Casey,57
-WA,F,2005.0,Linda,232
-WA,F,1962.0,Jennifer,440
-WA,F,1980.0,Taylor,394
-,M,1947.0,Casey,67
-WA,F,1996.0,Taylor,300
-WA,F,2000.0,,458
-WA,F,1931.0,Alex,24
-WA,M,1930.0,James,55
+WA,F,1913,Jennifer,6
+WA,F,1969,taylor,
+,M,2022,Jordan,114
+WA,,2010,Alex,172
+WA,M,1917,Alex,14
+WA,F,1995,Jordan,114
+WA,F,1973,Casey,57
+WA,F,2005,Linda,232
+WA,F,1962,Jennifer,440
+WA,F,1980,Taylor,394
+,M,1947,Casey,67
+WA,F,1996,Taylor,300
+WA,F,2000,,458
+WA,F,1931,Alex,24
+WA,M,1930,James,55
 WA,F,,Jordan,
-WA,F,1924.0,Linda,28
-WA,F,1965.0,Jordan,617
-WA,F,1953.0,Mary,112
-WA,M,1928.0,Michael,154
- WA , M ,2012.0,Casey,29
-WA,M,1987.0,Robert,561
-WA,M,1955.0, John ,
-WA,M,1991.0,john,
-WA,M,1992.0,michael,444
-WA,F,2011.0,Taylor,408
-WA,F,1928.0,Casey,44
-WA,M,1969.0,James,583
-WA,F,1987.0,Taylor,651
-,F,1977.0,Patricia,248
-WA,F,2016.0,Patricia,131
-WA,F,1947.0,Mary,7
-WA,,2004.0,Jordan,105
-WA,M,1997.0,Michael,70
-,M,1941.0,michael,316
-WA,M,1932.0,Casey,53
-WA,F,1993.0, Patricia ,7
-WA,M,1920.0,James,12
-WA,F,1945.0,Alex,5
-WA,F,2009.0,Patricia,12
- WA ,M,2020.0,Patricia,19
-WA,F,1966.0,Patricia,430
-WA,F,1935.0,Jordan,58
-WA,,1998.0,,625
-WA,F,2015.0,Jennifer,18
-WA,,1955.0,Jennifer,661
- WA , M ,1948.0,Casey,372
- WA ,M,1945.0,Jordan,74
-WA,M,1920.0,Alex,10
+WA,F,1924,Linda,28
+WA,F,1965,Jordan,617
+WA,F,1953,Mary,112
+WA,M,1928,Michael,154
+WA,M,2012,Casey,29
+WA,M,1987,Robert,561
+WA,M,1955,John,
+WA,M,1991,john,
+WA,M,1992,michael,444
+WA,F,2011,Taylor,408
+WA,F,1928,Casey,44
+WA,M,1969,James,583
+WA,F,1987,Taylor,651
+,F,1977,Patricia,248
+WA,F,2016,Patricia,131
+WA,F,1947,Mary,7
+WA,,2004,Jordan,105
+WA,M,1997,Michael,70
+,M,1941,michael,316
+WA,M,1932,Casey,53
+WA,F,1993,Patricia,7
+WA,M,1920,James,12
+WA,F,1945,Alex,5
+WA,F,2009,Patricia,12
+WA,M,2020,Patricia,19
+WA,F,1966,Patricia,430
+WA,F,1935,Jordan,58
+WA,,1998,,625
+WA,F,2015,Jennifer,18
+WA,,1955,Jennifer,661
+WA,M,1948,Casey,372
+WA,M,1945,Jordan,74
+WA,M,1920,Alex,10
 WA,F,,,26
-WA, F ,1939.0,Patricia,619
-WA,F,1946.0,Patricia,299
-WA,F,1967.0,Mary,521
-WA,,2016.0,,
-WA,,1967.0, Jennifer ,309
-WA,F,1999.0,Jennifer,
- WA ,M,1977.0,Casey,
- WA , M ,1955.0,James,554
-,M,1945.0,Casey,
-WA,F,1945.0,Taylor,114
-WA,M,1967.0,Jordan,358
+WA,F,1939,Patricia,619
+WA,F,1946,Patricia,299
+WA,F,1967,Mary,521
+WA,,2016,,
+WA,,1967,Jennifer,309
+WA,F,1999,Jennifer,
+WA,M,1977,Casey,
+WA,M,1955,James,554
+,M,1945,Casey,
+WA,F,1945,Taylor,114
+WA,M,1967,Jordan,358
 WA,,,Mary,27
-WA, F ,1976.0, Taylor ,151
-WA,F,1964.0,Patricia,540
- WA ,M,1973.0,robert,302
-WA,M,1962.0,taylor,208
-WA, F ,2012.0,Alex,272
-WA,F,1965.0,Alex,146
-WA,F,1971.0,Linda,123
-WA,M,2005.0,Taylor,333
- WA ,F,1965.0,Casey,574
-WA,M,2007.0,Robert,87
-WA,F,1966.0,Taylor,217
-WA,M,1942.0,Jordan,198
-WA,F,1961.0,Linda,162
-WA,M,1990.0,Robert,573
-WA,F,1976.0,Linda,317
-WA,F,1986.0,Jennifer,816
-WA,M,1929.0,John,11
-WA,M,1993.0, Michael ,157
-WA, M ,2003.0,Jordan,
-WA,F,1989.0,Alex,54
-WA,F,2020.0,,9
+WA,F,1976,Taylor,151
+WA,F,1964,Patricia,540
+WA,M,1973,robert,302
+WA,M,1962,taylor,208
+WA,F,2012,Alex,272
+WA,F,1965,Alex,146
+WA,F,1971,Linda,123
+WA,M,2005,Taylor,333
+WA,F,1965,Casey,574
+WA,M,2007,Robert,87
+WA,F,1966,Taylor,217
+WA,M,1942,Jordan,198
+WA,F,1961,Linda,162
+WA,M,1990,Robert,573
+WA,F,1976,Linda,317
+WA,F,1986,Jennifer,816
+WA,M,1929,John,11
+WA,M,1993,Michael,157
+WA,M,2003,Jordan,
+WA,F,1989,Alex,54
+WA,F,2020,,9
 WA,M,,,1162
-WA,F,2002.0,Casey,310
-WA,F,1994.0,Taylor,374
-WA,M,2016.0,Michael,272
-WA,M,1952.0,,339
-WA,M,1950.0,Taylor,524
-WA,M,1931.0,Robert,81
-WA,F,1948.0,Casey,16
-WA,M,1955.0,Patricia,50
-WA,M,2011.0,Linda,257
- WA ,F,1980.0,Mary,696
-WA,F,2003.0,Casey,21
-WA,M,1961.0,James,538
-WA, F ,1935.0,Alex,26
- WA ,F,2010.0,Jennifer,684
-WA,F,2002.0,Taylor,365
-WA,F,1953.0,Jordan,87
-WA,M,2005.0,Robert,10
-WA,,1971.0,casey,
- WA ,M,1997.0,Jordan,460
-WA, F ,1946.0,Jordan,549
-WA, M ,1980.0,Michael,
-WA,,1939.0, Jennifer ,95
-WA,M,1944.0,Casey,44
-WA,M,1954.0,Alex,238
- WA ,,2014.0,Casey,28
-WA,F,2002.0,Alex,637
-WA,F,1919.0,Jennifer,137
-WA,F,1948.0,Mary,44
- WA ,M,2016.0,Casey,72
- WA ,F,1976.0,Patricia,699
-WA,F,2011.0,Jennifer,10
-WA,F,1952.0, Linda ,22
+WA,F,2002,Casey,310
+WA,F,1994,Taylor,374
+WA,M,2016,Michael,272
+WA,M,1952,,339
+WA,M,1950,Taylor,524
+WA,M,1931,Robert,81
+WA,F,1948,Casey,16
+WA,M,1955,Patricia,50
+WA,M,2011,Linda,257
+WA,F,1980,Mary,696
+WA,F,2003,Casey,21
+WA,M,1961,James,538
+WA,F,1935,Alex,26
+WA,F,2010,Jennifer,684
+WA,F,2002,Taylor,365
+WA,F,1953,Jordan,87
+WA,M,2005,Robert,10
+WA,,1971,casey,
+WA,M,1997,Jordan,460
+WA,F,1946,Jordan,549
+WA,M,1980,Michael,
+WA,,1939,Jennifer,95
+WA,M,1944,Casey,44
+WA,M,1954,Alex,238
+WA,,2014,Casey,28
+WA,F,2002,Alex,637
+WA,F,1919,Jennifer,137
+WA,F,1948,Mary,44
+WA,M,2016,Casey,72
+WA,F,1976,Patricia,699
+WA,F,2011,Jennifer,10
+WA,F,1952,Linda,22
 WA,F,,Patricia,79
-, F ,1969.0,Casey,274
-WA,F,2011.0,Alex,293
-WA,M,2021.0,Robert,173
- WA ,F,1957.0,Mary,
-WA,F,1979.0,Jennifer,281
-WA,M,1974.0,Jordan,398
-WA,F,1932.0,Patricia,34
-WA,F,2009.0,Mary,43
-WA,M,1970.0,Taylor,379
+,F,1969,Casey,274
+WA,F,2011,Alex,293
+WA,M,2021,Robert,173
+WA,F,1957,Mary,
+WA,F,1979,Jennifer,281
+WA,M,1974,Jordan,398
+WA,F,1932,Patricia,34
+WA,F,2009,Mary,43
+WA,M,1970,Taylor,379
 WA,F,,Jennifer,209
-WA,M,2017.0,Robert,128
-WA,F,1990.0,,435
-WA,M,2009.0,Robert,55
-WA,M,1931.0,Michael,6
-WA,M,1938.0,Casey,534
-WA,F,1994.0,Patricia,165
-WA,F,1911.0,Linda,24
- WA ,F,1964.0,Linda,144
-WA,F,1914.0,Casey,35
- WA ,F,1977.0,mary,289
-WA,F,1939.0,Linda,214
-WA,F,1992.0,Jordan,598
-WA,F,1988.0,casey,39
- WA ,F,1962.0, Patricia ,141
-WA,M,1995.0,John,480
-WA,F,2008.0,Mary,763
-WA,M,2007.0,Casey,380
-WA, M ,1946.0,Robert,327
-WA,F,1996.0,Mary,18
-WA,M,1991.0,Taylor,276
-WA,F,1996.0,Alex,8
-WA,F,1926.0,Linda,82
-WA,F,1967.0,Casey,33
-WA,F,1956.0,,14
-WA,M,1991.0,alex,505
-WA,,1940.0,James,32
-WA,F,1969.0,Patricia,35
-WA,M,1972.0,james,375
-WA,F,2013.0,,417
- WA ,F,1947.0, Alex ,69
-WA,M,1994.0,Jennifer,31
-WA,M,2022.0,Taylor,15
- WA ,M,1942.0,Alex,451
-WA,F,1978.0,Alex,366
-WA,M,1957.0,,81
- WA ,F,2019.0,Patricia,22
-WA,,1977.0,Casey,
+WA,M,2017,Robert,128
+WA,F,1990,,435
+WA,M,2009,Robert,55
+WA,M,1931,Michael,6
+WA,M,1938,Casey,534
+WA,F,1994,Patricia,165
+WA,F,1911,Linda,24
+WA,F,1964,Linda,144
+WA,F,1914,Casey,35
+WA,F,1977,mary,289
+WA,F,1939,Linda,214
+WA,F,1992,Jordan,598
+WA,F,1988,casey,39
+WA,F,1962,Patricia,141
+WA,M,1995,John,480
+WA,F,2008,Mary,763
+WA,M,2007,Casey,380
+WA,M,1946,Robert,327
+WA,F,1996,Mary,18
+WA,M,1991,Taylor,276
+WA,F,1996,Alex,8
+WA,F,1926,Linda,82
+WA,F,1967,Casey,33
+WA,F,1956,,14
+WA,M,1991,alex,505
+WA,,1940,James,32
+WA,F,1969,Patricia,35
+WA,M,1972,james,375
+WA,F,2013,,417
+WA,F,1947,Alex,69
+WA,M,1994,Jennifer,31
+WA,M,2022,Taylor,15
+WA,M,1942,Alex,451
+WA,F,1978,Alex,366
+WA,M,1957,,81
+WA,F,2019,Patricia,22
+WA,,1977,Casey,
 WA,F,,Patricia,717
-,M,1942.0,James,52
-WA,F,1924.0,Mary,58
-WA,F,1975.0,Casey,564
- WA , M ,1984.0,Taylor,
- WA ,M,1925.0,Taylor,6
-WA,F,1944.0,Alex,1025
-WA, M ,1952.0,Taylor,42
-WA,F,1999.0,Jordan,40
-WA,F,1945.0,Mary,575
- WA ,M,1990.0,Michael,756
-WA,M,2011.0,Michael,56
-WA,M,1950.0,Alex,10
-WA,F,2005.0,Taylor,16
-WA,M,2016.0,Taylor,85
- WA ,M,1966.0,Michael,
-WA, M ,1910.0,Taylor,24
+,M,1942,James,52
+WA,F,1924,Mary,58
+WA,F,1975,Casey,564
+WA,M,1984,Taylor,
+WA,M,1925,Taylor,6
+WA,F,1944,Alex,1025
+WA,M,1952,Taylor,42
+WA,F,1999,Jordan,40
+WA,F,1945,Mary,575
+WA,M,1990,Michael,756
+WA,M,2011,Michael,56
+WA,M,1950,Alex,10
+WA,F,2005,Taylor,16
+WA,M,2016,Taylor,85
+WA,M,1966,Michael,
+WA,M,1910,Taylor,24
 WA,F,,linda,210
-WA,F,1959.0,Patricia,421
-,F,2006.0,Linda,28
-WA,M,1918.0,james,46
-WA,M,1919.0,Michael,51
-WA,F,1996.0,Jennifer,19
- WA ,,2013.0,Mary,66
-WA,F,2005.0,Casey,900
-WA, M ,1943.0,Casey,531
-WA,,2007.0,Michael,288
-WA,M,1988.0,,596
-WA,M,1987.0,Jordan,31
-WA,F,1969.0,Jordan,560
-, M ,1983.0,Jordan,449
-WA,F,1964.0,Casey,604
-WA, F ,1964.0,Mary,222
-WA,,1932.0, Jordan ,215
- WA , M ,1972.0, Casey ,59
-WA,F,1945.0,Casey,320
-WA,F,1976.0,Mary,581
-WA,M,2021.0,Casey,9
+WA,F,1959,Patricia,421
+,F,2006,Linda,28
+WA,M,1918,james,46
+WA,M,1919,Michael,51
+WA,F,1996,Jennifer,19
+WA,,2013,Mary,66
+WA,F,2005,Casey,900
+WA,M,1943,Casey,531
+WA,,2007,Michael,288
+WA,M,1988,,596
+WA,M,1987,Jordan,31
+WA,F,1969,Jordan,560
+,M,1983,Jordan,449
+WA,F,1964,Casey,604
+WA,F,1964,Mary,222
+WA,,1932,Jordan,215
+WA,M,1972,Casey,59
+WA,F,1945,Casey,320
+WA,F,1976,Mary,581
+WA,M,2021,Casey,9
 WA,M,,Taylor,24
-WA,M,1961.0,Michael,8
-WA,F,1920.0,Taylor,132
-WA,F,1948.0,John,360
+WA,M,1961,Michael,8
+WA,F,1920,Taylor,132
+WA,F,1948,John,360
 WA,M,,,122
-WA,F,1947.0,Linda,131
-,F,1939.0,Taylor,58
-WA,F,1965.0,Jennifer,
-WA,F,1988.0,John,418
- WA , M ,1985.0,Robert,215
-WA,F,1968.0,Casey,582
-WA,F,2014.0,Taylor,32
- WA ,,1971.0,Alex,362
-WA,F,1994.0,Jennifer,570
-WA,M,2015.0,Patricia,318
-,F,1958.0,Patricia,100
- WA ,M,1953.0,Robert,448
-WA, F ,2015.0,Casey,358
-WA,M,1946.0,Jordan,545
-WA,F,2000.0,,458
+WA,F,1947,Linda,131
+,F,1939,Taylor,58
+WA,F,1965,Jennifer,
+WA,F,1988,John,418
+WA,M,1985,Robert,215
+WA,F,1968,Casey,582
+WA,F,2014,Taylor,32
+WA,,1971,Alex,362
+WA,F,1994,Jennifer,570
+WA,M,2015,Patricia,318
+,F,1958,Patricia,100
+WA,M,1953,Robert,448
+WA,F,2015,Casey,358
+WA,M,1946,Jordan,545
+WA,F,2000,,458
 WA,F,,Taylor,154
-WA,F,2007.0,Patricia,399
-WA,F,1990.0, Linda ,691
-WA,,1945.0,Linda,115
-WA,F,1924.0,Taylor,96
+WA,F,2007,Patricia,399
+WA,F,1990,Linda,691
+WA,,1945,Linda,115
+WA,F,1924,Taylor,96
 WA,M,,James,699
-WA,M,2010.0,John,26
-WA,M,2007.0,James,683
-WA,M,1949.0, James ,
-WA,M,1993.0,Casey,87
-WA,F,2010.0,Casey,686
-WA,M,2008.0,Alex,1032
-WA,M,1969.0,Jordan,112
-WA,M,2003.0,Michael,5
-WA,F,2017.0,Casey,168
-WA,M,1944.0,Michael,61
-WA,M,2016.0, Robert ,192
-WA,F,1943.0,Casey,18
-WA,M,1985.0,Taylor,230
-WA,M,2004.0,Taylor,39
-WA,M,1993.0,,865
-WA,F,1980.0,Alex,291
- WA ,F,1978.0,Casey,515
-WA,F,1990.0,Robert,56
-WA,M,1924.0,Robert,12
-WA,F,2016.0,casey,669
-WA,F,1959.0,Mary,9
-WA,M,2003.0,James,64
-WA,M,1970.0,Michael,140
- WA ,F,1991.0,Jennifer,52
- WA ,F,2010.0,Mary,247
-WA,,1939.0,Casey,
-WA, M ,1925.0,Jordan,17
-WA,F,1941.0,Jennifer,
-WA,F,1984.0,Robert,1052
-WA,F,2001.0,Jordan,183
-WA,M,2018.0,Jordan,368
-WA,M,1960.0,Jordan,17
-WA,M,1918.0,Jennifer,32
-WA,,1961.0,Patricia,42
-WA,F,2017.0,Patricia,159
-WA,F,1991.0,Mary,75
-WA, M ,1993.0,,426
-WA,M,1999.0,Robert,55
-WA,M,1925.0,John,9
-WA,M,1941.0,John,15
-WA,,1967.0,patricia,243
-WA,M,1913.0, Robert ,8
-WA,M,1967.0,Alex,857
-WA,M,1955.0,Michael,289
-WA,M,1984.0,John,992
-WA,M,1977.0,James,498
-WA,F,2011.0,Patricia,165
-WA,F,1918.0,Patricia,20
-WA,,1986.0,Taylor,196
-WA,M,1955.0,Taylor,39
- WA ,M,2000.0,John,492
-WA,,1952.0,Alex,509
- WA ,F,,Alex,7
- WA ,M,1988.0,Jordan,853
-WA,M,1946.0,James,18
-WA,M,1976.0,Jordan,77
- WA ,M,1981.0,John,1178
-WA,M,2019.0,Michael,36
-WA,F,1922.0,Alex,7
-WA,M,1990.0,Jordan,323
-WA,F,1913.0,Alex,91
-WA,M,2020.0,Casey,259
- WA ,,1940.0,Taylor,49
-WA,M,1994.0,James,116
-WA,F,1989.0,Michael,180
- WA ,F,1976.0,Jennifer,953
-WA,F,1958.0,Taylor,77
-WA,M,1946.0,,283
-WA,M,1956.0,James,337
-WA,M,1955.0,Alex,662
-WA,F,1991.0, Linda ,208
-WA,M,1953.0,Michael,124
-WA,F,1972.0,casey,28
-WA,F,1911.0,Mary,5
-WA,F,1973.0,John,866
-WA,M,2014.0,Michael,323
-WA,,2000.0,Michael,840
-WA,M,1983.0,Michael,136
-WA,F,1940.0,Jennifer,105
- WA , F ,2002.0,Patricia,88
-,F,1999.0,Alex,415
-WA,M,1995.0,Robert,303
-WA,F,1976.0,,276
-WA,M,1931.0,James,161
-WA,F,1993.0,Casey,361
-WA,F,2017.0,Robert,64
-WA,F,2009.0,Jennifer,41
- WA , F ,1985.0,Taylor,408
-WA,F,1974.0,Jennifer,258
-WA,M,1911.0,Michael,43
-WA,F,1937.0,Patricia,6
+WA,M,2010,John,26
+WA,M,2007,James,683
+WA,M,1949,James,
+WA,M,1993,Casey,87
+WA,F,2010,Casey,686
+WA,M,2008,Alex,1032
+WA,M,1969,Jordan,112
+WA,M,2003,Michael,5
+WA,F,2017,Casey,168
+WA,M,1944,Michael,61
+WA,M,2016,Robert,192
+WA,F,1943,Casey,18
+WA,M,1985,Taylor,230
+WA,M,2004,Taylor,39
+WA,M,1993,,865
+WA,F,1980,Alex,291
+WA,F,1978,Casey,515
+WA,F,1990,Robert,56
+WA,M,1924,Robert,12
+WA,F,2016,casey,669
+WA,F,1959,Mary,9
+WA,M,2003,James,64
+WA,M,1970,Michael,140
+WA,F,1991,Jennifer,52
+WA,F,2010,Mary,247
+WA,,1939,Casey,
+WA,M,1925,Jordan,17
+WA,F,1941,Jennifer,
+WA,F,1984,Robert,1052
+WA,F,2001,Jordan,183
+WA,M,2018,Jordan,368
+WA,M,1960,Jordan,17
+WA,M,1918,Jennifer,32
+WA,,1961,Patricia,42
+WA,F,2017,Patricia,159
+WA,F,1991,Mary,75
+WA,M,1993,,426
+WA,M,1999,Robert,55
+WA,M,1925,John,9
+WA,M,1941,John,15
+WA,,1967,patricia,243
+WA,M,1913,Robert,8
+WA,M,1967,Alex,857
+WA,M,1955,Michael,289
+WA,M,1984,John,992
+WA,M,1977,James,498
+WA,F,2011,Patricia,165
+WA,F,1918,Patricia,20
+WA,,1986,Taylor,196
+WA,M,1955,Taylor,39
+WA,M,2000,John,492
+WA,,1952,Alex,509
+WA,F,,Alex,7
+WA,M,1988,Jordan,853
+WA,M,1946,James,18
+WA,M,1976,Jordan,77
+WA,M,1981,John,1178
+WA,M,2019,Michael,36
+WA,F,1922,Alex,7
+WA,M,1990,Jordan,323
+WA,F,1913,Alex,91
+WA,M,2020,Casey,259
+WA,,1940,Taylor,49
+WA,M,1994,James,116
+WA,F,1989,Michael,180
+WA,F,1976,Jennifer,953
+WA,F,1958,Taylor,77
+WA,M,1946,,283
+WA,M,1956,James,337
+WA,M,1955,Alex,662
+WA,F,1991,Linda,208
+WA,M,1953,Michael,124
+WA,F,1972,casey,28
+WA,F,1911,Mary,5
+WA,F,1973,John,866
+WA,M,2014,Michael,323
+WA,,2000,Michael,840
+WA,M,1983,Michael,136
+WA,F,1940,Jennifer,105
+WA,F,2002,Patricia,88
+,F,1999,Alex,415
+WA,M,1995,Robert,303
+WA,F,1976,,276
+WA,M,1931,James,161
+WA,F,1993,Casey,361
+WA,F,2017,Robert,64
+WA,F,2009,Jennifer,41
+WA,F,1985,Taylor,408
+WA,F,1974,Jennifer,258
+WA,M,1911,Michael,43
+WA,F,1937,Patricia,6
 WA,F,,Patricia,28
-WA,M,1949.0,Casey,862
-WA,F,1961.0,Alex,276
-WA,M,1994.0,Jordan,715
-WA,M,2012.0,Alex,58
-WA,F,1998.0,Jordan,313
-WA,F,1932.0,Patricia,34
-WA,F,2008.0,Patricia,243
- WA ,M,1955.0,Jordan,674
-WA,M,1994.0,Robert,552
-WA,M,1921.0,John,90
- WA , M ,1972.0, Casey ,59
- WA ,F,1920.0,Casey,8
-WA,F,2019.0, Jordan ,69
-WA,F,1953.0,,441
-WA,M,2012.0,James,30
-WA,M,2019.0,Jordan,9
-,M,1944.0,Robert,97
-WA,M,2015.0,Michael,94
-,M,1952.0,Jordan,502
- WA ,,1915.0,John,5
- WA , F ,2022.0,Alex,
-WA,F,1977.0,Jordan,40
-WA,F,1998.0,Patricia,528
+WA,M,1949,Casey,862
+WA,F,1961,Alex,276
+WA,M,1994,Jordan,715
+WA,M,2012,Alex,58
+WA,F,1998,Jordan,313
+WA,F,1932,Patricia,34
+WA,F,2008,Patricia,243
+WA,M,1955,Jordan,674
+WA,M,1994,Robert,552
+WA,M,1921,John,90
+WA,M,1972,Casey,59
+WA,F,1920,Casey,8
+WA,F,2019,Jordan,69
+WA,F,1953,,441
+WA,M,2012,James,30
+WA,M,2019,Jordan,9
+,M,1944,Robert,97
+WA,M,2015,Michael,94
+,M,1952,Jordan,502
+WA,,1915,John,5
+WA,F,2022,Alex,
+WA,F,1977,Jordan,40
+WA,F,1998,Patricia,528
 WA,,,Robert,658
-WA,F,2014.0,Patricia,168
-WA,M,2021.0,Jordan,495
-,M,1986.0,Jordan,661
-WA, M ,1995.0,jordan,136
-WA,F,1961.0,jennifer,156
-WA,M,1989.0,Robert,218
-WA,F,1988.0,patricia,28
-WA,F,1943.0,Mary,208
-WA,M,1976.0,Patricia,453
- WA ,M,2011.0,James,203
-WA,M,1925.0,Alex,66
-WA,M,1952.0,James,61
-WA,M,2007.0,John,1219
-,F,1966.0,Mary,241
-WA,M,1963.0,John,61
-WA,F,2016.0, Jordan ,1132
-WA,M,1988.0,Alex,6
-WA,M,1976.0,John,307
-WA,M,2002.0,Casey,320
-WA,M,2015.0,Robert,199
-WA,M,1913.0,Casey,45
-WA,,1949.0,Mary,174
-WA, M ,1970.0,James,151
-WA,F,1924.0,Alex,24
-WA,F,1921.0,Alex,159
- WA ,F,1949.0,Jordan,410
-WA,F,1921.0,Mary,274
-WA, F ,1936.0,Patricia,578
-WA,F,1941.0,casey,89
-WA,M,1963.0,alex,399
-WA,M,2016.0,Jordan,197
+WA,F,2014,Patricia,168
+WA,M,2021,Jordan,495
+,M,1986,Jordan,661
+WA,M,1995,jordan,136
+WA,F,1961,jennifer,156
+WA,M,1989,Robert,218
+WA,F,1988,patricia,28
+WA,F,1943,Mary,208
+WA,M,1976,Patricia,453
+WA,M,2011,James,203
+WA,M,1925,Alex,66
+WA,M,1952,James,61
+WA,M,2007,John,1219
+,F,1966,Mary,241
+WA,M,1963,John,61
+WA,F,2016,Jordan,1132
+WA,M,1988,Alex,6
+WA,M,1976,John,307
+WA,M,2002,Casey,320
+WA,M,2015,Robert,199
+WA,M,1913,Casey,45
+WA,,1949,Mary,174
+WA,M,1970,James,151
+WA,F,1924,Alex,24
+WA,F,1921,Alex,159
+WA,F,1949,Jordan,410
+WA,F,1921,Mary,274
+WA,F,1936,Patricia,578
+WA,F,1941,casey,89
+WA,M,1963,alex,399
+WA,M,2016,Jordan,197
 WA,M,,,182
- WA ,M,2013.0,John,58
- WA ,M,1979.0,Casey,176
-WA,F,1926.0,Jordan,40
-WA,F,2017.0,Taylor,15
-WA,F,1962.0,Jordan,56
-WA,M,2017.0,,718
- WA ,M,2020.0, John ,187
-WA,F,2007.0,mary,569
-WA,M,1966.0,John,884
-WA,F,1950.0,Jennifer,135
-WA,M,1916.0,Alex,9
-WA,M,1985.0,mary,40
- WA , F ,1967.0,Jordan,501
-WA,M,1970.0, Casey ,440
-WA,F,1985.0,Jennifer,275
-WA,M,1946.0,John,5
-WA,,1963.0,alex,14
-WA,F,1911.0,james,10
-WA,F,1937.0,Mary,40
-WA,M,1997.0,James,176
-WA,M,1953.0,John,432
-,M,1966.0,James,
-WA, F ,1982.0,Linda,158
- WA , M ,2004.0,Alex,636
-WA,F,1990.0,Casey,751
-WA, F ,1936.0,Jennifer,8
-WA,F,2016.0,Mary,30
-WA,M,1977.0,Jordan,
-WA,M,2009.0,John,66
-WA,F,1982.0,Mary,43
-WA,M,1987.0,Jordan,31
-WA,,2007.0,Jennifer,6
-WA,M,1997.0,Alex,530
-WA,F,1997.0,Patricia,880
-WA,M,1958.0,Casey,101
-WA,F,1982.0,Jennifer,83
-WA,M,1999.0, Jordan ,67
-WA,M,1934.0,Alex,95
+WA,M,2013,John,58
+WA,M,1979,Casey,176
+WA,F,1926,Jordan,40
+WA,F,2017,Taylor,15
+WA,F,1962,Jordan,56
+WA,M,2017,,718
+WA,M,2020,John,187
+WA,F,2007,mary,569
+WA,M,1966,John,884
+WA,F,1950,Jennifer,135
+WA,M,1916,Alex,9
+WA,M,1985,mary,40
+WA,F,1967,Jordan,501
+WA,M,1970,Casey,440
+WA,F,1985,Jennifer,275
+WA,M,1946,John,5
+WA,,1963,alex,14
+WA,F,1911,james,10
+WA,F,1937,Mary,40
+WA,M,1997,James,176
+WA,M,1953,John,432
+,M,1966,James,
+WA,F,1982,Linda,158
+WA,M,2004,Alex,636
+WA,F,1990,Casey,751
+WA,F,1936,Jennifer,8
+WA,F,2016,Mary,30
+WA,M,1977,Jordan,
+WA,M,2009,John,66
+WA,F,1982,Mary,43
+WA,M,1987,Jordan,31
+WA,,2007,Jennifer,6
+WA,M,1997,Alex,530
+WA,F,1997,Patricia,880
+WA,M,1958,Casey,101
+WA,F,1982,Jennifer,83
+WA,M,1999,Jordan,67
+WA,M,1934,Alex,95
 WA,F,,Linda,56
-WA,,1975.0,Linda,1150
-WA,M,1957.0,James,187
-WA, F ,1999.0,Linda,390
-WA,F,2000.0, Patricia ,21
-WA,M,1978.0,Taylor,538
-WA,F,1942.0,Alex,15
-WA,F,1995.0,Linda,88
-WA,M,1958.0,Jennifer,1286
-WA,F,2021.0,Patricia,20
-WA,M,1975.0,James,687
-WA,M,2007.0,Taylor,65
-WA,F,1976.0,Alex,106
-WA,M,2010.0,Robert,22
-,F,1930.0, Jordan ,7
-WA,M,1954.0,Robert,101
-WA,M,1926.0,James,14
-WA,F,1973.0,Mary,545
-WA,M,2014.0,James,194
-WA,F,1982.0,Taylor,1014
-WA,M,2020.0,Robert,451
-WA, F ,1962.0,Casey,613
-WA,M,1996.0,James,900
-WA,F,1983.0,Casey,226
-WA,F,1993.0,Taylor,224
-WA,F,1981.0,Jordan,818
-WA,M,1919.0,Alex,8
-WA,M,1973.0,Alex,268
-WA,F,2013.0,Jordan,54
- WA ,F,1994.0, Alex ,146
-WA,F,1941.0,Taylor,354
-WA,F,2015.0,Mary,191
-WA,M,1939.0,Robert,232
-WA,F,2008.0,Linda,619
-WA,F,1936.0,Alex,
-WA,M,1948.0, James ,54
- WA ,F,1998.0,Mary,260
+WA,,1975,Linda,1150
+WA,M,1957,James,187
+WA,F,1999,Linda,390
+WA,F,2000,Patricia,21
+WA,M,1978,Taylor,538
+WA,F,1942,Alex,15
+WA,F,1995,Linda,88
+WA,M,1958,Jennifer,1286
+WA,F,2021,Patricia,20
+WA,M,1975,James,687
+WA,M,2007,Taylor,65
+WA,F,1976,Alex,106
+WA,M,2010,Robert,22
+,F,1930,Jordan,7
+WA,M,1954,Robert,101
+WA,M,1926,James,14
+WA,F,1973,Mary,545
+WA,M,2014,James,194
+WA,F,1982,Taylor,1014
+WA,M,2020,Robert,451
+WA,F,1962,Casey,613
+WA,M,1996,James,900
+WA,F,1983,Casey,226
+WA,F,1993,Taylor,224
+WA,F,1981,Jordan,818
+WA,M,1919,Alex,8
+WA,M,1973,Alex,268
+WA,F,2013,Jordan,54
+WA,F,1994,Alex,146
+WA,F,1941,Taylor,354
+WA,F,2015,Mary,191
+WA,M,1939,Robert,232
+WA,F,2008,Linda,619
+WA,F,1936,Alex,
+WA,M,1948,James,54
+WA,F,1998,Mary,260
 WA,M,,Alex,29
-WA,F,1996.0,Patricia,164
-WA, F ,2001.0,Taylor,229
-WA,M,2011.0,Robert,26
-,F,1981.0,Linda,52
-WA,F,1935.0,Patricia,13
-WA,M,1986.0,Michael,1178
-,,1990.0,Mary,163
- WA ,M,2004.0,Robert,187
-WA,F,2017.0,Linda,34
-WA,F,1955.0,Alex,40
-WA,F,1929.0,Casey,6
-WA,F,1927.0,Linda,57
-,M,1973.0,Taylor,165
-, F ,2014.0,Jennifer,63
-WA, F ,1994.0,Linda,63
+WA,F,1996,Patricia,164
+WA,F,2001,Taylor,229
+WA,M,2011,Robert,26
+,F,1981,Linda,52
+WA,F,1935,Patricia,13
+WA,M,1986,Michael,1178
+,,1990,Mary,163
+WA,M,2004,Robert,187
+WA,F,2017,Linda,34
+WA,F,1955,Alex,40
+WA,F,1929,Casey,6
+WA,F,1927,Linda,57
+,M,1973,Taylor,165
+,F,2014,Jennifer,63
+WA,F,1994,Linda,63
 WA,F,,Mary,13
-WA,F,1951.0,Jordan,353
-WA,,1980.0,jordan,719
+WA,F,1951,Jordan,353
+WA,,1980,jordan,719
 WA,,,Mary,256
-WA,M,1986.0,James,278
-WA,M,1930.0,Michael,35
-WA,F,1990.0,Jordan,175
-WA,F,2018.0,Casey,19
-WA,M,1982.0,Taylor,380
-WA,F,2007.0,Alex,787
+WA,M,1986,James,278
+WA,M,1930,Michael,35
+WA,F,1990,Jordan,175
+WA,F,2018,Casey,19
+WA,M,1982,Taylor,380
+WA,F,2007,Alex,787
 ,M,,Taylor,433
-WA,M,1962.0,,196
-WA,F,1928.0,Patricia,470
- WA ,F,1941.0,Linda,771
-WA,F,1981.0,Mary,21
- WA ,M,1916.0,John,7
-WA,F,1974.0,Patricia,390
-WA,M,1931.0,Taylor,82
- WA ,F,2005.0,Jordan,
-WA, M ,1984.0,James,209
- WA ,M,2020.0, John ,187
-WA,M,2019.0,,10
-WA,F,1916.0,Casey,48
- WA ,F,2008.0,Taylor,25
- WA ,M,1964.0,,1092
-,M,1946.0,Casey,468
-WA,F,1964.0,alex,518
-WA,M,1972.0,Alex,580
-WA,M,1951.0,Robert,5
-WA,,1967.0,Casey,
-WA,F,1954.0,Mary,230
-WA,M,1989.0,Michael,282
-WA,M,1919.0,Jordan,7
- WA ,F,2002.0,Linda,37
-WA,M,1979.0,Taylor,398
-WA,M,1983.0,Robert,378
-WA, M ,1939.0,James,162
-WA,F,1944.0,Taylor,1143
+WA,M,1962,,196
+WA,F,1928,Patricia,470
+WA,F,1941,Linda,771
+WA,F,1981,Mary,21
+WA,M,1916,John,7
+WA,F,1974,Patricia,390
+WA,M,1931,Taylor,82
+WA,F,2005,Jordan,
+WA,M,1984,James,209
+WA,M,2020,John,187
+WA,M,2019,,10
+WA,F,1916,Casey,48
+WA,F,2008,Taylor,25
+WA,M,1964,,1092
+,M,1946,Casey,468
+WA,F,1964,alex,518
+WA,M,1972,Alex,580
+WA,M,1951,Robert,5
+WA,,1967,Casey,
+WA,F,1954,Mary,230
+WA,M,1989,Michael,282
+WA,M,1919,Jordan,7
+WA,F,2002,Linda,37
+WA,M,1979,Taylor,398
+WA,M,1983,Robert,378
+WA,M,1939,James,162
+WA,F,1944,Taylor,1143
 WA,F,,Casey,37
- WA ,F,,Alex,127
-WA,M,2009.0,Michael,21
-WA, F ,1932.0, Alex ,173
-WA,M,2016.0,John,151
-WA,M,2008.0,Casey,206
-WA,,1961.0,Casey,300
-WA, M ,,Alex,77
- WA ,F,1986.0,Jordan,299
+WA,F,,Alex,127
+WA,M,2009,Michael,21
+WA,F,1932,Alex,173
+WA,M,2016,John,151
+WA,M,2008,Casey,206
+WA,,1961,Casey,300
+WA,M,,Alex,77
+WA,F,1986,Jordan,299
 WA,F,,Taylor,144
-WA,M,1944.0,Alex,58
-WA,M,1931.0,Jordan,29
-WA,M,1951.0,Mary,305
-WA,M,1973.0,Jordan,878
-WA,F,1960.0,Alex,458
- WA ,F,2004.0,mary,132
-WA, M ,1936.0,John,9
-WA,F,1989.0,Jordan,59
-WA,M,1952.0,Alex,391
- WA ,,,Casey,402
-WA,F,2001.0,Patricia,278
-WA,F,2008.0,Jordan,343
-WA, F ,1984.0,Patricia,37
- WA ,M,1998.0,Taylor,
-WA,M,1953.0,Alex,874
-WA, M ,1933.0,Jordan,31
-WA,M,1971.0,Robert,273
- WA ,F,1988.0,Mary,45
-WA,M,1978.0,,611
-WA,M,1932.0,Taylor,89
-WA,M,1918.0,Taylor,26
-WA,M,1959.0,Jordan,291
-WA,M,1947.0,Jordan,8
-WA,M,1947.0,Alex,133
-WA,F,2005.0, Patricia ,788
-WA,F,1964.0,Jordan,967
-WA,M,2001.0,Alex,338
-WA,M,2010.0,Jordan,953
-WA,M,1993.0, Patricia ,37
+WA,M,1944,Alex,58
+WA,M,1931,Jordan,29
+WA,M,1951,Mary,305
+WA,M,1973,Jordan,878
+WA,F,1960,Alex,458
+WA,F,2004,mary,132
+WA,M,1936,John,9
+WA,F,1989,Jordan,59
+WA,M,1952,Alex,391
+WA,,,Casey,402
+WA,F,2001,Patricia,278
+WA,F,2008,Jordan,343
+WA,F,1984,Patricia,37
+WA,M,1998,Taylor,
+WA,M,1953,Alex,874
+WA,M,1933,Jordan,31
+WA,M,1971,Robert,273
+WA,F,1988,Mary,45
+WA,M,1978,,611
+WA,M,1932,Taylor,89
+WA,M,1918,Taylor,26
+WA,M,1959,Jordan,291
+WA,M,1947,Jordan,8
+WA,M,1947,Alex,133
+WA,F,2005,Patricia,788
+WA,F,1964,Jordan,967
+WA,M,2001,Alex,338
+WA,M,2010,Jordan,953
+WA,M,1993,Patricia,37
 WA,M,,Robert,98
-WA,M,2008.0, Michael ,233
-WA,M,2020.0,James,9
-WA, M ,1985.0,john,319
-WA,M,1954.0,Casey,466
-WA,F,1970.0,Casey,278
-WA,F,1992.0,Jennifer,411
-WA, M ,2012.0,John,456
-WA,M,1981.0,Taylor,424
-WA,F,1948.0,Alex,67
-WA,F,2010.0,Linda,367
-WA, F ,1997.0,,166
-WA,M,1993.0,Robert,537
-WA,F,1981.0,Taylor,442
- WA ,M,,,459
-WA,M,1952.0,,207
-WA,F,1992.0,James,220
-WA,M,1964.0,Casey,626
-WA,F,1949.0,Patricia,5
-WA,M,1996.0,Robert,85
-WA,F,1995.0, Mary ,41
-WA, M ,2010.0,Michael,187
-WA,F,1945.0,Patricia,17
-WA,M,1933.0,Mary,7
-WA,F,1975.0,Jordan,489
-WA,M,2006.0,John,
-WA,F,2000.0,Mary,415
-WA,F,1966.0,Linda,185
-WA,F,1934.0,Mary,23
-WA,M,1986.0,John,53
-WA,M,1940.0, Jordan ,5
-WA,F,1949.0,Linda,21
- WA ,F,1923.0,Jennifer,10
-WA,M,1995.0,Alex,19
-WA,M,1951.0,James,23
-WA,M,1968.0,Mary,714
-WA, F ,2001.0,Linda,51
-, M ,1933.0,Robert,19
-WA,M,1973.0,Linda,
+WA,M,2008,Michael,233
+WA,M,2020,James,9
+WA,M,1985,john,319
+WA,M,1954,Casey,466
+WA,F,1970,Casey,278
+WA,F,1992,Jennifer,411
+WA,M,2012,John,456
+WA,M,1981,Taylor,424
+WA,F,1948,Alex,67
+WA,F,2010,Linda,367
+WA,F,1997,,166
+WA,M,1993,Robert,537
+WA,F,1981,Taylor,442
+WA,M,,,459
+WA,M,1952,,207
+WA,F,1992,James,220
+WA,M,1964,Casey,626
+WA,F,1949,Patricia,5
+WA,M,1996,Robert,85
+WA,F,1995,Mary,41
+WA,M,2010,Michael,187
+WA,F,1945,Patricia,17
+WA,M,1933,Mary,7
+WA,F,1975,Jordan,489
+WA,M,2006,John,
+WA,F,2000,Mary,415
+WA,F,1966,Linda,185
+WA,F,1934,Mary,23
+WA,M,1986,John,53
+WA,M,1940,Jordan,5
+WA,F,1949,Linda,21
+WA,F,1923,Jennifer,10
+WA,M,1995,Alex,19
+WA,M,1951,James,23
+WA,M,1968,Mary,714
+WA,F,2001,Linda,51
+,M,1933,Robert,19
+WA,M,1973,Linda,
 WA,M,,Alex,205
-WA,F,2002.0,Jordan,218
-WA,F,2020.0, Linda ,227
-WA,F,1917.0,Linda,51
-WA, M ,1932.0,Alex,28
-WA,,1935.0,Mary,146
+WA,F,2002,Jordan,218
+WA,F,2020,Linda,227
+WA,F,1917,Linda,51
+WA,M,1932,Alex,28
+WA,,1935,Mary,146
 WA,M,,,15
-WA, F ,1975.0,Taylor,678
+WA,F,1975,Taylor,678
 WA,M,,Michael,162
-WA,F,1978.0,Mary,44
-WA,M,1947.0,Taylor,46
-WA,M,1936.0,Casey,130
-WA,M,1972.0, Jordan ,882
-WA,F,2007.0,Jordan,595
-WA,M,1926.0,Casey,69
-WA,F,2011.0,Casey,17
-WA,F,1921.0,Jordan,13
-WA,M,1970.0,,424
-WA,F,1946.0,Alex,499
-WA,F,1957.0,Jordan,34
-WA,M,1989.0,Casey,534
-WA,F,1929.0,John,243
- WA ,M,1965.0,Alex,278
-WA,F,2004.0,Linda,335
-WA,M,1934.0,Taylor,98
-WA,F,1959.0,Alex,562
-WA, F ,1960.0,,139
-WA,M,1949.0,Robert,19
- WA ,M,1945.0,Michael,251
-WA,M,1945.0,Robert,62
-WA, M ,2006.0, Michael ,229
-WA,F,1987.0,Alex,42
-WA,F,1918.0,Jordan,5
-WA,M,1950.0,John,55
-WA,M,1922.0,Jordan,66
-WA,F,2016.0,Jennifer,366
-WA,F,1978.0,Patricia,539
-WA,M,1953.0,Jordan,51
-WA,F,2016.0,Taylor,268
-WA,F,1947.0,Patricia,143
-WA,,1935.0,Casey,8
-WA,M,1979.0,James,489
-WA, M ,2015.0,John,151
-WA,F,1952.0,Casey,279
-WA,F,2006.0,Casey,504
-WA,M,2007.0,Alex,568
-WA,M,1923.0,Taylor,17
-, M ,1998.0,John,168
-WA,M,1977.0,Michael,189
-WA,M,1994.0,casey,127
-WA, F ,1960.0,,10
-WA, F ,1956.0,Jennifer,68
-WA,M,1942.0,,86
-WA,F,1961.0,Jordan,393
-WA,F,2016.0,Linda,152
-WA,F,1934.0,Casey,27
-WA,M,2017.0, Casey ,106
-WA,F,1995.0,James,51
-WA,F,1997.0,Jordan,9
-WA,M,1922.0,Alex,
-,F,1951.0,Alex,556
-WA,F,1979.0,Mary,394
-, F ,,Mary,66
-WA,F,1911.0,Jennifer,8
-WA,F,1963.0,Patricia,729
-WA,F,1972.0,Linda,203
-WA,F,1989.0,Patricia,141
-WA,M,1984.0, Alex ,233
-WA,F,1995.0,Patricia,5
-WA,F,1962.0,Linda,123
-WA,,2018.0,Jennifer,91
-WA, F ,1998.0,Casey,261
- WA ,M,1944.0,John,53
-WA,M,2009.0,James,279
-WA,F,1925.0,,13
-WA,M,2003.0,Casey,1007
-WA,M,1975.0,Michael,608
-WA,M,1988.0,John,36
-WA,F,1995.0,Alex,
-WA,F,1991.0,John,229
-WA,,1936.0,Jordan,14
-WA,F,1915.0, Casey ,62
- WA , M ,1993.0,Taylor,617
-WA,M,2001.0,Robert,40
-WA,F,1933.0,Taylor,9
-WA, F ,1935.0,Linda,43
-WA,F,, Alex ,44
-WA,F,1973.0,Jordan,397
-WA,F,1983.0,Taylor,726
- WA , F ,1987.0,Linda,456
-,F,1915.0,Jennifer,57
-WA,,2017.0,mary,126
-WA,,2000.0,Jordan,96
-WA,,1946.0,Mary,6
-WA,F,1962.0,Alex,8
-WA, F ,1960.0,Linda,610
- WA , F ,1952.0,Mary,641
- WA , M ,1962.0,Michael,68
-WA, M ,1971.0,Casey,249
-WA, F ,2000.0, Taylor ,87
-WA,M,1947.0,John,12
- WA ,M,1924.0,Michael,208
- WA , M ,1984.0,Robert,164
-WA,M,1988.0,Casey,64
-WA,F,1989.0,Taylor,176
-WA, M ,1926.0,Jordan,41
-WA,M,1947.0,James,127
+WA,F,1978,Mary,44
+WA,M,1947,Taylor,46
+WA,M,1936,Casey,130
+WA,M,1972,Jordan,882
+WA,F,2007,Jordan,595
+WA,M,1926,Casey,69
+WA,F,2011,Casey,17
+WA,F,1921,Jordan,13
+WA,M,1970,,424
+WA,F,1946,Alex,499
+WA,F,1957,Jordan,34
+WA,M,1989,Casey,534
+WA,F,1929,John,243
+WA,M,1965,Alex,278
+WA,F,2004,Linda,335
+WA,M,1934,Taylor,98
+WA,F,1959,Alex,562
+WA,F,1960,,139
+WA,M,1949,Robert,19
+WA,M,1945,Michael,251
+WA,M,1945,Robert,62
+WA,M,2006,Michael,229
+WA,F,1987,Alex,42
+WA,F,1918,Jordan,5
+WA,M,1950,John,55
+WA,M,1922,Jordan,66
+WA,F,2016,Jennifer,366
+WA,F,1978,Patricia,539
+WA,M,1953,Jordan,51
+WA,F,2016,Taylor,268
+WA,F,1947,Patricia,143
+WA,,1935,Casey,8
+WA,M,1979,James,489
+WA,M,2015,John,151
+WA,F,1952,Casey,279
+WA,F,2006,Casey,504
+WA,M,2007,Alex,568
+WA,M,1923,Taylor,17
+,M,1998,John,168
+WA,M,1977,Michael,189
+WA,M,1994,casey,127
+WA,F,1960,,10
+WA,F,1956,Jennifer,68
+WA,M,1942,,86
+WA,F,1961,Jordan,393
+WA,F,2016,Linda,152
+WA,F,1934,Casey,27
+WA,M,2017,Casey,106
+WA,F,1995,James,51
+WA,F,1997,Jordan,9
+WA,M,1922,Alex,
+,F,1951,Alex,556
+WA,F,1979,Mary,394
+,F,,Mary,66
+WA,F,1911,Jennifer,8
+WA,F,1963,Patricia,729
+WA,F,1972,Linda,203
+WA,F,1989,Patricia,141
+WA,M,1984,Alex,233
+WA,F,1995,Patricia,5
+WA,F,1962,Linda,123
+WA,,2018,Jennifer,91
+WA,F,1998,Casey,261
+WA,M,1944,John,53
+WA,M,2009,James,279
+WA,F,1925,,13
+WA,M,2003,Casey,1007
+WA,M,1975,Michael,608
+WA,M,1988,John,36
+WA,F,1995,Alex,
+WA,F,1991,John,229
+WA,,1936,Jordan,14
+WA,F,1915,Casey,62
+WA,M,1993,Taylor,617
+WA,M,2001,Robert,40
+WA,F,1933,Taylor,9
+WA,F,1935,Linda,43
+WA,F,,Alex,44
+WA,F,1973,Jordan,397
+WA,F,1983,Taylor,726
+WA,F,1987,Linda,456
+,F,1915,Jennifer,57
+WA,,2017,mary,126
+WA,,2000,Jordan,96
+WA,,1946,Mary,6
+WA,F,1962,Alex,8
+WA,F,1960,Linda,610
+WA,F,1952,Mary,641
+WA,M,1962,Michael,68
+WA,M,1971,Casey,249
+WA,F,2000,Taylor,87
+WA,M,1947,John,12
+WA,M,1924,Michael,208
+WA,M,1984,Robert,164
+WA,M,1988,Casey,64
+WA,F,1989,Taylor,176
+WA,M,1926,Jordan,41
+WA,M,1947,James,127
 WA,,,Patricia,28
-WA,M,1989.0, Taylor ,15
- WA ,F,1954.0,Casey,13
-WA,F,2008.0,Jennifer,223
-WA,F,1972.0,Jordan,239
-WA,M,1956.0,Alex,911
-WA,M,1935.0,Casey,59
-WA,M,1999.0,Casey,250
- WA ,M,2001.0,Taylor,60
-WA,F,1985.0,Patricia,365
-WA,M,1996.0,Michael,213
-WA,M,1986.0,Alex,209
-WA,F,1980.0,Linda,341
-WA,F,2018.0,,353
-WA,M,1937.0,Alex,38
- WA ,M,2002.0,Michael,
-WA,F,1979.0,Jordan,56
-WA,F,1973.0,Patricia,256
-WA,F,1988.0,Alex,207
-WA, M ,1998.0,Alex,335
-WA,F,2018.0,Mary,253
-WA,M,1956.0,,66
-WA, M ,1981.0,Michael,1130
-WA,F,1983.0,Patricia,1086
-WA,M,1992.0,Taylor,251
-WA,M,1975.0,John,322
-WA,M,1936.0,Taylor,30
-WA,M,1968.0,Michael,288
-WA,M,2009.0,Casey,17
-WA, M ,1971.0,Jordan,158
-WA,M,2021.0,Michael,
-WA,M,2002.0,Taylor,721
-WA,M,1930.0,Alex,
-WA,F,1988.0,Taylor,202
-WA, M ,1911.0,Robert,16
-WA,M,1985.0,James,1254
-WA,F,, Jordan ,115
-WA,M,1972.0,Robert,150
-WA,F,1932.0,Taylor,106
-WA,M,1983.0,Casey,483
-WA,F,1942.0,Mary,28
-WA,F,1958.0,Linda,526
- WA ,M,1956.0,Jordan,68
-WA,M,1925.0,Michael,295
-WA,,1971.0,Taylor,461
-WA,M,1945.0,Taylor,30
-WA,M,1971.0,Alex,234
-WA,M,2002.0,Linda,23
-WA,M,1998.0,Linda,235
-WA,F,1946.0, Casey ,71
-WA,F,1936.0,Linda,231
-WA,F,1977.0, Taylor ,84
-WA, F ,2015.0, Taylor ,7
-WA,M,2012.0,Michael,94
-WA,M,1981.0,Casey,452
-WA,F,1935.0,Taylor,9
- WA ,,1961.0,Mary,142
-WA,M,1922.0,,30
-WA,F,2001.0,Alex,11
-WA,M,2011.0,Casey,190
-WA,F,1920.0,Jennifer,60
-WA, F ,2013.0,Patricia,21
- WA ,F,1994.0,Jordan,98
-WA,M,1993.0,Jordan,95
-WA,F,1933.0,Patricia,819
-,M,1934.0,John,5
-WA,F,1969.0, Jennifer ,75
-WA,F,1979.0,Alex,979
-WA, M ,1980.0,Robert,339
-WA,M,2018.0,Casey,53
-WA,F,1950.0, Mary ,7
-WA,M,1974.0, James ,138
-WA,M,1981.0, Alex ,412
-WA,M,1969.0,Robert,585
-WA,F,1998.0,Taylor,6
-WA,,1970.0,Jordan,24
-WA,M,1961.0,John,502
-WA, M ,2020.0,Michael,421
-WA,,1965.0,Patricia,88
-WA,M,1938.0,Michael,24
-WA,M,1918.0,Alex,38
-WA,F,1928.0,Michael,261
-WA,F,2009.0,Taylor,7
-WA,M,2002.0,Robert,16
-WA,F,1933.0,Mary,5
-WA,M,2011.0,Taylor,146
-WA,F,1916.0,Taylor,229
-WA,F,1999.0,Mary,98
-WA,M,1939.0,Jordan,290
-WA,M,1944.0,Casey,44
-WA,M,2005.0,Casey,210
+WA,M,1989,Taylor,15
+WA,F,1954,Casey,13
+WA,F,2008,Jennifer,223
+WA,F,1972,Jordan,239
+WA,M,1956,Alex,911
+WA,M,1935,Casey,59
+WA,M,1999,Casey,250
+WA,M,2001,Taylor,60
+WA,F,1985,Patricia,365
+WA,M,1996,Michael,213
+WA,M,1986,Alex,209
+WA,F,1980,Linda,341
+WA,F,2018,,353
+WA,M,1937,Alex,38
+WA,M,2002,Michael,
+WA,F,1979,Jordan,56
+WA,F,1973,Patricia,256
+WA,F,1988,Alex,207
+WA,M,1998,Alex,335
+WA,F,2018,Mary,253
+WA,M,1956,,66
+WA,M,1981,Michael,1130
+WA,F,1983,Patricia,1086
+WA,M,1992,Taylor,251
+WA,M,1975,John,322
+WA,M,1936,Taylor,30
+WA,M,1968,Michael,288
+WA,M,2009,Casey,17
+WA,M,1971,Jordan,158
+WA,M,2021,Michael,
+WA,M,2002,Taylor,721
+WA,M,1930,Alex,
+WA,F,1988,Taylor,202
+WA,M,1911,Robert,16
+WA,M,1985,James,1254
+WA,F,,Jordan,115
+WA,M,1972,Robert,150
+WA,F,1932,Taylor,106
+WA,M,1983,Casey,483
+WA,F,1942,Mary,28
+WA,F,1958,Linda,526
+WA,M,1956,Jordan,68
+WA,M,1925,Michael,295
+WA,,1971,Taylor,461
+WA,M,1945,Taylor,30
+WA,M,1971,Alex,234
+WA,M,2002,Linda,23
+WA,M,1998,Linda,235
+WA,F,1946,Casey,71
+WA,F,1936,Linda,231
+WA,F,1977,Taylor,84
+WA,F,2015,Taylor,7
+WA,M,2012,Michael,94
+WA,M,1981,Casey,452
+WA,F,1935,Taylor,9
+WA,,1961,Mary,142
+WA,M,1922,,30
+WA,F,2001,Alex,11
+WA,M,2011,Casey,190
+WA,F,1920,Jennifer,60
+WA,F,2013,Patricia,21
+WA,F,1994,Jordan,98
+WA,M,1993,Jordan,95
+WA,F,1933,Patricia,819
+,M,1934,John,5
+WA,F,1969,Jennifer,75
+WA,F,1979,Alex,979
+WA,M,1980,Robert,339
+WA,M,2018,Casey,53
+WA,F,1950,Mary,7
+WA,M,1974,James,138
+WA,M,1981,Alex,412
+WA,M,1969,Robert,585
+WA,F,1998,Taylor,6
+WA,,1970,Jordan,24
+WA,M,1961,John,502
+WA,M,2020,Michael,421
+WA,,1965,Patricia,88
+WA,M,1938,Michael,24
+WA,M,1918,Alex,38
+WA,F,1928,Michael,261
+WA,F,2009,Taylor,7
+WA,M,2002,Robert,16
+WA,F,1933,Mary,5
+WA,M,2011,Taylor,146
+WA,F,1916,Taylor,229
+WA,F,1999,Mary,98
+WA,M,1939,Jordan,290
+WA,M,1944,Casey,44
+WA,M,2005,Casey,210
 WA,F,,Jordan,84
-WA,M,1987.0,Michael,91
- WA ,M,1943.0,,141
-WA,M,1981.0,Robert,362
- WA ,M,1970.0,Robert,319
-WA,M,1985.0,Alex,518
- WA ,M,1969.0,Casey,270
-WA,M,1919.0,Taylor,6
-WA,M,1942.0,Taylor,90
-WA,M,2003.0,Taylor,171
-WA,F,1984.0,Taylor,74
-WA, F ,1964.0,Taylor,86
-WA,F,1923.0,Jordan,167
-WA,F,1910.0,linda,44
-WA, M ,2014.0,Alex,547
-,M,1917.0,Robert,24
-WA,F,1965.0,Linda,637
-WA,M,1910.0,Casey,15
-,F,2001.0,Casey,69
-WA,M,1942.0,Jennifer,44
-WA,M,2010.0,Casey,17
-WA,M,1948.0,Robert,11
- WA ,M,1953.0,Taylor,36
-WA,F,1965.0,Taylor,591
-WA, F ,1928.0,Alex,14
-WA,F,1991.0,Patricia,238
-WA, F ,2002.0,Mary,
-WA,M,1978.0,Jordan,134
-WA,F,2012.0,Patricia,885
-WA,,1940.0,Michael,
- WA ,M,1960.0, Michael ,308
- WA ,M,1982.0,James,14
-WA,F,1970.0,Taylor,921
-WA,F,1948.0,Linda,60
-WA, M ,1954.0,,84
-WA, F ,1962.0,Mary,441
-WA, F ,2012.0,Taylor,25
- WA ,F,2006.0,Taylor,202
+WA,M,1987,Michael,91
+WA,M,1943,,141
+WA,M,1981,Robert,362
+WA,M,1970,Robert,319
+WA,M,1985,Alex,518
+WA,M,1969,Casey,270
+WA,M,1919,Taylor,6
+WA,M,1942,Taylor,90
+WA,M,2003,Taylor,171
+WA,F,1984,Taylor,74
+WA,F,1964,Taylor,86
+WA,F,1923,Jordan,167
+WA,F,1910,linda,44
+WA,M,2014,Alex,547
+,M,1917,Robert,24
+WA,F,1965,Linda,637
+WA,M,1910,Casey,15
+,F,2001,Casey,69
+WA,M,1942,Jennifer,44
+WA,M,2010,Casey,17
+WA,M,1948,Robert,11
+WA,M,1953,Taylor,36
+WA,F,1965,Taylor,591
+WA,F,1928,Alex,14
+WA,F,1991,Patricia,238
+WA,F,2002,Mary,
+WA,M,1978,Jordan,134
+WA,F,2012,Patricia,885
+WA,,1940,Michael,
+WA,M,1960,Michael,308
+WA,M,1982,James,14
+WA,F,1970,Taylor,921
+WA,F,1948,Linda,60
+WA,M,1954,,84
+WA,F,1962,Mary,441
+WA,F,2012,Taylor,25
+WA,F,2006,Taylor,202
 WA,F,,Casey,13
-WA,M,1961.0,Robert,93
-WA,F,2007.0,Linda,12
-WA,M,1996.0,John,
-WA,M,1923.0,Michael,9
+WA,M,1961,Robert,93
+WA,F,2007,Linda,12
+WA,M,1996,John,
+WA,M,1923,Michael,9
 WA,F,,,166
-WA,F,1955.0,casey,539
-WA,M,2009.0,Taylor,208
-WA,F,1933.0,Alex,299
+WA,F,1955,casey,539
+WA,M,2009,Taylor,208
+WA,F,1933,Alex,299
 WA,,,Michael,50
-WA,F,1970.0,patricia,256
-WA,F,1997.0,Taylor,523
-WA, M ,1976.0,Michael,13
+WA,F,1970,patricia,256
+WA,F,1997,Taylor,523
+WA,M,1976,Michael,13
 WA,M,,Robert,153
-WA,F,1990.0,Taylor,212
-WA,M,1930.0,Taylor,210
-WA,M,1954.0,John,22
-WA,F,1937.0,Linda,24
-WA, M ,1952.0,Michael,5
-WA,M,2001.0, Michael ,95
-WA,M,1974.0,John,253
-WA,F,1987.0,Casey,272
-WA,F,2017.0,Jennifer,18
-,M,1943.0,Michael,7
-WA,,1994.0,Michael,641
-WA,F,1955.0,Jordan,112
-WA,F,1991.0,Taylor,439
-WA,,1978.0,John,578
-WA,F,1972.0,Taylor,291
-WA,M,1963.0,Robert,218
-,F,1951.0,Linda,7
-WA,F,1954.0,,24
- WA ,M,1949.0,Jordan,175
-WA,,1912.0,Michael,27
-,M,2020.0,Alex,43
-WA,F,1936.0,Taylor,13
-,M,1940.0,Alex,138
-WA,F,1968.0,Taylor,262
- WA ,M,1958.0,John,62
-WA, F ,1981.0,Casey,120
-WA,M,1958.0,,830
-WA,F,1972.0,Alex,347
-WA,M,2001.0,Casey,301
- WA ,F,1977.0,Alex,219
-WA,F,1992.0,Linda,63
-,M,2021.0,Taylor,38
-WA,F,1943.0,,5
-,M,2003.0,John,290
-WA,M,2004.0, Casey ,104
-WA,,1994.0,Casey,185
+WA,F,1990,Taylor,212
+WA,M,1930,Taylor,210
+WA,M,1954,John,22
+WA,F,1937,Linda,24
+WA,M,1952,Michael,5
+WA,M,2001,Michael,95
+WA,M,1974,John,253
+WA,F,1987,Casey,272
+WA,F,2017,Jennifer,18
+,M,1943,Michael,7
+WA,,1994,Michael,641
+WA,F,1955,Jordan,112
+WA,F,1991,Taylor,439
+WA,,1978,John,578
+WA,F,1972,Taylor,291
+WA,M,1963,Robert,218
+,F,1951,Linda,7
+WA,F,1954,,24
+WA,M,1949,Jordan,175
+WA,,1912,Michael,27
+,M,2020,Alex,43
+WA,F,1936,Taylor,13
+,M,1940,Alex,138
+WA,F,1968,Taylor,262
+WA,M,1958,John,62
+WA,F,1981,Casey,120
+WA,M,1958,,830
+WA,F,1972,Alex,347
+WA,M,2001,Casey,301
+WA,F,1977,Alex,219
+WA,F,1992,Linda,63
+,M,2021,Taylor,38
+WA,F,1943,,5
+,M,2003,John,290
+WA,M,2004,Casey,104
+WA,,1994,Casey,185
 WA,M,,Casey,129
-WA,M,2000.0, Alex ,275
-WA,M,2020.0,James,9
-WA,,1959.0,Taylor,684
-WA, F ,1968.0,Linda,377
- WA ,F,1992.0,Casey,83
-WA, M ,1995.0,Casey,74
-WA,F,1940.0,Patricia,277
-WA,F,1984.0,Jordan,150
-WA,,1979.0,Michael,332
+WA,M,2000,Alex,275
+WA,M,2020,James,9
+WA,,1959,Taylor,684
+WA,F,1968,Linda,377
+WA,F,1992,Casey,83
+WA,M,1995,Casey,74
+WA,F,1940,Patricia,277
+WA,F,1984,Jordan,150
+WA,,1979,Michael,332
 WA,M,,,
-WA,F,1971.0,Jennifer,307
-WA,F,2021.0,Jordan,69
- WA , M ,2020.0,Taylor,420
- WA , M ,1985.0,Robert,215
-WA,F,1979.0,Patricia,381
-WA,F,1952.0, Jennifer ,359
-WA,,1983.0,Jordan,166
-WA,F,2009.0,Linda,72
-WA,M,1921.0, James ,25
-WA,F,1985.0,Mary,303
-WA,M,1931.0,Jennifer,116
-WA,F,1990.0,Patricia,206
+WA,F,1971,Jennifer,307
+WA,F,2021,Jordan,69
+WA,M,2020,Taylor,420
+WA,M,1985,Robert,215
+WA,F,1979,Patricia,381
+WA,F,1952,Jennifer,359
+WA,,1983,Jordan,166
+WA,F,2009,Linda,72
+WA,M,1921,James,25
+WA,F,1985,Mary,303
+WA,M,1931,Jennifer,116
+WA,F,1990,Patricia,206
 WA,F,,Linda,402
-WA,M,1912.0,Taylor,44
-WA,,1922.0,James,184
-WA,M,1989.0,James,722
-WA,,2015.0,Jordan,56
-WA,F,2015.0, Alex ,
-WA,M,1958.0,Alex,15
- WA ,F,1970.0,Linda,507
-WA,M,2003.0,Robert,637
-WA,M,2008.0,Taylor,274
- WA ,M,1964.0,,1092
-,,1944.0,Linda,171
-WA,F,1914.0,jordan,48
-WA,M,1967.0,james,27
-WA,F,1967.0,linda,125
-WA,M,1957.0,alex,485
-WA, M ,2018.0,Taylor,16
-WA,,2015.0,Taylor,10
- WA ,F,1947.0,Casey,384
+WA,M,1912,Taylor,44
+WA,,1922,James,184
+WA,M,1989,James,722
+WA,,2015,Jordan,56
+WA,F,2015,Alex,
+WA,M,1958,Alex,15
+WA,F,1970,Linda,507
+WA,M,2003,Robert,637
+WA,M,2008,Taylor,274
+WA,M,1964,,1092
+,,1944,Linda,171
+WA,F,1914,jordan,48
+WA,M,1967,james,27
+WA,F,1967,linda,125
+WA,M,1957,alex,485
+WA,M,2018,Taylor,16
+WA,,2015,Taylor,10
+WA,F,1947,Casey,384
 WA,F,,Taylor,259
-WA,M,1967.0,John,92
- WA , F ,1978.0,Taylor,
-WA,M,1958.0,Taylor,620
-WA,F,1993.0,Jennifer,237
-WA,M,1985.0,Jordan,
-WA,F,2009.0,Alex,680
-WA,,1911.0,Alex,57
-WA,F,1951.0,Patricia,94
-WA,M,1949.0,,15
-WA,F,1955.0,Linda,329
-WA,M,1987.0,Casey,186
- WA ,M,1974.0,Casey,654
-WA,F,1956.0,Casey,955
-WA,F,2009.0,Casey,5
-WA,F,1984.0,Casey,750
-WA,M,2015.0,Casey,418
-WA,F,1948.0,Patricia,32
- WA ,F,1974.0,,338
- WA ,,,Casey,402
-WA,F,2017.0,Alex,195
- WA ,M,1960.0,Casey,18
-WA,F,1956.0,Linda,422
-WA,F,1946.0,Patricia,299
-WA,M,1977.0,Alex,192
-WA,M,1998.0, Robert ,346
-WA,F,1952.0,Jordan,116
-WA,M,1971.0,Michael,798
-WA,M,1928.0,Jordan,63
-WA, M ,1936.0,Michael,5
-WA,M,1973.0,James,378
-WA,M,2011.0,John,15
+WA,M,1967,John,92
+WA,F,1978,Taylor,
+WA,M,1958,Taylor,620
+WA,F,1993,Jennifer,237
+WA,M,1985,Jordan,
+WA,F,2009,Alex,680
+WA,,1911,Alex,57
+WA,F,1951,Patricia,94
+WA,M,1949,,15
+WA,F,1955,Linda,329
+WA,M,1987,Casey,186
+WA,M,1974,Casey,654
+WA,F,1956,Casey,955
+WA,F,2009,Casey,5
+WA,F,1984,Casey,750
+WA,M,2015,Casey,418
+WA,F,1948,Patricia,32
+WA,F,1974,,338
+WA,,,Casey,402
+WA,F,2017,Alex,195
+WA,M,1960,Casey,18
+WA,F,1956,Linda,422
+WA,F,1946,Patricia,299
+WA,M,1977,Alex,192
+WA,M,1998,Robert,346
+WA,F,1952,Jordan,116
+WA,M,1971,Michael,798
+WA,M,1928,Jordan,63
+WA,M,1936,Michael,5
+WA,M,1973,James,378
+WA,M,2011,John,15
 WA,,,michael,38
- WA , F ,1919.0,Jordan,19
-WA,F,1923.0,Linda,6
- WA ,M,1941.0,Alex,10
-WA,F,2009.0,Jordan,114
-WA,M,1983.0,John,559
-WA,M,1931.0,Casey,251
-WA,M,1945.0, Alex ,207
-WA,M,1969.0,Michael,960
-WA,F,1985.0,Alex,214
-WA, F ,1959.0,Linda,108
-WA,F,1939.0,Alex,71
-WA,F,1985.0,Linda,87
- WA ,F,1988.0,Jordan,819
-WA,M,1914.0,,19
-WA,M,2001.0,Linda,33
-WA,F,1925.0,Casey,91
-WA,F,1983.0,Alex,773
-, M ,1989.0,Jordan,433
-WA,F,1930.0,Alex,57
-WA,M,1998.0,James,245
-WA,F,1984.0,Linda,630
- WA ,F,1924.0,Jordan,6
-WA,F,1947.0,Jennifer,14
+WA,F,1919,Jordan,19
+WA,F,1923,Linda,6
+WA,M,1941,Alex,10
+WA,F,2009,Jordan,114
+WA,M,1983,John,559
+WA,M,1931,Casey,251
+WA,M,1945,Alex,207
+WA,M,1969,Michael,960
+WA,F,1985,Alex,214
+WA,F,1959,Linda,108
+WA,F,1939,Alex,71
+WA,F,1985,Linda,87
+WA,F,1988,Jordan,819
+WA,M,1914,,19
+WA,M,2001,Linda,33
+WA,F,1925,Casey,91
+WA,F,1983,Alex,773
+,M,1989,Jordan,433
+WA,F,1930,Alex,57
+WA,M,1998,James,245
+WA,F,1984,Linda,630
+WA,F,1924,Jordan,6
+WA,F,1947,Jennifer,14
 WA,,,Taylor,94
-WA,M,1959.0,Taylor,9
- WA , M ,,James,54
-WA,F,1938.0,Patricia,6
-WA,F,1963.0,Linda,369
-WA,M,1982.0,,132
-WA,F,1960.0,Jennifer,189
-WA,,1970.0,Alex,
-WA, F ,1989.0,Casey,357
- WA , M ,1940.0,Mary,86
-WA, F ,,Mary,105
-WA,F,2014.0,Jordan,25
-WA,M,1945.0,James,
-WA,F,2019.0, Linda ,6
-WA,,, Alex ,120
-WA,M,1999.0,James,283
-WA,F,1933.0,,56
-WA, F ,1960.0,Patricia,100
-WA,M,1988.0,,596
-WA, M ,1938.0,James,10
-,M,1926.0,Robert,24
-WA,F,1959.0,Jennifer,53
- WA ,M,1948.0,Linda,615
-WA,M,1960.0,John,479
-WA,F,1971.0,Patricia,784
-WA, F ,2011.0,jordan,217
-WA,F,1932.0,Jennifer,47
-WA,F,2000.0,Alex,31
-WA,F,1926.0,Taylor,
-WA,F,2003.0,Jordan,64
-,,1914.0,Taylor,9
-WA,M,1991.0,Michael,105
-WA,M,1954.0,Mary,538
- WA ,F,1993.0,Mary,
-WA,M,1993.0,James,394
-WA,M,1992.0,James,
-WA,M,1967.0,Michael,48
-WA,F,1981.0,Alex,126
-WA,M,1969.0,John,63
- WA ,M,1997.0,Casey,515
-WA,M,1951.0,Taylor,133
-WA,M,, Alex ,77
-WA,M,1936.0,James,496
-WA,M,1951.0,john,545
-WA,F,1938.0,Linda,160
-WA,M,1997.0,Robert,594
-WA,F,1944.0,James,66
-WA,F,1999.0,Casey,698
-,F,1995.0,Taylor,341
-WA,F,1954.0,,24
-WA,F,1963.0,Mary,711
-WA,F,2015.0,Jordan,9
-WA,M,1939.0,Taylor,239
-WA,M,1934.0,Robert,14
- WA , F ,1970.0,Jennifer,692
-WA,F,1975.0,Mary,318
-WA,F,1961.0,Taylor,322
-WA,F,2021.0,Casey,17
-WA,F,1946.0,Jennifer,72
-,M,1968.0,James,498
-WA,M,1994.0,John,71
-WA,F,1975.0,Alex,171
-WA, F ,2022.0,Jordan,131
-WA,M,1945.0,John,22
- WA ,M,1977.0,Casey,
-WA, M ,1935.0,robert,381
-WA,M,1967.0,Robert,392
-WA,F,1914.0,Patricia,21
-WA,F,1960.0,Mary,789
-WA,M,1969.0,Taylor,168
-WA,M,1937.0,Michael,
-WA,M,1957.0,Robert,290
-,M,1950.0,James,
-WA,F,1992.0,Taylor,807
-WA,F,1950.0,Jordan,75
-WA,M,1976.0,Robert,196
-WA,F,1917.0,Alex,6
- WA ,M,2009.0,Alex,449
-WA,F,1933.0, Casey ,151
-WA,M,1984.0,Casey,374
-,F,1925.0, Alex ,302
-WA,F,1965.0,Mary,229
-WA,F,1987.0,Jennifer,352
-WA,M,1996.0,Alex,51
-WA,F,1916.0,Alex,57
-WA,F,1952.0,Patricia,187
-WA, M ,2006.0,Alex,23
-WA,M,1976.0,James,
-WA,F,1997.0,Linda,347
- WA ,F,2010.0,Patricia,37
-WA,,1925.0, Patricia ,82
-WA,F,1995.0,Casey,710
-WA,M,1947.0,Jordan,8
-WA,,1930.0,Jordan,10
-,M,1965.0,John,655
-WA,F,1931.0,Jordan,5
-WA,F,1927.0,Jordan,274
-WA,M,1972.0,John,533
+WA,M,1959,Taylor,9
+WA,M,,James,54
+WA,F,1938,Patricia,6
+WA,F,1963,Linda,369
+WA,M,1982,,132
+WA,F,1960,Jennifer,189
+WA,,1970,Alex,
+WA,F,1989,Casey,357
+WA,M,1940,Mary,86
+WA,F,,Mary,105
+WA,F,2014,Jordan,25
+WA,M,1945,James,
+WA,F,2019,Linda,6
+WA,,,Alex,120
+WA,M,1999,James,283
+WA,F,1933,,56
+WA,F,1960,Patricia,100
+WA,M,1988,,596
+WA,M,1938,James,10
+,M,1926,Robert,24
+WA,F,1959,Jennifer,53
+WA,M,1948,Linda,615
+WA,M,1960,John,479
+WA,F,1971,Patricia,784
+WA,F,2011,jordan,217
+WA,F,1932,Jennifer,47
+WA,F,2000,Alex,31
+WA,F,1926,Taylor,
+WA,F,2003,Jordan,64
+,,1914,Taylor,9
+WA,M,1991,Michael,105
+WA,M,1954,Mary,538
+WA,F,1993,Mary,
+WA,M,1993,James,394
+WA,M,1992,James,
+WA,M,1967,Michael,48
+WA,F,1981,Alex,126
+WA,M,1969,John,63
+WA,M,1997,Casey,515
+WA,M,1951,Taylor,133
+WA,M,,Alex,77
+WA,M,1936,James,496
+WA,M,1951,john,545
+WA,F,1938,Linda,160
+WA,M,1997,Robert,594
+WA,F,1944,James,66
+WA,F,1999,Casey,698
+,F,1995,Taylor,341
+WA,F,1954,,24
+WA,F,1963,Mary,711
+WA,F,2015,Jordan,9
+WA,M,1939,Taylor,239
+WA,M,1934,Robert,14
+WA,F,1970,Jennifer,692
+WA,F,1975,Mary,318
+WA,F,1961,Taylor,322
+WA,F,2021,Casey,17
+WA,F,1946,Jennifer,72
+,M,1968,James,498
+WA,M,1994,John,71
+WA,F,1975,Alex,171
+WA,F,2022,Jordan,131
+WA,M,1945,John,22
+WA,M,1977,Casey,
+WA,M,1935,robert,381
+WA,M,1967,Robert,392
+WA,F,1914,Patricia,21
+WA,F,1960,Mary,789
+WA,M,1969,Taylor,168
+WA,M,1937,Michael,
+WA,M,1957,Robert,290
+,M,1950,James,
+WA,F,1992,Taylor,807
+WA,F,1950,Jordan,75
+WA,M,1976,Robert,196
+WA,F,1917,Alex,6
+WA,M,2009,Alex,449
+WA,F,1933,Casey,151
+WA,M,1984,Casey,374
+,F,1925,Alex,302
+WA,F,1965,Mary,229
+WA,F,1987,Jennifer,352
+WA,M,1996,Alex,51
+WA,F,1916,Alex,57
+WA,F,1952,Patricia,187
+WA,M,2006,Alex,23
+WA,M,1976,James,
+WA,F,1997,Linda,347
+WA,F,2010,Patricia,37
+WA,,1925,Patricia,82
+WA,F,1995,Casey,710
+WA,M,1947,Jordan,8
+WA,,1930,Jordan,10
+,M,1965,John,655
+WA,F,1931,Jordan,5
+WA,F,1927,Jordan,274
+WA,M,1972,John,533
 WA,F,,Taylor,185
-WA,M,2000.0,James,470
-WA,F,2013.0,,10
-WA,M,, John ,70
-WA,M,1992.0,John,452
-WA,M,1965.0,Casey,114
- WA ,F,2022.0,Jennifer,586
-WA,M,2010.0,James,116
- WA ,M,1928.0,James,273
-WA,M,1957.0,,18
-WA,F,1958.0,Casey,805
-WA,M,1955.0,Robert,82
-WA,F,2006.0,Alex,110
-WA,M,1986.0,Robert,90
-WA, F ,1979.0,Taylor,620
- WA ,M,2018.0,John,51
-WA,F,1999.0,Taylor,768
-WA,F,2012.0,Jennifer,614
-WA,M,2019.0,john,55
-WA,M,, Linda ,69
-WA, F ,1964.0,jennifer,698
- WA ,F,1984.0,Alex,101
+WA,M,2000,James,470
+WA,F,2013,,10
+WA,M,,John,70
+WA,M,1992,John,452
+WA,M,1965,Casey,114
+WA,F,2022,Jennifer,586
+WA,M,2010,James,116
+WA,M,1928,James,273
+WA,M,1957,,18
+WA,F,1958,Casey,805
+WA,M,1955,Robert,82
+WA,F,2006,Alex,110
+WA,M,1986,Robert,90
+WA,F,1979,Taylor,620
+WA,M,2018,John,51
+WA,F,1999,Taylor,768
+WA,F,2012,Jennifer,614
+WA,M,2019,john,55
+WA,M,,Linda,69
+WA,F,1964,jennifer,698
+WA,F,1984,Alex,101
 WA,F,,,165
-WA,M,1972.0, Taylor ,265
-WA,F,1972.0,Mary,358
-WA,F,1968.0,Jordan,104
-WA,F,1985.0,Casey,711
-WA,M,1911.0,Taylor,113
-WA,M,1968.0,Alex,245
-WA,F,1952.0,Taylor,204
-WA,M,2002.0,John,5
- WA ,F,1976.0,Robert,90
-WA,F,1980.0, Jennifer ,793
+WA,M,1972,Taylor,265
+WA,F,1972,Mary,358
+WA,F,1968,Jordan,104
+WA,F,1985,Casey,711
+WA,M,1911,Taylor,113
+WA,M,1968,Alex,245
+WA,F,1952,Taylor,204
+WA,M,2002,John,5
+WA,F,1976,Robert,90
+WA,F,1980,Jennifer,793
 WA,M,,Alex,105
-WA,M,1992.0,Jennifer,487
-WA,F,2004.0,Taylor,1085
-WA,M,1961.0,Jordan,838
- WA ,M,1923.0,John,180
-WA,M,1958.0,Jordan,107
-WA,F,1986.0,Mary,
-WA,M,1949.0,John,5
-WA, M ,1924.0,James,196
-WA,M,2003.0,Alex,567
-WA,M,1937.0,Casey,87
-WA,M,1955.0,Casey,482
-WA,M,2005.0,,670
-WA,M,1926.0,michael,16
-WA,F,1997.0,Mary,169
-WA,M,1977.0,Robert,306
-WA,F,2012.0,Linda,507
-WA,M,2017.0,Jordan,136
-WA,F,1939.0,,172
-WA,M,1960.0,James,41
-WA,F,1954.0,Jennifer,293
-WA,F,1996.0,Casey,680
-,F,1951.0,Linda,7
-WA,F,1927.0,Mary,88
-WA, F ,2006.0,Patricia,678
-,F,1971.0,Jordan,88
-WA,F,2019.0,,59
-WA,M,1922.0,Robert,205
-WA,F,2003.0,Taylor,999
-WA,F,2015.0,Linda,306
-WA,F,1992.0,Mary,363
-WA,,1977.0,Jennifer,280
-WA,M,1988.0,James,426
-WA,F,1930.0,Taylor,
-WA,F,1942.0,Jordan,495
- WA ,F,2019.0,Alex,10
-WA,F,1987.0,Jordan,
-WA,M,1996.0,Jordan,615
-WA,M,1939.0,Michael,56
-WA,F,1978.0,Jordan,93
-WA,F,1985.0,Jordan,860
-WA,M,1911.0,James,20
-WA,F,2005.0,Alex,89
-WA,M,1993.0,Casey,87
-WA,M,2006.0,Robert,52
-WA,F,1972.0,Patricia,375
-WA,M,1919.0,Casey,20
-WA,F,1963.0,Taylor,762
-WA, M ,1951.0,Alex,362
-WA,M,1983.0,Alex,348
-WA,F,1989.0, Jennifer ,17
-WA,F,1912.0,Casey,12
-WA,F,2018.0,Alex,195
-WA, M ,1976.0,Casey,97
-WA,F,1968.0,Mary,870
-WA,M,1953.0, James ,498
-,F,1956.0,Taylor,44
- WA ,M,1965.0,Alex,278
-WA,M,1983.0,James,522
- WA ,F,1958.0,Alex,91
-WA,F,1966.0,Casey,1473
-WA,M,1995.0,Taylor,380
-WA,M,1934.0,James,74
-WA,F,1982.0,Patricia,270
-WA,F,1955.0,Taylor,514
-WA,F,1976.0,Casey,320
-WA,F,1942.0, Linda ,6
-WA,M,1951.0,Jordan,32
-WA,F,1943.0,Linda,300
-WA, M ,1959.0,Michael,631
-WA,F,1949.0,Casey,51
-WA,F,2003.0,Jennifer,56
- WA ,F,1945.0,Jennifer,124
-WA,M,2004.0,John,31
-WA,M,1948.0,Alex,14
-WA,F,1993.0,Linda,493
-WA,F,1933.0,Linda,6
-WA,F,1981.0,Jennifer,783
-WA,M,1999.0,john,31
- WA ,F,1940.0,Linda,405
-,F,1927.0,Patricia,11
-WA, M ,1956.0,John,413
-,M,1934.0,John,5
-WA,F,2012.0, Mary ,6
-WA,M,2001.0,James,50
-WA,F,2020.0,Patricia,38
-WA,F,1984.0,Mary,188
-WA,F,1953.0, Patricia ,478
-WA,M,1971.0,James,385
-WA,M,2017.0,Alex,6
-WA,F,1939.0,Mary,338
-WA,M,2007.0,Jordan,280
-WA,F,1983.0,Linda,292
-WA,M,2008.0,James,8
-WA,F,2008.0,Alex,266
-WA, M ,1957.0,Taylor,
- WA ,M,1965.0, Taylor ,111
-WA,M,1967.0,Taylor,297
- WA ,M,1963.0,Taylor,399
-WA,M,1956.0,Casey,202
-WA,M,1980.0,James,132
-WA,F,1957.0, Patricia ,11
- WA ,M,1958.0,Michael,564
- WA ,F,2022.0,Taylor,202
-WA,F,1973.0,Taylor,107
-WA, M ,1976.0, Alex ,976
-WA,F,1949.0,Alex,102
-WA,M,1943.0,Taylor,7
- WA ,M,1997.0,Taylor,162
- WA ,M,1991.0,Robert,116
-WA,M,2008.0,Robert,12
-WA,F,2005.0,,95
- WA ,F,1918.0,Linda,
-WA,F,1946.0,Linda,
-,M,2004.0,Michael,270
-WA,F,1954.0,Taylor,30
-WA,F,1998.0,Alex,263
-WA,M,1970.0,Jennifer,40
-WA,M,1978.0,robert,585
-WA,M,1968.0,Jordan,56
+WA,M,1992,Jennifer,487
+WA,F,2004,Taylor,1085
+WA,M,1961,Jordan,838
+WA,M,1923,John,180
+WA,M,1958,Jordan,107
+WA,F,1986,Mary,
+WA,M,1949,John,5
+WA,M,1924,James,196
+WA,M,2003,Alex,567
+WA,M,1937,Casey,87
+WA,M,1955,Casey,482
+WA,M,2005,,670
+WA,M,1926,michael,16
+WA,F,1997,Mary,169
+WA,M,1977,Robert,306
+WA,F,2012,Linda,507
+WA,M,2017,Jordan,136
+WA,F,1939,,172
+WA,M,1960,James,41
+WA,F,1954,Jennifer,293
+WA,F,1996,Casey,680
+,F,1951,Linda,7
+WA,F,1927,Mary,88
+WA,F,2006,Patricia,678
+,F,1971,Jordan,88
+WA,F,2019,,59
+WA,M,1922,Robert,205
+WA,F,2003,Taylor,999
+WA,F,2015,Linda,306
+WA,F,1992,Mary,363
+WA,,1977,Jennifer,280
+WA,M,1988,James,426
+WA,F,1930,Taylor,
+WA,F,1942,Jordan,495
+WA,F,2019,Alex,10
+WA,F,1987,Jordan,
+WA,M,1996,Jordan,615
+WA,M,1939,Michael,56
+WA,F,1978,Jordan,93
+WA,F,1985,Jordan,860
+WA,M,1911,James,20
+WA,F,2005,Alex,89
+WA,M,1993,Casey,87
+WA,M,2006,Robert,52
+WA,F,1972,Patricia,375
+WA,M,1919,Casey,20
+WA,F,1963,Taylor,762
+WA,M,1951,Alex,362
+WA,M,1983,Alex,348
+WA,F,1989,Jennifer,17
+WA,F,1912,Casey,12
+WA,F,2018,Alex,195
+WA,M,1976,Casey,97
+WA,F,1968,Mary,870
+WA,M,1953,James,498
+,F,1956,Taylor,44
+WA,M,1965,Alex,278
+WA,M,1983,James,522
+WA,F,1958,Alex,91
+WA,F,1966,Casey,1473
+WA,M,1995,Taylor,380
+WA,M,1934,James,74
+WA,F,1982,Patricia,270
+WA,F,1955,Taylor,514
+WA,F,1976,Casey,320
+WA,F,1942,Linda,6
+WA,M,1951,Jordan,32
+WA,F,1943,Linda,300
+WA,M,1959,Michael,631
+WA,F,1949,Casey,51
+WA,F,2003,Jennifer,56
+WA,F,1945,Jennifer,124
+WA,M,2004,John,31
+WA,M,1948,Alex,14
+WA,F,1993,Linda,493
+WA,F,1933,Linda,6
+WA,F,1981,Jennifer,783
+WA,M,1999,john,31
+WA,F,1940,Linda,405
+,F,1927,Patricia,11
+WA,M,1956,John,413
+,M,1934,John,5
+WA,F,2012,Mary,6
+WA,M,2001,James,50
+WA,F,2020,Patricia,38
+WA,F,1984,Mary,188
+WA,F,1953,Patricia,478
+WA,M,1971,James,385
+WA,M,2017,Alex,6
+WA,F,1939,Mary,338
+WA,M,2007,Jordan,280
+WA,F,1983,Linda,292
+WA,M,2008,James,8
+WA,F,2008,Alex,266
+WA,M,1957,Taylor,
+WA,M,1965,Taylor,111
+WA,M,1967,Taylor,297
+WA,M,1963,Taylor,399
+WA,M,1956,Casey,202
+WA,M,1980,James,132
+WA,F,1957,Patricia,11
+WA,M,1958,Michael,564
+WA,F,2022,Taylor,202
+WA,F,1973,Taylor,107
+WA,M,1976,Alex,976
+WA,F,1949,Alex,102
+WA,M,1943,Taylor,7
+WA,M,1997,Taylor,162
+WA,M,1991,Robert,116
+WA,M,2008,Robert,12
+WA,F,2005,,95
+WA,F,1918,Linda,
+WA,F,1946,Linda,
+,M,2004,Michael,270
+WA,F,1954,Taylor,30
+WA,F,1998,Alex,263
+WA,M,1970,Jennifer,40
+WA,M,1978,robert,585
+WA,M,1968,Jordan,56
 WA,F,,Jennifer,338
-WA,M,1943.0,John,12
-WA, F ,1947.0,Taylor,115
+WA,M,1943,John,12
+WA,F,1947,Taylor,115
 WA,F,,Mary,742
-WA, M ,,John,356
-WA,F,1973.0,Linda,414
-WA, F ,1930.0,Linda,11
-WA,F,2019.0,,
-WA,M,2008.0, Michael ,233
-WA,F,1975.0,,167
- WA ,F,2000.0,Casey,90
-WA, F ,1975.0,,371
-WA,,1975.0,robert,431
-WA, F ,1991.0,Alex,897
-WA, F ,1964.0,Mary,222
-WA, F ,1996.0,Jordan,434
-WA,F,1944.0,Mary,212
-WA,M,1964.0,Taylor,584
+WA,M,,John,356
+WA,F,1973,Linda,414
+WA,F,1930,Linda,11
+WA,F,2019,,
+WA,M,2008,Michael,233
+WA,F,1975,,167
+WA,F,2000,Casey,90
+WA,F,1975,,371
+WA,,1975,robert,431
+WA,F,1991,Alex,897
+WA,F,1964,Mary,222
+WA,F,1996,Jordan,434
+WA,F,1944,Mary,212
+WA,M,1964,Taylor,584
 WA,M,,Taylor,599
-WA,M,1961.0,Taylor,25
-WA,F,1982.0,Mary,43
-WA, F ,1989.0,Mary,179
+WA,M,1961,Taylor,25
+WA,F,1982,Mary,43
+WA,F,1989,Mary,179
 WA,M,,Jordan,262
-WA,M,1949.0,Michael,57
+WA,M,1949,Michael,57
 WA,M,,Jordan,190
-WA,M,1960.0,Alex,750
-,F,1934.0,Linda,15
-WA,M,2000.0,Robert,14
-WA, M ,1995.0,Michael,
-WA,F,1943.0,Taylor,130
-WA,F,1968.0,James,604
+WA,M,1960,Alex,750
+,F,1934,Linda,15
+WA,M,2000,Robert,14
+WA,M,1995,Michael,
+WA,F,1943,Taylor,130
+WA,F,1968,James,604
 ,F,,James,38
-WA, F ,1962.0,Casey,613
-,F,1958.0,Mary,64
-,M,1964.0,Jordan,659
-WA,F,1952.0,Patricia,187
-WA,F,1924.0,Patricia,26
-WA,F,1970.0,Michael,13
-WA,F,1970.0,Jordan,113
- WA ,F,1973.0,Alex,178
- WA ,F,1995.0,,57
-WA,M,2005.0, Alex ,164
-WA,M,2014.0,Jordan,1099
-WA, F ,,Jordan,18
-WA, M ,2005.0,michael,110
-WA,M,1959.0,James,655
-WA,F,1960.0,Taylor,227
-WA,F,1963.0,Jordan,441
-WA,F,1923.0,Alex,19
+WA,F,1962,Casey,613
+,F,1958,Mary,64
+,M,1964,Jordan,659
+WA,F,1952,Patricia,187
+WA,F,1924,Patricia,26
+WA,F,1970,Michael,13
+WA,F,1970,Jordan,113
+WA,F,1973,Alex,178
+WA,F,1995,,57
+WA,M,2005,Alex,164
+WA,M,2014,Jordan,1099
+WA,F,,Jordan,18
+WA,M,2005,michael,110
+WA,M,1959,James,655
+WA,F,1960,Taylor,227
+WA,F,1963,Jordan,441
+WA,F,1923,Alex,19
 WA,M,,Michael,88
- WA , F ,1953.0,Linda,120
-WA,F,1941.0,Alex,582
-WA,M,1954.0,Jordan,792
-WA,M,1968.0,John,221
-WA,F,1978.0,,
- WA ,F,2003.0,Patricia,55
-WA,F,1943.0,Jordan,9
-WA,F,1987.0,Mary,34
-WA,M,2011.0,Alex,1061
-WA,M,1987.0,Alex,302
-WA,M,1977.0,Taylor,264
-WA,F,1931.0,Linda,149
-WA,M,1922.0,Taylor,46
-WA,F,2021.0,taylor,219
-WA,M,1964.0,Robert,806
-WA,F,1974.0,Linda,125
-WA,F,1957.0,Jennifer,86
-WA,M,1999.0,James,283
-WA,F,1922.0,Linda,69
-WA,F,2013.0,Alex,
-WA,F,2018.0, Jordan ,786
-WA,M,2020.0,Jordan,72
-,F,1975.0,Robert,335
-WA,M,1982.0,John,238
-WA,M,2004.0,James,354
-WA,M,1987.0,John,380
+WA,F,1953,Linda,120
+WA,F,1941,Alex,582
+WA,M,1954,Jordan,792
+WA,M,1968,John,221
+WA,F,1978,,
+WA,F,2003,Patricia,55
+WA,F,1943,Jordan,9
+WA,F,1987,Mary,34
+WA,M,2011,Alex,1061
+WA,M,1987,Alex,302
+WA,M,1977,Taylor,264
+WA,F,1931,Linda,149
+WA,M,1922,Taylor,46
+WA,F,2021,taylor,219
+WA,M,1964,Robert,806
+WA,F,1974,Linda,125
+WA,F,1957,Jennifer,86
+WA,M,1999,James,283
+WA,F,1922,Linda,69
+WA,F,2013,Alex,
+WA,F,2018,Jordan,786
+WA,M,2020,Jordan,72
+,F,1975,Robert,335
+WA,M,1982,John,238
+WA,M,2004,James,354
+WA,M,1987,John,380
 WA,M,,Robert,177
-WA,M,1964.0,James,935
-WA, F ,1921.0,Jennifer,37
-,F,1950.0,Patricia,19
- WA ,M,1974.0,Michael,981
-WA,M,1941.0,Jordan,66
-WA,F,1981.0,Patricia,1231
-WA,M,1957.0,Jordan,913
-WA,F,1911.0,Michael,118
- WA , F ,2010.0,Alex,935
-WA,,1980.0,Jordan,850
-WA,M,1959.0,Alex,30
-WA,F,2022.0,Casey,354
- WA ,M,1943.0,,141
-WA, M ,1935.0,alex,134
-WA,F,1982.0,Casey,107
-WA,F,2005.0,Jennifer,68
-WA,F,1944.0,Jordan,99
-WA,F,1968.0,Jennifer,450
-WA, M ,,Robert,124
-WA,F,1944.0,Taylor,1143
-WA, M ,1978.0,Alex,406
-WA,M,1985.0,Casey,227
-WA,,1961.0,Casey,300
-WA, M ,1950.0,Robert,58
-WA,M,1996.0,Taylor,207
-WA,F,1949.0,Jennifer,46
-WA,M,1922.0,,124
-WA,F,1974.0, Mary ,280
-WA,F,2013.0,,438
-WA,M,1946.0,Taylor,100
- WA ,F,1997.0,Casey,154
-WA,M,1913.0,,19
-WA,M,1979.0,Robert,495
-WA,,1912.0,Michael,27
-WA,M,1972.0,Michael,218
-WA,F,1927.0,Taylor,14
-WA,F,1930.0,Jennifer,114
-WA,F,1956.0,Patricia,
-,F,1931.0,jennifer,133
-WA,M,2019.0,Casey,12
-WA,M,1980.0,,434
-WA,F,2006.0,Jordan,169
-,F,1986.0,Patricia,283
-WA,F,1920.0,Linda,8
-WA,,1956.0, Mary ,10
-WA,F,1951.0,Mary,246
-WA,F,1954.0,Patricia,187
-WA,,1915.0,Taylor,31
-WA,F,1951.0,Casey,723
-WA,F,2020.0,jordan,414
-WA,F,2010.0,Jordan,14
-WA, M ,1973.0,Casey,83
-WA,F,1928.0,Jennifer,101
-WA,M,1985.0,Linda,132
-WA,M,2019.0,James,528
-WA,M,1948.0,John,403
- WA ,M,2002.0,Jordan,168
- WA , F ,1937.0,Jennifer,520
-WA,M,2006.0,Casey,152
- WA ,F,1958.0,Jennifer,639
-WA, F ,1926.0,Patricia,23
-WA,M,1966.0,taylor,118
- WA ,M,1983.0,Taylor,95
-WA,M,1987.0,Taylor,18
+WA,M,1964,James,935
+WA,F,1921,Jennifer,37
+,F,1950,Patricia,19
+WA,M,1974,Michael,981
+WA,M,1941,Jordan,66
+WA,F,1981,Patricia,1231
+WA,M,1957,Jordan,913
+WA,F,1911,Michael,118
+WA,F,2010,Alex,935
+WA,,1980,Jordan,850
+WA,M,1959,Alex,30
+WA,F,2022,Casey,354
+WA,M,1943,,141
+WA,M,1935,alex,134
+WA,F,1982,Casey,107
+WA,F,2005,Jennifer,68
+WA,F,1944,Jordan,99
+WA,F,1968,Jennifer,450
+WA,M,,Robert,124
+WA,F,1944,Taylor,1143
+WA,M,1978,Alex,406
+WA,M,1985,Casey,227
+WA,,1961,Casey,300
+WA,M,1950,Robert,58
+WA,M,1996,Taylor,207
+WA,F,1949,Jennifer,46
+WA,M,1922,,124
+WA,F,1974,Mary,280
+WA,F,2013,,438
+WA,M,1946,Taylor,100
+WA,F,1997,Casey,154
+WA,M,1913,,19
+WA,M,1979,Robert,495
+WA,,1912,Michael,27
+WA,M,1972,Michael,218
+WA,F,1927,Taylor,14
+WA,F,1930,Jennifer,114
+WA,F,1956,Patricia,
+,F,1931,jennifer,133
+WA,M,2019,Casey,12
+WA,M,1980,,434
+WA,F,2006,Jordan,169
+,F,1986,Patricia,283
+WA,F,1920,Linda,8
+WA,,1956,Mary,10
+WA,F,1951,Mary,246
+WA,F,1954,Patricia,187
+WA,,1915,Taylor,31
+WA,F,1951,Casey,723
+WA,F,2020,jordan,414
+WA,F,2010,Jordan,14
+WA,M,1973,Casey,83
+WA,F,1928,Jennifer,101
+WA,M,1985,Linda,132
+WA,M,2019,James,528
+WA,M,1948,John,403
+WA,M,2002,Jordan,168
+WA,F,1937,Jennifer,520
+WA,M,2006,Casey,152
+WA,F,1958,Jennifer,639
+WA,F,1926,Patricia,23
+WA,M,1966,taylor,118
+WA,M,1983,Taylor,95
+WA,M,1987,Taylor,18
 WA,F,,Alex,141
-WA,,2022.0,James,108
- WA , M ,1969.0,Alex,367
-,F,2002.0,Jennifer,
-,F,1996.0,Linda,155
-WA,M,, Casey ,31
- WA ,F,1969.0, Alex ,873
- WA ,F,1913.0,Casey,8
-WA,,2014.0,,9
- WA , M ,1975.0, Casey ,55
-,F,1943.0,Jennifer,181
-WA,M,1953.0,Casey,8
-,M,1982.0,Casey,702
-WA,M,1924.0,alex,21
-WA,M,1936.0,Alex,6
- WA ,F,1986.0,Casey,
-WA,M,1962.0,John,862
+WA,,2022,James,108
+WA,M,1969,Alex,367
+,F,2002,Jennifer,
+,F,1996,Linda,155
+WA,M,,Casey,31
+WA,F,1969,Alex,873
+WA,F,1913,Casey,8
+WA,,2014,,9
+WA,M,1975,Casey,55
+,F,1943,Jennifer,181
+WA,M,1953,Casey,8
+,M,1982,Casey,702
+WA,M,1924,alex,21
+WA,M,1936,Alex,6
+WA,F,1986,Casey,
+WA,M,1962,John,862
 WA,M,,John,5
-WA,F,2000.0,Jordan,120
-WA,F,1957.0,,309
-WA,M,1945.0,Patricia,25
-WA,F,1951.0,taylor,174
-,F,1940.0,Casey,12
-WA, F ,1953.0,Casey,40
-WA,M,1970.0,Alex,35
-WA,F,1956.0,Alex,355
-WA,M,1991.0,James,528
-WA,M,2017.0,John,316
-WA,F,2006.0,Jennifer,275
-WA,F,1963.0,Casey,522
-WA,F,1926.0,Jennifer,45
-WA,M,1984.0,Jordan,385
+WA,F,2000,Jordan,120
+WA,F,1957,,309
+WA,M,1945,Patricia,25
+WA,F,1951,taylor,174
+,F,1940,Casey,12
+WA,F,1953,Casey,40
+WA,M,1970,Alex,35
+WA,F,1956,Alex,355
+WA,M,1991,James,528
+WA,M,2017,John,316
+WA,F,2006,Jennifer,275
+WA,F,1963,Casey,522
+WA,F,1926,Jennifer,45
+WA,M,1984,Jordan,385
 WA,M,,John,72
-WA,F,2010.0,Taylor,65
-, M ,1959.0,Casey,98
-WA,M,1922.0,Michael,11
-WA,M,2010.0,Taylor,
-WA,,2004.0,Jordan,8
-WA,F,1996.0,Taylor,300
-WA,M,1927.0,Robert,71
+WA,F,2010,Taylor,65
+,M,1959,Casey,98
+WA,M,1922,Michael,11
+WA,M,2010,Taylor,
+WA,,2004,Jordan,8
+WA,F,1996,Taylor,300
+WA,M,1927,Robert,71
 WA,M,,Alex,93
-WA,F,1953.0,Alex,72
-WA,F,2011.0, Mary ,113
-WA,,1987.0,Michael,378
-WA,,1929.0,Taylor,6
-WA,M,1963.0,Jordan,
-WA, F ,1910.0,Jordan,11
-WA,M,1964.0,John,699
-WA,M,1988.0,Patricia,557
-,M,1989.0,Patricia,26
- WA ,M,2006.0,Taylor,74
-WA,M,1933.0,Taylor,26
-WA,M,1968.0,taylor,410
+WA,F,1953,Alex,72
+WA,F,2011,Mary,113
+WA,,1987,Michael,378
+WA,,1929,Taylor,6
+WA,M,1963,Jordan,
+WA,F,1910,Jordan,11
+WA,M,1964,John,699
+WA,M,1988,Patricia,557
+,M,1989,Patricia,26
+WA,M,2006,Taylor,74
+WA,M,1933,Taylor,26
+WA,M,1968,taylor,410

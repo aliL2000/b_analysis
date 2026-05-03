@@ -1,1624 +1,1624 @@
 state,sex,year,name,count
-ID,M,1959.0,John,
- ID ,M,1928.0,Michael,61
-ID,F,1995.0,Linda,124
- ID ,F,,Casey,7
-ID,M,1963.0,Alex,346
-ID,F,1983.0,Jennifer,67
-ID,M,1934.0,James,5
-ID,F,2008.0,Michael,660
- ID ,M,1991.0,Michael,746
- ID , M ,1960.0,Casey,499
-ID,M,1943.0,,439
- ID ,M,2003.0,Alex,
-,M,2013.0,Alex,93
- ID ,F,1922.0,Alex,11
-ID,M,1951.0, John ,105
- ID ,F,1999.0,Linda,183
-ID,,1980.0,john,676
-ID,F,2005.0,Alex,317
-ID,M,1968.0,Linda,
- ID ,M,1999.0,Casey,281
- ID ,M,2015.0, Jordan ,413
-ID,F,2006.0,Jordan,5
-ID,F,1993.0,Patricia,195
-ID,M,1966.0,Casey,434
-ID,M,1967.0,Jordan,499
-ID,M,1975.0,James,99
-ID,M,2020.0,Jordan,162
-ID,M,1959.0,Jordan,
-ID,F,1936.0,Linda,55
-ID, F ,1989.0,Linda,314
-ID,F,1984.0, Casey ,957
- ID ,M,1955.0,Michael,40
-ID,F,1972.0,Alex,259
- ID , F ,1931.0,Casey,470
-ID,M,2021.0,john,14
-ID,M,1948.0,Michael,604
-ID, F ,1999.0,Patricia,111
-ID,M,1956.0,Michael,393
-ID,,1933.0,Alex,18
-ID,M,1939.0,Michael,157
-ID,M,1960.0, Alex ,974
-ID,M,2022.0,Robert,19
-ID,M,1994.0,Casey,274
+ID,M,1959,John,
+ID,M,1928,Michael,61
+ID,F,1995,Linda,124
+ID,F,,Casey,7
+ID,M,1963,Alex,346
+ID,F,1983,Jennifer,67
+ID,M,1934,James,5
+ID,F,2008,Michael,660
+ID,M,1991,Michael,746
+ID,M,1960,Casey,499
+ID,M,1943,,439
+ID,M,2003,Alex,
+,M,2013,Alex,93
+ID,F,1922,Alex,11
+ID,M,1951,John,105
+ID,F,1999,Linda,183
+ID,,1980,john,676
+ID,F,2005,Alex,317
+ID,M,1968,Linda,
+ID,M,1999,Casey,281
+ID,M,2015,Jordan,413
+ID,F,2006,Jordan,5
+ID,F,1993,Patricia,195
+ID,M,1966,Casey,434
+ID,M,1967,Jordan,499
+ID,M,1975,James,99
+ID,M,2020,Jordan,162
+ID,M,1959,Jordan,
+ID,F,1936,Linda,55
+ID,F,1989,Linda,314
+ID,F,1984,Casey,957
+ID,M,1955,Michael,40
+ID,F,1972,Alex,259
+ID,F,1931,Casey,470
+ID,M,2021,john,14
+ID,M,1948,Michael,604
+ID,F,1999,Patricia,111
+ID,M,1956,Michael,393
+ID,,1933,Alex,18
+ID,M,1939,Michael,157
+ID,M,1960,Alex,974
+ID,M,2022,Robert,19
+ID,M,1994,Casey,274
 ID,F,,Jennifer,114
- ID ,M,1951.0,Alex,969
- ID ,F,1987.0,Casey,559
-ID,M,1969.0,John,174
-ID,M,1932.0,Michael,13
-ID,F,1980.0,Jordan,1061
-ID,,2008.0,Linda,686
- ID ,F,1980.0,Patricia,470
-ID,M,1958.0,John,583
-ID, F ,1968.0,Alex,190
-ID,F,1927.0,Linda,107
- ID ,,2015.0,linda,265
-ID,M,1972.0,Jennifer,497
-ID,F,1996.0,Taylor,291
-ID,F,2019.0,Michael,302
-ID,F,2017.0,Mary,491
- ID ,F,1978.0,Linda,
-ID, F ,2018.0,Alex,470
-ID,M,1970.0,Alex,284
-ID,M,2015.0,James,
-ID,F,1969.0,Taylor,178
-,F,2004.0,Jordan,
-ID,F,1993.0,Casey,1016
-ID,M,1993.0,Taylor,161
+ID,M,1951,Alex,969
+ID,F,1987,Casey,559
+ID,M,1969,John,174
+ID,M,1932,Michael,13
+ID,F,1980,Jordan,1061
+ID,,2008,Linda,686
+ID,F,1980,Patricia,470
+ID,M,1958,John,583
+ID,F,1968,Alex,190
+ID,F,1927,Linda,107
+ID,,2015,linda,265
+ID,M,1972,Jennifer,497
+ID,F,1996,Taylor,291
+ID,F,2019,Michael,302
+ID,F,2017,Mary,491
+ID,F,1978,Linda,
+ID,F,2018,Alex,470
+ID,M,1970,Alex,284
+ID,M,2015,James,
+ID,F,1969,Taylor,178
+,F,2004,Jordan,
+ID,F,1993,Casey,1016
+ID,M,1993,Taylor,161
 ID,M,,Alex,336
-ID,F,1965.0,Jordan,173
-ID, M ,2013.0,James,120
-ID,M,1973.0,Casey,367
-ID,M,1955.0,Robert,99
- ID ,M,1984.0,Casey,500
-ID,M,2018.0,Michael,286
-ID,M,2018.0, Robert ,36
-ID,M,2015.0,Robert,58
-ID,F,2012.0,Linda,435
-ID,F,1996.0,Casey,30
- ID ,M,1946.0,Casey,136
-ID,M,1982.0,James,564
-ID,M,1956.0,Alex,
-ID,M,1990.0,John,32
+ID,F,1965,Jordan,173
+ID,M,2013,James,120
+ID,M,1973,Casey,367
+ID,M,1955,Robert,99
+ID,M,1984,Casey,500
+ID,M,2018,Michael,286
+ID,M,2018,Robert,36
+ID,M,2015,Robert,58
+ID,F,2012,Linda,435
+ID,F,1996,Casey,30
+ID,M,1946,Casey,136
+ID,M,1982,James,564
+ID,M,1956,Alex,
+ID,M,1990,John,32
 ID,M,,Michael,384
-ID,M,1959.0,casey,796
-ID, F ,1979.0,Alex,248
-ID,M,1998.0, Casey ,338
- ID ,F,1942.0,Jennifer,304
-ID,M,2012.0,John,13
-,F,1944.0,Linda,11
-ID,M,1958.0,Taylor,856
-ID,M,1969.0,Jordan,394
-ID,F,2017.0,,
-ID, M ,1975.0,John,587
-ID,F,2001.0,Michael,80
-,M,1961.0,Michael,117
-ID,M,1984.0,Michael,188
- ID ,M,, John ,270
-ID,F,2001.0,Alex,68
- ID ,F,2005.0,Casey,342
-ID,M,1978.0,Casey,179
-ID,F,1982.0,Linda,529
-ID,F,1967.0,Casey,27
-ID,M,1929.0,John,207
-,,1930.0, Patricia ,13
-,M,1953.0,Michael,12
-ID,M,1983.0,John,625
-ID,M,1981.0,Taylor,348
+ID,M,1959,casey,796
+ID,F,1979,Alex,248
+ID,M,1998,Casey,338
+ID,F,1942,Jennifer,304
+ID,M,2012,John,13
+,F,1944,Linda,11
+ID,M,1958,Taylor,856
+ID,M,1969,Jordan,394
+ID,F,2017,,
+ID,M,1975,John,587
+ID,F,2001,Michael,80
+,M,1961,Michael,117
+ID,M,1984,Michael,188
+ID,M,,John,270
+ID,F,2001,Alex,68
+ID,F,2005,Casey,342
+ID,M,1978,Casey,179
+ID,F,1982,Linda,529
+ID,F,1967,Casey,27
+ID,M,1929,John,207
+,,1930,Patricia,13
+,M,1953,Michael,12
+ID,M,1983,John,625
+ID,M,1981,Taylor,348
 ID,F,,Casey,42
-ID,F,1965.0,Mary,707
-ID,F,1973.0,Linda,
-,M,2005.0,taylor,192
-ID,,1993.0,Alex,460
-ID,M,2000.0,Jordan,51
-ID, F ,,Linda,606
-ID,M,1972.0,Robert,504
-ID,M,1994.0,Robert,59
-ID,M,1991.0,James,822
-ID,F,1911.0,Jordan,16
+ID,F,1965,Mary,707
+ID,F,1973,Linda,
+,M,2005,taylor,192
+ID,,1993,Alex,460
+ID,M,2000,Jordan,51
+ID,F,,Linda,606
+ID,M,1972,Robert,504
+ID,M,1994,Robert,59
+ID,M,1991,James,822
+ID,F,1911,Jordan,16
 ,F,,mary,469
-ID,F,1945.0,Alex,296
-ID,F,2016.0,Mary,95
-ID, F ,1975.0,Casey,511
-ID,M,2011.0,,54
-ID,F,2013.0,John,99
-ID,F,1949.0,Patricia,70
-ID,M,1961.0,,713
-ID,M,1974.0,,56
-ID,F,1962.0,Linda,147
-ID,F,1938.0,Alex,90
-ID,F,1999.0,Alex,32
-ID,M,2007.0, John ,832
-ID,F,1953.0,Patricia,1254
-ID, M ,1919.0,Robert,12
-ID,F,2004.0,Alex,19
-,F,1948.0, Taylor ,209
- ID ,M,1997.0,John,
-ID,F,1972.0,linda,384
- ID ,M,2016.0,Robert,30
-ID,M,2012.0,Alex,17
-ID, F ,1998.0,Mary,771
-ID,M,1913.0,Jordan,58
+ID,F,1945,Alex,296
+ID,F,2016,Mary,95
+ID,F,1975,Casey,511
+ID,M,2011,,54
+ID,F,2013,John,99
+ID,F,1949,Patricia,70
+ID,M,1961,,713
+ID,M,1974,,56
+ID,F,1962,Linda,147
+ID,F,1938,Alex,90
+ID,F,1999,Alex,32
+ID,M,2007,John,832
+ID,F,1953,Patricia,1254
+ID,M,1919,Robert,12
+ID,F,2004,Alex,19
+,F,1948,Taylor,209
+ID,M,1997,John,
+ID,F,1972,linda,384
+ID,M,2016,Robert,30
+ID,M,2012,Alex,17
+ID,F,1998,Mary,771
+ID,M,1913,Jordan,58
 ID,M,,John,41
-ID,F,1977.0,Taylor,621
-ID,F,1967.0,patricia,127
-ID,,1981.0,Alex,413
- ID ,M,1916.0,Alex,27
-ID,M,1931.0,James,82
-,M,1978.0,Jordan,51
-ID,F,1923.0,robert,38
-ID,M,1965.0,Michael,373
-ID,F,1940.0,Linda,19
-ID,M,2005.0,James,479
-ID,,1995.0,Casey,532
-ID,M,1967.0,Robert,30
-ID,F,1999.0,,105
-ID,F,1981.0,Taylor,842
-ID,F,1972.0,Taylor,69
-ID,F,2010.0,jennifer,175
-ID,M,1958.0,Michael,18
-ID,M,1935.0, Casey ,7
-ID,M,1954.0,Robert,131
-ID, F ,1955.0,Alex,124
-ID,F,1986.0,linda,157
- ID ,F,1991.0,Jordan,744
-ID,F,2005.0,Jordan,156
-ID,F,2014.0,Linda,10
- ID ,F,1991.0,Linda,471
- ID ,F,1997.0,Linda,417
-ID,F,1965.0,Casey,556
-ID,M,2005.0,Michael,20
-ID,M,1955.0,Robert,99
+ID,F,1977,Taylor,621
+ID,F,1967,patricia,127
+ID,,1981,Alex,413
+ID,M,1916,Alex,27
+ID,M,1931,James,82
+,M,1978,Jordan,51
+ID,F,1923,robert,38
+ID,M,1965,Michael,373
+ID,F,1940,Linda,19
+ID,M,2005,James,479
+ID,,1995,Casey,532
+ID,M,1967,Robert,30
+ID,F,1999,,105
+ID,F,1981,Taylor,842
+ID,F,1972,Taylor,69
+ID,F,2010,jennifer,175
+ID,M,1958,Michael,18
+ID,M,1935,Casey,7
+ID,M,1954,Robert,131
+ID,F,1955,Alex,124
+ID,F,1986,linda,157
+ID,F,1991,Jordan,744
+ID,F,2005,Jordan,156
+ID,F,2014,Linda,10
+ID,F,1991,Linda,471
+ID,F,1997,Linda,417
+ID,F,1965,Casey,556
+ID,M,2005,Michael,20
+ID,M,1955,Robert,99
 ID,M,,John,246
-ID,M,1943.0,Robert,388
-ID,M,2004.0,John,323
-ID,F,1943.0,Alex,
+ID,M,1943,Robert,388
+ID,M,2004,John,323
+ID,F,1943,Alex,
 ID,M,,John,932
-ID,M,1959.0,Robert,36
-ID,M,1929.0,Taylor,60
-ID, M ,1948.0,John,7
-ID,M,1995.0,Jordan,128
-ID,M,2001.0,Robert,540
-ID,M,1971.0,Robert,187
-ID,M,1963.0,Jordan,18
-ID,F,1985.0,Alex,33
+ID,M,1959,Robert,36
+ID,M,1929,Taylor,60
+ID,M,1948,John,7
+ID,M,1995,Jordan,128
+ID,M,2001,Robert,540
+ID,M,1971,Robert,187
+ID,M,1963,Jordan,18
+ID,F,1985,Alex,33
 ID,F,,Linda,437
-ID,F,1942.0,Linda,221
-ID,M,1960.0,jordan,20
+ID,F,1942,Linda,221
+ID,M,1960,jordan,20
 ID,F,,Mary,380
-ID,M,1990.0,Casey,94
-ID,F,2010.0,Casey,51
-ID,M,1955.0,James,231
-ID,F,1934.0,Linda,25
-ID,M,1967.0,John,283
-ID,F,1919.0,Mary,34
-ID,F,1982.0,Casey,447
-ID,M,1937.0,Michael,113
-ID,M,1952.0,James,10
-ID,M,1933.0,Robert,230
-ID,F,1933.0,Jennifer,393
+ID,M,1990,Casey,94
+ID,F,2010,Casey,51
+ID,M,1955,James,231
+ID,F,1934,Linda,25
+ID,M,1967,John,283
+ID,F,1919,Mary,34
+ID,F,1982,Casey,447
+ID,M,1937,Michael,113
+ID,M,1952,James,10
+ID,M,1933,Robert,230
+ID,F,1933,Jennifer,393
 ID,M,,Michael,364
-,F,2006.0,Taylor,1361
-ID,M,1955.0,Linda,79
-ID,F,2001.0,Jordan,72
-ID,M,1920.0,James,5
-ID, M ,2008.0,Casey,23
-ID, F ,1991.0,,579
-ID,M,1946.0,James,474
-,F,2008.0,Alex,129
-ID,F,1939.0,patricia,897
-ID, F ,1965.0,,633
- ID ,M,1991.0, Taylor ,962
-ID,F,1939.0,Mary,10
-ID,M,1963.0,robert,
-,M,1976.0,John,387
-ID,F,1985.0,Patricia,379
-ID,F,2004.0,Linda,157
- ID ,M,1911.0,John,47
-ID,,2005.0,Mary,157
-ID,F,1976.0,Alex,57
+,F,2006,Taylor,1361
+ID,M,1955,Linda,79
+ID,F,2001,Jordan,72
+ID,M,1920,James,5
+ID,M,2008,Casey,23
+ID,F,1991,,579
+ID,M,1946,James,474
+,F,2008,Alex,129
+ID,F,1939,patricia,897
+ID,F,1965,,633
+ID,M,1991,Taylor,962
+ID,F,1939,Mary,10
+ID,M,1963,robert,
+,M,1976,John,387
+ID,F,1985,Patricia,379
+ID,F,2004,Linda,157
+ID,M,1911,John,47
+ID,,2005,Mary,157
+ID,F,1976,Alex,57
 ,F,,Jennifer,49
-ID,M,2001.0,James,103
-ID,F,1985.0,Jennifer,701
-ID, M ,1927.0,James,7
-ID,M,1962.0,Robert,400
- ID ,F,2009.0,Taylor,7
-ID,M,1926.0,Alex,252
-ID, F ,2004.0,Patricia,504
-ID, M ,2019.0,Michael,58
- ID ,F,1923.0,Taylor,93
-ID,M,2021.0,Taylor,8
-ID,F,2015.0,Linda,59
-ID,M,1951.0,James,42
+ID,M,2001,James,103
+ID,F,1985,Jennifer,701
+ID,M,1927,James,7
+ID,M,1962,Robert,400
+ID,F,2009,Taylor,7
+ID,M,1926,Alex,252
+ID,F,2004,Patricia,504
+ID,M,2019,Michael,58
+ID,F,1923,Taylor,93
+ID,M,2021,Taylor,8
+ID,F,2015,Linda,59
+ID,M,1951,James,42
 ID,F,,Jennifer,753
-ID,F,1949.0,Mary,381
-ID,M,1944.0,Michael,37
-ID, M ,1976.0, James ,94
- ID ,M,1950.0,Alex,37
-ID,F,2018.0,taylor,265
-ID,M,2000.0, Taylor ,386
-ID,M,2015.0,John,27
-ID,F,1942.0,Alex,85
-ID,F,1931.0,Linda,16
-ID,M,1964.0,Alex,599
-ID, F ,1963.0,Linda,40
-ID,M,1919.0,Taylor,12
-ID,M,1938.0,Alex,237
- ID ,F,1925.0,Taylor,95
- ID ,F,1980.0,Alex,347
-ID,M,1950.0,Robert,14
-ID,F,1939.0,patricia,897
-ID,,1967.0,Casey,624
- ID ,F,2016.0,Taylor,54
-ID,M,2010.0,Taylor,268
- ID ,F,1988.0,Taylor,323
-ID,,1998.0,Jordan,196
-ID,M,1924.0,Alex,6
-ID,M,1968.0,Casey,376
-ID,F,2019.0,jordan,257
-ID,,1979.0,Mary,258
-ID,M,1965.0,Casey,488
-ID,F,1918.0,Patricia,5
-ID, M ,1985.0,Taylor,119
-ID,F,1941.0,Taylor,
-ID,F,1977.0,Mary,366
-ID,F,1996.0,Jordan,51
-ID,M,1957.0,Michael,308
-ID,,1951.0,Michael,14
-ID,F,2021.0,jordan,93
-ID,F,1950.0,Linda,161
-ID, F ,1971.0,Patricia,55
-ID,M,2002.0,Taylor,60
-ID,M,1988.0,Taylor,1006
- ID ,F,1913.0,Mary,156
-ID,M,1989.0,James,40
-ID,F,1948.0,Alex,50
-ID,F,1955.0,Linda,28
-ID,F,1953.0, Casey ,699
- ID ,F,2021.0, Alex ,11
-ID,M,1957.0,taylor,226
-ID,F,1929.0,James,22
-ID,F,1938.0,Jordan,57
-ID,F,1972.0,Casey,240
-ID, M ,2019.0,Robert,508
-ID,M,1912.0,Jordan,5
-ID,M,2003.0,John,47
-,F,2014.0,Patricia,172
-ID,M,1987.0,Casey,40
-ID, M ,1916.0,John,70
-ID,M,1972.0,Jordan,811
-ID,F,1959.0,Alex,186
-ID,M,2017.0,James,520
-,M,2003.0,Taylor,185
-ID,F,1999.0,Jordan,86
-ID,F,1992.0,Alex,11
-ID,F,1941.0,Jennifer,492
-ID,F,2014.0,Jordan,123
-ID,F,2004.0,Michael,654
-ID,M,1915.0,Taylor,7
-ID,M,1977.0,,141
-ID,F,2013.0,Jordan,36
-ID,F,1995.0,John,954
- ID ,M,2004.0,Linda,9
-, F ,1947.0,Taylor,707
-ID,M,1980.0,Alex,247
-ID,M,1981.0,James,40
-ID,F,2009.0,Linda,71
-ID,F,1914.0,Casey,21
- ID ,F,1976.0,Patricia,160
-,F,1968.0,Taylor,899
-ID,F,2013.0,Robert,155
-ID, F ,1977.0,Jordan,201
-,F,2007.0,Jennifer,475
-ID,F,1952.0,Casey,818
-ID,M,2010.0,Michael,85
-ID, F ,1981.0,Jordan,391
-ID,F,1939.0,Linda,82
-ID,F,1956.0,Casey,586
-ID,F,1944.0,Alex,975
-ID,M,1993.0,John,127
-ID,F,1989.0,Jennifer,312
- ID ,F,1975.0,Alex,83
-ID,M,1926.0,Robert,
-ID,M,1921.0,Jordan,20
-ID,M,1973.0,Taylor,12
-ID, M ,1999.0,john,119
-ID,M,1974.0,James,12
-ID,M,1974.0,john,5
-ID,M,2015.0,James,
-ID,M,1916.0,Robert,53
+ID,F,1949,Mary,381
+ID,M,1944,Michael,37
+ID,M,1976,James,94
+ID,M,1950,Alex,37
+ID,F,2018,taylor,265
+ID,M,2000,Taylor,386
+ID,M,2015,John,27
+ID,F,1942,Alex,85
+ID,F,1931,Linda,16
+ID,M,1964,Alex,599
+ID,F,1963,Linda,40
+ID,M,1919,Taylor,12
+ID,M,1938,Alex,237
+ID,F,1925,Taylor,95
+ID,F,1980,Alex,347
+ID,M,1950,Robert,14
+ID,F,1939,patricia,897
+ID,,1967,Casey,624
+ID,F,2016,Taylor,54
+ID,M,2010,Taylor,268
+ID,F,1988,Taylor,323
+ID,,1998,Jordan,196
+ID,M,1924,Alex,6
+ID,M,1968,Casey,376
+ID,F,2019,jordan,257
+ID,,1979,Mary,258
+ID,M,1965,Casey,488
+ID,F,1918,Patricia,5
+ID,M,1985,Taylor,119
+ID,F,1941,Taylor,
+ID,F,1977,Mary,366
+ID,F,1996,Jordan,51
+ID,M,1957,Michael,308
+ID,,1951,Michael,14
+ID,F,2021,jordan,93
+ID,F,1950,Linda,161
+ID,F,1971,Patricia,55
+ID,M,2002,Taylor,60
+ID,M,1988,Taylor,1006
+ID,F,1913,Mary,156
+ID,M,1989,James,40
+ID,F,1948,Alex,50
+ID,F,1955,Linda,28
+ID,F,1953,Casey,699
+ID,F,2021,Alex,11
+ID,M,1957,taylor,226
+ID,F,1929,James,22
+ID,F,1938,Jordan,57
+ID,F,1972,Casey,240
+ID,M,2019,Robert,508
+ID,M,1912,Jordan,5
+ID,M,2003,John,47
+,F,2014,Patricia,172
+ID,M,1987,Casey,40
+ID,M,1916,John,70
+ID,M,1972,Jordan,811
+ID,F,1959,Alex,186
+ID,M,2017,James,520
+,M,2003,Taylor,185
+ID,F,1999,Jordan,86
+ID,F,1992,Alex,11
+ID,F,1941,Jennifer,492
+ID,F,2014,Jordan,123
+ID,F,2004,Michael,654
+ID,M,1915,Taylor,7
+ID,M,1977,,141
+ID,F,2013,Jordan,36
+ID,F,1995,John,954
+ID,M,2004,Linda,9
+,F,1947,Taylor,707
+ID,M,1980,Alex,247
+ID,M,1981,James,40
+ID,F,2009,Linda,71
+ID,F,1914,Casey,21
+ID,F,1976,Patricia,160
+,F,1968,Taylor,899
+ID,F,2013,Robert,155
+ID,F,1977,Jordan,201
+,F,2007,Jennifer,475
+ID,F,1952,Casey,818
+ID,M,2010,Michael,85
+ID,F,1981,Jordan,391
+ID,F,1939,Linda,82
+ID,F,1956,Casey,586
+ID,F,1944,Alex,975
+ID,M,1993,John,127
+ID,F,1989,Jennifer,312
+ID,F,1975,Alex,83
+ID,M,1926,Robert,
+ID,M,1921,Jordan,20
+ID,M,1973,Taylor,12
+ID,M,1999,john,119
+ID,M,1974,James,12
+ID,M,1974,john,5
+ID,M,2015,James,
+ID,M,1916,Robert,53
 ID,M,,Taylor,332
-ID,M,1971.0,Taylor,13
-ID,M,2007.0,Jordan,356
-ID,M,1950.0,Jordan,
- ID ,,1942.0,Michael,283
- ID ,F,1925.0,Linda,67
-ID,M,2011.0,michael,37
-, M ,1998.0, Taylor ,162
-ID,F,1959.0,Linda,91
-ID,F,2003.0, Taylor ,227
-ID,F,1968.0,Casey,705
-ID,F,1934.0,Patricia,47
+ID,M,1971,Taylor,13
+ID,M,2007,Jordan,356
+ID,M,1950,Jordan,
+ID,,1942,Michael,283
+ID,F,1925,Linda,67
+ID,M,2011,michael,37
+,M,1998,Taylor,162
+ID,F,1959,Linda,91
+ID,F,2003,Taylor,227
+ID,F,1968,Casey,705
+ID,F,1934,Patricia,47
 ID,F,,Jennifer,314
-ID,M,1962.0,Jordan,8
-ID,M,2009.0,Michael,199
-ID,M,1947.0,Taylor,15
-ID,F,2007.0,linda,256
-ID,M,2018.0,Mary,11
-ID, M ,1996.0,Michael,251
-ID,F,1980.0,Casey,715
-ID,,1985.0,Alex,200
-,F,1917.0,Robert,
- ID ,F,1963.0,Jordan,517
-ID,M,1920.0,John,34
-ID,M,1940.0,Michael,400
-ID,M,1952.0,Robert,
-ID,M,1929.0,Robert,284
+ID,M,1962,Jordan,8
+ID,M,2009,Michael,199
+ID,M,1947,Taylor,15
+ID,F,2007,linda,256
+ID,M,2018,Mary,11
+ID,M,1996,Michael,251
+ID,F,1980,Casey,715
+ID,,1985,Alex,200
+,F,1917,Robert,
+ID,F,1963,Jordan,517
+ID,M,1920,John,34
+ID,M,1940,Michael,400
+ID,M,1952,Robert,
+ID,M,1929,Robert,284
 ID,F,,Patricia,264
-ID,F,1985.0,Linda,224
-ID,F,1997.0,Jordan,131
-ID,M,1988.0,Casey,226
-ID,F,1990.0,Jordan,792
-ID, F ,1986.0,Taylor,579
-ID,F,1944.0,,683
-ID,M,1923.0,Michael,6
+ID,F,1985,Linda,224
+ID,F,1997,Jordan,131
+ID,M,1988,Casey,226
+ID,F,1990,Jordan,792
+ID,F,1986,Taylor,579
+ID,F,1944,,683
+ID,M,1923,Michael,6
 ID,M,,Casey,579
-ID,M,1970.0,Michael,
-ID,M,2020.0,michael,7
-ID,F,1987.0,Alex,
-ID,M,1991.0, Alex ,538
-ID,,1945.0,Patricia,204
-ID,F,1946.0,Jordan,391
-,F,2015.0,Jordan,377
- ID ,M,1928.0,Jordan,154
-ID,F,1960.0,Taylor,80
-ID,F,1967.0,Alex,
-ID,F,1932.0,Jennifer,39
-ID,M,1972.0,Patricia,592
-ID, M ,1971.0,Casey,250
-ID,F,1919.0,Alex,45
- ID ,F,1956.0,Jordan,158
-ID,F,2008.0,Mary,43
-ID,M,1956.0,Taylor,29
-ID, F ,2009.0,Jennifer,36
-ID, F ,1986.0,Mary,468
-ID,F,2012.0,Alex,731
+ID,M,1970,Michael,
+ID,M,2020,michael,7
+ID,F,1987,Alex,
+ID,M,1991,Alex,538
+ID,,1945,Patricia,204
+ID,F,1946,Jordan,391
+,F,2015,Jordan,377
+ID,M,1928,Jordan,154
+ID,F,1960,Taylor,80
+ID,F,1967,Alex,
+ID,F,1932,Jennifer,39
+ID,M,1972,Patricia,592
+ID,M,1971,Casey,250
+ID,F,1919,Alex,45
+ID,F,1956,Jordan,158
+ID,F,2008,Mary,43
+ID,M,1956,Taylor,29
+ID,F,2009,Jennifer,36
+ID,F,1986,Mary,468
+ID,F,2012,Alex,731
 ID,,,Patricia,22
-ID,F,1928.0,Jennifer,326
-ID,F,1957.0,Patricia,10
-ID, F ,1993.0,,
+ID,F,1928,Jennifer,326
+ID,F,1957,Patricia,10
+ID,F,1993,,
 ID,M,,John,521
-ID,F,1939.0,Jennifer,321
- ID ,F,2022.0,Mary,332
-ID,M,1999.0,James,21
-ID, M ,1968.0,Michael,410
-ID,M,1958.0,Robert,34
- ID ,F,1951.0,Linda,28
-, F ,2015.0,Mary,
-ID,M,2022.0,Taylor,63
+ID,F,1939,Jennifer,321
+ID,F,2022,Mary,332
+ID,M,1999,James,21
+ID,M,1968,Michael,410
+ID,M,1958,Robert,34
+ID,F,1951,Linda,28
+,F,2015,Mary,
+ID,M,2022,Taylor,63
 ID,F,,,37
-ID,M,1922.0,Mary,129
-ID,M,1987.0,John,387
-ID,F,1963.0,taylor,58
-ID,M,1983.0,Alex,265
-ID,F,1992.0,,892
-,M,2009.0,,7
-ID,F,1981.0,Mary,627
-,M,2005.0,Jordan,106
-ID,F,2019.0,Mary,149
-ID,F,1929.0,Jennifer,18
-ID,,1987.0,Alex,429
-ID,M,1980.0,Michael,665
-ID, F ,2011.0,Jordan,122
-ID,,1932.0,casey,302
-ID,,1966.0,Taylor,423
-ID,F,1964.0,Patricia,756
- ID ,F,1961.0, Alex ,442
- ID ,M,2012.0,James,225
- ID ,M,1978.0,Alex,141
-ID,M,1950.0,John,6
-ID,M,2018.0,jordan,134
+ID,M,1922,Mary,129
+ID,M,1987,John,387
+ID,F,1963,taylor,58
+ID,M,1983,Alex,265
+ID,F,1992,,892
+,M,2009,,7
+ID,F,1981,Mary,627
+,M,2005,Jordan,106
+ID,F,2019,Mary,149
+ID,F,1929,Jennifer,18
+ID,,1987,Alex,429
+ID,M,1980,Michael,665
+ID,F,2011,Jordan,122
+ID,,1932,casey,302
+ID,,1966,Taylor,423
+ID,F,1964,Patricia,756
+ID,F,1961,Alex,442
+ID,M,2012,James,225
+ID,M,1978,Alex,141
+ID,M,1950,John,6
+ID,M,2018,jordan,134
 ID,F,,Linda,8
-ID,M,1936.0,jordan,
-ID,M,2005.0,Robert,25
-ID,F,1998.0,Linda,739
-ID,F,1938.0,Taylor,513
-,M,1944.0,Robert,10
-ID,M,1997.0,,458
-ID,F,1946.0,Patricia,255
-ID,M,1968.0,Jordan,484
-ID,F,2008.0,Jordan,35
-ID,F,1939.0,Robert,47
- ID , F ,1964.0,Mary,46
-ID,F,1921.0,Alex,23
-ID,,1986.0, Casey ,433
-ID,M,1961.0,Casey,394
-ID,F,1921.0,Michael,33
-ID,M,1957.0, Alex ,19
+ID,M,1936,jordan,
+ID,M,2005,Robert,25
+ID,F,1998,Linda,739
+ID,F,1938,Taylor,513
+,M,1944,Robert,10
+ID,M,1997,,458
+ID,F,1946,Patricia,255
+ID,M,1968,Jordan,484
+ID,F,2008,Jordan,35
+ID,F,1939,Robert,47
+ID,F,1964,Mary,46
+ID,F,1921,Alex,23
+ID,,1986,Casey,433
+ID,M,1961,Casey,394
+ID,F,1921,Michael,33
+ID,M,1957,Alex,19
 ID,M,,Casey,45
- ID ,F,1940.0,Jennifer,5
-ID,M,1985.0,John,11
- ID ,F,1948.0,Patricia,19
-ID,,2000.0,Jordan,245
-ID,F,1978.0,Alex,128
-ID, M ,1998.0,James,87
-ID,M,1986.0,Taylor,153
-,F,1981.0,Linda,428
- ID ,M,1952.0,Taylor,375
-ID,M,2009.0,Alex,6
-ID,F,2002.0,Alex,321
-ID,F,1948.0,Jordan,32
-ID,F,1967.0,Jordan,34
-ID,,1936.0,Taylor,33
-ID,M,1967.0,Taylor,805
-ID,F,2020.0,Taylor,27
+ID,F,1940,Jennifer,5
+ID,M,1985,John,11
+ID,F,1948,Patricia,19
+ID,,2000,Jordan,245
+ID,F,1978,Alex,128
+ID,M,1998,James,87
+ID,M,1986,Taylor,153
+,F,1981,Linda,428
+ID,M,1952,Taylor,375
+ID,M,2009,Alex,6
+ID,F,2002,Alex,321
+ID,F,1948,Jordan,32
+ID,F,1967,Jordan,34
+ID,,1936,Taylor,33
+ID,M,1967,Taylor,805
+ID,F,2020,Taylor,27
 ID,M,,Jennifer,53
-ID,F,1957.0,Mary,32
- ID ,M,1966.0,Michael,252
-ID,M,1994.0,Jordan,216
-ID,F,1949.0,Taylor,
- ID ,,1925.0,Casey,21
-,M,1994.0,James,142
-ID,F,2001.0,Jennifer,263
-ID,F,2017.0,Jordan,69
-ID,M,1917.0,James,9
- ID , F ,2012.0,Casey,552
-ID,F,1931.0, Mary ,9
-ID,M,1989.0,Casey,268
-ID,M,2002.0,Taylor,60
-ID,M,2000.0,Michael,1184
-ID,M,1961.0,John,49
-ID,F,1959.0,Casey,39
-ID,F,2014.0,Alex,12
-ID,F,1994.0,Linda,604
-ID,,2021.0,Casey,182
- ID ,F,1947.0,Linda,142
+ID,F,1957,Mary,32
+ID,M,1966,Michael,252
+ID,M,1994,Jordan,216
+ID,F,1949,Taylor,
+ID,,1925,Casey,21
+,M,1994,James,142
+ID,F,2001,Jennifer,263
+ID,F,2017,Jordan,69
+ID,M,1917,James,9
+ID,F,2012,Casey,552
+ID,F,1931,Mary,9
+ID,M,1989,Casey,268
+ID,M,2002,Taylor,60
+ID,M,2000,Michael,1184
+ID,M,1961,John,49
+ID,F,1959,Casey,39
+ID,F,2014,Alex,12
+ID,F,1994,Linda,604
+ID,,2021,Casey,182
+ID,F,1947,Linda,142
 ,F,,Mary,55
-ID,M,1917.0,Jordan,24
-ID,F,2012.0,Jennifer,
-ID,M,1996.0,Linda,338
-ID,F,1925.0,Casey,235
-ID,F,1960.0,Patricia,272
+ID,M,1917,Jordan,24
+ID,F,2012,Jennifer,
+ID,M,1996,Linda,338
+ID,F,1925,Casey,235
+ID,F,1960,Patricia,272
 ID,M,,Alex,8
 ID,M,,James,90
-,F,1977.0,Linda,174
-ID, F ,1959.0,Taylor,48
-ID,M,1979.0,Casey,848
+,F,1977,Linda,174
+ID,F,1959,Taylor,48
+ID,M,1979,Casey,848
 ID,F,,Mary,380
-ID, F ,1979.0,Jennifer,509
-ID,M,1990.0,Taylor,166
-ID,F,1921.0,Patricia,95
-ID, F ,1958.0,Linda,166
-ID,M,2022.0,Michael,221
-ID,F,1974.0,Jordan,155
-ID,M,2010.0,Casey,25
-ID,,1963.0,James,118
-ID,F,1945.0,Jennifer,81
-ID,F,1929.0,Alex,28
-ID,F,1960.0,Casey,55
- ID , M ,1951.0, Robert ,92
-ID,F,1940.0,Taylor,49
-ID,,1945.0,Patricia,204
-ID,,1979.0,Linda,668
-ID, F ,2021.0,Jennifer,8
-ID,,2005.0,Taylor,6
-ID,M,1957.0,Casey,189
+ID,F,1979,Jennifer,509
+ID,M,1990,Taylor,166
+ID,F,1921,Patricia,95
+ID,F,1958,Linda,166
+ID,M,2022,Michael,221
+ID,F,1974,Jordan,155
+ID,M,2010,Casey,25
+ID,,1963,James,118
+ID,F,1945,Jennifer,81
+ID,F,1929,Alex,28
+ID,F,1960,Casey,55
+ID,M,1951,Robert,92
+ID,F,1940,Taylor,49
+ID,,1945,Patricia,204
+ID,,1979,Linda,668
+ID,F,2021,Jennifer,8
+ID,,2005,Taylor,6
+ID,M,1957,Casey,189
 ID,,,Casey,180
-ID,M,1930.0,Jordan,246
-ID,,1960.0,Mary,581
-ID, M ,1992.0,John,217
-ID,F,1995.0,Casey,740
-ID,M,1982.0,Taylor,164
-ID, F ,2009.0,Jordan,307
-ID,F,1933.0,casey,563
-ID,F,2013.0,Casey,46
+ID,M,1930,Jordan,246
+ID,,1960,Mary,581
+ID,M,1992,John,217
+ID,F,1995,Casey,740
+ID,M,1982,Taylor,164
+ID,F,2009,Jordan,307
+ID,F,1933,casey,563
+ID,F,2013,Casey,46
 ID,M,,Alex,299
-ID,F,1945.0,Jordan,821
-ID,F,2000.0,Patricia,602
-ID,F,1956.0,Mary,26
-ID,M,1914.0,Taylor,77
-ID,F,1944.0,John,32
- ID ,F,1989.0,Casey,341
-ID,F,1990.0,Patricia,463
-ID, M ,,Alex,678
-ID,F,1941.0,Casey,79
-ID,M,1985.0,Michael,331
-ID,M,1984.0,Mary,368
-ID,M,1962.0,Casey,497
+ID,F,1945,Jordan,821
+ID,F,2000,Patricia,602
+ID,F,1956,Mary,26
+ID,M,1914,Taylor,77
+ID,F,1944,John,32
+ID,F,1989,Casey,341
+ID,F,1990,Patricia,463
+ID,M,,Alex,678
+ID,F,1941,Casey,79
+ID,M,1985,Michael,331
+ID,M,1984,Mary,368
+ID,M,1962,Casey,497
 ID,F,,Jennifer,
-ID,M,1964.0,,346
-ID,M,2010.0,Jennifer,418
-ID,F,1937.0,Mary,500
-ID,M,1927.0, Jordan ,106
-ID,F,1997.0,Casey,215
-ID,M,2017.0,Michael,180
-ID,M,1963.0,Casey,1148
-ID,F,1920.0,Jordan,84
-ID,F,1945.0,Linda,128
-ID,F,1971.0,Jennifer,803
-ID,F,1952.0,John,94
+ID,M,1964,,346
+ID,M,2010,Jennifer,418
+ID,F,1937,Mary,500
+ID,M,1927,Jordan,106
+ID,F,1997,Casey,215
+ID,M,2017,Michael,180
+ID,M,1963,Casey,1148
+ID,F,1920,Jordan,84
+ID,F,1945,Linda,128
+ID,F,1971,Jennifer,803
+ID,F,1952,John,94
 ID,F,,Casey,
-,F,1988.0,Jennifer,67
-ID,F,1971.0,Taylor,
-,,1961.0,Casey,191
-,M,2003.0,Taylor,185
-ID,,1966.0,Casey,559
-ID,F,1993.0,James,621
-ID,F,1964.0,Jordan,117
-ID,F,2014.0,,46
-ID,F,1961.0,Taylor,44
-ID,F,2007.0,Taylor,285
-ID,F,1996.0,Jennifer,20
-ID,M,2016.0,James,371
-ID,F,2017.0,Jennifer,95
-ID,M,1991.0,Robert,666
-ID,M,1974.0,Michael,
-ID,M,2018.0, Alex ,46
- ID ,F,1918.0,jordan,228
-ID,,1984.0,John,779
-ID,F,1991.0,Alex,
-ID,M,1970.0,taylor,46
-ID,F,1990.0, Taylor ,906
- ID ,M,2012.0,jordan,69
-ID,M,2001.0,Michael,41
-ID,M,1943.0,Taylor,135
-ID,M,1995.0,James,42
-ID,F,2009.0,Mary,31
-ID,F,2002.0,Jordan,880
-ID,F,1954.0,Taylor,165
-ID,F,2008.0,Patricia,173
-ID,M,1945.0,Robert,12
- ID ,F,1926.0,Taylor,48
- ID ,M,1954.0,Michael,738
-ID,F,1927.0,Patricia,31
-ID,M,1944.0, Alex ,569
-ID,M,1975.0,Alex,173
+,F,1988,Jennifer,67
+ID,F,1971,Taylor,
+,,1961,Casey,191
+,M,2003,Taylor,185
+ID,,1966,Casey,559
+ID,F,1993,James,621
+ID,F,1964,Jordan,117
+ID,F,2014,,46
+ID,F,1961,Taylor,44
+ID,F,2007,Taylor,285
+ID,F,1996,Jennifer,20
+ID,M,2016,James,371
+ID,F,2017,Jennifer,95
+ID,M,1991,Robert,666
+ID,M,1974,Michael,
+ID,M,2018,Alex,46
+ID,F,1918,jordan,228
+ID,,1984,John,779
+ID,F,1991,Alex,
+ID,M,1970,taylor,46
+ID,F,1990,Taylor,906
+ID,M,2012,jordan,69
+ID,M,2001,Michael,41
+ID,M,1943,Taylor,135
+ID,M,1995,James,42
+ID,F,2009,Mary,31
+ID,F,2002,Jordan,880
+ID,F,1954,Taylor,165
+ID,F,2008,Patricia,173
+ID,M,1945,Robert,12
+ID,F,1926,Taylor,48
+ID,M,1954,Michael,738
+ID,F,1927,Patricia,31
+ID,M,1944,Alex,569
+ID,M,1975,Alex,173
 ID,M,,Robert,216
- ID ,F,1972.0,Mary,
- ID ,M,1922.0,Robert,6
-ID,,1999.0,Casey,169
- ID ,F,1943.0,Linda,49
-ID, F ,1973.0,Patricia,418
- ID ,F,1927.0,Taylor,403
-ID, M ,,Alex,59
-ID,M,2010.0,Alex,56
-ID,M,1996.0,,852
-ID,M,1918.0,Jordan,44
-ID,M,1979.0,Alex,373
-ID,M,2018.0,James,5
-ID,M,2009.0,Michael,199
-ID,F,1962.0,Patricia,956
-ID,F,1927.0,Casey,372
-ID,F,1967.0,Jennifer,119
-ID, F ,,Mary,47
- ID ,M,1978.0,Michael,876
-,,2006.0,jordan,14
- ID ,F,1952.0,James,8
- ID , F ,,Patricia,
-ID,M,1967.0,Alex,52
-ID,M,1947.0,Michael,49
-ID,F,1998.0,Taylor,303
-ID,F,1989.0,Alex,550
- ID ,F,2000.0,Casey,1149
-ID,F,1966.0,Alex,1010
-ID,F,1989.0,,152
-ID,F,1977.0,Alex,535
-,,1955.0,Patricia,337
-ID, F ,1974.0,Jennifer,712
-ID,F,1953.0,Alex,279
-ID,M,2001.0,Taylor,11
-ID,M,1949.0,Casey,102
-ID,F,1940.0,Patricia,62
-ID,M,1915.0,Alex,23
-ID,F,2000.0,Linda,146
- ID ,M,2009.0,James,756
+ID,F,1972,Mary,
+ID,M,1922,Robert,6
+ID,,1999,Casey,169
+ID,F,1943,Linda,49
+ID,F,1973,Patricia,418
+ID,F,1927,Taylor,403
+ID,M,,Alex,59
+ID,M,2010,Alex,56
+ID,M,1996,,852
+ID,M,1918,Jordan,44
+ID,M,1979,Alex,373
+ID,M,2018,James,5
+ID,M,2009,Michael,199
+ID,F,1962,Patricia,956
+ID,F,1927,Casey,372
+ID,F,1967,Jennifer,119
+ID,F,,Mary,47
+ID,M,1978,Michael,876
+,,2006,jordan,14
+ID,F,1952,James,8
+ID,F,,Patricia,
+ID,M,1967,Alex,52
+ID,M,1947,Michael,49
+ID,F,1998,Taylor,303
+ID,F,1989,Alex,550
+ID,F,2000,Casey,1149
+ID,F,1966,Alex,1010
+ID,F,1989,,152
+ID,F,1977,Alex,535
+,,1955,Patricia,337
+ID,F,1974,Jennifer,712
+ID,F,1953,Alex,279
+ID,M,2001,Taylor,11
+ID,M,1949,Casey,102
+ID,F,1940,Patricia,62
+ID,M,1915,Alex,23
+ID,F,2000,Linda,146
+ID,M,2009,James,756
 ID,F,,Linda,1334
- ID ,M,2002.0,Alex,5
-ID,M,1975.0,Taylor,154
-ID, F ,1953.0,Jennifer,6
-ID,F,1953.0,Jordan,48
-ID,M,1974.0,Jordan,413
-ID,,1980.0,Taylor,685
-ID,M,1917.0,Taylor,20
-,F,1975.0,Patricia,267
-ID,M,1918.0,Casey,7
-ID,F,1925.0, Jennifer ,240
-ID,M,1977.0,James,
-ID,F,1964.0,Taylor,735
-ID,F,1937.0,Taylor,21
-ID,F,1929.0,Casey,8
-ID,F,2002.0,Taylor,72
-ID,,1986.0,Jennifer,253
-ID,F,1953.0,Mary,76
-ID,M,1978.0,James,305
-ID,F,1992.0,Taylor,74
-ID,M,2002.0,Casey,10
-,M,1980.0,Jordan,139
-,M,1949.0,James,16
-ID,F,1923.0, Alex ,25
-ID,F,1985.0,Casey,288
-ID, F ,2019.0,Alex,222
- ID ,M,1995.0,Taylor,149
- ID ,F,1932.0,Linda,
- ID ,F,1999.0, Mary ,49
-ID,M,1923.0,Alex,6
-ID,F,1973.0,Mary,60
-ID,M,1988.0, Robert ,184
-ID,F,1971.0,Linda,584
-ID,M,1973.0,Michael,307
-ID,,1944.0,Casey,10
-ID,F,1927.0,Alex,268
-ID,F,1982.0,Taylor,238
-ID, M ,1984.0,Robert,31
-ID,M,1983.0,Casey,146
-ID,F,2016.0,Alex,18
-ID,M,1942.0,Alex,38
-ID,M,2000.0,James,413
-ID,,1917.0,Taylor,85
- ID ,M,1995.0,Taylor,149
-ID,F,2018.0,Casey,173
+ID,M,2002,Alex,5
+ID,M,1975,Taylor,154
+ID,F,1953,Jennifer,6
+ID,F,1953,Jordan,48
+ID,M,1974,Jordan,413
+ID,,1980,Taylor,685
+ID,M,1917,Taylor,20
+,F,1975,Patricia,267
+ID,M,1918,Casey,7
+ID,F,1925,Jennifer,240
+ID,M,1977,James,
+ID,F,1964,Taylor,735
+ID,F,1937,Taylor,21
+ID,F,1929,Casey,8
+ID,F,2002,Taylor,72
+ID,,1986,Jennifer,253
+ID,F,1953,Mary,76
+ID,M,1978,James,305
+ID,F,1992,Taylor,74
+ID,M,2002,Casey,10
+,M,1980,Jordan,139
+,M,1949,James,16
+ID,F,1923,Alex,25
+ID,F,1985,Casey,288
+ID,F,2019,Alex,222
+ID,M,1995,Taylor,149
+ID,F,1932,Linda,
+ID,F,1999,Mary,49
+ID,M,1923,Alex,6
+ID,F,1973,Mary,60
+ID,M,1988,Robert,184
+ID,F,1971,Linda,584
+ID,M,1973,Michael,307
+ID,,1944,Casey,10
+ID,F,1927,Alex,268
+ID,F,1982,Taylor,238
+ID,M,1984,Robert,31
+ID,M,1983,Casey,146
+ID,F,2016,Alex,18
+ID,M,1942,Alex,38
+ID,M,2000,James,413
+ID,,1917,Taylor,85
+ID,M,1995,Taylor,149
+ID,F,2018,Casey,173
 ID,F,,Mary,585
-ID,F,1955.0,Jordan,893
-ID,M,1958.0,Casey,597
-ID,M,2005.0,Casey,7
-ID,M,1958.0,Jordan,82
-ID,F,1960.0,Jennifer,89
- ID ,M,1911.0,James,
-ID,F,1992.0,Linda,44
- ID ,M,1952.0,Michael,574
-ID,F,1966.0,Mary,316
-ID,M,2005.0,John,28
-ID, M ,2002.0,Robert,13
-ID,F,2022.0,casey,106
-ID, M ,1995.0,Alex,545
-ID,F,1989.0,James,1024
- ID ,F,1966.0,Jordan,407
-,M,1999.0,Taylor,869
-ID,F,1954.0,Patricia,894
-,F,1974.0,Casey,408
-ID,F,1968.0,Patricia,82
-ID,F,2003.0,,26
-ID,M,1943.0,John,17
-ID,F,2017.0,taylor,787
-ID,M,2020.0,Taylor,27
-ID,M,1972.0,James,244
-ID,M,1955.0,alex,9
-ID,M,1941.0,Taylor,42
-ID,M,1925.0,john,159
-ID,M,2001.0,Casey,
- ID ,M,1951.0,Taylor,
+ID,F,1955,Jordan,893
+ID,M,1958,Casey,597
+ID,M,2005,Casey,7
+ID,M,1958,Jordan,82
+ID,F,1960,Jennifer,89
+ID,M,1911,James,
+ID,F,1992,Linda,44
+ID,M,1952,Michael,574
+ID,F,1966,Mary,316
+ID,M,2005,John,28
+ID,M,2002,Robert,13
+ID,F,2022,casey,106
+ID,M,1995,Alex,545
+ID,F,1989,James,1024
+ID,F,1966,Jordan,407
+,M,1999,Taylor,869
+ID,F,1954,Patricia,894
+,F,1974,Casey,408
+ID,F,1968,Patricia,82
+ID,F,2003,,26
+ID,M,1943,John,17
+ID,F,2017,taylor,787
+ID,M,2020,Taylor,27
+ID,M,1972,James,244
+ID,M,1955,alex,9
+ID,M,1941,Taylor,42
+ID,M,1925,john,159
+ID,M,2001,Casey,
+ID,M,1951,Taylor,
 ID,M,,Casey,561
-ID, M ,1984.0,Taylor,301
-ID,M,1940.0,Robert,262
-ID,M,1964.0,Casey,478
-ID,M,1981.0,Jordan,264
-,F,2002.0,Jennifer,407
-ID,F,1926.0,Patricia,41
-ID,M,2019.0,Taylor,84
- ID , M ,1997.0,Michael,
-ID,F,2007.0,Patricia,257
-ID,F,1971.0,Casey,439
- ID ,M,1990.0,Michael,314
-,,1930.0, Patricia ,13
-ID,M,2006.0,John,44
- ID ,F,1960.0,Jordan,68
-ID,F,1964.0,alex,45
-ID,F,1933.0,Taylor,68
-ID,M,1977.0,Michael,34
-ID,M,1962.0, Michael ,42
- ID , M ,1939.0,Robert,516
-ID,F,1922.0,,10
-ID, M ,1920.0,Jordan,13
-ID,M,1960.0,John,33
-ID,M,1914.0,Michael,
- ID ,F,1957.0,Jennifer,97
-ID,F,1992.0,Casey,553
-ID,F,1962.0,John,47
- ID ,M,1930.0,Taylor,43
-ID,M,1916.0,Robert,53
-ID,F,1930.0,Casey,29
-ID,M,2007.0,Robert,24
- ID ,F,2005.0,Patricia,493
-ID,F,1975.0,mary,530
-ID,M,1994.0,Alex,155
-ID,F,1922.0,Michael,54
- ID ,M,1951.0,Casey,84
-ID,,1915.0,Michael,6
-ID,M,1963.0,John,88
-ID,F,1976.0,Jordan,1461
-ID,M,1982.0,Michael,137
-ID,M,1969.0,James,495
-,,1998.0,Jordan,112
-ID,F,2020.0,Casey,27
-ID,M,2008.0,Alex,85
- ID ,M,1993.0,Casey,88
-ID, F ,2011.0,Taylor,743
-ID,F,1975.0,Jennifer,320
-ID,M,1934.0,Taylor,
-ID,F,1969.0, Patricia ,416
-ID,M,1928.0,Robert,51
-ID,F,1978.0,Jennifer,338
-ID,F,1957.0,Linda,24
-ID,M,1988.0,Michael,907
-ID,M,1978.0,Taylor,959
-ID,M,1959.0,Michael,80
-ID,M,1985.0,Robert,921
-ID,F,1943.0,,11
-ID, M ,1963.0,Taylor,585
-ID,M,1969.0,Taylor,373
- ID ,F,2006.0,Patricia,10
-ID,F,2011.0,Casey,5
-ID,M,2017.0,Robert,5
-ID,M,1957.0,Jordan,172
-ID,,2011.0, Casey ,499
+ID,M,1984,Taylor,301
+ID,M,1940,Robert,262
+ID,M,1964,Casey,478
+ID,M,1981,Jordan,264
+,F,2002,Jennifer,407
+ID,F,1926,Patricia,41
+ID,M,2019,Taylor,84
+ID,M,1997,Michael,
+ID,F,2007,Patricia,257
+ID,F,1971,Casey,439
+ID,M,1990,Michael,314
+,,1930,Patricia,13
+ID,M,2006,John,44
+ID,F,1960,Jordan,68
+ID,F,1964,alex,45
+ID,F,1933,Taylor,68
+ID,M,1977,Michael,34
+ID,M,1962,Michael,42
+ID,M,1939,Robert,516
+ID,F,1922,,10
+ID,M,1920,Jordan,13
+ID,M,1960,John,33
+ID,M,1914,Michael,
+ID,F,1957,Jennifer,97
+ID,F,1992,Casey,553
+ID,F,1962,John,47
+ID,M,1930,Taylor,43
+ID,M,1916,Robert,53
+ID,F,1930,Casey,29
+ID,M,2007,Robert,24
+ID,F,2005,Patricia,493
+ID,F,1975,mary,530
+ID,M,1994,Alex,155
+ID,F,1922,Michael,54
+ID,M,1951,Casey,84
+ID,,1915,Michael,6
+ID,M,1963,John,88
+ID,F,1976,Jordan,1461
+ID,M,1982,Michael,137
+ID,M,1969,James,495
+,,1998,Jordan,112
+ID,F,2020,Casey,27
+ID,M,2008,Alex,85
+ID,M,1993,Casey,88
+ID,F,2011,Taylor,743
+ID,F,1975,Jennifer,320
+ID,M,1934,Taylor,
+ID,F,1969,Patricia,416
+ID,M,1928,Robert,51
+ID,F,1978,Jennifer,338
+ID,F,1957,Linda,24
+ID,M,1988,Michael,907
+ID,M,1978,Taylor,959
+ID,M,1959,Michael,80
+ID,M,1985,Robert,921
+ID,F,1943,,11
+ID,M,1963,Taylor,585
+ID,M,1969,Taylor,373
+ID,F,2006,Patricia,10
+ID,F,2011,Casey,5
+ID,M,2017,Robert,5
+ID,M,1957,Jordan,172
+ID,,2011,Casey,499
 ID,F,,Linda,49
-ID,F,1943.0,Jordan,81
-ID,F,1946.0,Mary,660
-ID,F,1990.0,Casey,65
- ID ,F,1994.0,mary,809
- ID ,M,1972.0,Alex,383
-ID,M,2001.0,Mary,273
-ID,M,1915.0,robert,24
-ID,,1959.0, Jennifer ,726
-ID,F,1931.0,Patricia,268
- ID ,F,2000.0,Alex,641
-ID,F,1918.0,Linda,
- ID ,F,1997.0,alex,304
- ID ,M,1952.0,Alex,25
-,M,1964.0,John,33
-ID,M,1974.0,Taylor,600
-ID,F,1984.0,Linda,566
-ID,M,2011.0,Jordan,462
-ID,M,, James ,8
-ID,F,2022.0,Alex,811
-ID,M,1942.0,James,20
-ID,F,1982.0,Mary,425
-ID,F,1959.0,Mary,108
-ID,F,1978.0,Casey,148
-ID,M,1979.0,Jennifer,59
- ID ,F,2021.0,,28
-ID,F,1946.0,Casey,12
-ID,M,1970.0,John,64
-ID,F,1959.0,patricia,134
-ID,M,1965.0,John,16
-ID,F,1966.0,Patricia,198
-ID,F,1983.0,Taylor,178
-ID,M,1981.0,John,364
-ID, F ,2000.0,Jennifer,206
-ID,M,1928.0,taylor,71
-ID,F,1910.0,Jordan,9
-ID,M,1915.0,John,34
-,M,1957.0,John,135
-ID,F,1930.0, Jordan ,151
-ID,F,2012.0, Mary ,8
-ID,M,2003.0,Casey,56
-ID,M,1947.0,Alex,118
-ID, M ,1968.0,Alex,268
-ID,F,1961.0,Patricia,5
- ID ,F,1978.0,Mary,383
-ID,F,2006.0,Linda,73
-ID,M,1960.0,Taylor,28
-ID,M,, James ,228
- ID ,F,1987.0,,98
-ID,M,2004.0,Casey,742
-ID,F,2019.0,Jennifer,206
-ID, M ,1948.0,Jordan,12
-ID,F,1928.0,Mary,173
- ID ,F,1990.0,Jennifer,525
-ID,M,2021.0,Casey,74
+ID,F,1943,Jordan,81
+ID,F,1946,Mary,660
+ID,F,1990,Casey,65
+ID,F,1994,mary,809
+ID,M,1972,Alex,383
+ID,M,2001,Mary,273
+ID,M,1915,robert,24
+ID,,1959,Jennifer,726
+ID,F,1931,Patricia,268
+ID,F,2000,Alex,641
+ID,F,1918,Linda,
+ID,F,1997,alex,304
+ID,M,1952,Alex,25
+,M,1964,John,33
+ID,M,1974,Taylor,600
+ID,F,1984,Linda,566
+ID,M,2011,Jordan,462
+ID,M,,James,8
+ID,F,2022,Alex,811
+ID,M,1942,James,20
+ID,F,1982,Mary,425
+ID,F,1959,Mary,108
+ID,F,1978,Casey,148
+ID,M,1979,Jennifer,59
+ID,F,2021,,28
+ID,F,1946,Casey,12
+ID,M,1970,John,64
+ID,F,1959,patricia,134
+ID,M,1965,John,16
+ID,F,1966,Patricia,198
+ID,F,1983,Taylor,178
+ID,M,1981,John,364
+ID,F,2000,Jennifer,206
+ID,M,1928,taylor,71
+ID,F,1910,Jordan,9
+ID,M,1915,John,34
+,M,1957,John,135
+ID,F,1930,Jordan,151
+ID,F,2012,Mary,8
+ID,M,2003,Casey,56
+ID,M,1947,Alex,118
+ID,M,1968,Alex,268
+ID,F,1961,Patricia,5
+ID,F,1978,Mary,383
+ID,F,2006,Linda,73
+ID,M,1960,Taylor,28
+ID,M,,James,228
+ID,F,1987,,98
+ID,M,2004,Casey,742
+ID,F,2019,Jennifer,206
+ID,M,1948,Jordan,12
+ID,F,1928,Mary,173
+ID,F,1990,Jennifer,525
+ID,M,2021,Casey,74
 ID,F,,,37
-ID,F,1920.0,Jennifer,46
-ID,M,1936.0,Michael,87
-ID,M,1970.0,Robert,262
-ID,F,1994.0,,99
-ID,F,1937.0,patricia,162
-ID,M,1962.0,Taylor,458
-ID,,1960.0,Michael,143
- ID ,M,1939.0,John,8
-ID,M,1960.0,,
-ID,F,2014.0,Casey,624
-ID,M,1933.0,James,136
-ID, F ,,Alex,109
-ID,M,1997.0,Robert,109
-ID, M ,1940.0,Jordan,48
+ID,F,1920,Jennifer,46
+ID,M,1936,Michael,87
+ID,M,1970,Robert,262
+ID,F,1994,,99
+ID,F,1937,patricia,162
+ID,M,1962,Taylor,458
+ID,,1960,Michael,143
+ID,M,1939,John,8
+ID,M,1960,,
+ID,F,2014,Casey,624
+ID,M,1933,James,136
+ID,F,,Alex,109
+ID,M,1997,Robert,109
+ID,M,1940,Jordan,48
 ID,M,,John,160
-ID,M,1987.0,Jordan,34
-ID,M,1954.0,Casey,49
-ID, F ,2002.0,Mary,51
+ID,M,1987,Jordan,34
+ID,M,1954,Casey,49
+ID,F,2002,Mary,51
 ID,F,,Taylor,225
-ID,F,2012.0, Mary ,8
- ID ,M,1971.0,James,24
-ID,M,1989.0,Michael,240
-ID, F ,1977.0,Patricia,271
-ID,F,1950.0,,97
-ID,F,1923.0,Jennifer,
- ID ,F,1912.0,Jennifer,17
-,M,1969.0,michael,1087
-ID,M,1976.0,Alex,255
-ID,,1930.0,John,20
-ID,F,1962.0,Mary,412
-ID,F,1994.0,Alex,41
-ID,F,2022.0,Jennifer,376
-,M,1945.0,John,
-, M ,1996.0,casey,
-ID, M ,1956.0,Robert,10
-ID,F,1996.0,Linda,98
-ID,F,1947.0,Casey,337
-ID,M,1954.0,James,89
-ID,F,1980.0,Taylor,331
+ID,F,2012,Mary,8
+ID,M,1971,James,24
+ID,M,1989,Michael,240
+ID,F,1977,Patricia,271
+ID,F,1950,,97
+ID,F,1923,Jennifer,
+ID,F,1912,Jennifer,17
+,M,1969,michael,1087
+ID,M,1976,Alex,255
+ID,,1930,John,20
+ID,F,1962,Mary,412
+ID,F,1994,Alex,41
+ID,F,2022,Jennifer,376
+,M,1945,John,
+,M,1996,casey,
+ID,M,1956,Robert,10
+ID,F,1996,Linda,98
+ID,F,1947,Casey,337
+ID,M,1954,James,89
+ID,F,1980,Taylor,331
 ID,M,,Robert,117
-ID,M,1926.0,John,34
-ID, F ,1914.0,Patricia,34
-ID,M,1958.0,James,89
-ID,F,1962.0,Alex,
-ID,F,2007.0,Jordan,79
-ID,M,1996.0,Alex,46
-ID,M,1944.0,Taylor,690
-ID,F,1971.0,Alex,814
- ID ,M,2000.0,Robert,251
-ID,F,1994.0,taylor,998
-ID,F,1910.0,Michael,34
-ID,M,1920.0,Alex,26
-, F ,2007.0,Casey,5
-ID,F,1992.0,Jordan,132
-ID,M,2013.0,Taylor,14
-ID,F,2012.0,Taylor,38
-ID,F,2007.0,Mary,24
-,M,1997.0,Taylor,343
-ID,M,2004.0,James,356
-ID,M,1944.0,Jordan,1071
-ID,,1955.0, Jordan ,465
-ID,,1945.0,Patricia,56
-ID,M,2015.0,John,27
-ID,F,1915.0,Jennifer,65
-ID,F,1922.0,Jennifer,26
-ID,M,1933.0,Taylor,61
-ID,M,1973.0,Patricia,118
-ID, F ,1976.0,Casey,261
-ID,,2015.0,Michael,128
-ID,F,1952.0,Alex,114
-ID,F,1954.0,Linda,24
-ID,M,1970.0,Jordan,231
-ID,M,2016.0,Casey,61
-ID,M,1919.0, John ,94
-ID,M,1945.0,Alex,348
-ID,F,1947.0,Jennifer,629
-ID,M,2008.0,Jordan,382
-ID,,1912.0,Taylor,28
-ID,M,1993.0,Jordan,314
- ID ,M,2018.0,John,57
-ID,F,1935.0,Mary,116
-ID,F,2015.0,Alex,7
-ID,F,1925.0,patricia,10
-ID,M,2011.0,Alex,141
-ID,F,1978.0,Jennifer,338
-ID, M ,1939.0,Casey,580
- ID ,F,1952.0,Patricia,162
-ID, F ,2019.0,Linda,159
-ID,,1986.0,Patricia,83
-ID,M,1953.0,John,1111
-ID, F ,1964.0,Michael,442
-ID,F,2015.0,Taylor,31
-ID,F,2020.0,mary,154
-ID,M,2017.0,Alex,7
-ID,M,1982.0,Robert,380
+ID,M,1926,John,34
+ID,F,1914,Patricia,34
+ID,M,1958,James,89
+ID,F,1962,Alex,
+ID,F,2007,Jordan,79
+ID,M,1996,Alex,46
+ID,M,1944,Taylor,690
+ID,F,1971,Alex,814
+ID,M,2000,Robert,251
+ID,F,1994,taylor,998
+ID,F,1910,Michael,34
+ID,M,1920,Alex,26
+,F,2007,Casey,5
+ID,F,1992,Jordan,132
+ID,M,2013,Taylor,14
+ID,F,2012,Taylor,38
+ID,F,2007,Mary,24
+,M,1997,Taylor,343
+ID,M,2004,James,356
+ID,M,1944,Jordan,1071
+ID,,1955,Jordan,465
+ID,,1945,Patricia,56
+ID,M,2015,John,27
+ID,F,1915,Jennifer,65
+ID,F,1922,Jennifer,26
+ID,M,1933,Taylor,61
+ID,M,1973,Patricia,118
+ID,F,1976,Casey,261
+ID,,2015,Michael,128
+ID,F,1952,Alex,114
+ID,F,1954,Linda,24
+ID,M,1970,Jordan,231
+ID,M,2016,Casey,61
+ID,M,1919,John,94
+ID,M,1945,Alex,348
+ID,F,1947,Jennifer,629
+ID,M,2008,Jordan,382
+ID,,1912,Taylor,28
+ID,M,1993,Jordan,314
+ID,M,2018,John,57
+ID,F,1935,Mary,116
+ID,F,2015,Alex,7
+ID,F,1925,patricia,10
+ID,M,2011,Alex,141
+ID,F,1978,Jennifer,338
+ID,M,1939,Casey,580
+ID,F,1952,Patricia,162
+ID,F,2019,Linda,159
+ID,,1986,Patricia,83
+ID,M,1953,John,1111
+ID,F,1964,Michael,442
+ID,F,2015,Taylor,31
+ID,F,2020,mary,154
+ID,M,2017,Alex,7
+ID,M,1982,Robert,380
 ID,M,,John,843
-ID,M,1999.0, Robert ,86
-ID,M,1948.0,james,140
-ID,M,1950.0,Michael,92
-ID,M,2008.0,Robert,106
-ID,F,1956.0,Alex,120
-ID,M,1986.0,Jordan,181
-ID,M,2006.0,Casey,29
-ID,F,1973.0,,225
-,M,1950.0, Taylor ,9
-ID,M,1977.0,Robert,932
-ID,F,1961.0,jordan,34
-ID,F,1910.0,Mary,37
-ID,M,1986.0,Jordan,181
-ID,F,1949.0,Casey,828
-,F,1991.0,Casey,423
-ID,F,1951.0,Mary,9
-ID,F,1970.0,Taylor,119
-ID,M,1910.0,John,82
-ID,F,1957.0,Taylor,253
- ID ,,1943.0,Mary,55
-ID,M,1990.0,Robert,82
-ID,M,1955.0,Casey,609
-ID,F,1976.0,Linda,687
-ID,M,1934.0,John,18
-ID,M,2013.0,Michael,135
- ID ,M,1926.0,Taylor,11
-ID,F,1984.0,James,210
-ID, F ,1954.0,Casey,42
- ID ,F,1970.0,Linda,310
-ID,F,2012.0,Patricia,47
-ID,,1986.0,Jennifer,253
-ID,M,1914.0,Linda,6
-ID,F,1953.0,Taylor,462
-ID,M,1959.0,Alex,57
-ID,M,1994.0,John,795
-ID,M,1947.0,james,42
-ID,F,1933.0,Jordan,328
-ID,,1996.0,james,25
-ID,M,1938.0,Michael,41
-ID,M,1931.0,,241
-ID, F ,1996.0,patricia,64
- ID ,M,1943.0,Casey,579
-ID, F ,1951.0,taylor,113
-ID,M,1981.0,Robert,84
-ID,M,2001.0,John,121
-ID, M ,1992.0,Michael,173
-ID,F,1963.0,John,673
-,F,1982.0,Jennifer,201
-ID, F ,2016.0,Jennifer,102
-ID,F,1978.0,Jordan,284
-ID,F,1944.0,John,32
+ID,M,1999,Robert,86
+ID,M,1948,james,140
+ID,M,1950,Michael,92
+ID,M,2008,Robert,106
+ID,F,1956,Alex,120
+ID,M,1986,Jordan,181
+ID,M,2006,Casey,29
+ID,F,1973,,225
+,M,1950,Taylor,9
+ID,M,1977,Robert,932
+ID,F,1961,jordan,34
+ID,F,1910,Mary,37
+ID,M,1986,Jordan,181
+ID,F,1949,Casey,828
+,F,1991,Casey,423
+ID,F,1951,Mary,9
+ID,F,1970,Taylor,119
+ID,M,1910,John,82
+ID,F,1957,Taylor,253
+ID,,1943,Mary,55
+ID,M,1990,Robert,82
+ID,M,1955,Casey,609
+ID,F,1976,Linda,687
+ID,M,1934,John,18
+ID,M,2013,Michael,135
+ID,M,1926,Taylor,11
+ID,F,1984,James,210
+ID,F,1954,Casey,42
+ID,F,1970,Linda,310
+ID,F,2012,Patricia,47
+ID,,1986,Jennifer,253
+ID,M,1914,Linda,6
+ID,F,1953,Taylor,462
+ID,M,1959,Alex,57
+ID,M,1994,John,795
+ID,M,1947,james,42
+ID,F,1933,Jordan,328
+ID,,1996,james,25
+ID,M,1938,Michael,41
+ID,M,1931,,241
+ID,F,1996,patricia,64
+ID,M,1943,Casey,579
+ID,F,1951,taylor,113
+ID,M,1981,Robert,84
+ID,M,2001,John,121
+ID,M,1992,Michael,173
+ID,F,1963,John,673
+,F,1982,Jennifer,201
+ID,F,2016,Jennifer,102
+ID,F,1978,Jordan,284
+ID,F,1944,John,32
 ID,M,,,695
-ID,F,1993.0,mary,272
-ID,M,1996.0,John,66
-ID,M,2002.0,John,7
-ID,,1989.0,Jordan,145
-ID,M,1979.0, Taylor ,111
-ID, M ,1956.0,Jordan,126
-ID,,1987.0,Patricia,266
-ID,M,2003.0,Robert,249
- ID ,M,1980.0,Casey,234
-ID,M,1974.0,Linda,296
-ID,M,1923.0,Robert,8
-ID,F,1970.0, Patricia ,52
+ID,F,1993,mary,272
+ID,M,1996,John,66
+ID,M,2002,John,7
+ID,,1989,Jordan,145
+ID,M,1979,Taylor,111
+ID,M,1956,Jordan,126
+ID,,1987,Patricia,266
+ID,M,2003,Robert,249
+ID,M,1980,Casey,234
+ID,M,1974,Linda,296
+ID,M,1923,Robert,8
+ID,F,1970,Patricia,52
 ID,M,,alex,99
-ID,M,1992.0,Casey,336
-ID,F,2016.0,,81
- ID ,F,2014.0,Jennifer,6
- ID ,F,1973.0,Alex,51
- ID ,M,1922.0,John,8
-ID,F,2021.0,Patricia,
-ID,M,1940.0,Taylor,145
- ID ,M,1956.0,John,16
-ID,F,2006.0,Alex,17
-ID,,2022.0,Jordan,22
-ID,M,1940.0,John,7
-ID,M,1939.0,Alex,358
-ID,,1990.0,James,556
-ID,M,1931.0,Jordan,294
-ID, F ,1945.0,Casey,496
-ID,F,1990.0,Alex,95
-ID, M ,1976.0,Robert,382
-ID,,2008.0,Jennifer,27
-ID,F,2018.0,Jennifer,
-ID,F,1960.0,Linda,59
-ID,M,1983.0,,154
-ID,M,1928.0,james,229
-ID,,1989.0,Mary,639
-ID,F,1967.0,Taylor,196
- ID ,F,1944.0,Casey,92
-ID,M,1935.0,Robert,14
-ID,F,1975.0, Jordan ,
-ID,M,1938.0,James,70
-ID,M,1969.0, Casey ,200
-ID,M,1941.0,alex,327
-ID, F ,2003.0,patricia,883
-ID,M,1982.0,John,567
-ID,F,1987.0,Linda,111
-ID,M,2012.0,Robert,103
-ID,M,1946.0,Robert,115
-ID, M ,1935.0,,145
+ID,M,1992,Casey,336
+ID,F,2016,,81
+ID,F,2014,Jennifer,6
+ID,F,1973,Alex,51
+ID,M,1922,John,8
+ID,F,2021,Patricia,
+ID,M,1940,Taylor,145
+ID,M,1956,John,16
+ID,F,2006,Alex,17
+ID,,2022,Jordan,22
+ID,M,1940,John,7
+ID,M,1939,Alex,358
+ID,,1990,James,556
+ID,M,1931,Jordan,294
+ID,F,1945,Casey,496
+ID,F,1990,Alex,95
+ID,M,1976,Robert,382
+ID,,2008,Jennifer,27
+ID,F,2018,Jennifer,
+ID,F,1960,Linda,59
+ID,M,1983,,154
+ID,M,1928,james,229
+ID,,1989,Mary,639
+ID,F,1967,Taylor,196
+ID,F,1944,Casey,92
+ID,M,1935,Robert,14
+ID,F,1975,Jordan,
+ID,M,1938,James,70
+ID,M,1969,Casey,200
+ID,M,1941,alex,327
+ID,F,2003,patricia,883
+ID,M,1982,John,567
+ID,F,1987,Linda,111
+ID,M,2012,Robert,103
+ID,M,1946,Robert,115
+ID,M,1935,,145
 ID,M,,James,1325
-ID,F,1945.0,Taylor,415
-ID,,2022.0,Alex,250
- ID ,,2008.0,Taylor,60
-ID, F ,1983.0,Linda,361
-ID,F,1983.0,Patricia,314
-ID,F,2017.0,Linda,253
-ID,,1976.0,Casey,1028
-ID,F,1984.0,,332
-ID,F,1963.0,Jennifer,8
- ID ,F,1937.0,Jennifer,70
-ID, M ,,John,
- ID ,M,2007.0,Taylor,22
-ID,M,1939.0,James,12
-ID,F,2010.0,Alex,
-ID,F,1933.0,Linda,425
-ID,M,2002.0,James,1088
-ID,M,1957.0,Robert,492
-ID, F ,1946.0,Alex,
-ID,M,2008.0,John,46
-ID,M,1978.0,John,110
-ID,M,2007.0,Michael,12
-ID,F,1928.0,Taylor,10
-,F,1995.0,Mary,
-ID,M,1962.0,Alex,87
-ID,M,1976.0, Jordan ,
-ID,M,1920.0,michael,
-ID,M,1941.0,James,418
-ID, M ,1994.0,Taylor,248
-ID,F,1937.0,Taylor,21
-ID,F,1972.0,Jennifer,225
-ID,,1938.0,patricia,338
- ID ,M,1980.0,James,189
-,M,1994.0,James,142
-ID,F,2016.0,Casey,353
-ID,F,1951.0,Jennifer,137
-ID, F ,1984.0,Patricia,139
-ID,,1955.0, John ,
-ID,M,1998.0,John,52
- ID ,F,2003.0,Jordan,57
-ID,M,1941.0,Michael,981
-ID,F,1990.0,Casey,65
-ID,F,1925.0,Jordan,189
-ID,F,1982.0,Patricia,65
-ID,F,2006.0,Casey,26
-ID,F,1994.0,Jordan,73
-ID,F,1994.0,Patricia,257
-ID,M,1997.0,,729
-ID, F ,1999.0,Jennifer,1148
-ID,F,1956.0,Taylor,381
-ID,,1964.0,Casey,187
-ID,F,1970.0,Alex,1090
-ID,M,1977.0,Jordan,62
-,M,1942.0,Robert,
-ID,M,1968.0,Robert,637
-ID,F,1929.0,Jennifer,18
-ID,M,1971.0,John,420
-ID,F,2022.0,Taylor,132
-ID,F,1958.0,Jordan,37
-ID,F,1951.0,Patricia,144
- ID ,M,1947.0,Jordan,54
-ID,F,1974.0,Patricia,127
-ID,F,1991.0,mary,281
- ID ,F,2005.0,Michael,251
-ID,M,1962.0,James,261
-ID,M,1991.0,Casey,169
-ID,F,1970.0,Casey,
-ID,F,2000.0,Taylor,76
-ID,M,2007.0,Alex,135
-ID,M,1999.0,Jordan,101
-ID,M,2016.0,Taylor,276
-ID, F ,1980.0,Linda,542
+ID,F,1945,Taylor,415
+ID,,2022,Alex,250
+ID,,2008,Taylor,60
+ID,F,1983,Linda,361
+ID,F,1983,Patricia,314
+ID,F,2017,Linda,253
+ID,,1976,Casey,1028
+ID,F,1984,,332
+ID,F,1963,Jennifer,8
+ID,F,1937,Jennifer,70
+ID,M,,John,
+ID,M,2007,Taylor,22
+ID,M,1939,James,12
+ID,F,2010,Alex,
+ID,F,1933,Linda,425
+ID,M,2002,James,1088
+ID,M,1957,Robert,492
+ID,F,1946,Alex,
+ID,M,2008,John,46
+ID,M,1978,John,110
+ID,M,2007,Michael,12
+ID,F,1928,Taylor,10
+,F,1995,Mary,
+ID,M,1962,Alex,87
+ID,M,1976,Jordan,
+ID,M,1920,michael,
+ID,M,1941,James,418
+ID,M,1994,Taylor,248
+ID,F,1937,Taylor,21
+ID,F,1972,Jennifer,225
+ID,,1938,patricia,338
+ID,M,1980,James,189
+,M,1994,James,142
+ID,F,2016,Casey,353
+ID,F,1951,Jennifer,137
+ID,F,1984,Patricia,139
+ID,,1955,John,
+ID,M,1998,John,52
+ID,F,2003,Jordan,57
+ID,M,1941,Michael,981
+ID,F,1990,Casey,65
+ID,F,1925,Jordan,189
+ID,F,1982,Patricia,65
+ID,F,2006,Casey,26
+ID,F,1994,Jordan,73
+ID,F,1994,Patricia,257
+ID,M,1997,,729
+ID,F,1999,Jennifer,1148
+ID,F,1956,Taylor,381
+ID,,1964,Casey,187
+ID,F,1970,Alex,1090
+ID,M,1977,Jordan,62
+,M,1942,Robert,
+ID,M,1968,Robert,637
+ID,F,1929,Jennifer,18
+ID,M,1971,John,420
+ID,F,2022,Taylor,132
+ID,F,1958,Jordan,37
+ID,F,1951,Patricia,144
+ID,M,1947,Jordan,54
+ID,F,1974,Patricia,127
+ID,F,1991,mary,281
+ID,F,2005,Michael,251
+ID,M,1962,James,261
+ID,M,1991,Casey,169
+ID,F,1970,Casey,
+ID,F,2000,Taylor,76
+ID,M,2007,Alex,135
+ID,M,1999,Jordan,101
+ID,M,2016,Taylor,276
+ID,F,1980,Linda,542
 ,M,,Michael,60
 ID,M,,Linda,81
-ID,F,1970.0,mary,29
-,M,2012.0, Taylor ,9
- ID ,F,1984.0,Taylor,475
-ID,M,1946.0, Alex ,212
-,F,1954.0,Jennifer,505
-ID,M,1979.0,Jordan,427
-ID, F ,1995.0,Jordan,340
- ID ,F,2004.0,Taylor,55
-ID,M,1987.0,Michael,130
-,F,1963.0,Alex,189
-ID,F,1937.0,Linda,193
-ID,F,1969.0,Alex,
-ID,F,1968.0,Jordan,525
+ID,F,1970,mary,29
+,M,2012,Taylor,9
+ID,F,1984,Taylor,475
+ID,M,1946,Alex,212
+,F,1954,Jennifer,505
+ID,M,1979,Jordan,427
+ID,F,1995,Jordan,340
+ID,F,2004,Taylor,55
+ID,M,1987,Michael,130
+,F,1963,Alex,189
+ID,F,1937,Linda,193
+ID,F,1969,Alex,
+ID,F,1968,Jordan,525
 ID,F,,Jordan,311
-ID, F ,2009.0,Patricia,247
-ID,F,1949.0,Jordan,19
-ID,F,2011.0,Patricia,60
-ID,M,1945.0,James,20
-,M,1951.0,Jordan,43
-ID,M,1976.0,,385
- ID ,M,2004.0,Jordan,114
-ID,F,1934.0,Taylor,304
-ID,F,1993.0,Alex,122
-ID,F,1914.0,Taylor,
-ID,F,1944.0,Taylor,64
-ID,F,1988.0,Jordan,121
- ID ,M,1965.0,Alex,602
-ID,M,1998.0,Michael,23
-ID,M,2000.0,Casey,16
-,F,1986.0,Casey,37
-ID,,1935.0,Jordan,179
-ID,,2013.0,Taylor,45
-ID,M,1945.0, Jordan ,271
-ID, F ,2002.0,Linda,12
-ID,F,1926.0,Linda,109
-ID,F,1986.0,Jordan,418
-ID,M,1974.0,Casey,65
-ID,,1923.0, Patricia ,151
-ID,F,1919.0, Taylor ,24
-ID,M,1917.0,Alex,130
-ID,F,1966.0,Linda,69
-ID,F,1961.0,mary,115
-ID,M,1991.0,Jordan,100
-ID,F,1977.0,Casey,149
-ID,M,1942.0,Casey,15
-ID, F ,1997.0,Jennifer,56
-ID,F,1974.0,Mary,256
-ID, F ,1957.0,Alex,74
-ID,M,2014.0,Casey,6
-ID,M,2008.0,taylor,17
-ID,M,1963.0,,759
-ID,M,1934.0,Robert,75
-ID,F,1985.0,taylor,470
-ID,F,1997.0,Jordan,131
-ID,F,1979.0,Taylor,398
-ID,M,1985.0,Casey,221
-ID,,1968.0,Jennifer,739
- ID ,F,1998.0,Jennifer,401
-,F,1949.0,Jennifer,20
-ID,F,1947.0,Mary,36
-ID,M,1986.0,Michael,155
- ID ,F,2014.0,Jennifer,6
+ID,F,2009,Patricia,247
+ID,F,1949,Jordan,19
+ID,F,2011,Patricia,60
+ID,M,1945,James,20
+,M,1951,Jordan,43
+ID,M,1976,,385
+ID,M,2004,Jordan,114
+ID,F,1934,Taylor,304
+ID,F,1993,Alex,122
+ID,F,1914,Taylor,
+ID,F,1944,Taylor,64
+ID,F,1988,Jordan,121
+ID,M,1965,Alex,602
+ID,M,1998,Michael,23
+ID,M,2000,Casey,16
+,F,1986,Casey,37
+ID,,1935,Jordan,179
+ID,,2013,Taylor,45
+ID,M,1945,Jordan,271
+ID,F,2002,Linda,12
+ID,F,1926,Linda,109
+ID,F,1986,Jordan,418
+ID,M,1974,Casey,65
+ID,,1923,Patricia,151
+ID,F,1919,Taylor,24
+ID,M,1917,Alex,130
+ID,F,1966,Linda,69
+ID,F,1961,mary,115
+ID,M,1991,Jordan,100
+ID,F,1977,Casey,149
+ID,M,1942,Casey,15
+ID,F,1997,Jennifer,56
+ID,F,1974,Mary,256
+ID,F,1957,Alex,74
+ID,M,2014,Casey,6
+ID,M,2008,taylor,17
+ID,M,1963,,759
+ID,M,1934,Robert,75
+ID,F,1985,taylor,470
+ID,F,1997,Jordan,131
+ID,F,1979,Taylor,398
+ID,M,1985,Casey,221
+ID,,1968,Jennifer,739
+ID,F,1998,Jennifer,401
+,F,1949,Jennifer,20
+ID,F,1947,Mary,36
+ID,M,1986,Michael,155
+ID,F,2014,Jennifer,6
 ID,M,,Robert,348
-ID,F,1976.0,Jennifer,564
- ID ,F,1981.0,Jennifer,180
-ID,F,1965.0,Patricia,490
-,F,1949.0,Alex,14
-ID,M,2009.0,John,464
-ID,F,1970.0,Jennifer,80
-ID,M,1979.0,Robert,584
-ID,M,1950.0,Casey,
-ID,M,1998.0,Robert,271
-ID,M,2014.0,,15
-ID,F,1947.0,Jordan,547
-ID,M,1973.0,John,292
-ID,,2005.0,Alex,36
- ID ,F,1943.0,Patricia,734
- ID ,M,2010.0,Jordan,334
-ID,F,1985.0,Mary,312
-ID,F,1944.0,Patricia,589
-ID,M,1981.0,Casey,164
-ID,F,1983.0,Casey,358
-ID,F,1954.0,,241
-ID,,1913.0,Taylor,8
-ID,M,1975.0,Jordan,131
-,F,1958.0,John,96
-ID,M,1929.0,Alex,7
-ID, F ,1928.0,jordan,468
+ID,F,1976,Jennifer,564
+ID,F,1981,Jennifer,180
+ID,F,1965,Patricia,490
+,F,1949,Alex,14
+ID,M,2009,John,464
+ID,F,1970,Jennifer,80
+ID,M,1979,Robert,584
+ID,M,1950,Casey,
+ID,M,1998,Robert,271
+ID,M,2014,,15
+ID,F,1947,Jordan,547
+ID,M,1973,John,292
+ID,,2005,Alex,36
+ID,F,1943,Patricia,734
+ID,M,2010,Jordan,334
+ID,F,1985,Mary,312
+ID,F,1944,Patricia,589
+ID,M,1981,Casey,164
+ID,F,1983,Casey,358
+ID,F,1954,,241
+ID,,1913,Taylor,8
+ID,M,1975,Jordan,131
+,F,1958,John,96
+ID,M,1929,Alex,7
+ID,F,1928,jordan,468
 ,F,,Linda,346
-ID,F,1956.0,John,81
- ID ,M,1984.0,James,392
-ID,F,1996.0,Alex,638
-ID,F,1952.0,Jennifer,6
-ID,M,2009.0,Robert,77
-ID,F,1915.0,Jordan,5
- ID ,M,1970.0,James,
-ID,M,1955.0,Taylor,452
-ID,M,2015.0,Casey,68
-ID,F,1981.0,,
-ID,F,1965.0,,330
-ID,M,1964.0, James ,147
-ID,F,1942.0,Casey,71
-ID,,1958.0,,578
-ID,M,1972.0,John,560
-ID,F,2001.0,Patricia,395
-ID,F,1967.0,Linda,26
- ID ,,1989.0,Jordan,268
-ID,F,1945.0,Mary,501
-ID, F ,1926.0,Casey,23
-ID,M,1938.0,Taylor,
-ID,F,1983.0,Mary,128
-ID,M,2020.0,James,331
-ID,,1990.0,Linda,224
- ID ,F,1963.0,Mary,42
-ID, F ,1958.0,Casey,417
-ID,,1971.0,Jordan,854
-ID, M ,,Casey,
- ID ,F,1988.0,Alex,416
-ID,M,2008.0,michael,257
-ID, F ,1926.0,Alex,5
- ID ,M,1953.0,Taylor,259
-ID,M,1939.0,Jordan,275
-ID,M,2019.0,James,501
-ID,M,2021.0,Alex,58
-ID,M,1964.0,Taylor,106
-ID,F,2019.0,Mary,149
-ID,F,1912.0,Patricia,6
-ID, M ,1954.0,Alex,8
+ID,F,1956,John,81
+ID,M,1984,James,392
+ID,F,1996,Alex,638
+ID,F,1952,Jennifer,6
+ID,M,2009,Robert,77
+ID,F,1915,Jordan,5
+ID,M,1970,James,
+ID,M,1955,Taylor,452
+ID,M,2015,Casey,68
+ID,F,1981,,
+ID,F,1965,,330
+ID,M,1964,James,147
+ID,F,1942,Casey,71
+ID,,1958,,578
+ID,M,1972,John,560
+ID,F,2001,Patricia,395
+ID,F,1967,Linda,26
+ID,,1989,Jordan,268
+ID,F,1945,Mary,501
+ID,F,1926,Casey,23
+ID,M,1938,Taylor,
+ID,F,1983,Mary,128
+ID,M,2020,James,331
+ID,,1990,Linda,224
+ID,F,1963,Mary,42
+ID,F,1958,Casey,417
+ID,,1971,Jordan,854
+ID,M,,Casey,
+ID,F,1988,Alex,416
+ID,M,2008,michael,257
+ID,F,1926,Alex,5
+ID,M,1953,Taylor,259
+ID,M,1939,Jordan,275
+ID,M,2019,James,501
+ID,M,2021,Alex,58
+ID,M,1964,Taylor,106
+ID,F,2019,Mary,149
+ID,F,1912,Patricia,6
+ID,M,1954,Alex,8
 ID,M,,Alex,243
-ID,M,1927.0,Alex,21
-ID,F,2010.0,Patricia,118
-ID, F ,1975.0,Casey,511
-ID,F,1950.0,jordan,470
+ID,M,1927,Alex,21
+ID,F,2010,Patricia,118
+ID,F,1975,Casey,511
+ID,F,1950,jordan,470
 ID,F,,Linda,150
 ID,F,,Mary,474
-,F,1984.0,Jennifer,
- ID ,M,1965.0,Jordan,353
-ID,,1993.0,Jordan,165
-ID,F,1997.0,Mary,7
-ID,M,2010.0,Robert,178
-ID,F,1952.0,Taylor,5
-ID,M,1912.0,,8
- ID ,F,1987.0,Mary,88
-ID,M,1946.0,Jordan,255
-ID,M,1969.0,Alex,86
-ID,M,1957.0,James,811
-,,1985.0,James,204
-ID, F ,2011.0,Mary,33
-ID,F,1931.0,Jennifer,282
-ID, F ,1983.0,Jordan,523
-ID,M,2013.0,Robert,13
+,F,1984,Jennifer,
+ID,M,1965,Jordan,353
+ID,,1993,Jordan,165
+ID,F,1997,Mary,7
+ID,M,2010,Robert,178
+ID,F,1952,Taylor,5
+ID,M,1912,,8
+ID,F,1987,Mary,88
+ID,M,1946,Jordan,255
+ID,M,1969,Alex,86
+ID,M,1957,James,811
+,,1985,James,204
+ID,F,2011,Mary,33
+ID,F,1931,Jennifer,282
+ID,F,1983,Jordan,523
+ID,M,2013,Robert,13
 ID,M,,Michael,478
-ID, M ,1975.0,Mary,97
-ID,F,1978.0,Taylor,
-ID,F,1962.0,Patricia,956
-ID,M,1934.0,Alex,553
-ID, M ,1995.0,Robert,194
-ID,F,2018.0,Mary,863
-ID,F,1988.0,Linda,90
-ID,M,2000.0,john,488
-ID,,1967.0,Casey,624
-ID,F,1972.0,,188
-ID,F,1934.0,Jennifer,299
-ID,F,1957.0,Casey,359
-ID,F,1997.0,Patricia,47
-ID,F,1934.0,Jennifer,299
-ID,M,1925.0,Michael,7
- ID ,F,1973.0,Casey,37
-ID,M,1943.0,Michael,267
-ID, M ,2021.0,Robert,56
-ID,M,1982.0,Jordan,487
-ID,M,2014.0,,15
-ID,F,1992.0,Mary,31
-ID, M ,1928.0,Casey,49
+ID,M,1975,Mary,97
+ID,F,1978,Taylor,
+ID,F,1962,Patricia,956
+ID,M,1934,Alex,553
+ID,M,1995,Robert,194
+ID,F,2018,Mary,863
+ID,F,1988,Linda,90
+ID,M,2000,john,488
+ID,,1967,Casey,624
+ID,F,1972,,188
+ID,F,1934,Jennifer,299
+ID,F,1957,Casey,359
+ID,F,1997,Patricia,47
+ID,F,1934,Jennifer,299
+ID,M,1925,Michael,7
+ID,F,1973,Casey,37
+ID,M,1943,Michael,267
+ID,M,2021,Robert,56
+ID,M,1982,Jordan,487
+ID,M,2014,,15
+ID,F,1992,Mary,31
+ID,M,1928,Casey,49
 ID,M,,Taylor,274
-ID,M,1912.0,Michael,16
-ID,M,1924.0,robert,69
-ID,M,2009.0,Taylor,24
-ID,F,1935.0,Taylor,9
-ID,F,1962.0,Casey,36
- ID ,F,1913.0,linda,47
-ID, M ,1967.0,Michael,99
-ID,M,1993.0,,368
-ID,F,2007.0,Alex,70
-ID,M,1948.0,taylor,178
-ID,M,1966.0,James,60
-ID,M,2008.0,James,540
-ID,F,2020.0,patricia,32
-ID,F,1948.0,Jennifer,28
-ID,F,1988.0,Casey,567
-,M,1979.0,Michael,433
-ID,F,1924.0,Taylor,187
-ID,M,1975.0,Robert,218
- ID ,F,2017.0,John,533
-ID,M,1961.0,Casey,394
-ID,M,1972.0,Casey,220
-ID,M,1936.0,James,282
-ID,M,1968.0,Taylor,1013
-ID,F,1952.0,Jordan,124
-ID,M,2013.0, Jordan ,8
-ID,F,1938.0,Jennifer,34
-ID, M ,1983.0,Taylor,519
-ID,,1996.0,Taylor,58
- ID ,F,1995.0,Jennifer,360
-ID,F,1935.0,Jennifer,74
-ID,F,1956.0,Jennifer,221
-ID,M,1989.0,Alex,20
-ID,M,1989.0,Taylor,251
-ID,F,1993.0,Jennifer,658
- ID , M ,,Michael,371
-ID,F,1926.0,Jordan,18
-,F,2001.0,Taylor,441
-ID,F,1963.0,Casey,123
-ID, M ,1988.0,Jordan,584
-ID,M,1994.0,Patricia,306
-ID,M,1931.0,john,8
-ID,F,1952.0,Michael,30
-ID, F ,1958.0,Patricia,18
- ID ,F,2008.0,Casey,398
-ID,F,1962.0,,111
-ID,F,1995.0, Taylor ,91
-ID,M,1926.0,James,317
-ID,M,1986.0,Robert,364
-ID, M ,1924.0,Jordan,8
-ID,F,1955.0,Casey,1060
-ID,M,1984.0,Jordan,197
-ID,F,2002.0,Casey,116
-ID,F,1922.0,Taylor,91
-ID,F,1943.0,Mary,153
-ID, M ,1941.0,Robert,185
-ID,M,1949.0,Alex,149
-ID,F,1922.0,Patricia,6
-ID,F,2003.0,Alex,482
-ID,M,2003.0,James,101
-ID,F,1979.0,Casey,
- ID ,F,1996.0,Mary,109
-ID,F,1956.0,Linda,27
-ID,F,1962.0,Taylor,55
-ID,F,1970.0, Jordan ,5
-ID,F,1985.0,Michael,195
-ID,M,1974.0,Robert,177
-ID,F,1939.0,Taylor,65
-ID,,1993.0,James,343
- ID ,F,1961.0, Alex ,442
-ID,M,2018.0,Mary,11
-ID,M,1964.0,jordan,324
-ID,F,1998.0,Patricia,106
- ID , F ,2020.0,Alex,69
-,M,2016.0,Alex,116
-ID,M,1914.0,John,
-,M,1966.0,Mary,21
-ID,M,2014.0,John,239
-ID, M ,1971.0,Alex,
-ID,M,1932.0,Taylor,65
-ID,F,1991.0,Jennifer,80
- ID ,M,1937.0,Taylor,83
-,F,1960.0,Alex,
-,F,1988.0, John ,1010
-ID,M,1984.0,Alex,272
-ID,M,1949.0,Jordan,127
-,F,1942.0,Mary,18
-ID,M,1937.0,James,992
-ID,F,1930.0,Jennifer,344
-ID,M,1961.0,James,136
-ID,M,1967.0,James,9
-ID,,1911.0,Linda,8
-ID,F,1958.0, Taylor ,391
-ID,M,1982.0,Casey,306
-ID, F ,1944.0, Jordan ,55
-,M,1950.0,James,51
-ID,M,1989.0,Robert,489
-ID,M,1992.0, Taylor ,350
-ID,F,1931.0,Alex,
-ID,F,1983.0,Michael,180
-ID,F,1969.0,Mary,103
-ID,F,1988.0,Mary,
-ID,M,1966.0,,235
-ID,M,1999.0,Alex,183
-ID,F,1915.0,Casey,6
-ID,M,1995.0,John,200
-ID,M,1988.0,Alex,1029
-ID,F,1975.0, Linda ,
-ID,M,1999.0,Michael,129
-ID,F,1964.0,Linda,300
-ID,M,1981.0,Alex,630
-ID,M,1983.0,Jordan,30
-ID,M,1942.0,Taylor,131
-ID,M,2006.0,Alex,102
-ID, M ,1923.0,james,14
-,M,2006.0,Michael,437
-ID,M,1958.0,Alex,716
-ID,M,1965.0,Taylor,285
- ID ,M,1990.0,Jordan,458
-ID,F,2014.0,Taylor,5
-ID,M,1997.0,Jordan,206
-ID,M,1952.0,Patricia,327
- ID ,F,1940.0,Mary,366
-ID, M ,2014.0,Jordan,20
-ID,F,2006.0,Alex,17
-ID,F,1979.0,Jordan,633
-ID,F,1950.0,Jennifer,512
-ID,M,2021.0,Michael,365
-ID,M,1949.0,Robert,178
-ID,M,1966.0,John,26
-,M,2013.0,Casey,25
-ID,F,1981.0, Patricia ,935
-ID,F,2005.0,Jennifer,403
-ID,F,1995.0,Patricia,945
-ID, M ,1926.0,Michael,
-ID,F,1998.0,Alex,27
-ID,,1961.0,Robert,
-ID,F,1952.0,Mary,59
-ID,,1987.0,Jordan,402
-ID,F,1973.0,Taylor,515
-ID,F,1989.0,Taylor,
-ID,F,1919.0,patricia,27
-ID,F,1967.0,Mary,945
-ID,F,1944.0,Mary,111
-ID,M,1995.0,Michael,1381
- ID , M ,1992.0,Robert,698
-ID,F,1994.0,Jennifer,210
-ID,M,1948.0,,682
-ID,F,2003.0, Casey ,36
-ID, F ,1988.0,Patricia,203
-ID,F,1976.0,Mary,423
-ID,F,1932.0,Alex,7
-ID,M,1986.0,James,115
-ID,F,1955.0,Jennifer,19
-ID,F,1969.0,Jordan,346
- ID , F ,1941.0,Alex,27
- ID ,F,1984.0,Taylor,475
-ID,M,2021.0,James,107
-ID,F,1980.0, Jennifer ,549
-ID,M,1988.0,John,1071
-ID,M,2018.0,Taylor,886
-ID,F,1961.0,Linda,115
-ID,F,1934.0,Alex,214
-ID,M,1983.0,Michael,1238
-ID,F,1982.0,Alex,336
-ID,,1985.0,Jordan,1254
-ID,M,1935.0,Patricia,201
-ID,F,1984.0,Alex,245
-ID,F,1974.0,Alex,100
-ID,M,2004.0,Michael,81
-ID,F,1990.0,,85
-ID,,1951.0,Jordan,62
- ID ,M,1936.0,Casey,108
-ID,M,1947.0,Casey,15
-ID,M,1932.0,Robert,110
-ID,F,2013.0,Robert,155
+ID,M,1912,Michael,16
+ID,M,1924,robert,69
+ID,M,2009,Taylor,24
+ID,F,1935,Taylor,9
+ID,F,1962,Casey,36
+ID,F,1913,linda,47
+ID,M,1967,Michael,99
+ID,M,1993,,368
+ID,F,2007,Alex,70
+ID,M,1948,taylor,178
+ID,M,1966,James,60
+ID,M,2008,James,540
+ID,F,2020,patricia,32
+ID,F,1948,Jennifer,28
+ID,F,1988,Casey,567
+,M,1979,Michael,433
+ID,F,1924,Taylor,187
+ID,M,1975,Robert,218
+ID,F,2017,John,533
+ID,M,1961,Casey,394
+ID,M,1972,Casey,220
+ID,M,1936,James,282
+ID,M,1968,Taylor,1013
+ID,F,1952,Jordan,124
+ID,M,2013,Jordan,8
+ID,F,1938,Jennifer,34
+ID,M,1983,Taylor,519
+ID,,1996,Taylor,58
+ID,F,1995,Jennifer,360
+ID,F,1935,Jennifer,74
+ID,F,1956,Jennifer,221
+ID,M,1989,Alex,20
+ID,M,1989,Taylor,251
+ID,F,1993,Jennifer,658
+ID,M,,Michael,371
+ID,F,1926,Jordan,18
+,F,2001,Taylor,441
+ID,F,1963,Casey,123
+ID,M,1988,Jordan,584
+ID,M,1994,Patricia,306
+ID,M,1931,john,8
+ID,F,1952,Michael,30
+ID,F,1958,Patricia,18
+ID,F,2008,Casey,398
+ID,F,1962,,111
+ID,F,1995,Taylor,91
+ID,M,1926,James,317
+ID,M,1986,Robert,364
+ID,M,1924,Jordan,8
+ID,F,1955,Casey,1060
+ID,M,1984,Jordan,197
+ID,F,2002,Casey,116
+ID,F,1922,Taylor,91
+ID,F,1943,Mary,153
+ID,M,1941,Robert,185
+ID,M,1949,Alex,149
+ID,F,1922,Patricia,6
+ID,F,2003,Alex,482
+ID,M,2003,James,101
+ID,F,1979,Casey,
+ID,F,1996,Mary,109
+ID,F,1956,Linda,27
+ID,F,1962,Taylor,55
+ID,F,1970,Jordan,5
+ID,F,1985,Michael,195
+ID,M,1974,Robert,177
+ID,F,1939,Taylor,65
+ID,,1993,James,343
+ID,F,1961,Alex,442
+ID,M,2018,Mary,11
+ID,M,1964,jordan,324
+ID,F,1998,Patricia,106
+ID,F,2020,Alex,69
+,M,2016,Alex,116
+ID,M,1914,John,
+,M,1966,Mary,21
+ID,M,2014,John,239
+ID,M,1971,Alex,
+ID,M,1932,Taylor,65
+ID,F,1991,Jennifer,80
+ID,M,1937,Taylor,83
+,F,1960,Alex,
+,F,1988,John,1010
+ID,M,1984,Alex,272
+ID,M,1949,Jordan,127
+,F,1942,Mary,18
+ID,M,1937,James,992
+ID,F,1930,Jennifer,344
+ID,M,1961,James,136
+ID,M,1967,James,9
+ID,,1911,Linda,8
+ID,F,1958,Taylor,391
+ID,M,1982,Casey,306
+ID,F,1944,Jordan,55
+,M,1950,James,51
+ID,M,1989,Robert,489
+ID,M,1992,Taylor,350
+ID,F,1931,Alex,
+ID,F,1983,Michael,180
+ID,F,1969,Mary,103
+ID,F,1988,Mary,
+ID,M,1966,,235
+ID,M,1999,Alex,183
+ID,F,1915,Casey,6
+ID,M,1995,John,200
+ID,M,1988,Alex,1029
+ID,F,1975,Linda,
+ID,M,1999,Michael,129
+ID,F,1964,Linda,300
+ID,M,1981,Alex,630
+ID,M,1983,Jordan,30
+ID,M,1942,Taylor,131
+ID,M,2006,Alex,102
+ID,M,1923,james,14
+,M,2006,Michael,437
+ID,M,1958,Alex,716
+ID,M,1965,Taylor,285
+ID,M,1990,Jordan,458
+ID,F,2014,Taylor,5
+ID,M,1997,Jordan,206
+ID,M,1952,Patricia,327
+ID,F,1940,Mary,366
+ID,M,2014,Jordan,20
+ID,F,2006,Alex,17
+ID,F,1979,Jordan,633
+ID,F,1950,Jennifer,512
+ID,M,2021,Michael,365
+ID,M,1949,Robert,178
+ID,M,1966,John,26
+,M,2013,Casey,25
+ID,F,1981,Patricia,935
+ID,F,2005,Jennifer,403
+ID,F,1995,Patricia,945
+ID,M,1926,Michael,
+ID,F,1998,Alex,27
+ID,,1961,Robert,
+ID,F,1952,Mary,59
+ID,,1987,Jordan,402
+ID,F,1973,Taylor,515
+ID,F,1989,Taylor,
+ID,F,1919,patricia,27
+ID,F,1967,Mary,945
+ID,F,1944,Mary,111
+ID,M,1995,Michael,1381
+ID,M,1992,Robert,698
+ID,F,1994,Jennifer,210
+ID,M,1948,,682
+ID,F,2003,Casey,36
+ID,F,1988,Patricia,203
+ID,F,1976,Mary,423
+ID,F,1932,Alex,7
+ID,M,1986,James,115
+ID,F,1955,Jennifer,19
+ID,F,1969,Jordan,346
+ID,F,1941,Alex,27
+ID,F,1984,Taylor,475
+ID,M,2021,James,107
+ID,F,1980,Jennifer,549
+ID,M,1988,John,1071
+ID,M,2018,Taylor,886
+ID,F,1961,Linda,115
+ID,F,1934,Alex,214
+ID,M,1983,Michael,1238
+ID,F,1982,Alex,336
+ID,,1985,Jordan,1254
+ID,M,1935,Patricia,201
+ID,F,1984,Alex,245
+ID,F,1974,Alex,100
+ID,M,2004,Michael,81
+ID,F,1990,,85
+ID,,1951,Jordan,62
+ID,M,1936,Casey,108
+ID,M,1947,Casey,15
+ID,M,1932,Robert,110
+ID,F,2013,Robert,155
 ID,M,,Alex,
-ID, M ,1933.0,casey,55
-ID,M,1994.0,Michael,332
-ID,M,1953.0,James,319
-ID,F,1992.0,Jennifer,370
- ID ,M,1938.0,Casey,50
- ID ,,,Linda,
-ID,F,2001.0, Casey ,526
-ID,F,1950.0,taylor,62
-ID,M,1961.0,Jennifer,157
-ID,F,1943.0,Taylor,247
-ID,M,1952.0,Jordan,110
-ID,M,1914.0,James,163
+ID,M,1933,casey,55
+ID,M,1994,Michael,332
+ID,M,1953,James,319
+ID,F,1992,Jennifer,370
+ID,M,1938,Casey,50
+ID,,,Linda,
+ID,F,2001,Casey,526
+ID,F,1950,taylor,62
+ID,M,1961,Jennifer,157
+ID,F,1943,Taylor,247
+ID,M,1952,Jordan,110
+ID,M,1914,James,163
 ID,M,,Robert,10
-ID,M,2002.0,Michael,982
- ID ,,1947.0,Robert,202
-ID,M,1985.0,Jordan,806
-ID,M,1996.0,Robert,319
-ID, F ,1982.0,Jordan,563
-ID,M,1943.0,James,13
-ID,M,1919.0,Michael,9
+ID,M,2002,Michael,982
+ID,,1947,Robert,202
+ID,M,1985,Jordan,806
+ID,M,1996,Robert,319
+ID,F,1982,Jordan,563
+ID,M,1943,James,13
+ID,M,1919,Michael,9
 ID,M,,Casey,45
-ID,M,1922.0,Alex,58
-ID, M ,1995.0,Mary,413
+ID,M,1922,Alex,58
+ID,M,1995,Mary,413
 ID,M,,Taylor,9
- ID ,F,1995.0,Alex,39
-ID,F,2010.0,linda,34
-ID,M,1981.0,James,40
-ID,F,1980.0,Mary,681
- ID ,F,1913.0,linda,47
-ID,M,1926.0,Jordan,61
-ID,M,1979.0,John,296
-ID, F ,1973.0,Jennifer,324
-ID,M,1931.0,Alex,421
-ID,F,1975.0,Taylor,216
-ID,M,1925.0,Robert,151
-ID, F ,1971.0,mary,5
-ID,M,2014.0,Robert,7
-ID,M,1977.0,Alex,186
-ID,F,2013.0,Patricia,672
-ID,M,1992.0,,58
-ID,,1987.0,James,103
-ID,M,1956.0,James,41
-ID,F,1954.0,,187
-ID,M,1940.0,Alex,10
-ID,M,2001.0,Alex,117
-ID,F,2001.0,Mary,739
-ID,M,2017.0,Jordan,17
-ID,,1963.0,Patricia,82
-ID,M,2011.0,Robert,769
-ID,M,1948.0,taylor,178
-ID,M,1987.0,Taylor,318
-ID,F,1931.0, Taylor ,97
-ID, F ,1926.0,Jennifer,108
-ID,M,1968.0,James,13
-ID,F,1961.0,Jennifer,786
-ID,F,1956.0,Patricia,116
-,F,2009.0,Alex,93
-,F,1946.0,,358
-ID,F,1967.0,patricia,127
-,F,2010.0,Taylor,62
-ID,M,1932.0,Jordan,332
-ID, F ,1966.0,Jennifer,16
-ID,M,1992.0,James,130
- ID ,F,1969.0,Casey,586
+ID,F,1995,Alex,39
+ID,F,2010,linda,34
+ID,M,1981,James,40
+ID,F,1980,Mary,681
+ID,F,1913,linda,47
+ID,M,1926,Jordan,61
+ID,M,1979,John,296
+ID,F,1973,Jennifer,324
+ID,M,1931,Alex,421
+ID,F,1975,Taylor,216
+ID,M,1925,Robert,151
+ID,F,1971,mary,5
+ID,M,2014,Robert,7
+ID,M,1977,Alex,186
+ID,F,2013,Patricia,672
+ID,M,1992,,58
+ID,,1987,James,103
+ID,M,1956,James,41
+ID,F,1954,,187
+ID,M,1940,Alex,10
+ID,M,2001,Alex,117
+ID,F,2001,Mary,739
+ID,M,2017,Jordan,17
+ID,,1963,Patricia,82
+ID,M,2011,Robert,769
+ID,M,1948,taylor,178
+ID,M,1987,Taylor,318
+ID,F,1931,Taylor,97
+ID,F,1926,Jennifer,108
+ID,M,1968,James,13
+ID,F,1961,Jennifer,786
+ID,F,1956,Patricia,116
+,F,2009,Alex,93
+,F,1946,,358
+ID,F,1967,patricia,127
+,F,2010,Taylor,62
+ID,M,1932,Jordan,332
+ID,F,1966,Jennifer,16
+ID,M,1992,James,130
+ID,F,1969,Casey,586
 ID,M,,Michael,13
-ID,M,1973.0,jordan,508
-ID, M ,2012.0,Michael,519
-ID,M,1936.0,Robert,22
-ID,F,1983.0,Alex,519
-ID,M,1983.0,Robert,10
- ID ,M,1944.0, John ,797
-ID,F,2004.0,mary,132
-ID,M,1953.0,Jordan,471
-ID,F,1915.0, John ,8
- ID ,F,1972.0,Robert,138
-ID,F,2020.0,Jordan,174
- ID ,M,1992.0,Alex,121
-ID,M,1959.0,Taylor,14
-ID,F,1971.0,Jordan,417
-ID,F,1921.0,Patricia,95
- ID ,M,1942.0,Jordan,
-ID,M,1960.0,Robert,144
-ID,F,1972.0,Jordan,263
+ID,M,1973,jordan,508
+ID,M,2012,Michael,519
+ID,M,1936,Robert,22
+ID,F,1983,Alex,519
+ID,M,1983,Robert,10
+ID,M,1944,John,797
+ID,F,2004,mary,132
+ID,M,1953,Jordan,471
+ID,F,1915,John,8
+ID,F,1972,Robert,138
+ID,F,2020,Jordan,174
+ID,M,1992,Alex,121
+ID,M,1959,Taylor,14
+ID,F,1971,Jordan,417
+ID,F,1921,Patricia,95
+ID,M,1942,Jordan,
+ID,M,1960,Robert,144
+ID,F,1972,Jordan,263
 ID,M,,Robert,136
-ID,,1971.0,Michael,279
- ID ,M,,Robert,49
-ID,,1978.0,patricia,529
-ID,F,1969.0,Jennifer,158
-,F,1919.0,Jordan,171
-ID,M,1978.0,Patricia,759
-ID,,2012.0,Casey,470
-ID,M,2001.0,Jordan,143
-ID,F,2011.0,Alex,29
-ID,M,1965.0,Robert,1044
-ID,F,1986.0,Alex,242
-ID,F,1974.0,Taylor,239
+ID,,1971,Michael,279
+ID,M,,Robert,49
+ID,,1978,patricia,529
+ID,F,1969,Jennifer,158
+,F,1919,Jordan,171
+ID,M,1978,Patricia,759
+ID,,2012,Casey,470
+ID,M,2001,Jordan,143
+ID,F,2011,Alex,29
+ID,M,1965,Robert,1044
+ID,F,1986,Alex,242
+ID,F,1974,Taylor,239
 ID,M,,Robert,348
-ID,F,1949.0,Linda,8
-ID,M,2000.0,Alex,42
-ID,M,1973.0,Alex,146
- ID ,,1961.0,Taylor,210
-ID,F,2010.0,Mary,577
-ID, F ,1941.0,Linda,11
- ID ,F,2006.0,,336
-ID,F,2013.0,Linda,707
-,M,1929.0,Jordan,104
- ID ,M,2007.0,,9
-ID,M,1931.0,Patricia,238
-ID,M,2006.0,Taylor,176
-ID,,1952.0,Linda,690
-ID,F,1933.0,Alex,29
-ID,F,2000.0,Michael,9
-ID,F,2021.0,Linda,148
-ID,M,1988.0,James,824
-ID, F ,1977.0,Jennifer,1057
-ID,M,1915.0,James,35
-ID,F,1954.0,Mary,738
- ID ,F,1916.0,Jennifer,6
-ID,M,1937.0,Jordan,13
-ID,F,1936.0,Casey,52
-ID,M,1946.0,Michael,42
-ID,,1948.0,Casey,10
-ID,F,1930.0,alex,
-ID, M ,1997.0,Casey,186
-ID,F,1968.0,Mary,149
-ID, F ,1935.0,Linda,175
-ID,M,2004.0,Alex,35
-ID,M,1986.0,John,359
-ID,M,2004.0,Taylor,371
-ID,M,1972.0,Taylor,63
-ID,F,1939.0,Alex,7
-ID,F,1976.0,Taylor,541
-ID,M,1951.0,linda,65
- ID , M ,2002.0,Jordan,171
-ID,M,1987.0,Robert,152
-ID,M,1923.0, Casey ,53
-,M,1915.0,Jordan,17
-ID,M,2019.0,James,501
-ID, F ,1950.0,Casey,16
-ID,F,2016.0,Patricia,360
-ID,F,1993.0,Linda,154
-ID,M,2003.0,Jordan,295
-ID,M,1977.0,john,244
-ID,F,1924.0,jennifer,49
-ID,M,1973.0,James,187
-ID,F,2009.0,Casey,42
-ID,F,1991.0,Patricia,375
-ID,M,1953.0,Casey,495
-ID,F,1958.0,Jennifer,83
-ID,F,2010.0,Jordan,278
- ID ,F,1919.0,Casey,87
-ID,M,1962.0, John ,553
-ID,M,1990.0,Alex,287
-ID,M,2019.0,John,14
-ID,F,1957.0,Jordan,402
-ID,M,2019.0,Casey,31
- ID ,M,2020.0,John,87
- ID ,M,1968.0,John,493
-ID,M,1989.0,John,563
-ID,F,1910.0,Linda,23
-ID,M,2020.0,Casey,8
-ID,M,2003.0,Michael,463
-ID,M,1927.0,Robert,122
-ID,M,1981.0,Michael,329
-ID,F,1942.0,taylor,29
-,M,1975.0,Casey,91
-ID,M,1964.0,michael,89
-ID, M ,1919.0,Robert,12
-ID,M,2015.0,Taylor,189
-ID,F,1946.0,Taylor,8
-ID,M,2010.0,James,17
-ID,,1929.0,Linda,98
-ID,M,2013.0,John,33
-ID,M,2015.0,Casey,68
-ID,M,1979.0,Jennifer,59
-ID,F,1962.0,Casey,36
- ID ,F,2003.0,Linda,39
-ID,M,1931.0,Casey,56
-ID, M ,1966.0,,353
-ID,F,1979.0,Patricia,169
-ID,,1965.0, Jennifer ,315
-ID,M,1961.0, Jordan ,734
-ID,F,1985.0,Michael,195
-ID, M ,1980.0,Robert,264
-ID,F,1912.0,Alex,33
-ID,M,1937.0,Jordan,13
-ID, M ,1978.0,robert,80
+ID,F,1949,Linda,8
+ID,M,2000,Alex,42
+ID,M,1973,Alex,146
+ID,,1961,Taylor,210
+ID,F,2010,Mary,577
+ID,F,1941,Linda,11
+ID,F,2006,,336
+ID,F,2013,Linda,707
+,M,1929,Jordan,104
+ID,M,2007,,9
+ID,M,1931,Patricia,238
+ID,M,2006,Taylor,176
+ID,,1952,Linda,690
+ID,F,1933,Alex,29
+ID,F,2000,Michael,9
+ID,F,2021,Linda,148
+ID,M,1988,James,824
+ID,F,1977,Jennifer,1057
+ID,M,1915,James,35
+ID,F,1954,Mary,738
+ID,F,1916,Jennifer,6
+ID,M,1937,Jordan,13
+ID,F,1936,Casey,52
+ID,M,1946,Michael,42
+ID,,1948,Casey,10
+ID,F,1930,alex,
+ID,M,1997,Casey,186
+ID,F,1968,Mary,149
+ID,F,1935,Linda,175
+ID,M,2004,Alex,35
+ID,M,1986,John,359
+ID,M,2004,Taylor,371
+ID,M,1972,Taylor,63
+ID,F,1939,Alex,7
+ID,F,1976,Taylor,541
+ID,M,1951,linda,65
+ID,M,2002,Jordan,171
+ID,M,1987,Robert,152
+ID,M,1923,Casey,53
+,M,1915,Jordan,17
+ID,M,2019,James,501
+ID,F,1950,Casey,16
+ID,F,2016,Patricia,360
+ID,F,1993,Linda,154
+ID,M,2003,Jordan,295
+ID,M,1977,john,244
+ID,F,1924,jennifer,49
+ID,M,1973,James,187
+ID,F,2009,Casey,42
+ID,F,1991,Patricia,375
+ID,M,1953,Casey,495
+ID,F,1958,Jennifer,83
+ID,F,2010,Jordan,278
+ID,F,1919,Casey,87
+ID,M,1962,John,553
+ID,M,1990,Alex,287
+ID,M,2019,John,14
+ID,F,1957,Jordan,402
+ID,M,2019,Casey,31
+ID,M,2020,John,87
+ID,M,1968,John,493
+ID,M,1989,John,563
+ID,F,1910,Linda,23
+ID,M,2020,Casey,8
+ID,M,2003,Michael,463
+ID,M,1927,Robert,122
+ID,M,1981,Michael,329
+ID,F,1942,taylor,29
+,M,1975,Casey,91
+ID,M,1964,michael,89
+ID,M,1919,Robert,12
+ID,M,2015,Taylor,189
+ID,F,1946,Taylor,8
+ID,M,2010,James,17
+ID,,1929,Linda,98
+ID,M,2013,John,33
+ID,M,2015,Casey,68
+ID,M,1979,Jennifer,59
+ID,F,1962,Casey,36
+ID,F,2003,Linda,39
+ID,M,1931,Casey,56
+ID,M,1966,,353
+ID,F,1979,Patricia,169
+ID,,1965,Jennifer,315
+ID,M,1961,Jordan,734
+ID,F,1985,Michael,195
+ID,M,1980,Robert,264
+ID,F,1912,Alex,33
+ID,M,1937,Jordan,13
+ID,M,1978,robert,80
 ID,M,,Jordan,
-ID,,1938.0,Mary,
-ID,,1954.0,Taylor,15
-,M,1933.0,Jordan,25
-ID, M ,1928.0, John ,105
+ID,,1938,Mary,
+ID,,1954,Taylor,15
+,M,1933,Jordan,25
+ID,M,1928,John,105

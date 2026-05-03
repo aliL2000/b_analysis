@@ -1,1642 +1,1642 @@
 state,sex,year,name,count
- OK ,M,1946.0,Alex,216
-OK,M,1999.0,Robert,376
-OK,F,2021.0,Patricia,257
-OK,M,1949.0,James,863
- OK ,F,2004.0, Mary ,235
-OK,F,2002.0,Patricia,574
-OK,F,2001.0,Jennifer,6
- OK ,M,2009.0,John,185
-OK, M ,1968.0,James,375
-OK, F ,1934.0,Casey,297
-OK,,1962.0,,1069
-OK,F,2014.0,Taylor,6
-OK,M,1948.0,Jordan,9
-OK,F,1958.0,Jordan,57
-OK, F ,1937.0,Alex,39
-OK,F,1971.0,Jordan,678
-OK,M,2002.0,Michael,725
- OK ,M,2007.0,Robert,53
-OK,F,2007.0,Linda,982
-OK,M,1996.0,Taylor,418
-OK, M ,1932.0,robert,17
-OK,F,1910.0,Jordan,37
-OK, F ,1944.0, Casey ,8
-OK,F,1952.0,Taylor,460
-OK,F,1989.0,Jordan,822
-OK,F,2007.0,Michael,234
-OK,,1945.0, Michael ,
-OK,M,1970.0,James,439
+OK,M,1946,Alex,216
+OK,M,1999,Robert,376
+OK,F,2021,Patricia,257
+OK,M,1949,James,863
+OK,F,2004,Mary,235
+OK,F,2002,Patricia,574
+OK,F,2001,Jennifer,6
+OK,M,2009,John,185
+OK,M,1968,James,375
+OK,F,1934,Casey,297
+OK,,1962,,1069
+OK,F,2014,Taylor,6
+OK,M,1948,Jordan,9
+OK,F,1958,Jordan,57
+OK,F,1937,Alex,39
+OK,F,1971,Jordan,678
+OK,M,2002,Michael,725
+OK,M,2007,Robert,53
+OK,F,2007,Linda,982
+OK,M,1996,Taylor,418
+OK,M,1932,robert,17
+OK,F,1910,Jordan,37
+OK,F,1944,Casey,8
+OK,F,1952,Taylor,460
+OK,F,1989,Jordan,822
+OK,F,2007,Michael,234
+OK,,1945,Michael,
+OK,M,1970,James,439
 ,F,,Michael,36
-OK,M,1934.0,Robert,45
-OK,F,2009.0,Alex,393
-OK,F,1954.0,Jordan,71
-OK,F,1964.0,,38
+OK,M,1934,Robert,45
+OK,F,2009,Alex,393
+OK,F,1954,Jordan,71
+OK,F,1964,,38
 OK,,,Alex,1031
-OK,F,1945.0,Linda,54
-OK,,1989.0,james,113
-OK, M ,2014.0, Robert ,
-OK,F,1925.0,Taylor,29
-OK,M,2006.0,Robert,27
-OK,M,2014.0,Linda,145
-OK,F,1995.0,Alex,286
-OK,M,1983.0,James,105
-OK,M,1966.0,Jordan,179
-OK,M,1980.0,Taylor,430
-OK,M,1961.0,Taylor,403
-OK,,1967.0,Michael,593
-OK, F ,1955.0,Alex,80
- OK ,F,1949.0,Jordan,28
-OK,M,1998.0,alex,295
-OK,F,2016.0,Mary,23
-OK,F,2006.0,Patricia,17
-OK,M,1958.0, Alex ,26
-OK,M,1997.0,John,476
-OK,,1935.0, Linda ,16
- OK ,F,2001.0,Jordan,63
-OK,F,1931.0,Taylor,5
-OK, F ,1959.0,,55
-OK,F,2007.0,Mary,30
-,M,1951.0,James,157
-OK,F,1932.0,Taylor,166
-OK,F,1971.0,Jennifer,925
-OK,M,1975.0,Taylor,223
-OK,F,1957.0,Linda,21
-OK,F,2022.0,Patricia,6
-OK,F,1948.0,Taylor,15
-OK,M,1982.0,John,455
-OK,M,1995.0,Robert,343
-OK,F,1999.0,Casey,222
-OK,F,2022.0,Linda,150
-OK,M,1947.0,James,
-OK,F,, Patricia ,20
-OK,M,2005.0,Taylor,339
-OK,F,2006.0,Mary,368
-OK,F,2020.0,Mary,77
-OK,M,1951.0,Alex,60
-OK,F,1925.0,,176
-OK, M ,1944.0,,454
-OK,M,1921.0,Jordan,24
-OK,F,1968.0,Linda,361
-OK,F,1956.0,Jordan,7
-OK,M,2009.0,Taylor,23
-OK,F,1985.0, Jennifer ,1322
-OK,M,1952.0,Mary,77
-,M,1934.0,Michael,37
-OK,M,1961.0,,244
-OK,M,1921.0,Casey,14
-OK, M ,1963.0,Jordan,18
-OK, F ,2002.0,Casey,76
-OK,F,2015.0,Taylor,229
-OK,F,1949.0,Linda,47
-OK,F,1930.0, Michael ,44
-OK,M,1972.0,Alex,33
-OK,M,1970.0,Casey,40
- OK ,M,1937.0,James,202
- OK ,F,1954.0,,450
-OK,F,1990.0,Alex,256
-OK,F,1979.0,Alex,
-OK,M,1946.0,Jennifer,724
-OK,F,1967.0,Linda,771
-,,2012.0,Taylor,80
-OK,F,1971.0,Mary,
- OK ,M,1957.0,Jordan,996
-OK,F,1964.0,Linda,253
-OK,F,1981.0,Mary,195
-OK,M,2017.0, John ,37
-OK,M,2011.0,John,465
+OK,F,1945,Linda,54
+OK,,1989,james,113
+OK,M,2014,Robert,
+OK,F,1925,Taylor,29
+OK,M,2006,Robert,27
+OK,M,2014,Linda,145
+OK,F,1995,Alex,286
+OK,M,1983,James,105
+OK,M,1966,Jordan,179
+OK,M,1980,Taylor,430
+OK,M,1961,Taylor,403
+OK,,1967,Michael,593
+OK,F,1955,Alex,80
+OK,F,1949,Jordan,28
+OK,M,1998,alex,295
+OK,F,2016,Mary,23
+OK,F,2006,Patricia,17
+OK,M,1958,Alex,26
+OK,M,1997,John,476
+OK,,1935,Linda,16
+OK,F,2001,Jordan,63
+OK,F,1931,Taylor,5
+OK,F,1959,,55
+OK,F,2007,Mary,30
+,M,1951,James,157
+OK,F,1932,Taylor,166
+OK,F,1971,Jennifer,925
+OK,M,1975,Taylor,223
+OK,F,1957,Linda,21
+OK,F,2022,Patricia,6
+OK,F,1948,Taylor,15
+OK,M,1982,John,455
+OK,M,1995,Robert,343
+OK,F,1999,Casey,222
+OK,F,2022,Linda,150
+OK,M,1947,James,
+OK,F,,Patricia,20
+OK,M,2005,Taylor,339
+OK,F,2006,Mary,368
+OK,F,2020,Mary,77
+OK,M,1951,Alex,60
+OK,F,1925,,176
+OK,M,1944,,454
+OK,M,1921,Jordan,24
+OK,F,1968,Linda,361
+OK,F,1956,Jordan,7
+OK,M,2009,Taylor,23
+OK,F,1985,Jennifer,1322
+OK,M,1952,Mary,77
+,M,1934,Michael,37
+OK,M,1961,,244
+OK,M,1921,Casey,14
+OK,M,1963,Jordan,18
+OK,F,2002,Casey,76
+OK,F,2015,Taylor,229
+OK,F,1949,Linda,47
+OK,F,1930,Michael,44
+OK,M,1972,Alex,33
+OK,M,1970,Casey,40
+OK,M,1937,James,202
+OK,F,1954,,450
+OK,F,1990,Alex,256
+OK,F,1979,Alex,
+OK,M,1946,Jennifer,724
+OK,F,1967,Linda,771
+,,2012,Taylor,80
+OK,F,1971,Mary,
+OK,M,1957,Jordan,996
+OK,F,1964,Linda,253
+OK,F,1981,Mary,195
+OK,M,2017,John,37
+OK,M,2011,John,465
 OK,F,,Casey,546
-OK,M,1942.0,James,8
+OK,M,1942,James,8
 OK,M,,John,
-OK,M,1987.0,Casey,310
-OK,F,1961.0,Linda,257
-OK,M,1995.0,Michael,158
-OK,M,1957.0,Michael,462
-OK,M,1985.0,michael,119
+OK,M,1987,Casey,310
+OK,F,1961,Linda,257
+OK,M,1995,Michael,158
+OK,M,1957,Michael,462
+OK,M,1985,michael,119
 OK,M,,Michael,71
-OK,F,2007.0,casey,25
-OK,F,1975.0,Taylor,236
- OK ,M,,Alex,1690
-OK, F ,2021.0,Linda,517
-OK,,1989.0,james,113
-OK,M,2011.0,Alex,140
-OK,M,2015.0,Robert,27
-OK,M,1922.0, Jordan ,34
- OK ,F,1998.0,Jennifer,119
-OK,F,1982.0,Patricia,504
-OK,M,1973.0,Jordan,414
-OK,F,2022.0, Jennifer ,117
-OK,M,1924.0,Taylor,75
- OK ,M,1956.0,Jordan,164
-OK,M,1936.0,,9
-OK,,2013.0,Linda,23
-OK,F,2014.0,Patricia,7
-OK,M,2013.0,Robert,73
-OK, M ,1953.0,Robert,19
- OK ,M,1993.0,Robert,707
-OK,F,1944.0,Michael,194
-OK,F,1986.0,Mary,575
-OK,F,1963.0,Mary,57
-OK,M,2016.0,Taylor,507
-OK,F,1956.0,Linda,86
- OK ,F,1973.0,Linda,243
-OK,M,1938.0,Robert,247
-OK,M,1944.0,Taylor,447
-OK,M,1955.0, Alex ,221
-OK,F,2001.0,Patricia,974
-OK,M,1941.0,Taylor,386
-OK,F,1990.0,Casey,434
-OK,M,1988.0,James,176
-OK,F,1959.0,Alex,302
-OK, M ,1964.0,Alex,287
- OK ,F,1982.0,Casey,70
-OK,F,2016.0,Alex,102
-OK,F,1924.0,Patricia,32
-OK,F,1955.0,Casey,228
-OK,F,1966.0,Casey,123
-OK,M,1988.0,Robert,362
-OK,F,1963.0,Patricia,20
-OK,,2019.0,,307
-,M,1951.0,John,100
-,F,1960.0,,227
-OK,F,1949.0,Mary,14
-OK,M,2007.0,John,299
-OK,F,1936.0,Casey,59
-OK,M,1977.0,Alex,29
-OK,F,1946.0,Patricia,5
+OK,F,2007,casey,25
+OK,F,1975,Taylor,236
+OK,M,,Alex,1690
+OK,F,2021,Linda,517
+OK,,1989,james,113
+OK,M,2011,Alex,140
+OK,M,2015,Robert,27
+OK,M,1922,Jordan,34
+OK,F,1998,Jennifer,119
+OK,F,1982,Patricia,504
+OK,M,1973,Jordan,414
+OK,F,2022,Jennifer,117
+OK,M,1924,Taylor,75
+OK,M,1956,Jordan,164
+OK,M,1936,,9
+OK,,2013,Linda,23
+OK,F,2014,Patricia,7
+OK,M,2013,Robert,73
+OK,M,1953,Robert,19
+OK,M,1993,Robert,707
+OK,F,1944,Michael,194
+OK,F,1986,Mary,575
+OK,F,1963,Mary,57
+OK,M,2016,Taylor,507
+OK,F,1956,Linda,86
+OK,F,1973,Linda,243
+OK,M,1938,Robert,247
+OK,M,1944,Taylor,447
+OK,M,1955,Alex,221
+OK,F,2001,Patricia,974
+OK,M,1941,Taylor,386
+OK,F,1990,Casey,434
+OK,M,1988,James,176
+OK,F,1959,Alex,302
+OK,M,1964,Alex,287
+OK,F,1982,Casey,70
+OK,F,2016,Alex,102
+OK,F,1924,Patricia,32
+OK,F,1955,Casey,228
+OK,F,1966,Casey,123
+OK,M,1988,Robert,362
+OK,F,1963,Patricia,20
+OK,,2019,,307
+,M,1951,John,100
+,F,1960,,227
+OK,F,1949,Mary,14
+OK,M,2007,John,299
+OK,F,1936,Casey,59
+OK,M,1977,Alex,29
+OK,F,1946,Patricia,5
 OK,M,,Jordan,232
-OK,F,1998.0,,1057
-OK,F,2000.0,Linda,612
-OK, F ,2018.0,Taylor,379
- OK ,F,1983.0,Taylor,495
-OK,,1932.0,John,209
- OK , M ,1950.0,Jordan,30
- OK ,M,1939.0,Michael,76
-,M,1986.0,Taylor,
-OK,F,1939.0,Jordan,20
-OK,F,1949.0,Taylor,116
-OK,,2019.0,Casey,5
+OK,F,1998,,1057
+OK,F,2000,Linda,612
+OK,F,2018,Taylor,379
+OK,F,1983,Taylor,495
+OK,,1932,John,209
+OK,M,1950,Jordan,30
+OK,M,1939,Michael,76
+,M,1986,Taylor,
+OK,F,1939,Jordan,20
+OK,F,1949,Taylor,116
+OK,,2019,Casey,5
 OK,M,,Casey,129
 OK,F,,Jennifer,177
 OK,F,,Linda,1842
-OK,M,1974.0,Casey,608
-OK,M,2000.0,,163
- OK ,F,1982.0,Jordan,379
-OK,M,1989.0,John,439
-OK,M,2006.0,Taylor,1080
-OK,M,1918.0,John,8
-OK,F,1952.0,Patricia,378
-OK,M,1923.0, Robert ,33
-OK,F,1945.0,Taylor,193
-OK,,1996.0,John,233
+OK,M,1974,Casey,608
+OK,M,2000,,163
+OK,F,1982,Jordan,379
+OK,M,1989,John,439
+OK,M,2006,Taylor,1080
+OK,M,1918,John,8
+OK,F,1952,Patricia,378
+OK,M,1923,Robert,33
+OK,F,1945,Taylor,193
+OK,,1996,John,233
 OK,F,,Patricia,580
-OK,M,1964.0,Taylor,106
- OK ,F,1919.0,Casey,56
-OK,,1941.0,Alex,746
-OK,F,1960.0,Linda,96
-OK,F,1980.0,alex,83
-OK,F,1933.0, Taylor ,61
-OK,F,1979.0,Patricia,403
-OK, M ,1991.0,James,20
-OK,M,1959.0,Jordan,373
-OK,M,1935.0,Robert,229
- OK ,M,1969.0,Robert,295
-OK,F,2015.0,Jennifer,323
-OK,F,1972.0,Linda,849
+OK,M,1964,Taylor,106
+OK,F,1919,Casey,56
+OK,,1941,Alex,746
+OK,F,1960,Linda,96
+OK,F,1980,alex,83
+OK,F,1933,Taylor,61
+OK,F,1979,Patricia,403
+OK,M,1991,James,20
+OK,M,1959,Jordan,373
+OK,M,1935,Robert,229
+OK,M,1969,Robert,295
+OK,F,2015,Jennifer,323
+OK,F,1972,Linda,849
 OK,F,,Taylor,8
-OK,F,1987.0,Casey,92
-OK,F,1920.0,Michael,127
-OK,M,1986.0,Michael,60
-OK,F,1988.0,Mary,492
-OK,M,2011.0,Michael,335
-OK,M,2008.0,Alex,373
-OK,M,2013.0,Alex,56
-OK,M,1938.0,James,5
-OK,,1972.0,Jordan,130
-OK,F,1990.0,Mary,418
-OK,M,1964.0, Michael ,113
-OK,M,1968.0,Taylor,290
-OK,F,1920.0,Alex,38
-OK,,2008.0,Michael,300
- OK ,F,2000.0,Michael,18
-OK,M,1989.0,Alex,346
-OK,M,1939.0,Jordan,85
-OK,M,1966.0,Robert,363
-OK, F ,1918.0,Jennifer,52
-OK,M,1930.0,,48
+OK,F,1987,Casey,92
+OK,F,1920,Michael,127
+OK,M,1986,Michael,60
+OK,F,1988,Mary,492
+OK,M,2011,Michael,335
+OK,M,2008,Alex,373
+OK,M,2013,Alex,56
+OK,M,1938,James,5
+OK,,1972,Jordan,130
+OK,F,1990,Mary,418
+OK,M,1964,Michael,113
+OK,M,1968,Taylor,290
+OK,F,1920,Alex,38
+OK,,2008,Michael,300
+OK,F,2000,Michael,18
+OK,M,1989,Alex,346
+OK,M,1939,Jordan,85
+OK,M,1966,Robert,363
+OK,F,1918,Jennifer,52
+OK,M,1930,,48
 OK,F,,Patricia,159
-OK, F ,2017.0,Robert,5
+OK,F,2017,Robert,5
 OK,M,,Michael,33
-OK,M,1955.0,Casey,10
-OK,,1999.0,Patricia,628
-OK, F ,1950.0,Patricia,195
- OK ,F,1978.0,Casey,672
-OK,M,1952.0,John,975
-OK,F,1968.0,Jordan,200
-OK,M,1922.0,Michael,80
- OK ,M,1937.0,James,202
+OK,M,1955,Casey,10
+OK,,1999,Patricia,628
+OK,F,1950,Patricia,195
+OK,F,1978,Casey,672
+OK,M,1952,John,975
+OK,F,1968,Jordan,200
+OK,M,1922,Michael,80
+OK,M,1937,James,202
 OK,,,Jordan,226
-OK,F,1967.0,Alex,913
-OK,M,1989.0,Jordan,543
-OK,F,2011.0,Mary,729
-OK,M,1950.0,Taylor,204
-OK, M ,, Michael ,
-OK,M,1955.0,Michael,67
-OK,F,1993.0,Taylor,299
-OK,F,1980.0,Linda,482
-OK,M,1914.0,alex,17
- OK ,M,1919.0,Robert,59
-OK,M,1955.0,James,81
-OK,F,1946.0,Jennifer,156
-OK,F,1998.0,Mary,573
-OK,M,1993.0,James,212
-OK,,1977.0,Patricia,103
-OK,F,1936.0,Linda,15
-OK,M,2020.0,John,
- OK ,F,1995.0,Patricia,701
-OK,F,, Casey ,622
-OK,F,2015.0,Jordan,531
-OK,M,1990.0,Michael,45
-OK,F,1980.0,Taylor,649
-OK,F,1957.0,James,30
-OK, M ,1992.0,Jordan,564
-OK,F,2006.0,Jennifer,242
-OK,F,1998.0,Patricia,329
-OK,M,1969.0,Alex,523
-OK,M,2003.0,John,772
-OK,,1945.0,Jordan,137
- OK ,F,1937.0,Jordan,114
-OK,M,2005.0,Alex,8
-OK,F,1912.0,Patricia,52
-OK,M,1929.0,alex,38
-OK,M,1912.0, John ,44
-OK,M,1981.0,Alex,230
-OK,F,1970.0,Casey,133
-OK,M,1956.0,Michael,14
-OK,F,1926.0,,74
-OK,F,1991.0,Jordan,402
-OK,F,1947.0,Taylor,8
-OK,M,2013.0,Linda,38
-OK,F,2020.0,Alex,35
-OK,M,1989.0,Casey,720
-OK,M,1911.0,Casey,32
-OK,F,2010.0,Mary,841
-OK,M,1915.0,Jordan,16
-OK,M,2010.0,Casey,49
-,M,1969.0,Taylor,657
-OK,F,1983.0,Linda,873
-OK,F,1946.0,Casey,75
- OK ,M,1954.0,Michael,180
-OK,M,1973.0,Taylor,224
-OK,F,1993.0,Jordan,146
-OK,M,1957.0,James,11
-OK,M,1929.0,John,342
-OK,M,,James,561
-,F,1950.0, Taylor ,114
-OK,F,,Jennifer,364
-OK,F,1927.0,jordan,6
-OK,F,1940.0,,107
-OK,F,,Patricia,19
-OK,M,1954.0,Alex,144
-OK,F,1941.0,Mary,310
-OK,M,1950.0,James,10
-OK,F,1994.0,Mary,117
-OK,M,2020.0,Casey,
-OK,M,1944.0,Robert,542
- OK , F ,1924.0,Mary,37
-OK,F,,Alex,9
-OK,M,1992.0,Patricia,394
- OK ,F,1964.0,Patricia,66
-OK,M,,Casey,
-OK,F,1928.0,Alex,159
- OK ,M,1943.0,,10
-OK,M,1979.0,,443
-OK,F,1977.0,Taylor,361
-OK,,1986.0,Taylor,617
-OK,F,1985.0,Patricia,313
- OK ,,2002.0,Casey,39
-OK, M ,1940.0,Robert,8
-OK,F,1947.0,Mary,
-OK,F,1948.0,Jennifer,60
-OK,F,1995.0,Jennifer,70
-OK, M ,1930.0,James,23
-OK,F,1986.0,Linda,536
-OK,F,1974.0,Patricia,1072
-,F,1929.0,Jordan,67
-OK,F,1958.0,Linda,402
-OK,F,2005.0,Linda,521
-OK,M,1973.0,,156
-OK,M,1990.0,Casey,668
-OK,,2003.0,Casey,24
-OK,F,1946.0,Casey,75
-OK,M,1967.0,Jordan,181
-OK,F,2005.0,Jennifer,60
-OK, M ,1939.0,Robert,9
-OK,F,2008.0,jennifer,6
-OK,F,2017.0,Jennifer,99
-OK,F,,casey,357
-OK,M,1914.0,James,65
-OK,M,2016.0,Jordan,38
-OK,F,1989.0,Alex,34
-OK,M,2015.0,Casey,87
-OK,F,1929.0,Casey,11
-OK,F,2005.0,Jordan,163
-OK,M,2005.0,Linda,875
-OK,M,1985.0,Alex,276
-OK,M,1939.0,Alex,275
-OK,F,1946.0,Linda,23
-OK,M,1972.0,Robert,674
-OK,F,1987.0,Jordan,339
-OK,F,2012.0,Jennifer,
-OK,F,1970.0,Jordan,636
-OK,F,2007.0,Michael,234
-OK,M,2005.0,Michael,617
-OK,M,1957.0,Alex,665
-OK,F,2016.0,taylor,17
-OK,M,1983.0,Alex,156
-OK,M,1959.0,John,
-OK,M,,Jordan,715
-OK,M,2004.0,Alex,254
-OK,M,1965.0,Casey,325
-OK,F,1932.0, Jennifer ,30
-OK,F,1979.0,John,307
-OK,F,1924.0,Linda,79
-OK,F,2004.0,Casey,401
-OK,M,1978.0, Casey ,675
-OK,M,1985.0,Taylor,272
-OK,F,,Alex,494
-OK,M,1971.0,Casey,446
-OK,F,1988.0,Taylor,854
-OK,F,1988.0,Linda,410
-,M,1976.0,James,461
-OK,M,1959.0,Jordan,373
-OK,F,1940.0,Linda,46
-OK,F,1957.0,Alex,15
- OK ,M,1934.0,Casey,7
-OK, F ,1994.0, Casey ,419
-OK,M,1960.0,Alex,371
-OK,M,1966.0,Taylor,73
-OK, F ,2008.0,Jordan,81
-OK,F,2021.0,Mary,6
-OK,F,1993.0,Jordan,146
-OK,M,2019.0,John,57
-OK,F,1966.0,Taylor,21
-OK,F,1994.0,Linda,
-OK, F ,1999.0,Mary,50
-OK,F,2018.0,Jennifer,21
-OK,F,1960.0,Patricia,110
-OK,M,1942.0,Casey,61
-OK,M,2013.0,James,56
- OK ,M,1944.0,Jordan,184
-OK,F,1945.0,Patricia,92
-OK, F ,1972.0,Alex,614
-OK,F,1992.0,Mary,168
-OK,M,1976.0,John,704
-OK,F,2010.0,Jennifer,167
-OK,F,1954.0,Patricia,361
- OK ,F,1975.0,Linda,543
-OK,M,1925.0,James,43
-OK,F,2017.0,Jordan,135
- OK ,F,1993.0,Jennifer,81
-OK,F,2015.0,Alex,603
- OK ,M,,Jordan,63
-OK,M,1949.0,Jordan,450
-OK,M,1991.0,jordan,769
- OK ,,1916.0, John ,41
-OK,F,1962.0,Robert,153
-,F,1996.0,Taylor,70
-OK,M,1930.0,Casey,448
- OK ,F,1947.0,Casey,91
-OK,M,1990.0,,413
-OK,M,1940.0,Jordan,166
-OK,,1960.0,Robert,372
-OK,M,1940.0,Michael,394
- OK , M ,1927.0,Casey,263
- OK ,F,1970.0,Taylor,141
-OK, M ,1961.0,Alex,65
-OK,M,1951.0,Robert,306
-OK,M,1994.0,John,930
-OK,M,1944.0,John,32
- OK ,F,1942.0, Alex ,183
-OK, M ,1975.0,Robert,217
-OK,F,1995.0,Linda,223
-OK,M,1974.0,Taylor,347
-OK, F ,1994.0,Jennifer,39
-OK, M ,1957.0,Casey,77
-OK,F,1997.0,Linda,725
-OK,M,1940.0,Casey,50
-OK,M,1941.0,Michael,44
-OK, M ,1926.0,Jordan,389
- OK ,F,2016.0,Jordan,32
-OK,M,1942.0,linda,41
-OK, F ,1974.0,Taylor,474
-OK,F,1965.0,Patricia,665
-OK,F,1937.0,Mary,
- OK ,F,1969.0,Casey,536
-OK,M,2009.0,Taylor,23
-OK,F,1992.0,Linda,382
-OK,,2006.0,Alex,243
-OK,F,1913.0,,76
-OK,M,2008.0,James,6
-OK,,1954.0,Mary,1419
-OK,F,1975.0,Casey,747
-OK,M,1920.0, Jordan ,113
-OK,F,2014.0,Linda,118
-OK, F ,1917.0,Jennifer,7
-OK,M,1975.0,Michael,165
- OK , F ,1954.0,mary,183
-OK,M,1944.0,Alex,289
-OK,F,,John,
-OK, F ,1916.0,,6
-OK,F,1999.0,Jordan,719
-OK, F ,1959.0,Mary,598
-,M,1971.0,James,747
-,M,1984.0,,105
- OK ,F,2000.0,Casey,87
-OK,M,2007.0,Jordan,7
-OK,F,2007.0,Taylor,55
-OK,F,2001.0,Taylor,599
-OK,M,1959.0,Casey,
- OK , M ,1945.0,casey,8
-OK,M,1980.0,Casey,474
-OK,F,1989.0,Patricia,73
-OK,M,2016.0, Alex ,15
-OK,M,1959.0,Patricia,215
-OK,M,2002.0, Jordan ,744
-OK, M ,1923.0,Casey,300
-OK,M,2003.0,James,463
-OK,M,1999.0,Casey,745
-OK,F,1996.0, Patricia ,123
-OK, F ,2011.0, Patricia ,24
-OK,F,1994.0,Taylor,472
-OK,F,1930.0,Patricia,204
- OK ,F,1964.0,Michael,114
-OK,M,1967.0,Casey,496
-OK,M,1974.0,jordan,580
-OK,F,1957.0,Taylor,296
-OK,M,2001.0,James,30
-OK,F,,Casey,835
-OK,F,1958.0,Alex,415
-,F,2002.0,John,109
-OK,F,1975.0,jennifer,1087
-OK,M,1962.0,Casey,829
-,M,1967.0,Taylor,149
-OK,F,1992.0,Jordan,869
-OK, F ,1994.0,John,249
-OK,M,1994.0,Michael,493
-OK,F,1981.0,Linda,561
-OK,F,1931.0,Jordan,44
-OK,M,1952.0,Alex,40
-OK,F,2000.0,Alex,53
-OK,,1914.0,Linda,82
-OK,F,1949.0,Patricia,432
-OK,F,1942.0,Jennifer,77
- OK ,F,1911.0,Jordan,108
-OK, F ,1945.0,Jennifer,280
-OK,F,1932.0,Jordan,36
-OK,F,2009.0,Taylor,
-OK, F ,1972.0,Taylor,671
-OK, M ,1984.0,Casey,69
-OK,M,1982.0,Michael,92
-OK,M,1993.0,Alex,766
-,F,1974.0,Jennifer,609
-OK,F,1980.0,,775
-OK,M,1983.0,Casey,515
-,F,1988.0,Alex,872
-OK,F,1990.0, Patricia ,434
-OK,F,1926.0,Taylor,5
-OK, M ,1974.0,Michael,320
-OK,M,1919.0, Mary ,236
-OK,F,2022.0,Alex,301
-OK,M,1952.0,Robert,
-OK,F,1943.0,Taylor,136
-OK, M ,1963.0,James,428
-,,1937.0, Taylor ,14
-OK,M,2004.0, Casey ,575
- OK ,M,1936.0,Robert,22
- OK ,M,1994.0,Taylor,688
-OK,F,1979.0,Mary,301
-OK,F,2008.0,Casey,
-OK,F,1979.0,Linda,11
-OK,F,2020.0,Jennifer,13
-OK,F,1977.0,Casey,389
- OK ,F,1920.0,Casey,9
-OK,F,1978.0,Taylor,1102
- OK ,F,2022.0,Casey,17
-OK, M ,1957.0,,141
-OK,F,1987.0,Linda,65
-OK,M,2002.0,James,167
-OK,M,1995.0,Casey,35
-OK,F,1978.0,Mary,514
-OK,F,,,401
-OK, M ,2004.0,Michael,215
-OK,F,2011.0,Jennifer,73
-OK,M,1917.0,Michael,52
-OK,M,1974.0,John,876
-OK,,1981.0,Michael,1261
-OK,F,1981.0,Alex,103
-OK, F ,1977.0,,541
-OK,M,1949.0,Robert,510
-OK,F,1916.0,Alex,
-OK,F,1974.0,James,123
-OK,F,1997.0,Alex,43
-OK,F,1993.0,Linda,92
-OK,M,1945.0,John,
-OK,F,1987.0,Mary,295
-OK,M,1960.0,Casey,549
-OK,M,1992.0,Alex,535
-OK,F,1952.0,Casey,713
- OK ,M,1971.0,Jordan,99
-OK,M,1941.0,,118
- OK ,F,1963.0,,126
-OK,F,1957.0,Jordan,63
-OK,F,1951.0,Mary,303
- OK ,M,1999.0,James,297
-,M,2005.0,Jordan,55
-OK,M,1951.0,Taylor,30
-OK,M,2015.0,Taylor,68
-OK,F,1998.0,Taylor,18
-OK,M,1963.0, Robert ,82
-OK,M,2016.0,John,297
-OK,M,1941.0,Jordan,175
-OK,M,1959.0,James,17
-,F,1917.0,Patricia,154
-OK,M,1946.0,Jordan,10
-OK,F,1997.0,Jennifer,20
-OK,M,2009.0,Jordan,30
-OK,M,2008.0,Taylor,108
-OK,M,1927.0,Taylor,31
-OK,M,2010.0,Robert,143
-OK,M,1950.0,casey,84
-OK,F,2012.0,Casey,51
-OK,M,1981.0,Robert,938
-OK,F,1963.0,Casey,419
-OK,F,1969.0,Alex,70
- OK , F ,1975.0,Alex,669
-OK,F,1942.0,Taylor,6
- OK ,F,2000.0,Taylor,27
-OK,M,1948.0,John,281
-OK,,1992.0,Taylor,360
-OK,M,2009.0,Robert,54
- OK ,M,2013.0,Jordan,5
- OK ,M,1943.0,Taylor,105
-OK,F,1965.0,Mary,135
-OK,,1979.0,James,394
-OK, F ,1953.0,Patricia,41
-OK,M,2011.0,Casey,48
-OK,M,2007.0,James,85
-OK,M,1970.0,Alex,238
-OK,F,1967.0,Jordan,505
-OK,M,1965.0, James ,357
-OK,,1949.0,Casey,62
-OK,M,1910.0,Michael,60
-OK,M,1969.0,John,560
-OK,F,1990.0,Jordan,351
-,M,, Taylor ,79
-OK, F ,1951.0,Jennifer,82
-OK,M,1952.0, Jordan ,97
-OK,F,1943.0,Alex,85
-OK,M,2013.0,Casey,395
-OK,M,1964.0,Robert,112
-OK,M,1919.0,James,9
-OK,M,2006.0, Patricia ,472
-OK,F,1919.0,Alex,68
-OK,M,1971.0,Michael,437
-OK,M,1966.0,Michael,132
-OK,M,1928.0,Alex,229
-OK,M,1968.0,Jordan,693
-OK,F,1998.0,Linda,35
- OK ,M,1957.0,Taylor,287
-OK,M,1964.0,James,928
-OK,F,1987.0,Alex,28
-,M,1977.0,James,82
-OK, F ,1994.0,Jordan,51
-OK,,1927.0,Jordan,194
-OK, M ,1942.0,Robert,588
-OK,,1977.0,Patricia,103
-OK,M,1960.0,James,67
-OK,F,1987.0,Linda,65
-OK,F,1928.0,,29
-OK,F,2011.0,Casey,200
-OK,F,1983.0,Casey,74
-OK,F,2004.0,John,126
-OK,F,2013.0,Jennifer,247
- OK ,F,1980.0,Jennifer,
-OK,M,1940.0,John,20
-OK, F ,1942.0,Patricia,5
-OK,M,1930.0,Jordan,40
- OK , F ,1978.0,Alex,655
-OK,M,1961.0,James,847
-OK, M ,1990.0,James,534
-OK,F,1964.0, Alex ,213
-OK,M,1998.0,Casey,528
-,F,1986.0,Jordan,671
-OK,F,,Mary,589
-OK,M,1987.0,Robert,41
-OK,M,1972.0,Taylor,317
-OK, F ,2019.0,Casey,507
-OK,F,2016.0,Patricia,21
-OK,M,2015.0,Alex,158
-OK,F,1986.0, James ,66
-OK,F,2009.0,Mary,
-OK,F,2013.0,Jennifer,247
-,M,2015.0,James,153
-OK,M,1953.0,Jordan,146
-OK,F,1986.0,Jennifer,903
-OK,,2019.0,Jennifer,395
-OK,F,1988.0,Linda,410
-OK,M,1956.0,Jennifer,152
-OK,M,1981.0,,203
-OK,F,1970.0,Patricia,675
- OK ,F,1939.0,Casey,185
-OK,F,1917.0,Alex,120
-OK,F,2005.0,,315
-OK,M,,Casey,18
-OK,F,1915.0,jordan,27
-OK,F,1963.0,Alex,82
-OK,M,1914.0, Jordan ,8
-OK,M,2021.0,Michael,58
-OK,F,1949.0,Jennifer,131
-OK,M,1962.0,Jordan,
-OK,M,1989.0,,1152
-OK,M,2000.0, Alex ,233
-OK,F,1934.0,,34
-OK,F,1990.0,Linda,111
-OK,,,Mary,80
-OK,M,2002.0,Robert,104
-OK,F,1962.0,Jordan,19
-OK,M,1962.0,Casey,829
-,,1990.0,Alex,744
-OK, M ,2010.0, James ,168
-OK, F ,2006.0,Casey,10
-OK,F,1940.0,Taylor,10
-OK,M,1933.0,Casey,71
-OK,M,1963.0,John,134
-OK, F ,2004.0,Alex,36
-OK,F,2005.0,Casey,566
-OK,M,2022.0,Patricia,13
-OK,F,2019.0,Alex,21
-OK,M,1949.0,Alex,73
-,M,1912.0,Jordan,156
-OK,F,1971.0,Patricia,189
-OK,F,1960.0,Casey,209
-OK,F,,Jennifer,921
-OK,F,2001.0,Casey,128
-OK,F,1963.0,Linda,
-OK,M,1915.0,Alex,116
-OK,F,1993.0, Patricia ,359
-OK,F,1958.0,Taylor,353
-OK,M,1924.0,Mary,23
-OK,F,1932.0,Jordan,36
-OK,F,1914.0,Casey,21
-OK,M,2009.0,Michael,5
-OK,F,1962.0,,42
-OK, F ,1953.0,Mary,77
-OK, M ,1995.0,,146
- OK ,F,1978.0,Casey,672
- OK , F ,1991.0,Jennifer,438
-OK,M,2010.0,Michael,55
-OK,F,2006.0,jordan,65
-OK,M,1962.0,Jordan,
-OK,F,1962.0,Linda,653
-OK,F,2014.0,Jennifer,207
- OK ,M,1975.0,Alex,176
-OK,F,,Jordan,848
-OK,M,2019.0,Alex,61
- OK , F ,1971.0,Taylor,286
-OK,F,1956.0,Casey,101
-OK,M,, Casey ,213
-OK,M,1945.0, Robert ,603
-OK,F,1953.0,Jordan,
-,M,2000.0,Taylor,418
-OK,F,2020.0,Patricia,25
-OK,M,2016.0,Linda,11
- OK ,F,1956.0,Alex,231
-OK, F ,1956.0,Jennifer,287
- OK ,F,2015.0,Mary,180
-OK,M,1949.0,Michael,1015
-OK,M,1963.0,Alex,70
-OK,M,1993.0,Taylor,625
-OK,F,,Patricia,181
-OK,M,1990.0, Robert ,76
-,M,1955.0,Jordan,589
-OK,F,1977.0,Alex,336
-OK, F ,1976.0,Casey,253
-OK,M,1942.0,Jordan,12
-OK,F,1984.0,Robert,507
-OK,F,2002.0,,559
-OK,M,1983.0,Taylor,761
-OK,M,1983.0,Robert,525
-OK,M,1952.0,Taylor,340
-OK,F,2013.0,Jordan,27
-OK, F ,1989.0,,792
-OK,M,1995.0,John,925
-OK,M,1972.0,John,773
-,M,2003.0,Alex,
-OK,F,2003.0,Linda,37
- OK ,F,1938.0,Linda,137
-OK,M,1992.0,Mary,1182
-OK,F,1974.0,Jordan,569
-OK, M ,1984.0,James,97
-OK,M,2016.0,Casey,527
-OK, M ,1918.0, Casey ,22
-OK,M,2018.0,Michael,97
-OK,F,1983.0,Jordan,162
- OK ,M,,James,36
-OK,M,1985.0,Jordan,625
-OK,F,1966.0,Linda,440
-OK,M,2020.0,Alex,91
-OK,M,,John,185
-OK, M ,1983.0,Jordan,272
-OK,M,2008.0,michael,45
-OK,F,1961.0,james,363
-OK,F,1955.0,,25
-OK,M,1965.0,Robert,44
-OK,M,1970.0,Robert,432
- OK , F ,2018.0,Jordan,258
- OK ,F,1941.0,Casey,69
-OK,F,1975.0,Patricia,408
-OK,M,2007.0,Taylor,92
-OK,M,1958.0,Robert,763
-OK, F ,2018.0,Patricia,
-OK,F,2003.0,Jennifer,704
-OK,F,1946.0,Alex,657
-OK,M,2022.0,James,6
- OK , M ,2003.0,Robert,100
-OK,M,1958.0,,526
-OK,F,2011.0,Jordan,
-OK,M,1925.0,Michael,17
-OK,M,1929.0,Taylor,39
-OK,M,1957.0,Patricia,107
-OK,F,1958.0,Mary,479
-OK,M,1937.0,Robert,114
-OK,F,1941.0,Patricia,42
-OK, F ,2022.0,Mary,35
-OK,F,1976.0,,232
- OK , M ,1948.0,Michael,11
-,M,2019.0,Robert,32
-OK,M,1979.0,Alex,845
-OK,F,1920.0,Alex,38
- OK ,F,1955.0,Jennifer,41
- OK ,M,1971.0,Taylor,9
-OK,M,1939.0,John,114
-OK,F,1964.0,Jordan,318
- OK ,M,1971.0,Taylor,9
-OK, F ,1971.0,Linda,539
-OK,F,1992.0,Casey,292
-OK,M,1967.0,John,488
-OK,M,1923.0,John,200
-OK,M,2002.0,Taylor,861
-,,2006.0,Michael,586
- OK ,M,,Alex,234
-OK,F,1941.0, Jordan ,26
-OK, F ,1992.0,alex,550
-OK,M,2015.0,Michael,288
-OK,M,2009.0,Alex,383
-OK,M,1948.0,Robert,129
-OK,M,1975.0,Casey,1077
-OK,F,1973.0,Jordan,37
-OK,F,2007.0,Patricia,375
-OK,M,1982.0,Casey,396
-OK,M,2006.0,John,135
-OK,M,1990.0,Jordan,435
-OK,M,1920.0,John,250
-OK,F,1989.0, Linda ,266
-OK,M,1985.0,John,243
-OK,M,1955.0,John,42
-OK,F,2009.0,Jennifer,548
-OK,F,2014.0,,383
-OK,F,1969.0,Robert,247
-OK,F,1993.0,Alex,53
-OK,F,2003.0,Alex,94
-OK,F,1943.0,Casey,8
-OK,M,2014.0,Alex,121
-OK,F,2008.0,Linda,123
-OK,F,1934.0,Mary,12
-OK,F,2020.0,Linda,11
-OK,M,2019.0,Jordan,42
-OK,M,1996.0,Taylor,418
-OK,F,1986.0,Alex,5
-OK,M,1980.0,Jordan,
-OK,,1928.0,Robert,
- OK ,F,1929.0,Patricia,225
-OK,,1944.0,,16
-OK,F,1967.0,Patricia,973
-OK,F,2004.0,Taylor,598
-OK,F,2005.0,Taylor,173
-OK,F,1924.0,taylor,8
-OK,F,1952.0,Casey,713
-OK,M,1939.0,Casey,1095
-OK,M,2010.0,John,18
-OK,F,1972.0,Casey,209
-OK,F,1961.0,Jordan,709
-OK,F,1951.0,Jordan,20
-OK, F ,1981.0,Casey,141
-OK,F,1969.0,,320
-OK,M,1959.0,Taylor,87
-OK,M,1965.0,Alex,96
-OK,F,1926.0,Casey,43
-OK,F,2008.0,Mary,269
- OK ,F,1999.0,Jennifer,208
-OK, M ,1962.0,Michael,465
-OK,M,1943.0,Robert,7
-OK,M,2001.0,Taylor,91
-OK,F,2020.0, Casey ,98
-OK,M,1943.0,Casey,124
-OK,M,2022.0,Taylor,27
-OK,F,1923.0,Alex,8
-OK,M,1980.0,Robert,401
-,F,1981.0,Jennifer,261
- OK ,F,2019.0,Jordan,159
-OK,F,1974.0,linda,634
-OK,F,1951.0,Casey,154
-,M,2016.0,,133
-,M,1943.0,James,630
-OK,M,1920.0,,49
-OK,F,1986.0,Patricia,78
-OK,F,,Linda,
-OK,F,1958.0,Casey,62
-OK,F,1937.0,Jennifer,13
-OK,M,1933.0,James,37
-OK,F,2002.0,Jordan,132
-OK, M ,1957.0,Robert,370
-OK,M,2014.0,James,30
-OK,F,1936.0,Taylor,40
-OK,F,1948.0,Mary,15
-OK,M,1983.0,John,438
-OK,F,2005.0,Robert,609
-OK,F,1923.0,Patricia,48
-OK, M ,1981.0,John,91
-OK,M,1975.0,John,191
- OK ,F,1969.0,Jordan,120
- OK ,F,1985.0, Linda ,644
-OK,F,2010.0,Casey,416
-OK,M,1978.0,Robert,454
-OK,M,1953.0, Michael ,135
-OK,M,1977.0,Taylor,1062
-OK,F,1947.0,Jennifer,32
-OK,M,1998.0,James,507
-OK,M,1986.0,John,347
-,F,1922.0,Patricia,159
-OK,F,1935.0,Jennifer,153
-OK,M,1981.0,James,150
-OK, F ,2010.0,Linda,121
-OK,F,1977.0, James ,59
-OK,F,1973.0,Mary,
-OK,F,2018.0,,141
-OK,M,1977.0,Casey,58
-OK,M,1953.0,John,62
- OK ,F,1979.0,Casey,202
- OK ,M,2016.0,Michael,815
-OK,M,1979.0,Michael,433
-, M ,1956.0,,20
-OK,M,1929.0,,154
-OK,F,,James,302
-OK,F,1946.0,Taylor,135
-OK, F ,1992.0,alex,550
- OK ,F,1961.0, Alex ,369
-OK,M,,Jennifer,36
-OK,,2014.0,Casey,80
-OK,F,1980.0,Jordan,707
- OK , M ,1956.0,taylor,384
-OK,F,2019.0,Mary,22
-OK,F,1949.0,Linda,47
-OK,M,2018.0,John,345
-OK,F,1971.0,Alex,213
-OK,M,2004.0,James,70
- OK ,M,,Michael,506
-OK,F,1967.0,Mary,231
-OK,M,2012.0,,6
-OK,F,1955.0,Patricia,909
-OK,F,1970.0,Alex,472
-OK,M,1962.0,Robert,819
-OK,F,1938.0,Mary,119
-OK,M,2011.0,Jordan,64
-OK,F,1956.0,Mary,223
-,M,1977.0,John,548
-OK,M,1994.0,Robert,183
-OK,M,1923.0, Taylor ,
-OK,M,1978.0,Taylor,397
-OK,F,1951.0,Taylor,62
-OK,F,2014.0,Jennifer,207
-OK,,1959.0,Linda,1092
-,M,1974.0, Robert ,159
-OK, M ,1927.0,Alex,36
-OK,M,1992.0,Casey,303
-OK,M,1979.0,John,1251
-OK,F,1930.0,John,27
-OK,F,2017.0,Linda,37
-OK, F ,1943.0,jordan,193
-OK,F,1963.0,Jennifer,62
-OK,F,1965.0,Alex,656
-OK,F,2019.0,Taylor,
-OK,M,1979.0,Casey,260
-OK,M,1997.0,James,180
-OK,M,1978.0,Mary,267
-OK,M,2010.0,Jordan,
-OK,F,1984.0,Alex,
-OK,F,1987.0,Jennifer,86
-OK,F,1924.0,Jennifer,13
-OK,M,2017.0,Jordan,24
-OK,M,1921.0,Robert,6
-OK,F,1997.0,Taylor,209
-OK, M ,,Jordan,718
-OK,M,1945.0,Taylor,552
-OK,F,2021.0,Jennifer,81
-OK,F,1999.0,Patricia,21
-OK,,1984.0,Jennifer,123
- OK , M ,1977.0,Michael,424
-,M,2000.0,Casey,
-OK,M,1947.0,Taylor,579
-OK,M,1966.0,John,244
-OK,F,,Taylor,207
-OK,M,2006.0,Jordan,235
-OK, M ,2018.0,Alex,26
-OK,M,1948.0,Casey,53
-OK,F,1977.0,Jordan,569
- OK ,M,1982.0, Robert ,5
-OK,M,1951.0,Casey,46
-OK,F,1961.0,casey,332
-OK,M,2008.0,,19
-OK,F,1939.0,Jennifer,89
-OK,M,1931.0,,30
-OK,,1976.0,Casey,259
-OK,F,,Taylor,592
-OK, F ,1910.0, Patricia ,21
-OK,F,2002.0,Mary,392
-OK,F,1996.0,,184
-OK,F,1973.0,Jennifer,247
-OK,F,1972.0,John,245
-OK,F,2012.0,Taylor,
-OK, M ,1933.0,Jordan,19
-, F ,1999.0,Taylor,293
-,F,1927.0, Taylor ,35
- OK ,F,2013.0,Alex,19
-OK,F,1951.0,,
-OK,F,2013.0,Robert,399
-OK, F ,1945.0,Mary,263
- OK ,F,1970.0, Jennifer ,412
-OK, F ,1995.0,Mary,345
-OK,M,1991.0,Robert,300
-OK,M,1943.0,John,58
- OK ,F,1921.0,Jordan,8
-OK,F,1955.0,Taylor,998
-,F,1955.0,Jordan,259
- OK ,M,1935.0,James,515
-OK,F,1966.0,Jennifer,47
-OK,M,1936.0,Jordan,280
-OK,F,1914.0,Taylor,18
-OK,F,1978.0,Jennifer,830
-OK,F,1966.0,Alex,51
- OK ,F,2012.0,Mary,5
-OK,,1957.0,Patricia,151
-OK,M,2007.0,Michael,232
-OK,M,1970.0,Michael,652
-OK,F,1971.0,Casey,387
-OK,,2006.0,Taylor,95
-OK,F,1995.0,taylor,170
-OK,,1963.0,Taylor,11
-OK,F,1988.0, Casey ,
-,M,1937.0,Michael,106
-OK,F,1910.0,Jennifer,15
-OK,M,1949.0,John,370
-OK,M,1938.0,Taylor,305
-OK,M,1965.0,Jordan,115
-OK,M,1982.0,James,578
-,M,1942.0,Taylor,142
-OK,F,1966.0,Robert,91
-OK, F ,1969.0,Linda,41
-,,1999.0,Alex,348
-OK,M,2022.0,Jordan,140
- OK ,M,1972.0, Jordan ,633
-OK,M,2004.0,Taylor,806
- OK ,M,1938.0,John,8
-,F,,Casey,143
-OK,M,1987.0,James,228
-,F,2002.0,Jennifer,193
-OK,M,1935.0,Jordan,129
-OK,M,2014.0,Casey,18
-OK,M,1954.0,,404
-OK,,1940.0,Jennifer,52
-OK,M,1988.0,Casey,500
-OK,M,2020.0,James,35
-OK, F ,,Alex,12
-OK,M,1921.0,James,25
-OK,M,2012.0,Michael,
-OK,F,1978.0,Linda,22
-OK,F,1983.0,Alex,65
-OK,M,1912.0,James,13
-OK,M,2003.0,Casey,64
-OK,F,1969.0,Patricia,256
-OK,M,2015.0,John,57
-OK,F,2018.0,Linda,60
-OK,M,1998.0,Jennifer,6
-OK,F,1982.0,Alex,
-OK,M,1996.0,casey,1083
-,M,1991.0,John,546
-OK,F,1930.0,Mary,7
-OK,F,1982.0,Taylor,71
-OK,M,1934.0,Alex,14
-OK,F,1982.0,Jennifer,247
-OK,F,2017.0,Alex,354
-OK,M,1953.0,James,243
-OK,M,1961.0, John ,453
-OK,M,1995.0,Alex,137
-OK,F,2003.0,Taylor,26
- OK ,,1935.0,Alex,7
-OK,F,1941.0,Jennifer,11
-OK,M,1954.0, Taylor ,628
- OK ,F,2016.0,Casey,428
-OK,F,1942.0,Linda,368
-OK, F ,1916.0,,6
-OK,M,1985.0,Casey,284
-OK,M,1955.0,Robert,
- OK ,M,1986.0,Jordan,943
-OK,F,1943.0,Jennifer,1031
-OK,M,1949.0, Casey ,98
-OK,,1991.0,Linda,
-OK,M,,John,53
-OK,F,1933.0,Patricia,70
-OK,F,2010.0,Alex,230
-OK,M,1992.0,Taylor,656
-OK,M,2018.0,Taylor,41
-OK,M,2000.0,Michael,120
-OK,F,2004.0,Patricia,17
-OK, M ,2011.0,Robert,46
-OK,F,1944.0,Linda,25
-OK,M,1982.0,Taylor,287
+OK,F,1967,Alex,913
+OK,M,1989,Jordan,543
+OK,F,2011,Mary,729
+OK,M,1950,Taylor,204
 OK,M,,Michael,
-OK,F,1939.0,,739
-OK,F,1962.0,John,50
-OK,F,1972.0,Jennifer,91
-OK,M,1939.0,John,114
-OK,M,1945.0,alex,107
-OK,,1941.0,Taylor,246
-OK,F,1977.0,Mary,739
-OK,F,1985.0,Jordan,870
- OK ,F,2003.0,Jordan,335
+OK,M,1955,Michael,67
+OK,F,1993,Taylor,299
+OK,F,1980,Linda,482
+OK,M,1914,alex,17
+OK,M,1919,Robert,59
+OK,M,1955,James,81
+OK,F,1946,Jennifer,156
+OK,F,1998,Mary,573
+OK,M,1993,James,212
+OK,,1977,Patricia,103
+OK,F,1936,Linda,15
+OK,M,2020,John,
+OK,F,1995,Patricia,701
+OK,F,,Casey,622
+OK,F,2015,Jordan,531
+OK,M,1990,Michael,45
+OK,F,1980,Taylor,649
+OK,F,1957,James,30
+OK,M,1992,Jordan,564
+OK,F,2006,Jennifer,242
+OK,F,1998,Patricia,329
+OK,M,1969,Alex,523
+OK,M,2003,John,772
+OK,,1945,Jordan,137
+OK,F,1937,Jordan,114
+OK,M,2005,Alex,8
+OK,F,1912,Patricia,52
+OK,M,1929,alex,38
+OK,M,1912,John,44
+OK,M,1981,Alex,230
+OK,F,1970,Casey,133
+OK,M,1956,Michael,14
+OK,F,1926,,74
+OK,F,1991,Jordan,402
+OK,F,1947,Taylor,8
+OK,M,2013,Linda,38
+OK,F,2020,Alex,35
+OK,M,1989,Casey,720
+OK,M,1911,Casey,32
+OK,F,2010,Mary,841
+OK,M,1915,Jordan,16
+OK,M,2010,Casey,49
+,M,1969,Taylor,657
+OK,F,1983,Linda,873
+OK,F,1946,Casey,75
+OK,M,1954,Michael,180
+OK,M,1973,Taylor,224
+OK,F,1993,Jordan,146
+OK,M,1957,James,11
+OK,M,1929,John,342
+OK,M,,James,561
+,F,1950,Taylor,114
+OK,F,,Jennifer,364
+OK,F,1927,jordan,6
+OK,F,1940,,107
+OK,F,,Patricia,19
+OK,M,1954,Alex,144
+OK,F,1941,Mary,310
+OK,M,1950,James,10
+OK,F,1994,Mary,117
+OK,M,2020,Casey,
+OK,M,1944,Robert,542
+OK,F,1924,Mary,37
+OK,F,,Alex,9
+OK,M,1992,Patricia,394
+OK,F,1964,Patricia,66
+OK,M,,Casey,
+OK,F,1928,Alex,159
+OK,M,1943,,10
+OK,M,1979,,443
+OK,F,1977,Taylor,361
+OK,,1986,Taylor,617
+OK,F,1985,Patricia,313
+OK,,2002,Casey,39
+OK,M,1940,Robert,8
+OK,F,1947,Mary,
+OK,F,1948,Jennifer,60
+OK,F,1995,Jennifer,70
+OK,M,1930,James,23
+OK,F,1986,Linda,536
+OK,F,1974,Patricia,1072
+,F,1929,Jordan,67
+OK,F,1958,Linda,402
+OK,F,2005,Linda,521
+OK,M,1973,,156
+OK,M,1990,Casey,668
+OK,,2003,Casey,24
+OK,F,1946,Casey,75
+OK,M,1967,Jordan,181
+OK,F,2005,Jennifer,60
+OK,M,1939,Robert,9
+OK,F,2008,jennifer,6
+OK,F,2017,Jennifer,99
+OK,F,,casey,357
+OK,M,1914,James,65
+OK,M,2016,Jordan,38
+OK,F,1989,Alex,34
+OK,M,2015,Casey,87
+OK,F,1929,Casey,11
+OK,F,2005,Jordan,163
+OK,M,2005,Linda,875
+OK,M,1985,Alex,276
+OK,M,1939,Alex,275
+OK,F,1946,Linda,23
+OK,M,1972,Robert,674
+OK,F,1987,Jordan,339
+OK,F,2012,Jennifer,
+OK,F,1970,Jordan,636
+OK,F,2007,Michael,234
+OK,M,2005,Michael,617
+OK,M,1957,Alex,665
+OK,F,2016,taylor,17
+OK,M,1983,Alex,156
+OK,M,1959,John,
+OK,M,,Jordan,715
+OK,M,2004,Alex,254
+OK,M,1965,Casey,325
+OK,F,1932,Jennifer,30
+OK,F,1979,John,307
+OK,F,1924,Linda,79
+OK,F,2004,Casey,401
+OK,M,1978,Casey,675
+OK,M,1985,Taylor,272
+OK,F,,Alex,494
+OK,M,1971,Casey,446
+OK,F,1988,Taylor,854
+OK,F,1988,Linda,410
+,M,1976,James,461
+OK,M,1959,Jordan,373
+OK,F,1940,Linda,46
+OK,F,1957,Alex,15
+OK,M,1934,Casey,7
+OK,F,1994,Casey,419
+OK,M,1960,Alex,371
+OK,M,1966,Taylor,73
+OK,F,2008,Jordan,81
+OK,F,2021,Mary,6
+OK,F,1993,Jordan,146
+OK,M,2019,John,57
+OK,F,1966,Taylor,21
+OK,F,1994,Linda,
+OK,F,1999,Mary,50
+OK,F,2018,Jennifer,21
+OK,F,1960,Patricia,110
+OK,M,1942,Casey,61
+OK,M,2013,James,56
+OK,M,1944,Jordan,184
+OK,F,1945,Patricia,92
+OK,F,1972,Alex,614
+OK,F,1992,Mary,168
+OK,M,1976,John,704
+OK,F,2010,Jennifer,167
+OK,F,1954,Patricia,361
+OK,F,1975,Linda,543
+OK,M,1925,James,43
+OK,F,2017,Jordan,135
+OK,F,1993,Jennifer,81
+OK,F,2015,Alex,603
+OK,M,,Jordan,63
+OK,M,1949,Jordan,450
+OK,M,1991,jordan,769
+OK,,1916,John,41
+OK,F,1962,Robert,153
+,F,1996,Taylor,70
+OK,M,1930,Casey,448
+OK,F,1947,Casey,91
+OK,M,1990,,413
+OK,M,1940,Jordan,166
+OK,,1960,Robert,372
+OK,M,1940,Michael,394
+OK,M,1927,Casey,263
+OK,F,1970,Taylor,141
+OK,M,1961,Alex,65
+OK,M,1951,Robert,306
+OK,M,1994,John,930
+OK,M,1944,John,32
+OK,F,1942,Alex,183
+OK,M,1975,Robert,217
+OK,F,1995,Linda,223
+OK,M,1974,Taylor,347
+OK,F,1994,Jennifer,39
+OK,M,1957,Casey,77
+OK,F,1997,Linda,725
+OK,M,1940,Casey,50
+OK,M,1941,Michael,44
+OK,M,1926,Jordan,389
+OK,F,2016,Jordan,32
+OK,M,1942,linda,41
+OK,F,1974,Taylor,474
+OK,F,1965,Patricia,665
+OK,F,1937,Mary,
+OK,F,1969,Casey,536
+OK,M,2009,Taylor,23
+OK,F,1992,Linda,382
+OK,,2006,Alex,243
+OK,F,1913,,76
+OK,M,2008,James,6
+OK,,1954,Mary,1419
+OK,F,1975,Casey,747
+OK,M,1920,Jordan,113
+OK,F,2014,Linda,118
+OK,F,1917,Jennifer,7
+OK,M,1975,Michael,165
+OK,F,1954,mary,183
+OK,M,1944,Alex,289
+OK,F,,John,
+OK,F,1916,,6
+OK,F,1999,Jordan,719
+OK,F,1959,Mary,598
+,M,1971,James,747
+,M,1984,,105
+OK,F,2000,Casey,87
+OK,M,2007,Jordan,7
+OK,F,2007,Taylor,55
+OK,F,2001,Taylor,599
+OK,M,1959,Casey,
+OK,M,1945,casey,8
+OK,M,1980,Casey,474
+OK,F,1989,Patricia,73
+OK,M,2016,Alex,15
+OK,M,1959,Patricia,215
+OK,M,2002,Jordan,744
+OK,M,1923,Casey,300
+OK,M,2003,James,463
+OK,M,1999,Casey,745
+OK,F,1996,Patricia,123
+OK,F,2011,Patricia,24
+OK,F,1994,Taylor,472
+OK,F,1930,Patricia,204
+OK,F,1964,Michael,114
+OK,M,1967,Casey,496
+OK,M,1974,jordan,580
+OK,F,1957,Taylor,296
+OK,M,2001,James,30
+OK,F,,Casey,835
+OK,F,1958,Alex,415
+,F,2002,John,109
+OK,F,1975,jennifer,1087
+OK,M,1962,Casey,829
+,M,1967,Taylor,149
+OK,F,1992,Jordan,869
+OK,F,1994,John,249
+OK,M,1994,Michael,493
+OK,F,1981,Linda,561
+OK,F,1931,Jordan,44
+OK,M,1952,Alex,40
+OK,F,2000,Alex,53
+OK,,1914,Linda,82
+OK,F,1949,Patricia,432
+OK,F,1942,Jennifer,77
+OK,F,1911,Jordan,108
+OK,F,1945,Jennifer,280
+OK,F,1932,Jordan,36
+OK,F,2009,Taylor,
+OK,F,1972,Taylor,671
+OK,M,1984,Casey,69
+OK,M,1982,Michael,92
+OK,M,1993,Alex,766
+,F,1974,Jennifer,609
+OK,F,1980,,775
+OK,M,1983,Casey,515
+,F,1988,Alex,872
+OK,F,1990,Patricia,434
+OK,F,1926,Taylor,5
+OK,M,1974,Michael,320
+OK,M,1919,Mary,236
+OK,F,2022,Alex,301
+OK,M,1952,Robert,
+OK,F,1943,Taylor,136
+OK,M,1963,James,428
+,,1937,Taylor,14
+OK,M,2004,Casey,575
+OK,M,1936,Robert,22
+OK,M,1994,Taylor,688
+OK,F,1979,Mary,301
+OK,F,2008,Casey,
+OK,F,1979,Linda,11
+OK,F,2020,Jennifer,13
+OK,F,1977,Casey,389
+OK,F,1920,Casey,9
+OK,F,1978,Taylor,1102
+OK,F,2022,Casey,17
+OK,M,1957,,141
+OK,F,1987,Linda,65
+OK,M,2002,James,167
+OK,M,1995,Casey,35
+OK,F,1978,Mary,514
+OK,F,,,401
+OK,M,2004,Michael,215
+OK,F,2011,Jennifer,73
+OK,M,1917,Michael,52
+OK,M,1974,John,876
+OK,,1981,Michael,1261
+OK,F,1981,Alex,103
+OK,F,1977,,541
+OK,M,1949,Robert,510
+OK,F,1916,Alex,
+OK,F,1974,James,123
+OK,F,1997,Alex,43
+OK,F,1993,Linda,92
+OK,M,1945,John,
+OK,F,1987,Mary,295
+OK,M,1960,Casey,549
+OK,M,1992,Alex,535
+OK,F,1952,Casey,713
+OK,M,1971,Jordan,99
+OK,M,1941,,118
+OK,F,1963,,126
+OK,F,1957,Jordan,63
+OK,F,1951,Mary,303
+OK,M,1999,James,297
+,M,2005,Jordan,55
+OK,M,1951,Taylor,30
+OK,M,2015,Taylor,68
+OK,F,1998,Taylor,18
+OK,M,1963,Robert,82
+OK,M,2016,John,297
+OK,M,1941,Jordan,175
+OK,M,1959,James,17
+,F,1917,Patricia,154
+OK,M,1946,Jordan,10
+OK,F,1997,Jennifer,20
+OK,M,2009,Jordan,30
+OK,M,2008,Taylor,108
+OK,M,1927,Taylor,31
+OK,M,2010,Robert,143
+OK,M,1950,casey,84
+OK,F,2012,Casey,51
+OK,M,1981,Robert,938
+OK,F,1963,Casey,419
+OK,F,1969,Alex,70
+OK,F,1975,Alex,669
+OK,F,1942,Taylor,6
+OK,F,2000,Taylor,27
+OK,M,1948,John,281
+OK,,1992,Taylor,360
+OK,M,2009,Robert,54
+OK,M,2013,Jordan,5
+OK,M,1943,Taylor,105
+OK,F,1965,Mary,135
+OK,,1979,James,394
+OK,F,1953,Patricia,41
+OK,M,2011,Casey,48
+OK,M,2007,James,85
+OK,M,1970,Alex,238
+OK,F,1967,Jordan,505
+OK,M,1965,James,357
+OK,,1949,Casey,62
+OK,M,1910,Michael,60
+OK,M,1969,John,560
+OK,F,1990,Jordan,351
+,M,,Taylor,79
+OK,F,1951,Jennifer,82
+OK,M,1952,Jordan,97
+OK,F,1943,Alex,85
+OK,M,2013,Casey,395
+OK,M,1964,Robert,112
+OK,M,1919,James,9
+OK,M,2006,Patricia,472
+OK,F,1919,Alex,68
+OK,M,1971,Michael,437
+OK,M,1966,Michael,132
+OK,M,1928,Alex,229
+OK,M,1968,Jordan,693
+OK,F,1998,Linda,35
+OK,M,1957,Taylor,287
+OK,M,1964,James,928
+OK,F,1987,Alex,28
+,M,1977,James,82
+OK,F,1994,Jordan,51
+OK,,1927,Jordan,194
+OK,M,1942,Robert,588
+OK,,1977,Patricia,103
+OK,M,1960,James,67
+OK,F,1987,Linda,65
+OK,F,1928,,29
+OK,F,2011,Casey,200
+OK,F,1983,Casey,74
+OK,F,2004,John,126
+OK,F,2013,Jennifer,247
+OK,F,1980,Jennifer,
+OK,M,1940,John,20
+OK,F,1942,Patricia,5
+OK,M,1930,Jordan,40
+OK,F,1978,Alex,655
+OK,M,1961,James,847
+OK,M,1990,James,534
+OK,F,1964,Alex,213
+OK,M,1998,Casey,528
+,F,1986,Jordan,671
+OK,F,,Mary,589
+OK,M,1987,Robert,41
+OK,M,1972,Taylor,317
+OK,F,2019,Casey,507
+OK,F,2016,Patricia,21
+OK,M,2015,Alex,158
+OK,F,1986,James,66
+OK,F,2009,Mary,
+OK,F,2013,Jennifer,247
+,M,2015,James,153
+OK,M,1953,Jordan,146
+OK,F,1986,Jennifer,903
+OK,,2019,Jennifer,395
+OK,F,1988,Linda,410
+OK,M,1956,Jennifer,152
+OK,M,1981,,203
+OK,F,1970,Patricia,675
+OK,F,1939,Casey,185
+OK,F,1917,Alex,120
+OK,F,2005,,315
+OK,M,,Casey,18
+OK,F,1915,jordan,27
+OK,F,1963,Alex,82
+OK,M,1914,Jordan,8
+OK,M,2021,Michael,58
+OK,F,1949,Jennifer,131
+OK,M,1962,Jordan,
+OK,M,1989,,1152
+OK,M,2000,Alex,233
+OK,F,1934,,34
+OK,F,1990,Linda,111
+OK,,,Mary,80
+OK,M,2002,Robert,104
+OK,F,1962,Jordan,19
+OK,M,1962,Casey,829
+,,1990,Alex,744
+OK,M,2010,James,168
+OK,F,2006,Casey,10
+OK,F,1940,Taylor,10
+OK,M,1933,Casey,71
+OK,M,1963,John,134
+OK,F,2004,Alex,36
+OK,F,2005,Casey,566
+OK,M,2022,Patricia,13
+OK,F,2019,Alex,21
+OK,M,1949,Alex,73
+,M,1912,Jordan,156
+OK,F,1971,Patricia,189
+OK,F,1960,Casey,209
+OK,F,,Jennifer,921
+OK,F,2001,Casey,128
+OK,F,1963,Linda,
+OK,M,1915,Alex,116
+OK,F,1993,Patricia,359
+OK,F,1958,Taylor,353
+OK,M,1924,Mary,23
+OK,F,1932,Jordan,36
+OK,F,1914,Casey,21
+OK,M,2009,Michael,5
+OK,F,1962,,42
+OK,F,1953,Mary,77
+OK,M,1995,,146
+OK,F,1978,Casey,672
+OK,F,1991,Jennifer,438
+OK,M,2010,Michael,55
+OK,F,2006,jordan,65
+OK,M,1962,Jordan,
+OK,F,1962,Linda,653
+OK,F,2014,Jennifer,207
+OK,M,1975,Alex,176
+OK,F,,Jordan,848
+OK,M,2019,Alex,61
+OK,F,1971,Taylor,286
+OK,F,1956,Casey,101
+OK,M,,Casey,213
+OK,M,1945,Robert,603
+OK,F,1953,Jordan,
+,M,2000,Taylor,418
+OK,F,2020,Patricia,25
+OK,M,2016,Linda,11
+OK,F,1956,Alex,231
+OK,F,1956,Jennifer,287
+OK,F,2015,Mary,180
+OK,M,1949,Michael,1015
+OK,M,1963,Alex,70
+OK,M,1993,Taylor,625
+OK,F,,Patricia,181
+OK,M,1990,Robert,76
+,M,1955,Jordan,589
+OK,F,1977,Alex,336
+OK,F,1976,Casey,253
+OK,M,1942,Jordan,12
+OK,F,1984,Robert,507
+OK,F,2002,,559
+OK,M,1983,Taylor,761
+OK,M,1983,Robert,525
+OK,M,1952,Taylor,340
+OK,F,2013,Jordan,27
+OK,F,1989,,792
+OK,M,1995,John,925
+OK,M,1972,John,773
+,M,2003,Alex,
+OK,F,2003,Linda,37
+OK,F,1938,Linda,137
+OK,M,1992,Mary,1182
+OK,F,1974,Jordan,569
+OK,M,1984,James,97
+OK,M,2016,Casey,527
+OK,M,1918,Casey,22
+OK,M,2018,Michael,97
+OK,F,1983,Jordan,162
+OK,M,,James,36
+OK,M,1985,Jordan,625
+OK,F,1966,Linda,440
+OK,M,2020,Alex,91
+OK,M,,John,185
+OK,M,1983,Jordan,272
+OK,M,2008,michael,45
+OK,F,1961,james,363
+OK,F,1955,,25
+OK,M,1965,Robert,44
+OK,M,1970,Robert,432
+OK,F,2018,Jordan,258
+OK,F,1941,Casey,69
+OK,F,1975,Patricia,408
+OK,M,2007,Taylor,92
+OK,M,1958,Robert,763
+OK,F,2018,Patricia,
+OK,F,2003,Jennifer,704
+OK,F,1946,Alex,657
+OK,M,2022,James,6
+OK,M,2003,Robert,100
+OK,M,1958,,526
+OK,F,2011,Jordan,
+OK,M,1925,Michael,17
+OK,M,1929,Taylor,39
+OK,M,1957,Patricia,107
+OK,F,1958,Mary,479
+OK,M,1937,Robert,114
+OK,F,1941,Patricia,42
+OK,F,2022,Mary,35
+OK,F,1976,,232
+OK,M,1948,Michael,11
+,M,2019,Robert,32
+OK,M,1979,Alex,845
+OK,F,1920,Alex,38
+OK,F,1955,Jennifer,41
+OK,M,1971,Taylor,9
+OK,M,1939,John,114
+OK,F,1964,Jordan,318
+OK,M,1971,Taylor,9
+OK,F,1971,Linda,539
+OK,F,1992,Casey,292
+OK,M,1967,John,488
+OK,M,1923,John,200
+OK,M,2002,Taylor,861
+,,2006,Michael,586
+OK,M,,Alex,234
+OK,F,1941,Jordan,26
+OK,F,1992,alex,550
+OK,M,2015,Michael,288
+OK,M,2009,Alex,383
+OK,M,1948,Robert,129
+OK,M,1975,Casey,1077
+OK,F,1973,Jordan,37
+OK,F,2007,Patricia,375
+OK,M,1982,Casey,396
+OK,M,2006,John,135
+OK,M,1990,Jordan,435
+OK,M,1920,John,250
+OK,F,1989,Linda,266
+OK,M,1985,John,243
+OK,M,1955,John,42
+OK,F,2009,Jennifer,548
+OK,F,2014,,383
+OK,F,1969,Robert,247
+OK,F,1993,Alex,53
+OK,F,2003,Alex,94
+OK,F,1943,Casey,8
+OK,M,2014,Alex,121
+OK,F,2008,Linda,123
+OK,F,1934,Mary,12
+OK,F,2020,Linda,11
+OK,M,2019,Jordan,42
+OK,M,1996,Taylor,418
+OK,F,1986,Alex,5
+OK,M,1980,Jordan,
+OK,,1928,Robert,
+OK,F,1929,Patricia,225
+OK,,1944,,16
+OK,F,1967,Patricia,973
+OK,F,2004,Taylor,598
+OK,F,2005,Taylor,173
+OK,F,1924,taylor,8
+OK,F,1952,Casey,713
+OK,M,1939,Casey,1095
+OK,M,2010,John,18
+OK,F,1972,Casey,209
+OK,F,1961,Jordan,709
+OK,F,1951,Jordan,20
+OK,F,1981,Casey,141
+OK,F,1969,,320
+OK,M,1959,Taylor,87
+OK,M,1965,Alex,96
+OK,F,1926,Casey,43
+OK,F,2008,Mary,269
+OK,F,1999,Jennifer,208
+OK,M,1962,Michael,465
+OK,M,1943,Robert,7
+OK,M,2001,Taylor,91
+OK,F,2020,Casey,98
+OK,M,1943,Casey,124
+OK,M,2022,Taylor,27
+OK,F,1923,Alex,8
+OK,M,1980,Robert,401
+,F,1981,Jennifer,261
+OK,F,2019,Jordan,159
+OK,F,1974,linda,634
+OK,F,1951,Casey,154
+,M,2016,,133
+,M,1943,James,630
+OK,M,1920,,49
+OK,F,1986,Patricia,78
+OK,F,,Linda,
+OK,F,1958,Casey,62
+OK,F,1937,Jennifer,13
+OK,M,1933,James,37
+OK,F,2002,Jordan,132
+OK,M,1957,Robert,370
+OK,M,2014,James,30
+OK,F,1936,Taylor,40
+OK,F,1948,Mary,15
+OK,M,1983,John,438
+OK,F,2005,Robert,609
+OK,F,1923,Patricia,48
+OK,M,1981,John,91
+OK,M,1975,John,191
+OK,F,1969,Jordan,120
+OK,F,1985,Linda,644
+OK,F,2010,Casey,416
+OK,M,1978,Robert,454
+OK,M,1953,Michael,135
+OK,M,1977,Taylor,1062
+OK,F,1947,Jennifer,32
+OK,M,1998,James,507
+OK,M,1986,John,347
+,F,1922,Patricia,159
+OK,F,1935,Jennifer,153
+OK,M,1981,James,150
+OK,F,2010,Linda,121
+OK,F,1977,James,59
+OK,F,1973,Mary,
+OK,F,2018,,141
+OK,M,1977,Casey,58
+OK,M,1953,John,62
+OK,F,1979,Casey,202
+OK,M,2016,Michael,815
+OK,M,1979,Michael,433
+,M,1956,,20
+OK,M,1929,,154
+OK,F,,James,302
+OK,F,1946,Taylor,135
+OK,F,1992,alex,550
+OK,F,1961,Alex,369
+OK,M,,Jennifer,36
+OK,,2014,Casey,80
+OK,F,1980,Jordan,707
+OK,M,1956,taylor,384
+OK,F,2019,Mary,22
+OK,F,1949,Linda,47
+OK,M,2018,John,345
+OK,F,1971,Alex,213
+OK,M,2004,James,70
+OK,M,,Michael,506
+OK,F,1967,Mary,231
+OK,M,2012,,6
+OK,F,1955,Patricia,909
+OK,F,1970,Alex,472
+OK,M,1962,Robert,819
+OK,F,1938,Mary,119
+OK,M,2011,Jordan,64
+OK,F,1956,Mary,223
+,M,1977,John,548
+OK,M,1994,Robert,183
+OK,M,1923,Taylor,
+OK,M,1978,Taylor,397
+OK,F,1951,Taylor,62
+OK,F,2014,Jennifer,207
+OK,,1959,Linda,1092
+,M,1974,Robert,159
+OK,M,1927,Alex,36
+OK,M,1992,Casey,303
+OK,M,1979,John,1251
+OK,F,1930,John,27
+OK,F,2017,Linda,37
+OK,F,1943,jordan,193
+OK,F,1963,Jennifer,62
+OK,F,1965,Alex,656
+OK,F,2019,Taylor,
+OK,M,1979,Casey,260
+OK,M,1997,James,180
+OK,M,1978,Mary,267
+OK,M,2010,Jordan,
+OK,F,1984,Alex,
+OK,F,1987,Jennifer,86
+OK,F,1924,Jennifer,13
+OK,M,2017,Jordan,24
+OK,M,1921,Robert,6
+OK,F,1997,Taylor,209
+OK,M,,Jordan,718
+OK,M,1945,Taylor,552
+OK,F,2021,Jennifer,81
+OK,F,1999,Patricia,21
+OK,,1984,Jennifer,123
+OK,M,1977,Michael,424
+,M,2000,Casey,
+OK,M,1947,Taylor,579
+OK,M,1966,John,244
+OK,F,,Taylor,207
+OK,M,2006,Jordan,235
+OK,M,2018,Alex,26
+OK,M,1948,Casey,53
+OK,F,1977,Jordan,569
+OK,M,1982,Robert,5
+OK,M,1951,Casey,46
+OK,F,1961,casey,332
+OK,M,2008,,19
+OK,F,1939,Jennifer,89
+OK,M,1931,,30
+OK,,1976,Casey,259
+OK,F,,Taylor,592
+OK,F,1910,Patricia,21
+OK,F,2002,Mary,392
+OK,F,1996,,184
+OK,F,1973,Jennifer,247
+OK,F,1972,John,245
+OK,F,2012,Taylor,
+OK,M,1933,Jordan,19
+,F,1999,Taylor,293
+,F,1927,Taylor,35
+OK,F,2013,Alex,19
+OK,F,1951,,
+OK,F,2013,Robert,399
+OK,F,1945,Mary,263
+OK,F,1970,Jennifer,412
+OK,F,1995,Mary,345
+OK,M,1991,Robert,300
+OK,M,1943,John,58
+OK,F,1921,Jordan,8
+OK,F,1955,Taylor,998
+,F,1955,Jordan,259
+OK,M,1935,James,515
+OK,F,1966,Jennifer,47
+OK,M,1936,Jordan,280
+OK,F,1914,Taylor,18
+OK,F,1978,Jennifer,830
+OK,F,1966,Alex,51
+OK,F,2012,Mary,5
+OK,,1957,Patricia,151
+OK,M,2007,Michael,232
+OK,M,1970,Michael,652
+OK,F,1971,Casey,387
+OK,,2006,Taylor,95
+OK,F,1995,taylor,170
+OK,,1963,Taylor,11
+OK,F,1988,Casey,
+,M,1937,Michael,106
+OK,F,1910,Jennifer,15
+OK,M,1949,John,370
+OK,M,1938,Taylor,305
+OK,M,1965,Jordan,115
+OK,M,1982,James,578
+,M,1942,Taylor,142
+OK,F,1966,Robert,91
+OK,F,1969,Linda,41
+,,1999,Alex,348
+OK,M,2022,Jordan,140
+OK,M,1972,Jordan,633
+OK,M,2004,Taylor,806
+OK,M,1938,John,8
+,F,,Casey,143
+OK,M,1987,James,228
+,F,2002,Jennifer,193
+OK,M,1935,Jordan,129
+OK,M,2014,Casey,18
+OK,M,1954,,404
+OK,,1940,Jennifer,52
+OK,M,1988,Casey,500
+OK,M,2020,James,35
+OK,F,,Alex,12
+OK,M,1921,James,25
+OK,M,2012,Michael,
+OK,F,1978,Linda,22
+OK,F,1983,Alex,65
+OK,M,1912,James,13
+OK,M,2003,Casey,64
+OK,F,1969,Patricia,256
+OK,M,2015,John,57
+OK,F,2018,Linda,60
+OK,M,1998,Jennifer,6
+OK,F,1982,Alex,
+OK,M,1996,casey,1083
+,M,1991,John,546
+OK,F,1930,Mary,7
+OK,F,1982,Taylor,71
+OK,M,1934,Alex,14
+OK,F,1982,Jennifer,247
+OK,F,2017,Alex,354
+OK,M,1953,James,243
+OK,M,1961,John,453
+OK,M,1995,Alex,137
+OK,F,2003,Taylor,26
+OK,,1935,Alex,7
+OK,F,1941,Jennifer,11
+OK,M,1954,Taylor,628
+OK,F,2016,Casey,428
+OK,F,1942,Linda,368
+OK,F,1916,,6
+OK,M,1985,Casey,284
+OK,M,1955,Robert,
+OK,M,1986,Jordan,943
+OK,F,1943,Jennifer,1031
+OK,M,1949,Casey,98
+OK,,1991,Linda,
+OK,M,,John,53
+OK,F,1933,Patricia,70
+OK,F,2010,Alex,230
+OK,M,1992,Taylor,656
+OK,M,2018,Taylor,41
+OK,M,2000,Michael,120
+OK,F,2004,Patricia,17
+OK,M,2011,Robert,46
+OK,F,1944,Linda,25
+OK,M,1982,Taylor,287
+OK,M,,Michael,
+OK,F,1939,,739
+OK,F,1962,John,50
+OK,F,1972,Jennifer,91
+OK,M,1939,John,114
+OK,M,1945,alex,107
+OK,,1941,Taylor,246
+OK,F,1977,Mary,739
+OK,F,1985,Jordan,870
+OK,F,2003,Jordan,335
 OK,M,,Alex,258
-,F,2004.0,Jennifer,64
-OK, M ,1932.0,Michael,126
- OK ,M,,john,234
-OK,M,1953.0,Casey,295
-OK,M,1963.0,Michael,124
-OK,M,1985.0,Robert,444
-OK, F ,1994.0, Casey ,419
-OK,F,1988.0,jennifer,60
+,F,2004,Jennifer,64
+OK,M,1932,Michael,126
+OK,M,,john,234
+OK,M,1953,Casey,295
+OK,M,1963,Michael,124
+OK,M,1985,Robert,444
+OK,F,1994,Casey,419
+OK,F,1988,jennifer,60
 OK,M,,Robert,43
-OK,M,2013.0,Michael,109
-OK,M,1945.0,James,238
-OK,M,1975.0,Jordan,169
-OK,F,1987.0,Taylor,272
-OK,F,1968.0,Patricia,57
-OK,M,1943.0,Alex,27
-OK,M,1971.0,Robert,257
-OK,M,2017.0,Robert,11
-OK, F ,1915.0,Linda,14
- OK ,F,2013.0,Taylor,182
-OK,M,1999.0,John,282
- OK ,M,2012.0,Casey,1040
-OK,F,1915.0,Jennifer,5
-OK,F,1965.0,Taylor,211
-OK,F,1980.0,Patricia,195
-OK, F ,1965.0,Jennifer,383
-OK,F,1962.0,Mary,243
-OK,M,1997.0,Alex,40
-OK, F ,2006.0,Alex,14
-OK,F,2009.0,Jordan,325
-OK,M,1926.0,Taylor,173
-OK,M,1999.0,,198
-OK, M ,1924.0,michael,13
-OK,F,1981.0,Patricia,208
-,M,1970.0,John,165
-OK,M,1992.0,Robert,130
-,F,1923.0,Mary,7
-OK,M,1990.0,Michael,45
-OK,F,1968.0,Mary,182
-OK,F,1961.0,Jennifer,114
-OK,M,1970.0,Jordan,223
-OK,F,2021.0,Jordan,61
-OK,F,1990.0,Taylor,201
-OK,,1954.0,John,163
-OK,,1936.0,Alex,123
-OK,F,1940.0,Robert,18
-OK,M,1958.0,John,155
-OK,,1932.0,casey,17
-OK,M,1935.0,Alex,267
-OK,M,2016.0,Jennifer,71
-OK,F,1948.0,Casey,46
-OK,M,2009.0,,38
-OK,M,1984.0,Robert,505
-OK,M,2014.0,Taylor,349
-OK,F,1947.0,,29
-OK,M,1973.0,robert,699
-OK,F,1950.0,Casey,8
-OK, F ,1985.0, Taylor ,344
-OK,F,1951.0,Linda,489
-OK,M,1979.0,Robert,905
-OK, M ,1958.0,Taylor,22
-OK,M,1920.0,Linda,157
-OK, F ,1973.0,John,26
-OK,M,1924.0,Casey,21
-OK,F,1961.0,taylor,110
-OK, F ,1996.0,Jennifer,208
-OK,M,2020.0,Robert,245
- OK ,F,1957.0,Mary,203
-, F ,2010.0,Taylor,250
-OK, F ,1961.0,Mary,54
-OK,M,2012.0,james,202
-OK,F,1975.0,Michael,792
-OK,M,1972.0,Casey,187
-OK,M,2015.0,Jordan,187
-OK,F,1997.0,,377
-OK,F,1976.0, Linda ,779
-,F,1982.0,Mary,75
-OK,M,2005.0,Robert,183
-OK,F,2008.0,alex,655
-,F,1920.0,Mary,10
-OK,M,1988.0,John,323
- OK ,F,1967.0,Casey,8
-OK,F,1950.0,Jennifer,108
-OK,F,2012.0,Jordan,61
-OK,,1991.0,Patricia,413
-OK,F,2013.0, Casey ,173
-OK,M,2006.0,Casey,25
-OK,F,1958.0,Patricia,123
-OK,M,1962.0,alex,
-OK,F,1990.0,Jennifer,244
-OK,F,1979.0,Taylor,87
-OK, F ,1985.0,,627
-OK,M,1968.0,Michael,109
-OK,M,1930.0, Robert ,232
+OK,M,2013,Michael,109
+OK,M,1945,James,238
+OK,M,1975,Jordan,169
+OK,F,1987,Taylor,272
+OK,F,1968,Patricia,57
+OK,M,1943,Alex,27
+OK,M,1971,Robert,257
+OK,M,2017,Robert,11
+OK,F,1915,Linda,14
+OK,F,2013,Taylor,182
+OK,M,1999,John,282
+OK,M,2012,Casey,1040
+OK,F,1915,Jennifer,5
+OK,F,1965,Taylor,211
+OK,F,1980,Patricia,195
+OK,F,1965,Jennifer,383
+OK,F,1962,Mary,243
+OK,M,1997,Alex,40
+OK,F,2006,Alex,14
+OK,F,2009,Jordan,325
+OK,M,1926,Taylor,173
+OK,M,1999,,198
+OK,M,1924,michael,13
+OK,F,1981,Patricia,208
+,M,1970,John,165
+OK,M,1992,Robert,130
+,F,1923,Mary,7
+OK,M,1990,Michael,45
+OK,F,1968,Mary,182
+OK,F,1961,Jennifer,114
+OK,M,1970,Jordan,223
+OK,F,2021,Jordan,61
+OK,F,1990,Taylor,201
+OK,,1954,John,163
+OK,,1936,Alex,123
+OK,F,1940,Robert,18
+OK,M,1958,John,155
+OK,,1932,casey,17
+OK,M,1935,Alex,267
+OK,M,2016,Jennifer,71
+OK,F,1948,Casey,46
+OK,M,2009,,38
+OK,M,1984,Robert,505
+OK,M,2014,Taylor,349
+OK,F,1947,,29
+OK,M,1973,robert,699
+OK,F,1950,Casey,8
+OK,F,1985,Taylor,344
+OK,F,1951,Linda,489
+OK,M,1979,Robert,905
+OK,M,1958,Taylor,22
+OK,M,1920,Linda,157
+OK,F,1973,John,26
+OK,M,1924,Casey,21
+OK,F,1961,taylor,110
+OK,F,1996,Jennifer,208
+OK,M,2020,Robert,245
+OK,F,1957,Mary,203
+,F,2010,Taylor,250
+OK,F,1961,Mary,54
+OK,M,2012,james,202
+OK,F,1975,Michael,792
+OK,M,1972,Casey,187
+OK,M,2015,Jordan,187
+OK,F,1997,,377
+OK,F,1976,Linda,779
+,F,1982,Mary,75
+OK,M,2005,Robert,183
+OK,F,2008,alex,655
+,F,1920,Mary,10
+OK,M,1988,John,323
+OK,F,1967,Casey,8
+OK,F,1950,Jennifer,108
+OK,F,2012,Jordan,61
+OK,,1991,Patricia,413
+OK,F,2013,Casey,173
+OK,M,2006,Casey,25
+OK,F,1958,Patricia,123
+OK,M,1962,alex,
+OK,F,1990,Jennifer,244
+OK,F,1979,Taylor,87
+OK,F,1985,,627
+OK,M,1968,Michael,109
+OK,M,1930,Robert,232
 OK,M,,Jordan,162
-OK, M ,1918.0, Casey ,22
-OK,M,1915.0,Michael,91
-OK,F,2000.0,Patricia,159
-OK,M,2012.0,John,28
- OK ,F,1976.0,Jennifer,364
-OK,F,1962.0,Casey,77
-OK,F,1942.0,,15
-OK,F,1931.0,Linda,222
-,F,1979.0,Jordan,
-OK,M,2002.0,Alex,143
-OK,,2010.0,alex,9
-OK,M,2022.0,Casey,380
-OK,F,1934.0,Linda,67
-OK,,1978.0,James,875
-OK,M,1927.0,Michael,523
-OK,F,2012.0,Patricia,90
-OK,,1935.0,Taylor,19
-OK,F,1942.0,,410
-OK,F,1970.0,Mary,829
-OK,M,1958.0,Michael,420
-OK,,1946.0, Mary ,346
-OK,M,2012.0,Jordan,323
- OK , F ,1933.0,James,75
- OK ,M,1993.0,jordan,99
-OK,M,2016.0,james,67
-OK,M,1974.0,James,790
-OK, F ,2006.0,Alex,14
-,F,2002.0,Taylor,229
-OK,M,1947.0,Robert,13
-OK,F,1997.0, Patricia ,323
- OK ,F,1975.0, Mary ,281
-OK,M,2014.0,Jordan,260
-OK,M,1971.0,Alex,201
-OK, M ,1976.0,Michael,13
- OK ,F,2006.0,Linda,39
- OK ,M,1969.0,James,230
-OK,F,2011.0,Taylor,265
-OK,M,1979.0, Mary ,233
-OK,M,2005.0,James,166
- OK ,M,, James ,61
-OK,F,1976.0,Taylor,110
-OK,M,1919.0,John,35
-OK,M,1968.0,Robert,7
-OK,M,2005.0,John,609
-OK,M,1934.0,John,15
- OK ,F,2015.0,Mary,180
-OK,F,1944.0,Alex,1220
-OK, F ,2000.0,Mary,181
-OK,F,2002.0,Alex,369
-OK,M,1964.0, John ,357
-OK,M,2017.0,James,414
-OK,F,1975.0,Jordan,292
-OK,M,1946.0,Robert,170
-OK,M,2021.0,Taylor,321
-OK,F,1952.0,Jordan,192
-OK,M,1966.0,Robert,363
-OK,F,1912.0,taylor,77
- OK ,M,2017.0,Casey,762
-OK,M,1997.0,Michael,39
-OK,,2022.0,Michael,37
-OK, M ,1987.0,Michael,593
-OK,,1913.0,John,6
-OK,M,2006.0,James,14
-OK,M,1943.0,Jordan,28
-OK,F,1986.0,Casey,82
-OK,F,1965.0,Linda,707
-OK,M,2021.0,Robert,7
-OK,F,1921.0,Casey,76
-OK, M ,1970.0,Taylor,71
-OK,F,1993.0,Casey,811
-OK,,1927.0,linda,38
-OK,M,1969.0,Casey,185
-OK,M,2007.0, Casey ,38
-OK,F,2000.0,Jennifer,58
-OK,M,1946.0, Taylor ,163
- OK ,F,1919.0,Jennifer,66
-OK,M,1949.0,Taylor,557
- OK ,M,1967.0,Alex,97
-OK,M,1962.0,Taylor,100
- OK ,F,2007.0,Jordan,304
-OK,F,1930.0,Taylor,6
-OK,M,2017.0,Robert,11
-OK,,2004.0,John,
-OK,M,1932.0,Casey,
-OK,M,1942.0,Alex,465
-OK,M,1967.0,Robert,371
-OK,F,1986.0,Robert,425
-OK,M,2000.0,,30
- OK ,M,1933.0,John,20
-OK,M,1961.0,Casey,774
-OK,F,1974.0,Mary,188
- OK ,M,1956.0,Patricia,15
-OK,F,2005.0,Mary,9
- OK ,F,1970.0,Linda,89
-OK,F,1992.0,Patricia,119
-OK,M,1992.0,,19
-OK,M,1980.0,james,476
-OK,F,1937.0,Casey,
-OK,F,1969.0,jennifer,16
-OK,F,1946.0,Jordan,94
- OK ,M,1976.0,Alex,404
-OK,F,1976.0,Mary,28
-OK, M ,2008.0,Jordan,
-OK,F,1997.0,Jordan,111
-OK,,2003.0,Michael,20
-OK,M,1991.0,Alex,262
-OK,F,1980.0, Mary ,
-OK, M ,1996.0,Robert,310
-,F,1917.0,taylor,41
-OK,M,1920.0,John,250
-OK,,1950.0,Jordan,73
-OK,F,1954.0,Alex,5
-OK,F,2001.0,Alex,43
-OK, F ,,Jordan,79
-OK,M,1988.0,Taylor,557
-OK,M,1972.0,James,530
-OK,F,1961.0,Patricia,
-OK,M,1952.0, Michael ,15
-OK, M ,2004.0,Jordan,78
-OK,M,2001.0,Casey,307
-OK, M ,1925.0,Robert,17
-OK, M ,1960.0,John,
-OK,M,1937.0,Alex,61
-OK,M,2001.0,Jordan,5
+OK,M,1918,Casey,22
+OK,M,1915,Michael,91
+OK,F,2000,Patricia,159
+OK,M,2012,John,28
+OK,F,1976,Jennifer,364
+OK,F,1962,Casey,77
+OK,F,1942,,15
+OK,F,1931,Linda,222
+,F,1979,Jordan,
+OK,M,2002,Alex,143
+OK,,2010,alex,9
+OK,M,2022,Casey,380
+OK,F,1934,Linda,67
+OK,,1978,James,875
+OK,M,1927,Michael,523
+OK,F,2012,Patricia,90
+OK,,1935,Taylor,19
+OK,F,1942,,410
+OK,F,1970,Mary,829
+OK,M,1958,Michael,420
+OK,,1946,Mary,346
+OK,M,2012,Jordan,323
+OK,F,1933,James,75
+OK,M,1993,jordan,99
+OK,M,2016,james,67
+OK,M,1974,James,790
+OK,F,2006,Alex,14
+,F,2002,Taylor,229
+OK,M,1947,Robert,13
+OK,F,1997,Patricia,323
+OK,F,1975,Mary,281
+OK,M,2014,Jordan,260
+OK,M,1971,Alex,201
+OK,M,1976,Michael,13
+OK,F,2006,Linda,39
+OK,M,1969,James,230
+OK,F,2011,Taylor,265
+OK,M,1979,Mary,233
+OK,M,2005,James,166
+OK,M,,James,61
+OK,F,1976,Taylor,110
+OK,M,1919,John,35
+OK,M,1968,Robert,7
+OK,M,2005,John,609
+OK,M,1934,John,15
+OK,F,2015,Mary,180
+OK,F,1944,Alex,1220
+OK,F,2000,Mary,181
+OK,F,2002,Alex,369
+OK,M,1964,John,357
+OK,M,2017,James,414
+OK,F,1975,Jordan,292
+OK,M,1946,Robert,170
+OK,M,2021,Taylor,321
+OK,F,1952,Jordan,192
+OK,M,1966,Robert,363
+OK,F,1912,taylor,77
+OK,M,2017,Casey,762
+OK,M,1997,Michael,39
+OK,,2022,Michael,37
+OK,M,1987,Michael,593
+OK,,1913,John,6
+OK,M,2006,James,14
+OK,M,1943,Jordan,28
+OK,F,1986,Casey,82
+OK,F,1965,Linda,707
+OK,M,2021,Robert,7
+OK,F,1921,Casey,76
+OK,M,1970,Taylor,71
+OK,F,1993,Casey,811
+OK,,1927,linda,38
+OK,M,1969,Casey,185
+OK,M,2007,Casey,38
+OK,F,2000,Jennifer,58
+OK,M,1946,Taylor,163
+OK,F,1919,Jennifer,66
+OK,M,1949,Taylor,557
+OK,M,1967,Alex,97
+OK,M,1962,Taylor,100
+OK,F,2007,Jordan,304
+OK,F,1930,Taylor,6
+OK,M,2017,Robert,11
+OK,,2004,John,
+OK,M,1932,Casey,
+OK,M,1942,Alex,465
+OK,M,1967,Robert,371
+OK,F,1986,Robert,425
+OK,M,2000,,30
+OK,M,1933,John,20
+OK,M,1961,Casey,774
+OK,F,1974,Mary,188
+OK,M,1956,Patricia,15
+OK,F,2005,Mary,9
+OK,F,1970,Linda,89
+OK,F,1992,Patricia,119
+OK,M,1992,,19
+OK,M,1980,james,476
+OK,F,1937,Casey,
+OK,F,1969,jennifer,16
+OK,F,1946,Jordan,94
+OK,M,1976,Alex,404
+OK,F,1976,Mary,28
+OK,M,2008,Jordan,
+OK,F,1997,Jordan,111
+OK,,2003,Michael,20
+OK,M,1991,Alex,262
+OK,F,1980,Mary,
+OK,M,1996,Robert,310
+,F,1917,taylor,41
+OK,M,1920,John,250
+OK,,1950,Jordan,73
+OK,F,1954,Alex,5
+OK,F,2001,Alex,43
+OK,F,,Jordan,79
+OK,M,1988,Taylor,557
+OK,M,1972,James,530
+OK,F,1961,Patricia,
+OK,M,1952,Michael,15
+OK,M,2004,Jordan,78
+OK,M,2001,Casey,307
+OK,M,1925,Robert,17
+OK,M,1960,John,
+OK,M,1937,Alex,61
+OK,M,2001,Jordan,5
 OK,F,,Alex,95
-OK,F,1990.0, Patricia ,434
-OK,M,1918.0, Taylor ,6
- OK ,M,2022.0,John,154
-OK,M,1980.0,Alex,269
- OK , M ,1924.0,John,16
-OK,F,2003.0,Patricia,416
-OK,,1928.0,Casey,23
-OK,M,1937.0,John,21
- OK ,M,1952.0,Casey,20
-OK,F,1947.0,Jordan,275
-OK,F,1972.0,Patricia,18
-OK,F,1936.0,Jordan,8
-OK,M,1996.0,Jordan,25
-OK, M ,1963.0,Casey,556
-OK, F ,2017.0,Taylor,592
-OK,F,1940.0,Casey,56
-OK,M,1926.0,Taylor,173
-OK, M ,1984.0,Casey,69
-OK,F,1951.0,Alex,93
-OK,M,1954.0,Robert,30
-OK,M,1950.0,Robert,1051
-OK,F,1998.0, Jordan ,
-OK,F,2009.0,Linda,507
-OK,M,1993.0,John,456
-OK,F,2022.0,Taylor,70
-OK,M,2001.0,Alex,708
-OK,M,1965.0,Michael,378
-OK,F,2007.0,Patricia,375
-,M,1991.0,Michael,428
-OK,M,2017.0,Patricia,5
-OK,F,1988.0,Patricia,115
-OK, M ,2020.0,Taylor,27
-,F,1911.0, Jennifer ,74
- OK ,M,1967.0,James,
-OK,F,1934.0,Linda,67
-OK, M ,1977.0,Jordan,131
-OK,M,1950.0,Patricia,204
-OK,M,1924.0,Alex,57
- OK ,M,1947.0,Alex,28
-OK,M,1987.0,Jordan,1163
-OK,M,2001.0,Robert,95
-OK,M,2001.0,John,27
-OK,F,1985.0,,91
-OK,M,1950.0,Michael,40
-OK,F,1969.0,Taylor,184
-OK, M ,,Jordan,174
-OK,M,1952.0,James,833
-,,1928.0,Taylor,7
-OK,M,1991.0,casey,66
-OK,F,1997.0,mary,610
-OK,F,1993.0,Mary,433
-OK,F,1981.0,jordan,847
-,M,1923.0,Michael,6
-OK,M,1976.0,Robert,
-OK, M ,1964.0,Casey,194
-OK,M,1922.0,Taylor,13
-OK,M,1958.0,James,84
-OK,M,1916.0, Jordan ,19
-OK,,1956.0,Robert,
-OK,F,1995.0,Jordan,434
-OK,F,1912.0,,5
- OK ,M,2007.0,Alex,133
-OK,F,1934.0,Taylor,293
-OK, M ,1995.0,Taylor,712
-OK,F,1966.0,Patricia,720
- OK ,M,1987.0,Taylor,477
-OK,F,1960.0,,547
-,F,1973.0,Taylor,
-OK,F,2012.0,linda,547
-OK,M,1997.0,Casey,446
-OK,M,1932.0, Jordan ,114
- OK ,,1953.0,Alex,527
-OK, F ,1995.0,Casey,771
-OK,M,2011.0,James,42
-OK,M,1994.0,James,52
-OK,M,1991.0,Taylor,294
-OK,M,1984.0,Michael,473
- OK ,F,1979.0,Jennifer,174
-OK,M,2002.0,John,72
-OK,M,2000.0,James,186
-OK,M,1983.0,Linda,422
-OK,M,1966.0,Casey,
-OK,,1983.0,Jennifer,730
-OK,F,1952.0,Jordan,192
-OK,M,1938.0,Jordan,589
+OK,F,1990,Patricia,434
+OK,M,1918,Taylor,6
+OK,M,2022,John,154
+OK,M,1980,Alex,269
+OK,M,1924,John,16
+OK,F,2003,Patricia,416
+OK,,1928,Casey,23
+OK,M,1937,John,21
+OK,M,1952,Casey,20
+OK,F,1947,Jordan,275
+OK,F,1972,Patricia,18
+OK,F,1936,Jordan,8
+OK,M,1996,Jordan,25
+OK,M,1963,Casey,556
+OK,F,2017,Taylor,592
+OK,F,1940,Casey,56
+OK,M,1926,Taylor,173
+OK,M,1984,Casey,69
+OK,F,1951,Alex,93
+OK,M,1954,Robert,30
+OK,M,1950,Robert,1051
+OK,F,1998,Jordan,
+OK,F,2009,Linda,507
+OK,M,1993,John,456
+OK,F,2022,Taylor,70
+OK,M,2001,Alex,708
+OK,M,1965,Michael,378
+OK,F,2007,Patricia,375
+,M,1991,Michael,428
+OK,M,2017,Patricia,5
+OK,F,1988,Patricia,115
+OK,M,2020,Taylor,27
+,F,1911,Jennifer,74
+OK,M,1967,James,
+OK,F,1934,Linda,67
+OK,M,1977,Jordan,131
+OK,M,1950,Patricia,204
+OK,M,1924,Alex,57
+OK,M,1947,Alex,28
+OK,M,1987,Jordan,1163
+OK,M,2001,Robert,95
+OK,M,2001,John,27
+OK,F,1985,,91
+OK,M,1950,Michael,40
+OK,F,1969,Taylor,184
+OK,M,,Jordan,174
+OK,M,1952,James,833
+,,1928,Taylor,7
+OK,M,1991,casey,66
+OK,F,1997,mary,610
+OK,F,1993,Mary,433
+OK,F,1981,jordan,847
+,M,1923,Michael,6
+OK,M,1976,Robert,
+OK,M,1964,Casey,194
+OK,M,1922,Taylor,13
+OK,M,1958,James,84
+OK,M,1916,Jordan,19
+OK,,1956,Robert,
+OK,F,1995,Jordan,434
+OK,F,1912,,5
+OK,M,2007,Alex,133
+OK,F,1934,Taylor,293
+OK,M,1995,Taylor,712
+OK,F,1966,Patricia,720
+OK,M,1987,Taylor,477
+OK,F,1960,,547
+,F,1973,Taylor,
+OK,F,2012,linda,547
+OK,M,1997,Casey,446
+OK,M,1932,Jordan,114
+OK,,1953,Alex,527
+OK,F,1995,Casey,771
+OK,M,2011,James,42
+OK,M,1994,James,52
+OK,M,1991,Taylor,294
+OK,M,1984,Michael,473
+OK,F,1979,Jennifer,174
+OK,M,2002,John,72
+OK,M,2000,James,186
+OK,M,1983,Linda,422
+OK,M,1966,Casey,
+OK,,1983,Jennifer,730
+OK,F,1952,Jordan,192
+OK,M,1938,Jordan,589
 OK,F,,,73
-OK,F,1912.0,,5
-OK, M ,1990.0, John ,578
-OK,M,2011.0,Taylor,10
-OK,F,1948.0,Alex,9
-OK,M,1951.0,Michael,566
-OK,F,1981.0,Taylor,199
-OK,M,1955.0,Jennifer,290
-OK,F,1978.0,Jordan,349
-OK,M,1942.0,John,77
-OK,F,1941.0,,698
- OK ,M,1953.0,Alex,80
-OK, M ,1964.0,Jordan,465
-OK,M,1986.0,,55
-OK,M,1958.0,Casey,748
-OK,F,1984.0,patricia,415
-OK, M ,1937.0,Jordan,
-OK, M ,2004.0, Robert ,
-OK,,1932.0,Taylor,17
-OK,F,1983.0,Mary,18
-OK,F,1913.0,Jordan,109
-OK,F,2019.0,Patricia,13
- OK ,M,1913.0,Jordan,65
-OK,M,1993.0,Michael,266
-OK,F,1991.0, Casey ,269
-OK,F,1937.0,Patricia,158
-OK,M,2001.0,Linda,317
-OK,F,2017.0,Casey,15
-OK,F,1987.0,Patricia,243
-OK,M,1977.0,Robert,287
-OK,F,1932.0,Alex,8
-OK,M,1978.0,Michael,338
- OK , M ,1948.0,Taylor,224
-OK,M,1950.0,Alex,217
-OK,M,1981.0,Jordan,385
-OK,M,1976.0,Jordan,129
-OK,M,1997.0,Taylor,57
-,M,1946.0,Casey,15
- OK ,M,1993.0,Casey,618
-OK,,1959.0,Linda,1092
-OK, F ,1974.0,Taylor,474
-OK,F,1985.0,Mary,21
-OK,F,1988.0,Jordan,387
-OK,M,, Michael ,49
-OK,F,1991.0,Taylor,654
-OK, M ,2003.0,Taylor,656
-OK,F,1965.0,casey,34
-OK,M,2000.0,,21
-OK,M,1955.0,Taylor,1112
-OK,F,1933.0,Alex,41
-OK,M,1974.0,Alex,245
-OK,M,1987.0,Alex,224
-OK,M,1928.0,John,7
-OK,F,1984.0,Mary,
-OK,M,1988.0,alex,46
-OK,M,1954.0,,244
-,F,2014.0,Alex,114
-OK,,1980.0,John,375
-OK,F,2005.0,Patricia,
+OK,F,1912,,5
+OK,M,1990,John,578
+OK,M,2011,Taylor,10
+OK,F,1948,Alex,9
+OK,M,1951,Michael,566
+OK,F,1981,Taylor,199
+OK,M,1955,Jennifer,290
+OK,F,1978,Jordan,349
+OK,M,1942,John,77
+OK,F,1941,,698
+OK,M,1953,Alex,80
+OK,M,1964,Jordan,465
+OK,M,1986,,55
+OK,M,1958,Casey,748
+OK,F,1984,patricia,415
+OK,M,1937,Jordan,
+OK,M,2004,Robert,
+OK,,1932,Taylor,17
+OK,F,1983,Mary,18
+OK,F,1913,Jordan,109
+OK,F,2019,Patricia,13
+OK,M,1913,Jordan,65
+OK,M,1993,Michael,266
+OK,F,1991,Casey,269
+OK,F,1937,Patricia,158
+OK,M,2001,Linda,317
+OK,F,2017,Casey,15
+OK,F,1987,Patricia,243
+OK,M,1977,Robert,287
+OK,F,1932,Alex,8
+OK,M,1978,Michael,338
+OK,M,1948,Taylor,224
+OK,M,1950,Alex,217
+OK,M,1981,Jordan,385
+OK,M,1976,Jordan,129
+OK,M,1997,Taylor,57
+,M,1946,Casey,15
+OK,M,1993,Casey,618
+OK,,1959,Linda,1092
+OK,F,1974,Taylor,474
+OK,F,1985,Mary,21
+OK,F,1988,Jordan,387
+OK,M,,Michael,49
+OK,F,1991,Taylor,654
+OK,M,2003,Taylor,656
+OK,F,1965,casey,34
+OK,M,2000,,21
+OK,M,1955,Taylor,1112
+OK,F,1933,Alex,41
+OK,M,1974,Alex,245
+OK,M,1987,Alex,224
+OK,M,1928,John,7
+OK,F,1984,Mary,
+OK,M,1988,alex,46
+OK,M,1954,,244
+,F,2014,Alex,114
+OK,,1980,John,375
+OK,F,2005,Patricia,
 OK,F,,,73
-OK,,1999.0,Jennifer,638
- OK , F ,1960.0,Jennifer,130
-,F,1966.0,jordan,341
-OK,F,1973.0,Casey,1016
-OK,F,1977.0,Linda,362
-OK,F,1927.0,jordan,6
-,,1965.0,Jordan,192
-OK,M,1925.0,Jordan,239
-OK,M,1982.0,Alex,633
-OK,M,1944.0,Michael,46
-OK,F,1964.0,Jennifer,57
-OK,F,1958.0,Jennifer,345
-,F,1984.0,Taylor,52
-OK,F,2001.0,Mary,172
-OK,M,2021.0,Casey,5
-OK,F,1945.0,Casey,929
-OK,M,1960.0,taylor,631
-OK,M,2013.0,John,
- OK ,M,1997.0,jordan,328
-OK,M,2018.0,Jordan,7
-OK,M,1947.0,Jordan,566
+OK,,1999,Jennifer,638
+OK,F,1960,Jennifer,130
+,F,1966,jordan,341
+OK,F,1973,Casey,1016
+OK,F,1977,Linda,362
+OK,F,1927,jordan,6
+,,1965,Jordan,192
+OK,M,1925,Jordan,239
+OK,M,1982,Alex,633
+OK,M,1944,Michael,46
+OK,F,1964,Jennifer,57
+OK,F,1958,Jennifer,345
+,F,1984,Taylor,52
+OK,F,2001,Mary,172
+OK,M,2021,Casey,5
+OK,F,1945,Casey,929
+OK,M,1960,taylor,631
+OK,M,2013,John,
+OK,M,1997,jordan,328
+OK,M,2018,Jordan,7
+OK,M,1947,Jordan,566
 OK,M,,Michael,215
-OK,F,1994.0,Alex,272
- OK ,M,2021.0,James,31
- OK , M ,1972.0,Michael,650
-OK,M,1944.0,Taylor,447
- OK ,F,2009.0,Casey,24
-OK,F,1950.0,Alex,413
-,M,1973.0,Alex,448
-OK, M ,1965.0,Taylor,395
-OK,F,2021.0,Casey,12
-OK,M,1978.0,Jordan,392
-OK,,1913.0,Linda,61
-OK,F,2007.0,Alex,356
-OK,F,1954.0,,172
-OK,F,1959.0,Casey,239
-,,1996.0,James,857
-OK,F,2019.0,Linda,75
-OK,M,1914.0,John,13
-OK,F,1962.0,Taylor,666
-OK,M,1956.0,john,201
-OK,F,1957.0,Jennifer,62
-OK,F,2007.0,Jennifer,1120
-OK,M,1986.0,Robert,640
-OK,F,1998.0,Alex,15
-,F,1948.0,linda,28
-OK, F ,1922.0,Jennifer,72
-,F,1938.0,Jennifer,115
-OK, F ,1972.0,Mary,765
-OK,F,1974.0,James,123
-OK,F,1912.0,Jordan,8
- OK ,F,1976.0,Alex,34
-OK,M,1999.0,Taylor,150
-OK,F,1989.0,Casey,
+OK,F,1994,Alex,272
+OK,M,2021,James,31
+OK,M,1972,Michael,650
+OK,M,1944,Taylor,447
+OK,F,2009,Casey,24
+OK,F,1950,Alex,413
+,M,1973,Alex,448
+OK,M,1965,Taylor,395
+OK,F,2021,Casey,12
+OK,M,1978,Jordan,392
+OK,,1913,Linda,61
+OK,F,2007,Alex,356
+OK,F,1954,,172
+OK,F,1959,Casey,239
+,,1996,James,857
+OK,F,2019,Linda,75
+OK,M,1914,John,13
+OK,F,1962,Taylor,666
+OK,M,1956,john,201
+OK,F,1957,Jennifer,62
+OK,F,2007,Jennifer,1120
+OK,M,1986,Robert,640
+OK,F,1998,Alex,15
+,F,1948,linda,28
+OK,F,1922,Jennifer,72
+,F,1938,Jennifer,115
+OK,F,1972,Mary,765
+OK,F,1974,James,123
+OK,F,1912,Jordan,8
+OK,F,1976,Alex,34
+OK,M,1999,Taylor,150
+OK,F,1989,Casey,
 OK,M,,Alex,11
- OK ,M,1946.0,John,11
-OK,M,2018.0,John,345
-OK,F,1953.0, Taylor ,803
- OK ,M,1996.0,Michael,22
-,F,1973.0,Patricia,56
-OK,F,1989.0,,324
-OK,F,1965.0,casey,34
-OK,,2011.0,Alex,34
-OK,,1948.0,Jordan,22
-OK,M,1938.0,Michael,135
-OK, F ,1916.0,Casey,8
- OK ,,1944.0,Jennifer,53
- OK ,M,1995.0,Jordan,1246
-OK,M,1927.0,James,15
- OK , F ,1936.0,jennifer,123
-OK,M,1984.0,Jordan,
-OK,F,1959.0,Jennifer,19
-OK,M,1936.0,James,21
-OK,F,1926.0,linda,7
-OK,M,1927.0,John,63
-OK,M,1951.0, Jordan ,749
-,F,2015.0,Linda,326
-OK,F,1996.0,Alex,19
-OK,M,1966.0,james,451
-OK,M,1962.0,James,372
- OK ,M,1941.0,Casey,17
-OK,M,1940.0,James,98
-OK,F,2015.0,Patricia,32
-OK,M,1979.0,Jordan,487
-OK,,1996.0, Linda ,60
-OK,F,1999.0,,187
-OK,M,1998.0,Jordan,290
-OK,,1962.0,Patricia,598
-OK,F,1979.0,John,307
-OK,M,1956.0,James,631
+OK,M,1946,John,11
+OK,M,2018,John,345
+OK,F,1953,Taylor,803
+OK,M,1996,Michael,22
+,F,1973,Patricia,56
+OK,F,1989,,324
+OK,F,1965,casey,34
+OK,,2011,Alex,34
+OK,,1948,Jordan,22
+OK,M,1938,Michael,135
+OK,F,1916,Casey,8
+OK,,1944,Jennifer,53
+OK,M,1995,Jordan,1246
+OK,M,1927,James,15
+OK,F,1936,jennifer,123
+OK,M,1984,Jordan,
+OK,F,1959,Jennifer,19
+OK,M,1936,James,21
+OK,F,1926,linda,7
+OK,M,1927,John,63
+OK,M,1951,Jordan,749
+,F,2015,Linda,326
+OK,F,1996,Alex,19
+OK,M,1966,james,451
+OK,M,1962,James,372
+OK,M,1941,Casey,17
+OK,M,1940,James,98
+OK,F,2015,Patricia,32
+OK,M,1979,Jordan,487
+OK,,1996,Linda,60
+OK,F,1999,,187
+OK,M,1998,Jordan,290
+OK,,1962,Patricia,598
+OK,F,1979,John,307
+OK,M,1956,James,631
 OK,F,,Jennifer,232
- OK ,F,1996.0,Jordan,600
-OK,M,1968.0,John,344
-,F,2002.0,John,109
- OK ,M,1968.0,Casey,1019
-OK,M,1912.0,Robert,14
-OK,F,1993.0,John,8
-OK, F ,1983.0,Patricia,401
+OK,F,1996,Jordan,600
+OK,M,1968,John,344
+,F,2002,John,109
+OK,M,1968,Casey,1019
+OK,M,1912,Robert,14
+OK,F,1993,John,8
+OK,F,1983,Patricia,401
 OK,M,,michael,663
-OK,F,2017.0,Mary,63
-OK, M ,1989.0,Robert,656
-,M,1959.0,Robert,6
-OK,M,1962.0,John,212
-OK,F,1968.0,Taylor,210
-OK,F,2003.0, Mary ,85
-OK,F,2004.0,Jordan,133
-,F,1933.0,Mary,75
-OK,F,1947.0,,14
-OK,F,1980.0,Taylor,649
-OK,F,1953.0,Jennifer,
-OK,F,2014.0,Mary,37
-OK,F,1943.0,Mary,409
-OK,,1988.0,Jordan,229
-OK, F ,1944.0,Jordan,298
-OK,F,2012.0,Alex,874
-OK,M,, Jordan ,233
-OK,M,2018.0,robert,148
-OK,M,2014.0,Michael,98
-OK,F,1968.0,alex,51
-OK, M ,1961.0,Robert,330
+OK,F,2017,Mary,63
+OK,M,1989,Robert,656
+,M,1959,Robert,6
+OK,M,1962,John,212
+OK,F,1968,Taylor,210
+OK,F,2003,Mary,85
+OK,F,2004,Jordan,133
+,F,1933,Mary,75
+OK,F,1947,,14
+OK,F,1980,Taylor,649
+OK,F,1953,Jennifer,
+OK,F,2014,Mary,37
+OK,F,1943,Mary,409
+OK,,1988,Jordan,229
+OK,F,1944,Jordan,298
+OK,F,2012,Alex,874
+OK,M,,Jordan,233
+OK,M,2018,robert,148
+OK,M,2014,Michael,98
+OK,F,1968,alex,51
+OK,M,1961,Robert,330
 OK,F,,Patricia,580
-OK,F,1955.0,Linda,6
-OK, M ,1970.0,Taylor,71
-OK,F,1952.0,jennifer,295
-OK,F,1984.0,Casey,320
- OK ,F,,Patricia,291
-OK,F,1964.0,Casey,50
-OK,F,1996.0,Casey,89
-OK, F ,2004.0,Alex,36
-OK, F ,2008.0,,9
-OK,F,1991.0,Mary,89
-OK,M,1932.0,Casey,
-OK,F,1917.0,Jordan,5
- OK ,F,1953.0,Linda,1228
- OK , M ,,Alex,78
-OK,M,1932.0,James,44
-,F,2020.0,taylor,
-OK,M,1926.0,John,71
-,M,1989.0,Michael,
-OK,F,1966.0,Mary,365
- OK ,M,1960.0,Michael,103
- OK ,M,1981.0,Casey,44
-OK,M,2008.0,John,139
-OK,M,1998.0,John,203
-OK,F,1926.0,Mary,40
- OK ,F,1938.0,Alex,14
-OK,M,1974.0,Taylor,347
-OK,M,1950.0,John,448
-OK,M,1975.0,James,92
-OK,M,1968.0,Alex,56
-OK,M,1911.0,James,8
-OK,F,1950.0,Linda,1188
-,M,1947.0,Casey,
-OK, F ,1941.0,Alex,91
- OK ,M,1985.0,James,28
- OK ,F,1949.0, Alex ,200
-OK,M,1999.0,,622
-OK,M,1929.0,Robert,18
- OK ,F,1923.0,Casey,85
- OK ,M,1998.0,Robert,
-OK,M,2014.0,John,241
-OK,,2017.0,mary,5
-OK,M,1971.0,John,962
-,M,1935.0,John,73
-OK,F,2010.0,Patricia,19
-OK,M,1931.0,,30
-OK, F ,1967.0,Taylor,38
-OK,M,1973.0,Michael,45
-OK,F,2000.0,Jordan,110
-OK,M,2010.0,Taylor,23
-OK,F,1910.0,Alex,6
-OK,F,1954.0,Casey,301
-OK,M,1939.0,James,59
-OK,F,2011.0,Linda,604
- OK ,F,1945.0,Alex,135
-OK,M,1931.0,Taylor,17
-,M,1965.0, John ,509
-OK,F,2001.0,Linda,168
-OK,F,1960.0,Taylor,108
-OK,F,1934.0,Jordan,5
-,F,1947.0,Patricia,742
-OK,M,1976.0,Taylor,445
-OK,F,1978.0,Patricia,85
-OK,,1974.0,Alex,549
-,F,1929.0,Alex,17
-OK,M,2012.0,Alex,10
-OK,M,2020.0,Jordan,694
-OK,M,1983.0,Michael,39
-,F,1940.0,Patricia,187
-OK,,2018.0,James,183
-OK,M,1948.0,James,104
-OK,F,1937.0,Linda,176
-OK,M,2021.0,Alex,
-OK,M,1936.0, Casey ,8
-OK,F,1982.0,Robert,658
-OK,M,1985.0,Casey,284
-OK,F,1952.0,Linda,38
-OK,M,1986.0,James,219
-OK,M,1931.0,Robert,157
-OK,F,1924.0,,195
+OK,F,1955,Linda,6
+OK,M,1970,Taylor,71
+OK,F,1952,jennifer,295
+OK,F,1984,Casey,320
+OK,F,,Patricia,291
+OK,F,1964,Casey,50
+OK,F,1996,Casey,89
+OK,F,2004,Alex,36
+OK,F,2008,,9
+OK,F,1991,Mary,89
+OK,M,1932,Casey,
+OK,F,1917,Jordan,5
+OK,F,1953,Linda,1228
+OK,M,,Alex,78
+OK,M,1932,James,44
+,F,2020,taylor,
+OK,M,1926,John,71
+,M,1989,Michael,
+OK,F,1966,Mary,365
+OK,M,1960,Michael,103
+OK,M,1981,Casey,44
+OK,M,2008,John,139
+OK,M,1998,John,203
+OK,F,1926,Mary,40
+OK,F,1938,Alex,14
+OK,M,1974,Taylor,347
+OK,M,1950,John,448
+OK,M,1975,James,92
+OK,M,1968,Alex,56
+OK,M,1911,James,8
+OK,F,1950,Linda,1188
+,M,1947,Casey,
+OK,F,1941,Alex,91
+OK,M,1985,James,28
+OK,F,1949,Alex,200
+OK,M,1999,,622
+OK,M,1929,Robert,18
+OK,F,1923,Casey,85
+OK,M,1998,Robert,
+OK,M,2014,John,241
+OK,,2017,mary,5
+OK,M,1971,John,962
+,M,1935,John,73
+OK,F,2010,Patricia,19
+OK,M,1931,,30
+OK,F,1967,Taylor,38
+OK,M,1973,Michael,45
+OK,F,2000,Jordan,110
+OK,M,2010,Taylor,23
+OK,F,1910,Alex,6
+OK,F,1954,Casey,301
+OK,M,1939,James,59
+OK,F,2011,Linda,604
+OK,F,1945,Alex,135
+OK,M,1931,Taylor,17
+,M,1965,John,509
+OK,F,2001,Linda,168
+OK,F,1960,Taylor,108
+OK,F,1934,Jordan,5
+,F,1947,Patricia,742
+OK,M,1976,Taylor,445
+OK,F,1978,Patricia,85
+OK,,1974,Alex,549
+,F,1929,Alex,17
+OK,M,2012,Alex,10
+OK,M,2020,Jordan,694
+OK,M,1983,Michael,39
+,F,1940,Patricia,187
+OK,,2018,James,183
+OK,M,1948,James,104
+OK,F,1937,Linda,176
+OK,M,2021,Alex,
+OK,M,1936,Casey,8
+OK,F,1982,Robert,658
+OK,M,1985,Casey,284
+OK,F,1952,Linda,38
+OK,M,1986,James,219
+OK,M,1931,Robert,157
+OK,F,1924,,195
