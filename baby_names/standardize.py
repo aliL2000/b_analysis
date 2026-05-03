@@ -55,7 +55,7 @@ def _clean_year(col: np.ndarray) -> np.ndarray:
 
 def _clean_name(col: np.ndarray) -> np.ndarray:
     """Strip leading/trailing whitespace."""
-    return np.char.strip(col)
+    return np.char.strip(np.char.title(col))
 
 
 def _clean_count(col: np.ndarray) -> np.ndarray:
