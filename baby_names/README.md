@@ -41,11 +41,11 @@ This project performs exploratory data analysis (EDA) on a dataset of baby names
 baby-names-exploration/
 │
 ├── data/
-│   ├── raw/                  # Original per-state CSV files
-│   └── processed/            # Cleaned, concatenated dataset
+│   ├── raw/                  # Original per-state CSV text files
+│   └── clean/                # Cleaned, concatenated dataset
 │
 ├── notebooks/
-│   ├── 01_ingestion.ipynb    # Data loading, null-filling, concatenation
+│   ├── standardize.py        # Data loading, null-filling, concatenation
 │   ├── 02_cleaning.ipynb     # Deduplication, type casting, validation
 │   ├── 03_eda.ipynb          # Core exploratory analysis
 │   └── 04_visualisation.ipynb# Charts and figures
@@ -65,23 +65,15 @@ baby-names-exploration/
 
 ## Pipeline Summary
 
-### 1. Ingestion (`01_ingestion.ipynb`)
+### 1. Standardization (`standardize.py`)
 
 - Iterate over all state CSV files using `np.loadtxt`
 - Detect and fill missing columns with typed nulls
-- Strip duplicate headers from multi-file concatenation
 - Reorder columns to canonical schema: `[state, sex, year, name, count]`
-- Concatenate all chunks into a single `final_data` array
-
-### 2. Cleaning (`02_cleaning.ipynb`)
-
-- Cast `year` and `count` to numeric types
 - Normalise `name` casing (title case)
 - Validate `state` values against known 50-state list
-- Filter to year range **1950–1980**
-- Remove rows with null `name` or invalid `count`
 
-### 3. EDA (`03_eda.ipynb`)
+### 2. EDA (`eda.py`)
 
 - Summary statistics: total records, unique names, state/year coverage
 - Top 10 names nationally per year
@@ -89,7 +81,7 @@ baby-names-exploration/
 - State-level heatmaps of name frequency
 - Male vs. female name popularity over time
 
-### 4. Visualisation (`04_visualisation.ipynb`)
+### 3. Visualisation (`04_visualisation.ipynb`)
 
 - Line charts: popularity of top names over time
 - Choropleth maps: regional name dominance by state
