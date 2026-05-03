@@ -21,8 +21,65 @@ import numpy as np
 EXPECTED_HEADERS = ["state", "sex", "year", "name", "count"]
 NULL_VALUE = ""  # sentinel written to CSV for missing/null cells
 
-INPUT_DIR  = Path("b_analysis/baby_names/data/raw/")
-OUTPUT_DIR = Path("b_analysis/baby_names/data/clean/")
+INPUT_DIR  = Path("b_analysis/baby_names/data/raw")
+OUTPUT_DIR = Path("b_analysis/baby_names/data/clean")
+
+# Vectorized string stripping via numpy char module
+_vstrip = np.vectorize(str.strip)
+
+
+def _clean_state(col: np.ndarray) -> np.ndarray:
+    """Strip whitespace, uppercase. Keep empty strings as null."""
+    cleaned = np.char.upper(np.char.strip(col))
+    return cleaned
+
+
+def _clean_sex(col: np.ndarray) -> np.ndarray:
+    """Strip whitespace, uppercase. Valid values: M, F, or empty."""
+    return np.char.upper(np.char.strip(col))
+
+
+def _clean_year(col: np.ndarray) -> np.ndarray:
+    """Strip whitespace, convert float strings (1943.0) to int strings (1943).
+    Leaves empty/null values as empty string."""
+    result = np.char.strip(col)
+    def _to_int_str(val: str) -> str:
+        if val == NULL_VALUE:
+            return NULL_VALUE
+        try:
+            return str(int(float(val)))
+        except ValueError:
+            return NULL_VALUE
+    return np.vectorize(_to_int_str)(result)
+
+
+def _clean_name(col: np.ndarray) -> np.ndarray:
+    """Strip leading/trailing whitespace."""
+    return np.char.strip(col)
+
+
+def _clean_count(col: np.ndarray) -> np.ndarray:
+    """Strip whitespace, cast float strings to int strings (601.0 -> 601).
+    Leaves empty/null values as empty string."""
+    result = np.char.strip(col)
+    def _to_int_str(val: str) -> str:
+        if val == NULL_VALUE:
+            return NULL_VALUE
+        try:
+            return str(int(float(val)))
+        except ValueError:
+            return NULL_VALUE
+    return np.vectorize(_to_int_str)(result)
+
+
+# Map each expected column to its cleaning function
+CLEANERS = {
+    "state": _clean_state,
+    "sex":   _clean_sex,
+    "year":  _clean_year,
+    "name":  _clean_name,
+    "count": _clean_count,
+}
 
 
 def read_csv_numpy(path: Path) -> tuple[list[str], np.ndarray]:
@@ -53,8 +110,13 @@ def standardize(
     headers: list[str], data: np.ndarray
 ) -> tuple[list[str], np.ndarray]:
     """
-    Reorder/add columns so EXPECTED_HEADERS come first.
-    Missing columns are filled with NULL_VALUE via numpy broadcasting.
+    Reorder/add columns so EXPECTED_HEADERS come first, then clean each column:
+      - state : strip whitespace, uppercase
+      - sex   : strip whitespace, uppercase (M/F)
+      - year  : strip, cast float string -> int string (1943.0 -> 1943)
+      - name  : strip whitespace
+      - count : strip, cast float string -> int string
+    Missing columns are filled with NULL_VALUE. Extra columns are preserved as-is.
     Returns (new_headers, new_data).
     """
     n_rows = data.shape[0]
@@ -63,12 +125,13 @@ def standardize(
     output_cols: list[np.ndarray] = []
     for col in EXPECTED_HEADERS:
         if col in col_index:
-            output_cols.append(data[:, col_index[col]])
+            raw = data[:, col_index[col]]
         else:
-            # Null column: 1-D array of empty strings, shape (n_rows,)
-            output_cols.append(np.full(n_rows, NULL_VALUE, dtype="U"))
+            raw = np.full(n_rows, NULL_VALUE, dtype="U")
+        # Apply the column-specific cleaner
+        output_cols.append(CLEANERS[col](raw))
 
-    # Append any extra columns that weren't in the expected set
+    # Append any extra columns that weren't in the expected set (no cleaning)
     extra_headers = [h for h in headers if h not in EXPECTED_HEADERS]
     for col in extra_headers:
         output_cols.append(data[:, col_index[col]])
@@ -78,7 +141,6 @@ def standardize(
     if n_rows == 0:
         new_data = np.empty((0, len(new_headers)), dtype="U")
     else:
-        # Stack 1-D column arrays -> 2-D array [n_rows, n_cols]
         new_data = (
             np.column_stack(output_cols) if output_cols
             else np.empty((n_rows, 0), dtype="U")
