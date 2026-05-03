@@ -81,7 +81,7 @@ baby-names-exploration/
 - State-level heatmaps of name frequency
 - Male vs. female name popularity over time
 
-### 3. Visualisation (`04_visualisation.ipynb`)
+### 3. Visualisation (`visualisation.py`)
 
 - Line charts: popularity of top names over time
 - Choropleth maps: regional name dominance by state
