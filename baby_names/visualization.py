@@ -81,45 +81,9 @@ def _int(val: str, default: int = 0) -> int:
         return default
 
 
-# ---------------------------------------------------------------------------
-# Section 1 — Summary statistics
-# ---------------------------------------------------------------------------
-
-def summary_statistics(data: np.ndarray) -> None:
-    print("\n" + "=" * 50)
-    print("1. SUMMARY STATISTICS")
-    print("=" * 50)
-
-    total_records = data.shape[0]
-    print(f"  Total records   : {total_records:,}")
-
-    # Unique non-null names
-    names = data[:, 3]
-    unique_names = np.unique(names[names != NULL])
-    print(f"  Unique names    : {len(unique_names):,}")
-
-    # State coverage
-    states = data[:, 0]
-    unique_states = np.unique(states[states != NULL])
-    print(f"  States covered  : {len(unique_states)}  {sorted(unique_states.tolist())}")
-
-    # Year coverage
-    years = data[:, 2]
-    valid_years = np.array([_int(y) for y in years if y != NULL])
-    if valid_years.size:
-        print(f"  Year range      : {valid_years.min()} – {valid_years.max()}")
-
-    # Null counts per column
-    col_names = ["state", "sex", "year", "name", "count"]
-    print("\n  Null counts per column:")
-    for i, col in enumerate(col_names):
-        nulls = np.sum(data[:, i] == NULL)
-        pct = nulls / total_records * 100
-        print(f"    {col:<8} : {nulls:,}  ({pct:.1f}%)")
-
 
 # ---------------------------------------------------------------------------
-# Section 2 — Top 10 names nationally per year
+# Section 1 — Top 10 names nationally per year
 # ---------------------------------------------------------------------------
 
 def top_names_per_year(data: np.ndarray, output_dir: Path, top_n: int = 10) -> None:
@@ -167,7 +131,7 @@ def top_names_per_year(data: np.ndarray, output_dir: Path, top_n: int = 10) -> N
 
 
 # ---------------------------------------------------------------------------
-# Section 3 — Year-over-year count trends for selected names
+# Section 2 — Year-over-year count trends for selected names
 # ---------------------------------------------------------------------------
 
 def yoy_trends(data: np.ndarray, output_dir: Path, selected_names: list[str]) -> None:
@@ -212,7 +176,7 @@ def yoy_trends(data: np.ndarray, output_dir: Path, selected_names: list[str]) ->
 
 
 # ---------------------------------------------------------------------------
-# Section 4 — State-level heatmap of name frequency
+# Section 3 — State-level heatmap of name frequency
 # ---------------------------------------------------------------------------
 
 def state_heatmap(data: np.ndarray, output_dir: Path) -> None:
@@ -265,7 +229,7 @@ def state_heatmap(data: np.ndarray, output_dir: Path) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Section 5 — Male vs. female name popularity over time
+# Section 4 — Male vs. female name popularity over time
 # ---------------------------------------------------------------------------
 
 def sex_over_time(data: np.ndarray, output_dir: Path, selected_names: list[str]) -> None:
@@ -353,11 +317,10 @@ def main() -> None:
 
     data = load_data(INPUT_DIR)
 
-    summary_statistics(data)
-    #top_names_per_year(data, out_dir)
-    #yoy_trends(data, out_dir, args.names)
-    #state_heatmap(data, out_dir)
-    #sex_over_time(data, out_dir, args.names)
+    top_names_per_year(data, out_dir)
+    yoy_trends(data, out_dir, args.names)
+    state_heatmap(data, out_dir)
+    sex_over_time(data, out_dir, args.names)
 
     print("\nEDA complete. Plots saved to:", out_dir)
 
