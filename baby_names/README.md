@@ -132,7 +132,5 @@ pip install -r requirements.txt
 
 ## Notes & Assumptions
 
-- Records with `count < 5` may be suppressed by the SSA for privacy; these appear as missing rows rather than zeros.
 - State abbreviations follow standard **USPS two-letter codes**.
-- Names are treated as **case-insensitive** (e.g. `MARY` and `Mary` are merged).
 - The dataset reflects **registered births only** and may not capture all births in the period.
