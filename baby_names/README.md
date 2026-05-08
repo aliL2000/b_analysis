@@ -41,21 +41,19 @@ This project performs exploratory data analysis (EDA) on a dataset of baby names
 baby-names-exploration/
 │
 ├── data/
-│   ├── raw/                  # Original per-state CSV text files
-│   └── clean/                # Cleaned, concatenated dataset
+│   ├── raw/                           # Original per-state CSV text files
+│   └── clean/                         # Cleaned, concatenated dataset
 │
 ├── notebooks/
-│   ├── standardize.py        # Data loading, null-filling, concatenation
-│   ├── 02_cleaning.ipynb     # Deduplication, type casting, validation
-│   ├── 03_eda.ipynb          # Core exploratory analysis
-│   └── 04_visualisation.ipynb# Charts and figures
-│
+│   ├── standardize.py                 # Data loading, null-filling, concatenation
+│   ├── eda.py                         # Core exploratory analysis
+│   └── visualisation.pu               # Charts and figures
+│ 
 ├── src/
-│   ├── load.py               # File ingestion pipeline (numpy-based)
-│   └── utils.py              # Helper functions
+│   └──  baby_name_data_generator.py   # File ingestion pipeline (numpy-based)
 │
-├── outputs/
-│   └── figures/              # Saved plots and charts
+├── eda/
+│   └── plots/                         # Saved plots and charts
 │
 ├── requirements.txt
 └── README.md
