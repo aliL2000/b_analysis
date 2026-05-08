@@ -90,9 +90,7 @@ baby-names-exploration/
 
 ## Key Questions to Answer
 
-- What were the **top 5 names** for boys and girls in each decade?
 - Which names experienced the **sharpest decline** after 1960?
-- Are there names that are popular in one region but virtually absent in others?
 - How did the **total number of registered births** change year-over-year?
 - Which names crossed gender lines — popular for both `M` and `F`?
 
@@ -129,11 +127,10 @@ pip install -r requirements.txt
 
 | Output | Description |
 |--------|-------------|
-| `plots/final_data.csv` | Clean, merged dataset ready for analysis |
-| `plots/top_names_by_decade.png` | Bar chart of top names per decade |
-| `plots/national_trend_lines.png` | Line chart of top-10 name trends 1950–1980 |
-| `plots/state_heatmap.html` | Interactive choropleth by state |
-| `plots/rank_bump_chart.png` | Name rank changes over the full period |
+| `plots/yoy_trends.png` |  Line chart of top names over time |
+| `plots/top_names_overall.png` | Bar chart of top names overall |
+| `plots/sex_over_time.png` | Line chart of gender prevalance over time |
+| `plots/state_heatmap.png` | Bar chart of state name counts overall |
 
 ---
 
