@@ -101,12 +101,21 @@ baby-names-exploration/
 ## Dependencies
 
 ```
-numpy
-pandas
+contourpy
+cycler
+fonttools
+kiwisolver
 matplotlib
-seaborn
-plotly
-jupyter
+numpy
+packaging
+pandas
+pillow
+py4j
+pyparsing
+pyspark
+python-dateutil
+six
+tzdata
 ```
 
 Install with:
@@ -120,11 +129,11 @@ pip install -r requirements.txt
 
 | Output | Description |
 |--------|-------------|
-| `processed/final_data.csv` | Clean, merged dataset ready for analysis |
-| `figures/top_names_by_decade.png` | Bar chart of top names per decade |
-| `figures/national_trend_lines.png` | Line chart of top-10 name trends 1950–1980 |
-| `figures/state_heatmap.html` | Interactive choropleth by state |
-| `figures/rank_bump_chart.png` | Name rank changes over the full period |
+| `plots/final_data.csv` | Clean, merged dataset ready for analysis |
+| `plots/top_names_by_decade.png` | Bar chart of top names per decade |
+| `plots/national_trend_lines.png` | Line chart of top-10 name trends 1950–1980 |
+| `plots/state_heatmap.html` | Interactive choropleth by state |
+| `plots/rank_bump_chart.png` | Name rank changes over the full period |
 
 ---
 
