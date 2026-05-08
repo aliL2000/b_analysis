@@ -47,7 +47,7 @@ baby-names-exploration/
 ├── notebooks/
 │   ├── standardize.py                 # Data loading, null-filling, concatenation
 │   ├── eda.py                         # Core exploratory analysis
-│   └── visualisation.pu               # Charts and figures
+│   └── visualisation.py               # Charts and figures
 │ 
 ├── src/
 │   └──  baby_name_data_generator.py   # File ingestion pipeline (numpy-based)
