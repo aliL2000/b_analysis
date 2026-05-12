@@ -12,7 +12,7 @@ import pandas as pd
 # ── Seed ──────────────────────────────────────────────────────────────────────
 RNG = np.random.default_rng(42)
 NUM_ROWS = 1_000_000
-OUTPUT_FILE = "netflix_data.csv"
+OUTPUT_FILE = "b_analysis/n_movies/data/raw/netflix_data.csv"
 CHUNK_SIZE = 100_000          # write in chunks to keep memory reasonable
 
 # ── Reference pools ───────────────────────────────────────────────────────────
