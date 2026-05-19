@@ -2,3 +2,4 @@ baby_names/data/clean/*
 n_movies/data/raw/*
 
 insights_failed_orders/data/raw/*
+s_analysis/*
